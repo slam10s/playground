@@ -13,6 +13,10 @@ Right now there is not a convenient way to view results from tournaments on the 
 - [Women's Singles](#)
 - [Women's Singles](#)
 
+## Updating Player Information
+
+Eventually I will include information here about making pull requests to update player information.
+
 ### License
 
 All data and files in this repository are licensed under the <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
