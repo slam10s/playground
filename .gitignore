@@ -1,0 +1,21 @@
+#sbw project
+temp
+.vscode
+credentials_.*
+config-dev.js
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Data repository
+package.json
+package-lock.json
+scripts
+.jshint*
+indexes
+private
+oracle
