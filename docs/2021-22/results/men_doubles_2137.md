@@ -35,26 +35,26 @@
 
 <a name="21-76336"></a>
 ~~~
-══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
   GPAC Individual
   Dates: Sep 17-18, 2021
   Host: College Of Saint Mary (W)
-══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight A
   > Main
-     QF     Janssen/Struffi  def. (4) Kitson/Rabellino     75
-     16     Kitson/Rabellino def.     Wagner/Gonsor        62
+     QF     Janssen/Struffi  def. (4) Kitson/Rabellino      75
+     16     Kitson/Rabellino def.     Wagner/Gonsor         62
   > Flight B
   > Main
-     QF     Ciotti/Hansen    def. (4) Sodorff/Waite        64
-     QF (3) Brocanelli/Sion  def.     Bindl/Springer       61
-     QF     Beke/Coy         def. (2) Arza/Heiss           64
-     16     Woodrow/VanRijs  def.     Nyugen/Tennant       76(3)
-     16     Sodorff/Waite    def.     Kelley/Johnson       63
-     16     Ciotti/Hansen    def. (4) Ayala/Thompson       62
-     16 (3) Brocanelli/Sion  def.     Mulder/Schorg        62
-     16     Bindl/Springer   def.     Bornemeier/Martin    62
-     16     Arza/Heiss       def.     DeLeo/Swaney         61
-     16     Beke/Coy         def. (2) Pacheco/Rodriguez Be 63
+     QF     Ciotti/Hansen    def. (4) Sodorff/Waite         64
+     QF (3) Brocanelli/Sion  def.     Bindl/Springer        61
+     QF     Beke/Coy         def. (2) Arza/Heiss            64
+     16     Woodrow/VanRijs  def.     Nyugen/Tennant        76(3)
+     16     Sodorff/Waite    def.     Kelley/Johnson        63
+     16     Ciotti/Hansen    def. (4) Ayala/Thompson        62
+     16 (3) Brocanelli/Sion  def.     Mulder/Schorg         62
+     16     Bindl/Springer   def.     Bornemeier/Martin     62
+     16     Arza/Heiss       def.     DeLeo/Swaney          61
+     16     Beke/Coy         def. (2) Pacheco/Rodriguez Be… 63
 ~~~
