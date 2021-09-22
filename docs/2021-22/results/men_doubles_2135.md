@@ -1,8 +1,7 @@
-<< WK 35 - Aug 30 - Sep 5 [>>](men_doubles_2136.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Men_](./men_doubles_2135.md) &#124; [Women](./women_doubles_2135.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Singles](./men_singles_2135.md) &#124; [_Doubles_](./men_doubles_2135.md)
+<< WK 35 - Aug 30 - Sep 5 [>>](men_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_doubles_2135.md) &#124; [Women](./women_doubles_2135.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2135.md) &#124; [*Doubles*](./men_doubles_2135.md)
 
 <a name="21-00238"></a>
-
-```
+```ruby
 ╔═════════════════════════════════════════════════════════════════════════════╗
 ║  Tyler Invite                                                               ║
 ║  Dates: Sep 3-4, 2021                                                       ║

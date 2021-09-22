@@ -1,7 +1,7 @@
-[<<](women_doubles_2136.md) WK 37 - Sep 13-19, 2021 [>>](women_doubles_2138.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Men](./men_doubles_2137.md) &#124; [*Women*](./women_doubles_2137.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Singles](./women_singles_2137.md) &#124; [*Doubles*](./women_doubles_2137.md)
+[<<](women_doubles_2136.md) WK 37 - Sep 13-19, 2021 [>>](women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2137.md) &#124; [*Women*](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2137.md) &#124; [*Doubles*](./women_doubles_2137.md)
 
 <a name="21-46904"></a>
-```
+```ruby
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
 ║  Elon Invitational                                                                ║
 ║  Dates: Sep 17-19, 2021                                                           ║
@@ -54,7 +54,7 @@
 ```
 
 <a name="21-47655"></a>
-```
+```ruby
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
 ║  NMSU Women's Aggie Invite                                                        ║
 ║  Dates: Sep 17-19, 2021                                                           ║
@@ -107,7 +107,7 @@
 ```
 
 <a name="21-14491"></a>
-```
+```ruby
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
 ║  Division II Women's Midwest ITA Regional Championships                           ║
 ║  Dates: Sep 18-20, 2021                                                           ║
@@ -192,7 +192,7 @@
 ```
 
 <a name="21-76336"></a>
-```
+```ruby
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
 ║  GPAC Individual                                                                  ║
 ║  Dates: Sep 17-18, 2021                                                           ║

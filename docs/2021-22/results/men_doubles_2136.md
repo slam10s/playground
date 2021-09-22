@@ -1,7 +1,7 @@
-[<<](men_doubles_2135.md) WK 36 - Sep 6-12, 2021 [>>](men_doubles_2137.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Men*](./men_doubles_2136.md) &#124; [Women](./women_doubles_2136.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Singles](./men_singles_2136.md) &#124; [*Doubles*](./men_doubles_2136.md)
+[<<](men_doubles_2135.md) WK 36 - Sep 6-12, 2021 [>>](men_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_doubles_2136.md) &#124; [Women](./women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2136.md) &#124; [*Doubles*](./men_doubles_2136.md)
 
 <a name="21-94373"></a>
-```
+```ruby
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  NMSU Fall invitational                                                                     ║
 ║  Dates: Sep 10-12, 2021                                                                     ║
@@ -64,7 +64,7 @@
 ```
 
 <a name="21-79025"></a>
-```
+```ruby
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  St. Mary's Invitational                                                                    ║
 ║  Dates: Sep 10-11, 2021                                                                     ║
@@ -142,7 +142,7 @@
 ```
 
 <a name="21-24367"></a>
-```
+```ruby
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  William Woods Invite                                                                       ║
 ║  Dates: Sep 11-12, 2021                                                                     ║
@@ -164,7 +164,7 @@
 ```
 
 <a name="21-22816"></a>
-```
+```ruby
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  Wingate Fall Invitational                                                                  ║
 ║  Dates: Sep 11-12, 2021                                                                     ║

@@ -1,7 +1,7 @@
-[<<](women_doubles_2135.md) WK 36 - Sep 6-12, 2021 [>>](women_doubles_2137.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Men](./men_doubles_2136.md) &#124; [*Women*](./women_doubles_2136.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Singles](./women_singles_2136.md) &#124; [*Doubles*](./women_doubles_2136.md)
+[<<](women_doubles_2135.md) WK 36 - Sep 6-12, 2021 [>>](women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2136.md) &#124; [*Women*](./women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2136.md) &#124; [*Doubles*](./women_doubles_2136.md)
 
 <a name="21-34233"></a>
-```
+```ruby
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║  Bill and Sandra Moore Invitational                                        ║
 ║  Dates: Sep 10-12, 2021                                                    ║
@@ -64,7 +64,7 @@
 ```
 
 <a name="21-48654"></a>
-```
+```ruby
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║  Liberty Invite                                                            ║
 ║  Dates: Sep 11-12, 2021                                                    ║
@@ -83,7 +83,7 @@
 ```
 
 <a name="21-66962"></a>
-```
+```ruby
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║  SIUE Cougar Invite                                                        ║
 ║  Dates: Sep 10-11, 2021                                                    ║
@@ -101,7 +101,7 @@
 ```
 
 <a name="21-31047"></a>
-```
+```ruby
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║  Angelo State SlamFest                                                     ║
 ║  Dates: Sep 10-11, 2021                                                    ║
@@ -153,7 +153,7 @@
 ```
 
 <a name="21-79025"></a>
-```
+```ruby
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║  St. Mary's Invitational                                                   ║
 ║  Dates: Sep 10-11, 2021                                                    ║
@@ -215,7 +215,7 @@
 ```
 
 <a name="21-24367"></a>
-```
+```ruby
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║  William Woods Invite                                                      ║
 ║  Dates: Sep 11-12, 2021                                                    ║
@@ -236,7 +236,7 @@
 ```
 
 <a name="21-22816"></a>
-```
+```ruby
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║  Wingate Fall Invitational                                                 ║
 ║  Dates: Sep 11-12, 2021                                                    ║
