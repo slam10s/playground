@@ -79,7 +79,7 @@
      QF     Jaime Sion              def. (2) Avery Martin            81
      16 (1) Parker Hansen           def.     Gavin Mulder            80
      16     Luke Johnson            def.     Josh Grosvenor          84
-     16     Bradyn Heiss            def. (5) Manuel Rodriguez Berdud 82
+     16     Bradyn Heiss            def. (5) Manuel Rodriguez Berdu… 82
      16     Jeremy Attrill          def. (3) Connor Kelley           80
      16     Cadyn Mannella          def. (4) Milo Ciotti             84
      16     Aaron Schorg            def.     Logan Bornemeier        85
@@ -89,6 +89,6 @@
      32     Cadyn Mannella          def.     Christian Ayala         97
   > Consolation
      QF     Josh Grosvenor          def.     Christian Ayala         84
-     QF (5) Manuel Rodriguez Berdud def.     Connor Kelley           82
+     QF (5) Manuel Rodriguez Berdu… def.     Connor Kelley           82
      QF     Zander Pacheco          def.     Jared Thompson          86
 ~~~

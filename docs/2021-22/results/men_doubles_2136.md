@@ -2,65 +2,65 @@
 
 <a name="21-94373"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   NMSU Fall invitational
   Dates: Sep 10-12, 2021
   Host: New Mexico State University (M)
-═══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Crimson Flight 1
   > East
-      F     Rastrojo/Deli             def.     Rodriguez Garceran/Sanch… 85
-     SF (1) Rastrojo/Deli             def.     Menard/Simecek            86
-     SF     Rodriguez Garceran/Sanch… def.     Dillon/Ziomber            85
-     QF (1) Menard/Simecek            def.     Delpino/Du                86
-     QF (4) Rastrojo/Deli             def.     Groves/Buzonics           86
-     QF     Dillon/Ziomber            def. (3) Clarke/Akkermans          87(5)
-     QF     Rodriguez Garceran/Sanch… def. (2) Tumosa/Straker-Meads      82
-     16     Delpino/Du                def.     Steele/Purne              87(6)
-     16 (4) Groves/Buzonics           def.     Popyrin/Dominguez         84
-     16     Rastrojo/Deli             def.     Larrea/Mere               85
-     16     Dillon/Ziomber            def.     Barranquero/Chhabra       82
-     16     Clarke/Akkermans          def. (3) Wand/Thomas               82
-     16     Rodriguez Garceran/Sanch… def.     Lock/Vega                 82
+      F     Rastrojo/Deli           def.     Rodriguez Garceran/San… 85
+     SF (1) Rastrojo/Deli           def.     Menard/Simecek          86
+     SF     Rodriguez Garceran/San… def.     Dillon/Ziomber          85
+     QF (1) Menard/Simecek          def.     Delpino/Du              86
+     QF (4) Rastrojo/Deli           def.     Groves/Buzonics         86
+     QF     Dillon/Ziomber          def. (3) Clarke/Akkermans        87(5)
+     QF     Rodriguez Garceran/San… def. (2) Tumosa/Straker-Meads    82
+     16     Delpino/Du              def.     Steele/Purne            87(6)
+     16 (4) Groves/Buzonics         def.     Popyrin/Dominguez       84
+     16     Rastrojo/Deli           def.     Larrea/Mere             85
+     16     Dillon/Ziomber          def.     Barranquero/Chhabra     82
+     16     Clarke/Akkermans        def. (3) Wand/Thomas             82
+     16     Rodriguez Garceran/San… def.     Lock/Vega               82
   > West
-      F     Barranquero/Chhabra       def.     Popyrin/Dominguez         Walkover
-     SF     Popyrin/Dominguez         def.     Steele/Purne              83
-     SF     Barranquero/Chhabra       def.     Lock/Vega                 85
-     QF     Popyrin/Dominguez         def.     Larrea/Mere               86
-     QF     Barranquero/Chhabra       def.     Wand/Thomas               85
+      F     Barranquero/Chhabra     def.     Popyrin/Dominguez       Walkover
+     SF     Popyrin/Dominguez       def.     Steele/Purne            83
+     SF     Barranquero/Chhabra     def.     Lock/Vega               85
+     QF     Popyrin/Dominguez       def.     Larrea/Mere             86
+     QF     Barranquero/Chhabra     def.     Wand/Thomas             85
   > North
-      F (4) Clarke/Akkermans          def. (3) Groves/Buzonics           87(9)
-     SF     Groves/Buzonics           def. (4) Delpino/Du                81
-     SF (3) Clarke/Akkermans          def. (2) Tumosa/Straker-Meads      85
+      F (4) Clarke/Akkermans        def. (3) Groves/Buzonics         87(9)
+     SF     Groves/Buzonics         def. (4) Delpino/Du              81
+     SF (3) Clarke/Akkermans        def. (2) Tumosa/Straker-Meads    85
   > 3-4 Playoff
-      F (1) Menard/Simecek            def.     Dillon/Ziomber            85
+      F (1) Menard/Simecek          def.     Dillon/Ziomber          85
   > South
-      F     Larrea/Mere               def.     Wand/Thomas               Walkover
+      F     Larrea/Mere             def.     Wand/Thomas             Walkover
   > Southwest
-      F     Steele/Purne              def.     Lock/Vega                 84
+      F     Steele/Purne            def.     Lock/Vega               84
   > Northwest
-      F     Tumosa/Straker-Meads      def. (2) Delpino/Du                83
+      F     Tumosa/Straker-Meads    def. (2) Delpino/Du              83
   > Crimson Flight 2
   > East
-      F     McDonald/Cano Sosa        def.     Garcia-Ripoll Ore/Salsin… 85
-     SF     McDonald/Cano Sosa        def.     Schaefer/Sulen            85
-     SF     Garcia-Ripoll Ore/Salsin… def.     Ford/Donovan              83
-     QF     McDonald/Cano Sosa        def.     Orellano/Dallmann         81
-     QF     Schaefer/Sulen            def.     Millet/Pries              81
-     QF     Ford/Donovan              def.     Diaz/Synnott              84
-     QF     Garcia-Ripoll Ore/Salsin… def.     Flanagan/Crawford         83
+      F     McDonald/Cano Sosa      def.     Garcia-Ripoll Ore/Sals… 85
+     SF     McDonald/Cano Sosa      def.     Schaefer/Sulen          85
+     SF     Garcia-Ripoll Ore/Sals… def.     Ford/Donovan            83
+     QF     McDonald/Cano Sosa      def.     Orellano/Dallmann       81
+     QF     Schaefer/Sulen          def.     Millet/Pries            81
+     QF     Ford/Donovan            def.     Diaz/Synnott            84
+     QF     Garcia-Ripoll Ore/Sals… def.     Flanagan/Crawford       83
   > West
-      F     Millet/Pries              def.     Flanagan/Crawford         83
-     SF     Millet/Pries              def.     Orellano/Dallmann         87(5)
-     SF     Flanagan/Crawford         def.     Diaz/Synnott              82
+      F     Millet/Pries            def.     Flanagan/Crawford       83
+     SF     Millet/Pries            def.     Orellano/Dallmann       87(5)
+     SF     Flanagan/Crawford       def.     Diaz/Synnott            82
   > 3-4 Playoff
-      F     Schaefer/Sulen            def.     Ford/Donovan              82
+      F     Schaefer/Sulen          def.     Ford/Donovan            82
   > South
-      F     Orellano/Dallmann         def.     Diaz/Synnott              83
+      F     Orellano/Dallmann       def.     Diaz/Synnott            83
   > Crimson added doubles match
   > Main
-      F     Barranquero/Chhabra       def.     Larrea/Mere               82
+      F     Barranquero/Chhabra     def.     Larrea/Mere             82
 ~~~
 
 <a name="21-79025"></a>
@@ -101,13 +101,13 @@
       F  Kimbell Cook/Huang      def.  Robertson/Barragan      Default
   > Flight B
   > East
-      F  Hunter/Krimbill         def.  Esteban Rodero/Tibbetts 64
+      F  Hunter/Krimbill         def.  Esteban Rodero/Tibbett… 64
      SF  Hunter/Krimbill         def.  Faryniarz/Azcui         76(5)
-     SF  Esteban Rodero/Tibbetts def.  Knoerr/Soler            63
+     SF  Esteban Rodero/Tibbett… def.  Knoerr/Soler            63
      QF  Hunter/Krimbill         def.  Farley/Silva            61
      QF  Faryniarz/Azcui         def.  Rios/Carandang          60
      QF  Knoerr/Soler            def.  Gates/Knight            62
-     QF  Esteban Rodero/Tibbetts def.  Cervantes/Gallinar      60
+     QF  Esteban Rodero/Tibbett… def.  Cervantes/Gallinar      60
   > West
       F  Farley/Silva            def.  Cervantes/Gallinar      62
      SF  Farley/Silva            def.  Rios/Carandang          61
@@ -143,24 +143,24 @@
 
 <a name="21-24367"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   William Woods Invite
   Dates: Sep 11-12, 2021
   Host: William Woods University (M)
-═══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Men's Doubles
   > Main
-      F  Corser/Sanoja             def.  Grumley/Shelepov          62
-     SF  Grumley/Shelepov          def.  Adamek/Neff               63
-     SF  Corser/Sanoja             def.  Szeri/Nunez               62
-     QF  Adamek/Neff               def.  Mukkaladyil/Salamanca De… 63
-     QF  Grumley/Shelepov          def.  Walker/Tsyrenov           61
-     QF  Corser/Sanoja             def.  Keiner/Rodriguez          61
-     QF  Szeri/Nunez               def.  Schneider/Schorr          75
-     16  Mukkaladyil/Salamanca De… def.  Cequea/King               75
-     16  Corser/Sanoja             def.  Cooke/Subert              63
-     16  Schneider/Schorr          def.  Harris/Papachrisanthou    63
+      F  Corser/Sanoja           def.  Grumley/Shelepov        62
+     SF  Grumley/Shelepov        def.  Adamek/Neff             63
+     SF  Corser/Sanoja           def.  Szeri/Nunez             62
+     QF  Adamek/Neff             def.  Mukkaladyil/Salamanca … 63
+     QF  Grumley/Shelepov        def.  Walker/Tsyrenov         61
+     QF  Corser/Sanoja           def.  Keiner/Rodriguez        61
+     QF  Szeri/Nunez             def.  Schneider/Schorr        75
+     16  Mukkaladyil/Salamanca … def.  Cequea/King             75
+     16  Corser/Sanoja           def.  Cooke/Subert            63
+     16  Schneider/Schorr        def.  Harris/Papachrisanthou… 63
 ~~~
 
 <a name="21-22816"></a>
