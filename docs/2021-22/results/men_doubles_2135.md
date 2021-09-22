@@ -57,4 +57,4 @@
   > Playoff 3
       F  Fiorito/Frequelin    def.  Fiala/Capone         64
 ~~~
-Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)
+Return to the [Top](./men_doubles_2135.md) &#124; [Home Page](../../index.md)

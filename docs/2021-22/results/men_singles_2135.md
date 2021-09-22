@@ -111,4 +111,4 @@
   > Playoff 3
       F  Mikaeel Woodman      def.  Iker Lorenzo Brull   61 63
 ~~~
-Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)
+Return to the [Top](./men_singles_2135.md) &#124; [Home Page](../../index.md)

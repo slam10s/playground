@@ -132,4 +132,4 @@
      R1  Yeva Kononovych      def.  Haylie Hunger        60 60
      R1  Ainoa Fabre          def.  Maria Alejandra San… 62 60
 ~~~
-Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)
+Return to the [Top](./women_singles_2135.md) &#124; [Home Page](../../index.md)

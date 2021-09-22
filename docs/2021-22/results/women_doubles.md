@@ -100,4 +100,4 @@
      16Q     Padberg/Beidacki     def.     Skjelstad/Mokhasi    98(5)
      16Q     Kuehnle/Eremina      def. (2) Zafeiri/Reisch       81
 ~~~
-Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)
+Return to the [Top](./women_doubles_2138.md) &#124; [Home Page](../../index.md)

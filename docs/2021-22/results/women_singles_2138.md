@@ -171,4 +171,4 @@
      16Q      Danica Malan         def.  (6) Brittany Lavenant    Walkover
      16Q      Sage Hills           def.  (2) Courtney Rittel      64 46 [4]
 ~~~
-Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)
+Return to the [Top](./women_singles_2138.md) &#124; [Home Page](../../index.md)

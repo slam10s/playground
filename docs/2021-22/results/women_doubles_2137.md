@@ -236,4 +236,4 @@
      QQ     Hastings/Thompson    def. (4) Buck/Johnson         60
      QQ     Phillips/Freudenburg def.     McDowall/Sae-eurng   63
 ~~~
-Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)
+Return to the [Top](./women_doubles_2137.md) &#124; [Home Page](../../index.md)

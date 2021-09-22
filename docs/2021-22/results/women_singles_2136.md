@@ -616,4 +616,4 @@
      R3  Reagan Sommariva     def.  KATHERINE MATTHEWS   61 62
      R2  Lena Friedrich       def.  Walker Gagnon        57 61 [3]
 ~~~
-Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)
+Return to the [Top](./women_singles_2136.md) &#124; [Home Page](../../index.md)

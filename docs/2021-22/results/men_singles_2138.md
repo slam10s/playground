@@ -14,30 +14,30 @@
 
 <a name="21-39721"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Mountain Regional Championship
   Dates: Sep 21-25, 2021
   Host: Brigham Young University (M)
-══════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
-      32  (1) James Davis           vs  (22) Nicolas Herrera Cue… Wed @ 11:15 (ET)
-      32  (9) Kyryll Kryvchun       vs  (20) Rafael AbdulSalam    Wed @ 11:15 (ET)
-      32      Sergi Mico Fenollar   vs       Francisco Gay        Wed @ 11:15 (ET)
-      32 (14) Louis Menard          vs  (30) Daniel Krulig        Wed @ 11:15 (ET)
-      32  (4) Matt Summers          vs       Zach Fuchs           Wed @ 11:15 (ET)
-      32      Mathias Gavelin       vs  (31) Robert Baylon        Wed @ 11:15 (ET)
-      32  (8) Francisco Bastias     vs       Bruno Casino         Wed @ 11:15 (ET)
-      32 (11) Eban Straker-Meads    vs  (21) Luka Soskic          Wed @ 11:15 (ET)
-      32 (32) Matheus Leite         vs  (12) Felipe Acosta        Wed @ 11:15 (ET)
-      32      Bodin Zarkovic        vs   (6) Bruno Caula          Wed @ 11:15 (ET)
-      32 (24) Francisco Bascon      vs  (16) Maciej Ziomber       Wed @ 11:15 (ET)
-      32 (23) David Cierny          vs   (3) Geronimo Busleiman   Wed @ 11:15 (ET)
-      32 (29) Matej Panik           vs  (15) Bruno Krenn          Wed @ 11:15 (ET)
-      32      Dominik Buzonics      vs   (5) Jack Barnett         Wed @ 11:15 (ET)
-      32      Tristan Sarap         vs  (13) Arda Azkara          Wed @ 12:45 (ET)
-      32 (28) Sebastian Buxman      vs   (2) Franco Capalbo       Wed @ 12:45 (ET)
+      32  (1) James Davis           vs  (22) Nicolas Herrera Cue… Wed @ 11:15
+      32  (9) Kyryll Kryvchun       vs  (20) Rafael AbdulSalam    Wed @ 11:15
+      32      Sergi Mico Fenollar   vs       Francisco Gay        Wed @ 11:15
+      32 (14) Louis Menard          vs  (30) Daniel Krulig        Wed @ 11:15
+      32  (4) Matt Summers          vs       Zach Fuchs           Wed @ 11:15
+      32      Mathias Gavelin       vs  (31) Robert Baylon        Wed @ 11:15
+      32  (8) Francisco Bastias     vs       Bruno Casino         Wed @ 11:15
+      32 (11) Eban Straker-Meads    vs  (21) Luka Soskic          Wed @ 11:15
+      32 (32) Matheus Leite         vs  (12) Felipe Acosta        Wed @ 11:15
+      32      Bodin Zarkovic        vs   (6) Bruno Caula          Wed @ 11:15
+      32 (24) Francisco Bascon      vs  (16) Maciej Ziomber       Wed @ 11:15
+      32 (23) David Cierny          vs   (3) Geronimo Busleiman   Wed @ 11:15
+      32 (29) Matej Panik           vs  (15) Bruno Krenn          Wed @ 11:15
+      32      Dominik Buzonics      vs   (5) Jack Barnett         Wed @ 11:15
+      32      Tristan Sarap         vs  (13) Arda Azkara          Wed @ 12:45
+      32 (28) Sebastian Buxman      vs   (2) Franco Capalbo       Wed @ 12:45
       64  (1) James Davis          def.      Javier Ruiz Medina   64 63
       64 (22) Nicolas Herrera Cue… def.      Matteo Savio         61 61
       64  (9) Kyryll Kryvchun      def.      Roko Savin           76(5) 76(5)
@@ -115,23 +115,23 @@
      128      Jordan Azuma         def.      Tom Ciszewski        64 61
  > Consolation
   > Main
-      32      Michael Blando        vs       Martin Simecek       Wed @ 14:15 (ET)
+      32      Michael Blando        vs       Martin Simecek       Wed @ 14:15
       32      Josh Pearce          def.      Moritz Stoeger       Walkover
-      64      Johnny Mascagni       vs       Marcos Zelver        Wed @ 12:45 (ET)
+      64      Johnny Mascagni       vs       Marcos Zelver        Wed @ 12:45
       64      Arthur Serafim       def.      Simon Arca Costas    Walkover
-      64      Facundo Tumosa        vs       Arjun Kersten        Wed @ 12:45 (ET)
-      64      Morgan Donovan        vs       Daan Van Dijk        Wed @ 12:45 (ET)
-      64      Patrick Kristensen    vs       Thomas Navarro       Wed @ 12:45 (ET)
-      64      Mattia Ros            vs       Justin Waldman       Wed @ 12:45 (ET)
-      64      Marcus Sulen          vs       Nejc Sitar           Wed @ 12:45 (ET)
-      64      Peter Sallay          vs       Daniel Dillon        Wed @ 12:45 (ET)
-      64      Luke Wolf             vs       Mario Duron          Wed @ 12:45 (ET)
-      64      Christopher Steele    vs       Jordan Coutinho      Wed @ 12:45 (ET)
-      64      Joachim Schaefer      vs       Nicolas Prieto       Wed @ 12:45 (ET)
-      64      Jamieson Nathan       vs       Alex Lin             Wed @ 12:45 (ET)
-      64      Gabriel Chavez        vs       Matteo Masala        Wed @ 14:15 (ET)
-      64      Chia Chieh Lin        vs       Alexander Maggs      Wed @ 14:15 (ET)
-      64      Umit Ege Cankus       vs       Jordan Sauer         Wed @ 14:15 (ET)
-      64      Wikus Robbertse       vs       Jackson Atherton     Wed @ 14:15 (ET)
+      64      Facundo Tumosa        vs       Arjun Kersten        Wed @ 12:45
+      64      Morgan Donovan        vs       Daan Van Dijk        Wed @ 12:45
+      64      Patrick Kristensen    vs       Thomas Navarro       Wed @ 12:45
+      64      Mattia Ros            vs       Justin Waldman       Wed @ 12:45
+      64      Marcus Sulen          vs       Nejc Sitar           Wed @ 12:45
+      64      Peter Sallay          vs       Daniel Dillon        Wed @ 12:45
+      64      Luke Wolf             vs       Mario Duron          Wed @ 12:45
+      64      Christopher Steele    vs       Jordan Coutinho      Wed @ 12:45
+      64      Joachim Schaefer      vs       Nicolas Prieto       Wed @ 12:45
+      64      Jamieson Nathan       vs       Alex Lin             Wed @ 12:45
+      64      Gabriel Chavez        vs       Matteo Masala        Wed @ 14:15
+      64      Chia Chieh Lin        vs       Alexander Maggs      Wed @ 14:15
+      64      Umit Ege Cankus       vs       Jordan Sauer         Wed @ 14:15
+      64      Wikus Robbertse       vs       Jackson Atherton     Wed @ 14:15
 ~~~
-Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)
+Return to the [Top](./men_singles_2138.md) &#124; [Home Page](../../index.md)

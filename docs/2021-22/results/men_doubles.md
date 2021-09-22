@@ -14,18 +14,18 @@
 
 <a name="21-39721"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Mountain Regional Championship
   Dates: Sep 21-25, 2021
   Host: Brigham Young University (M)
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main
   > Main
-     QF  (1) Davis/Summers         vs   (5) Cierny/Zarkovic      Thu @ 09:00 (ET)
-     QF  (3) Barnett/Leite         vs   (6) Straker-Meads/Tumosa Thu @ 09:00 (ET)
-     QF      Zelver/Buckland       vs   (4) Bastias/Caula        Thu @ 09:00 (ET)
-     QF      Panik/Van Dijk        vs   (9) Trhac/Kristensen     Thu @ 09:00 (ET)
+     QF  (1) Davis/Summers         vs   (5) Cierny/Zarkovic      Thu @ 09:00
+     QF  (3) Barnett/Leite         vs   (6) Straker-Meads/Tumosa Thu @ 09:00
+     QF      Zelver/Buckland       vs   (4) Bastias/Caula        Thu @ 09:00
+     QF      Panik/Van Dijk        vs   (9) Trhac/Kristensen     Thu @ 09:00
      16  (1) Davis/Summers        def. (16) Sciglitano/Thielgaa… 81
      16  (5) Cierny/Zarkovic      def.      Buxman/Serafim       85
      16  (3) Barnett/Leite        def.      Gay/Duron            86
@@ -73,10 +73,10 @@
      64      Maggs/Pucalka        def.      Acosta/Ruiz Medina   87(4)
  > Consolation
   > Main
-     QF      Buzonics/Groves       vs       Kryvchun/Bott        Thu @ 09:00 (ET)
-     QF      Menard/Simecek        vs       Clarke/Akkermans     Thu @ 09:00 (ET)
-     QF      Ziomber/Dillon        vs       Hambrook/Navarro     Thu @ 09:00 (ET)
-     QF      Coutinho/Savio        vs       Acosta/Ruiz Medina   Thu @ 09:00 (ET)
+     QF      Buzonics/Groves       vs       Kryvchun/Bott        Thu @ 09:00
+     QF      Menard/Simecek        vs       Clarke/Akkermans     Thu @ 09:00
+     QF      Ziomber/Dillon        vs       Hambrook/Navarro     Thu @ 09:00
+     QF      Coutinho/Savio        vs       Acosta/Ruiz Medina   Thu @ 09:00
      16      Buzonics/Groves      def.      Sitar/Nathan         83
      16      Kryvchun/Bott        def.      Andrus/Lin           85
      16      Menard/Simecek       def.      Robbertse/Cankus     87(5)
@@ -91,4 +91,4 @@
      32      Azuma/Baylon         def.      Steele/Donovan       84
      32      Chavez/Savin         def.      Masala/Ramesh        85
 ~~~
-Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)
+Return to the [Top](./men_doubles_2138.md) &#124; [Home Page](../../index.md)
