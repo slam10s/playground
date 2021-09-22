@@ -1,12 +1,12 @@
-[<<](women_singles_2137.md) WK 38 - Sep 20-26, 2021 [>>](women_singles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2138.md) &#124; [*Women*](./women_singles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./women_singles_2138.md) &#124; [Doubles](./women_doubles_2138.md)
+[<< Prev](women_singles_2137.md) &nbsp; WK 38 - Sep 20-26, 2021 &nbsp; [Next >>](women_singles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2138.md) &#124; [*Women*](./women_singles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./women_singles_2138.md) &#124; [Doubles](./women_doubles_2138.md)
 
 <a name="21-14491"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
   Division II Women's Midwest ITA Regional Championships
   Dates: Sep 18-20, 2021
   Host: Univ. Of Indianapolis (W)
-═══════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Draw A Singles
   > Main

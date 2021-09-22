@@ -1,12 +1,12 @@
-[<<](women_doubles_2136.md) WK 37 - Sep 13-19, 2021 [>>](women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2137.md) &#124; [*Women*](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2137.md) &#124; [*Doubles*](./women_doubles_2137.md)
+[<< Prev](women_doubles_2136.md) &nbsp; WK 37 - Sep 13-19, 2021 &nbsp; [Next >>](women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2137.md) &#124; [*Women*](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2137.md) &#124; [*Doubles*](./women_doubles_2137.md)
 
 <a name="21-46904"></a>
 ~~~
-═════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   Elon Invitational
   Dates: Sep 17-19, 2021
   Host: Elon University (W)
-═════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Maroon
   > East
@@ -55,11 +55,11 @@
 
 <a name="21-47655"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   NMSU Women's Aggie Invite
   Dates: Sep 17-19, 2021
   Host: New Mexico State University (W)
-═════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Doubles
   > East
@@ -108,11 +108,11 @@
 
 <a name="21-14491"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Division II Women's Midwest ITA Regional Championships
   Dates: Sep 18-20, 2021
   Host: Univ. Of Indianapolis (W)
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw B Doubles
   > Main
@@ -193,11 +193,11 @@
 
 <a name="21-76336"></a>
 ~~~
-═════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
   GPAC Individual
   Dates: Sep 17-18, 2021
   Host: College Of Saint Mary (W)
-═════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight A
   > Main

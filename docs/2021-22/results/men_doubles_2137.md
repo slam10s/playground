@@ -1,12 +1,12 @@
-[<<](men_doubles_2136.md) WK 37 - Sep 13-19, 2021 [>>](men_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_doubles_2137.md) &#124; [Women](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2137.md) &#124; [*Doubles*](./men_doubles_2137.md)
+[<< Prev](men_doubles_2136.md) &nbsp; WK 37 - Sep 13-19, 2021 &nbsp; [Next >>](men_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_doubles_2137.md) &#124; [Women](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2137.md) &#124; [*Doubles*](./men_doubles_2137.md)
 
 <a name="21-41355"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
   Jersey Mike's Seahawk Fall Invitational
   Dates: Sep 17-19, 2021
   Host: UNC Wilmington (M)
-═══════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > East
@@ -35,11 +35,11 @@
 
 <a name="21-76336"></a>
 ~~~
-══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   GPAC Individual
   Dates: Sep 17-18, 2021
   Host: College Of Saint Mary (W)
-══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight A
   > Main
