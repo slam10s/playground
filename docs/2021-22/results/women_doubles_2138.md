@@ -2,11 +2,11 @@
 
 <a name="21-14491"></a>
 ~~~
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  Division II Women's Midwest ITA Regional Championships                      ║
-║  Dates: Sep 18-20, 2021                                                      ║
-║  Host: Univ. Of Indianapolis (W)                                             ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+══════════════════════════════════════════════════════════════════════════════
+  Division II Women's Midwest ITA Regional Championships
+  Dates: Sep 18-20, 2021
+  Host: Univ. Of Indianapolis (W)
+══════════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw B Doubles
   > Main

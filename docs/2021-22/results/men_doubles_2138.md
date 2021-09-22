@@ -2,11 +2,11 @@
 
 <a name="21-39721"></a>
 ~~~
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║  ITA Division I Men's Mountain Regional Championship                              ║
-║  Dates: Sep 21-25, 2021                                                           ║
-║  Host: Brigham Young University (M)                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
+═══════════════════════════════════════════════════════════════════════════════════
+  ITA Division I Men's Mountain Regional Championship
+  Dates: Sep 21-25, 2021
+  Host: Brigham Young University (M)
+═══════════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main
   > Main
