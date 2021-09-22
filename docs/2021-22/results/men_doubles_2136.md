@@ -1,6 +1,6 @@
-[<<](men_doubles_2135.md) WK 36 - Sep 6-12, 2021 [>>](men_doubles_2137.md) [_Men_](./men_doubles_2136.md) | [Women](./women_doubles_2136.md) [Singles](./men_singles_2136.md) | [_Doubles_](./men_doubles_2136.md)
+[<<](men_doubles_2135.md) WK 36 - Sep 6-12, 2021 [>>](men_doubles_2137.md)     [*Men*](./men_doubles_2136.md) &vert; [Women](./women_doubles_2136.md)     [Singles](./men_singles_2136.md) &vert; [*Doubles*](./men_doubles_2136.md)
 
-<a name="21-94373">
+<a name="21-94373"></a>
     ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
     ║  NMSU Fall invitational                                                                     ║
     ║  Dates: Sep 10-12, 2021                                                                     ║
@@ -61,7 +61,7 @@
       > Main
           F     Barranquero/Chhabra              def.     Larrea/Mere                      82
 
-<a name="21-79025">
+<a name="21-79025"></a>
     ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
     ║  St. Mary's Invitational                                                                    ║
     ║  Dates: Sep 10-11, 2021                                                                     ║
@@ -137,7 +137,7 @@
       > Consolation
           F     Marsh/Salinas                    def.     Lopez/Martinez                   Walkover
 
-<a name="21-24367">
+<a name="21-24367"></a>
     ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
     ║  William Woods Invite                                                                       ║
     ║  Dates: Sep 11-12, 2021                                                                     ║
@@ -157,7 +157,7 @@
          16     Corser/Sanoja                    def.     Cooke/Subert                     63
          16     Schneider/Schorr                 def.     Harris/Papachrisanthou           63
 
-<a name="21-22816">
+<a name="21-22816"></a>
     ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
     ║  Wingate Fall Invitational                                                                  ║
     ║  Dates: Sep 11-12, 2021                                                                     ║

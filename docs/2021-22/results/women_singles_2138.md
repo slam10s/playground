@@ -1,6 +1,6 @@
-[<<](women_singles_2137.md) WK 38 - Sep 20-26, 2021 [>>](women_singles_2139.md)     [Men](./men_singles_2138.md) | [*Women*](./women_singles_2138.md)     [*Singles*](./women_singles_2138.md) | [Doubles](./women_doubles_2138.md)
+[<<](women_singles_2137.md) WK 38 - Sep 20-26, 2021 [>>](women_singles_2139.md)     [Men](./men_singles_2138.md) &vert; [*Women*](./women_singles_2138.md)     [*Singles*](./women_singles_2138.md) &vert; [Doubles](./women_doubles_2138.md)
 
-<a name="21-14491">
+<a name="21-14491"></a>
     ╔═══════════════════════════════════════════════════════════════════════════════════════════╗
     ║  Division II Women's Midwest ITA Regional Championships                                   ║
     ║  Dates: Sep 18-20, 2021                                                                   ║

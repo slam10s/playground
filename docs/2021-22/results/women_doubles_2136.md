@@ -1,6 +1,6 @@
-[<<](women_doubles_2135.md) WK 36 - Sep 6-12, 2021 [>>](women_doubles_2137.md)     [Men](./men_doubles_2136.md) | [*Women*](./women_doubles_2136.md)     [Singles](./women_singles_2136.md) | [*Doubles*](./women_doubles_2136.md)
+[<<](women_doubles_2135.md) WK 36 - Sep 6-12, 2021 [>>](women_doubles_2137.md)     [Men](./men_doubles_2136.md) &vert; [*Women*](./women_doubles_2136.md)     [Singles](./women_singles_2136.md) &vert; [*Doubles*](./women_doubles_2136.md)
 
-<a name="21-34233">
+<a name="21-34233"></a>
     ╔════════════════════════════════════════════════════════════════════════════╗
     ║  Bill and Sandra Moore Invitational                                        ║
     ║  Dates: Sep 10-12, 2021                                                    ║
@@ -61,7 +61,7 @@
          SF  Chen/Ackroyd             def.  Gumieniak/Beckner           84
          SF  Kimmey/Smith             def.  Pax/Klapman                 81
 
-<a name="21-48654">
+<a name="21-48654"></a>
     ╔════════════════════════════════════════════════════════════════════════════╗
     ║  Liberty Invite                                                            ║
     ║  Dates: Sep 11-12, 2021                                                    ║
@@ -78,7 +78,7 @@
          16  Ballow/Gillar            def.  van Meeteren/Cricchio       63
          16  Hurrion/McGrane          def.  Fukutoku/Manolescu          63
 
-<a name="21-66962">
+<a name="21-66962"></a>
     ╔════════════════════════════════════════════════════════════════════════════╗
     ║  SIUE Cougar Invite                                                        ║
     ║  Dates: Sep 10-11, 2021                                                    ║
@@ -94,7 +94,7 @@
          16  Perlwitz/Lojpur          def.  Ellis/Bukraba-Ulanova       63
          16  Martinez/Marjanovic      def.  Shinabery/Perez-Korinko     61
 
-<a name="21-31047">
+<a name="21-31047"></a>
     ╔════════════════════════════════════════════════════════════════════════════╗
     ║  Angelo State SlamFest                                                     ║
     ║  Dates: Sep 10-11, 2021                                                    ║
@@ -144,7 +144,7 @@
       > Playoff 3
           F  Hosking/Vaudiau          def.  Shethia/Le                  82
 
-<a name="21-79025">
+<a name="21-79025"></a>
     ╔════════════════════════════════════════════════════════════════════════════╗
     ║  St. Mary's Invitational                                                   ║
     ║  Dates: Sep 10-11, 2021                                                    ║
@@ -204,7 +204,7 @@
          SF  Castleberry/Omeire       def.  Gardner/Hoffman             60
          SF  Munoz/Navarro-Cavazos    def.  Nutt/Garcia                 60
 
-<a name="21-24367">
+<a name="21-24367"></a>
     ╔════════════════════════════════════════════════════════════════════════════╗
     ║  William Woods Invite                                                      ║
     ║  Dates: Sep 11-12, 2021                                                    ║
@@ -223,7 +223,7 @@
          16  Calvo Larraz/Komiszar    def.  Trimpe/Marshall             75
          16  Ballesteros/Dirninger    def.  Dabbah/Dudic                62
 
-<a name="21-22816">
+<a name="21-22816"></a>
     ╔════════════════════════════════════════════════════════════════════════════╗
     ║  Wingate Fall Invitational                                                 ║
     ║  Dates: Sep 11-12, 2021                                                    ║

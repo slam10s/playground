@@ -1,6 +1,6 @@
-[<<](men_doubles_2136.md) WK 37 - Sep 13-19, 2021 [>>](men_doubles_2138.md)     [*Men*](./men_doubles_2137.md) | [Women](./women_doubles_2137.md)     [Singles](./men_singles_2137.md) | [*Doubles*](./men_doubles_2137.md)
+[<<](men_doubles_2136.md) WK 37 - Sep 13-19, 2021 [>>](men_doubles_2138.md)     [*Men*](./men_doubles_2137.md) &vert; [Women](./women_doubles_2137.md)     [Singles](./men_singles_2137.md) &vert; [*Doubles*](./men_doubles_2137.md)
 
-<a name="21-41355">
+<a name="21-41355"></a>
     ╔════════════════════════════════════════════════════════════════════════╗
     ║  Jersey Mike's Seahawk Fall Invitational                               ║
     ║  Dates: Sep 17-19, 2021                                                ║
@@ -31,7 +31,7 @@
       > 3-4 Playoff
           F     Theaker/Rogowski    def. (2) Lamas/Vargas             61
 
-<a name="21-76336">
+<a name="21-76336"></a>
     ╔════════════════════════════════════════════════════════════════════════╗
     ║  GPAC Individual                                                       ║
     ║  Dates: Sep 17-18, 2021                                                ║

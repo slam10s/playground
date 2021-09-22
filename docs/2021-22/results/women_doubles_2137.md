@@ -1,6 +1,6 @@
-[<<](women_doubles_2136.md) WK 37 - Sep 13-19, 2021 [>>](women_doubles_2138.md)     [Men](./men_doubles_2137.md) | [*Women*](./women_doubles_2137.md)     [Singles](./women_singles_2137.md) | [*Doubles*](./women_doubles_2137.md)
+[<<](women_doubles_2136.md) WK 37 - Sep 13-19, 2021 [>>](women_doubles_2138.md)     [Men](./men_doubles_2137.md) &vert; [*Women*](./women_doubles_2137.md)     [Singles](./women_singles_2137.md) &vert; [*Doubles*](./women_doubles_2137.md)
 
-<a name="21-46904">
+<a name="21-46904"></a>
     ╔═══════════════════════════════════════════════════════════════════════════════════╗
     ║  Elon Invitational                                                                ║
     ║  Dates: Sep 17-19, 2021                                                           ║
@@ -51,7 +51,7 @@
       > 3-4 Playoff
            F     Farid/Ribaudo              def.     Allen/Galvin                84
 
-<a name="21-47655">
+<a name="21-47655"></a>
     ╔═══════════════════════════════════════════════════════════════════════════════════╗
     ║  NMSU Women's Aggie Invite                                                        ║
     ║  Dates: Sep 17-19, 2021                                                           ║
@@ -102,7 +102,7 @@
           SF     Nguyen/Cartis              def.     Schoenen/Salim              Walkover
           SF     DiBattista/Sachica         def.     Arnautu/Gedlitschka         61
 
-<a name="21-14491">
+<a name="21-14491"></a>
     ╔═══════════════════════════════════════════════════════════════════════════════════╗
     ║  Division II Women's Midwest ITA Regional Championships                           ║
     ║  Dates: Sep 18-20, 2021                                                           ║
@@ -185,7 +185,7 @@
          16Q     Padberg/Beidacki           def.     Skjelstad/Mokhasi           98(5)
          16Q     Kuehnle/Eremina            def. (2) Zafeiri/Reisch              81
 
-<a name="21-76336">
+<a name="21-76336"></a>
     ╔═══════════════════════════════════════════════════════════════════════════════════╗
     ║  GPAC Individual                                                                  ║
     ║  Dates: Sep 17-18, 2021                                                           ║

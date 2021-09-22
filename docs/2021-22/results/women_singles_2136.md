@@ -1,6 +1,6 @@
-[<<](women_singles_2135.md) WK 36 - Sep 6-12, 2021 [>>](women_singles_2137.md)     [Men](./men_singles_2136.md) | [*Women*](./women_singles_2136.md)     [*Singles*](./women_singles_2136.md) | [Doubles](./women_doubles_2136.md)
+[<<](women_singles_2135.md) WK 36 - Sep 6-12, 2021 [>>](women_singles_2137.md)     [Men](./men_singles_2136.md) &vert; [*Women*](./women_singles_2136.md)     [*Singles*](./women_singles_2136.md) &vert; [Doubles](./women_doubles_2136.md)
 
-<a name="21-34233">
+<a name="21-34233"></a>
     ╔══════════════════════════════════════════════════════════════════════════════════════════╗
     ║  Bill and Sandra Moore Invitational                                                      ║
     ║  Dates: Sep 10-12, 2021                                                                  ║
@@ -115,7 +115,7 @@
          QF  Rachel Buchinsky               def.  Dax Seidlin                    Walkover
          QF  Abigail Moghtader              def.  Kacey Moore                    64 64
 
-<a name="21-48654">
+<a name="21-48654"></a>
     ╔══════════════════════════════════════════════════════════════════════════════════════════╗
     ║  Liberty Invite                                                                          ║
     ║  Dates: Sep 11-12, 2021                                                                  ║
@@ -170,7 +170,7 @@
          64  Liz Stefancic                  def.  Anne Lou Champion              16 62 [2]
          64  Alisha Hussain                 def.  Gabrielle Clairotte            63 75
 
-<a name="21-66962">
+<a name="21-66962"></a>
     ╔══════════════════════════════════════════════════════════════════════════════════════════╗
     ║  SIUE Cougar Invite                                                                      ║
     ║  Dates: Sep 10-11, 2021                                                                  ║
@@ -219,7 +219,7 @@
          32  Juliana Martinez               def.  Likhitha Kancherla             63 63
          32  Nicola Perlwitz                def.  Maria Rybka                    63 60
 
-<a name="21-31047">
+<a name="21-31047"></a>
     ╔══════════════════════════════════════════════════════════════════════════════════════════╗
     ║  Angelo State SlamFest                                                                   ║
     ║  Dates: Sep 10-11, 2021                                                                  ║
@@ -315,7 +315,7 @@
          R1  Lauren Chisholm                def.  Kylee Shannon                  60 63
          R1  Alexandra Vishnevskaya         def.  Rosemary Watanabe              61 63
 
-<a name="21-79025">
+<a name="21-79025"></a>
     ╔══════════════════════════════════════════════════════════════════════════════════════════╗
     ║  St. Mary's Invitational                                                                 ║
     ║  Dates: Sep 10-11, 2021                                                                  ║
@@ -442,7 +442,7 @@
          SF  Caroline Hudson                def.  Alice Thane                    60 75
          SF  Taylor Leslie                  def.  Gabi Ioannou                   46 62 [4]
 
-<a name="21-24367">
+<a name="21-24367"></a>
     ╔══════════════════════════════════════════════════════════════════════════════════════════╗
     ║  William Woods Invite                                                                    ║
     ║  Dates: Sep 11-12, 2021                                                                  ║
@@ -486,7 +486,7 @@
          SF  Andjela Vukcevic               def.  Marta Calvo Larraz             80
          SF  Rukshika Wijesooryia           def.  Dina Dudic                     84
 
-<a name="21-22816">
+<a name="21-22816"></a>
     ╔══════════════════════════════════════════════════════════════════════════════════════════╗
     ║  Wingate Fall Invitational                                                               ║
     ║  Dates: Sep 11-12, 2021                                                                  ║

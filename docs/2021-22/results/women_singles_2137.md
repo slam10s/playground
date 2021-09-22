@@ -1,6 +1,6 @@
-[<<](women_singles_2136.md) WK 37 - Sep 13-19, 2021 [>>](women_singles_2138.md)     [Men](./men_singles_2137.md) | [*Women*](./women_singles_2137.md)     [*Singles*](./women_singles_2137.md) | [Doubles](./women_doubles_2137.md)
+[<<](women_singles_2136.md) WK 37 - Sep 13-19, 2021 [>>](women_singles_2138.md)     [Men](./men_singles_2137.md) &vert; [*Women*](./women_singles_2137.md)     [*Singles*](./women_singles_2137.md) &vert; [Doubles](./women_doubles_2137.md)
 
-<a name="21-46904">
+<a name="21-46904"></a>
     ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
     ║  Elon Invitational                                                                          ║
     ║  Dates: Sep 17-19, 2021                                                                     ║
@@ -106,7 +106,7 @@
           QF      Meghana Komarraju           def.      Isabelle Exsted             62 Ret.
           QF      Martina Muzzolon            def.      Juliana Craft               61 63
 
-<a name="21-47655">
+<a name="21-47655"></a>
     ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
     ║  NMSU Women's Aggie Invite                                                                  ║
     ║  Dates: Sep 17-19, 2021                                                                     ║
@@ -212,7 +212,7 @@
       > Northwest
            F      Bissola Lassissi            def.  (3) Danielle Viljoen            63 76(4)
 
-<a name="21-14491">
+<a name="21-14491"></a>
     ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
     ║  Division II Women's Midwest ITA Regional Championships                                     ║
     ║  Dates: Sep 18-20, 2021                                                                     ║
@@ -366,7 +366,7 @@
          16Q      Danica Malan                def.  (6) Brittany Lavenant           Walkover
          16Q      Sage Hills                  def.  (2) Courtney Rittel             64 46 [4]
 
-<a name="21-76336">
+<a name="21-76336"></a>
     ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
     ║  GPAC Individual                                                                            ║
     ║  Dates: Sep 17-18, 2021                                                                     ║
