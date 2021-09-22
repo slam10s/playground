@@ -1,4 +1,4 @@
-[<< Prev](women_singles_2140.md) &nbsp; **WK 41 - Oct 11-17, 2021** &nbsp; [Next >>](women_singles_2142.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2141.md) &#124; [*Women*](./women_singles_2141.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./women_singles_2141.md) &#124; [Doubles](./women_doubles_2141.md)
+[<< Prev](women_singles_2140.md) &nbsp; **WK 41 - Oct 11-17, 2021** &nbsp; [Next >>](women_singles_2142.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2141.md) &#124; [***Women***](./women_singles_2141.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2141.md) &#124; [Doubles](./women_doubles_2141.md)
 
 **Upcoming Tournaments**
 Click link to go to tournament website:

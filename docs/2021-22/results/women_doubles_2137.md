@@ -1,11 +1,11 @@
-[<< Prev](women_doubles_2136.md) &nbsp; **WK 37 - Sep 13-19, 2021** &nbsp; [Next >>](women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2137.md) &#124; [*Women*](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2137.md) &#124; [*Doubles*](./women_doubles_2137.md)
+[<< Prev](women_doubles_2136.md) &nbsp; **WK 37 - Sep 13-19, 2021** &nbsp; [Next >>](women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2137.md) &#124; [***Women***](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2137.md) &#124; [***Doubles***](./women_doubles_2137.md)
 
-**Tournamets with Results**
-Click link to go to results report below:
-  2021-09-17 - Elon Invitational
-  2021-09-17 - NMSU Women's Aggie Invite
-  2021-09-18 - Division II Women's Midwest ITA Regional Championships
-  2021-09-17 - GPAC Individual
+**Tournamets with Results**  
+Click link to go to results report below:  
+  2021-09-17 - Elon Invitational  
+  2021-09-17 - NMSU Women's Aggie Invite  
+  2021-09-18 - Division II Women's Midwest ITA Regional Championships  
+  2021-09-17 - GPAC Individual  
 
 **Tournaments without Results**
 Click link to go to tournament website:
