@@ -1,10 +1,10 @@
 <a name="top"></a>[<< Prev](women_doubles_2136.md) &nbsp; **WK 37 - Sep 13-19, 2021** &nbsp; [Next >>](women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2137.md) &#124; [***Women***](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2137.md) &#124; [***Doubles***](./women_doubles_2137.md)
 
 **Tournamets with Results**  
-- 9/17/2021 - [Elon Invitational](#21-46904) ([Results](#21-46904) &#124; [Draws](https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A))
-- 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655) ([Results](#21-47655) &#124; [Draws](https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityW/Tournaments/Overview/AF0C9E05-93DF-4088-A5CF-0B35FDCDBA9C))
-- 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; [Draws](https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04))
-- 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; [Draws](https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892))
+- 9/17/2021 - [Elon Invitational](#21-46904) ([Results](#21-46904) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A" target="_blank">Draws</a>)
+- 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655) ([Results](#21-47655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityW/Tournaments/Overview/AF0C9E05-93DF-4088-A5CF-0B35FDCDBA9C" target="_blank">Draws</a>)
+- 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)
+- 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)
 
 **Tournaments without Results**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>

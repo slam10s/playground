@@ -1,7 +1,7 @@
 <a name="top"></a>[<< Prev](women_doubles_2137.md) &nbsp; **WK 38 - Sep 20-26, 2021** &nbsp; [Next >>](women_doubles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2138.md) &#124; [***Women***](./women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2138.md) &#124; [***Doubles***](./women_doubles_2138.md)
 
 **Tournamets with Results**  
-- 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; [Draws](https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04))
+- 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)
 
 **Tournaments without Results**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>
