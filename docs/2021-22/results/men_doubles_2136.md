@@ -211,4 +211,4 @@
      R1  Sumer/Nossler      def.  DECALUWE/KEANE     64
      R1  Zabala/Sudar       def.  Waterbolk/Dulganov 75
 ~~~
-Return to the [Top](#top) &#124; [Home Page](../../index.md)
+Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)

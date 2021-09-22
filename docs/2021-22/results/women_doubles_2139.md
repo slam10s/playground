@@ -10,4 +10,4 @@
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">mercer gridiron classic</a>
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1EB1A7C8-81F9-4DDF-BE0F-D8EB9551DEA5" target="_blank">SDSU Fall Tennis Classic # 1</a>
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/6AF18612-0DD9-474B-9A98-4C630E99D501" target="_blank">Wolverine Invitational</a>
-Return to the [Top](#top) &#124; [Home Page](../../index.md)
+Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)

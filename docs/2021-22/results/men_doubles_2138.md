@@ -91,4 +91,4 @@
      32      Azuma/Baylon         def.      Steele/Donovan       84
      32      Chavez/Savin         def.      Masala/Ramesh        85
 ~~~
-Return to the [Top](#top) &#124; [Home Page](../../index.md)
+Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)

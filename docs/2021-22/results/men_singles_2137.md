@@ -105,4 +105,4 @@
      QF (5) Manuel Rodriguez Be… def.     Connor Kelley        82
      QF     Zander Pacheco       def.     Jared Thompson       86
 ~~~
-Return to the [Top](#top) &#124; [Home Page](../../index.md)
+Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)

@@ -290,4 +290,4 @@
      R1  Berggren/Guidantoni def.  Ulloa/Chornei        62
      R1  Halickman/Gagnon    def.  Billingsly/Steiner   61
 ~~~
-Return to the [Top](#top) &#124; [Home Page](../../index.md)
+Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)

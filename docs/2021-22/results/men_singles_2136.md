@@ -431,4 +431,4 @@
      R1  Tyler Juergens      def.  Cohen Sechrist      61 61
      R1  Lars Hordijk        def.  Joseph Phelan       60 61
 ~~~
-Return to the [Top](#top) &#124; [Home Page](../../index.md)
+Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)

@@ -453,4 +453,4 @@
      QQ     Jessica Wilson    def.     Jenna Davison        84
      QQ     Emma Montenegro   def.     Shelby Buck          83
 ~~~
-Return to the [Top](#top) &#124; [Home Page](../../index.md)
+Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)

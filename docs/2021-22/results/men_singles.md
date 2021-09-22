@@ -134,4 +134,4 @@
       64      Umit Ege Cankus       vs       Jordan Sauer         Wed @ 14:15 (ET)
       64      Wikus Robbertse       vs       Jackson Atherton     Wed @ 14:15 (ET)
 ~~~
-Return to the [Top](#top) &#124; [Home Page](../../index.md)
+Return to the [Top](./${gender}_${type}_${weekCode}.md) &#124; [Home Page](../../index.md)
