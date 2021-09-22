@@ -1,7 +1,7 @@
 [<<](men_singles_2135.md) WK 36 - Sep 6-12, 2021 [>>](men_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_singles_2136.md) &#124; [Women](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./men_singles_2136.md) &#124; [Doubles](./men_doubles_2136.md)
 
 <a name="21-94373"></a>
-```ruby
+~~~
 ╔════════════════════════════════════════════════════════════════════════════════════════╗
 ║  NMSU Fall invitational                                                                ║
 ║  Dates: Sep 10-12, 2021                                                                ║
@@ -120,10 +120,10 @@
      16  Mikael Purne                 def.  Lorenzo Orellano             63 60
      16  Maciej Ziomber               def.  Jonathan Vega                62 64
      16  Filippo Salsini              def.  Yu-Jhe Du                    64 76(3)
-```
+~~~
 
 <a name="21-79025"></a>
-```ruby
+~~~
 ╔════════════════════════════════════════════════════════════════════════════════════════╗
 ║  St. Mary's Invitational                                                               ║
 ║  Dates: Sep 10-11, 2021                                                                ║
@@ -286,10 +286,10 @@
   > Consolation
       F  Adrian Alejandro             def.  Rien Solis                   63 62
      SF  Rien Solis                   def.  Mikey Lopez                  Walkover
-```
+~~~
 
 <a name="21-24367"></a>
-```ruby
+~~~
 ╔════════════════════════════════════════════════════════════════════════════════════════╗
 ║  William Woods Invite                                                                  ║
 ║  Dates: Sep 11-12, 2021                                                                ║
@@ -338,10 +338,10 @@
       F  Brian King                   def.  Niko Papachrisanthou         82
      SF  Brian King                   def.  Isaiah Buse                  Walkover
      SF  Niko Papachrisanthou         def.  Bryson Crowell               86
-```
+~~~
 
 <a name="21-22816"></a>
-```ruby
+~~~
 ╔════════════════════════════════════════════════════════════════════════════════════════╗
 ║  Wingate Fall Invitational                                                             ║
 ║  Dates: Sep 11-12, 2021                                                                ║
@@ -418,4 +418,4 @@
      R2  Tyler Juergens               def.  Joseph Phelan                60 64
      R1  Tyler Juergens               def.  Cohen Sechrist               61 61
      R1  Lars Hordijk                 def.  Joseph Phelan                60 61
-```
+~~~

@@ -1,7 +1,7 @@
 [<<](women_singles_2136.md) WK 37 - Sep 13-19, 2021 [>>](women_singles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2137.md) &#124; [*Women*](./women_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./women_singles_2137.md) &#124; [Doubles](./women_doubles_2137.md)
 
 <a name="21-46904"></a>
-```ruby
+~~~
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  Elon Invitational                                                                          ║
 ║  Dates: Sep 17-19, 2021                                                                     ║
@@ -106,10 +106,10 @@
       QF      Olivia Archer               def.      Sylvia Eklund               63 64
       QF      Meghana Komarraju           def.      Isabelle Exsted             62 Ret.
       QF      Martina Muzzolon            def.      Juliana Craft               61 63
-```
+~~~
 
 <a name="21-47655"></a>
-```ruby
+~~~
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  NMSU Women's Aggie Invite                                                                  ║
 ║  Dates: Sep 17-19, 2021                                                                     ║
@@ -214,10 +214,10 @@
        F      Caini Wang                  def.      Sylvie Schoenen             Walkover
   > Northwest
        F      Bissola Lassissi            def.  (3) Danielle Viljoen            63 76(4)
-```
+~~~
 
 <a name="21-14491"></a>
-```ruby
+~~~
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  Division II Women's Midwest ITA Regional Championships                                     ║
 ║  Dates: Sep 18-20, 2021                                                                     ║
@@ -370,10 +370,10 @@
      16Q      carolina velazquez          def.  (3) Sophia Hanover              63 46 [8]
      16Q      Danica Malan                def.  (6) Brittany Lavenant           Walkover
      16Q      Sage Hills                  def.  (2) Courtney Rittel             64 46 [4]
-```
+~~~
 
 <a name="21-76336"></a>
-```ruby
+~~~
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  GPAC Individual                                                                            ║
 ║  Dates: Sep 17-18, 2021                                                                     ║
@@ -432,4 +432,4 @@
   > Consolation
       QQ      Jessica Wilson              def.      Jenna Davison               84
       QQ      Emma Montenegro             def.      Shelby Buck                 83
-```
+~~~

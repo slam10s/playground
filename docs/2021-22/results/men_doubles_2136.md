@@ -1,7 +1,7 @@
 [<<](men_doubles_2135.md) WK 36 - Sep 6-12, 2021 [>>](men_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_doubles_2136.md) &#124; [Women](./women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2136.md) &#124; [*Doubles*](./men_doubles_2136.md)
 
 <a name="21-94373"></a>
-```ruby
+~~~
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  NMSU Fall invitational                                                                     ║
 ║  Dates: Sep 10-12, 2021                                                                     ║
@@ -61,10 +61,10 @@
   > Crimson added doubles match
   > Main
       F     Barranquero/Chhabra              def.     Larrea/Mere                      82
-```
+~~~
 
 <a name="21-79025"></a>
-```ruby
+~~~
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  St. Mary's Invitational                                                                    ║
 ║  Dates: Sep 10-11, 2021                                                                     ║
@@ -139,10 +139,10 @@
      QF     Garza/Alejandro                  def.     Marsh/Salinas                    62
   > Consolation
       F     Marsh/Salinas                    def.     Lopez/Martinez                   Walkover
-```
+~~~
 
 <a name="21-24367"></a>
-```ruby
+~~~
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  William Woods Invite                                                                       ║
 ║  Dates: Sep 11-12, 2021                                                                     ║
@@ -161,10 +161,10 @@
      16     Mukkaladyil/Salamanca De Arcos   def.     Cequea/King                      75
      16     Corser/Sanoja                    def.     Cooke/Subert                     63
      16     Schneider/Schorr                 def.     Harris/Papachrisanthou           63
-```
+~~~
 
 <a name="21-22816"></a>
-```ruby
+~~~
 ╔═════════════════════════════════════════════════════════════════════════════════════════════╗
 ║  Wingate Fall Invitational                                                                  ║
 ║  Dates: Sep 11-12, 2021                                                                     ║
@@ -198,4 +198,4 @@
      R4     Sumer/Nossler                    def.     Knippling/Garofalo               61
      R1     Sumer/Nossler                    def.     DECALUWE/KEANE                   64
      R1     Zabala/Sudar                     def.     Waterbolk/Dulganov               75
-```
+~~~

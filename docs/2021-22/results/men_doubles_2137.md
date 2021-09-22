@@ -1,7 +1,7 @@
 [<<](men_doubles_2136.md) WK 37 - Sep 13-19, 2021 [>>](men_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_doubles_2137.md) &#124; [Women](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2137.md) &#124; [*Doubles*](./men_doubles_2137.md)
 
 <a name="21-41355"></a>
-```ruby
+~~~
 ╔════════════════════════════════════════════════════════════════════════╗
 ║  Jersey Mike's Seahawk Fall Invitational                               ║
 ║  Dates: Sep 17-19, 2021                                                ║
@@ -31,10 +31,10 @@
      SF     Falck/De Felipe     def.     Rasamatov/Innocenti      Walkover
   > 3-4 Playoff
       F     Theaker/Rogowski    def. (2) Lamas/Vargas             61
-```
+~~~
 
 <a name="21-76336"></a>
-```ruby
+~~~
 ╔════════════════════════════════════════════════════════════════════════╗
 ║  GPAC Individual                                                       ║
 ║  Dates: Sep 17-18, 2021                                                ║
@@ -57,4 +57,4 @@
      16     Bindl/Springer      def.     Bornemeier/Martin        62
      16     Arza/Heiss          def.     DeLeo/Swaney             61
      16     Beke/Coy            def. (2) Pacheco/Rodriguez Berdud 63
-```
+~~~

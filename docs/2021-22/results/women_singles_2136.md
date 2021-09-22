@@ -1,7 +1,7 @@
 [<<](women_singles_2135.md) WK 36 - Sep 6-12, 2021 [>>](women_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2136.md) &#124; [*Women*](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./women_singles_2136.md) &#124; [Doubles](./women_doubles_2136.md)
 
 <a name="21-34233"></a>
-```ruby
+~~~
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
 ║  Bill and Sandra Moore Invitational                                                      ║
 ║  Dates: Sep 10-12, 2021                                                                  ║
@@ -115,10 +115,10 @@
      QF  Lara Kaplan                    def.  Ann Spurka                     64 62
      QF  Rachel Buchinsky               def.  Dax Seidlin                    Walkover
      QF  Abigail Moghtader              def.  Kacey Moore                    64 64
-```
+~~~
 
 <a name="21-48654"></a>
-```ruby
+~~~
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
 ║  Liberty Invite                                                                          ║
 ║  Dates: Sep 11-12, 2021                                                                  ║
@@ -172,10 +172,10 @@
      64  Emma Vanderheyden              def.  Ines Bachir el Bouhali         61 26 [5]
      64  Liz Stefancic                  def.  Anne Lou Champion              16 62 [2]
      64  Alisha Hussain                 def.  Gabrielle Clairotte            63 75
-```
+~~~
 
 <a name="21-66962"></a>
-```ruby
+~~~
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
 ║  SIUE Cougar Invite                                                                      ║
 ║  Dates: Sep 10-11, 2021                                                                  ║
@@ -223,10 +223,10 @@
      32  Maria Bezmenova                def.  Paige Grice                    63 61
      32  Juliana Martinez               def.  Likhitha Kancherla             63 63
      32  Nicola Perlwitz                def.  Maria Rybka                    63 60
-```
+~~~
 
 <a name="21-31047"></a>
-```ruby
+~~~
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
 ║  Angelo State SlamFest                                                                   ║
 ║  Dates: Sep 10-11, 2021                                                                  ║
@@ -321,10 +321,10 @@
      R2  Alexandra Vishnevskaya         def.  Chandler Vrba                  67(4) 63 [6]
      R1  Lauren Chisholm                def.  Kylee Shannon                  60 63
      R1  Alexandra Vishnevskaya         def.  Rosemary Watanabe              61 63
-```
+~~~
 
 <a name="21-79025"></a>
-```ruby
+~~~
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
 ║  St. Mary's Invitational                                                                 ║
 ║  Dates: Sep 10-11, 2021                                                                  ║
@@ -450,10 +450,10 @@
   > Main
      SF  Caroline Hudson                def.  Alice Thane                    60 75
      SF  Taylor Leslie                  def.  Gabi Ioannou                   46 62 [4]
-```
+~~~
 
 <a name="21-24367"></a>
-```ruby
+~~~
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
 ║  William Woods Invite                                                                    ║
 ║  Dates: Sep 11-12, 2021                                                                  ║
@@ -496,10 +496,10 @@
   > Main
      SF  Andjela Vukcevic               def.  Marta Calvo Larraz             80
      SF  Rukshika Wijesooryia           def.  Dina Dudic                     84
-```
+~~~
 
 <a name="21-22816"></a>
-```ruby
+~~~
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
 ║  Wingate Fall Invitational                                                               ║
 ║  Dates: Sep 11-12, 2021                                                                  ║
@@ -599,4 +599,4 @@
      R3  Walker Gagnon                  def.  Andi Billingsly                62 61
      R3  Reagan Sommariva               def.  KATHERINE MATTHEWS             61 62
      R2  Lena Friedrich                 def.  Walker Gagnon                  57 61 [3]
-```
+~~~

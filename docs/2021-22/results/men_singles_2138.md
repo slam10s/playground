@@ -1,7 +1,7 @@
 [<<](men_singles_2137.md) WK 38 - Sep 20-26, 2021 [>>](men_singles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_singles_2138.md) &#124; [Women](./women_singles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./men_singles_2138.md) &#124; [Doubles](./men_doubles_2138.md)
 
 <a name="21-39721"></a>
-```ruby
+~~~
 ╔════════════════════════════════════════════════════════════════════════════════════╗
 ║  ITA Division I Men's Mountain Regional Championship                               ║
 ║  Dates: Sep 21-25, 2021                                                            ║
@@ -121,4 +121,4 @@
       64      Chia Chieh Lin          vs       Alexander Maggs        Wed @ 14:15 (ET)
       64      Umit Ege Cankus         vs       Jordan Sauer           Wed @ 14:15 (ET)
       64      Wikus Robbertse         vs       Jackson Atherton       Wed @ 14:15 (ET)
-```
+~~~

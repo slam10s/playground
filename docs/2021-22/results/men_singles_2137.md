@@ -1,7 +1,7 @@
 [<<](men_singles_2136.md) WK 37 - Sep 13-19, 2021 [>>](men_singles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_singles_2137.md) &#124; [Women](./women_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./men_singles_2137.md) &#124; [Doubles](./men_doubles_2137.md)
 
 <a name="21-41355"></a>
-```ruby
+~~~
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  Jersey Mike's Seahawk Fall Invitational                                     ║
 ║  Dates: Sep 17-19, 2021                                                      ║
@@ -58,10 +58,10 @@
       F     John Dransfeld          def.     Juan Lombisano          62 36 75
   > South
       F (1) Callum Theaker          def.     Stefan Petrovic         Walkover
-```
+~~~
 
 <a name="21-76336"></a>
-```ruby
+~~~
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  GPAC Individual                                                             ║
 ║  Dates: Sep 17-18, 2021                                                      ║
@@ -91,4 +91,4 @@
      QF     Josh Grosvenor          def.     Christian Ayala         84
      QF (5) Manuel Rodriguez Berdud def.     Connor Kelley           82
      QF     Zander Pacheco          def.     Jared Thompson          86
-```
+~~~
