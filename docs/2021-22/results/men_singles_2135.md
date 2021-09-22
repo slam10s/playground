@@ -2,7 +2,7 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-  2021-09-03 - Tyler Invite  
+- 2021-09-03 - Tyler Invite  
 
 <a name="21-00238"></a>
 ~~~

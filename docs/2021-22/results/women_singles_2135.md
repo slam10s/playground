@@ -2,11 +2,11 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-  2021-09-03 - Tyler Invite  
+- 2021-09-03 - Tyler Invite  
 
-**Tournaments without Results**
-Click link to go to tournament website:
-  2021-09-04 - Warhawk Invitational
+**Tournaments without Results**  
+Click link to go to tournament website:  
+- 2021-09-04 - Warhawk Invitational  
 
 <a name="21-00238"></a>
 ~~~

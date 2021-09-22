@@ -2,25 +2,25 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-  2021-09-17 - Elon Invitational  
-  2021-09-17 - NMSU Women's Aggie Invite  
-  2021-09-18 - Division II Women's Midwest ITA Regional Championships  
-  2021-09-17 - GPAC Individual  
+- 2021-09-17 - Elon Invitational  
+- 2021-09-17 - NMSU Women's Aggie Invite  
+- 2021-09-18 - Division II Women's Midwest ITA Regional Championships  
+- 2021-09-17 - GPAC Individual  
 
-**Tournaments without Results**
-Click link to go to tournament website:
-  2021-09-17 - 2021 APSU Fall Tournament
-  2021-09-17 - 2021 Columbia University Invitational
-  2021-09-17 - HOKIE FALL INVITE
-  2021-09-17 - Idaho State Invite
-  2021-09-17 - Lynn Stevens Invite
-  2021-09-18 - Milwaukee Tennis Classic
-  2021-09-17 - QU Hidden Duals At Uconn
-  2021-09-17 - Redbird Invitational
-  2021-09-17 - University of Cincinnati/Pam Whitehead Fall Invitational
-  2021-09-18 - Big Red Invitational
-  2021-09-17 - Methodist University Women's Fall Invitational
-  2021-09-17 - MIT Invitational
+**Tournaments without Results**  
+Click link to go to tournament website:  
+- 2021-09-17 - 2021 APSU Fall Tournament  
+- 2021-09-17 - 2021 Columbia University Invitational  
+- 2021-09-17 - HOKIE FALL INVITE  
+- 2021-09-17 - Idaho State Invite  
+- 2021-09-17 - Lynn Stevens Invite  
+- 2021-09-18 - Milwaukee Tennis Classic  
+- 2021-09-17 - QU Hidden Duals At Uconn  
+- 2021-09-17 - Redbird Invitational  
+- 2021-09-17 - University of Cincinnati/Pam Whitehead Fall Invitational  
+- 2021-09-18 - Big Red Invitational  
+- 2021-09-17 - Methodist University Women's Fall Invitational  
+- 2021-09-17 - MIT Invitational  
 
 <a name="21-46904"></a>
 ~~~

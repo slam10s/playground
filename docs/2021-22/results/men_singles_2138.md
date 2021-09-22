@@ -2,18 +2,18 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-  2021-09-21 - ITA Division I Men's Mountain Regional Championship  
+- 2021-09-21 - ITA Division I Men's Mountain Regional Championship  
 
-**Tournaments without Results**
-Click link to go to tournament website:
-  2021-09-18 - Milwaukee Tennis Classic
+**Tournaments without Results**  
+Click link to go to tournament website:  
+- 2021-09-18 - Milwaukee Tennis Classic  
 
-**Upcoming Tournaments**
-Click link to go to tournament website:
-  2021-09-24 - Georgia State Panther Invite
-  2021-09-23 - ITA Division I Men's Ohio Valley Regional Championship
-  2021-09-24 - Quinnipiac Invitational at Fairfield University
-  2021-09-24 - American Rivers Conference Men's Individual Tournament
+**Upcoming Tournaments**  
+Click link to go to tournament website:  
+- 2021-09-24 - Georgia State Panther Invite  
+- 2021-09-23 - ITA Division I Men's Ohio Valley Regional Championship  
+- 2021-09-24 - Quinnipiac Invitational at Fairfield University  
+- 2021-09-24 - American Rivers Conference Men's Individual Tournament  
 
 <a name="21-39721"></a>
 ~~~

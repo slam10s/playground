@@ -2,22 +2,22 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-  2021-09-18 - Division II Women's Midwest ITA Regional Championships  
+- 2021-09-18 - Division II Women's Midwest ITA Regional Championships  
 
-**Tournaments without Results**
-Click link to go to tournament website:
-  2021-09-18 - Milwaukee Tennis Classic
+**Tournaments without Results**  
+Click link to go to tournament website:  
+- 2021-09-18 - Milwaukee Tennis Classic  
 
-**Upcoming Tournaments**
-Click link to go to tournament website:
-  2021-09-24 - 2021 Cal Fall Invitational
-  2021-09-24 - Bulldog Invitational
-  2021-09-23 - ITA Division I Women's Midwest Regional Championship
-  2021-09-24 - Natchitoches Women's Care/Lady Demon Collegiate Invitational
-  2021-09-24 - STETSON INVITE 1
-  2021-09-24 - University of Minnesota Gopher Invitational
-  2021-09-24 - Western Illinois University Fall Invite
-  2021-09-24 - Lindsay Morehouse Invitational
+**Upcoming Tournaments**  
+Click link to go to tournament website:  
+- 2021-09-24 - 2021 Cal Fall Invitational  
+- 2021-09-24 - Bulldog Invitational  
+- 2021-09-23 - ITA Division I Women's Midwest Regional Championship  
+- 2021-09-24 - Natchitoches Women's Care/Lady Demon Collegiate Invitational  
+- 2021-09-24 - STETSON INVITE 1  
+- 2021-09-24 - University of Minnesota Gopher Invitational  
+- 2021-09-24 - Western Illinois University Fall Invite  
+- 2021-09-24 - Lindsay Morehouse Invitational  
 
 <a name="21-14491"></a>
 ~~~
