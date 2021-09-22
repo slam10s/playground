@@ -329,7 +329,7 @@
       QF  (1) Lea Cakarevic           def.      Andrea Teofilovic       64 62
       QF  (4) Claudia Sole            def.  (8) Madeleine Whip          64 32 Ret.
       QF      Lola Cincunegui         def.      Madison Arquette        62 62
-      QF      Alexa Gamborino         def.      A. Fernanda De La Torr… 36 63 [8]
+      QF      Alexa Gamborino         def.      Maria Fernanda De La T… 36 63 [8]
       16  (1) Lea Cakarevic           def.      Emily Hadler            62 64
       16  (5) Andrea Teofilovic       def.      Muskaan Ranjan          57 75 [4]
       16  (4) Madeleine Whip          def.      Joie Reisch             Walkover
@@ -337,7 +337,7 @@
       16      Madison Arquette        def.      Isabella Sanchez        61 62
       16      Lola Cincunegui         def.      Kumiko Yamagachi        64 63
       16      Alexa Gamborino         def.      Laura Brito             63 76(1)
-      16      A. Fernanda De La Torr… def.      Chiara Wolff            75 63
+      16      Maria Fernanda De La T… def.      Chiara Wolff            75 63
       32  (1) Lea Cakarevic           def.      Patricia Martin Gomez   60 63
       32      Emily Hadler            def.      Nicole Johnson          63 64
       32  (5) Muskaan Ranjan          def.      Madison Windham         76(3) 60
@@ -353,7 +353,7 @@
       32      Alexa Gamborino         def.      Danica Malan            61 61
       32      Laura Brito             def.  (6) Brittany Lavenant       36 33 Ret.
       32      Chiara Wolff            def.      Sage Hills              63 26 [6]
-      32      A. Fernanda De La Torr… def.  (2) Courtney Rittel         63 63
+      32      Maria Fernanda De La T… def.  (2) Courtney Rittel         63 63
   > Consolation
        F      Sage Hills              def.      Nicole Johnson          60 76(1)
       SF      Nicole Johnson          def.      Cristina Nieto Soto     Walkover
