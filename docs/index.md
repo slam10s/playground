@@ -1,6 +1,6 @@
 # College Tennis Playground
 
-This repository displays college tennis data in a way that my eventually be used at the <a href="https://www.slam.tennis/teams/rankings.asp" target="_blank">SLAM.Tennis</a> website. All the information shown here comes from the public data repository <a href="https://github.com/slam10s/college-data" target="_blank">slam10s/college-data</a>.
+This repository displays college tennis data in a way that may eventually be used at the <a href="https://www.slam.tennis/teams/rankings.asp" target="_blank">SLAM.Tennis</a> website. All the information shown here comes from the public data repository <a href="https://github.com/slam10s/college-data" target="_blank">slam10s/college-data</a>.
 
 ## 2021-22 Tournament Results
 

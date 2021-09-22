@@ -1,4 +1,4 @@
-[<< Prev](men_singles_2135.md) &nbsp; **WK 36 - Sep 6-12, 2021** &nbsp; [Next >>](men_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2136.md) &#124; [Women](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2136.md) &#124; [Doubles](./men_doubles_2136.md)
+<a name="top"></a>[<< Prev](men_singles_2135.md) &nbsp; **WK 36 - Sep 6-12, 2021** &nbsp; [Next >>](men_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2136.md) &#124; [Women](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2136.md) &#124; [Doubles](./men_doubles_2136.md)
 
 **Tournamets with Results**  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Draws](https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174))  
@@ -6,7 +6,7 @@
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Draws](https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374))  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Draws](https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD))  
 
-Click link to go to tournament website:  
+**Tournaments without Results**  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">2021 Dar Walters Classic</a>
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Gator Fall Invite</a>
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Orange Lawn Fall Invitational</a>
@@ -45,7 +45,7 @@ Click link to go to tournament website:
       F  Ryan Flanagan        def.  Ryan Ford            61 61
   > Southwest
       F  Lorenzo Orellano     def.  Martin Thomas        Walkover
-  > Flight Crimson 1
+ > Flight Crimson 1
   > East
       F  Louis Menard         def.  Daniel Sancho Arbizu 63 76(6)
      SF  Louis Menard         def.  Savan Chhabra        63 46 61
@@ -84,7 +84,7 @@ Click link to go to tournament website:
       F  Cesar Barranquero    def.  Eban Straker-Meads   Walkover
   > Southeast
       F  Filippo Salsini      def.  Jose Dominguez       Walkover
-  > Flight Crimson 2
+ > Flight Crimson 2
   > East
       F  Alexander Groves     def.  Gijs Akkermans       76(2) 36 61
      SF  Alexander Groves     def.  Oswaldo Cano Sosa    63 62
@@ -125,7 +125,7 @@ Click link to go to tournament website:
       F  Jose Maria Rastrojo  def.  Andre Millet         Walkover
   > Southeast
       F  Patricio Larrea      def.  Erik Dallmann        60 61
-  > Crimson added matches
+ > Crimson added matches
   > Main
      16  Dominik Buzonics     def.  Benjamin McDonald    62 36 76(5)
      16  Cesar Barranquero    def.  Joaquin Delpino      76 60
@@ -159,7 +159,7 @@ Click link to go to tournament website:
       F  Cameron Krimbill     def.  Oskar Irdoja         76(6) 76(5)
   > South
       F  Micah Hunter         def.  Mathew Stephenson    64 62
-  > Flight B
+ > Flight B
   > East
       F  Niklas Knoerr        def.  Chad Nguyen          76(6) 64
      SF  Chad Nguyen          def.  Carlos Esteban Rode… 61 62
@@ -176,7 +176,7 @@ Click link to go to tournament website:
       F  Dennis Miller        def.  Carlos Esteban Rode… 75 36 [6]
   > South
       F  Ryan Schulte         def.  Alessio Azzalini     Default
-  > Flight C
+ > Flight C
   > East
       F  Caio Ravagnani       def.  Alvaro Soler         62 46 [6]
      SF  Alvaro Soler         def.  Steven Tibbetts      61 26 [7]
@@ -193,7 +193,7 @@ Click link to go to tournament website:
       F  Steven Tibbetts      def.  Anton Borovik        61 61
   > South
       F  Simon Carandang      def.  Christian Settles    Default
-  > Flight D
+ > Flight D
   > East
       F  Cameron Goldstein    def.  Mario Urdaneta       64 61
      SF  Cameron Goldstein    def.  Gabrijel Kajic       62 60
@@ -210,7 +210,7 @@ Click link to go to tournament website:
       F  Jared Burton         def.  Gabrijel Kajic       62 62
   > South
       F  Nicholas Gates       def.  Nico Rios            60 64
-  > Flight E
+ > Flight E
   > East
       F  Eric Liao            def.  Oscar Roy            64 62
      SF  Eric Liao            def.  Graidyn Bowe         62 63
@@ -227,7 +227,7 @@ Click link to go to tournament website:
       F  Graidyn Bowe         def.  Dristen Weaver       61 60
   > South
       F  Hunter Green         def.  Chris Doyal          Default
-  > Flight F
+ > Flight F
   > East
       F  Daniel Matheu Baldor def.  Connor Whittington   64 76(5)
      SF  Daniel Matheu Baldor def.  Daniel Haley         61 60
@@ -244,7 +244,7 @@ Click link to go to tournament website:
       F  Daniel Haley         def.  Michael Canales      61 62
   > South
       F  Hunter Kimbell Cook  def.  Quinten Robertson    Default
-  > Flight G
+ > Flight G
   > East
       F  Nicolas Llosa        def.  Max Pearson          60 60
      SF  Nicolas Llosa        def.  Robert Chang         75 62
@@ -261,7 +261,7 @@ Click link to go to tournament website:
       F  Sebastian Azcui      def.  Robert Chang         26 60 [10]
   > South
       F  Giovanny Barragan    def.  Carter Marsh         46 64 [9]
-  > Flight H
+ > Flight H
   > East
       F  Hemanshu Rambojun    def.  Cole Reed            60 60
      SF  Cole Reed            def.  Ryan Koth            Walkover
@@ -278,7 +278,7 @@ Click link to go to tournament website:
       F  Cal Hunter           def.  Ryan Koth            Walkover
   > South
       F  Justin Alvarez       def.  Aaron Salinas        63 60
-  > Flight I
+ > Flight I
   > East
       F  Jake Faryniarz       def.  Dalton Locke         26 62 [3]
      SF  Dalton Locke         def.  Rafael Macedo        64 63
@@ -289,7 +289,7 @@ Click link to go to tournament website:
       F  Daniel Garza         def.  Tyler Sargent        60 62
   > 3-4 Playoff
       F  Rafael Macedo        def.  Julian Martinez      60 61
-  > Flight J
+ > Flight J
   > Main
       F  Yu Senda             def.  Jason Harris         76(1) 62
      SF  Yu Senda             def.  Adrian Alejandro     61 63
@@ -322,7 +322,7 @@ Click link to go to tournament website:
       F  Patrick Shelepov     def.  Semyon Tsyrenov      83
      SF  Semyon Tsyrenov      def.  Santiago Rodriguez   97
      SF  Patrick Shelepov     def.  Louis Keiner         81
-  > Flight B
+ > Flight B
   > Main
       F  Max Sanoja           def.  Robert Schorr        64 46 [7]
      SF  Robert Schorr        def.  Marco Salamanca De … 62 62
@@ -336,7 +336,7 @@ Click link to go to tournament website:
       F  Cris Cequea          def.  Joe Harris           Walkover
      SF  Joe Harris           def.  Andres Sahagun       86
      SF  Cris Cequea          def.  Youssef Nabil        Walkover
-  > Flight C
+ > Flight C
   > Main
       F  Fabian Neff          def.  Nathan Cooke         63 61
      SF  Fabian Neff          def.  Jaeden Mukkaladyil   62 60
@@ -377,7 +377,7 @@ Click link to go to tournament website:
       F  Marc Janse          def.  Marko Sudar         61 60
   > South
       F  Xaveam Can Wijk     def.  Alex Turner         76(5) 61
-  > Red
+ > Red
   > East
      SF  Luka Brown          def.  SEANE KEANE         64 75
      SF  Edis Nokic          def.  Matthew Orozco      60 61
@@ -393,7 +393,7 @@ Click link to go to tournament website:
       F  SEANE KEANE         def.  Matthew Orozco      64 60
   > South
       F  Rintaro Oka         def.  Paul Dekester       75 62
-  > Green
+ > Green
   > East
      SF  Tolunay Sumer       def.  NOLAN SMITH         62 63
      SF  Federico Spinetta   def.  Ids Waterbolk       62 67(4) [8]
@@ -409,7 +409,7 @@ Click link to go to tournament website:
       F  Ids Waterbolk       def.  NOLAN SMITH         63 63
   > South
       F  Pedro Knippling     def.  Marco Garofalo      43 Ret.
-  > Purple
+ > Purple
   > East
       F  Richard Dulganov    def.  Matteo Gostoli      Walkover
      SF  Matteo Gostoli      def.  Patrick Arapi       36 60 [8]
@@ -422,7 +422,7 @@ Click link to go to tournament website:
       F  Sebastian Zabala    def.  BRADLEY BOMAR       63 62
      SF  BRADLEY BOMAR       def.  Luca Ricciardi      63 63
      SF  Sebastian Zabala    def.  MITCHELL DAVIES     61 42 Ret.
-  > Orange
+ > Orange
   > Main
      R3  Tyler Juergens      def.  Lars Hordijk        61 63
      R3  Joseph Phelan       def.  Cohen Sechrist      62 63
@@ -431,3 +431,4 @@ Click link to go to tournament website:
      R1  Tyler Juergens      def.  Cohen Sechrist      61 61
      R1  Lars Hordijk        def.  Joseph Phelan       60 61
 ~~~
+Return to the [Top](#top) &#124; [Home Page](../../index.md)

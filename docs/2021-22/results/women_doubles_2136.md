@@ -1,4 +1,4 @@
-[<< Prev](women_doubles_2135.md) &nbsp; **WK 36 - Sep 6-12, 2021** &nbsp; [Next >>](women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2136.md) &#124; [***Women***](./women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2136.md) &#124; [***Doubles***](./women_doubles_2136.md)
+<a name="top"></a>[<< Prev](women_doubles_2135.md) &nbsp; **WK 36 - Sep 6-12, 2021** &nbsp; [Next >>](women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2136.md) &#124; [***Women***](./women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2136.md) &#124; [***Doubles***](./women_doubles_2136.md)
 
 **Tournamets with Results**  
 - 9/10/2021 - [Bill and Sandra Moore Invitational](#21-34233) ([Draws](https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/91B59866-0B48-4129-8FAE-B1A88BCD7896))  
@@ -9,7 +9,7 @@
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Draws](https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374))  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Draws](https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD))  
 
-Click link to go to tournament website:  
+**Tournaments without Results**  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfLouisianaMonroeW/Tournaments/Overview/54708D1F-C66A-43B0-AD2A-D851EE9A1A35" target="_blank">Warhawk Invite</a>
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">University of Findlay/Findlay YMCA East Fall Invite</a>
@@ -35,13 +35,13 @@ Click link to go to tournament website:
      QF  Corpuz/Komarraju     def.  James/Imhof          85
      16  Miller/Seidlin       def.  Gasser/Spurka        85
      16  Bellini/King         def.  Casadei/Kaplan       80
-  > Flight A Backdraw
+ > Flight A Backdraw
   > Main
       F  James/Imhof          def.  Vorozheikina/Kubano… 87(6)
      SF  Vorozheikina/Kubano… def.  Gasser/Spurka        85
      SF  James/Imhof          def.  Casadei/Kaplan       Walkover
      QF  Casadei/Kaplan       def.  Gubanova/Roque       87(4)
-  > Flight B
+ > Flight B
   > Main
       F  Moore/Johns          def.  Isago/Bettinelli     85
      SF  Moore/Johns          def.  Hagino/Coleman       82
@@ -53,14 +53,14 @@ Click link to go to tournament website:
      16  Moore/Johns          def.  Araceli Velilla/Jan… 83
      16  Utterback/Lajos      def.  Bergmann/Aruj        83
      16  Buchinsky/Javagal    def.  Jamir/Mills          85
-  > Flight B Backdraw
+ > Flight B Backdraw
   > Main
       F  Dania/Dania          def.  Bergmann/Aruj        Walkover
      SF  Dania/Dania          def.  Novak/Marcus         86
      SF  Bergmann/Aruj        def.  Farid/Ribaudo        85
      QF  Dania/Dania          def.  Araceli Velilla/Jan… 85
      QF  Farid/Ribaudo        def.  Jamir/Mills          82
-  > Flight C
+ > Flight C
   > Main
       F  Bhagia/Singh         def.  Shanker/Accola       Walkover
      SF  Shanker/Accola       def.  Lasheen/Gulia        84
@@ -72,7 +72,7 @@ Click link to go to tournament website:
      16  DeNardo/Landstrom    def.  Gumieniak/Beckner    86
      16  Sebulsky/Zilkha      def.  Chen/Ackroyd         86
      16  Stanley/Young        def.  Kimmey/Smith         85
-  > Flight C Backdraw
+ > Flight C Backdraw
   > Main
       F  Kimmey/Smith         def.  Chen/Ackroyd         Walkover
      SF  Chen/Ackroyd         def.  Gumieniak/Beckner    84
@@ -138,7 +138,7 @@ Click link to go to tournament website:
      SF  Fortuno/Malazonia    def.  Despriet/Synoski     85
   > 3-4 Playoff
       F  Arranz/Mocciola      def.  Ovcina/Gonzalez Ram… Walkover
-  > Flight 2
+ > Flight 2
   > Main
      R3  Bowers/Schwartz      def.  Lora Meza/Shannon    83
      R3  Kesterson/Ziehm      def.  Garrote/Guerrero     87(4)
@@ -152,7 +152,7 @@ Click link to go to tournament website:
       F  Bowers/Schwartz      def.  Kesterson/Ziehm      83
   > Playoff 3
       F  Lora Meza/Shannon    def.  Garrote/Guerrero     86
-  > Flight 3
+ > Flight 3
   > Main
      R3  Rodriguez/Vishnevsk… def.  Shethia/Le           83
      R3  Wahl/Chisholm        def.  Hosking/Vaudiau      85
@@ -193,7 +193,7 @@ Click link to go to tournament website:
       F  Fulgenzi/Fulgenzi    def.  Leslie/Gaskins       62
   > South
       F  Sprayberry/Nave      def.  Enloe/Brancaleon     75
-  > Flight B
+ > Flight B
   > East
       F  Vargas/Garcia        def.  Carpenter/Teran      61
      SF  Carpenter/Teran      def.  Franco Salcedo/Park… 62
@@ -210,7 +210,7 @@ Click link to go to tournament website:
       F  Hughes/Miller        def.  Franco Salcedo/Park… 64
   > South
       F  Parrott/Denton       def.  Jonescue/Johnson     61
-  > Flight C
+ > Flight C
   > East
       F  Thane/Ioannou        def.  Vogelmann/Stafford   63
      SF  Vogelmann/Stafford   def.  Lee/Cummings         75
@@ -223,7 +223,7 @@ Click link to go to tournament website:
      SF  Hatchett/Richard     def.  Madamba/Rompel       60
   > 3-4 Playoff
       F  Kermet/Landaluce     def.  Lee/Cummings         60
-  > Flight D
+ > Flight D
   > Main
       F  Munoz/Navarro-Cavaz… def.  Castleberry/Omeire   62
      SF  Castleberry/Omeire   def.  Gardner/Hoffman      60
@@ -272,7 +272,7 @@ Click link to go to tournament website:
       F  Aranyos/Hendricks   def.  BINZARI/KRIEG        64
      SF  BINZARI/KRIEG       def.  Axelsson/Bertran De… Walkover
      SF  Aranyos/Hendricks   def.  Klaassen/Veselinova  Walkover
-  > Red
+ > Red
   > East
       F  Morse/Vollmin       def.  Speiser/Reeves       60
      SF  Morse/Vollmin       def.  Beardsley/Laughton   64
@@ -281,7 +281,7 @@ Click link to go to tournament website:
      QF  Beardsley/Laughton  def.  SCHAUB/HEED          61
      QF  Galeano/Socarras    def.  Poliakova/Correia    61
      QF  Speiser/Reeves      def.  MACIAS/DRAKE         64
-  > Green
+ > Green
   > Main
      R3  Berggren/Guidantoni def.  Gonzalez/Sommariva   62
      R3  AGARWAL/MATTHEWS    def.  Billingsly/Steiner   62
@@ -290,3 +290,4 @@ Click link to go to tournament website:
      R1  Berggren/Guidantoni def.  Ulloa/Chornei        62
      R1  Halickman/Gagnon    def.  Billingsly/Steiner   61
 ~~~
+Return to the [Top](#top) &#124; [Home Page](../../index.md)

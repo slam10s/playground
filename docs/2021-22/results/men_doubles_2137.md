@@ -1,10 +1,10 @@
-[<< Prev](men_doubles_2136.md) &nbsp; **WK 37 - Sep 13-19, 2021** &nbsp; [Next >>](men_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2137.md) &#124; [Women](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2137.md) &#124; [***Doubles***](./men_doubles_2137.md)
+<a name="top"></a>[<< Prev](men_doubles_2136.md) &nbsp; **WK 37 - Sep 13-19, 2021** &nbsp; [Next >>](men_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2137.md) &#124; [Women](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2137.md) &#124; [***Doubles***](./men_doubles_2137.md)
 
 **Tournamets with Results**  
 - 9/17/2021 - [Jersey Mike's Seahawk Fall Invitational](#21-41355) ([Draws](https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/B5F60616-E79D-49E3-B226-EA1A8F6D19C9))  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Draws](https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892))  
 
-Click link to go to tournament website:  
+**Tournaments without Results**  
 - 9/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Bedford Cup in the Mountains</a>
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/FFC0211B-E579-4EA7-9FE6-D4E9522C2014" target="_blank">Duke Bonk Invitational</a>
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>
@@ -58,7 +58,7 @@ Click link to go to tournament website:
   > Main
      QF     Janssen/Struffi  def. (4) Kitson/Rabellino     75
      16     Kitson/Rabellino def.     Wagner/Gonsor        62
-  > Flight B
+ > Flight B
   > Main
      QF     Ciotti/Hansen    def. (4) Sodorff/Waite        64
      QF (3) Brocanelli/Sion  def.     Bindl/Springer       61
@@ -71,3 +71,4 @@ Click link to go to tournament website:
      16     Arza/Heiss       def.     DeLeo/Swaney         61
      16     Beke/Coy         def. (2) Pacheco/Rodriguez B… 63
 ~~~
+Return to the [Top](#top) &#124; [Home Page](../../index.md)

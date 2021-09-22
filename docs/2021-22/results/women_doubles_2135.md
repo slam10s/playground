@@ -1,9 +1,9 @@
-<< Prev &nbsp; **WK 35 - Aug 30 - Sep 5** &nbsp; [Next >>](women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2135.md) &#124; [***Women***](./women_doubles_2135.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2135.md) &#124; [***Doubles***](./women_doubles_2135.md)
+<a name="top"></a><< Prev &nbsp; **WK 35 - Aug 30 - Sep 5** &nbsp; [Next >>](women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2135.md) &#124; [***Women***](./women_doubles_2135.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2135.md) &#124; [***Doubles***](./women_doubles_2135.md)
 
 **Tournamets with Results**  
 - 9/3/2021 - [Tyler Invite](#21-00238) ([Draws](https://colleges.wearecollegetennis.com/competitions/UnivOfTexasTylerW/Tournaments/Overview/2BA0D609-FAB2-4A48-859D-61975908AE40))  
 
-Click link to go to tournament website:  
+**Tournaments without Results**  
 - 9/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/4E7E69DF-F521-4DA8-A3AB-8131B80552CE" target="_blank">Warhawk Invitational</a>
 
 <a name="21-00238"></a>
@@ -22,7 +22,7 @@ Click link to go to tournament website:
      R2  Hunger/Simas         def.  Ramirez Llorens/Vog… Walkover
      R1  Kononovych/Milojevic def.  Hunger/Simas         63
      R1  Aswal/Lozano         def.  Ramirez Llorens/Vog… Default
-  > Flight 1
+ > Flight 1
   > East
       F  Martins/Anzalotta    def.  Canete/Canete        63
      SF  Martins/Anzalotta    def.  Lespes/Belberka      62
@@ -37,7 +37,7 @@ Click link to go to tournament website:
      SF  Ule/Frigout          def.  Milosevic/Wallin     62
   > South
       F  Chawner/Dix          def.  Milosevic/Wallin     64
-  > Flight 2
+ > Flight 2
   > East
       F  Cerda/Kauders        def.  Apisah/Wild          64
      SF  Apisah/Wild          def.  Buntrock/Boyar       62
@@ -54,7 +54,7 @@ Click link to go to tournament website:
       F  Buntrock/Boyar       def.  McDonald/Royall      64
   > South
       F  Chadick/Brocks       def.  Roy/Gill             60
-  > Flight 3
+ > Flight 3
   > East
       F  Fabre/Kouchnareva    def.  Furness/Bleicher     60
      SF  Fabre/Kouchnareva    def.  Penn/Conway          62
@@ -72,3 +72,4 @@ Click link to go to tournament website:
   > South
       F  Serpukhova/Yoshimura def.  Farris/Saravanan     Walkover
 ~~~
+Return to the [Top](#top) &#124; [Home Page](../../index.md)

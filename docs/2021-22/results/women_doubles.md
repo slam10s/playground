@@ -1,9 +1,9 @@
-[<< Prev](women_doubles_2137.md) &nbsp; **WK 38 - Sep 20-26, 2021** &nbsp; [Next >>](women_doubles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2138.md) &#124; [***Women***](./women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2138.md) &#124; [***Doubles***](./women_doubles_2138.md)
+<a name="top"></a>[<< Prev](women_doubles_2137.md) &nbsp; **WK 38 - Sep 20-26, 2021** &nbsp; [Next >>](women_doubles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2138.md) &#124; [***Women***](./women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2138.md) &#124; [***Doubles***](./women_doubles_2138.md)
 
 **Tournamets with Results**  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Draws](https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04))  
 
-Click link to go to tournament website:  
+**Tournaments without Results**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>
 
 **Upcoming Tournaments**  
@@ -50,7 +50,7 @@ Click link to go to tournament website:
       QQ (4) cupper/lisson        def.     Rittel/Chawner       86
       QQ     Hanover/Huang        def. (3) Laverdiere/Martin G… 83
       QQ     Gamborino/Sanchez    def.     Trystan/Platisota    Walkover
-  > Draw A Doubles
+ > Draw A Doubles
   > Main
        F (1) Novikova/Dunlap      def.     Stephenson/Waller    61 64
       SF (1) Novikova/Dunlap      def.     Lagoda/Cakarevic     84
@@ -100,3 +100,4 @@ Click link to go to tournament website:
      16Q     Padberg/Beidacki     def.     Skjelstad/Mokhasi    98(5)
      16Q     Kuehnle/Eremina      def. (2) Zafeiri/Reisch       81
 ~~~
+Return to the [Top](#top) &#124; [Home Page](../../index.md)

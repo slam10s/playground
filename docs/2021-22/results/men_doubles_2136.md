@@ -1,4 +1,4 @@
-[<< Prev](men_doubles_2135.md) &nbsp; **WK 36 - Sep 6-12, 2021** &nbsp; [Next >>](men_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2136.md) &#124; [Women](./women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2136.md) &#124; [***Doubles***](./men_doubles_2136.md)
+<a name="top"></a>[<< Prev](men_doubles_2135.md) &nbsp; **WK 36 - Sep 6-12, 2021** &nbsp; [Next >>](men_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2136.md) &#124; [Women](./women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2136.md) &#124; [***Doubles***](./men_doubles_2136.md)
 
 **Tournamets with Results**  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Draws](https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174))  
@@ -6,7 +6,7 @@
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Draws](https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374))  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Draws](https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD))  
 
-Click link to go to tournament website:  
+**Tournaments without Results**  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">2021 Dar Walters Classic</a>
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Gator Fall Invite</a>
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Orange Lawn Fall Invitational</a>
@@ -53,7 +53,7 @@ Click link to go to tournament website:
       F     Steele/Purne         def.     Lock/Vega            84
   > Northwest
       F     Tumosa/Straker-Meads def. (2) Delpino/Du           83
-  > Crimson Flight 2
+ > Crimson Flight 2
   > East
       F     McDonald/Cano Sosa   def.     Garcia-Ripoll Ore/S… 85
      SF     McDonald/Cano Sosa   def.     Schaefer/Sulen       85
@@ -70,7 +70,7 @@ Click link to go to tournament website:
       F     Schaefer/Sulen       def.     Ford/Donovan         82
   > South
       F     Orellano/Dallmann    def.     Diaz/Synnott         83
-  > Crimson added doubles match
+ > Crimson added doubles match
   > Main
       F     Barranquero/Chhabra  def.     Larrea/Mere          82
 ~~~
@@ -94,7 +94,7 @@ Click link to go to tournament website:
       F  Weaver/Alvarez       def.  Rodriguez/Arrezola   Walkover
   > 3-4 Playoff
       F  Schechter/Johns      def.  Reed/Barragan        61
-  > Flight C
+ > Flight C
   > East
       F  Chang/Locke          def.  Macedo/Bowe          64
      SF  Chang/Locke          def.  Koth/Urdaneta        62
@@ -111,7 +111,7 @@ Click link to go to tournament website:
       F  Borovik/Burton       def.  Koth/Urdaneta        Walkover
   > South
       F  Kimbell Cook/Huang   def.  Robertson/Barragan   Default
-  > Flight B
+ > Flight B
   > East
       F  Hunter/Krimbill      def.  Esteban Rodero/Tibb… 64
      SF  Hunter/Krimbill      def.  Faryniarz/Azcui      76(5)
@@ -126,7 +126,7 @@ Click link to go to tournament website:
      SF  Cervantes/Gallinar   def.  Gates/Knight         64
   > South
       F  Gates/Knight         def.  Rios/Carandang       64
-  > Flight A
+ > Flight A
   > East
       F  Rambojun/Bajoit      def.  Miller/Kirk          64
      SF  Miller/Kirk          def.  Nguyen/Settles       Walkover
@@ -143,7 +143,7 @@ Click link to go to tournament website:
       F  Schulte/Stephenson   def.  Nguyen/Settles       Walkover
   > South
       F  Hunter/Green         def.  Goldstein/Azzalini   Walkover
-  > Flight E
+ > Flight E
   > Main
       F  Matheu Baldor/Senda  def.  Sargent/Solis        60
      SF  Matheu Baldor/Senda  def.  Garza/Alejandro      62
@@ -198,16 +198,17 @@ Click link to go to tournament website:
      SF  Can Wijk/Turner    def.  MACMILLIAN/WINTER  63
   > South
       F  MACMILLIAN/WINTER  def.  Van Dalen/Oka      64
-  > Red
+ > Red
   > Main
      R3  BOMAR/SMITH        def.  Phelan/Sechrist    61
      R2  Zababuryn/Juergens def.  Phelan/Sechrist    62
      R1  Spinetta/Gostoli   def.  Phelan/Sechrist    61
      R1  Zababuryn/Juergens def.  BOMAR/SMITH        64
-  > White
+ > White
   > Main
      R4  DECALUWE/KEANE     def.  Zabala/Sudar       63
      R4  Sumer/Nossler      def.  Knippling/Garofalo 61
      R1  Sumer/Nossler      def.  DECALUWE/KEANE     64
      R1  Zabala/Sudar       def.  Waterbolk/Dulganov 75
 ~~~
+Return to the [Top](#top) &#124; [Home Page](../../index.md)

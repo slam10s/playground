@@ -1,4 +1,4 @@
-[<< Prev](women_doubles_2136.md) &nbsp; **WK 37 - Sep 13-19, 2021** &nbsp; [Next >>](women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2137.md) &#124; [***Women***](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2137.md) &#124; [***Doubles***](./women_doubles_2137.md)
+<a name="top"></a>[<< Prev](women_doubles_2136.md) &nbsp; **WK 37 - Sep 13-19, 2021** &nbsp; [Next >>](women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2137.md) &#124; [***Women***](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2137.md) &#124; [***Doubles***](./women_doubles_2137.md)
 
 **Tournamets with Results**  
 - 9/17/2021 - [Elon Invitational](#21-46904) ([Draws](https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A))  
@@ -6,7 +6,7 @@
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Draws](https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04))  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Draws](https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892))  
 
-Click link to go to tournament website:  
+**Tournaments without Results**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D" target="_blank">2021 Columbia University Invitational</a>
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechW/Tournaments/Overview/ACE61305-F599-467B-BCC6-93D21D1C354A" target="_blank">HOKIE FALL INVITE</a>
@@ -41,7 +41,7 @@ Click link to go to tournament website:
       F  Hussain/Muzzolon     def.  Barquero/Chan Barat… 85
      SF  Barquero/Chan Barat… def.  Komarraju/Corpuz     83
      SF  Hussain/Muzzolon     def.  Dougah/Dickson       Walkover
-  > Gold
+ > Gold
   > East
       F  Archer/Ball          def.  Siegel/Steenkamp     85
      SF  Siegel/Steenkamp     def.  Dean/Muzik           86
@@ -56,7 +56,7 @@ Click link to go to tournament website:
      SF  Hill/Gaines          def.  Accola/Shanker       87(5)
   > 3-4 Playoff
       F  Dean/Muzik           def.  Craft/Mitchell       87(4)
-  > Powell
+ > Powell
   > East
       F  Bachir el Bouhali/C… def.  Lee/Unger            83
      SF  Lee/Unger            def.  Allen/Galvin         85
@@ -160,7 +160,7 @@ Click link to go to tournament website:
       QQ (4) cupper/lisson        def.     Rittel/Chawner       86
       QQ     Hanover/Huang        def. (3) Laverdiere/Martin G… 83
       QQ     Gamborino/Sanchez    def.     Trystan/Platisota    Walkover
-  > Draw A Doubles
+ > Draw A Doubles
   > Main
        F (1) Novikova/Dunlap      def.     Stephenson/Waller    61 64
       SF (1) Novikova/Dunlap      def.     Lagoda/Cakarevic     84
@@ -223,7 +223,7 @@ Click link to go to tournament website:
   > Main
      16     Ferrel/Morales       def.     Hansen/Lewis         64
      16     Do Lago/Lumanog      def. (2) Badger/Gonsor        64
-  > Flight B
+ > Flight B
   > Main
      QF     Chiasson/Swanson     def.     Groski/Ruiz-Martinez 64
      QF (3) Glosser/Fox          def.     Benitez/Schwarzkopf  61
@@ -236,3 +236,4 @@ Click link to go to tournament website:
      QQ     Hastings/Thompson    def. (4) Buck/Johnson         60
      QQ     Phillips/Freudenburg def.     McDowall/Sae-eurng   63
 ~~~
+Return to the [Top](#top) &#124; [Home Page](../../index.md)

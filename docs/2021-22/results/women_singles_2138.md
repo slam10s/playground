@@ -1,9 +1,9 @@
-[<< Prev](women_singles_2137.md) &nbsp; **WK 38 - Sep 20-26, 2021** &nbsp; [Next >>](women_singles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2138.md) &#124; [***Women***](./women_singles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2138.md) &#124; [Doubles](./women_doubles_2138.md)
+<a name="top"></a>[<< Prev](women_singles_2137.md) &nbsp; **WK 38 - Sep 20-26, 2021** &nbsp; [Next >>](women_singles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2138.md) &#124; [***Women***](./women_singles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2138.md) &#124; [Doubles](./women_doubles_2138.md)
 
 **Tournamets with Results**  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Draws](https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04))  
 
-Click link to go to tournament website:  
+**Tournaments without Results**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>
 
 **Upcoming Tournaments**  
@@ -121,7 +121,7 @@ Click link to go to tournament website:
      32Q      Isabella Carofano    def.      Shantala Uzcategui   64 06 [8]
      32Q      Lauren Rowe          def.      Elizabeth McGivern   75 61
      32Q      Gabriella Hudec      def.      Lauren Hollis        61 64
-  > Draw B Singles
+ > Draw B Singles
   > Main
        F  (1) Lea Cakarevic        def.      Alexa Gamborino      76(4) 62
       SF  (1) Lea Cakarevic        def.  (8) Claudia Sole         61 46 [6]
@@ -171,3 +171,4 @@ Click link to go to tournament website:
      16Q      Danica Malan         def.  (6) Brittany Lavenant    Walkover
      16Q      Sage Hills           def.  (2) Courtney Rittel      64 46 [4]
 ~~~
+Return to the [Top](#top) &#124; [Home Page](../../index.md)

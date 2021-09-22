@@ -1,4 +1,4 @@
-[<< Prev](women_singles_2136.md) &nbsp; **WK 37 - Sep 13-19, 2021** &nbsp; [Next >>](women_singles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2137.md) &#124; [***Women***](./women_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2137.md) &#124; [Doubles](./women_doubles_2137.md)
+<a name="top"></a>[<< Prev](women_singles_2136.md) &nbsp; **WK 37 - Sep 13-19, 2021** &nbsp; [Next >>](women_singles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2137.md) &#124; [***Women***](./women_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2137.md) &#124; [Doubles](./women_doubles_2137.md)
 
 **Tournamets with Results**  
 - 9/17/2021 - [Elon Invitational](#21-46904) ([Draws](https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A))  
@@ -6,7 +6,7 @@
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Draws](https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04))  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Draws](https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892))  
 
-Click link to go to tournament website:  
+**Tournaments without Results**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D" target="_blank">2021 Columbia University Invitational</a>
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechW/Tournaments/Overview/ACE61305-F599-467B-BCC6-93D21D1C354A" target="_blank">HOKIE FALL INVITE</a>
@@ -45,7 +45,7 @@ Click link to go to tournament website:
       F  Taylor Dean          def.  Sibel Tanik          46 76(4) 63
   > South
       F  Ami Grace Dougah     def.  Samantha Johns       Walkover
-  > Gold
+ > Gold
   > East
       F  Lize Alet Morkel     def.  Ji Youn Lee          57 64 62
      SF  Lize Alet Morkel     def.  Martina Muzzolon     64 61
@@ -58,7 +58,7 @@ Click link to go to tournament website:
       F  Lucie Petruzelova    def.  Ariana Chan Baratau  61 62
      SF  Lucie Petruzelova    def.  Meghana Komarraju    61 61
      SF  Ariana Chan Baratau  def.  Katreina Corpuz      60 57 63
-  > Powell
+ > Powell
   > East
       F  Katherine Muzik      def.  Ines Bachir el Bouh… 62 64
      SF  Ines Bachir el Bouh… def.  Kennedy Hill         62 64
@@ -72,7 +72,7 @@ Click link to go to tournament website:
      SF  Sylvia Eklund        def.  Raegan Mitchell      Walkover
   > South
       F  Olivia Archer        def.  Raegan Mitchell      Walkover
-  > Acorn
+ > Acorn
   > East
       F  Julie Ball           def.  Alisha Hussain       64 63
      SF  Julie Ball           def.  Maria Picazo         60 62
@@ -87,7 +87,7 @@ Click link to go to tournament website:
      SF  Juliana Craft        def.  Kate Lee             Walkover
   > South
       F  Linge Steenkamp      def.  Kate Lee             Walkover
-  > Oak
+ > Oak
   > East
       F  Maddie Brown         def.  Anne Lou Champion    61 64
      SF  Maddie Brown         def.  Parvathi Shanker     64 36 64
@@ -104,7 +104,7 @@ Click link to go to tournament website:
       F  Alison ODea          def.  Parvathi Shanker     62 60
   > South
       F  Hannah Gaines        def.  Rosie Dickson        Walkover
-  > Phoenix
+ > Phoenix
   > East
       F  Beatrice Faureng     def.  Sophia Unger         76(4) 64
      SF  Beatrice Faureng     def.  Sarah Allen          64 63
@@ -121,7 +121,7 @@ Click link to go to tournament website:
       F  Sarah Allen          def.  Kendall Byers        63 60
   > South
       F  Alisa Diercksen      def.  Anaiah Jones         62 61
-  > Extra Matches
+ > Extra Matches
   > Main
      QF  Olivia Archer        def.  Sylvia Eklund        63 64
      QF  Meghana Komarraju    def.  Isabelle Exsted      62 Ret.
@@ -172,7 +172,7 @@ Click link to go to tournament website:
       F     Lina Sachica         def.     Julia Tozzi          46 63 [11]
   > Northwest
       F     Kathleen Percegona   def.     Ileana Mocciola      57 61 [7]
-  > White
+ > White
   > East
       F (1) Mingfang Lisa Zhu    def. (3) Myu Kageyama         64 62
      SF (1) Mingfang Lisa Zhu    def. (4) Andrea Guerrero      63 64
@@ -200,7 +200,7 @@ Click link to go to tournament website:
   > South
       F     Sarah Alice OConnor  def.     Johanna Lutz         64 61
      SF     Johanna Lutz         def.     Karla Grobbelaar     Walkover
-  > Grey
+ > Grey
   > East
       F (4) Hsiang-Wen Huang     def. (2) satoho Toriumi       75 75
      SF     satoho Toriumi       def. (4) Lyric Bonilla        64 76(4)
@@ -341,7 +341,7 @@ Click link to go to tournament website:
      32Q      Isabella Carofano    def.      Shantala Uzcategui   64 06 [8]
      32Q      Lauren Rowe          def.      Elizabeth McGivern   75 61
      32Q      Gabriella Hudec      def.      Lauren Hollis        61 64
-  > Draw B Singles
+ > Draw B Singles
   > Main
        F  (1) Lea Cakarevic        def.      Alexa Gamborino      76(4) 62
       SF  (1) Lea Cakarevic        def.  (8) Claudia Sole         61 46 [6]
@@ -420,7 +420,7 @@ Click link to go to tournament website:
      QQ     Tara Ferrel       def.     Emma Markle          84
      QQ     Aleks Sadowska    def.     Haley Gonsor         85
      QQ     Tessa Hurst       def.     Theresa Price        85
-  > Flight B
+ > Flight B
   > Main
      QF (1) Ava Macke         def.     Brooke Hosick        60 60
      QF (3) Regi Zakrzewski   def.     Grace Felder         64 16 [8]
@@ -433,7 +433,7 @@ Click link to go to tournament website:
   > Consolation
      QQ     Kaia Chiasson     def.     Brailey DeLaO        62 62
      QQ     Shelain Lewis     def.     Tessa Blough         86
-  > Flight C
+ > Flight C
   > Main
       F (1) Ashlyn Kucera     def.     Brylee Lauby         61 64
      SF (1) Brylee Lauby      def. (3) Alexandra Glosser    63 61
@@ -453,3 +453,4 @@ Click link to go to tournament website:
      QQ     Jessica Wilson    def.     Jenna Davison        84
      QQ     Emma Montenegro   def.     Shelby Buck          83
 ~~~
+Return to the [Top](#top) &#124; [Home Page](../../index.md)

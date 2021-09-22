@@ -1,4 +1,4 @@
-[<< Prev](women_singles_2135.md) &nbsp; **WK 36 - Sep 6-12, 2021** &nbsp; [Next >>](women_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2136.md) &#124; [***Women***](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2136.md) &#124; [Doubles](./women_doubles_2136.md)
+<a name="top"></a>[<< Prev](women_singles_2135.md) &nbsp; **WK 36 - Sep 6-12, 2021** &nbsp; [Next >>](women_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2136.md) &#124; [***Women***](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2136.md) &#124; [Doubles](./women_doubles_2136.md)
 
 **Tournamets with Results**  
 - 9/10/2021 - [Bill and Sandra Moore Invitational](#21-34233) ([Draws](https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/91B59866-0B48-4129-8FAE-B1A88BCD7896))  
@@ -9,7 +9,7 @@
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Draws](https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374))  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Draws](https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD))  
 
-Click link to go to tournament website:  
+**Tournaments without Results**  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfLouisianaMonroeW/Tournaments/Overview/54708D1F-C66A-43B0-AD2A-D851EE9A1A35" target="_blank">Warhawk Invite</a>
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">University of Findlay/Findlay YMCA East Fall Invite</a>
@@ -32,19 +32,19 @@ Click link to go to tournament website:
      QF  Parvathi Shanker     def.  Marta Bettinelli     63 64
      QF  Zoe Klapman          def.  Laurel Utterback     62 36 [10]
      QF  Anshika Singh        def.  Abby Ackroyd         62 63
-  > Flight D Backdraw
+ > Flight D Backdraw
   > Main
       F  Megha Dania          def.  Paula Araceli Velil… 62 63
      SF  Paula Araceli Velil… def.  Julia Gumieniak      26 75 [1]
      SF  Megha Dania          def.  Lauren Landstrom     62 62
      QF  Lauren Landstrom     def.  Emily Beckner        62 75
      QF  Megha Dania          def.  Kelly Chen           Walkover
-  > Flight E Backdraw
+ > Flight E Backdraw
   > Main
       F  Aishwarya Gandotra   def.  Chloe Zilkha         61 60
      SF  Chloe Zilkha         def.  Sydney DeNardo       60 60
      SF  Aishwarya Gandotra   def.  Madison Sebulsky     60 64
-  > Flight E
+ > Flight E
   > Main
       F  Anushka Dania        def.  Corinne Farid        61 61
      SF  Corinne Farid        def.  Riley Smith          76(2) 75
@@ -53,7 +53,7 @@ Click link to go to tournament website:
      QF  Corinne Farid        def.  Chloe Zilkha         75 64
      QF  Jordyn Pax           def.  Madison Sebulsky     64 62
      QF  Anushka Dania        def.  Aishwarya Gandotra   60 60
-  > Flight D
+ > Flight D
   > Main
       F  Sylvia Eklund        def.  Casey Accola         Walkover
      SF  Casey Accola         def.  Caroline Marcus      63 46 [7]
@@ -67,7 +67,7 @@ Click link to go to tournament website:
      16  Sylvia Eklund        def.  Emily Beckner        60 62
      16  Lauren Landstrom     def.  Kathryn Novak        63 64
      16  Amina Lasheen        def.  Kelly Chen           62 60
-  > Flight C
+ > Flight C
   > Main
       F  Anna Lajos           def.  Namie Isago          61 62
      SF  Anna Lajos           def.  Alexandra Jansson    64 61
@@ -82,7 +82,7 @@ Click link to go to tournament website:
      16  Hana Kimmey          def.  Zoe Klapman          63 16 [4]
      16  Kate Lee             def.  Abby Ackroyd         62 61
      16  Namie Isago          def.  Anshika Singh        Walkover
-  > Flight B
+ > Flight B
   > Main
       F  Whitney King         def.  Samantha Johns       64 62
      SF  Whitney King         def.  Aleksandra Vorozhei… 64 26 [8]
@@ -98,7 +98,7 @@ Click link to go to tournament website:
      16  Tyne Miller          def.  Alena Kubanova       26 75 [1]
      16  Hamsa Javagal        def.  Amanda Hagino        46 62 [2]
      16  Samantha Johns       def.  Andrea Roque         61 61
-  > Flight B Backdraw
+ > Flight B Backdraw
   > Main
       F  Alena Kubanova       def.  Lauren Quinn         62 Ret.
      SF  Lauren Quinn         def.  Nicole Gasser        63 63
@@ -106,7 +106,7 @@ Click link to go to tournament website:
      QF  Lauren Quinn         def.  Emily Stanley        60 62
      QF  Alena Kubanova       def.  Caterina Casadei     Walkover
      QF  Amanda Hagino        def.  Andrea Roque         61 62
-  > Flight A
+ > Flight A
   > Main
       F  Jillian Taggart      def.  Emily Tannenbaum     57 63 [5]
      SF  Jillian Taggart      def.  Daniela Bellini      64 46 [7]
@@ -122,7 +122,7 @@ Click link to go to tournament website:
      16  Amelia Haley         def.  Dax Seidlin          64 30 Ret.
      16  Emily Tannenbaum     def.  Rachel Buchinsky     75 63
      16  Shreya Gulia         def.  Abigail Moghtader    61 62
-  > Flight A Backdraw
+ > Flight A Backdraw
   > Main
       F  Abigail Moghtader    def.  Anastasia Gubanova   75 06 [8]
      SF  Anastasia Gubanova   def.  Lara Kaplan          61 16 [3]
@@ -157,7 +157,7 @@ Click link to go to tournament website:
      64  Emma Fernald         def.  Rieke Gillar         61 60
      64  Alisia Manolescu     def.  Liz Stefancic        64 76(6)
      64  Aisling McGrane      def.  Kensie Cricchio      64 64
-  > LU vs MU, WM vs ECU
+ > LU vs MU, WM vs ECU
   > Main
      64  Alexandra Almborg    def.  Emma Vanderheyden    64 63
      64  Esther Lovato        def.  Madi Ballow          46 63 [6]
@@ -173,7 +173,7 @@ Click link to go to tournament website:
      64  Emma Fernald         def.  Alisha Hussain       60 26 [6]
      64  Alisia Manolescu     def.  Alisa Diercksen      60 61
      64  Rieke Gillar         def.  Kensie Cricchio      75 62
-  > LU vs WM, MU vs ECU
+ > LU vs WM, MU vs ECU
   > Main
      64  Mila Saric           def.  Tiffany Nguyen       61 64
      64  Hedda Gurholt        def.  Maretha Burger       61 63
@@ -212,7 +212,7 @@ Click link to go to tournament website:
      32  Kirstin Hailey       def.  Addison Brown        63 64
      32  Maria Bezmenova      def.  Brittany Steven      75 62
      32  Nicola Perlwitz      def.  Lauren Ellis         63 64
-  > SIUE vs Bradley, WIU vs EIU
+ > SIUE vs Bradley, WIU vs EIU
   > Main
      32  Jill Lambrechts      def.  Sandra Maletin       36 64 [0]
      32  Jordan Schifano      def.  Bozana Lojpur        63 61
@@ -226,7 +226,7 @@ Click link to go to tournament website:
      32  Paige Grice          def.  Claire Perez-Korinko 61 61
      32  Likhitha Kancherla   def.  Ashlee Shinabery     62 62
      32  Maria Rybka          def.  Kaitlyn Snyder       76(3) 63
-  > SIUE vs EIU, WIU vs Bradley
+ > SIUE vs EIU, WIU vs Bradley
   > Main
      32  Jordan Schifano      def.  Elizaveta Bukraba-U… 62 61
      32  Jill Lambrechts      def.  Christine Gouws      61 61
@@ -266,7 +266,7 @@ Click link to go to tournament website:
       F  Allison Stewart      def.  Rishona Israel-Lewis 61 60
   > South
       F  Nina Mitrofanova     def.  Valentina Gonzalez … 46 Ret.
-  > Flight 2
+ > Flight 2
   > East
       F  Ileana Mocciola      def.  Kate Malazonia       64 63
      SF  Kate Malazonia       def.  Ena Ovcina           36 75 [7]
@@ -283,7 +283,7 @@ Click link to go to tournament website:
       F  Ena Ovcina           def.  Emma Kesterson       62 57 [7]
   > South
       F  Mae McCutcheon       def.  Natalia Komar        62 60
-  > Flight 3
+ > Flight 3
   > East
       F  Andrea Guerrero      def.  Eva Arranz           63 16 [7]
      SF  Eva Arranz           def.  Sofia Fortuno        76 62
@@ -300,7 +300,7 @@ Click link to go to tournament website:
       F  Sofia Fortuno        def.  Sydney Wahl          64 61
   > South
       F  Eva Schwartz         def.  Celia Vaudiau        26 75 [10]
-  > Flight 4
+ > Flight 4
   > East
       F  Paula Garrote        def.  Jadeh Chan           61 63
      SF  Paula Garrote        def.  Renata Gonzalez      63 36 [3]
@@ -315,7 +315,7 @@ Click link to go to tournament website:
      SF  Anna Hosking         def.  Esther Bowers        64 76(2)
   > 3-4 Playoff
       F  Renata Gonzalez      def.  Alli Ziehm           62 62
-  > Flight 6
+ > Flight 6
   > Main
      R5  Ramitha Irrinki      def.  Faustine Palatte     61 60
      R5  Sara Le              def.  Chacadyah Israel-Le… 62 36 [9]
@@ -326,7 +326,7 @@ Click link to go to tournament website:
      R2  Ramitha Irrinki      def.  Sara Le              64 61
      R1  Faustine Palatte     def.  Meeshti Shethia      62 75
      R1  Ramitha Irrinki      def.  Chacadyah Israel-Le… 64 61
-  > Flight 5
+ > Flight 5
   > Main
      R5  Kylee Shannon        def.  Alexandra Vishnevsk… 26 64 [8]
      R5  Rosemary Watanabe    def.  Chandler Vrba        62 63
@@ -362,7 +362,7 @@ Click link to go to tournament website:
      SF  Ruth Hill            def.  Lexie Nave           60 60
   > South
       F  Lexie Nave           def.  Michaela Orvis       36 63 [8]
-  > Flight B
+ > Flight B
   > East
       F  Marina Vigil         def.  Sofia Franco Salcedo 62 63
      SF  Marina Vigil         def.  Olivia Kim           60 61
@@ -379,7 +379,7 @@ Click link to go to tournament website:
       F  Olivia Kim           def.  Cate Cushing         62 60
   > South
       F  Kaitlyn Enloe        def.  Zoe Sprayberry       16 61 [4]
-  > Flight C
+ > Flight C
   > East
      SF  Alice Thane          def.  Adriana Carpenter    75 61
      SF  Gabi Ioannou         def.  Kinga Psut           62 36 [3]
@@ -395,7 +395,7 @@ Click link to go to tournament website:
       F  Adriana Carpenter    def.  Kinga Psut           26 62 [7]
   > South
       F  Danielle Sanchez     def.  Baylee Parrott       Default
-  > Flight D
+ > Flight D
   > East
       F  Maria Garcia         def.  Grace Gaskins        63 60
      SF  Maria Garcia         def.  Sophia Kermet        62 61
@@ -412,7 +412,7 @@ Click link to go to tournament website:
       F  Jenna Lee            def.  Sophia Kermet        61 75
   > South
       F  Baily Denton         def.  Lillian Jonescue     61 61
-  > Flight E
+ > Flight E
   > East
       F  Angela Vargas        def.  Sofia Teran          60 60
      SF  Sofia Teran          def.  Alejandra Landaluce  75 46 [3]
@@ -429,7 +429,7 @@ Click link to go to tournament website:
       F  Elodie Richard       def.  Alejandra Landaluce  63 61
   > South
       F  Kylie Nutt           def.  Kahla Soto           Default
-  > Flight F
+ > Flight F
   > East
       F  Ira Vogelmann        def.  Valerie Idalia Nava… 64 57 [9]
      SF  Valerie Idalia Nava… def.  Taylor Parkinson     62 63
@@ -442,7 +442,7 @@ Click link to go to tournament website:
      SF  Ayleen Garcia        def.  Zaylie Sanchez       63 63
   > 3-4 Playoff
       F  Taylor Parkinson     def.  Ella Cummings        75 64
-  > Flight G
+ > Flight G
   > East
       F  Madison Stafford     def.  Elena Munoz          60 36 [9]
      SF  Madison Stafford     def.  Samantha Miller      57 64 [3]
@@ -455,14 +455,14 @@ Click link to go to tournament website:
      SF  Trinity Hatchett     def.  Daniella Rodriquez   61 60
   > 3-4 Playoff
       F  Samantha Miller      def.  Leslie Omeire        63 61
-  > Flight H
+ > Flight H
   > Main
       F  Constanza Gomez      def.  Sarah Castleberry    75 75
      SF  Constanza Gomez      def.  Ashleigh Cooper Lin… 60 60
      SF  Sarah Castleberry    def.  Barbara Cano         62 60
   > Consolation
       F  Barbara Cano         def.  Ashleigh Cooper Lin… 61 64
-  > Flight X
+ > Flight X
   > Main
      SF  Caroline Hudson      def.  Alice Thane          60 75
      SF  Taylor Leslie        def.  Gabi Ioannou         46 62 [4]
@@ -485,7 +485,7 @@ Click link to go to tournament website:
      QF  Ana Zavala           def.  Daniela Lentisco     63 60
      QF  Ghada Dirninger      def.  Lilla Komiszar       62 61
      QF  Rukshika Wijesooryia def.  Andjela Vukcevic     63 75
-  > Flight B
+ > Flight B
   > Main
       F  Paula Ballesteros    def.  Lola Cincunegui      76(1) 57 [2]
      SF  Paula Ballesteros    def.  Andrea Dabbah        61 63
@@ -493,7 +493,7 @@ Click link to go to tournament website:
      QF  Andrea Dabbah        def.  Hanna Lindeboom      75 64
      QF  Lola Cincunegui      def.  Dina Dudic           62 63
      QF  Marta Calvo Larraz   def.  Kaleigh Isgett       62 63
-  > Flight C
+ > Flight C
   > Main
       F  Elsa Pascual         def.  Hannah Meyer         62 63
      SF  Elsa Pascual         def.  Alessa Cremer        64 76(4)
@@ -501,14 +501,14 @@ Click link to go to tournament website:
      QF  Elsa Pascual         def.  Kaylie Meyer         60 61
      QF  Morgan Marshall      def.  Allison Kowalke      57 62 [9]
      QF  Hannah Meyer         def.  Chloe Trimpe         63 64
-  > Consolation 1
+ > Consolation 1
   > Main
      SF  Valentine Limauge    def.  Lilla Komiszar       84
-  > Consolation 2
+ > Consolation 2
   > Main
      SF  Alessa Cremer        def.  Kaleigh Isgett       80
      SF  Allison Kowalke      def.  Kaylie Meyer         83
-  > Consolation 3
+ > Consolation 3
   > Main
      SF  Andjela Vukcevic     def.  Marta Calvo Larraz   80
      SF  Rukshika Wijesooryia def.  Dina Dudic           84
@@ -539,7 +539,7 @@ Click link to go to tournament website:
       F  Viktorija Veselinova def.  Chole Kosmrlj        Walkover
   > South
       F  Frankee Hendricks    def.  Una Pandurevic       61 57 [1]
-  > Red
+ > Red
   > East
       F  Alex Lopez           def.  Flaminia Guidantoni  63 62
      SF  Flaminia Guidantoni  def.  Veronika Poliakova   57 60 [7]
@@ -556,7 +556,7 @@ Click link to go to tournament website:
       F  Veronika Poliakova   def.  Lily Aranyos         62 63
   > South
       F  TAMARA MACIAS        def.  Marie Bertran De Ba… Walkover
-  > Green
+ > Green
   > East
       F  Jill Morse           def.  Paola Socarras       63 60
      SF  Jill Morse           def.  Vicky Beardsley      63 16 [7]
@@ -573,7 +573,7 @@ Click link to go to tournament website:
       F  Hannah Price         def.  Vicky Beardsley      67(5) 62 [6]
   > South
       F  Jessica Ruetten      def.  Caitlin Klaassen     Walkover
-  > Purple
+ > Purple
   > East
       F  Saga Berggren        def.  Julia Speiser        64 36 [3]
      SF  Julia Speiser        def.  Lauren Laughton      62 61
@@ -590,7 +590,7 @@ Click link to go to tournament website:
       F  Kate Halickman       def.  Lauren Laughton      36 64 [9]
   > South
       F  Carolina Correia     def.  OLIVIA DRAKE         62 63
-  > Orange
+ > Orange
   > East
       F  Maria Ulloa          def.  Elizabeth Vollmin    64 61
      SF  Elizabeth Vollmin    def.  Anita Chornei        63 46 [7]
@@ -607,7 +607,7 @@ Click link to go to tournament website:
       F  Charisma Nuqui       def.  Anita Chornei        76(6) 46 [3]
   > South
       F  Yaritza Gonzalez     def.  Anna Steiner         26 62 [4]
-  > Yellow
+ > Yellow
   > Main
      R5  Lena Friedrich       def.  KATHERINE MATTHEWS   60 60
      R4  Lena Friedrich       def.  Reagan Sommariva     60 60
@@ -616,3 +616,4 @@ Click link to go to tournament website:
      R3  Reagan Sommariva     def.  KATHERINE MATTHEWS   61 62
      R2  Lena Friedrich       def.  Walker Gagnon        57 61 [3]
 ~~~
+Return to the [Top](#top) &#124; [Home Page](../../index.md)
