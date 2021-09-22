@@ -2,6 +2,6 @@
 
 **Upcoming Tournaments**  
 Click link to go to tournament website:  
-- 2021-09-23 - ITA Division I Men's Ohio Valley Regional Championship  
-- 2021-10-01 - Idaho State Bengal Invitational  
-- 2021-10-01 - mercer gridiron classic  
+- 9/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">ITA Division I Men's Ohio Valley Regional Championship</a>
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Idaho State Bengal Invitational</a>
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">mercer gridiron classic</a>

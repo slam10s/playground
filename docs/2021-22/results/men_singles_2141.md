@@ -2,12 +2,12 @@
 
 **Upcoming Tournaments**  
 Click link to go to tournament website:  
-- 2021-10-08 - C.L Varner Invitational  
-- 2021-10-14 - ITA Division I Men's Atlantic Regional Championship  
-- 2021-10-14 - ITA Division I Men's Atlantic Regional Championship  
-- 2021-10-14 - ITA Division I Men's Northeast Regional Championship  
-- 2021-10-13 - ITA Division I Men's Northwest Regional Championship  
-- 2021-10-13 - ITA Division I Men's Northwest Regional Championship  
-- 2021-10-14 - ITA Division I Men's Southern Regional Championship  
-- 2021-10-13 - ITA Division I Men's Texas Regional Championship  
-- 2021-10-15 - Saint Leo Lion Fall Invitational - Men  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">C.L Varner Invitational</a>
+- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">ITA Division I Men's Atlantic Regional Championship</a>
+- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">ITA Division I Men's Atlantic Regional Championship</a>
+- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>
+- 10/13/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E" target="_blank">ITA Division I Men's Northwest Regional Championship</a>
+- 10/13/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">ITA Division I Men's Northwest Regional Championship</a>
+- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>
+- 10/13/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">ITA Division I Men's Texas Regional Championship</a>
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Saint Leo Lion Fall Invitational - Men</a>

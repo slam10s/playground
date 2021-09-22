@@ -2,5 +2,5 @@
 
 **Upcoming Tournaments**  
 Click link to go to tournament website:  
-- 2021-11-12 - CSUN INVITATIONAL 2021  
-- 2021-11-12 - SDSU Fall Tennis Classic # 2  
+- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CaliforniaStateUniversityNorthridgeW/Tournaments/Overview/170B0D52-C31D-4AA5-A14A-C44E18B58FF4" target="_blank">CSUN INVITATIONAL 2021</a>
+- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1A40265D-8EC6-44FD-9EB9-1733C02C74CC" target="_blank">SDSU Fall Tennis Classic # 2</a>

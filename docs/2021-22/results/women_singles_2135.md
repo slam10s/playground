@@ -2,11 +2,11 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-- 2021-09-03 - Tyler Invite  
+- 9/3/2021 - [Tyler Invite](#21-00238)  
 
 **Tournaments without Results**  
 Click link to go to tournament website:  
-- 2021-09-04 - Warhawk Invitational  
+- 9/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/4E7E69DF-F521-4DA8-A3AB-8131B80552CE" target="_blank">Warhawk Invitational</a>
 
 <a name="21-00238"></a>
 ~~~

@@ -2,4 +2,4 @@
 
 **Upcoming Tournaments**  
 Click link to go to tournament website:  
-- 2021-11-05 - Wake Forest Invite  
+- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityM/Tournaments/Overview/CDBF110F-C481-4F40-9B58-54D68D17F9A2" target="_blank">Wake Forest Invite</a>

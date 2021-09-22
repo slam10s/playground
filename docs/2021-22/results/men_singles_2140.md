@@ -2,5 +2,5 @@
 
 **Upcoming Tournaments**  
 Click link to go to tournament website:  
-- 2021-10-07 - Utah Invitational  
-- 2021-10-08 - C.L Varner Invitational  
+- 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">C.L Varner Invitational</a>

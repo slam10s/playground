@@ -2,25 +2,25 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-- 2021-09-17 - Elon Invitational  
-- 2021-09-17 - NMSU Women's Aggie Invite  
-- 2021-09-18 - Division II Women's Midwest ITA Regional Championships  
-- 2021-09-17 - GPAC Individual  
+- 9/17/2021 - [Elon Invitational](#21-46904)  
+- 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655)  
+- 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491)  
+- 9/17/2021 - [GPAC Individual](#21-76336)  
 
 **Tournaments without Results**  
 Click link to go to tournament website:  
-- 2021-09-17 - 2021 APSU Fall Tournament  
-- 2021-09-17 - 2021 Columbia University Invitational  
-- 2021-09-17 - HOKIE FALL INVITE  
-- 2021-09-17 - Idaho State Invite  
-- 2021-09-17 - Lynn Stevens Invite  
-- 2021-09-18 - Milwaukee Tennis Classic  
-- 2021-09-17 - QU Hidden Duals At Uconn  
-- 2021-09-17 - Redbird Invitational  
-- 2021-09-17 - University of Cincinnati/Pam Whitehead Fall Invitational  
-- 2021-09-18 - Big Red Invitational  
-- 2021-09-17 - Methodist University Women's Fall Invitational  
-- 2021-09-17 - MIT Invitational  
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D" target="_blank">2021 Columbia University Invitational</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechW/Tournaments/Overview/ACE61305-F599-467B-BCC6-93D21D1C354A" target="_blank">HOKIE FALL INVITE</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityW/Tournaments/Overview/A09A4AF9-B31A-4CDC-A222-437B2830D744" target="_blank">Idaho State Invite</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CoastalCarolinaUniversityW/Tournaments/Overview/74919BE2-BE17-4E9F-8752-0E9BA855D125" target="_blank">Lynn Stevens Invite</a>
+- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">QU Hidden Duals At Uconn</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityW/Tournaments/Overview/1C326774-DC63-4687-A38F-F4CEEC065C15" target="_blank">Redbird Invitational</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">University of Cincinnati/Pam Whitehead Fall Invitational</a>
+- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DenisonUniversityW/Tournaments/Overview/8C55E0CC-605C-4584-8311-FA3093162009" target="_blank">Big Red Invitational</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MethodistUniversityW/Tournaments/Overview/4FFAB7FF-537E-4837-8CBB-5347D9DABA5B" target="_blank">Methodist University Women's Fall Invitational</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechW/Tournaments/Overview/05E528B1-8ECB-4C54-A76C-F650CD3C02F5" target="_blank">MIT Invitational</a>
 
 <a name="21-46904"></a>
 ~~~

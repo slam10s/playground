@@ -2,18 +2,18 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-- 2021-09-21 - ITA Division I Men's Mountain Regional Championship  
+- 9/21/2021 - [ITA Division I Men's Mountain Regional Championship](#21-39721)  
 
 **Tournaments without Results**  
 Click link to go to tournament website:  
-- 2021-09-18 - Milwaukee Tennis Classic  
+- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>
 
 **Upcoming Tournaments**  
 Click link to go to tournament website:  
-- 2021-09-24 - Georgia State Panther Invite  
-- 2021-09-23 - ITA Division I Men's Ohio Valley Regional Championship  
-- 2021-09-24 - Quinnipiac Invitational at Fairfield University  
-- 2021-09-24 - American Rivers Conference Men's Individual Tournament  
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaStateUniversityM/Tournaments/Overview/B537401C-4CA4-4C79-A319-9E137D884288" target="_blank">Georgia State Panther Invite</a>
+- 9/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">ITA Division I Men's Ohio Valley Regional Championship</a>
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityM/Tournaments/Overview/4CA1F754-31D9-4DCF-8BB3-0098D93E8693" target="_blank">Quinnipiac Invitational at Fairfield University</a>
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">American Rivers Conference Men's Individual Tournament</a>
 
 <a name="21-39721"></a>
 ~~~

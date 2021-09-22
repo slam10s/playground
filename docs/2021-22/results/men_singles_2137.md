@@ -2,18 +2,18 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-- 2021-09-17 - Jersey Mike's Seahawk Fall Invitational  
-- 2021-09-17 - GPAC Individual  
+- 9/17/2021 - [Jersey Mike's Seahawk Fall Invitational](#21-41355)  
+- 9/17/2021 - [GPAC Individual](#21-76336)  
 
 **Tournaments without Results**  
 Click link to go to tournament website:  
-- 2021-09-16 - Bedford Cup in the Mountains  
-- 2021-09-17 - Duke Bonk Invitational  
-- 2021-09-17 - Easley Memorial  
-- 2021-09-17 - Joe Hunt Invitational  
-- 2021-09-18 - Milwaukee Tennis Classic  
-- 2021-09-17 - The Star Group Binghamton Championships  
-- 2021-09-18 - Middlebury Invitational 2021  
+- 9/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Bedford Cup in the Mountains</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/FFC0211B-E579-4EA7-9FE6-D4E9522C2014" target="_blank">Duke Bonk Invitational</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/ED7CF5B8-36CF-4226-9CE9-96204D8B6362" target="_blank">Joe Hunt Invitational</a>
+- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BinghamtonUniversitySUNYM/Tournaments/Overview/45217160-5C07-4F1E-8FB5-6C5FBC28805F" target="_blank">The Star Group Binghamton Championships</a>
+- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/97C4AA58-56BC-46A0-8287-9B7C41BD76A7" target="_blank">Middlebury Invitational 2021</a>
 
 <a name="21-41355"></a>
 ~~~

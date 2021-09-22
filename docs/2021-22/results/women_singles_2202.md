@@ -2,5 +2,5 @@
 
 **Upcoming Tournaments**  
 Click link to go to tournament website:  
-- 2022-01-14 - 2022 Cal Winter Invite  
-- 2022-01-14 - Michigan Invitational  
+- 1/14/2022 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/7B98BDE4-0E3A-4B19-924D-9A2B62E15408" target="_blank">2022 Cal Winter Invite</a>
+- 1/14/2022 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/02E22DAF-29C9-4C6A-AED0-68EFB95B8911" target="_blank">Michigan Invitational</a>

@@ -2,17 +2,17 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-- 2021-09-10 - NMSU Fall invitational  
-- 2021-09-10 - St. Mary's Invitational  
-- 2021-09-11 - William Woods Invite  
-- 2021-09-11 - Wingate Fall Invitational  
+- 9/10/2021 - [NMSU Fall invitational](#21-94373)  
+- 9/10/2021 - [St. Mary's Invitational](#21-79025)  
+- 9/11/2021 - [William Woods Invite](#21-24367)  
+- 9/11/2021 - [Wingate Fall Invitational](#21-22816)  
 
 **Tournaments without Results**  
 Click link to go to tournament website:  
-- 2021-09-10 - 2021 Dar Walters Classic  
-- 2021-09-10 - Gator Fall Invite  
-- 2021-09-10 - Orange Lawn Fall Invitational  
-- 2021-09-10 - Marlin Fall Invite  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">2021 Dar Walters Classic</a>
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Gator Fall Invite</a>
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Orange Lawn Fall Invitational</a>
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>
 
 <a name="21-94373"></a>
 ~~~

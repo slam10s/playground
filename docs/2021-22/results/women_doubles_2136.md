@@ -2,21 +2,21 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-- 2021-09-10 - Bill and Sandra Moore Invitational  
-- 2021-09-11 - Liberty Invite  
-- 2021-09-10 - SIUE Cougar Invite  
-- 2021-09-10 - Angelo State SlamFest  
-- 2021-09-10 - St. Mary's Invitational  
-- 2021-09-11 - William Woods Invite  
-- 2021-09-11 - Wingate Fall Invitational  
+- 9/10/2021 - [Bill and Sandra Moore Invitational](#21-34233)  
+- 9/11/2021 - [Liberty Invite](#21-48654)  
+- 9/10/2021 - [SIUE Cougar Invite](#21-66962)  
+- 9/10/2021 - [Angelo State SlamFest](#21-31047)  
+- 9/10/2021 - [St. Mary's Invitational](#21-79025)  
+- 9/11/2021 - [William Woods Invite](#21-24367)  
+- 9/11/2021 - [Wingate Fall Invitational](#21-22816)  
 
 **Tournaments without Results**  
 Click link to go to tournament website:  
-- 2021-09-10 - Warhawk Invite  
-- 2021-09-10 - Oberlin Invitational  
-- 2021-09-11 - University of Findlay/Findlay YMCA East Fall Invite  
-- 2021-09-11 - Vassar Scramble  
-- 2021-09-11 - Wallach Invitational  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfLouisianaMonroeW/Tournaments/Overview/54708D1F-C66A-43B0-AD2A-D851EE9A1A35" target="_blank">Warhawk Invite</a>
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>
+- 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">University of Findlay/Findlay YMCA East Fall Invite</a>
+- 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>
+- 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Wallach Invitational</a>
 
 <a name="21-34233"></a>
 ~~~

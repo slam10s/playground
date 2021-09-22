@@ -2,22 +2,22 @@
 
 **Tournamets with Results**  
 Click link to go to results report below:  
-- 2021-09-18 - Division II Women's Midwest ITA Regional Championships  
+- 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491)  
 
 **Tournaments without Results**  
 Click link to go to tournament website:  
-- 2021-09-18 - Milwaukee Tennis Classic  
+- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>
 
 **Upcoming Tournaments**  
 Click link to go to tournament website:  
-- 2021-09-24 - 2021 Cal Fall Invitational  
-- 2021-09-24 - Bulldog Invitational  
-- 2021-09-23 - ITA Division I Women's Midwest Regional Championship  
-- 2021-09-24 - Natchitoches Women's Care/Lady Demon Collegiate Invitational  
-- 2021-09-24 - STETSON INVITE 1  
-- 2021-09-24 - University of Minnesota Gopher Invitational  
-- 2021-09-24 - Western Illinois University Fall Invite  
-- 2021-09-24 - Lindsay Morehouse Invitational  
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">2021 Cal Fall Invitational</a>
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Bulldog Invitational</a>
+- 9/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">ITA Division I Women's Midwest Regional Championship</a>
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Natchitoches Women's Care/Lady Demon Collegiate Invitational</a>
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">STETSON INVITE 1</a>
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">University of Minnesota Gopher Invitational</a>
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternIllinoisUniversityW/Tournaments/Overview/F071C84F-6B2D-4B81-8D42-5B11D51EAB94" target="_blank">Western Illinois University Fall Invite</a>
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WilliamsCollegeW/Tournaments/Overview/29825979-F460-4366-ACCA-41A880C0E1DA" target="_blank">Lindsay Morehouse Invitational</a>
 
 <a name="21-14491"></a>
 ~~~
