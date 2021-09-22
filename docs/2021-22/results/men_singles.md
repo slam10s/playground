@@ -116,7 +116,7 @@ Click link to go to tournament website:
   > Consolation
   > Main
       32      Michael Blando        vs       Martin Simecek       Wed @ 14:15 (ET)
-      32      Moritz Stoeger        vs       Josh Pearce          Wed @ 14:15 (ET)
+      32      Josh Pearce          def.      Moritz Stoeger       Walkover
       64      Johnny Mascagni       vs       Marcos Zelver        Wed @ 12:45 (ET)
       64      Arthur Serafim       def.      Simon Arca Costas    Walkover
       64      Facundo Tumosa        vs       Arjun Kersten        Wed @ 12:45 (ET)

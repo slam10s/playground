@@ -22,12 +22,18 @@ Click link to go to tournament website:
  Men's Open Doubles
  > Main
   > Main
-     16  (1) Davis/Summers         vs  (16) Sciglitano/Thielgaa… Wed @ 09:45 (ET)
-     16  (5) Cierny/Zarkovic       vs       Buxman/Serafim       Wed @ 09:45 (ET)
-     16  (3) Barnett/Leite         vs       Gay/Duron            Wed @ 09:45 (ET)
-     16  (6) Straker-Meads/Tumosa  vs  (13) Sallay/Krulig        Wed @ 09:45 (ET)
-     16      Zelver/Buckland       vs   (8) Herrera Cuesta/Ros   Wed @ 09:45 (ET)
-     16      Stoeger/Martin        vs   (4) Bastias/Caula        Wed @ 09:45 (ET)
+     QF  (1) Davis/Summers         vs   (5) Cierny/Zarkovic      Thu @ 09:00 (ET)
+     QF  (3) Barnett/Leite         vs   (6) Straker-Meads/Tumosa Thu @ 09:00 (ET)
+     QF      Zelver/Buckland       vs   (4) Bastias/Caula        Thu @ 09:00 (ET)
+     QF      Panik/Van Dijk        vs   (9) Trhac/Kristensen     Thu @ 09:00 (ET)
+     16  (1) Davis/Summers        def. (16) Sciglitano/Thielgaa… 81
+     16  (5) Cierny/Zarkovic      def.      Buxman/Serafim       85
+     16  (3) Barnett/Leite        def.      Gay/Duron            86
+     16  (6) Straker-Meads/Tumosa def. (13) Sallay/Krulig        87(7)
+     16      Zelver/Buckland      def.  (8) Herrera Cuesta/Ros   84
+     16      Bastias/Caula        def.  (4) Stoeger/Martin       86
+     16      Panik/Van Dijk       def.  (7) Sauer/Atherton       86
+     16  (9) Trhac/Kristensen     def.  (2) Capalbo/Busleiman    85
      32  (1) Davis/Summers        def.      Mico Fenollar/Ninte… 82
      32 (16) Sciglitano/Thielgaa… def.      Schaefer/Sulen       82
      32  (5) Cierny/Zarkovic      def.      AbdulSalam/Prieto    87(5)
@@ -41,9 +47,9 @@ Click link to go to tournament website:
      32      Stoeger/Martin       def. (11) Arca Costas/Soskic   85
      32      Bastias/Caula        def.  (4) Minakata/Marquardt   86
      32      Panik/Van Dijk       def. (14) Thayne/Fuchs         86
-     32      Mascagni/Kersten      vs   (7) Sauer/Atherton       Wed @ 09:00 (ET)
-     32      Shaffrey/Pudney       vs   (9) Trhac/Kristensen     Wed @ 09:45 (ET)
-     32      Maggs/Pucalka         vs   (2) Capalbo/Busleiman    Wed @ 09:45 (ET)
+     32      Sauer/Atherton       def.  (7) Mascagni/Kersten     87(4)
+     32      Trhac/Kristensen     def.  (9) Shaffrey/Pudney      86
+     32      Capalbo/Busleiman    def.  (2) Maggs/Pucalka        85
      64      Mico Fenollar/Ninte… def.      Buzonics/Groves      85
      64 (16) Sciglitano/Thielgaa… def.      Wolf/Garner          86
      64      Schaefer/Sulen       def.      Sitar/Nathan         82
@@ -67,12 +73,21 @@ Click link to go to tournament website:
      64      Maggs/Pucalka        def.      Acosta/Ruiz Medina   87(4)
   > Consolation
   > Main
-     16      Andrus/Lin            vs       Kryvchun/Bott        Wed @ 10:30 (ET)
-     16      Li/Lin                vs       Hambrook/Navarro     Wed @ 10:30 (ET)
-     16      Waldman/Vroman        vs       Acosta/Ruiz Medina   Wed @ 10:30 (ET)
-     32      Wolf/Garner           vs       Sitar/Nathan         Wed @ 09:45 (ET)
-     32      Gavelin/Krenn         vs       Robbertse/Cankus     Wed @ 09:45 (ET)
-     32      Clarke/Akkermans      vs       Fujita/Kramer        Wed @ 09:45 (ET)
-     32      Steele/Donovan        vs       Azuma/Baylon         Wed @ 09:45 (ET)
-     32      Masala/Ramesh         vs       Chavez/Savin         Wed @ 09:45 (ET)
+     QF      Buzonics/Groves       vs       Kryvchun/Bott        Thu @ 09:00 (ET)
+     QF      Menard/Simecek        vs       Clarke/Akkermans     Thu @ 09:00 (ET)
+     QF      Ziomber/Dillon        vs       Hambrook/Navarro     Thu @ 09:00 (ET)
+     QF      Coutinho/Savio        vs       Acosta/Ruiz Medina   Thu @ 09:00 (ET)
+     16      Buzonics/Groves      def.      Sitar/Nathan         83
+     16      Kryvchun/Bott        def.      Andrus/Lin           85
+     16      Menard/Simecek       def.      Robbertse/Cankus     87(5)
+     16      Clarke/Akkermans     def.      Moortgat/Haas        86
+     16      Ziomber/Dillon       def.      Azuma/Baylon         86
+     16      Hambrook/Navarro     def.      Li/Lin               86
+     16      Coutinho/Savio       def.      Chavez/Savin         85
+     16      Acosta/Ruiz Medina   def.      Waldman/Vroman       85
+     32      Sitar/Nathan         def.      Wolf/Garner          86
+     32      Robbertse/Cankus     def.      Gavelin/Krenn        86
+     32      Clarke/Akkermans     def.      Fujita/Kramer        83
+     32      Azuma/Baylon         def.      Steele/Donovan       84
+     32      Chavez/Savin         def.      Masala/Ramesh        85
 ~~~
