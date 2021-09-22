@@ -1,4 +1,19 @@
-[<< Prev](men_doubles_2137.md) &nbsp; WK 38 - Sep 20-26, 2021 &nbsp; [Next >>](men_doubles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_doubles_2138.md) &#124; [Women](./women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2138.md) &#124; [*Doubles*](./men_doubles_2138.md)
+[<< Prev](men_doubles_2137.md) &nbsp; **WK 38 - Sep 20-26, 2021** &nbsp; [Next >>](men_doubles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_doubles_2138.md) &#124; [Women](./women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2138.md) &#124; [*Doubles*](./men_doubles_2138.md)
+
+**Tournamets with Results**
+Click link to go to results report below:
+  2021-09-21 - ITA Division I Men's Mountain Regional Championship
+
+**Tournaments without Results**
+Click link to go to tournament website:
+  2021-09-18 - Milwaukee Tennis Classic
+
+**Upcoming Tournaments**
+Click link to go to tournament website:
+  2021-09-24 - Georgia State Panther Invite
+  2021-09-23 - ITA Division I Men's Ohio Valley Regional Championship
+  2021-09-24 - Quinnipiac Invitational at Fairfield University
+  2021-09-24 - American Rivers Conference Men's Individual Tournament
 
 <a name="21-39721"></a>
 ~~~

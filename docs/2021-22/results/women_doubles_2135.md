@@ -1,4 +1,12 @@
-<< Prev &nbsp; WK 35 - Aug 30 - Sep 5 &nbsp; [Next >>](women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2135.md) &#124; [*Women*](./women_doubles_2135.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2135.md) &#124; [*Doubles*](./women_doubles_2135.md)
+<< Prev &nbsp; **WK 35 - Aug 30 - Sep 5** &nbsp; [Next >>](women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2135.md) &#124; [*Women*](./women_doubles_2135.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2135.md) &#124; [*Doubles*](./women_doubles_2135.md)
+
+**Tournamets with Results**
+Click link to go to results report below:
+  2021-09-03 - Tyler Invite
+
+**Tournaments without Results**
+Click link to go to tournament website:
+  2021-09-04 - Warhawk Invitational
 
 <a name="21-00238"></a>
 ~~~

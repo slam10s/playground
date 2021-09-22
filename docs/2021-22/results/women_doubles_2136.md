@@ -1,4 +1,22 @@
-[<< Prev](women_doubles_2135.md) &nbsp; WK 36 - Sep 6-12, 2021 &nbsp; [Next >>](women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2136.md) &#124; [*Women*](./women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2136.md) &#124; [*Doubles*](./women_doubles_2136.md)
+[<< Prev](women_doubles_2135.md) &nbsp; **WK 36 - Sep 6-12, 2021** &nbsp; [Next >>](women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2136.md) &#124; [*Women*](./women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2136.md) &#124; [*Doubles*](./women_doubles_2136.md)
+
+**Tournamets with Results**
+Click link to go to results report below:
+  2021-09-10 - Bill and Sandra Moore Invitational
+  2021-09-11 - Liberty Invite
+  2021-09-10 - SIUE Cougar Invite
+  2021-09-10 - Angelo State SlamFest
+  2021-09-10 - St. Mary's Invitational
+  2021-09-11 - William Woods Invite
+  2021-09-11 - Wingate Fall Invitational
+
+**Tournaments without Results**
+Click link to go to tournament website:
+  2021-09-10 - Warhawk Invite
+  2021-09-10 - Oberlin Invitational
+  2021-09-11 - University of Findlay/Findlay YMCA East Fall Invite
+  2021-09-11 - Vassar Scramble
+  2021-09-11 - Wallach Invitational
 
 <a name="21-34233"></a>
 ~~~

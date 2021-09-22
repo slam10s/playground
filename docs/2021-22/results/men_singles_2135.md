@@ -1,4 +1,8 @@
-<< Prev &nbsp; WK 35 - Aug 30 - Sep 5 &nbsp; [Next >>](men_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_singles_2135.md) &#124; [Women](./women_singles_2135.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./men_singles_2135.md) &#124; [Doubles](./men_doubles_2135.md)
+<< Prev &nbsp; **WK 35 - Aug 30 - Sep 5** &nbsp; [Next >>](men_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_singles_2135.md) &#124; [Women](./women_singles_2135.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./men_singles_2135.md) &#124; [Doubles](./men_doubles_2135.md)
+
+**Tournamets with Results**
+Click link to go to results report below:
+  2021-09-03 - Tyler Invite
 
 <a name="21-00238"></a>
 ~~~

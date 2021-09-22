@@ -1,4 +1,19 @@
-[<< Prev](men_doubles_2136.md) &nbsp; WK 37 - Sep 13-19, 2021 &nbsp; [Next >>](men_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_doubles_2137.md) &#124; [Women](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2137.md) &#124; [*Doubles*](./men_doubles_2137.md)
+[<< Prev](men_doubles_2136.md) &nbsp; **WK 37 - Sep 13-19, 2021** &nbsp; [Next >>](men_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_doubles_2137.md) &#124; [Women](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2137.md) &#124; [*Doubles*](./men_doubles_2137.md)
+
+**Tournamets with Results**
+Click link to go to results report below:
+  2021-09-17 - Jersey Mike's Seahawk Fall Invitational
+  2021-09-17 - GPAC Individual
+
+**Tournaments without Results**
+Click link to go to tournament website:
+  2021-09-16 - Bedford Cup in the Mountains
+  2021-09-17 - Duke Bonk Invitational
+  2021-09-17 - Easley Memorial
+  2021-09-17 - Joe Hunt Invitational
+  2021-09-18 - Milwaukee Tennis Classic
+  2021-09-17 - The Star Group Binghamton Championships
+  2021-09-18 - Middlebury Invitational 2021
 
 <a name="21-41355"></a>
 ~~~

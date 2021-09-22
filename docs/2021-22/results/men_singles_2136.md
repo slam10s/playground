@@ -1,4 +1,18 @@
-[<< Prev](men_singles_2135.md) &nbsp; WK 36 - Sep 6-12, 2021 &nbsp; [Next >>](men_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_singles_2136.md) &#124; [Women](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./men_singles_2136.md) &#124; [Doubles](./men_doubles_2136.md)
+[<< Prev](men_singles_2135.md) &nbsp; **WK 36 - Sep 6-12, 2021** &nbsp; [Next >>](men_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Men*](./men_singles_2136.md) &#124; [Women](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Singles*](./men_singles_2136.md) &#124; [Doubles](./men_doubles_2136.md)
+
+**Tournamets with Results**
+Click link to go to results report below:
+  2021-09-10 - NMSU Fall invitational
+  2021-09-10 - St. Mary's Invitational
+  2021-09-11 - William Woods Invite
+  2021-09-11 - Wingate Fall Invitational
+
+**Tournaments without Results**
+Click link to go to tournament website:
+  2021-09-10 - 2021 Dar Walters Classic
+  2021-09-10 - Gator Fall Invite
+  2021-09-10 - Orange Lawn Fall Invitational
+  2021-09-10 - Marlin Fall Invite
 
 <a name="21-94373"></a>
 ~~~

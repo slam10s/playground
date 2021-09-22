@@ -1,4 +1,23 @@
-[<< Prev](women_doubles_2137.md) &nbsp; WK 38 - Sep 20-26, 2021 &nbsp; [Next >>](women_doubles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2138.md) &#124; [*Women*](./women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2138.md) &#124; [*Doubles*](./women_doubles_2138.md)
+[<< Prev](women_doubles_2137.md) &nbsp; **WK 38 - Sep 20-26, 2021** &nbsp; [Next >>](women_doubles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2138.md) &#124; [*Women*](./women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2138.md) &#124; [*Doubles*](./women_doubles_2138.md)
+
+**Tournamets with Results**
+Click link to go to results report below:
+  2021-09-18 - Division II Women's Midwest ITA Regional Championships
+
+**Tournaments without Results**
+Click link to go to tournament website:
+  2021-09-18 - Milwaukee Tennis Classic
+
+**Upcoming Tournaments**
+Click link to go to tournament website:
+  2021-09-24 - 2021 Cal Fall Invitational
+  2021-09-24 - Bulldog Invitational
+  2021-09-23 - ITA Division I Women's Midwest Regional Championship
+  2021-09-24 - Natchitoches Women's Care/Lady Demon Collegiate Invitational
+  2021-09-24 - STETSON INVITE 1
+  2021-09-24 - University of Minnesota Gopher Invitational
+  2021-09-24 - Western Illinois University Fall Invite
+  2021-09-24 - Lindsay Morehouse Invitational
 
 <a name="21-14491"></a>
 ~~~
