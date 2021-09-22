@@ -2,342 +2,342 @@
 
 <a name="21-94373"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
   NMSU Fall invitational
   Dates: Sep 10-12, 2021
   Host: New Mexico State University (M)
-═════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight Crimson 3
   > East
-      F  Marcus Sulen                 def.  Morgan Donovan               64 62
-     SF  Morgan Donovan               def.  Ryan Flanagan                46 62 60
-     SF  Marcus Sulen                 def.  Ryan Ford                    62 60
-     QF  Ryan Flanagan                def.  Mikael Purne                 46 62 62
-     QF  Morgan Donovan               def.  Thomas Synnott               61 63
-     QF  Marcus Sulen                 def.  Nicholas Pries               63 63
-     QF  Ryan Ford                    def.  Marcelo Diaz                 63 64
-     16  Mikael Purne                 def.  Martin Thomas                61 62
-     16  Morgan Donovan               def.  Rodrigo Mere                 26 62 61
-     16  Nicholas Pries               def.  Lorenzo Orellano             62 61
-     16  Marcelo Diaz                 def.  Jace Crawford                76 26 75
+      F  Marcus Sulen         def.  Morgan Donovan       64 62
+     SF  Morgan Donovan       def.  Ryan Flanagan        46 62 60
+     SF  Marcus Sulen         def.  Ryan Ford            62 60
+     QF  Ryan Flanagan        def.  Mikael Purne         46 62 62
+     QF  Morgan Donovan       def.  Thomas Synnott       61 63
+     QF  Marcus Sulen         def.  Nicholas Pries       63 63
+     QF  Ryan Ford            def.  Marcelo Diaz         63 64
+     16  Mikael Purne         def.  Martin Thomas        61 62
+     16  Morgan Donovan       def.  Rodrigo Mere         26 62 61
+     16  Nicholas Pries       def.  Lorenzo Orellano     62 61
+     16  Marcelo Diaz         def.  Jace Crawford        76 26 75
   > West
-      F  Rodrigo Mere                 def.  Jace Crawford                60 62
-     SF  Rodrigo Mere                 def.  Martin Thomas                76(6) 62
-     SF  Jace Crawford                def.  Lorenzo Orellano             26 61 64
+      F  Rodrigo Mere         def.  Jace Crawford        60 62
+     SF  Rodrigo Mere         def.  Martin Thomas        76(6) 62
+     SF  Jace Crawford        def.  Lorenzo Orellano     26 61 64
   > North
-      F  Mikael Purne                 def.  Nicholas Pries               Walkover
-     SF  Mikael Purne                 def.  Thomas Synnott               63 62
-     SF  Nicholas Pries               def.  Marcelo Diaz                 60 61
+      F  Mikael Purne         def.  Nicholas Pries       Walkover
+     SF  Mikael Purne         def.  Thomas Synnott       63 62
+     SF  Nicholas Pries       def.  Marcelo Diaz         60 61
   > 3-4 Playoff
-      F  Ryan Flanagan                def.  Ryan Ford                    61 61
+      F  Ryan Flanagan        def.  Ryan Ford            61 61
   > Southwest
-      F  Lorenzo Orellano             def.  Martin Thomas                Walkover
+      F  Lorenzo Orellano     def.  Martin Thomas        Walkover
   > Flight Crimson 1
   > East
-      F  Louis Menard                 def.  Daniel Sancho Arbizu         63 76(6)
-     SF  Louis Menard                 def.  Savan Chhabra                63 46 61
-     SF  Daniel Sancho Arbizu         def.  Martin Simecek               62 62
-     QF  Louis Menard                 def.  Mihaly Deli                  61 62
-     QF  Savan Chhabra                def.  Eban Straker-Meads           30 Ret.
-     QF  Martin Simecek               def.  Cesar Barranquero            63 61
-     QF  Daniel Sancho Arbizu         def.  Facundo Tumosa               75 76(5)
-     16  Louis Menard                 def.  Maciej Ziomber               64 62
-     16  Mihaly Deli                  def.  Joaquin Delpino              62 36 63
-     16  Savan Chhabra                def.  Anthony Popyrin              60 75
-     16  Eban Straker-Meads           def.  Filippo Salsini              62 62
-     16  Cesar Barranquero            def.  Yu-Jhe Du                    61 60
-     16  Martin Simecek               def.  Dominik Buzonics             46 62 75
-     16  Daniel Sancho Arbizu         def.  Jonathan Vega                64 36 75
-     16  Facundo Tumosa               def.  Jose Dominguez               64 63
+      F  Louis Menard         def.  Daniel Sancho Arbizu 63 76(6)
+     SF  Louis Menard         def.  Savan Chhabra        63 46 61
+     SF  Daniel Sancho Arbizu def.  Martin Simecek       62 62
+     QF  Louis Menard         def.  Mihaly Deli          61 62
+     QF  Savan Chhabra        def.  Eban Straker-Meads   30 Ret.
+     QF  Martin Simecek       def.  Cesar Barranquero    63 61
+     QF  Daniel Sancho Arbizu def.  Facundo Tumosa       75 76(5)
+     16  Louis Menard         def.  Maciej Ziomber       64 62
+     16  Mihaly Deli          def.  Joaquin Delpino      62 36 63
+     16  Savan Chhabra        def.  Anthony Popyrin      60 75
+     16  Eban Straker-Meads   def.  Filippo Salsini      62 62
+     16  Cesar Barranquero    def.  Yu-Jhe Du            61 60
+     16  Martin Simecek       def.  Dominik Buzonics     46 62 75
+     16  Daniel Sancho Arbizu def.  Jonathan Vega        64 36 75
+     16  Facundo Tumosa       def.  Jose Dominguez       64 63
   > West
-     SF  Maciej Ziomber               def.  Anthony Popyrin              60 62
-     SF  Dominik Buzonics             def.  Jonathan Vega                63 62
-     QF  Maciej Ziomber               def.  Joaquin Delpino              60 60
-     QF  Anthony Popyrin              def.  Filippo Salsini              64 62
-     QF  Dominik Buzonics             def.  Yu-Jhe Du                    61 61
-     QF  Jonathan Vega                def.  Jose Dominguez               60 63
+     SF  Maciej Ziomber       def.  Anthony Popyrin      60 62
+     SF  Dominik Buzonics     def.  Jonathan Vega        63 62
+     QF  Maciej Ziomber       def.  Joaquin Delpino      60 60
+     QF  Anthony Popyrin      def.  Filippo Salsini      64 62
+     QF  Dominik Buzonics     def.  Yu-Jhe Du            61 61
+     QF  Jonathan Vega        def.  Jose Dominguez       60 63
   > North
-      F  Facundo Tumosa               def.  Mihaly Deli                  64 26 76(3)
-     SF  Mihaly Deli                  def.  Eban Straker-Meads           Walkover
-     SF  Facundo Tumosa               def.  Cesar Barranquero            75 64
+      F  Facundo Tumosa       def.  Mihaly Deli          64 26 76(3)
+     SF  Mihaly Deli          def.  Eban Straker-Meads   Walkover
+     SF  Facundo Tumosa       def.  Cesar Barranquero    75 64
   > 3-4 Playoff
-      F  Savan Chhabra                def.  Martin Simecek               46 63 64
+      F  Savan Chhabra        def.  Martin Simecek       46 63 64
   > South
-     SF  Joaquin Delpino              def.  Filippo Salsini              63 64
-     SF  Yu-Jhe Du                    def.  Jose Dominguez               63 64
+     SF  Joaquin Delpino      def.  Filippo Salsini      63 64
+     SF  Yu-Jhe Du            def.  Jose Dominguez       63 64
   > Southwest
-      F  Jonathan Vega                def.  Anthony Popyrin              Walkover
+      F  Jonathan Vega        def.  Anthony Popyrin      Walkover
   > Northwest
-      F  Cesar Barranquero            def.  Eban Straker-Meads           Walkover
+      F  Cesar Barranquero    def.  Eban Straker-Meads   Walkover
   > Southeast
-      F  Filippo Salsini              def.  Jose Dominguez               Walkover
+      F  Filippo Salsini      def.  Jose Dominguez       Walkover
   > Flight Crimson 2
   > East
-      F  Alexander Groves             def.  Gijs Akkermans               76(2) 36 61
-     SF  Alexander Groves             def.  Oswaldo Cano Sosa            63 62
-     SF  Gijs Akkermans               def.  Juan Jose Rodriguez Garceran 64 64
-     QF  Oswaldo Cano Sosa            def.  Martin Garcia-Ripoll Ore     75 64
-     QF  Alexander Groves             def.  Jose Maria Rastrojo          62 64
-     QF  Gijs Akkermans               def.  Joachim Schaefer             26 62 75
-     QF  Juan Jose Rodriguez Garceran def.  Andre Millet                 60 60
-     16  Oswaldo Cano Sosa            def.  Corey Clarke                 64 64
-     16  Martin Garcia-Ripoll Ore     def.  Daniel Dillon                60 64
-     16  Jose Maria Rastrojo          def.  Jonas Wand                   63 67 64
-     16  Alexander Groves             def.  Erik Dallmann                61 61
-     16  Joachim Schaefer             def.  Brendan Lock                 61 60
-     16  Gijs Akkermans               def.  Benjamin McDonald            63 76
-     16  Andre Millet                 def.  Patricio Larrea              61 75
-     16  Juan Jose Rodriguez Garceran def.  Christopher Steele           64 62
+      F  Alexander Groves     def.  Gijs Akkermans       76(2) 36 61
+     SF  Alexander Groves     def.  Oswaldo Cano Sosa    63 62
+     SF  Gijs Akkermans       def.  Juan Jose Rodriguez  64 64
+     QF  Oswaldo Cano Sosa    def.  Martin Garcia-Ripoll 75 64
+     QF  Alexander Groves     def.  Jose Maria Rastrojo  62 64
+     QF  Gijs Akkermans       def.  Joachim Schaefer     26 62 75
+     QF  Juan Jose Rodriguez  def.  Andre Millet         60 60
+     16  Oswaldo Cano Sosa    def.  Corey Clarke         64 64
+     16  Martin Garcia-Ripoll def.  Daniel Dillon        60 64
+     16  Jose Maria Rastrojo  def.  Jonas Wand           63 67 64
+     16  Alexander Groves     def.  Erik Dallmann        61 61
+     16  Joachim Schaefer     def.  Brendan Lock         61 60
+     16  Gijs Akkermans       def.  Benjamin McDonald    63 76
+     16  Andre Millet         def.  Patricio Larrea      61 75
+     16  Juan Jose Rodriguez  def.  Christopher Steele   64 62
   > West
-      F  Corey Clarke                 def.  Christopher Steele           63 36 63
-     SF  Corey Clarke                 def.  Jonas Wand                   63 61
-     SF  Christopher Steele           def.  Benjamin McDonald            63 62
-     QF  Corey Clarke                 def.  Daniel Dillon                76 63
-     QF  Jonas Wand                   def.  Erik Dallmann                61 63
-     QF  Benjamin McDonald            def.  Brendan Lock                 76 63
-     QF  Christopher Steele           def.  Patricio Larrea              61 63
+      F  Corey Clarke         def.  Christopher Steele   63 36 63
+     SF  Corey Clarke         def.  Jonas Wand           63 61
+     SF  Christopher Steele   def.  Benjamin McDonald    63 62
+     QF  Corey Clarke         def.  Daniel Dillon        76 63
+     QF  Jonas Wand           def.  Erik Dallmann        61 63
+     QF  Benjamin McDonald    def.  Brendan Lock         76 63
+     QF  Christopher Steele   def.  Patricio Larrea      61 63
   > North
-      F  Joachim Schaefer             def.  Martin Garcia-Ripoll Ore     64 76(5)
-     SF  Martin Garcia-Ripoll Ore     def.  Jose Maria Rastrojo          76 76
-     SF  Joachim Schaefer             def.  Andre Millet                 61 63
+      F  Joachim Schaefer     def.  Martin Garcia-Ripoll 64 76(5)
+     SF  Martin Garcia-Ripoll def.  Jose Maria Rastrojo  76 76
+     SF  Joachim Schaefer     def.  Andre Millet         61 63
   > 3-4 Playoff
-      F  Juan Jose Rodriguez Garceran def.  Oswaldo Cano Sosa            75 62
+      F  Juan Jose Rodriguez  def.  Oswaldo Cano Sosa    75 62
   > South
-      F  Daniel Dillon                def.  Brendan Lock                 60 62
-     SF  Daniel Dillon                def.  Erik Dallmann                61 60
-     SF  Brendan Lock                 def.  Patricio Larrea              62 67(4) 62
+      F  Daniel Dillon        def.  Brendan Lock         60 62
+     SF  Daniel Dillon        def.  Erik Dallmann        61 60
+     SF  Brendan Lock         def.  Patricio Larrea      62 67(4) 62
   > Southwest
-      F  Benjamin McDonald            def.  Jonas Wand                   Walkover
+      F  Benjamin McDonald    def.  Jonas Wand           Walkover
   > Northwest
-      F  Jose Maria Rastrojo          def.  Andre Millet                 Walkover
+      F  Jose Maria Rastrojo  def.  Andre Millet         Walkover
   > Southeast
-      F  Patricio Larrea              def.  Erik Dallmann                60 61
+      F  Patricio Larrea      def.  Erik Dallmann        60 61
   > Crimson added matches
   > Main
-     16  Dominik Buzonics             def.  Benjamin McDonald            62 36 76(5)
-     16  Cesar Barranquero            def.  Joaquin Delpino              76 60
-     16  Mikael Purne                 def.  Lorenzo Orellano             63 60
-     16  Maciej Ziomber               def.  Jonathan Vega                62 64
-     16  Filippo Salsini              def.  Yu-Jhe Du                    64 76(3)
+     16  Dominik Buzonics     def.  Benjamin McDonald    62 36 76(5)
+     16  Cesar Barranquero    def.  Joaquin Delpino      76 60
+     16  Mikael Purne         def.  Lorenzo Orellano     63 60
+     16  Maciej Ziomber       def.  Jonathan Vega        62 64
+     16  Filippo Salsini      def.  Yu-Jhe Du            64 76(3)
 ~~~
 
 <a name="21-79025"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
   St. Mary's Invitational
   Dates: Sep 10-11, 2021
   Host: Saint Mary's University/TX (M)
-═══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > East
-      F  Hao Nguyen            def.  Hunter Bajoit         64 26 [5]
-     SF  Hao Nguyen            def.  Oskar Irdoja          61 63
-     SF  Hunter Bajoit         def.  Cameron Krimbill      63 61
-     QF  Oskar Irdoja          def.  Micah Hunter          63 61
-     QF  Hao Nguyen            def.  Carson Kirk           61 60
-     QF  Hunter Bajoit         def.  Mathew Stephenson     60 62
-     QF  Cameron Krimbill      def.  Murilo Salviato       76(3) 63
+      F  Hao Nguyen           def.  Hunter Bajoit        64 26 [5]
+     SF  Hao Nguyen           def.  Oskar Irdoja         61 63
+     SF  Hunter Bajoit        def.  Cameron Krimbill     63 61
+     QF  Oskar Irdoja         def.  Micah Hunter         63 61
+     QF  Hao Nguyen           def.  Carson Kirk          61 60
+     QF  Hunter Bajoit        def.  Mathew Stephenson    60 62
+     QF  Cameron Krimbill     def.  Murilo Salviato      76(3) 63
   > West
-      F  Murilo Salviato       def.  Carson Kirk           26 64 [8]
-     SF  Carson Kirk           def.  Micah Hunter          62 60
-     SF  Murilo Salviato       def.  Mathew Stephenson     60 61
+      F  Murilo Salviato      def.  Carson Kirk          26 64 [8]
+     SF  Carson Kirk          def.  Micah Hunter         62 60
+     SF  Murilo Salviato      def.  Mathew Stephenson    60 61
   > 3-4 Playoff
-      F  Cameron Krimbill      def.  Oskar Irdoja          76(6) 76(5)
+      F  Cameron Krimbill     def.  Oskar Irdoja         76(6) 76(5)
   > South
-      F  Micah Hunter          def.  Mathew Stephenson     64 62
+      F  Micah Hunter         def.  Mathew Stephenson    64 62
   > Flight B
   > East
-      F  Niklas Knoerr         def.  Chad Nguyen           76(6) 64
-     SF  Chad Nguyen           def.  Carlos Esteban Rodero 61 62
-     SF  Niklas Knoerr         def.  Dennis Miller         60 63
-     QF  Chad Nguyen           def.  Ryan Schulte          60 60
-     QF  Carlos Esteban Rodero def.  Johan Favelin         63 64
-     QF  Niklas Knoerr         def.  Logan Knight          61 61
-     QF  Dennis Miller         def.  Alessio Azzalini      Default
+      F  Niklas Knoerr        def.  Chad Nguyen          76(6) 64
+     SF  Chad Nguyen          def.  Carlos Esteban Roder 61 62
+     SF  Niklas Knoerr        def.  Dennis Miller        60 63
+     QF  Chad Nguyen          def.  Ryan Schulte         60 60
+     QF  Carlos Esteban Roder def.  Johan Favelin        63 64
+     QF  Niklas Knoerr        def.  Logan Knight         61 61
+     QF  Dennis Miller        def.  Alessio Azzalini     Default
   > West
-      F  Johan Favelin         def.  Logan Knight          63 61
-     SF  Johan Favelin         def.  Ryan Schulte          61 50 Ret.
-     SF  Logan Knight          def.  Alessio Azzalini      Walkover
+      F  Johan Favelin        def.  Logan Knight         63 61
+     SF  Johan Favelin        def.  Ryan Schulte         61 50 Ret.
+     SF  Logan Knight         def.  Alessio Azzalini     Walkover
   > 3-4 Playoff
-      F  Dennis Miller         def.  Carlos Esteban Rodero 75 36 [6]
+      F  Dennis Miller        def.  Carlos Esteban Roder 75 36 [6]
   > South
-      F  Ryan Schulte          def.  Alessio Azzalini      Default
+      F  Ryan Schulte         def.  Alessio Azzalini     Default
   > Flight C
   > East
-      F  Caio Ravagnani        def.  Alvaro Soler          62 46 [6]
-     SF  Alvaro Soler          def.  Steven Tibbetts       61 26 [7]
-     SF  Caio Ravagnani        def.  Anton Borovik         64 62
-     QF  Alvaro Soler          def.  Austin Cervantes      60 62
-     QF  Steven Tibbetts       def.  Simon Carandang       61 60
-     QF  Anton Borovik         def.  Christian Fernandez   63 61
-     QF  Caio Ravagnani        def.  Christian Settles     36 61 [4]
+      F  Caio Ravagnani       def.  Alvaro Soler         62 46 [6]
+     SF  Alvaro Soler         def.  Steven Tibbetts      61 26 [7]
+     SF  Caio Ravagnani       def.  Anton Borovik        64 62
+     QF  Alvaro Soler         def.  Austin Cervantes     60 62
+     QF  Steven Tibbetts      def.  Simon Carandang      61 60
+     QF  Anton Borovik        def.  Christian Fernandez  63 61
+     QF  Caio Ravagnani       def.  Christian Settles    36 61 [4]
   > West
-      F  Austin Cervantes      def.  Christian Fernandez   63 60
-     SF  Austin Cervantes      def.  Simon Carandang       63 63
-     SF  Christian Fernandez   def.  Christian Settles     Walkover
+      F  Austin Cervantes     def.  Christian Fernandez  63 60
+     SF  Austin Cervantes     def.  Simon Carandang      63 63
+     SF  Christian Fernandez  def.  Christian Settles    Walkover
   > 3-4 Playoff
-      F  Steven Tibbetts       def.  Anton Borovik         61 61
+      F  Steven Tibbetts      def.  Anton Borovik        61 61
   > South
-      F  Simon Carandang       def.  Christian Settles     Default
+      F  Simon Carandang      def.  Christian Settles    Default
   > Flight D
   > East
-      F  Cameron Goldstein     def.  Mario Urdaneta        64 61
-     SF  Cameron Goldstein     def.  Gabrijel Kajic        62 60
-     SF  Mario Urdaneta        def.  Jared Burton          26 63 [10]
-     QF  Cameron Goldstein     def.  Mario Gallinar        60 62
-     QF  Gabrijel Kajic        def.  Nicholas Gates        64 60
-     QF  Jared Burton          def.  Vinicius Silva        62 62
-     QF  Mario Urdaneta        def.  Nico Rios             61 60
+      F  Cameron Goldstein    def.  Mario Urdaneta       64 61
+     SF  Cameron Goldstein    def.  Gabrijel Kajic       62 60
+     SF  Mario Urdaneta       def.  Jared Burton         26 63 [10]
+     QF  Cameron Goldstein    def.  Mario Gallinar       60 62
+     QF  Gabrijel Kajic       def.  Nicholas Gates       64 60
+     QF  Jared Burton         def.  Vinicius Silva       62 62
+     QF  Mario Urdaneta       def.  Nico Rios            61 60
   > West
-      F  Vinicius Silva        def.  Mario Gallinar        62 60
-     SF  Mario Gallinar        def.  Nicholas Gates        62 63
-     SF  Vinicius Silva        def.  Nico Rios             60 61
+      F  Vinicius Silva       def.  Mario Gallinar       62 60
+     SF  Mario Gallinar       def.  Nicholas Gates       62 63
+     SF  Vinicius Silva       def.  Nico Rios            60 61
   > 3-4 Playoff
-      F  Jared Burton          def.  Gabrijel Kajic        62 62
+      F  Jared Burton         def.  Gabrijel Kajic       62 62
   > South
-      F  Nicholas Gates        def.  Nico Rios             60 64
+      F  Nicholas Gates       def.  Nico Rios            60 64
   > Flight E
   > East
-      F  Eric Liao             def.  Oscar Roy             64 62
-     SF  Eric Liao             def.  Graidyn Bowe          62 63
-     SF  Oscar Roy             def.  Dristen Weaver        60 60
-     QF  Eric Liao             def.  Hunter Green          63 60
-     QF  Graidyn Bowe          def.  Johnathan Barragan    63 60
-     QF  Dristen Weaver        def.  Chris Doyal           Default
-     QF  Oscar Roy             def.  Jack Johns            61 61
+      F  Eric Liao            def.  Oscar Roy            64 62
+     SF  Eric Liao            def.  Graidyn Bowe         62 63
+     SF  Oscar Roy            def.  Dristen Weaver       60 60
+     QF  Eric Liao            def.  Hunter Green         63 60
+     QF  Graidyn Bowe         def.  Johnathan Barragan   63 60
+     QF  Dristen Weaver       def.  Chris Doyal          Default
+     QF  Oscar Roy            def.  Jack Johns           61 61
   > West
-      F  Jack Johns            def.  Johnathan Barragan    16 61 [8]
-     SF  Johnathan Barragan    def.  Hunter Green          61 62
-     SF  Jack Johns            def.  Chris Doyal           Walkover
+      F  Jack Johns           def.  Johnathan Barragan   16 61 [8]
+     SF  Johnathan Barragan   def.  Hunter Green         61 62
+     SF  Jack Johns           def.  Chris Doyal          Walkover
   > 3-4 Playoff
-      F  Graidyn Bowe          def.  Dristen Weaver        61 60
+      F  Graidyn Bowe         def.  Dristen Weaver       61 60
   > South
-      F  Hunter Green          def.  Chris Doyal           Default
+      F  Hunter Green         def.  Chris Doyal          Default
   > Flight F
   > East
-      F  Daniel Matheu Baldor  def.  Connor Whittington    64 76(5)
-     SF  Daniel Matheu Baldor  def.  Daniel Haley          61 60
-     SF  Connor Whittington    def.  Michael Canales       61 60
-     QF  Daniel Matheu Baldor  def.  Landon Ferree         60 60
-     QF  Daniel Haley          def.  Hunter Kimbell Cook   62 60
-     QF  Michael Canales       def.  Joshua Huang          61 60
-     QF  Connor Whittington    def.  Quinten Robertson     Default
+      F  Daniel Matheu Baldor def.  Connor Whittington   64 76(5)
+     SF  Daniel Matheu Baldor def.  Daniel Haley         61 60
+     SF  Connor Whittington   def.  Michael Canales      61 60
+     QF  Daniel Matheu Baldor def.  Landon Ferree        60 60
+     QF  Daniel Haley         def.  Hunter Kimbell Cook  62 60
+     QF  Michael Canales      def.  Joshua Huang         61 60
+     QF  Connor Whittington   def.  Quinten Robertson    Default
   > West
-      F  Landon Ferree         def.  Joshua Huang          75 64
-     SF  Landon Ferree         def.  Hunter Kimbell Cook   63 16 [8]
-     SF  Joshua Huang          def.  Quinten Robertson     Walkover
+      F  Landon Ferree        def.  Joshua Huang         75 64
+     SF  Landon Ferree        def.  Hunter Kimbell Cook  63 16 [8]
+     SF  Joshua Huang         def.  Quinten Robertson    Walkover
   > 3-4 Playoff
-      F  Daniel Haley          def.  Michael Canales       61 62
+      F  Daniel Haley         def.  Michael Canales      61 62
   > South
-      F  Hunter Kimbell Cook   def.  Quinten Robertson     Default
+      F  Hunter Kimbell Cook  def.  Quinten Robertson    Default
   > Flight G
   > East
-      F  Nicolas Llosa         def.  Max Pearson           60 60
-     SF  Nicolas Llosa         def.  Robert Chang          75 62
-     SF  Max Pearson           def.  Sebastian Azcui       61 26 [4]
-     QF  Nicolas Llosa         def.  Giovanny Barragan     61 60
-     QF  Robert Chang          def.  Malachi Farley        63 60
-     QF  Max Pearson           def.  Max Schechter         64 61
-     QF  Sebastian Azcui       def.  Carter Marsh          60 63
+      F  Nicolas Llosa        def.  Max Pearson          60 60
+     SF  Nicolas Llosa        def.  Robert Chang         75 62
+     SF  Max Pearson          def.  Sebastian Azcui      61 26 [4]
+     QF  Nicolas Llosa        def.  Giovanny Barragan    61 60
+     QF  Robert Chang         def.  Malachi Farley       63 60
+     QF  Max Pearson          def.  Max Schechter        64 61
+     QF  Sebastian Azcui      def.  Carter Marsh         60 63
   > West
-      F  Malachi Farley        def.  Max Schechter         64 64
-     SF  Malachi Farley        def.  Giovanny Barragan     61 62
-     SF  Max Schechter         def.  Carter Marsh          61 60
+      F  Malachi Farley       def.  Max Schechter        64 64
+     SF  Malachi Farley       def.  Giovanny Barragan    61 62
+     SF  Max Schechter        def.  Carter Marsh         61 60
   > 3-4 Playoff
-      F  Sebastian Azcui       def.  Robert Chang          26 60 [10]
+      F  Sebastian Azcui      def.  Robert Chang         26 60 [10]
   > South
-      F  Giovanny Barragan     def.  Carter Marsh          46 64 [9]
+      F  Giovanny Barragan    def.  Carter Marsh         46 64 [9]
   > Flight H
   > East
-      F  Hemanshu Rambojun     def.  Cole Reed             60 60
-     SF  Cole Reed             def.  Ryan Koth             Walkover
-     SF  Hemanshu Rambojun     def.  Cal Hunter            57 62 [6]
-     QF  Ryan Koth             def.  Aaron Salinas         60 60
-     QF  Cole Reed             def.  Aaron Arrezola        46 64 [6]
-     QF  Hemanshu Rambojun     def.  Justin Alvarez        61 60
-     QF  Cal Hunter            def.  Sebastian Rodriguez   61 63
+      F  Hemanshu Rambojun    def.  Cole Reed            60 60
+     SF  Cole Reed            def.  Ryan Koth            Walkover
+     SF  Hemanshu Rambojun    def.  Cal Hunter           57 62 [6]
+     QF  Ryan Koth            def.  Aaron Salinas        60 60
+     QF  Cole Reed            def.  Aaron Arrezola       46 64 [6]
+     QF  Hemanshu Rambojun    def.  Justin Alvarez       61 60
+     QF  Cal Hunter           def.  Sebastian Rodriguez  61 63
   > West
-      F  Sebastian Rodriguez   def.  Aaron Arrezola        61 61
-     SF  Aaron Arrezola        def.  Aaron Salinas         64 62
-     SF  Sebastian Rodriguez   def.  Justin Alvarez        60 60
+      F  Sebastian Rodriguez  def.  Aaron Arrezola       61 61
+     SF  Aaron Arrezola       def.  Aaron Salinas        64 62
+     SF  Sebastian Rodriguez  def.  Justin Alvarez       60 60
   > 3-4 Playoff
-      F  Cal Hunter            def.  Ryan Koth             Walkover
+      F  Cal Hunter           def.  Ryan Koth            Walkover
   > South
-      F  Justin Alvarez        def.  Aaron Salinas         63 60
+      F  Justin Alvarez       def.  Aaron Salinas        63 60
   > Flight I
   > East
-      F  Jake Faryniarz        def.  Dalton Locke          26 62 [3]
-     SF  Dalton Locke          def.  Rafael Macedo         64 63
-     SF  Jake Faryniarz        def.  Julian Martinez       61 60
-     QF  Rafael Macedo         def.  Tyler Sargent         60 60
-     QF  Julian Martinez       def.  Daniel Garza          75 26 [5]
+      F  Jake Faryniarz       def.  Dalton Locke         26 62 [3]
+     SF  Dalton Locke         def.  Rafael Macedo        64 63
+     SF  Jake Faryniarz       def.  Julian Martinez      61 60
+     QF  Rafael Macedo        def.  Tyler Sargent        60 60
+     QF  Julian Martinez      def.  Daniel Garza         75 26 [5]
   > West
-      F  Daniel Garza          def.  Tyler Sargent         60 62
+      F  Daniel Garza         def.  Tyler Sargent        60 62
   > 3-4 Playoff
-      F  Rafael Macedo         def.  Julian Martinez       60 61
+      F  Rafael Macedo        def.  Julian Martinez      60 61
   > Flight J
   > Main
-      F  Yu Senda              def.  Jason Harris          76(1) 62
-     SF  Yu Senda              def.  Adrian Alejandro      61 63
-     SF  Jason Harris          def.  Mikey Lopez           Walkover
-     QF  Jason Harris          def.  Rien Solis            16 63 [8]
+      F  Yu Senda             def.  Jason Harris         76(1) 62
+     SF  Yu Senda             def.  Adrian Alejandro     61 63
+     SF  Jason Harris         def.  Mikey Lopez          Walkover
+     QF  Jason Harris         def.  Rien Solis           16 63 [8]
   > Consolation
-      F  Adrian Alejandro      def.  Rien Solis            63 62
-     SF  Rien Solis            def.  Mikey Lopez           Walkover
+      F  Adrian Alejandro     def.  Rien Solis           63 62
+     SF  Rien Solis           def.  Mikey Lopez          Walkover
 ~~~
 
 <a name="21-24367"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   William Woods Invite
   Dates: Sep 11-12, 2021
   Host: William Woods University (M)
-════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > Main
-      F  David Szeri              def.  Alvaro Nunez             57 61 [7]
-     SF  David Szeri              def.  Vaclav Schneider         75 62
-     SF  Alvaro Nunez             def.  Makary Adamek            64 00 Ret.
-     QF  David Szeri              def.  Ben Grumley              64 62
-     QF  Vaclav Schneider         def.  Santiago Rodriguez       76(7) 76(5)
-     QF  Alvaro Nunez             def.  Patrick Shelepov         64 63
-     QF  Makary Adamek            def.  Louis Keiner             46 64 [6]
-     16  Ben Grumley              def.  Semyon Tsyrenov          62 63
+      F  David Szeri          def.  Alvaro Nunez         57 61 [7]
+     SF  David Szeri          def.  Vaclav Schneider     75 62
+     SF  Alvaro Nunez         def.  Makary Adamek        64 00 Ret.
+     QF  David Szeri          def.  Ben Grumley          64 62
+     QF  Vaclav Schneider     def.  Santiago Rodriguez   76(7) 76(5)
+     QF  Alvaro Nunez         def.  Patrick Shelepov     64 63
+     QF  Makary Adamek        def.  Louis Keiner         46 64 [6]
+     16  Ben Grumley          def.  Semyon Tsyrenov      62 63
   > Consolation
-      F  Patrick Shelepov         def.  Semyon Tsyrenov          83
-     SF  Semyon Tsyrenov          def.  Santiago Rodriguez       97
-     SF  Patrick Shelepov         def.  Louis Keiner             81
+      F  Patrick Shelepov     def.  Semyon Tsyrenov      83
+     SF  Semyon Tsyrenov      def.  Santiago Rodriguez   97
+     SF  Patrick Shelepov     def.  Louis Keiner         81
   > Flight B
   > Main
-      F  Max Sanoja               def.  Robert Schorr            64 46 [7]
-     SF  Robert Schorr            def.  Marco Salamanca De Arcos 62 62
-     SF  Max Sanoja               def.  Vitek Subert             61 46 [12]
-     QF  Marco Salamanca De Arcos def.  Carlos Corser            57 64 [9]
-     QF  Robert Schorr            def.  Andres Sahagun           63 46 [3]
-     QF  Max Sanoja               def.  Cris Cequea              63 60
-     QF  Vitek Subert             def.  Youssef Nabil            62 36 [3]
-     16  Marco Salamanca De Arcos def.  Joe Harris               63 64
+      F  Max Sanoja           def.  Robert Schorr        64 46 [7]
+     SF  Robert Schorr        def.  Marco Salamanca De A 62 62
+     SF  Max Sanoja           def.  Vitek Subert         61 46 [12]
+     QF  Marco Salamanca De A def.  Carlos Corser        57 64 [9]
+     QF  Robert Schorr        def.  Andres Sahagun       63 46 [3]
+     QF  Max Sanoja           def.  Cris Cequea          63 60
+     QF  Vitek Subert         def.  Youssef Nabil        62 36 [3]
+     16  Marco Salamanca De A def.  Joe Harris           63 64
   > Consolation
-      F  Cris Cequea              def.  Joe Harris               Walkover
-     SF  Joe Harris               def.  Andres Sahagun           86
-     SF  Cris Cequea              def.  Youssef Nabil            Walkover
+      F  Cris Cequea          def.  Joe Harris           Walkover
+     SF  Joe Harris           def.  Andres Sahagun       86
+     SF  Cris Cequea          def.  Youssef Nabil        Walkover
   > Flight C
   > Main
-      F  Fabian Neff              def.  Nathan Cooke             63 61
-     SF  Fabian Neff              def.  Jaeden Mukkaladyil       62 60
-     SF  Nathan Cooke             def.  Patrick Bernius          62 62
-     QF  Fabian Neff              def.  Wyatt Walker             63 61
-     QF  Jaeden Mukkaladyil       def.  Brian King               67(2) 76(4) [9]
-     QF  Nathan Cooke             def.  Bryson Crowell           64 62
-     QF  Patrick Bernius          def.  Niko Papachrisanthou     76(4) 62
-     16  Wyatt Walker             def.  Isaiah Buse              60 61
+      F  Fabian Neff          def.  Nathan Cooke         63 61
+     SF  Fabian Neff          def.  Jaeden Mukkaladyil   62 60
+     SF  Nathan Cooke         def.  Patrick Bernius      62 62
+     QF  Fabian Neff          def.  Wyatt Walker         63 61
+     QF  Jaeden Mukkaladyil   def.  Brian King           67(2) 76(4) [9]
+     QF  Nathan Cooke         def.  Bryson Crowell       64 62
+     QF  Patrick Bernius      def.  Niko Papachrisanthou 76(4) 62
+     16  Wyatt Walker         def.  Isaiah Buse          60 61
   > Consolation
-      F  Brian King               def.  Niko Papachrisanthou     82
-     SF  Brian King               def.  Isaiah Buse              Walkover
-     SF  Niko Papachrisanthou     def.  Bryson Crowell           86
+      F  Brian King           def.  Niko Papachrisanthou 82
+     SF  Brian King           def.  Isaiah Buse          Walkover
+     SF  Niko Papachrisanthou def.  Bryson Crowell       86
 ~~~
 
 <a name="21-22816"></a>
