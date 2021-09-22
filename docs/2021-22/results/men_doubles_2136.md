@@ -65,137 +65,137 @@
 
 <a name="21-79025"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   St. Mary's Invitational
   Dates: Sep 10-11, 2021
   Host: Saint Mary's University/TX (M)
-═════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight D
   > East
-      F     Whittington/Liao                 def.     Roy/Haley                        75
-     SF     Roy/Haley                        def.     Reed/Barragan                    60
-     SF     Whittington/Liao                 def.     Schechter/Johns                  62
-     QF     Reed/Barragan                    def.     Rodriguez/Arrezola               63
-     QF     Whittington/Liao                 def.     Weaver/Alvarez                   61
+      F  Whittington/Liao        def.  Roy/Haley               75
+     SF  Roy/Haley               def.  Reed/Barragan           60
+     SF  Whittington/Liao        def.  Schechter/Johns         62
+     QF  Reed/Barragan           def.  Rodriguez/Arrezola      63
+     QF  Whittington/Liao        def.  Weaver/Alvarez          61
   > West
-      F     Weaver/Alvarez                   def.     Rodriguez/Arrezola               Walkover
+      F  Weaver/Alvarez          def.  Rodriguez/Arrezola      Walkover
   > 3-4 Playoff
-      F     Schechter/Johns                  def.     Reed/Barragan                    61
+      F  Schechter/Johns         def.  Reed/Barragan           61
   > Flight C
   > East
-      F     Chang/Locke                      def.     Macedo/Bowe                      64
-     SF     Chang/Locke                      def.     Koth/Urdaneta                    62
-     SF     Macedo/Bowe                      def.     Borovik/Burton                   64
-     QF     Chang/Locke                      def.     Robertson/Barragan               Default
-     QF     Koth/Urdaneta                    def.     Favelin/Kajic                    62
-     QF     Borovik/Burton                   def.     Kimbell Cook/Huang               61
-     QF     Macedo/Bowe                      def.     Fernandez/Ferree                 63
+      F  Chang/Locke             def.  Macedo/Bowe             64
+     SF  Chang/Locke             def.  Koth/Urdaneta           62
+     SF  Macedo/Bowe             def.  Borovik/Burton          64
+     QF  Chang/Locke             def.  Robertson/Barragan      Default
+     QF  Koth/Urdaneta           def.  Favelin/Kajic           62
+     QF  Borovik/Burton          def.  Kimbell Cook/Huang      61
+     QF  Macedo/Bowe             def.  Fernandez/Ferree        63
   > West
-      F     Favelin/Kajic                    def.     Fernandez/Ferree                 64
-     SF     Favelin/Kajic                    def.     Robertson/Barragan               Default
-     SF     Fernandez/Ferree                 def.     Kimbell Cook/Huang               61
+      F  Favelin/Kajic           def.  Fernandez/Ferree        64
+     SF  Favelin/Kajic           def.  Robertson/Barragan      Default
+     SF  Fernandez/Ferree        def.  Kimbell Cook/Huang      61
   > 3-4 Playoff
-      F     Borovik/Burton                   def.     Koth/Urdaneta                    Walkover
+      F  Borovik/Burton          def.  Koth/Urdaneta           Walkover
   > South
-      F     Kimbell Cook/Huang               def.     Robertson/Barragan               Default
+      F  Kimbell Cook/Huang      def.  Robertson/Barragan      Default
   > Flight B
   > East
-      F     Hunter/Krimbill                  def.     Esteban Rodero/Tibbetts          64
-     SF     Hunter/Krimbill                  def.     Faryniarz/Azcui                  76(5)
-     SF     Esteban Rodero/Tibbetts          def.     Knoerr/Soler                     63
-     QF     Hunter/Krimbill                  def.     Farley/Silva                     61
-     QF     Faryniarz/Azcui                  def.     Rios/Carandang                   60
-     QF     Knoerr/Soler                     def.     Gates/Knight                     62
-     QF     Esteban Rodero/Tibbetts          def.     Cervantes/Gallinar               60
+      F  Hunter/Krimbill         def.  Esteban Rodero/Tibbetts 64
+     SF  Hunter/Krimbill         def.  Faryniarz/Azcui         76(5)
+     SF  Esteban Rodero/Tibbetts def.  Knoerr/Soler            63
+     QF  Hunter/Krimbill         def.  Farley/Silva            61
+     QF  Faryniarz/Azcui         def.  Rios/Carandang          60
+     QF  Knoerr/Soler            def.  Gates/Knight            62
+     QF  Esteban Rodero/Tibbetts def.  Cervantes/Gallinar      60
   > West
-      F     Farley/Silva                     def.     Cervantes/Gallinar               62
-     SF     Farley/Silva                     def.     Rios/Carandang                   61
-     SF     Cervantes/Gallinar               def.     Gates/Knight                     64
+      F  Farley/Silva            def.  Cervantes/Gallinar      62
+     SF  Farley/Silva            def.  Rios/Carandang          61
+     SF  Cervantes/Gallinar      def.  Gates/Knight            64
   > South
-      F     Gates/Knight                     def.     Rios/Carandang                   64
+      F  Gates/Knight            def.  Rios/Carandang          64
   > Flight A
   > East
-      F     Rambojun/Bajoit                  def.     Miller/Kirk                      64
-     SF     Miller/Kirk                      def.     Nguyen/Settles                   Walkover
-     SF     Rambojun/Bajoit                  def.     Schulte/Stephenson               60
-     QF     Nguyen/Settles                   def.     Hunter/Green                     60
-     QF     Miller/Kirk                      def.     Irdoja/Nguyen                    76(4)
-     QF     Schulte/Stephenson               def.     Goldstein/Azzalini               Default
-     QF     Rambojun/Bajoit                  def.     Salviato/Ravagnani               75
+      F  Rambojun/Bajoit         def.  Miller/Kirk             64
+     SF  Miller/Kirk             def.  Nguyen/Settles          Walkover
+     SF  Rambojun/Bajoit         def.  Schulte/Stephenson      60
+     QF  Nguyen/Settles          def.  Hunter/Green            60
+     QF  Miller/Kirk             def.  Irdoja/Nguyen           76(4)
+     QF  Schulte/Stephenson      def.  Goldstein/Azzalini      Default
+     QF  Rambojun/Bajoit         def.  Salviato/Ravagnani      75
   > West
-      F     Irdoja/Nguyen                    def.     Salviato/Ravagnani               63
-     SF     Irdoja/Nguyen                    def.     Hunter/Green                     61
-     SF     Salviato/Ravagnani               def.     Goldstein/Azzalini               Default
+      F  Irdoja/Nguyen           def.  Salviato/Ravagnani      63
+     SF  Irdoja/Nguyen           def.  Hunter/Green            61
+     SF  Salviato/Ravagnani      def.  Goldstein/Azzalini      Default
   > 3-4 Playoff
-      F     Schulte/Stephenson               def.     Nguyen/Settles                   Walkover
+      F  Schulte/Stephenson      def.  Nguyen/Settles          Walkover
   > South
-      F     Hunter/Green                     def.     Goldstein/Azzalini               Walkover
+      F  Hunter/Green            def.  Goldstein/Azzalini      Walkover
   > Flight E
   > Main
-      F     Matheu Baldor/Senda              def.     Sargent/Solis                    60
-     SF     Matheu Baldor/Senda              def.     Garza/Alejandro                  62
-     SF     Sargent/Solis                    def.     Lopez/Martinez                   Default
-     QF     Garza/Alejandro                  def.     Marsh/Salinas                    62
+      F  Matheu Baldor/Senda     def.  Sargent/Solis           60
+     SF  Matheu Baldor/Senda     def.  Garza/Alejandro         62
+     SF  Sargent/Solis           def.  Lopez/Martinez          Default
+     QF  Garza/Alejandro         def.  Marsh/Salinas           62
   > Consolation
-      F     Marsh/Salinas                    def.     Lopez/Martinez                   Walkover
+      F  Marsh/Salinas           def.  Lopez/Martinez          Walkover
 ~~~
 
 <a name="21-24367"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════════
   William Woods Invite
   Dates: Sep 11-12, 2021
   Host: William Woods University (M)
-═════════════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Men's Doubles
   > Main
-      F     Corser/Sanoja                    def.     Grumley/Shelepov                 62
-     SF     Grumley/Shelepov                 def.     Adamek/Neff                      63
-     SF     Corser/Sanoja                    def.     Szeri/Nunez                      62
-     QF     Adamek/Neff                      def.     Mukkaladyil/Salamanca De Arcos   63
-     QF     Grumley/Shelepov                 def.     Walker/Tsyrenov                  61
-     QF     Corser/Sanoja                    def.     Keiner/Rodriguez                 61
-     QF     Szeri/Nunez                      def.     Schneider/Schorr                 75
-     16     Mukkaladyil/Salamanca De Arcos   def.     Cequea/King                      75
-     16     Corser/Sanoja                    def.     Cooke/Subert                     63
-     16     Schneider/Schorr                 def.     Harris/Papachrisanthou           63
+      F  Corser/Sanoja                  def.  Grumley/Shelepov               62
+     SF  Grumley/Shelepov               def.  Adamek/Neff                    63
+     SF  Corser/Sanoja                  def.  Szeri/Nunez                    62
+     QF  Adamek/Neff                    def.  Mukkaladyil/Salamanca De Arcos 63
+     QF  Grumley/Shelepov               def.  Walker/Tsyrenov                61
+     QF  Corser/Sanoja                  def.  Keiner/Rodriguez               61
+     QF  Szeri/Nunez                    def.  Schneider/Schorr               75
+     16  Mukkaladyil/Salamanca De Arcos def.  Cequea/King                    75
+     16  Corser/Sanoja                  def.  Cooke/Subert                   63
+     16  Schneider/Schorr               def.  Harris/Papachrisanthou         63
 ~~~
 
 <a name="21-22816"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════
   Wingate Fall Invitational
   Dates: Sep 11-12, 2021
   Host: Wingate University (M)
-═════════════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Blue
   > East
-      F     Constantino/Nokic                def.     Elkin/Dekester                   62
-     SF     Elkin/Dekester                   def.     Brown/Walcher                    Walkover
-     SF     Constantino/Nokic                def.     Janse/Hordijk                    62
-     QF     Elkin/Dekester                   def.     Van Dalen/Oka                    76(5)
-     QF     Brown/Walcher                    def.     Orozco/Buerkle                   64
-     QF     Janse/Hordijk                    def.     MACMILLIAN/WINTER                61
-     QF     Constantino/Nokic                def.     Can Wijk/Turner                  76(4)
+      F  Constantino/Nokic  def.  Elkin/Dekester     62
+     SF  Elkin/Dekester     def.  Brown/Walcher      Walkover
+     SF  Constantino/Nokic  def.  Janse/Hordijk      62
+     QF  Elkin/Dekester     def.  Van Dalen/Oka      76(5)
+     QF  Brown/Walcher      def.  Orozco/Buerkle     64
+     QF  Janse/Hordijk      def.  MACMILLIAN/WINTER  61
+     QF  Constantino/Nokic  def.  Can Wijk/Turner    76(4)
   > West
-      F     Can Wijk/Turner                  def.     Orozco/Buerkle                   63
-     SF     Orozco/Buerkle                   def.     Van Dalen/Oka                    64
-     SF     Can Wijk/Turner                  def.     MACMILLIAN/WINTER                63
+      F  Can Wijk/Turner    def.  Orozco/Buerkle     63
+     SF  Orozco/Buerkle     def.  Van Dalen/Oka      64
+     SF  Can Wijk/Turner    def.  MACMILLIAN/WINTER  63
   > South
-      F     MACMILLIAN/WINTER                def.     Van Dalen/Oka                    64
+      F  MACMILLIAN/WINTER  def.  Van Dalen/Oka      64
   > Red
   > Main
-     R3     BOMAR/SMITH                      def.     Phelan/Sechrist                  61
-     R2     Zababuryn/Juergens               def.     Phelan/Sechrist                  62
-     R1     Spinetta/Gostoli                 def.     Phelan/Sechrist                  61
-     R1     Zababuryn/Juergens               def.     BOMAR/SMITH                      64
+     R3  BOMAR/SMITH        def.  Phelan/Sechrist    61
+     R2  Zababuryn/Juergens def.  Phelan/Sechrist    62
+     R1  Spinetta/Gostoli   def.  Phelan/Sechrist    61
+     R1  Zababuryn/Juergens def.  BOMAR/SMITH        64
   > White
   > Main
-     R4     DECALUWE/KEANE                   def.     Zabala/Sudar                     63
-     R4     Sumer/Nossler                    def.     Knippling/Garofalo               61
-     R1     Sumer/Nossler                    def.     DECALUWE/KEANE                   64
-     R1     Zabala/Sudar                     def.     Waterbolk/Dulganov               75
+     R4  DECALUWE/KEANE     def.  Zabala/Sudar       63
+     R4  Sumer/Nossler      def.  Knippling/Garofalo 61
+     R1  Sumer/Nossler      def.  DECALUWE/KEANE     64
+     R1  Zabala/Sudar       def.  Waterbolk/Dulganov 75
 ~~~

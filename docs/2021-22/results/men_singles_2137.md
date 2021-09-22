@@ -2,71 +2,71 @@
 
 <a name="21-41355"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Jersey Mike's Seahawk Fall Invitational
   Dates: Sep 17-19, 2021
   Host: UNC Wilmington (M)
-══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > East
-     SF     Bekhzod Rasamatov       def. (4) Richard Trey Mallory    61 63
-     SF (3) Gabriel Hurtado         def.     Oscar Hernandez         61 61
-     QF     Richard Trey Mallory    def.     Erik Gran               64 63
-     QF     Bekhzod Rasamatov       def. (4) Francisco Lamas         62 63
-     QF (3) Gabriel Hurtado         def.     Reece Falck             75 62
-     QF     Oscar Hernandez         def. (2) Davide Innocenti        75 75
-     16 (1) Erik Gran               def.     Holden Koons            36 64 63
-     16     Richard Trey Mallory    def.     Roger Rogowski          75 26 76(2)
-     16     Francisco Lamas         def.     Charalampos Fouzas      62 62
-     16     Bekhzod Rasamatov       def. (4) Mario Pena              60 60
-     16 (3) Gabriel Hurtado         def.     Youssef Sadek           62 62
-     16     Reece Falck             def.     William Karpinski       63 26 62
-     16     Oscar Hernandez         def.     Juan Jose Vargas        64 64
-     16     Davide Innocenti        def. (2) David Flisberg          61 63
+     SF     Bekhzod Rasamatov    def. (4) Richard Trey Mallory 61 63
+     SF (3) Gabriel Hurtado      def.     Oscar Hernandez      61 61
+     QF     Richard Trey Mallory def.     Erik Gran            64 63
+     QF     Bekhzod Rasamatov    def. (4) Francisco Lamas      62 63
+     QF (3) Gabriel Hurtado      def.     Reece Falck          75 62
+     QF     Oscar Hernandez      def. (2) Davide Innocenti     75 75
+     16 (1) Erik Gran            def.     Holden Koons         36 64 63
+     16     Richard Trey Mallory def.     Roger Rogowski       75 26 76(2)
+     16     Francisco Lamas      def.     Charalampos Fouzas   62 62
+     16     Bekhzod Rasamatov    def. (4) Mario Pena           60 60
+     16 (3) Gabriel Hurtado      def.     Youssef Sadek        62 62
+     16     Reece Falck          def.     William Karpinski    63 26 62
+     16     Oscar Hernandez      def.     Juan Jose Vargas     64 64
+     16     Davide Innocenti     def. (2) David Flisberg       61 63
   > West
-     SF (1) Holden Koons            def.     Charalampos Fouzas      64 62
-     SF     William Karpinski       def.     Juan Jose Vargas        61 46 61
-     QF (1) Holden Koons            def.     Roger Rogowski          61 64
-     QF     Charalampos Fouzas      def.     Mario Pena              61 61
-     QF     William Karpinski       def.     Youssef Sadek           63 62
-     QF     Juan Jose Vargas        def.     David Flisberg          64 62
+     SF (1) Holden Koons         def.     Charalampos Fouzas   64 62
+     SF     William Karpinski    def.     Juan Jose Vargas     61 46 61
+     QF (1) Holden Koons         def.     Roger Rogowski       61 64
+     QF     Charalampos Fouzas   def.     Mario Pena           61 61
+     QF     William Karpinski    def.     Youssef Sadek        63 62
+     QF     Juan Jose Vargas     def.     David Flisberg       64 62
   > North
-      F     Reece Falck             def.     Erik Gran               62 60
-     SF     Erik Gran               def.     Francisco Lamas         Walkover
-     SF     Reece Falck             def. (2) Davide Innocenti        Walkover
+      F     Reece Falck          def.     Erik Gran            62 60
+     SF     Erik Gran            def.     Francisco Lamas      Walkover
+     SF     Reece Falck          def. (2) Davide Innocenti     Walkover
   > 3-4 Playoff
-      F     Oscar Hernandez         def.     Richard Trey Mallory    62 61
+      F     Oscar Hernandez      def.     Richard Trey Mallory 62 61
   > South
-      F     Youssef Sadek           def.     Roger Rogowski          26 60 60
-     SF     Roger Rogowski          def.     Mario Pena              57 64 64
-     SF     Youssef Sadek           def.     David Flisberg          61 63
+      F     Youssef Sadek        def.     Roger Rogowski       26 60 60
+     SF     Roger Rogowski       def.     Mario Pena           57 64 64
+     SF     Youssef Sadek        def.     David Flisberg       61 63
   > B Singles
   > East
-      F     Iganacio Sandoval       def. (2) Samuel De Felipe        61 62
-     SF     Iganacio Sandoval       def.     John Dransfeld          76 60
-     SF     Samuel De Felipe        def. (2) Juan Lombisano          62 63
-     QF (1) Iganacio Sandoval       def.     Stefan Petrovic         46 64 62
-     QF     John Dransfeld          def.     Jason Hsiang Lee        75 63
-     QF     Juan Lombisano          def.     Mathieu Josserand       62 76(6)
-     QF     Samuel De Felipe        def. (2) Callum Theaker          64 64
+      F     Iganacio Sandoval    def. (2) Samuel De Felipe     61 62
+     SF     Iganacio Sandoval    def.     John Dransfeld       76 60
+     SF     Samuel De Felipe     def. (2) Juan Lombisano       62 63
+     QF (1) Iganacio Sandoval    def.     Stefan Petrovic      46 64 62
+     QF     John Dransfeld       def.     Jason Hsiang Lee     75 63
+     QF     Juan Lombisano       def.     Mathieu Josserand    62 76(6)
+     QF     Samuel De Felipe     def. (2) Callum Theaker       64 64
   > West
-      F     Mathieu Josserand       def.     Jason Hsiang Lee        63 46 64
-     SF (1) Jason Hsiang Lee        def.     Stefan Petrovic         61 Ret.
-     SF     Mathieu Josserand       def.     Callum Theaker          62 46 63
+      F     Mathieu Josserand    def.     Jason Hsiang Lee     63 46 64
+     SF (1) Jason Hsiang Lee     def.     Stefan Petrovic      61 Ret.
+     SF     Mathieu Josserand    def.     Callum Theaker       62 46 63
   > 3-4 Playoff
-      F     John Dransfeld          def.     Juan Lombisano          62 36 75
+      F     John Dransfeld       def.     Juan Lombisano       62 36 75
   > South
-      F (1) Callum Theaker          def.     Stefan Petrovic         Walkover
+      F (1) Callum Theaker       def.     Stefan Petrovic      Walkover
 ~~~
 
 <a name="21-76336"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   GPAC Individual
   Dates: Sep 17-18, 2021
   Host: College Of Saint Mary (W)
-══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight D
   > Main
