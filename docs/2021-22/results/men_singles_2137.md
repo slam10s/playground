@@ -62,33 +62,33 @@
 
 <a name="21-76336"></a>
 ~~~
-═════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════
   GPAC Individual
   Dates: Sep 17-18, 2021
   Host: College Of Saint Mary (W)
-═════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight D
   > Main
-      F (3) Jeremy Attrill         def. (2) Jaime Sion             85
-     SF (1) Jeremy Attrill         def. (3) Parker Hansen          81
-     SF     Jaime Sion             def. (2) Cadyn Mannella         80
-     QF (1) Parker Hansen          def.     Luke Johnson           84
-     QF     Jeremy Attrill         def. (3) Bradyn Heiss           80
-     QF     Cadyn Mannella         def.     Aaron Schorg           84
-     QF     Jaime Sion             def. (2) Avery Martin           81
-     16 (1) Parker Hansen          def.     Gavin Mulder           80
-     16     Luke Johnson           def.     Josh Grosvenor         84
-     16     Bradyn Heiss           def. (5) Manuel Rodriguez Berd… 82
-     16     Jeremy Attrill         def. (3) Connor Kelley          80
-     16     Cadyn Mannella         def. (4) Milo Ciotti            84
-     16     Aaron Schorg           def.     Logan Bornemeier       85
-     16     Avery Martin           def.     Jared Thompson         84
-     16     Jaime Sion             def. (2) Zander Pacheco         80
-     32     Gavin Mulder           def.     Pablo Arza             83
-     32     Cadyn Mannella         def.     Christian Ayala        97
+      F (3) Jeremy Attrill       def. (2) Jaime Sion           85
+     SF (1) Jeremy Attrill       def. (3) Parker Hansen        81
+     SF     Jaime Sion           def. (2) Cadyn Mannella       80
+     QF (1) Parker Hansen        def.     Luke Johnson         84
+     QF     Jeremy Attrill       def. (3) Bradyn Heiss         80
+     QF     Cadyn Mannella       def.     Aaron Schorg         84
+     QF     Jaime Sion           def. (2) Avery Martin         81
+     16 (1) Parker Hansen        def.     Gavin Mulder         80
+     16     Luke Johnson         def.     Josh Grosvenor       84
+     16     Bradyn Heiss         def. (5) Manuel Rodriguez Be… 82
+     16     Jeremy Attrill       def. (3) Connor Kelley        80
+     16     Cadyn Mannella       def. (4) Milo Ciotti          84
+     16     Aaron Schorg         def.     Logan Bornemeier     85
+     16     Avery Martin         def.     Jared Thompson       84
+     16     Jaime Sion           def. (2) Zander Pacheco       80
+     32     Gavin Mulder         def.     Pablo Arza           83
+     32     Cadyn Mannella       def.     Christian Ayala      97
   > Consolation
-     QF     Josh Grosvenor         def.     Christian Ayala        84
-     QF (5) Manuel Rodriguez Berd… def.     Connor Kelley          82
-     QF     Zander Pacheco         def.     Jared Thompson         86
+     QF     Josh Grosvenor       def.     Christian Ayala      84
+     QF (5) Manuel Rodriguez Be… def.     Connor Kelley        82
+     QF     Zander Pacheco       def.     Jared Thompson       86
 ~~~
