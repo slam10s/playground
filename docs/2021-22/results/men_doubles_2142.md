@@ -1,7 +1,6 @@
 [<< Prev](men_doubles_2141.md) &nbsp; **WK 42 - Oct 18-24, 2021** &nbsp; [Next >>](men_doubles_2143.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2142.md) &#124; [Women](./women_doubles_2142.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2142.md) &#124; [***Doubles***](./men_doubles_2142.md)
 
 **Upcoming Tournaments**  
-Click link to go to tournament website:  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OldDominionUniversityM/Tournaments/Overview/E9C8EB3D-E4DF-474A-A6B4-6B1FEA7BE33A" target="_blank">ITA Division I Men's Atlantic Super Regional Championship</a>

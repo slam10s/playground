@@ -1,7 +1,6 @@
 [<< Prev](men_doubles_2140.md) &nbsp; **WK 41 - Oct 11-17, 2021** &nbsp; [Next >>](men_doubles_2142.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2141.md) &#124; [Women](./women_doubles_2141.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2141.md) &#124; [***Doubles***](./men_doubles_2141.md)
 
 **Upcoming Tournaments**  
-Click link to go to tournament website:  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">C.L Varner Invitational</a>
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">ITA Division I Men's Atlantic Regional Championship</a>
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">ITA Division I Men's Atlantic Regional Championship</a>

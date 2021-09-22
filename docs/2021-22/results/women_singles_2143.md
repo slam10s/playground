@@ -1,7 +1,6 @@
 [<< Prev](women_singles_2142.md) &nbsp; **WK 43 - Oct 25-31, 2021** &nbsp; [Next >>](women_singles_2144.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2143.md) &#124; [***Women***](./women_singles_2143.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2143.md) &#124; [Doubles](./women_doubles_2143.md)
 
 **Upcoming Tournaments**  
-Click link to go to tournament website:  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">ITA Division I Women's Southeast Regional Championship</a>
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityW/Tournaments/Overview/61F146C9-753C-4458-9E95-EE269C0BB692" target="_blank">ITA Division I Carolina Women's Regional Championship</a>
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/03D2591A-B4EA-40D0-84EE-FA366640953F" target="_blank">ITA Division I Women's Atlantic Regional Championship</a>

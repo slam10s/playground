@@ -1,15 +1,12 @@
 [<< Prev](men_doubles_2137.md) &nbsp; **WK 38 - Sep 20-26, 2021** &nbsp; [Next >>](men_doubles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2138.md) &#124; [Women](./women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2138.md) &#124; [***Doubles***](./men_doubles_2138.md)
 
 **Tournamets with Results**  
-Click link to go to results report below:  
-- 9/21/2021 - [ITA Division I Men's Mountain Regional Championship](#21-39721)  
+- 9/21/2021 - [ITA Division I Men's Mountain Regional Championship](#21-39721) ([Draws](https://colleges.wearecollegetennis.com/competitions/BrighamYoungUniversityM/Tournaments/Overview/0A12EB81-68AE-4020-9FA2-B2DB100CE962))  
 
-**Tournaments without Results**  
 Click link to go to tournament website:  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>
 
 **Upcoming Tournaments**  
-Click link to go to tournament website:  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaStateUniversityM/Tournaments/Overview/B537401C-4CA4-4C79-A319-9E137D884288" target="_blank">Georgia State Panther Invite</a>
 - 9/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">ITA Division I Men's Ohio Valley Regional Championship</a>
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityM/Tournaments/Overview/4CA1F754-31D9-4DCF-8BB3-0098D93E8693" target="_blank">Quinnipiac Invitational at Fairfield University</a>

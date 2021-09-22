@@ -1,7 +1,6 @@
 [<< Prev](women_doubles_2141.md) &nbsp; **WK 42 - Oct 18-24, 2021** &nbsp; [Next >>](women_doubles_2143.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2142.md) &#124; [***Women***](./women_doubles_2142.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2142.md) &#124; [***Doubles***](./women_doubles_2142.md)
 
 **Upcoming Tournaments**  
-Click link to go to tournament website:  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">ITA Division I Women's Southeast Regional Championship</a>
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">ITA Division I Women's Southern Regional Championship</a>
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">ITA Division I Women's Texas Regional Championship</a>
