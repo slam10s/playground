@@ -19,7 +19,7 @@ Eventually we will include information here about making pull requests to update
 
 ## Primary Contributors
 
-Shannon Wrege of <a href="https://www.slam.tennis/teams/rankings.asp" target="_blank">SLAM.Tennis</a> and Chris Halioris of <a href="http://collegetennisranks.com/" target="_blank">CollegeTennisRanks</a>
+[Shannon Wrege](https://github.com/sbwrege2z) of <a href="https://www.slam.tennis/teams/rankings.asp" target="_blank">SLAM.Tennis</a> and Chris Halioris of <a href="http://collegetennisranks.com/" target="_blank">CollegeTennisRanks</a>
 
 ### License
 
