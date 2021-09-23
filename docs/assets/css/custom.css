@@ -1,4 +1,8 @@
-#desktop-mmenu {
+header {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-family: proxima-nova, Verdana, Arial, Helvetica, sans-serif;
+  background: none;
   background-color: rgb(213, 0, 0);
   background-image: linear-gradient(rgb(213, 0, 0), rgb(255, 138, 128));
   border-bottom-color: rgb(255, 138, 128);
@@ -7,10 +11,12 @@
   border-top-color: rgb(213, 0, 0);
   border-top-style: solid;
   border-top-width: 1px;
+}
+
+#desktop-mmenu {
   box-sizing: border-box;
   color: rgb(255, 255, 255);
   display: block;
-  font-family: proxima-nova, Verdana, Arial, Helvetica, sans-serif;
   font-size: 12.8px;
   font-style: normal;
   font-weight: 400;
