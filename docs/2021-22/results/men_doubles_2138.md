@@ -22,10 +22,12 @@
  Men's Open Doubles
  > Main
   > Main
-     QF  (1) Davis/Summers         vs   (5) Cierny/Zarkovic      Thu @ 09:00
-     QF  (3) Barnett/Leite         vs   (6) Straker-Meads/Tumosa Thu @ 09:00
-     QF      Zelver/Buckland       vs   (4) Bastias/Caula        Thu @ 09:00
-     QF      Panik/Van Dijk        vs   (9) Trhac/Kristensen     Thu @ 09:00
+     SF  (1) Davis/Summers         vs   (6) Straker-Meads/Tumosa Fri @ 09:00
+     SF  (4) Bastias/Caula         vs       Panik/Van Dijk       Fri @ 09:00
+     QF  (1) Davis/Summers        def.  (5) Cierny/Zarkovic      85
+     QF  (6) Straker-Meads/Tumosa def.  (3) Barnett/Leite        83
+     QF  (4) Bastias/Caula        def.      Zelver/Buckland      85
+     QF      Panik/Van Dijk       def.  (9) Trhac/Kristensen     86
      16  (1) Davis/Summers        def. (16) Sciglitano/Thielgaa… 81
      16  (5) Cierny/Zarkovic      def.      Buxman/Serafim       85
      16  (3) Barnett/Leite        def.      Gay/Duron            86
@@ -73,10 +75,13 @@
      64      Maggs/Pucalka        def.      Acosta/Ruiz Medina   87(4)
  > Consolation
   > Main
+      F      Buzonics/Groves       vs       Ziomber/Dillon       Fri @ 10:00
+     SF      Buzonics/Groves      def.      Menard/Simecek       84
+     SF      Ziomber/Dillon       def.      Acosta/Ruiz Medina   83
      QF      Buzonics/Groves      def.      Kryvchun/Bott        Walkover
-     QF      Menard/Simecek        vs       Clarke/Akkermans     Thu @ 09:00
-     QF      Ziomber/Dillon        vs       Hambrook/Navarro     Thu @ 09:00
-     QF      Coutinho/Savio        vs       Acosta/Ruiz Medina   Thu @ 09:00
+     QF      Menard/Simecek       def.      Clarke/Akkermans     Walkover
+     QF      Ziomber/Dillon       def.      Hambrook/Navarro     81
+     QF      Acosta/Ruiz Medina   def.      Coutinho/Savio       83
      16      Buzonics/Groves      def.      Sitar/Nathan         83
      16      Kryvchun/Bott        def.      Andrus/Lin           85
      16      Menard/Simecek       def.      Robbertse/Cankus     87(5)
@@ -92,9 +97,9 @@
      32      Chavez/Savin         def.      Masala/Ramesh        85
  > Extra Matches
   > Main
-     QF      Fujita/Kramer         vs       Pierleoni/Azkara     Thu @ 09:00
-     QF      Thayne/Fuchs          vs       AbdulSalam/Prieto    Thu @ 09:00
-     QF      Robbertse/Cankus      vs       Maggs/Pucalka        Thu @ 09:00
+     QF      Fujita/Kramer        def.      Pierleoni/Azkara     83
+     QF      Thayne/Fuchs         def.      AbdulSalam/Prieto    83
+     QF      Maggs/Pucalka        def.      Robbertse/Cankus     82
 ~~~
 
 <a name="21-20374"></a>
