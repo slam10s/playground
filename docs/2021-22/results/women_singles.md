@@ -2,10 +2,10 @@
 
 **Tournamets with Matches**  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
+- 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
-- 9/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">ITA Division I Women's Midwest Regional Championship</a>  
 
 **Upcoming Tournaments**  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">2021 Cal Fall Invitational</a>  
@@ -171,6 +171,50 @@
      16Q  (3) carolina velazquez   def.      Sophia Hanover       63 46 [8]
      16Q      Danica Malan         def.  (6) Brittany Lavenant    Walkover
      16Q      Sage Hills           def.  (2) Courtney Rittel      64 46 [4]
+~~~
+
+<a name="21-30664"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  ITA Division I Women's Midwest Regional Championship
+  Dates: Sep 23-27, 2021
+  Host: University Of Illinois (W)
+═══════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw
+  > Main
+      64 (21) Tijana Zlatanovic   vs       Madelyn Yergler      Fri @ 13:00
+      64      Luisa Pelayo        vs  (26) Ayshe Can            Fri @ 14:30
+      64      Penelope Abreu      vs  (19) Yashna Yellayi       Fri @ 14:30
+      64      Katarina Dukic      vs  (14) Megan Heuser         Fri @ 15:30
+     128      Giulia Turconi      vs       Isabelle Popma       Fri @ 10:00
+     128      Shalini Tallamraju  vs       Susana Andres        Fri @ 10:00
+     128      Reagan Welch        vs       Katherine Bellia     Fri @ 10:00
+     128      Andie Weise         vs       Lenka Antonijevic    Fri @ 10:00
+     128      Emilija Kojcic      vs       Anastasia Rakita     Fri @ 10:00
+     128      Katarina Drazic     vs       Shivani Ingle        Fri @ 10:00
+     128      Ioanna Tsadari      vs       Prerna Vichare       Fri @ 10:00
+     128      Diana Lukyanova     vs       Isabella Schoolcraft Fri @ 10:00
+     128      Laura Fitzgerald    vs       Lizi Morgoshia       Fri @ 10:00
+     128      Grace Whitney       vs       Olivia Czerwonka     Fri @ 10:00
+     128      Hannah Neuman       vs       Othilia Brodin       Fri @ 10:00
+     128      Demi Jhaveri        vs       Lina Ali             Fri @ 11:15
+     128      Selina Karg         vs       Yuliya Kizelbasheva  Fri @ 11:15
+     128      Kida Ferrari        vs       Amanda Tabanera      Fri @ 11:15
+     128      Dani Schoenly       vs       Dominika Hrabalova   Fri @ 11:15
+     128      Diana Borodina      vs       Erika Dimitriev      Fri @ 10:00
+     128      Sofiya Sedovich     vs       Annika Vetter        Fri @ 10:00
+     128      Alexandra Abyasova  vs       Julia Kuszynski      Fri @ 10:00
+     128      Natalija Popovic    vs       Lura Silveira        Fri @ 10:00
+     128      Claire Czerwonka    vs       Elena Jankulovska    Fri @ 10:00
+     128      Marija Jovicic      vs       Ines Iglesias        Fri @ 10:00
+     128      Anca Craciun        vs       Allison McConnell    Fri @ 11:15
+     128      Ana Jover           vs       Sabina Brichackova   Fri @ 11:15
+     128      Christine Gouws     vs       Vasavi Ganesan       Fri @ 11:15
+     128      Calista Fuller      vs       Tara Damnjanovic     Fri @ 11:30
+     128      Florencia Fuentes   vs       Dagmar Zdrubecka     Fri @ 11:30
+     128      Kiley Rabjohns      vs       Maru Poppe           Fri @ 11:30
+     128      Kristina Pukhaeva   vs       Charlotte Gisclon    Fri @ 11:30
 ~~~
 
 Return to the [Top](./women_singles_2138.md) &#124; [Home Page](../../index.md)

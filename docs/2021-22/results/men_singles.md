@@ -22,14 +22,20 @@
  Men's Open Singles
  > Draw
   > Main
-      16  (1) James Davis           vs  (20) Rafael AbdulSalam    Thu @ 10:00
-      16      Francisco Gay         vs  (14) Louis Menard         Thu @ 10:00
-      16  (4) Matt Summers          vs  (31) Robert Baylon        Thu @ 10:00
-      16  (8) Francisco Bastias     vs  (11) Eban Straker-Meads   Thu @ 10:00
-      16 (32) Matheus Leite         vs       Bodin Zarkovic       Thu @ 10:00
-      16 (24) Francisco Bascon      vs  (23) David Cierny         Thu @ 10:00
-      16 (29) Matej Panik           vs   (5) Jack Barnett         Thu @ 10:00
-      16      Tristan Sarap         vs   (2) Franco Capalbo       Thu @ 10:00
+      SF  (1) James Davis           vs   (8) Francisco Bastias    Fri @ 11:00
+      SF      Bodin Zarkovic        vs   (2) Franco Capalbo       Fri @ 11:00
+      QF  (1) James Davis          def. (14) Louis Menard         67(9) 64 63
+      QF  (8) Francisco Bastias    def. (31) Robert Baylon        63 62
+      QF      Bodin Zarkovic       def. (24) Francisco Bascon     64 64
+      QF  (2) Franco Capalbo       def.  (5) Jack Barnett         75 75
+      16  (1) James Davis          def. (20) Rafael AbdulSalam    64 62
+      16 (14) Louis Menard         def.      Francisco Gay        75 62
+      16 (31) Robert Baylon        def.  (4) Matt Summers         46 63 64
+      16  (8) Francisco Bastias    def. (11) Eban Straker-Meads   61 75
+      16      Bodin Zarkovic       def. (32) Matheus Leite        64 64
+      16 (24) Francisco Bascon     def. (23) David Cierny         57 76(4) 64
+      16  (5) Jack Barnett         def. (29) Matej Panik          61 64
+      16  (2) Franco Capalbo       def.      Tristan Sarap        62 63
       32  (1) James Davis          def. (22) Nicolas Herrera Cue… 61 64
       32 (20) Rafael AbdulSalam    def.  (9) Kyryll Kryvchun      63 61
       32      Francisco Gay        def.      Sergi Mico Fenollar  63 26 61
@@ -123,14 +129,20 @@
      128      Jordan Azuma         def.      Tom Ciszewski        64 61
  > Consolation
   > Main
-      16      Johnny Mascagni       vs       Martin Simecek       Thu @ 10:00
-      16      Arjun Kersten         vs       Daan Van Dijk        Thu @ 10:00
-      16      Guillermo Martin      vs       Marcus Sulen         Thu @ 10:00
-      16      Brigham Andrus        vs       Josh Pearce          Thu @ 10:00
+      SF      Arjun Kersten         vs       Guillermo Martin     Fri @ 10:00
+      SF      Jan Pucalka           vs       Matteo Masala        Fri @ 10:00
+      QF      Arjun Kersten        def.      Martin Simecek       63 62
+      QF      Guillermo Martin     def.      Brigham Andrus       36 61 [1]
+      QF      Jan Pucalka          def.      Christopher Steele   62 62
+      QF      Matteo Masala        def.      Hiroki Fujita        76(2) 75
+      16      Martin Simecek       def.      Johnny Mascagni      76(4) 64
+      16      Arjun Kersten        def.      Daan Van Dijk        62 63
+      16      Guillermo Martin     def.      Marcus Sulen         62 64
+      16      Brigham Andrus       def.      Josh Pearce          63 61
       16      Christopher Steele   def.      Ryo Minakata         Walkover
-      16      Jan Pucalka           vs       Jamieson Nathan      Thu @ 11:30
-      16      Matteo Masala         vs       Chia Chieh Lin       Thu @ 11:30
-      16      Hiroki Fujita         vs       Tom Ciszewski        Thu @ 11:30
+      16      Jan Pucalka          def.      Jamieson Nathan      64 63
+      16      Matteo Masala        def.      Chia Chieh Lin       64 46 [5]
+      16      Hiroki Fujita        def.      Tom Ciszewski        62 62
       32      Johnny Mascagni      def.      Caden Moortgat       76(3) 63
       32      Martin Simecek       def.      Michael Blando       Walkover
       32      Arjun Kersten        def.      Arthur Serafim       Walkover
@@ -165,31 +177,43 @@
       64      Jackson Atherton     def.      Wikus Robbertse      75 76(5)
  > Extra Matches
   > Main
-      32      Alexander Groves      vs       Nicolas Prieto       Thu @ 11:30
-      32      Otto Schreiner        vs       Kyle Garner          Thu @ 11:30
-      32      Corey Clarke          vs       Wally Thayne         Thu @ 11:30
-      32      Justin Waldman        vs       Alexander Maggs      Thu @ 11:30
-      32      Daniel Dillon         vs       Andreas Kramer       Thu @ 11:30
-      32      Bruno Caula           vs       Patrik Trhac         Thu @ 11:30
-      32      Dominik Jakovljevic   vs       Joel Pierleoni       Thu @ 11:30
-      32      Mateo Vereau          vs       Facundo Tumosa       Thu @ 11:30
-      32      Arda Azkara           vs       Luke Wolf            Thu @ 13:00
-      32      Morgan Donovan        vs       Javier Ruiz Medina   Thu @ 13:00
-      32      Dominik Buzonics      vs       Gijs Akkermans       Thu @ 13:00
-      32      Gustav Thielgaard     vs       Patrick Kristensen   Thu @ 13:00
-      32      Lawrence Sciglitano   vs       Wikus Robbertse      Thu @ 13:00
-      32      Georgio Samaha        vs       Maciej Ziomber       Thu @ 13:00
-      32      Umit Ege Cankus       vs       Geronimo Busleiman   Thu @ 13:00
-      32      Nicolas Herrera Cue…  vs       Joachim Schaefer     Thu @ 13:00
+      16      Nicolas Prieto        vs       Kyle Garner          Fri @ 10:00
+      16      Wally Thayne          vs       Alexander Maggs      Fri @ 10:00
+      16      Daniel Dillon         vs       Bruno Caula          Fri @ 10:00
+      16      Joel Pierleoni        vs       Mateo Vereau         Fri @ 10:00
+      16      Arda Azkara           vs       Geronimo Busleiman   Fri @ 10:00
+      16      Lawrence Sciglitano   vs       Georgio Samaha       Fri @ 10:00
+      32      Nicolas Prieto       def.      Alexander Groves     36 62 [6]
+      32      Kyle Garner          def.      Otto Schreiner       75 62
+      32      Wally Thayne         def.      Corey Clarke         62 36 [4]
+      32      Alexander Maggs      def.      Justin Waldman       62 61
+      32      Daniel Dillon        def.      Andreas Kramer       62 61
+      32      Bruno Caula          def.      Patrik Trhac         76(4) 60
+      32      Joel Pierleoni       def.      Dominik Jakovljevic  62 75
+      32      Mateo Vereau         def.      Facundo Tumosa       76(4) 46 [7]
+      32      Arda Azkara          def.      Luke Wolf            62 62
+      32      Geronimo Busleiman   def.      Morgan Donovan       61 26 [9]
+      32      Joachim Schaefer      vs       Gijs Akkermans       Thu @ 13:00
+      32      Gustav Thielgaard    def.      Patrick Kristensen   63 64
+      32      Lawrence Sciglitano  def.      Wikus Robbertse      64 60
+      32      Georgio Samaha       def.      Maciej Ziomber       76(5) 46 [6]
+      32      Umit Ege Cankus       vs       Javier Ruiz Medina   Thu @ 13:00
+      32      Nicolas Herrera Cue… def.      Dominik Buzonics     63 62
+ > Extra Matches 2
+  > Main
+       F      Andreas Kramer       def.      Bradley Buckland     76(2) 61
+ > Extra Matches 3
+  > Main
+       F      Bradley Buckland      vs   (1) Maciej Ziomber       Fri @ 10:00
 ~~~
 
 <a name="21-20374"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Ohio Valley Regional Championship
   Dates: Sep 23-27, 2021
   Host: Univ. Of Tennessee, Knoxville (M)
-═════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
@@ -198,6 +222,7 @@
       64  (9) Athell Bennett        vs       Michael Dickson      Fri @ 09:00
       64 (16) Angel Diaz            vs       Thiago Pernas        Fri @ 09:00
       64      Matthew Fung          vs       John Chin            Fri @ 09:00
+      64 (16) Siim Troost           vs       Eli Herran           Fri @ 09:00
       64  (9) Joubert Klopper       vs       Gabriele Brancatelli Fri @ 09:00
       64 (16) Yusuf Khamis          vs       Alvaro Huete         Fri @ 09:00
       64  (3) Francisco Rocha       vs       Arthur Toledo        Fri @ 09:00
@@ -208,11 +233,22 @@
       64 (16) Carlos Vicente        vs       Marco Pennelli       Fri @ 09:00
       64  (9) Chris Edge            vs       Ian Cruz             Fri @ 09:00
       64 (16) Patrick Fletchall     vs       Francisco Lamas      Fri @ 09:00
+      64      Michael Ross          vs       Diego Nava           Fri @ 09:00
       64      Juan Sebastian Zaba…  vs   (9) Etienne Donnet       Fri @ 09:00
+      64      Andre Rodeia          vs       Conor Gannon         Fri @ 10:00
+      64      Kamil Kozerski        vs   (5) Joshua Lapadat       Fri @ 10:00
       64      Erik Eliasson         vs  (16) Pablo Alemany        Fri @ 10:00
       64      Nathaniel Webster     vs   (9) Stijn Slump          Fri @ 10:00
+      64      Juan Jose Vargas      vs  (16) Tomas Luis           Fri @ 10:00
       64      Trevor Ball           vs   (4) George Harwell       Fri @ 10:00
+      64      Jorge Rodriguez       vs  (16) Jeremy Taylor        Fri @ 10:30
+      64      Taisei Miyamoto       vs   (9) Francois Musitelli   Fri @ 10:30
+      64      Eric Perkowski        vs       Ilya Tiraspolsky     Fri @ 10:30
       64      Macsen Sisam          vs   (5) Dimitri Badra        Fri @ 10:30
+      64      Oscar Cutting         vs  (16) Tomas Rodriguez      Fri @ 10:30
+      64      Hugo Lobo             vs   (9) Marcus Ferreira      Fri @ 10:30
+      64      Alexandre LeBlanc     vs       Evzen Holis          Fri @ 11:00
+      64      Cambell Nakayama      vs       Diego Castro         Fri @ 11:00
      128  (1) Gabriel Diallo       def.      Abe Wojtalik         61 61
      128      Emil Jankowski       def.      Georgi Mavrodiev     62 62
      128 (16) Rafael Tosetto       def.      Santiago Casamayor   61 61
@@ -223,7 +259,7 @@
      128      Thiago Pernas        def.      Grant Kelly          62 61
      128      Matthew Fung         def.  (5) David Stevenson      36 63 64
      128      John Chin            def.      Gabriel Nolasco      61 60
-     128 (16) Siim Troost           vs       Jacob Marshall       Thu @ 09:00
+     128 (16) Siim Troost          def.      Jacob Marshall       60 67(4) 61
      128      Eli Herran           def.      Oliver Dunne         62 62
      128  (9) Joubert Klopper      def.      Ryan Cahill          62 63
      128      Gabriele Brancatelli def.      Brandon Ponomarew    61 61
@@ -246,37 +282,70 @@
      128 (16) Patrick Fletchall    def.      Jonathan Sorbo       64 64
      128      Francisco Lamas      def.      Vincent Knott        63 61
      128      Michael Ross         def.      Kaisei Kuroki        63 75
-     128      Diego Nava            vs  (16) Pavel Motl           Thu @ 11:00
+     128      Diego Nava           def. (16) Pavel Motl           75 63
      128      Juan Sebastian Zaba… def.      Will Harper          64 61
      128  (9) Etienne Donnet       def.      Nishanth Basavareddy 60 62
-     128      Sam Edgar             vs       Andre Rodeia         Thu @ 11:30
+     128      Andre Rodeia         def.      Sam Edgar            26 76(10) 76(5)
      128      Conor Gannon         def. (16) Piotr Galus          60 76(4)
-     128      Thibaut de Negri      vs       Kamil Kozerski       Thu @ 11:30
+     128      Kamil Kozerski       def.      Thibaut de Negri     75 26 60
      128  (5) Joshua Lapadat       def.      Thomas Brennan       64 63
      128      Erik Eliasson        def.      Tom Bolton           63 61
      128 (16) Pablo Alemany        def.      David Skrabut        62 60
      128      Nathaniel Webster    def.      Jun Sasagawa         Walkover
      128  (9) Stijn Slump          def.      Jordan McClure       64 62
-     128      Juan Jose Vargas      vs       Jake Penny           Thu @ 12:00
+     128      Juan Jose Vargas     def.      Jake Penny           26 64 63
      128 (16) Tomas Luis           def.      Milledge Cossu       64 63
      128      Trevor Ball          def.      Charlie Temming      64 62
      128  (4) George Harwell       def.      Parrish Simmons      62 64
-     128      Borja Miralles        vs       Jorge Rodriguez      Thu @ 12:30
-     128      Peyton Gatti          vs  (16) Jeremy Taylor        Thu @ 12:30
-     128      Tomasz Dudek          vs       Taisei Miyamoto      Thu @ 12:30
-     128      Kyle Tang             vs   (9) Francois Musitelli   Thu @ 12:30
-     128      Eric Perkowski        vs       Maksim Bogdanovich   Thu @ 12:30
-     128      Ilya Tiraspolsky      vs  (16) Stepan Holis         Thu @ 12:30
+     128      Jorge Rodriguez      def.      Borja Miralles       36 64 62
+     128 (16) Jeremy Taylor        def.      Peyton Gatti         61 76(3)
+     128      Taisei Miyamoto      def.      Tomasz Dudek         61 76(4)
+     128  (9) Francois Musitelli   def.      Kyle Tang            63 62
+     128      Eric Perkowski       def.      Maksim Bogdanovich   64 26 64
+     128      Ilya Tiraspolsky     def. (16) Stepan Holis         62 57 63
      128      Macsen Sisam         def.      Frederic Schlossmann 61 62
      128  (5) Dimitri Badra        def.      Elias Grubert        Walkover
-     128      Oscar Cutting         vs       Emilien Burnel       Thu @ 13:00
+     128      Oscar Cutting        def.      Emilien Burnel       62 64
      128 (16) Tomas Rodriguez      def.      Rohan Sachdev        61 75
-     128      Hugo Lobo             vs       Alex Jochim          Thu @ 13:00
+     128      Hugo Lobo            def.      Alex Jochim          61 63
      128  (9) Marcus Ferreira      def.      Michael Karr         62 61
-     128      Gonzalo Garcia-Nieto  vs       Alexandre LeBlanc    Thu @ 13:30
-     128      Evzen Holis           vs  (16) Carson Haskins       Thu @ 13:30
-     128      Petar Petrovic        vs       Cambell Nakayama     Thu @ 13:30
-     128      Diego Castro          vs   (2) Martim Prata         Thu @ 13:30
+     128      Alexandre LeBlanc    def.      Gonzalo Garcia-Nieto 63 64
+     128      Evzen Holis          def. (16) Carson Haskins       63 63
+     128      Cambell Nakayama     def.      Petar Petrovic       62 62
+     128      Diego Castro         def.  (2) Martim Prata         64 75
+  > Consolation
+     64Q      Abe Wojtalik          vs       Georgi Mavrodiev     Fri @ 09:00
+     64Q      Santiago Casamayor    vs       Oliver Andersson     Fri @ 09:00
+     64Q      Danilo Kovacevic      vs       Ryan Mudre           Fri @ 09:00
+     64Q      Sam Fischer           vs       Grant Kelly          Fri @ 09:00
+     64Q  (5) David Stevenson       vs       Gabriel Nolasco      Fri @ 09:00
+     64Q      Jacob Marshall        vs       Oliver Dunne         Fri @ 09:00
+     64Q      Ryan Cahill           vs       Brandon Ponomarew    Fri @ 10:00
+     64Q      Vikash Singh          vs       Chris Adams          Fri @ 10:00
+     64Q      Luka Vukovic          vs       Blessing Benibo      Fri @ 10:30
+     64Q      Pedro Uribe           vs       David Mizrahi        Fri @ 10:30
+     64Q      Brett Winters         vs       Tom Berry            Fri @ 11:00
+     64Q      Kerim Hyatt           vs       Ronit Hiryur         Fri @ 11:00
+     64Q      Carlos Salas Tulla    vs       Anton Damberg        Fri @ 11:30
+     64Q      Harry Rock            vs       Vince Orlando        Fri @ 11:30
+     64Q      Connor Robb-Wilcox    vs       Simon Labbe          Fri @ 12:00
+     64Q      Jonathan Sorbo        vs       Vincent Knott        Fri @ 12:00
+     64Q      Kaisei Kuroki         vs  (16) Pavel Motl           Fri @ 12:30
+     64Q      Will Harper           vs       Nishanth Basavareddy Fri @ 12:30
+     64Q      Sam Edgar             vs  (16) Piotr Galus          Fri @ 13:00
+     64Q      Thibaut de Negri      vs       Thomas Brennan       Fri @ 13:00
+     64Q      Tom Bolton            vs       David Skrabut        Fri @ 13:30
+     64Q      Jordan McClure       def.      Jun Sasagawa         Walkover
+     64Q      Jake Penny            vs       Milledge Cossu       Fri @ 13:30
+     64Q      Charlie Temming       vs       Parrish Simmons      Fri @ 14:00
+     64Q      Borja Miralles        vs       Peyton Gatti         Fri @ 14:00
+     64Q      Tomasz Dudek          vs       Kyle Tang            Fri @ 14:30
+     64Q      Maksim Bogdanovich    vs  (16) Stepan Holis         Fri @ 14:30
+     64Q      Frederic Schlossmann def.      Elias Grubert        Walkover
+     64Q      Emilien Burnel        vs       Rohan Sachdev        Fri @ 15:00
+     64Q      Alex Jochim           vs       Michael Karr         Fri @ 15:00
+     64Q      Gonzalo Garcia-Nieto  vs  (16) Carson Haskins       Fri @ 15:30
+     64Q      Petar Petrovic       def.  (2) Martim Prata         Walkover
 ~~~
 
 Return to the [Top](./men_singles_2138.md) &#124; [Home Page](../../index.md)
