@@ -17,12 +17,10 @@ Right now there is not a convenient way to view results from tournaments on the 
 Eventually we will include information here about making pull requests to update player information.
 -->
 
+## May Madness Predictions
+
+Our <a href="https://slam10s.github.io/may-madness/">May Madness Predictions</a> aggregate several different metrics for each match played in the NCAA Men’s and Women’s Division I Tennis Championships.
+
 ## Primary Contributors
 
 [Shannon Wrege](https://github.com/sbwrege2z) of <a href="https://www.slam.tennis/teams/rankings.asp" target="_blank">SLAM.Tennis</a> and Chris Halioris of <a href="http://collegetennisranks.com/" target="_blank">CollegeTennisRanks</a>
-
-### License
-
-All data and files in this repository are licensed under the <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-Attribution is required. Non-commercial use only.
