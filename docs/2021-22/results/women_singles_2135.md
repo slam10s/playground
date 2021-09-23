@@ -1,9 +1,6 @@
 <a name="top"></a><< Prev &nbsp; **Week #35 - Aug 30 - Sep 5** &nbsp; [Next >>](women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2135.md) &#124; [***Women***](./women_singles_2135.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2135.md) &#124; [Doubles](./women_doubles_2135.md)
 
-**Tournamets with Results**  
-- 9/3/2021 - [Tyler Invite](#21-00238) ([Results](#21-00238) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTexasTylerW/Tournaments/Overview/2BA0D609-FAB2-4A48-859D-61975908AE40" target="_blank">Draws</a>)  
-
-**Tournaments without Results**  
+**Tournaments without Matches**  
 - 9/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/4E7E69DF-F521-4DA8-A3AB-8131B80552CE" target="_blank">Warhawk Invitational</a>  
 
 <a name="21-00238"></a>

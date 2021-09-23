@@ -1,12 +1,12 @@
 <a name="top"></a>[<< Prev](men_singles_2135.md) &nbsp; **Week #36 - Sep 6-12, 2021** &nbsp; [Next >>](men_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2136.md) &#124; [Women](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2136.md) &#124; [Doubles](./men_doubles_2136.md)
 
-**Tournamets with Results**  
+**Tournamets with Matches**  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
-**Tournaments without Results**  
+**Tournaments without Matches**  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">2021 Dar Walters Classic</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Gator Fall Invite</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Orange Lawn Fall Invitational</a>  
