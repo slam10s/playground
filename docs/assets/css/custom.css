@@ -1,0 +1,23 @@
+#desktop-mmenu {
+  background-color: rgb(213, 0, 0);
+  background-image: linear-gradient(rgb(213, 0, 0), rgb(255, 138, 128));
+  border-bottom-color: rgb(255, 138, 128);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-top-color: rgb(213, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1px;
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+  display: block;
+  font-family: proxima-nova, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12.8px;
+  font-style: normal;
+  font-weight: 400;
+  height: 81px;
+  line-height: normal;
+  position: relative;
+  text-size-adjust: 100%;
+  text-transform: uppercase;
+  visibility: visible;
+}
