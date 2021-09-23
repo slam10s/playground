@@ -23,17 +23,17 @@
  > Crimson Flight 1
   > East
       F     Rastrojo/Deli        def.     Rodriguez Garceran/… 85
-     SF (1) Rastrojo/Deli        def.     Menard/Simecek       86
+     SF     Rastrojo/Deli        def. (1) Menard/Simecek       86
      SF     Rodriguez Garceran/… def.     Dillon/Ziomber       85
      QF (1) Menard/Simecek       def.     Delpino/Du           86
-     QF (4) Rastrojo/Deli        def.     Groves/Buzonics      86
+     QF     Rastrojo/Deli        def. (4) Groves/Buzonics      86
      QF     Dillon/Ziomber       def. (3) Clarke/Akkermans     87(5)
      QF     Rodriguez Garceran/… def. (2) Tumosa/Straker-Meads 82
      16     Delpino/Du           def.     Steele/Purne         87(6)
      16 (4) Groves/Buzonics      def.     Popyrin/Dominguez    84
      16     Rastrojo/Deli        def.     Larrea/Mere          85
      16     Dillon/Ziomber       def.     Barranquero/Chhabra  82
-     16     Clarke/Akkermans     def. (3) Wand/Thomas          82
+     16 (3) Clarke/Akkermans     def.     Wand/Thomas          82
      16     Rodriguez Garceran/… def.     Lock/Vega            82
   > West
       F     Barranquero/Chhabra  def.     Popyrin/Dominguez    Walkover
@@ -42,8 +42,8 @@
      QF     Popyrin/Dominguez    def.     Larrea/Mere          86
      QF     Barranquero/Chhabra  def.     Wand/Thomas          85
   > North
-      F (4) Clarke/Akkermans     def. (3) Groves/Buzonics      87(9)
-     SF     Groves/Buzonics      def. (4) Delpino/Du           81
+      F (3) Clarke/Akkermans     def. (4) Groves/Buzonics      87(9)
+     SF (4) Groves/Buzonics      def.     Delpino/Du           81
      SF (3) Clarke/Akkermans     def. (2) Tumosa/Straker-Meads 85
   > 3-4 Playoff
       F (1) Menard/Simecek       def.     Dillon/Ziomber       85
@@ -52,7 +52,7 @@
   > Southwest
       F     Steele/Purne         def.     Lock/Vega            84
   > Northwest
-      F     Tumosa/Straker-Meads def. (2) Delpino/Du           83
+      F (2) Tumosa/Straker-Meads def.     Delpino/Du           83
  > Crimson Flight 2
   > East
       F     McDonald/Cano Sosa   def.     Garcia-Ripoll Ore/S… 85

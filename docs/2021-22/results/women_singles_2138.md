@@ -5,11 +5,11 @@
 
 **Tournaments without Results**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
+- 9/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">ITA Division I Women's Midwest Regional Championship</a>  
 
 **Upcoming Tournaments**  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">2021 Cal Fall Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Bulldog Invitational</a>  
-- 9/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">ITA Division I Women's Midwest Regional Championship</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Natchitoches Women's Care/Lady Demon Collegiate Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">STETSON INVITE 1</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">University of Minnesota Gopher Invitational</a>  
@@ -26,36 +26,37 @@
  Women's Open Singles
  > Draw A Singles
   > Main
+       F  (5) Isabella Dunlap      def.  (1) Anna Novikova        64 36 64
       SF  (1) Anna Novikova        def.  (4) Nefeli Zafeiri       64 63
-      SF  (3) Isabella Dunlap      def.  (5) Diana Cabrera        62 57 [7]
+      SF  (5) Isabella Dunlap      def.  (3) Diana Cabrera        62 57 [7]
       QF  (1) Anna Novikova        def.  (7) Sofiia Sharonova     62 63
       QF  (4) Nefeli Zafeiri       def.  (7) Mariia Solnyshkina   16 75 [8]
-      QF (11) Diana Cabrera        def.  (3) Estefania Hernandez  64 63
+      QF  (3) Diana Cabrera        def. (11) Estefania Hernandez  64 63
       QF  (5) Isabella Dunlap      def.  (2) Ewa Samberger        63 63
       16  (1) Anna Novikova        def. (10) Alma Abazi           75 75
       16  (7) Sofiia Sharonova     def. (12) Sophie Daavettila    75 46 [7]
       16  (4) Nefeli Zafeiri       def.      Vera Griva           62 46 [4]
       16  (7) Mariia Solnyshkina   def.      Zuzanna Krygier      62 61
       16 (11) Estefania Hernandez  def.  (6) Kristina Lagoda      26 62 [8]
-      16  (8) Diana Cabrera        def.  (3) Anastasiya Salenko   61 61
-      16 (14) Isabella Dunlap      def.  (5) Nicole Ballach       60 61
-      16  (9) Ewa Samberger        def.  (2) Paula Ballesteros    75 63
+      16  (3) Diana Cabrera        def.  (8) Anastasiya Salenko   61 61
+      16  (5) Isabella Dunlap      def. (14) Nicole Ballach       60 61
+      16  (2) Ewa Samberger        def.  (9) Paula Ballesteros    75 63
       32  (1) Anna Novikova        def.      Jovana Vujanic       61 60
       32 (10) Alma Abazi           def.      Ghada Dirninger      62 46 [2]
       32  (7) Sofiia Sharonova     def.      Sophia Spinazze      62 64
       32 (12) Sophie Daavettila    def.      Laiying Alvarado     62 75
       32  (4) Nefeli Zafeiri       def.      Sienna Lopez         61 62
-      32 (15) Vera Griva           def.      Agata Klak           75 63
+      32      Vera Griva           def. (15) Agata Klak           75 63
       32  (7) Mariia Solnyshkina   def.      Moya Nadege Koua     61 62
-      32 (13) Zuzanna Krygier      def.      Casey Smith          16 55 Ret.
-      32      Estefania Hernandez  def. (11) Camilla Fonseca      62 64
-      32      Kristina Lagoda      def.  (6) Nicole Beidacki      63 75
-      32      Anastasiya Salenko   def.  (8) Elizaveta Velichko   75 60
-      32      Diana Cabrera        def.  (3) Rachel McCorkle      61 62
-      32      Nicole Ballach       def. (14) Parker Nolan         63 63
-      32      Isabella Dunlap      def.  (5) Clara Kuehnle        63 63
-      32      Paula Ballesteros    def.  (9) Emma Charlton        46 64 [3]
-      32      Ewa Samberger        def.  (2) Taylor Barrett       75 46 [4]
+      32      Zuzanna Krygier      def. (13) Casey Smith          16 55 Ret.
+      32 (11) Estefania Hernandez  def.      Camilla Fonseca      62 64
+      32  (6) Kristina Lagoda      def.      Nicole Beidacki      63 75
+      32  (8) Anastasiya Salenko   def.      Elizaveta Velichko   75 60
+      32  (3) Diana Cabrera        def.      Rachel McCorkle      61 62
+      32 (14) Nicole Ballach       def.      Parker Nolan         63 63
+      32  (5) Isabella Dunlap      def.      Clara Kuehnle        63 63
+      32  (9) Paula Ballesteros    def.      Emma Charlton        46 64 [3]
+      32  (2) Ewa Samberger        def.      Taylor Barrett       75 46 [4]
       64  (1) Anna Novikova        def.      Oona Kintscher       61 63
       64      Jovana Vujanic       def.      Willemien Coetzee    60 62
       64 (10) Alma Abazi           def.      Marija Leko          63 60
@@ -73,21 +74,21 @@
       64 (13) Casey Smith          def.      Kseniia Eremina      76(4) 62
       64      Zuzanna Krygier      def.      Rafaela Platisota    Walkover
       64      Camilla Fonseca      def.      Franca Bucco Paolas… 75 61
-      64      Estefania Hernandez  def. (11) emily orlove         64 61
+      64 (11) Estefania Hernandez  def.      emily orlove         64 61
       64      Nicole Beidacki      def.      Morgan Waller        Walkover
-      64      Kristina Lagoda      def.  (6) Vasileia Griva       62 63
+      64  (6) Kristina Lagoda      def.      Vasileia Griva       62 63
       64      Elizaveta Velichko   def.      Elsa Pascual         60 63
-      64      Anastasiya Salenko   def.  (8) Lidia Laskova        63 62
+      64  (8) Anastasiya Salenko   def.      Lidia Laskova        63 62
       64      Rachel McCorkle      def.      Risako Umekuni       64 64
-      64      Diana Cabrera        def.  (3) Piper Schrepferman   64 61
+      64  (3) Diana Cabrera        def.      Piper Schrepferman   64 61
       64      Parker Nolan         def.      Sarah Hackman        63 64
-      64      Nicole Ballach       def. (14) Claudia Adcock       62 61
+      64 (14) Nicole Ballach       def.      Claudia Adcock       62 61
       64      Clara Kuehnle        def.      Isabella Carofano    62 62
-      64      Isabella Dunlap      def.  (5) Shantala Uzcategui   61 62
+      64  (5) Isabella Dunlap      def.      Shantala Uzcategui   61 62
       64      Emma Charlton        def.      Elizabeth McGivern   63 63
-      64      Paula Ballesteros    def.  (9) Lauren Rowe          61 60
+      64  (9) Paula Ballesteros    def.      Lauren Rowe          61 60
       64      Taylor Barrett       def.      Lauren Hollis        60 64
-      64      Ewa Samberger        def.  (2) Gabriella Hudec      63 64
+      64  (2) Ewa Samberger        def.      Gabriella Hudec      63 64
   > Consolation
        F      Kseniia Eremina      def.      Elsa Pascual         46 64 [8]
       SF      Kseniia Eremina      def.      Milena Baigorria     63 61
@@ -127,11 +128,11 @@
       SF  (1) Lea Cakarevic        def.  (8) Claudia Sole         61 46 [6]
       SF      Alexa Gamborino      def.      Lola Cincunegui      63 62
       QF  (1) Lea Cakarevic        def.      Andrea Teofilovic    64 62
-      QF  (4) Claudia Sole         def.  (8) Madeleine Whip       64 32 Ret.
+      QF  (8) Claudia Sole         def.  (4) Madeleine Whip       64 32 Ret.
       QF      Lola Cincunegui      def.      Madison Arquette     62 62
       QF      Alexa Gamborino      def.      Maria Fernanda De L… 36 63 [8]
       16  (1) Lea Cakarevic        def.      Emily Hadler         62 64
-      16  (5) Andrea Teofilovic    def.      Muskaan Ranjan       57 75 [4]
+      16      Andrea Teofilovic    def.  (5) Muskaan Ranjan       57 75 [4]
       16  (4) Madeleine Whip       def.      Joie Reisch          Walkover
       16  (8) Claudia Sole         def.      Olivia Huang         62 46 [6]
       16      Madison Arquette     def.      Isabella Sanchez     61 62
@@ -157,17 +158,17 @@
   > Consolation
        F      Sage Hills           def.      Nicole Johnson       60 76(1)
       SF      Nicole Johnson       def.      Cristina Nieto Soto  Walkover
-      SF  (3) Sage Hills           def.      carolina velazquez   Walkover
+      SF      Sage Hills           def.  (3) carolina velazquez   Walkover
       QF      Nicole Johnson       def.      Madison Windham      Walkover
       QF      Cristina Nieto Soto  def.      Reagan Resor         64 63
-      QF  (7) carolina velazquez   def.  (3) victoria lisson      Walkover
+      QF  (3) carolina velazquez   def.  (7) victoria lisson      Walkover
       QF      Sage Hills           def.      Danica Malan         62 61
      16Q      Nicole Johnson       def.      Patricia Martin Gom… Walkover
      16Q      Madison Windham      def.      Marily Canellopolous Walkover
      16Q      Reagan Resor         def.      Sophia Baker         61 60
      16Q      Cristina Nieto Soto  def.      Samantha Stephenson  45 Ret.
-     16Q      victoria lisson      def.  (7) Irene Latorre Barre… 63 62
-     16Q      carolina velazquez   def.  (3) Sophia Hanover       63 46 [8]
+     16Q  (7) victoria lisson      def.      Irene Latorre Barre… 63 62
+     16Q  (3) carolina velazquez   def.      Sophia Hanover       63 46 [8]
      16Q      Danica Malan         def.  (6) Brittany Lavenant    Walkover
      16Q      Sage Hills           def.  (2) Courtney Rittel      64 46 [4]
 ~~~

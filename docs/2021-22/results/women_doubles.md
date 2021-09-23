@@ -5,11 +5,11 @@
 
 **Tournaments without Results**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
+- 9/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">ITA Division I Women's Midwest Regional Championship</a>  
 
 **Upcoming Tournaments**  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">2021 Cal Fall Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Bulldog Invitational</a>  
-- 9/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">ITA Division I Women's Midwest Regional Championship</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Natchitoches Women's Care/Lady Demon Collegiate Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">STETSON INVITE 1</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">University of Minnesota Gopher Invitational</a>  
@@ -32,15 +32,15 @@
       QF (1) Hernandez/Griva      def.     Koua/Ranjan          83
       QF     Sole/Malpass         def.     Hadler/Resor         85
       QF     Uzcategui/Dizon      def.     Brito/Pereyra        86
-      QF     Carofano/Yamagachi   def. (2) Gilman/Fraile Raton  83
+      QF (2) Carofano/Yamagachi   def.     Gilman/Fraile Raton  83
       16 (1) Hernandez/Griva      def.     Tsuen/Raslan         83
       16     Koua/Ranjan          def.     Spinazze/Wagner      82
-      16 (4) Sole/Malpass         def.     cupper/lisson        85
+      16     Sole/Malpass         def. (4) cupper/lisson        85
       16     Hadler/Resor         def.     Rittel/Chawner       84
       16     Brito/Pereyra        def.     Hanover/Huang        86
       16     Uzcategui/Dizon      def. (3) Laverdiere/Martin G… 83
       16     Gilman/Fraile Raton  def.     Trystan/Platisota    Walkover
-      16     Carofano/Yamagachi   def. (2) Gamborino/Sanchez    82
+      16 (2) Carofano/Yamagachi   def.     Gamborino/Sanchez    82
   > Consolation
        F     Spinazze/Wagner      def.     Hanover/Huang        82
       SF     Spinazze/Wagner      def. (4) cupper/lisson        82
@@ -60,11 +60,11 @@
       QF     Stephenson/Waller    def. (3) Solnyshkina/Sharono… 86
       QF     Cabrera/Ballesteros  def.     Shumilova/Coetzee    82
       16 (1) Novikova/Dunlap      def.     Neves/Dzenga         84
-      16 (8) Daavettila/Lavenant  def.     Salenko/Smith        83
+      16     Daavettila/Lavenant  def. (8) Salenko/Smith        83
       16     Lagoda/Cakarevic     def.     McCorkle/Rowe        84
-      16 (5) Alvarado/Sweet       def.     Samberger/Abazi      84
+      16     Alvarado/Sweet       def. (5) Samberger/Abazi      84
       16     Stephenson/Waller    def.     Griva/Barrett        86
-      16     Solnyshkina/Sharono… def. (3) Baigorria/Whip       80
+      16 (3) Solnyshkina/Sharono… def.     Baigorria/Whip       80
       16     Cabrera/Ballesteros  def. (6) Nolan/Klak           85
       16     Shumilova/Coetzee    def.     orlove/velazquez     98(3)
       32 (1) Novikova/Dunlap      def.     Lopez/Kintscher      83
@@ -78,9 +78,9 @@
       32     Griva/Barrett        def.     Fonseca/Cipriani     84
       32     Stephenson/Waller    def. (7) Krygier/Arquette     82
       32     Baigorria/Whip       def.     Luna/McGivern        81
-      32     Solnyshkina/Sharono… def. (3) Schrepferman/Bucco … 80
+      32 (3) Solnyshkina/Sharono… def.     Schrepferman/Bucco … 80
       32     Cabrera/Ballesteros  def.     Padberg/Beidacki     81
-      32     Nolan/Klak           def. (6) Skjelstad/Mokhasi    82
+      32 (6) Nolan/Klak           def.     Skjelstad/Mokhasi    82
       32     orlove/velazquez     def.     Kuehnle/Eremina      85
       32     Shumilova/Coetzee    def. (2) Zafeiri/Reisch       97
   > Consolation

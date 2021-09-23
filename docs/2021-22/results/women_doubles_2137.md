@@ -2,23 +2,23 @@
 
 **Tournamets with Results**  
 - 9/17/2021 - [Elon Invitational](#21-46904) ([Results](#21-46904) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A" target="_blank">Draws</a>)  
+- 9/17/2021 - [Lynn Stevens Invite](#21-42923) ([Results](#21-42923) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CoastalCarolinaUniversityW/Tournaments/Overview/74919BE2-BE17-4E9F-8752-0E9BA855D125" target="_blank">Draws</a>)  
 - 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655) ([Results](#21-47655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityW/Tournaments/Overview/AF0C9E05-93DF-4088-A5CF-0B35FDCDBA9C" target="_blank">Draws</a>)  
+- 9/17/2021 - [University of Cincinnati/Pam Whitehead Fall Invitational](#21-41928) ([Results](#21-41928) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
+- 9/17/2021 - [MIT Invitational](#21-01963) ([Results](#21-01963) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechW/Tournaments/Overview/05E528B1-8ECB-4C54-A76C-F650CD3C02F5" target="_blank">Draws</a>)  
 
 **Tournaments without Results**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D" target="_blank">2021 Columbia University Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechW/Tournaments/Overview/ACE61305-F599-467B-BCC6-93D21D1C354A" target="_blank">HOKIE FALL INVITE</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityW/Tournaments/Overview/A09A4AF9-B31A-4CDC-A222-437B2830D744" target="_blank">Idaho State Invite</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CoastalCarolinaUniversityW/Tournaments/Overview/74919BE2-BE17-4E9F-8752-0E9BA855D125" target="_blank">Lynn Stevens Invite</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">QU Hidden Duals At Uconn</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityW/Tournaments/Overview/1C326774-DC63-4687-A38F-F4CEEC065C15" target="_blank">Redbird Invitational</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">University of Cincinnati/Pam Whitehead Fall Invitational</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DenisonUniversityW/Tournaments/Overview/8C55E0CC-605C-4584-8311-FA3093162009" target="_blank">Big Red Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MethodistUniversityW/Tournaments/Overview/4FFAB7FF-537E-4837-8CBB-5347D9DABA5B" target="_blank">Methodist University Women's Fall Invitational</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechW/Tournaments/Overview/05E528B1-8ECB-4C54-A76C-F650CD3C02F5" target="_blank">MIT Invitational</a>  
 
 <a name="21-46904"></a>
 ~~~
@@ -73,6 +73,31 @@
       F  Farid/Ribaudo        def.  Allen/Galvin         84
 ~~~
 
+<a name="21-42923"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Lynn Stevens Invite
+  Dates: Sep 17-18, 2021
+  Host: Coastal Carolina University (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Coastal vs. Appalachian State
+  > Main
+     R1  Hollins/Hopton       def.  Aleshina/Murphy     63
+     R1  Dodridge/Ryan-Bovey  def.  Urelli/Babayan      64
+ > Coastal vs. Wofford
+  > Main
+     R1  Steryous/Wilbur      def.  Hollins/Hopton      76(4)
+     R1  de Samucewicz/Landin def.  Brennan/Fischer     64
+     R1  Hardeman/Woods       def.  Urelli/Babayan      64
+     R1  Tranberg/Massie      def.  Kahrs/Sorensen      64
+ > Coastal vs. Char. Southern
+  > Main
+     R1  Hollins/Hopton       def.  Fullana/Marti       63
+     R1  de Samucewicz/Landin def.  Singh/Man           62
+     R1  Urelli/Babayan       def.  Pyritz/Jusufbegovic 62
+~~~
+
 <a name="21-47655"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -86,18 +111,18 @@
       F     Zhu/Gavino           def. (3) Lebisova/Abrahim     76(4)
      SF     Zhu/Gavino           def. (4) Crisologo/Mocciola   61
      SF (3) Lebisova/Abrahim     def. (2) Challa/Townsend      60
-     QF (1) Zhu/Gavino           def.     Huang/Chen           75
-     QF     Crisologo/Mocciola   def. (4) Toriumi/Kageyama     60
+     QF     Zhu/Gavino           def. (1) Huang/Chen           75
+     QF (4) Crisologo/Mocciola   def.     Toriumi/Kageyama     60
      QF (3) Lebisova/Abrahim     def.     Schalekamp/Huang     64
-     QF     Challa/Townsend      def. (2) Schmitz/Bonilla      75
+     QF (2) Challa/Townsend      def.     Schmitz/Bonilla      75
      16 (1) Huang/Chen           def.     Tozzi/Leite          62
      16     Zhu/Gavino           def.     Schoenen/Salim       60
      16     Toriumi/Kageyama     def.     Nguyen/Cartis        64
-     16     Crisologo/Mocciola   def. (4) Daniels/Percegona    60
+     16 (4) Crisologo/Mocciola   def.     Daniels/Percegona    60
      16 (3) Lebisova/Abrahim     def.     Kalaga/Bishard       63
      16     Schalekamp/Huang     def.     DiBattista/Sachica   63
      16     Schmitz/Bonilla      def.     Arnautu/Gedlitschka  62
-     16     Challa/Townsend      def. (2) Garrote/Viljoen      62
+     16 (2) Challa/Townsend      def.     Garrote/Viljoen      62
      32     Tozzi/Leite          def.     Guerrero/Arranz      63
      32     Nguyen/Cartis        def.     Bacchus/Quadri       62
      32     Daniels/Percegona    def.     Paredes/Terrazas     62
@@ -142,15 +167,15 @@
       QF (1) Hernandez/Griva      def.     Koua/Ranjan          83
       QF     Sole/Malpass         def.     Hadler/Resor         85
       QF     Uzcategui/Dizon      def.     Brito/Pereyra        86
-      QF     Carofano/Yamagachi   def. (2) Gilman/Fraile Raton  83
+      QF (2) Carofano/Yamagachi   def.     Gilman/Fraile Raton  83
       16 (1) Hernandez/Griva      def.     Tsuen/Raslan         83
       16     Koua/Ranjan          def.     Spinazze/Wagner      82
-      16 (4) Sole/Malpass         def.     cupper/lisson        85
+      16     Sole/Malpass         def. (4) cupper/lisson        85
       16     Hadler/Resor         def.     Rittel/Chawner       84
       16     Brito/Pereyra        def.     Hanover/Huang        86
       16     Uzcategui/Dizon      def. (3) Laverdiere/Martin G… 83
       16     Gilman/Fraile Raton  def.     Trystan/Platisota    Walkover
-      16     Carofano/Yamagachi   def. (2) Gamborino/Sanchez    82
+      16 (2) Carofano/Yamagachi   def.     Gamborino/Sanchez    82
   > Consolation
        F     Spinazze/Wagner      def.     Hanover/Huang        82
       SF     Spinazze/Wagner      def. (4) cupper/lisson        82
@@ -170,11 +195,11 @@
       QF     Stephenson/Waller    def. (3) Solnyshkina/Sharono… 86
       QF     Cabrera/Ballesteros  def.     Shumilova/Coetzee    82
       16 (1) Novikova/Dunlap      def.     Neves/Dzenga         84
-      16 (8) Daavettila/Lavenant  def.     Salenko/Smith        83
+      16     Daavettila/Lavenant  def. (8) Salenko/Smith        83
       16     Lagoda/Cakarevic     def.     McCorkle/Rowe        84
-      16 (5) Alvarado/Sweet       def.     Samberger/Abazi      84
+      16     Alvarado/Sweet       def. (5) Samberger/Abazi      84
       16     Stephenson/Waller    def.     Griva/Barrett        86
-      16     Solnyshkina/Sharono… def. (3) Baigorria/Whip       80
+      16 (3) Solnyshkina/Sharono… def.     Baigorria/Whip       80
       16     Cabrera/Ballesteros  def. (6) Nolan/Klak           85
       16     Shumilova/Coetzee    def.     orlove/velazquez     98(3)
       32 (1) Novikova/Dunlap      def.     Lopez/Kintscher      83
@@ -188,9 +213,9 @@
       32     Griva/Barrett        def.     Fonseca/Cipriani     84
       32     Stephenson/Waller    def. (7) Krygier/Arquette     82
       32     Baigorria/Whip       def.     Luna/McGivern        81
-      32     Solnyshkina/Sharono… def. (3) Schrepferman/Bucco … 80
+      32 (3) Solnyshkina/Sharono… def.     Schrepferman/Bucco … 80
       32     Cabrera/Ballesteros  def.     Padberg/Beidacki     81
-      32     Nolan/Klak           def. (6) Skjelstad/Mokhasi    82
+      32 (6) Nolan/Klak           def.     Skjelstad/Mokhasi    82
       32     orlove/velazquez     def.     Kuehnle/Eremina      85
       32     Shumilova/Coetzee    def. (2) Zafeiri/Reisch       97
   > Consolation
@@ -213,28 +238,84 @@
 
 <a name="21-76336"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   GPAC Individual
   Dates: Sep 17-18, 2021
   Host: College Of Saint Mary (W)
-═══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight A
   > Main
+      F (1) Lima/Weston          def. (2) Do Lago/Lumanog      75
+     SF (1) Lima/Weston          def. (4) Hurst/Zakrzewski     64
+     SF (2) Do Lago/Lumanog      def.     Acena/Negrete        64
+     QF (1) Lima/Weston          def.     Fanton/Felder        62
+     QF (4) Hurst/Zakrzewski     def.     Ferrel/Morales       63
+     QF     Acena/Negrete        def.     Kutz/Robinson        63
+     QF (2) Do Lago/Lumanog      def.     Macke/Van der Torre  62
+     16     Fanton/Felder        def.     DeLaO/Vandersall     60
      16     Ferrel/Morales       def.     Hansen/Lewis         64
-     16     Do Lago/Lumanog      def. (2) Badger/Gonsor        64
+     16 (4) Hurst/Zakrzewski     def.     Markle/Richards      62
+     16     Kutz/Robinson        def. (3) Worthington/Price    61
+     16     Acena/Negrete        def.     Blough/Hosick        61
+     16     Macke/Van der Torre  def.     Clotfelter/Sadowska  61
+     16 (2) Do Lago/Lumanog      def.     Badger/Gonsor        64
+  > Consolation
+     SF     DeLaO/Vandersall     def.     Hansen/Lewis         60
+     QQ     Hansen/Lewis         def.     Markle/Richards      62
+     QQ (3) Worthington/Price    def.     Blough/Hosick        63
+     QQ     Clotfelter/Sadowska  def.     Badger/Gonsor        61
  > Flight B
   > Main
+      F (1) Kucera/Lauby         def. (2) Stalder/Ngo          61
+     SF (1) Kucera/Lauby         def.     Chiasson/Swanson     62
+     SF (2) Stalder/Ngo          def. (3) Glosser/Fox          63
+     QF (1) Kucera/Lauby         def.     Davison/Ketcham      63
      QF     Chiasson/Swanson     def.     Groski/Ruiz-Martinez 64
      QF (3) Glosser/Fox          def.     Benitez/Schwarzkopf  61
+     QF (2) Stalder/Ngo          def.     Wilson/Twelmeyer     61
      16     Davison/Ketcham      def.     Montenegro/Coppock   63
      16     Chiasson/Swanson     def.     Buck/Johnson         62
-     16 (4) Groski/Ruiz-Martinez def.     Hastings/Thompson    64
+     16     Groski/Ruiz-Martinez def. (4) Hastings/Thompson    64
      16 (3) Glosser/Fox          def.     Phillips/Freudenburg 64
      16     Benitez/Schwarzkopf  def.     McDowall/Sae-eurng   64
+     16     Wilson/Twelmeyer     def.     Dose/Olson           62
+     16 (2) Stalder/Ngo          def.     Brown-Love/Wohl      61
   > Consolation
-     QQ     Hastings/Thompson    def. (4) Buck/Johnson         60
+     QQ (4) Hastings/Thompson    def.     Buck/Johnson         60
      QQ     Phillips/Freudenburg def.     McDowall/Sae-eurng   63
+     QQ     Dose/Olson           def.     Brown-Love/Wohl      76(4)
+~~~
+
+<a name="21-01963"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  MIT Invitational
+  Dates: Sep 17-19, 2021
+  Host: Massachusetts Inst. Of Tech. (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F (2) Kintiroglou/Bukzin   def.     Cummings/Christensen 82
+     SF     Cummings/Christensen def.     Jin/Gaeth            86
+     SF (2) Kintiroglou/Bukzin   def.     Fleischman/Mohsen-B… 82
+     QF     Cummings/Christensen def. (1) Henderson/Yu         84
+     QF     Jin/Gaeth            def.     Ferrante/Yeung       86
+     QF     Fleischman/Mohsen-B… def. (3) Rigby/Suk            86
+     QF (2) Kintiroglou/Bukzin   def.     Guenther/Perera      84
+     16 (1) Henderson/Yu         def.     Cui/Hart             85
+     16     Cummings/Christensen def.     Teng/Murphy          80
+     16     Jin/Gaeth            def. (4) Liao/Pertsemlidis    86
+     16     Ferrante/Yeung       def.     Sivarak/Sha          80
+     16 (3) Rigby/Suk            def.     Lu/Huang             84
+     16     Fleischman/Mohsen-B… def.     Lendel/Friedman      85
+     16 (2) Kintiroglou/Bukzin   def.     Williams/Almy        81
+     16     Guenther/Perera      def.     Shub/Kava            Walkover
+     32     Cui/Hart             def.     Frankel/Wax          84
+     32     Jin/Gaeth            def.     May/Lowy             84
+     32     Lu/Huang             def.     Ramras/Amin          84
+     32     Williams/Almy        def.     Castelino/Fernandez  83
 ~~~
 
 Return to the [Top](./women_doubles_2137.md) &#124; [Home Page](../../index.md)
