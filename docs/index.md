@@ -19,7 +19,7 @@ Eventually we will include information here about making pull requests to update
 
 ## May Madness Predictions
 
-Our <a href="https://slam10s.github.io/may-madness/">May Madness Predictions</a> aggregate several different metrics for each match played in the NCAA Men’s and Women’s Division I Tennis Championships.
+Our <a href="https://mm.slam.tennis/">May Madness Predictions</a> aggregate several different metrics for each match played in the NCAA Men’s and Women’s Division I Tennis Championships.
 
 ## Primary Contributors
 
