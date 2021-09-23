@@ -32,6 +32,16 @@ header {
 }
 */
 
+#desktop-bluestripe {
+  height: 14px;
+  line-height: 14px;
+  background-color: #d50000;
+  border-top: 1px solid #d50000;
+  border-bottom: 1px solid #d50000;
+  text-transform: none;
+  position: relative;
+}
+
 div.logo {
   position: absolute;
   background-image: url(https://www.slam.tennis/img/v3/desktop_logo_SLAM_396x82.png);
