@@ -163,6 +163,24 @@
       64      Chia Chieh Lin       def.      Alexander Maggs      36 64 [8]
       64      Jordan Sauer         def.      Umit Ege Cankus      64 76(8)
       64      Jackson Atherton     def.      Wikus Robbertse      75 76(5)
+ > Extra Matches
+  > Main
+      32      Alexander Groves      vs       Nicolas Prieto       Thu @ 11:30
+      32      Otto Schreiner        vs       Kyle Garner          Thu @ 11:30
+      32      Corey Clarke          vs       Wally Thayne         Thu @ 11:30
+      32      Justin Waldman        vs       Alexander Maggs      Thu @ 11:30
+      32      Daniel Dillon         vs       Andreas Kramer       Thu @ 11:30
+      32      Bruno Caula           vs       Patrik Trhac         Thu @ 11:30
+      32      Dominik Jakovljevic   vs       Joel Pierleoni       Thu @ 11:30
+      32      Mateo Vereau          vs       Facundo Tumosa       Thu @ 11:30
+      32      Arda Azkara           vs       Luke Wolf            Thu @ 13:00
+      32      Morgan Donovan        vs       Javier Ruiz Medina   Thu @ 13:00
+      32      Dominik Buzonics      vs       Gijs Akkermans       Thu @ 13:00
+      32      Gustav Thielgaard     vs       Patrick Kristensen   Thu @ 13:00
+      32      Lawrence Sciglitano   vs       Wikus Robbertse      Thu @ 13:00
+      32      Georgio Samaha        vs       Maciej Ziomber       Thu @ 13:00
+      32      Umit Ege Cankus       vs       Geronimo Busleiman   Thu @ 13:00
+      32      Nicolas Herrera Cue…  vs       Joachim Schaefer     Thu @ 13:00
 ~~~
 
 <a name="21-20374"></a>
@@ -175,20 +193,20 @@
  Men's Open Singles
  > Draw
   > Main
-     128  (1) Gabriel Diallo        vs       Abe Wojtalik         Fri @ 09:00
+     128  (1) Gabriel Diallo       def.      Abe Wojtalik         61 61
      128      Emil Jankowski        vs       Georgi Mavrodiev     Thu @ 09:00
-     128 (16) Rafael Tosetto        vs       Santiago Casamayor   Thu @ 09:00
+     128 (16) Rafael Tosetto       def.      Santiago Casamayor   61 61
      128      Jagger Saylor         vs       Oliver Andersson     Thu @ 09:00
      128  (9) Athell Bennett        vs       Danilo Kovacevic     Thu @ 09:00
      128      Michael Dickson       vs       Ryan Mudre           Thu @ 09:00
      128 (16) Angel Diaz            vs       Sam Fischer          Thu @ 09:00
      128      Grant Kelly           vs       Thiago Pernas        Thu @ 09:00
      128  (5) David Stevenson       vs       Matthew Fung         Thu @ 09:00
-     128      John Chin             vs       Mika Berghaus        Thu @ 09:00
+     128      John Chin            def.      Gabriel Nolasco      61 60
      128 (16) Siim Troost           vs       Jacob Marshall       Thu @ 09:00
      128      Eli Herran            vs       Oliver Dunne         Thu @ 09:00
      128  (9) Joubert Klopper       vs       Ryan Cahill          Thu @ 09:00
-     128      Gabriele Brancatelli  vs       Brandon Ponomarew    Thu @ 09:00
+     128      Gabriele Brancatelli def.      Brandon Ponomarew    61 61
      128 (16) Yusuf Khamis          vs       Vikash Singh         Thu @ 09:00
      128      Chris Adams           vs       Alvaro Huete         Thu @ 09:00
      128  (3) Francisco Rocha       vs       Luka Vukovic         Thu @ 09:00

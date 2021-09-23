@@ -17,20 +17,20 @@
  Men's Open Singles
  > Draw
   > Main
-     128  (1) Gabriel Diallo        vs       Abe Wojtalik         Fri @ 09:00
+     128  (1) Gabriel Diallo       def.      Abe Wojtalik         61 61
      128      Emil Jankowski        vs       Georgi Mavrodiev     Thu @ 09:00
-     128 (16) Rafael Tosetto        vs       Santiago Casamayor   Thu @ 09:00
+     128 (16) Rafael Tosetto       def.      Santiago Casamayor   61 61
      128      Jagger Saylor         vs       Oliver Andersson     Thu @ 09:00
      128  (9) Athell Bennett        vs       Danilo Kovacevic     Thu @ 09:00
      128      Michael Dickson       vs       Ryan Mudre           Thu @ 09:00
      128 (16) Angel Diaz            vs       Sam Fischer          Thu @ 09:00
      128      Grant Kelly           vs       Thiago Pernas        Thu @ 09:00
      128  (5) David Stevenson       vs       Matthew Fung         Thu @ 09:00
-     128      John Chin             vs       Mika Berghaus        Thu @ 09:00
+     128      John Chin            def.      Gabriel Nolasco      61 60
      128 (16) Siim Troost           vs       Jacob Marshall       Thu @ 09:00
      128      Eli Herran            vs       Oliver Dunne         Thu @ 09:00
      128  (9) Joubert Klopper       vs       Ryan Cahill          Thu @ 09:00
-     128      Gabriele Brancatelli  vs       Brandon Ponomarew    Thu @ 09:00
+     128      Gabriele Brancatelli def.      Brandon Ponomarew    61 61
      128 (16) Yusuf Khamis          vs       Vikash Singh         Thu @ 09:00
      128      Chris Adams           vs       Alvaro Huete         Thu @ 09:00
      128  (3) Francisco Rocha       vs       Luka Vukovic         Thu @ 09:00
