@@ -1,6 +1,8 @@
 <a name="top"></a>[<< Prev](men_singles_2141.md) &nbsp; **Week #42 - Oct 18-24, 2021** &nbsp; [Next >>](men_singles_2143.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2142.md) &#124; [Women](./women_singles_2142.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2142.md) &#124; [Doubles](./men_doubles_2142.md)
 
 **Upcoming Tournaments**  
+- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
+- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OldDominionUniversityM/Tournaments/Overview/E9C8EB3D-E4DF-474A-A6B4-6B1FEA7BE33A" target="_blank">ITA Division I Men's Atlantic Super Regional Championship</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/3619E668-F531-4330-85DA-E1542DDFC2FD" target="_blank">ITA Division I Men's Carolina Regional Championship</a>  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNebraskaM/Tournaments/Overview/5C06D6C9-B27E-4C47-A3E5-6CFEE67B302C" target="_blank">ITA Division I Men's Central Regional Championship</a>  

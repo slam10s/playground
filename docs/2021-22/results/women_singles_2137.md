@@ -6,6 +6,7 @@
 - 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655) ([Results](#21-47655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityW/Tournaments/Overview/AF0C9E05-93DF-4088-A5CF-0B35FDCDBA9C" target="_blank">Draws</a>)  
 - 9/17/2021 - [University of Cincinnati/Pam Whitehead Fall Invitational](#21-41928) ([Results](#21-41928) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
+- 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 - 9/17/2021 - [MIT Invitational](#21-01963) ([Results](#21-01963) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechW/Tournaments/Overview/05E528B1-8ECB-4C54-A76C-F650CD3C02F5" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
@@ -13,6 +14,7 @@
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D" target="_blank">2021 Columbia University Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechW/Tournaments/Overview/ACE61305-F599-467B-BCC6-93D21D1C354A" target="_blank">HOKIE FALL INVITE</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityW/Tournaments/Overview/A09A4AF9-B31A-4CDC-A222-437B2830D744" target="_blank">Idaho State Invite</a>  
+- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">QU Hidden Duals At Uconn</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityW/Tournaments/Overview/1C326774-DC63-4687-A38F-F4CEEC065C15" target="_blank">Redbird Invitational</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DenisonUniversityW/Tournaments/Overview/8C55E0CC-605C-4584-8311-FA3093162009" target="_blank">Big Red Invitational</a>  
