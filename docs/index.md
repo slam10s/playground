@@ -23,4 +23,4 @@ Our <a href="https://mm.slam.tennis/">May Madness Predictions</a> aggregate seve
 
 ## Primary Contributors
 
-[Shannon Wrege](https://github.com/sbwrege2z) of <a href="https://www.slam.tennis/teams/rankings.asp" target="_blank">SLAM.Tennis</a> and Chris Halioris of <a href="http://collegetennisranks.com/" target="_blank">CollegeTennisRanks</a>
+[Shannon Wrege](https://github.com/sbwrege2z) of <a href="https://www.slam.tennis/teams/rankings.asp" target="_blank">SLAM.Tennis</a> and [Chris Halioris](https://twitter.com/College10sRanks) of <a href="http://collegetennisranks.com/" target="_blank">CollegeTennisRanks</a>
