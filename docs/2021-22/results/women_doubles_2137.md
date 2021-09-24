@@ -4,6 +4,7 @@
 - 9/17/2021 - [Elon Invitational](#21-46904) ([Results](#21-46904) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A" target="_blank">Draws</a>)  
 - 9/17/2021 - [Lynn Stevens Invite](#21-42923) ([Results](#21-42923) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CoastalCarolinaUniversityW/Tournaments/Overview/74919BE2-BE17-4E9F-8752-0E9BA855D125" target="_blank">Draws</a>)  
 - 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655) ([Results](#21-47655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityW/Tournaments/Overview/AF0C9E05-93DF-4088-A5CF-0B35FDCDBA9C" target="_blank">Draws</a>)  
+- 9/17/2021 - [University of Cincinnati/Pam Whitehead Fall Invitational](#21-41928) ([Results](#21-41928) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 - 9/17/2021 - [MIT Invitational](#21-01963) ([Results](#21-01963) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechW/Tournaments/Overview/05E528B1-8ECB-4C54-A76C-F650CD3C02F5" target="_blank">Draws</a>)  
@@ -16,7 +17,6 @@
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">QU Hidden Duals At Uconn</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityW/Tournaments/Overview/1C326774-DC63-4687-A38F-F4CEEC065C15" target="_blank">Redbird Invitational</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">University of Cincinnati/Pam Whitehead Fall Invitational</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DenisonUniversityW/Tournaments/Overview/8C55E0CC-605C-4584-8311-FA3093162009" target="_blank">Big Red Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MethodistUniversityW/Tournaments/Overview/4FFAB7FF-537E-4837-8CBB-5347D9DABA5B" target="_blank">Methodist University Women's Fall Invitational</a>  
 
@@ -149,6 +149,43 @@
       F     DiBattista/Sachica   def.     Nguyen/Cartis        75
      SF     Nguyen/Cartis        def.     Schoenen/Salim       Walkover
      SF     DiBattista/Sachica   def.     Arnautu/Gedlitschka  61
+~~~
+
+<a name="21-41928"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  University of Cincinnati/Pam Whitehead Fall Invitational
+  Dates: Sep 17-18, 2021
+  Host: University Of Cincinnati (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+     32  Mclay/Santilli       def.  Zalukar/Valentinsson 63
+     32  Saravanan/Denysiewi… def.  Guna/Miceli          64
+     32  Flanagan/Niehaus     def.  Ushio/Dev            60
+     32  Cortez/von Dungern   def.  Tsadari/Silveira     62
+     32  Bernardos/Martinez   def.  Neuman/Poppe         64
+     32  Iglesias/Vetter      def.  Shaw/Crame           63
+ > HD Doubles 2
+  > Main
+     32  Pendergast/Mclay     def.  Cortez/von Dungern   60
+     32  Guna/Miceli          def.  Bernardos/Martinez   75
+     32  Niehaus/Bruno        def.  Shaw/Crame           75
+     32  Tsadari/Silveira     def.  Valentinsson/Sarava… 60
+     32  Zalukar/Ushio        def.  Neuman/Poppe         64
+     32  Iglesias/Vetter      def.  Dev/Long             63
+ > HD Doubles 3
+  > Main
+     32  Mclay/Santilli       def.  Tsadari/Silveira     64
+     32  Guna/Miceli          def.  Neuman/Poppe         62
+     32  Pendergast/Flanagan  def.  Iglesias/Vetter      62
+     32  Saravanan/Denysiewi… def.  Cortez/von Dungern   62
+     32  Bernardos/Martinez   def.  Ushio/Valentinsson   61
+     32  Shaw/Crame           def.  Long/Zalukar         63
+ > HD Doubles extra
+  > Main
+      F  Valentinsson/Sarava… def.  Reddy/Hirsch         64
 ~~~
 
 <a name="21-14491"></a>

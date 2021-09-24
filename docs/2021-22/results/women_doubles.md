@@ -3,16 +3,14 @@
 **Tournamets with Matches**  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
+- 9/24/2021 - [University of Minnesota Gopher Invitational](#21-50226) ([Results](#21-50226) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
-
-**Upcoming Tournaments**  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">2021 Cal Fall Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Bulldog Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Natchitoches Women's Care/Lady Demon Collegiate Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">STETSON INVITE 1</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">University of Minnesota Gopher Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternIllinoisUniversityW/Tournaments/Overview/F071C84F-6B2D-4B81-8D42-5B11D51EAB94" target="_blank">Western Illinois University Fall Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WilliamsCollegeW/Tournaments/Overview/29825979-F460-4366-ACCA-41A880C0E1DA" target="_blank">Lindsay Morehouse Invitational</a>  
 
@@ -122,6 +120,36 @@
      64  Popovic/Weise        vs   Morgoshia/Borodina   Fri @ 2021-09-24T09:00
      64  Ali/Schoenly         vs   Tsadari/Neuman       Fri @ 2021-09-24T09:00
      64  Brodin/Fitzgerald    vs   Vichare/Brichackova  Fri @ 2021-09-24T09:00
+~~~
+
+<a name="21-50226"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  University of Minnesota Gopher Invitational
+  Dates: Sep 24-26, 2021
+  Host: University Of Minnesota (W)
+═════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Friday Group 1
+  > East
+     SF  Walczak/Ehn          vs   Lazarevic/Aly        Fri @ 09:00
+     SF  Rizzolo/Ercetin      vs   Oda/Aitken           Fri @ 09:00
+ > Friday Group 2
+  > East
+     SF  Haagensen/Stepan     vs   Sela/Jansson         Fri @ 09:00
+     SF  Said/Duong           vs   Sosnowska/Laursen    Fri @ 09:00
+ > Friday Group 3
+  > East
+     SF  Kmoskova/Havlickova  vs   Broerman/Sloan       Fri @ 09:00
+     SF  Hanford/Karvouni     vs   Stephani/Lee         Fri @ 09:00
+ > Friday Group 4
+  > East
+     SF  Skobkareva/Girbau    vs   Zdravkovic/Ochotore… Fri @ 09:00
+     SF  Danilchenko/Lu       vs   Frampton/Wernli      Fri @ 09:00
+ > Friday Group 5
+  > East
+     SF  Sarioglan/Kezuka     vs   Neville/Gaskell      Fri @ 09:00
+     SF  Rizza/Bowles         vs   Almiron/Bukina       Fri @ 09:00
 ~~~
 
 Return to the [Top](./women_doubles_2138.md) &#124; [Home Page](../../index.md)

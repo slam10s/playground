@@ -6,8 +6,6 @@
 
 **Tournaments without Matches**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
-
-**Upcoming Tournaments**  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaStateUniversityM/Tournaments/Overview/B537401C-4CA4-4C79-A319-9E137D884288" target="_blank">Georgia State Panther Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityM/Tournaments/Overview/4CA1F754-31D9-4DCF-8BB3-0098D93E8693" target="_blank">Quinnipiac Invitational at Fairfield University</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">American Rivers Conference Men's Individual Tournament</a>  
@@ -193,11 +191,9 @@
       32      Mateo Vereau         def.      Facundo Tumosa       76(4) 46 [7]
       32      Arda Azkara          def.      Luke Wolf            62 62
       32      Geronimo Busleiman   def.      Morgan Donovan       61 26 [9]
-      32      Joachim Schaefer      vs       Gijs Akkermans       Thu @ 13:00
       32      Gustav Thielgaard    def.      Patrick Kristensen   63 64
       32      Lawrence Sciglitano  def.      Wikus Robbertse      64 60
       32      Georgio Samaha       def.      Maciej Ziomber       76(5) 46 [6]
-      32      Umit Ege Cankus       vs       Javier Ruiz Medina   Thu @ 13:00
       32      Nicolas Herrera Cue… def.      Dominik Buzonics     63 62
  > Extra Matches 2
   > Main

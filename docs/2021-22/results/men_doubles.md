@@ -6,8 +6,6 @@
 
 **Tournaments without Matches**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
-
-**Upcoming Tournaments**  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaStateUniversityM/Tournaments/Overview/B537401C-4CA4-4C79-A319-9E137D884288" target="_blank">Georgia State Panther Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityM/Tournaments/Overview/4CA1F754-31D9-4DCF-8BB3-0098D93E8693" target="_blank">Quinnipiac Invitational at Fairfield University</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">American Rivers Conference Men's Individual Tournament</a>  
@@ -156,7 +154,7 @@
       64 (5) Andre/Tiraspolsky   def.     Andersson/Nolasco   83
       64     Khamis/Lamas        def.     Ball/Berry          82
       64 (9) Mercer/Lapadat      def.     Dudek/Sachdev       83
-      64     Rock/Alemany        def.     McClure/Kuroki      Walkover
+      64     Rock/Alemany        def.     McClure/Kuroki      20 Ret.
   > Consolation
      32Q     Schlossmann/Damberg  vs      Rodriguez/Ponomarew Fri @ 16:00
      32Q     Dunne/Harper         vs      Bogdanovich/Skrabut Fri @ 16:00

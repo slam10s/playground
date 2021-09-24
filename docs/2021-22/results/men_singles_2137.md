@@ -4,75 +4,139 @@
 - 9/16/2021 - [Bedford Cup in the Mountains](#21-69307) ([Results](#21-69307) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Draws</a>)  
 - 9/17/2021 - [Jersey Mike's Seahawk Fall Invitational](#21-41355) ([Results](#21-41355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/B5F60616-E79D-49E3-B226-EA1A8F6D19C9" target="_blank">Draws</a>)  
 - 9/17/2021 - [Joe Hunt Invitational](#21-56448) ([Results](#21-56448) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/ED7CF5B8-36CF-4226-9CE9-96204D8B6362" target="_blank">Draws</a>)  
+- 9/17/2021 - [The Star Group Binghamton Championships](#21-12886) ([Results](#21-12886) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BinghamtonUniversitySUNYM/Tournaments/Overview/45217160-5C07-4F1E-8FB5-6C5FBC28805F" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/FFC0211B-E579-4EA7-9FE6-D4E9522C2014" target="_blank">Duke Bonk Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BinghamtonUniversitySUNYM/Tournaments/Overview/45217160-5C07-4F1E-8FB5-6C5FBC28805F" target="_blank">The Star Group Binghamton Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/97C4AA58-56BC-46A0-8287-9B7C41BD76A7" target="_blank">Middlebury Invitational 2021</a>  
 
 <a name="21-69307"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   Bedford Cup in the Mountains
   Dates: Sep 16-18, 2021
   Host: U.S. Air Force Academy (M)
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Blue
   > East
-      F  Tristan Sarap       def.  James Davis         64 64
-     SF  James Davis         def.  Louis Menard        62 63
-     SF  Tristan Sarap       def.  Mattia Ros          63 64
-     QF  James Davis         def.  Matej Panik         67(3) 75 64
-     QF  Louis Menard        def.  Peter Sallay        63 62
-     QF  Mattia Ros          def.  Johnny Mascagni     61 63
-     QF  Tristan Sarap       def.  Javier Ruiz Medina  64 46 76(7)
-     16  James Davis         def.  Arjun Kersten       46 63 60
-     16  Matej Panik         def.  Elyes Marouani      62 Ret.
-     16  Peter Sallay        def.  Justin Waldman      75 61
-     16  Louis Menard        def.  Arthur Serafim      60 10 Ret.
-     16  Mattia Ros          def.  Umit Ege Cankus     63 62
-     16  Johnny Mascagni     def.  Daan Van Dijk       57 64 63
-     16  Tristan Sarap       def.  AJ Woodman          63 64
-     16  Javier Ruiz Medina  def.  Matt Summers        63 64
-     32  Arjun Kersten       def.  Diego Huttepain     64 64
-     32  Elyes Marouani      def.  Martin Simecek      26 64 63
-     32  Matej Panik         def.  Nick Vroman         60 75
-     32  Peter Sallay        def.  Sergi Mico Fenollar 63 46 62
-     32  Justin Waldman      def.  Hiroki Fujita       61 76(5)
-     32  Arthur Serafim      def.  Nejc Sitar          62 64
-     32  Umit Ege Cankus     def.  Thomas Lake         64 63
-     32  Johnny Mascagni     def.  Corey Clarke        64 67(3) 63
-     32  Daan Van Dijk       def.  Sebastian Buxman    75 57 62
-     32  Tristan Sarap       def.  Robert Baylon       76(4) 64
-     32  AJ Woodman          def.  Jamieson Nathan     63 64
-     32  Javier Ruiz Medina  def.  Jordan Azuma        67(4) 63 63
+      F     Tristan Sarap        def. (1) James Davis          64 64
+     SF (1) James Davis          def. (4) Louis Menard         62 63
+     SF     Tristan Sarap        def. (3) Mattia Ros           63 64
+     QF (1) James Davis          def.     Matej Panik          67(3) 75 64
+     QF (4) Louis Menard         def.     Peter Sallay         63 62
+     QF (3) Mattia Ros           def.     Johnny Mascagni      61 63
+     QF     Tristan Sarap        def.     Javier Ruiz Medina   64 46 76(7)
+     16 (1) James Davis          def.     Arjun Kersten        46 63 60
+     16     Matej Panik          def.     Elyes Marouani       62 Ret.
+     16     Peter Sallay         def.     Justin Waldman       75 61
+     16 (4) Louis Menard         def.     Arthur Serafim       60 10 Ret.
+     16 (3) Mattia Ros           def.     Umit Ege Cankus      63 62
+     16     Johnny Mascagni      def.     Daan Van Dijk        57 64 63
+     16     Tristan Sarap        def.     AJ Woodman           63 64
+     16     Javier Ruiz Medina   def. (2) Matt Summers         63 64
+     32     Arjun Kersten        def.     Diego Huttepain      64 64
+     32     Elyes Marouani       def.     Martin Simecek       26 64 63
+     32     Matej Panik          def.     Nick Vroman          60 75
+     32     Peter Sallay         def.     Sergi Mico Fenollar  63 46 62
+     32     Justin Waldman       def.     Hiroki Fujita        61 76(5)
+     32     Arthur Serafim       def.     Nejc Sitar           62 64
+     32     Umit Ege Cankus      def.     Thomas Lake          64 63
+     32     Johnny Mascagni      def.     Corey Clarke         64 67(3) 63
+     32     Daan Van Dijk        def.     Sebastian Buxman     75 57 62
+     32     Tristan Sarap        def.     Robert Baylon        76(4) 64
+     32     AJ Woodman           def.     Jamieson Nathan      63 64
+     32     Javier Ruiz Medina   def.     Jordan Azuma         67(4) 63 63
   > West
-      F  Sebastian Buxman    def.  Nejc Sitar          63 60
-     SF  Nejc Sitar          def.  Nick Vroman         62 36 [10]
-     SF  Sebastian Buxman    def.  Robert Baylon       63 62
-     QF  Nick Vroman         def.  Diego Huttepain     61 64
-     QF  Nejc Sitar          def.  Sergi Mico Fenollar 46 64 [7]
-     QF  Sebastian Buxman    def.  Thomas Lake         64 62
-     QF  Robert Baylon       def.  Jordan Azuma        Walkover
-     16  Nick Vroman         def.  Martin Simecek      57 64 [0]
-     16  Sergi Mico Fenollar def.  Hiroki Fujita       63 64
-     16  Sebastian Buxman    def.  Corey Clarke        64 63
-     16  Robert Baylon       def.  Jamieson Nathan     63 64
+      F     Sebastian Buxman     def.     Nejc Sitar           63 60
+     SF     Nejc Sitar           def.     Nick Vroman          62 36 [10]
+     SF     Sebastian Buxman     def.     Robert Baylon        63 62
+     QF     Nick Vroman          def.     Diego Huttepain      61 64
+     QF     Nejc Sitar           def.     Sergi Mico Fenollar  46 64 [7]
+     QF     Sebastian Buxman     def.     Thomas Lake          64 62
+     QF     Robert Baylon        def.     Jordan Azuma         Walkover
+     16     Nick Vroman          def.     Martin Simecek       57 64 [0]
+     16     Sergi Mico Fenollar  def.     Hiroki Fujita        63 64
+     16     Sebastian Buxman     def.     Corey Clarke         64 63
+     16     Robert Baylon        def.     Jamieson Nathan      63 64
   > North
-      F  Matt Summers        def.  Arjun Kersten       64 60
-     SF  Arjun Kersten       def.  Justin Waldman      Walkover
-     SF  Matt Summers        def.  Daan Van Dijk       61 62
-     QF  Arjun Kersten       def.  Elyes Marouani      Walkover
-     QF  Justin Waldman      def.  Arthur Serafim      Walkover
-     QF  Daan Van Dijk       def.  Umit Ege Cankus     62 67(5) [10]
-     QF  Matt Summers        def.  AJ Woodman          64 64
+      F (2) Matt Summers         def.     Arjun Kersten        64 60
+     SF     Arjun Kersten        def.     Justin Waldman       Walkover
+     SF (2) Matt Summers         def.     Daan Van Dijk        61 62
+     QF     Arjun Kersten        def.     Elyes Marouani       Walkover
+     QF     Justin Waldman       def.     Arthur Serafim       Walkover
+     QF     Daan Van Dijk        def.     Umit Ege Cankus      62 67(5) [10]
+     QF (2) Matt Summers         def.     AJ Woodman           64 64
   > South
-     SF  Martin Simecek      def.  Hiroki Fujita       Walkover
-     SF  Corey Clarke        def.  Jamieson Nathan     Walkover
+     SF     Martin Simecek       def.     Hiroki Fujita        Walkover
+     SF     Corey Clarke         def.     Jamieson Nathan      Walkover
+ > Silver
+  > East
+      F (1) Daniel Krulig        def.     Kyle Garner          46 62 61
+     SF (1) Daniel Krulig        def.     Bradley Buckland     61 63
+     SF     Kyle Garner          def.     Joaquin Espinoza     36 63 63
+     QF (1) Daniel Krulig        def.     Jack Ninteman        64 36 63
+     QF     Bradley Buckland     def. (3) Gijs Akkermans       16 64 63
+     QF     Kyle Garner          def.     Daniel Wei           63 16 76(6)
+     QF     Joaquin Espinoza     def. (2) Samuel Eden          64 46 76(5)
+     16 (1) Daniel Krulig        def.     Brian Garcia         62 63
+     16     Jack Ninteman        def.     Wikus Robbertse      75 75
+     16     Bradley Buckland     def.     Patricio Garcia Mur… 63 67(6) 64
+     16 (3) Gijs Akkermans       def.     Luke Wolf            63 64
+     16     Kyle Garner          def. (4) Charlie Miller       60 63
+     16     Daniel Wei           def.     Bo-Han Li            63 16 76(4)
+     16     Joaquin Espinoza     def.     Chia Chieh Lin       60 63
+     16 (2) Samuel Eden          def.     Relja Eskic          62 64
+     32     Brian Garcia         def.     Matteo Savio         62 64
+     32     Jack Ninteman        def.     David Gorshein       63 63
+     32     Wikus Robbertse      def.     Marcos Zelver        26 63 61
+     32     Patricio Garcia Mur… def.     Jordan Coutinho      46 64 64
+     32     Luke Wolf            def.     Nathan Jose          76(4) 16 64
+     32     Kyle Garner          def.     Zachary Matuszak     75 62
+     32     Daniel Wei           def.     Jacob Huppin         Walkover
+     32     Bo-Han Li            def.     Ryan Ford            60 61
+     32     Joaquin Espinoza     def.     Gabriel Chavez       61 62
+     32     Chia Chieh Lin       def.     Will Kesterson       36 64 76(5)
+     32     Relja Eskic          def.     Manuel Monteiro      46 61 63
+  > West
+     QF     David Gorshein       def.     Matteo Savio         61 63
+     QF     Nathan Jose          def.     Jordan Coutinho      Walkover
+     QF     Zachary Matuszak     def.     Ryan Ford            62 61
+     QF     Gabriel Chavez       def.     Manuel Monteiro      Walkover
+     16     David Gorshein       def.     Marcos Zelver        63 61
+     16     Ryan Ford            def.     Jacob Huppin         Walkover
+     16     Gabriel Chavez       def.     Will Kesterson       63 36 [9]
+  > North
+     SF     Wikus Robbertse      def.     Luke Wolf            67(4) 64 [6]
+     SF     Bo-Han Li            def.     Relja Eskic          61 63
+     QF     Wikus Robbertse      def.     Brian Garcia         64 63
+     QF     Luke Wolf            def.     Patricio Garcia Mur… 16 76(1) [10]
+     QF     Bo-Han Li            def. (4) Charlie Miller       64 62
+     QF     Relja Eskic          def.     Chia Chieh Lin       76(4) 62
+  > South
+      F     Will Kesterson       def.     Marcos Zelver        61 64
+     SF     Will Kesterson       def.     Jacob Huppin         Walkover
+ > Silver West Swap
+  > Main
+      F     Nathan Jose          def.     Zachary Matuszak     76(4) 46 [9]
+     SF     Zachary Matuszak     def.     David Gorshein       61 76(2)
+     SF     Nathan Jose          def.     Gabriel Chavez       75 64
+ > Extras Friday pm
+  > Main
+     QF     Martin Simecek       def.     Arjun Kersten        26 64 [4]
+     QF     Relja Eskic          def.     Ryan Ford            63 61
+     QF     Umit Ege Cankus      def.     Peter Sallay         64 62
+ > Extras Saturday
+  > Main
+     16     Sergi Mico Fenollar  def.     Patricio Garcia Mur… 63 61
+     16     Javier Ruiz Medina   def.     Peter Sallay         64 63
+     16     Matt Summers         def.     Arjun Kersten        64 60
+     16     Luke Wolf            def.     Umit Ege Cankus      63 61
+     16     Jack Ninteman        def.     Will Kesterson       63 46 [7]
+     16     Wikus Robbertse      def.     Gabriel Chavez       60 Ret.
 ~~~
 
 <a name="21-41355"></a>
@@ -319,6 +383,113 @@
      R2  Jack Dabek           def.  Priyan Desilva       76(3) 61
      R1  Jack Dabek           def.  Jean Marrero         62 60
      R1  Priyan Desilva       def.  Jan Kjellberg        62 62
+~~~
+
+<a name="21-12886"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  The Star Group Binghamton Championships
+  Dates: Sep 17-19, 2021
+  Host: Binghamton University (SUNY) (M)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > East
+      F  Jan Semerak         def.  Nick Mueller        64 64
+     SF  Jan Semerak         def.  Josh Smith          76(4) 57 [7]
+     SF  Nick Mueller        def.  Jack Selati         Walkover
+     QF  Jan Semerak         def.  Dan Pergel          63 62
+     QF  Josh Smith          def.  Santiago Galan      16 76(6) [7]
+     QF  Nick Mueller        def.  Michael Pawlowicz   76(8) 76(5)
+     QF  Jack Selati         def.  Peter Hatton        63 75
+  > West
+      F  Peter Hatton        def.  Dan Pergel          46 63 [3]
+     SF  Dan Pergel          def.  Santiago Galan      64 62
+     SF  Peter Hatton        def.  Michael Pawlowicz   64 62
+  > 3-4 Playoff
+      F  Jack Selati         def.  Josh Smith          62 57 [3]
+  > South
+      F  Santiago Galan      def.  Michael Pawlowicz   76(5) 64
+ > Flight B
+  > East
+      F  Simon Wibler        def.  Shourya Verma       63 62
+     SF  Simon Wibler        def.  Pablo Perez Ramos   36 61 [9]
+     SF  Shourya Verma       def.  Daniils Snaiders    64 63
+     QF  Pablo Perez Ramos   def.  Vishnu Bodavula     75 76(5)
+     QF  Simon Wibler        def.  Kyle Weekes         62 36 [8]
+     QF  Shourya Verma       def.  Aryaan Bhatia       75 64
+     QF  Daniils Snaiders    def.  Rohan Gupta         76(4) 76(5)
+  > West
+     SF  Vishnu Bodavula     def.  Kyle Weekes         61 36 [6]
+     SF  Aryaan Bhatia       def.  Rohan Gupta         63 62
+  > 3-4 Playoff
+      F  Pablo Perez Ramos   def.  Daniils Snaiders    64 63
+ > Flight C
+  > East
+      F  Jonathan Garcia     def.  Mike Thomas         63 60
+     SF  Jonathan Garcia     def.  Rex Tang            61 Ret.
+     SF  Mike Thomas         def.  Anshumat Srivastava 64 75
+     QF  Rex Tang            def.  Jake Huarte         63 64
+     QF  Jonathan Garcia     def.  Charlie Levinson    63 64
+     QF  Anshumat Srivastava def.  Samuel Townes       63 64
+     QF  Mike Thomas         def.  Carlos Carvalho     34 Ret.
+  > West
+      F  Jake Huarte         def.  Samuel Townes       76(4) 61
+     SF  Jake Huarte         def.  Charlie Levinson    62 64
+     SF  Samuel Townes       def.  Carlos Carvalho     Walkover
+ > Flight D
+  > East
+      F  Ashwin Kanektar     def.  Tom Owen            67(4) 64 [8]
+     SF  Tom Owen            def.  Nicolas Grunig      16 62 [5]
+     SF  Ashwin Kanektar     def.  Josh Israel         63 64
+     QF  Tom Owen            def.  Tejas Gupta         63 61
+     QF  Nicolas Grunig      def.  Daniel Zhou         62 64
+     QF  Josh Israel         def.  Alec Mackay         64 61
+     QF  Ashwin Kanektar     def.  Michael Zhang       16 62 [7]
+  > West
+      F  Tejas Gupta         def.  Michael Zhang       76(5) 16 [7]
+     SF  Tejas Gupta         def.  Daniel Zhou         Walkover
+     SF  Michael Zhang       def.  Alec Mackay         06 61 [8]
+  > 3-4 Playoff
+      F  Josh Israel         def.  Nicolas Grunig      67(4) 62 [9]
+ > Flight E
+  > East
+      F  Adi Ben Ari         def.  Charles Robertson   62 61
+     SF  Adi Ben Ari         def.  Andre Singer        46 76(5) [8]
+     SF  Charles Robertson   def.  Mikey Weitz         61 36 [5]
+     QF  Andre Singer        def.  Per Astrom          60 61
+     QF  Adi Ben Ari         def.  Nate Romig          61 61
+     QF  Charles Robertson   def.  Paul Roberts        62 16 [4]
+     QF  Mikey Weitz         def.  Daniel Sabogal      64 62
+  > West
+      F  Nate Romig          def.  Daniel Sabogal      63 63
+     SF  Nate Romig          def.  Per Astrom          60 60
+     SF  Daniel Sabogal      def.  Paul Roberts        61 36 [5]
+  > 3-4 Playoff
+      F  Mikey Weitz         def.  Andre Singer        75 63
+ > Flight F
+  > East
+      F  JJ Henderson        def.  Jonah Murphy        67(3) 63 [5]
+     SF  Jonah Murphy        def.  Michael Rooney      64 63
+     SF  JJ Henderson        def.  Juan Bejarano-Gamez 64 61
+     QF  Jonah Murphy        def.  Nick Potter         76(3) 63
+     QF  Michael Rooney      def.  Henrik Lindeman     63 64
+     QF  Juan Bejarano-Gamez def.  Hassan Elalami      62 62
+     QF  JJ Henderson        def.  Benito Vlassis      63 62
+  > West
+     SF  Henrik Lindeman     def.  Nick Potter         62 75
+     SF  Hassan Elalami      def.  Benito Vlassis      62 75
+  > 3-4 Playoff
+      F  Michael Rooney      def.  Juan Bejarano-Gamez 46 63 [5]
+ > Flight G
+  > Main
+     R6  Anshumat Srivastava def.  Alec Mackay         67(5) 75 [10]
+     R2  Samuel Townes       def.  Courage Crawford    62 64
+     R2  Hassan Elalami      def.  Per Astrom          61 60
+     R1  Charlie Levinson    def.  Courage Crawford    64 62
+ > H
+  > Main
+      F  Henrik Lindeman     def.  Benito Vlassis      67(5) 76(5) [2]
 ~~~
 
 <a name="21-76336"></a>

@@ -3,16 +3,14 @@
 **Tournamets with Matches**  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
+- 9/24/2021 - [University of Minnesota Gopher Invitational](#21-50226) ([Results](#21-50226) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
-
-**Upcoming Tournaments**  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">2021 Cal Fall Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Bulldog Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Natchitoches Women's Care/Lady Demon Collegiate Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">STETSON INVITE 1</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">University of Minnesota Gopher Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternIllinoisUniversityW/Tournaments/Overview/F071C84F-6B2D-4B81-8D42-5B11D51EAB94" target="_blank">Western Illinois University Fall Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WilliamsCollegeW/Tournaments/Overview/29825979-F460-4366-ACCA-41A880C0E1DA" target="_blank">Lindsay Morehouse Invitational</a>  
 
@@ -215,6 +213,99 @@
      128      Florencia Fuentes   vs       Dagmar Zdrubecka     Fri @ 11:30
      128      Kiley Rabjohns      vs       Maru Poppe           Fri @ 11:30
      128      Kristina Pukhaeva   vs       Charlotte Gisclon    Fri @ 11:30
+~~~
+
+<a name="21-50226"></a>
+~~~
+════════════════════════════════════════════════════════════════════
+  University of Minnesota Gopher Invitational
+  Dates: Sep 24-26, 2021
+  Host: University Of Minnesota (W)
+════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Group 1
+  > Main
+     R3  Catherine Broerman    vs   Vasiliki Karvouni  Sun @ 10:30
+     R3  Habiba Aly            vs   Andrea Jansson     Sun @ 10:30
+     R2  Habiba Aly            vs   Vasiliki Karvouni  Sat @ 11:30
+     R2  Catherine Broerman    vs   Andrea Jansson     Sat @ 11:30
+     R1  Habiba Aly            vs   Catherine Broerman Fri @ 11:30
+     R1  Vasiliki Karvouni     vs   Andrea Jansson     Fri @ 11:30
+ > Group 2
+  > Main
+     R3  Ines Stephani         vs   Jana Lazarevic     Sun @ 10:30
+     R3  Frederikke Svarre L…  vs   Maria Rizzolo      Sun @ 10:30
+     R2  Frederikke Svarre L…  vs   Jana Lazarevic     Sat @ 11:30
+     R2  Ines Stephani         vs   Maria Rizzolo      Sat @ 11:30
+     R1  Frederikke Svarre L…  vs   Ines Stephani      Fri @ 11:30
+     R1  Jana Lazarevic        vs   Maria Rizzolo      Fri @ 11:30
+ > Group 8
+  > Main
+     R3  Kelsey Neville        vs   Sonia Skobkareva   Sun @ 10:30
+     R3  Anfisa Danilchenko    vs   Allie Ochotorena   Sun @ 10:30
+     R2  Anfisa Danilchenko    vs   Sonia Skobkareva   Sat @ 11:30
+     R2  Kelsey Neville        vs   Allie Ochotorena   Sat @ 11:30
+     R1  Anfisa Danilchenko    vs   Kelsey Neville     Fri @ 11:30
+     R1  Sonia Skobkareva      vs   Allie Ochotorena   Fri @ 11:30
+ > Group 3
+  > Main
+     R3  Rachel Hanford        vs   Sapir Sela         Sun @ 10:30
+     R3  Chie Kezuka           vs   Adrianna Sosnowska Sun @ 10:30
+     R2  Chie Kezuka           vs   Sapir Sela         Sat @ 11:30
+     R2  Rachel Hanford        vs   Adrianna Sosnowska Sat @ 11:30
+     R1  Chie Kezuka           vs   Rachel Hanford     Fri @ 11:30
+     R1  Sapir Sela            vs   Adrianna Sosnowska Fri @ 11:30
+ > Group 4
+  > Main
+     R3  Emilee Duong          vs   Daria Walczak      Sun @ 10:30
+     R3  Natalie Kmoskova      vs   Jenna Sloan        Sun @ 10:30
+     R2  Natalie Kmoskova      vs   Daria Walczak      Sat @ 11:30
+     R2  Emilee Duong          vs   Jenna Sloan        Sat @ 11:30
+     R1  Natalie Kmoskova      vs   Emilee Duong       Fri @ 11:30
+     R1  Daria Walczak         vs   Jenna Sloan        Fri @ 11:30
+ > Group 5
+  > Main
+     R3  Mille Haagensen       vs   Nina Zdravkovic    Sun @ 10:30
+     R3  Ekin Ercetin          vs   Kianna Oda         Sun @ 10:30
+     R2  Ekin Ercetin          vs   Nina Zdravkovic    Sat @ 11:30
+     R2  Mille Haagensen       vs   Kianna Oda         Sat @ 11:30
+     R1  Ekin Ercetin          vs   Mille Haagensen    Fri @ 11:30
+     R1  Nina Zdravkovic       vs   Kianna Oda         Fri @ 11:30
+ > Group 6
+  > Main
+     R3  Beata Havlickova      vs   Dalila Said        Sun @ 10:30
+     R3  Darinka Stepan        vs   Vlada Medvedcova   Sun @ 10:30
+     R2  Darinka Stepan        vs   Dalila Said        Sat @ 11:30
+     R2  Beata Havlickova      vs   Vlada Medvedcova   Sat @ 11:30
+     R1  Darinka Stepan        vs   Beata Havlickova   Fri @ 11:30
+     R1  Dalila Said           vs   Vlada Medvedcova   Fri @ 11:30
+ > Group 7
+  > Main
+     R3  Lucy Lu               vs   Rebecca Ehn        Sun @ 10:30
+     R3  Caroline Wernli       vs   Berta Girbau       Sun @ 10:30
+     R2  Caroline Wernli       vs   Rebecca Ehn        Sat @ 11:30
+     R2  Lucy Lu               vs   Berta Girbau       Sat @ 11:30
+     R1  Caroline Wernli       vs   Lucy Lu            Fri @ 11:30
+     R1  Rebecca Ehn           vs   Berta Girbau       Fri @ 11:30
+ > Group 9
+  > Main
+     R3  Anna Marija Bukina    vs   Nore Heinitz       Sun @ 10:30
+     R3  Zeyneb Sarioglan      vs   Jyun-Yi Lee        Sun @ 10:30
+     R2  Zeyneb Sarioglan      vs   Nore Heinitz       Sat @ 11:30
+     R2  Anna Marija Bukina    vs   Jyun-Yi Lee        Sat @ 11:30
+     R1  Zeyneb Sarioglan      vs   Anna Marija Bukina Fri @ 11:30
+     R1  Nore Heinitz          vs   Jyun-Yi Lee        Fri @ 11:30
+ > Group 10
+  > Main
+     R5  Eesha Varma           vs   Maria Frampton     Sun @ 10:30
+     R5  Kendall Hunt          vs   Yulia Almiron      Sun @ 10:30
+     R5  Yana Gaskell          vs   Lucia Rizza        Sun @ 10:30
+     R4  Eesha Varma           vs   Kendall Hunt       Sat @ 11:30
+     R4  Yana Gaskell          vs   Yulia Almiron      Sat @ 11:30
+     R4  Maria Frampton        vs   Lucia Rizza        Sat @ 11:30
+     R1  Yana Gaskell          vs   Eesha Varma        Fri @ 11:30
+     R1  Kendall Hunt          vs   Maria Frampton     Fri @ 11:30
+     R1  Yulia Almiron         vs   Lucia Rizza        Fri @ 11:30
 ~~~
 
 Return to the [Top](./women_singles_2138.md) &#124; [Home Page](../../index.md)

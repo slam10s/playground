@@ -60,7 +60,7 @@
       64 (5) Andre/Tiraspolsky   def.     Andersson/Nolasco   83
       64     Khamis/Lamas        def.     Ball/Berry          82
       64 (9) Mercer/Lapadat      def.     Dudek/Sachdev       83
-      64     Rock/Alemany        def.     McClure/Kuroki      Walkover
+      64     Rock/Alemany        def.     McClure/Kuroki      20 Ret.
   > Consolation
      32Q     Schlossmann/Damberg  vs      Rodriguez/Ponomarew Fri @ 16:00
      32Q     Dunne/Harper         vs      Bogdanovich/Skrabut Fri @ 16:00
