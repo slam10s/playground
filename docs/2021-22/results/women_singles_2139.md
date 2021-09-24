@@ -15,46 +15,90 @@
 
 <a name="21-30664"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Midwest Regional Championship
   Dates: Sep 23-27, 2021
   Host: University Of Illinois (W)
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Draw
   > Main
-      64 (21) Tijana Zlatanovic   vs       Madelyn Yergler      Fri @ 13:00
-      64      Luisa Pelayo        vs  (26) Ayshe Can            Fri @ 14:30
-      64      Penelope Abreu      vs  (19) Yashna Yellayi       Fri @ 14:30
-      64      Katarina Dukic      vs  (14) Megan Heuser         Fri @ 15:30
-     128      Giulia Turconi      vs       Isabelle Popma       Fri @ 10:00
-     128      Shalini Tallamraju  vs       Susana Andres        Fri @ 10:00
-     128      Reagan Welch        vs       Katherine Bellia     Fri @ 10:00
-     128      Andie Weise         vs       Lenka Antonijevic    Fri @ 10:00
-     128      Emilija Kojcic      vs       Anastasia Rakita     Fri @ 10:00
-     128      Katarina Drazic     vs       Shivani Ingle        Fri @ 10:00
-     128      Ioanna Tsadari      vs       Prerna Vichare       Fri @ 10:00
-     128      Diana Lukyanova     vs       Isabella Schoolcraft Fri @ 10:00
-     128      Laura Fitzgerald    vs       Lizi Morgoshia       Fri @ 10:00
-     128      Grace Whitney       vs       Olivia Czerwonka     Fri @ 10:00
-     128      Hannah Neuman       vs       Othilia Brodin       Fri @ 10:00
-     128      Demi Jhaveri        vs       Lina Ali             Fri @ 11:15
-     128      Selina Karg         vs       Yuliya Kizelbasheva  Fri @ 11:15
-     128      Kida Ferrari        vs       Amanda Tabanera      Fri @ 11:15
-     128      Dani Schoenly       vs       Dominika Hrabalova   Fri @ 11:15
-     128      Diana Borodina      vs       Erika Dimitriev      Fri @ 10:00
-     128      Sofiya Sedovich     vs       Annika Vetter        Fri @ 10:00
-     128      Alexandra Abyasova  vs       Julia Kuszynski      Fri @ 10:00
-     128      Natalija Popovic    vs       Lura Silveira        Fri @ 10:00
-     128      Claire Czerwonka    vs       Elena Jankulovska    Fri @ 10:00
-     128      Marija Jovicic      vs       Ines Iglesias        Fri @ 10:00
-     128      Anca Craciun        vs       Allison McConnell    Fri @ 11:15
-     128      Ana Jover           vs       Sabina Brichackova   Fri @ 11:15
-     128      Christine Gouws     vs       Vasavi Ganesan       Fri @ 11:15
-     128      Calista Fuller      vs       Tara Damnjanovic     Fri @ 11:30
-     128      Florencia Fuentes   vs       Dagmar Zdrubecka     Fri @ 11:30
-     128      Kiley Rabjohns      vs       Maru Poppe           Fri @ 11:30
-     128      Kristina Pukhaeva   vs       Charlotte Gisclon    Fri @ 11:30
+      64  (1) Julia Fliegner       def.      Giulia Turconi       61 60
+      64      Shalini Tallamraju   def. (32) Maria Potsi          Default
+      64 (15) Merri Kelly          def.      Reagan Welch         62 63
+      64 (22) Maeve Koscielski     def.      Lenka Antonijevic    64 63
+      64  (7) Taylor Cataldi       def.      Emilija Kojcic       61 63
+      64 (28) Agnes Gustafsson     def.      Shivani Ingle        57 62 62
+      64 (11) Carrie Beckman       def.      Ioanna Tsadari       63 64
+      64 (20) Sydney Pratt         def.      Diana Lukyanova      63 76(3)
+      64  (3) Nibedita Ghosh       def.      Laura Fitzgerald     64 60
+      64 (21) Tijana Zlatanovic    def.      Madelyn Yergler      57 63 63
+      64      Olivia Czerwonka     def.  (9) Rachel Papavasilopo… 67(7) 64 75
+      64 (23) Ashley Yeah          def.      Othilia Brodin       61 60
+      64  (8) Julia Andreach       def.      Lina Ali             61 62
+      64 (25) Cassie Alcala        def.      Yuliya Kizelbasheva  63 62
+      64 (13) Ema Lazic            def.      Kida Ferrari         75 76(5)
+      64 (16) Maja Pietrowicz       vs       Dominika Hrabalova   Fri @ 2021-09-24T14:00
+      64 (31) Sloane Teske         def.      Erika Dimitriev      64 61
+      64 (12) Josie Frazier        def.      Annika Vetter        61 62
+      64 (26) Ayshe Can            def.      Luisa Pelayo         62 63
+      64      Alexandra Abyasova   def.  (5) Alina Mukhortova     62 16 76(2)
+      64 (19) Yashna Yellayi       def.      Penelope Abreu       64 63
+      64 (17) Madeline Atway       def.      Natalija Popovic     64 62
+      64 (18) Hannah McColgan      def.      Elena Jankulovska    64 60
+      64  (4) Kathryn Treiber      def.      Marija Jovicic       61 61
+      64      Anca Craciun          vs  (24) Nastasya Semenovski  Fri @ 15:30
+      64      Ana Jover            def. (10) Lauren Lemonds       63 62
+      64      Vasavi Ganesan        vs  (29) Justine Leong        Fri @ 15:30
+      64  (6) Denise Stoica        def.      Calista Fuller       62 61
+      64 (27) Maria Olivia Castedo def.      Florencia Fuentes    63 62
+      64 (14) Megan Heuser         def.      Katarina Dukic       63 60
+      64      Maru Poppe            vs  (30) Nicole Stephens      Fri @ 15:30
+      64      Charlotte Gisclon     vs   (2) Shelly Bereznyak     Fri @ 15:30
+     128      Giulia Turconi       def.      Isabelle Popma       46 63 61
+     128      Shalini Tallamraju   def.      Susana Andres        60 61
+     128      Reagan Welch         def.      Katherine Bellia     46 60 64
+     128      Lenka Antonijevic    def.      Andie Weise          62 75
+     128      Emilija Kojcic       def.      Anastasia Rakita     64 64
+     128      Shivani Ingle        def.      Katarina Drazic      64 16 61
+     128      Ioanna Tsadari       def.      Prerna Vichare       64 76(4)
+     128      Diana Lukyanova      def.      Isabella Schoolcraft 60 62
+     128      Laura Fitzgerald     def.      Lizi Morgoshia       62 61
+     128      Olivia Czerwonka     def.      Grace Whitney        61 63
+     128      Othilia Brodin       def.      Hannah Neuman        61 63
+     128      Lina Ali             def.      Demi Jhaveri         62 60
+     128      Yuliya Kizelbasheva  def.      Selina Karg          36 75 62
+     128      Kida Ferrari         def.      Amanda Tabanera      60 75
+     128      Dominika Hrabalova   def.      Dani Schoenly        57 62 62
+     128      Erika Dimitriev      def.      Diana Borodina       75 64
+     128      Annika Vetter        def.      Sofiya Sedovich      75 06 63
+     128      Alexandra Abyasova   def.      Julia Kuszynski      06 63 63
+     128      Natalija Popovic     def.      Lura Silveira        62 36 60
+     128      Elena Jankulovska    def.      Claire Czerwonka     64 46 62
+     128      Marija Jovicic       def.      Ines Iglesias        62 61
+     128      Anca Craciun         def.      Allison McConnell    62 64
+     128      Ana Jover            def.      Sabina Brichackova   76(5) 61
+     128      Vasavi Ganesan       def.      Christine Gouws      64 64
+     128      Calista Fuller       def.      Tara Damnjanovic     75 64
+     128      Florencia Fuentes    def.      Dagmar Zdrubecka     61 60
+     128      Maru Poppe           def.      Kiley Rabjohns       36 63 61
+     128      Charlotte Gisclon    def.      Kristina Pukhaeva    64 60
+  > Consolation
+      32      Susana Andres        def.      Isabelle Popma       Walkover
+      32      Andie Weise          def.      Katherine Bellia     63 75
+      32      Anastasia Rakita     def.      Katarina Drazic      Walkover
+      32      Isabella Schoolcraft def.      Prerna Vichare       Walkover
+      32      Hannah Neuman        def.      Grace Whitney        Walkover
+      32      Selina Karg          def.      Demi Jhaveri         61 61
+      32      Dani Schoenly        def.      Amanda Tabanera      64 06 [6]
+      32      Sofiya Sedovich      def.      Diana Borodina       Walkover
+      32      Luisa Pelayo          vs       Julia Kuszynski      Fri @ 16:00
+      32      Penelope Abreu        vs       Lura Silveira        Fri @ 13:30
+      32      Claire Czerwonka     def.      Ines Iglesias        64 36 [7]
+      32      Sabina Brichackova   def.      Allison McConnell    62 61
+      32      Christine Gouws       vs       Tara Damnjanovic     Sat @ 11:30
+      32      Katarina Dukic        vs       Dagmar Zdrubecka     Fri @ 15:00
+      32      Kiley Rabjohns       def.      Kristina Pukhaeva    Walkover
 ~~~
 
 Return to the [Top](./women_singles_2139.md) &#124; [Home Page](../../index.md)

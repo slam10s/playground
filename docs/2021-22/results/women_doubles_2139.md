@@ -15,25 +15,41 @@
 
 <a name="21-30664"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Midwest Regional Championship
   Dates: Sep 23-27, 2021
   Host: University Of Illinois (W)
-════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-     64  Iglesias/Vetter      vs   Kojcic/Turconi       Fri @ 2021-09-24T09:00
-     64  McConnell/Jhaveri    vs   Potsi/Zlatanovic     Fri @ 2021-09-24T09:00
-     64  Poppe/Fuentes        vs   Papavasilopoulos/Go… Fri @ 2021-09-24T09:00
-     64  Gustafsson/Jover     vs   Ganesan/Popma        Fri @ 2021-09-24T09:00
-     64  Sedovich/Fuller      vs   Yergler/Jovicic      Fri @ 2021-09-24T09:00
-     64  Andres/Dukic         vs   Lukyanova/Welch      Fri @ 2021-09-24T09:00
-     64  Silveira/Karg        vs   Whitney/Pelayo       Fri @ 2021-09-24T09:00
-     64  Czerwonka/Czerwonka  vs   Rakita/Dimitriev     Fri @ 2021-09-24T09:00
-     64  Popovic/Weise        vs   Morgoshia/Borodina   Fri @ 2021-09-24T09:00
-     64  Ali/Schoenly         vs   Tsadari/Neuman       Fri @ 2021-09-24T09:00
-     64  Brodin/Fitzgerald    vs   Vichare/Brichackova  Fri @ 2021-09-24T09:00
+     32  (1) Bereznyak/Atway       vs       Kojcic/Turconi       Sat @ 09:00
+     32 (16) Alcala/Teske          vs       Potsi/Zlatanovic     Sat @ 09:00
+     32  (7) Yellayi/Ghosh         vs       Tabanera/Schoolcraft Sat @ 09:00
+     32 (10) Semenovski/Cataldi    vs       Abyasova/Jankulovska Sat @ 09:00
+     32  (3) Beckman/Andreach      vs       Papavasilopoulos/Go… Sat @ 09:00
+     32 (11) Leong/Rabjohns        vs       Gustafsson/Jover     Sat @ 09:00
+     32  (6) Heuser/Yeah           vs       Abreu/Damnjanovic    Sat @ 09:00
+     32 (13) Stephens/Gisclon      vs       Yergler/Jovicic      Sat @ 09:00
+     32      Lukyanova/Welch       vs       Lazic/Streng         Sat @ 09:00
+     32      Silveira/Karg         vs   (8) Treiber/Ferrari      Sat @ 09:00
+     32      Kuszynski/Tallamraju  vs   (9) Koscielski/Castedo   Sat @ 09:00
+     32      Czerwonka/Czerwonka   vs   (5) Pratt/McColgan       Sat @ 09:00
+     32      Popovic/Weise         vs  (12) Lemonds/Can          Sat @ 09:00
+     32      Tsadari/Neuman        vs   (4) Stoica/Mukhortova    Sat @ 09:00
+     32      Drazic/Pukhaeva       vs  (15) Antonijevic/Kizelba… Sat @ 09:00
+     32      Brodin/Fitzgerald     vs   (2) Fliegner/Kelly       Sat @ 09:00
+     64      Kojcic/Turconi       def.      Iglesias/Vetter      84
+     64      Potsi/Zlatanovic     def.      McConnell/Jhaveri    81
+     64      Papavasilopoulos/Go… def.      Poppe/Fuentes        82
+     64      Gustafsson/Jover     def.      Ganesan/Popma        82
+     64      Yergler/Jovicic      def.      Sedovich/Fuller      83
+     64      Lukyanova/Welch      def.      Andres/Dukic         82
+     64      Silveira/Karg        def.      Whitney/Pelayo       87(3)
+     64      Czerwonka/Czerwonka  def.      Rakita/Dimitriev     85
+     64      Popovic/Weise        def.      Morgoshia/Borodina   83
+     64      Tsadari/Neuman       def.      Ali/Schoenly         87(5)
+     64      Brodin/Fitzgerald    def.      Vichare/Brichackova  82
 ~~~
 
 Return to the [Top](./women_doubles_2139.md) &#124; [Home Page](../../index.md)

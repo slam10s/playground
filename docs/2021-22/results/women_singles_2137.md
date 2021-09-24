@@ -179,12 +179,12 @@
       F (4) Yue Lin Chen         def.     Maryjoe Crisologo    06 63 [7]
      SF (4) Yue Lin Chen         def. (1) Harsha Challa        64 76(4)
      SF     Maryjoe Crisologo    def. (3) Chloe Gavino         63 61
-     QF (1) Harsha Challa        def.     Sanne Frederieke Sc… 46 63 [8]
+     QF (1) Harsha Challa        def.     Sanne Frederieke Sc… 46 63 [8]
      QF (4) Yue Lin Chen         def.     Kathleen Percegona   64 64
      QF (3) Chloe Gavino         def.     Ileana Mocciola      63 36 [4]
      QF     Maryjoe Crisologo    def. (2) Hsuan Huang          64 64
      16 (1) Harsha Challa        def.     Vittoria Quadri      62 62
-     16     Sanne Frederieke Sc… def.     Veronika Lebisova    62 63
+     16     Sanne Frederieke Sc… def.     Veronika Lebisova    62 63
      16     Kathleen Percegona   def.     Julia Tozzi          63 64
      16 (4) Yue Lin Chen         def.     Georgia Townsend     63 62
      16 (3) Chloe Gavino         def.     Lina Sachica         63 63
@@ -200,7 +200,7 @@
      QF     Lina Sachica         def.     Livia Leite          60 61
      QF     Linda Claire Elound… def.     Deondra Bacchus      63 60
   > North
-     SF     Sanne Frederieke Sc… def.     Kathleen Percegona   75 63
+     SF     Sanne Frederieke Sc… def.     Kathleen Percegona   75 63
      SF (2) Hsuan Huang          def.     Ileana Mocciola      64 62
   > South
       F     Georgia Townsend     def.     Livia Leite          64 62

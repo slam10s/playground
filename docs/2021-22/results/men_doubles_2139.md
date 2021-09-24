@@ -17,28 +17,33 @@
  Men's Open Doubles
  > Draw
   > Main
+      16 (5) Troost/Ross          vs      Haskins/Vukovic     Sat @ 11:30
+      16 (5) Edge/Rocha           vs  (9) Rodriguez/Gatti     Sat @ 11:30
+      16     Taylor/Fanlo         vs  (5) Kovacevic/Adams     Sat @ 11:30
+      16     Brennan/Dickson      vs      Tosetto/Vicente     Sat @ 11:30
+      16 (9) Mercer/Lapadat       vs  (2) Harwell/Freeman     Sat @ 11:30
       32 (1) Stevenson/Cutting    vs      Simmons/Webster     Fri @ 15:00
       32     Michael/Trimpe      def. (9) Prata/Gannon        Walkover
-      32 (5) Troost/Ross          vs      Kelly/Miyamoto      Fri @ 15:00
-      32 (9) Bennett/Galus        vs      Haskins/Vukovic     Fri @ 15:00
+      32 (5) Troost/Ross         def.     Kelly/Miyamoto      83
+      32     Haskins/Vukovic     def. (9) Bennett/Galus       84
       32     Fischer/Penny        vs      Nava/Cahill         Fri @ 15:00
       32     de Negri/Herran      vs      Rodeia/Holis        Fri @ 15:00
-      32 (5) Edge/Rocha           vs      Jochim/Jankowski    Fri @ 15:00
-      32 (9) Rodriguez/Gatti      vs      Burnel/Casamayor    Fri @ 15:00
-      32     Wesbrooks/Fung       vs      Taylor/Fanlo        Fri @ 15:00
-      32     Klopper/Ferreira     vs  (5) Kovacevic/Adams     Fri @ 15:00
-      32     Hyatt/Labbe          vs  (9) Rengifo/Lobo        Fri @ 15:00
+      32 (5) Edge/Rocha          def.     Jochim/Jankowski    84
+      32 (9) Rodriguez/Gatti     def.     Burnel/Casamayor    87(6)
+      32     Taylor/Fanlo        def.     Wesbrooks/Fung      85
+      32 (5) Kovacevic/Adams     def.     Klopper/Ferreira    Default
+      32 (9) Rengifo/Lobo        def.     Hyatt/Labbe         85
       32     Castro/Luis          vs  (3) Motl/Slump          Fri @ 15:00
-      32     Temming/Pennelli     vs      Brennan/Dickson     Fri @ 15:00
-      32     Tosetto/Vicente      vs  (5) Andre/Tiraspolsky   Fri @ 15:00
-      32     Khamis/Lamas         vs  (9) Mercer/Lapadat      Fri @ 15:00
-      32     Rock/Alemany         vs  (2) Harwell/Freeman     Fri @ 15:00
+      32     Brennan/Dickson     def.     Temming/Pennelli    81
+      32     Tosetto/Vicente     def. (5) Andre/Tiraspolsky   86
+      32 (9) Mercer/Lapadat      def.     Khamis/Lamas        81
+      32 (2) Harwell/Freeman     def.     Rock/Alemany        86
       64     Simmons/Webster     def.     Marshall/Mudre      85
       64 (9) Prata/Gannon        def.     Schlossmann/Damberg 85
       64     Michael/Trimpe      def.     Rodriguez/Ponomarew 86
       64 (5) Troost/Ross         def.     Dunne/Harper        83
       64     Kelly/Miyamoto      def.     Bogdanovich/Skrabut 84
-      64 (9) Bennett/Galus       def.     Holis/Chen          82
+      64 (9) Bennett/Galus       def.     Chin/Holis          82
       64     Haskins/Vukovic     def.     Badra/Vargas        86
       64     Fischer/Penny       def. (4) Musitelli/Diallo    86
       64     Nava/Cahill         def.     Pernas/Zabala       86
@@ -48,7 +53,7 @@
       64     Jochim/Jankowski    def.     Mizrahi/Tang        85
       64 (9) Rodriguez/Gatti     def.     Robb-Wilcox/Casabon 84
       64     Burnel/Casamayor    def.     Perkowski/Eliasson  85
-      64     Taylor/Fanlo        def. (9) LeBlanc/Chin        82
+      64     Taylor/Fanlo        def. (9) Chen/LeBlanc        82
       64     Klopper/Ferreira    def.     Rogers/Saylor       82
       64 (5) Kovacevic/Adams     def.     Uribe/Garcia-Nieto  85
       64     Hyatt/Labbe         def.     Winters/Nakayama    81
@@ -62,16 +67,16 @@
       64 (9) Mercer/Lapadat      def.     Dudek/Sachdev       83
       64     Rock/Alemany        def.     McClure/Kuroki      20 Ret.
   > Consolation
-     32Q     Schlossmann/Damberg  vs      Rodriguez/Ponomarew Fri @ 16:00
-     32Q     Dunne/Harper         vs      Bogdanovich/Skrabut Fri @ 16:00
-     32Q     Holis/Chen           vs      Badra/Vargas        Fri @ 16:30
-     32Q (4) Musitelli/Diallo     vs      Pernas/Zabala       Fri @ 16:30
+     32Q     Schlossmann/Damberg def.     Rodriguez/Ponomarew 84
+     32Q     Bogdanovich/Skrabut def.     Dunne/Harper        82
+     32Q     Chin/Holis          def.     Badra/Vargas        Walkover
+     32Q     Pernas/Zabala       def. (4) Musitelli/Diallo    Walkover
      32Q (9) Fletchall/Singh      vs      Huete/Miralles      Fri @ 17:00
-     32Q     Toledo/Cruz          vs      Mizrahi/Tang        Fri @ 17:00
-     32Q     Robb-Wilcox/Casabon  vs      Perkowski/Eliasson  Fri @ 17:30
-     32Q     Rogers/Saylor        vs      Uribe/Garcia-Nieto  Fri @ 17:30
-     32Q     Winters/Nakayama     vs      Benibo/Kozerski     Fri @ 17:30
-     32Q     Hiryur/Mavrodiev     vs  (9) Mitsui/Diaz         Fri @ 17:30
+     32Q     Mizrahi/Tang        def.     Toledo/Cruz         Walkover
+     32Q     Perkowski/Eliasson  def.     Robb-Wilcox/Casabon Walkover
+     32Q     Uribe/Garcia-Nieto  def.     Rogers/Saylor       83
+     32Q     Winters/Nakayama    def.     Benibo/Kozerski     81
+     32Q (9) Mitsui/Diaz         def.     Hiryur/Mavrodiev    83
      32Q     Orlando/Wojtalik     vs      Andersson/Nolasco   Fri @ 17:30
      32Q     Ball/Berry           vs      Dudek/Sachdev       Fri @ 17:30
 ~~~
