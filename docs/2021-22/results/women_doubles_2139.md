@@ -50,6 +50,12 @@
      64      Popovic/Weise        def.      Morgoshia/Borodina   83
      64      Tsadari/Neuman       def.      Ali/Schoenly         87(5)
      64      Brodin/Fitzgerald    def.      Vichare/Brichackova  82
+  > Consolation
+     16      Iglesias/Vetter       vs       McConnell/Jhaveri    Sat @ 09:00
+     16      Poppe/Fuentes         vs       Ganesan/Popma        Sat @ 09:00
+     16      Andres/Dukic          vs       Whitney/Pelayo       Sat @ 09:00
+     16      Morgoshia/Borodina    vs       Ali/Schoenly         Sat @ 09:00
+     32      Rakita/Dimitriev      vs       Vichare/Brichackova  Sat @ 09:00
 ~~~
 
 Return to the [Top](./women_doubles_2139.md) &#124; [Home Page](../../index.md)

@@ -112,23 +112,26 @@
  Men's Open Doubles
  > Draw
   > Main
+      16 (1) Stevenson/Cutting    vs      Michael/Trimpe      Sat @ 11:30
       16 (5) Troost/Ross          vs      Haskins/Vukovic     Sat @ 11:30
+      16     Fischer/Penny        vs      de Negri/Herran     Sat @ 11:30
       16 (5) Edge/Rocha           vs  (9) Rodriguez/Gatti     Sat @ 11:30
       16     Taylor/Fanlo         vs  (5) Kovacevic/Adams     Sat @ 11:30
+      16 (9) Rengifo/Lobo         vs  (3) Motl/Slump          Sat @ 11:30
       16     Brennan/Dickson      vs      Tosetto/Vicente     Sat @ 11:30
       16 (9) Mercer/Lapadat       vs  (2) Harwell/Freeman     Sat @ 11:30
-      32 (1) Stevenson/Cutting    vs      Simmons/Webster     Fri @ 15:00
+      32 (1) Stevenson/Cutting   def.     Simmons/Webster     80
       32     Michael/Trimpe      def. (9) Prata/Gannon        Walkover
       32 (5) Troost/Ross         def.     Kelly/Miyamoto      83
       32     Haskins/Vukovic     def. (9) Bennett/Galus       84
-      32     Fischer/Penny        vs      Nava/Cahill         Fri @ 15:00
-      32     de Negri/Herran      vs      Rodeia/Holis        Fri @ 15:00
+      32     Fischer/Penny       def.     Nava/Cahill         87(5)
+      32     de Negri/Herran     def.     Rodeia/Holis        84
       32 (5) Edge/Rocha          def.     Jochim/Jankowski    84
       32 (9) Rodriguez/Gatti     def.     Burnel/Casamayor    87(6)
       32     Taylor/Fanlo        def.     Wesbrooks/Fung      85
       32 (5) Kovacevic/Adams     def.     Klopper/Ferreira    Default
       32 (9) Rengifo/Lobo        def.     Hyatt/Labbe         85
-      32     Castro/Luis          vs  (3) Motl/Slump          Fri @ 15:00
+      32 (3) Motl/Slump          def.     Castro/Luis         85
       32     Brennan/Dickson     def.     Temming/Pennelli    81
       32     Tosetto/Vicente     def. (5) Andre/Tiraspolsky   86
       32 (9) Mercer/Lapadat      def.     Khamis/Lamas        81
@@ -162,18 +165,26 @@
       64 (9) Mercer/Lapadat      def.     Dudek/Sachdev       83
       64     Rock/Alemany        def.     McClure/Kuroki      20 Ret.
   > Consolation
+      16     Marshall/Mudre       vs      Schlossmann/Damberg Sat @ 15:00
+      16     Bogdanovich/Skrabut  vs      Chin/Holis          Sat @ 15:00
+      16     Pernas/Zabala        vs      Huete/Miralles      Sat @ 15:00
+      16     Mizrahi/Tang         vs      Perkowski/Eliasson  Sat @ 15:00
+      16 (9) Chen/LeBlanc         vs      Uribe/Garcia-Nieto  Sat @ 15:00
+      16     Winters/Nakayama     vs      Cossu/Brancatelli   Sat @ 15:00
+      16 (9) Mitsui/Diaz          vs      Orlando/Wojtalik    Sat @ 15:00
+      16     Dudek/Sachdev        vs      McClure/Kuroki      Sat @ 15:00
      32Q     Schlossmann/Damberg def.     Rodriguez/Ponomarew 84
      32Q     Bogdanovich/Skrabut def.     Dunne/Harper        82
      32Q     Chin/Holis          def.     Badra/Vargas        Walkover
      32Q     Pernas/Zabala       def. (4) Musitelli/Diallo    Walkover
-     32Q (9) Fletchall/Singh      vs      Huete/Miralles      Fri @ 17:00
+     32Q     Huete/Miralles      def. (9) Fletchall/Singh     82
      32Q     Mizrahi/Tang        def.     Toledo/Cruz         Walkover
      32Q     Perkowski/Eliasson  def.     Robb-Wilcox/Casabon Walkover
      32Q     Uribe/Garcia-Nieto  def.     Rogers/Saylor       83
      32Q     Winters/Nakayama    def.     Benibo/Kozerski     81
      32Q (9) Mitsui/Diaz         def.     Hiryur/Mavrodiev    83
-     32Q     Orlando/Wojtalik     vs      Andersson/Nolasco   Fri @ 17:30
-     32Q     Ball/Berry           vs      Dudek/Sachdev       Fri @ 17:30
+     32Q     Orlando/Wojtalik    def.     Andersson/Nolasco   86
+     32Q     Dudek/Sachdev       def.     Ball/Berry          86
 ~~~
 
 Return to the [Top](./men_doubles_2138.md) &#124; [Home Page](../../index.md)

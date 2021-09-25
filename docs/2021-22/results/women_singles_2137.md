@@ -179,12 +179,12 @@
       F (4) Yue Lin Chen         def.     Maryjoe Crisologo    06 63 [7]
      SF (4) Yue Lin Chen         def. (1) Harsha Challa        64 76(4)
      SF     Maryjoe Crisologo    def. (3) Chloe Gavino         63 61
-     QF (1) Harsha Challa        def.     Sanne Frederieke Sc… 46 63 [8]
+     QF (1) Harsha Challa        def.     Sanne Frederieke Sc… 46 63 [8]
      QF (4) Yue Lin Chen         def.     Kathleen Percegona   64 64
      QF (3) Chloe Gavino         def.     Ileana Mocciola      63 36 [4]
      QF     Maryjoe Crisologo    def. (2) Hsuan Huang          64 64
      16 (1) Harsha Challa        def.     Vittoria Quadri      62 62
-     16     Sanne Frederieke Sc… def.     Veronika Lebisova    62 63
+     16     Sanne Frederieke Sc… def.     Veronika Lebisova    62 63
      16     Kathleen Percegona   def.     Julia Tozzi          63 64
      16 (4) Yue Lin Chen         def.     Georgia Townsend     63 62
      16 (3) Chloe Gavino         def.     Lina Sachica         63 63
@@ -200,7 +200,7 @@
      QF     Lina Sachica         def.     Livia Leite          60 61
      QF     Linda Claire Elound… def.     Deondra Bacchus      63 60
   > North
-     SF     Sanne Frederieke Sc… def.     Kathleen Percegona   75 63
+     SF     Sanne Frederieke Sc… def.     Kathleen Percegona   75 63
      SF (2) Hsuan Huang          def.     Ileana Mocciola      64 62
   > South
       F     Georgia Townsend     def.     Livia Leite          64 62
@@ -600,6 +600,27 @@
      64  Nicole Frankel     def.  Annie Dong         84
      64  Irene Huang        def.  Kristina Yu        85
      64  Sasha Gaeth        def.  Katelyn Hart       85
+ > RR Consolation Singles Round 1
+  > Main
+     16  Casey Cummings     def.  Sophie Henderson   83
+     16  Michelle Shub      def.  Irene Huang        84
+     16  Kaya Amin          def.  Anna Murphy        83
+     16  Nicole Frankel     def.  Katelyn Hart       84
+     16  Kriti Williams     def.  Deliala Friedman   86
+     16  Mia Kintiroglou    def.  Sara Fernandez     84
+     16  Serim Jin          def.  Seraphin Castelino 83
+ > RR Consolation Singles Round 2
+  > Main
+     16  Kaya Amin          def.  Kennedy May        81
+     16  Mia Kintiroglou    def.  Kristina Yu        86
+     16  Kriti Williams     def.  Nicole Frankel     86
+     16  Deliala Friedman   def.  Jay Lu             86
+     16  Annie Dong         def.  Casey Cummings     82
+ > RR Consolation Singles Round 3
+  > Main
+     QF  Kriti Williams     def.  Sara Fernandez     86
+     QF  Deliala Friedman   def.  Annie Dong         80
+     QF  Katelyn Hart       def.  Kristina Yu        97
 ~~~
 
 Return to the [Top](./women_singles_2137.md) &#124; [Home Page](../../index.md)

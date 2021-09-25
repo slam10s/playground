@@ -26,13 +26,13 @@
       F     Tristan Sarap        def. (1) James Davis          64 64
      SF (1) James Davis          def. (4) Louis Menard         62 63
      SF     Tristan Sarap        def. (3) Mattia Ros           63 64
-     QF (1) James Davis          def.     Matej Panik          67(3) 75 64
-     QF (4) Louis Menard         def.     Peter Sallay         63 62
+     QF (1) James Davis          def. (5) Matej Panik          67(3) 75 64
+     QF (4) Louis Menard         def. (5) Peter Sallay         63 62
      QF (3) Mattia Ros           def.     Johnny Mascagni      61 63
      QF     Tristan Sarap        def.     Javier Ruiz Medina   64 46 76(7)
      16 (1) James Davis          def.     Arjun Kersten        46 63 60
-     16     Matej Panik          def.     Elyes Marouani       62 Ret.
-     16     Peter Sallay         def.     Justin Waldman       75 61
+     16 (5) Matej Panik          def.     Elyes Marouani       62 51 Ret.
+     16 (5) Peter Sallay         def.     Justin Waldman       75 61
      16 (4) Louis Menard         def.     Arthur Serafim       60 10 Ret.
      16 (3) Mattia Ros           def.     Umit Ege Cankus      63 62
      16     Johnny Mascagni      def.     Daan Van Dijk        57 64 63
@@ -40,28 +40,28 @@
      16     Javier Ruiz Medina   def. (2) Matt Summers         63 64
      32     Arjun Kersten        def.     Diego Huttepain      64 64
      32     Elyes Marouani       def.     Martin Simecek       26 64 63
-     32     Matej Panik          def.     Nick Vroman          60 75
-     32     Peter Sallay         def.     Sergi Mico Fenollar  63 46 62
+     32 (5) Matej Panik          def.     Nick Vroman          60 75
+     32 (5) Peter Sallay         def.     Sergi Mico Fenollar  63 46 62
      32     Justin Waldman       def.     Hiroki Fujita        61 76(5)
      32     Arthur Serafim       def.     Nejc Sitar           62 64
      32     Umit Ege Cankus      def.     Thomas Lake          64 63
      32     Johnny Mascagni      def.     Corey Clarke         64 67(3) 63
-     32     Daan Van Dijk        def.     Sebastian Buxman     75 57 62
-     32     Tristan Sarap        def.     Robert Baylon        76(4) 64
+     32     Daan Van Dijk        def. (5) Sebastian Buxman     75 57 62
+     32     Tristan Sarap        def. (5) Robert Baylon        76(4) 64
      32     AJ Woodman           def.     Jamieson Nathan      63 64
      32     Javier Ruiz Medina   def.     Jordan Azuma         67(4) 63 63
   > West
-      F     Sebastian Buxman     def.     Nejc Sitar           63 60
+      F (5) Sebastian Buxman     def.     Nejc Sitar           63 60
      SF     Nejc Sitar           def.     Nick Vroman          62 36 [10]
-     SF     Sebastian Buxman     def.     Robert Baylon        63 62
+     SF (5) Sebastian Buxman     def. (5) Robert Baylon        63 62
      QF     Nick Vroman          def.     Diego Huttepain      61 64
      QF     Nejc Sitar           def.     Sergi Mico Fenollar  46 64 [7]
-     QF     Sebastian Buxman     def.     Thomas Lake          64 62
-     QF     Robert Baylon        def.     Jordan Azuma         Walkover
+     QF (5) Sebastian Buxman     def.     Thomas Lake          64 62
+     QF (5) Robert Baylon        def.     Jordan Azuma         Walkover
      16     Nick Vroman          def.     Martin Simecek       57 64 [0]
      16     Sergi Mico Fenollar  def.     Hiroki Fujita        63 64
-     16     Sebastian Buxman     def.     Corey Clarke         64 63
-     16     Robert Baylon        def.     Jamieson Nathan      63 64
+     16 (5) Sebastian Buxman     def.     Corey Clarke         64 63
+     16 (5) Robert Baylon        def.     Jamieson Nathan      63 64
   > North
       F (2) Matt Summers         def.     Arjun Kersten        64 60
      SF     Arjun Kersten        def.     Justin Waldman       Walkover
@@ -76,29 +76,29 @@
  > Silver
   > East
       F (1) Daniel Krulig        def.     Kyle Garner          46 62 61
-     SF (1) Daniel Krulig        def.     Bradley Buckland     61 63
-     SF     Kyle Garner          def.     Joaquin Espinoza     36 63 63
+     SF (1) Daniel Krulig        def. (5) Bradley Buckland     61 63
+     SF     Kyle Garner          def. (5) Joaquin Espinoza     36 63 63
      QF (1) Daniel Krulig        def.     Jack Ninteman        64 36 63
-     QF     Bradley Buckland     def. (3) Gijs Akkermans       16 64 63
+     QF (5) Bradley Buckland     def. (3) Gijs Akkermans       16 64 63
      QF     Kyle Garner          def.     Daniel Wei           63 16 76(6)
-     QF     Joaquin Espinoza     def. (2) Samuel Eden          64 46 76(5)
+     QF (5) Joaquin Espinoza     def. (2) Samuel Eden          64 46 76(5)
      16 (1) Daniel Krulig        def.     Brian Garcia         62 63
-     16     Jack Ninteman        def.     Wikus Robbertse      75 75
-     16     Bradley Buckland     def.     Patricio Garcia Mur… 63 67(6) 64
+     16     Jack Ninteman        def. (5) Wikus Robbertse      75 75
+     16 (5) Bradley Buckland     def.     Patricio Garcia Mur… 63 67(6) 64
      16 (3) Gijs Akkermans       def.     Luke Wolf            63 64
      16     Kyle Garner          def. (4) Charlie Miller       60 63
-     16     Daniel Wei           def.     Bo-Han Li            63 16 76(4)
-     16     Joaquin Espinoza     def.     Chia Chieh Lin       60 63
+     16     Daniel Wei           def. (5) Bo-Han Li            63 16 76(4)
+     16 (5) Joaquin Espinoza     def.     Chia Chieh Lin       60 63
      16 (2) Samuel Eden          def.     Relja Eskic          62 64
      32     Brian Garcia         def.     Matteo Savio         62 64
      32     Jack Ninteman        def.     David Gorshein       63 63
-     32     Wikus Robbertse      def.     Marcos Zelver        26 63 61
+     32 (5) Wikus Robbertse      def.     Marcos Zelver        26 63 61
      32     Patricio Garcia Mur… def.     Jordan Coutinho      46 64 64
      32     Luke Wolf            def.     Nathan Jose          76(4) 16 64
      32     Kyle Garner          def.     Zachary Matuszak     75 62
      32     Daniel Wei           def.     Jacob Huppin         Walkover
-     32     Bo-Han Li            def.     Ryan Ford            60 61
-     32     Joaquin Espinoza     def.     Gabriel Chavez       61 62
+     32 (5) Bo-Han Li            def.     Ryan Ford            60 61
+     32 (5) Joaquin Espinoza     def.     Gabriel Chavez       61 62
      32     Chia Chieh Lin       def.     Will Kesterson       36 64 76(5)
      32     Relja Eskic          def.     Manuel Monteiro      46 61 63
   > West
@@ -110,11 +110,11 @@
      16     Ryan Ford            def.     Jacob Huppin         Walkover
      16     Gabriel Chavez       def.     Will Kesterson       63 36 [9]
   > North
-     SF     Wikus Robbertse      def.     Luke Wolf            67(4) 64 [6]
-     SF     Bo-Han Li            def.     Relja Eskic          61 63
-     QF     Wikus Robbertse      def.     Brian Garcia         64 63
+     SF (5) Wikus Robbertse      def.     Luke Wolf            67(4) 64 [6]
+     SF (5) Bo-Han Li            def.     Relja Eskic          61 63
+     QF (5) Wikus Robbertse      def.     Brian Garcia         64 63
      QF     Luke Wolf            def.     Patricio Garcia Mur… 16 76(1) [10]
-     QF     Bo-Han Li            def. (4) Charlie Miller       64 62
+     QF (5) Bo-Han Li            def. (4) Charlie Miller       64 62
      QF     Relja Eskic          def.     Chia Chieh Lin       76(4) 62
   > South
       F     Will Kesterson       def.     Marcos Zelver        61 64
@@ -136,7 +136,10 @@
      16     Matt Summers         def.     Arjun Kersten        64 60
      16     Luke Wolf            def.     Umit Ege Cankus      63 61
      16     Jack Ninteman        def.     Will Kesterson       63 46 [7]
-     16     Wikus Robbertse      def.     Gabriel Chavez       60 Ret.
+     16     Wikus Robbertse      def.     Gabriel Chavez       60 21 Ret.
+ > Extras Friday am
+  > Main
+      F     Arjun Kersten        def.     Patricio Garcia Mur… 62 62
 ~~~
 
 <a name="21-41355"></a>

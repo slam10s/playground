@@ -173,14 +173,30 @@
 
 <a name="21-30664"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Midwest Regional Championship
   Dates: Sep 23-27, 2021
   Host: University Of Illinois (W)
-════════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Draw
   > Main
+      32  (1) Julia Fliegner        vs       Shalini Tallamraju   Sat @ 11:30
+      32 (15) Merri Kelly           vs  (22) Maeve Koscielski     Sat @ 11:30
+      32  (7) Taylor Cataldi        vs  (28) Agnes Gustafsson     Sat @ 11:30
+      32 (11) Carrie Beckman        vs  (20) Sydney Pratt         Sat @ 11:30
+      32  (3) Nibedita Ghosh        vs  (21) Tijana Zlatanovic    Sat @ 11:30
+      32      Olivia Czerwonka      vs  (23) Ashley Yeah          Sat @ 11:30
+      32  (8) Julia Andreach        vs  (25) Cassie Alcala        Sat @ 11:30
+      32 (13) Ema Lazic             vs  (16) Maja Pietrowicz      Sat @ 11:30
+      32 (31) Sloane Teske          vs  (12) Josie Frazier        Sat @ 11:30
+      32 (26) Ayshe Can             vs       Alexandra Abyasova   Sat @ 11:30
+      32 (19) Yashna Yellayi        vs  (17) Madeline Atway       Sat @ 11:30
+      32 (18) Hannah McColgan       vs   (4) Kathryn Treiber      Sat @ 11:30
+      32      Anca Craciun          vs       Ana Jover            Sat @ 12:30
+      32 (29) Justine Leong         vs   (6) Denise Stoica        Sat @ 12:30
+      32 (27) Maria Olivia Castedo  vs  (14) Megan Heuser         Sat @ 12:30
+      32 (30) Nicole Stephens       vs   (2) Shelly Bereznyak     Sat @ 12:30
       64  (1) Julia Fliegner       def.      Giulia Turconi       61 60
       64      Shalini Tallamraju   def. (32) Maria Potsi          Default
       64 (15) Merri Kelly          def.      Reagan Welch         62 63
@@ -196,7 +212,7 @@
       64  (8) Julia Andreach       def.      Lina Ali             61 62
       64 (25) Cassie Alcala        def.      Yuliya Kizelbasheva  63 62
       64 (13) Ema Lazic            def.      Kida Ferrari         75 76(5)
-      64 (16) Maja Pietrowicz       vs       Dominika Hrabalova   Fri @ 2021-09-24T14:00
+      64 (16) Maja Pietrowicz      def.      Dominika Hrabalova   60 61
       64 (31) Sloane Teske         def.      Erika Dimitriev      64 61
       64 (12) Josie Frazier        def.      Annika Vetter        61 62
       64 (26) Ayshe Can            def.      Luisa Pelayo         62 63
@@ -205,14 +221,14 @@
       64 (17) Madeline Atway       def.      Natalija Popovic     64 62
       64 (18) Hannah McColgan      def.      Elena Jankulovska    64 60
       64  (4) Kathryn Treiber      def.      Marija Jovicic       61 61
-      64      Anca Craciun          vs  (24) Nastasya Semenovski  Fri @ 15:30
+      64      Anca Craciun         def. (24) Nastasya Semenovski  64 75
       64      Ana Jover            def. (10) Lauren Lemonds       63 62
-      64      Vasavi Ganesan        vs  (29) Justine Leong        Fri @ 15:30
+      64 (29) Justine Leong        def.      Vasavi Ganesan       64 63
       64  (6) Denise Stoica        def.      Calista Fuller       62 61
       64 (27) Maria Olivia Castedo def.      Florencia Fuentes    63 62
       64 (14) Megan Heuser         def.      Katarina Dukic       63 60
-      64      Maru Poppe            vs  (30) Nicole Stephens      Fri @ 15:30
-      64      Charlotte Gisclon     vs   (2) Shelly Bereznyak     Fri @ 15:30
+      64 (30) Nicole Stephens      def.      Maru Poppe           57 63 61
+      64  (2) Shelly Bereznyak     def.      Charlotte Gisclon    63 60
      128      Giulia Turconi       def.      Isabelle Popma       46 63 61
      128      Shalini Tallamraju   def.      Susana Andres        60 61
      128      Reagan Welch         def.      Katherine Bellia     46 60 64
@@ -242,6 +258,10 @@
      128      Maru Poppe           def.      Kiley Rabjohns       36 63 61
      128      Charlotte Gisclon    def.      Kristina Pukhaeva    64 60
   > Consolation
+      16      Susana Andres         vs       Andie Weise          Sat @ 11:30
+      16      Anastasia Rakita      vs       Isabella Schoolcraft Sat @ 11:30
+      16      Lizi Morgoshia        vs       Hannah Neuman        Sat @ 11:30
+      16      Selina Karg           vs       Dani Schoenly        Sat @ 11:30
       32      Susana Andres        def.      Isabelle Popma       Walkover
       32      Andie Weise          def.      Katherine Bellia     63 75
       32      Anastasia Rakita     def.      Katarina Drazic      Walkover
@@ -250,12 +270,12 @@
       32      Selina Karg          def.      Demi Jhaveri         61 61
       32      Dani Schoenly        def.      Amanda Tabanera      64 06 [6]
       32      Sofiya Sedovich      def.      Diana Borodina       Walkover
-      32      Luisa Pelayo          vs       Julia Kuszynski      Fri @ 16:00
-      32      Penelope Abreu        vs       Lura Silveira        Fri @ 13:30
+      32      Luisa Pelayo          vs       Julia Kuszynski      Sat @ 11:30
+      32      Penelope Abreu        vs       Lura Silveira        Sat @ 11:30
       32      Claire Czerwonka     def.      Ines Iglesias        64 36 [7]
       32      Sabina Brichackova   def.      Allison McConnell    62 61
-      32      Christine Gouws       vs       Tara Damnjanovic     Sat @ 11:30
-      32      Katarina Dukic        vs       Dagmar Zdrubecka     Fri @ 15:00
+      32      Christine Gouws       vs       Tara Damnjanovic     Sat @ 12:30
+      32      Katarina Dukic        vs       Dagmar Zdrubecka     Sat @ 12:30
       32      Kiley Rabjohns       def.      Kristina Pukhaeva    Walkover
 ~~~
 
@@ -320,7 +340,6 @@
      R3  Beata Havlickova      vs   Dalila Said          Sun @ 10:30
      R3  Darinka Stepan        vs   Vlada Medvedcova     Sun @ 10:30
      R2  Darinka Stepan        vs   Dalila Said          Sat @ 11:30
-     R2  Beata Havlickova      vs   Vlada Medvedcova     Sat @ 11:30
      R1  Darinka Stepan       def.  Beata Havlickova     61 61
      R1  Dalila Said          def.  Vlada Medvedcova     60 60
  > Group 7

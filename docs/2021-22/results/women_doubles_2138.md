@@ -136,6 +136,12 @@
      64      Popovic/Weise        def.      Morgoshia/Borodina   83
      64      Tsadari/Neuman       def.      Ali/Schoenly         87(5)
      64      Brodin/Fitzgerald    def.      Vichare/Brichackova  82
+  > Consolation
+     16      Iglesias/Vetter       vs       McConnell/Jhaveri    Sat @ 09:00
+     16      Poppe/Fuentes         vs       Ganesan/Popma        Sat @ 09:00
+     16      Andres/Dukic          vs       Whitney/Pelayo       Sat @ 09:00
+     16      Morgoshia/Borodina    vs       Ali/Schoenly         Sat @ 09:00
+     32      Rakita/Dimitriev      vs       Vichare/Brichackova  Sat @ 09:00
 ~~~
 
 <a name="21-50226"></a>
@@ -196,7 +202,7 @@
  > Saturday Group 4
   > East
      SF  Stephani/Lee          vs   Skobkareva/Girbau    Sat @ 09:00
-     SF  Lu/Sarioglan          vs   Heinitz/Bowles       Sat @ 09:00
+     SF  Lu/Sarioglan          vs   Rizza/Heinitz        Sat @ 09:00
  > Saturday Group 5
   > East
      SF  Zdravkovic/Ochotore…  vs   Almiron/Bukina       Sat @ 09:00

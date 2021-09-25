@@ -24,6 +24,7 @@
       16      Diego Nava            vs   (5) Joshua Lapadat       Sat @ 09:00
       16  (9) Stijn Slump           vs   (4) George Harwell       Sat @ 09:00
       16  (9) Francois Musitelli    vs       Macsen Sisam         Sat @ 09:00
+      16      Oscar Cutting         vs       Evzen Holis          Sat @ 09:30
       32  (1) Gabriel Diallo       def. (16) Rafael Tosetto       63 64
       32 (16) Angel Diaz           def.  (9) Athell Bennett       60 60
       32      Matthew Fung         def. (16) Siim Troost          76(3) 64
@@ -38,7 +39,7 @@
       32  (4) George Harwell       def. (16) Tomas Luis           63 76(3)
       32  (9) Francois Musitelli   def. (16) Jeremy Taylor        76(6) 62
       32      Macsen Sisam         def.      Ilya Tiraspolsky     60 64
-      32      Oscar Cutting         vs   (9) Marcus Ferreira      Fri @ 12:30
+      32      Oscar Cutting        def.  (9) Marcus Ferreira      76(7) 67(5) 64
       32      Evzen Holis          def.      Diego Castro         76(5) 11 Ret.
       64  (1) Gabriel Diallo       def.      Emil Jankowski       60 61
       64 (16) Rafael Tosetto       def.      Jagger Saylor        63 61
@@ -137,7 +138,23 @@
      128      Cambell Nakayama     def.      Petar Petrovic       62 62
      128      Diego Castro         def.  (2) Martim Prata         64 75
   > Consolation
-     64Q      Abe Wojtalik          vs       Georgi Mavrodiev     Fri @ 09:00
+      32      Georgi Mavrodiev      vs       Oliver Andersson     Sat @ 09:00
+      32      Ryan Mudre            vs       Sam Fischer          Sat @ 09:00
+      32  (5) David Stevenson       vs       Jacob Marshall       Sat @ 10:00
+      32      Ryan Cahill           vs       Vikash Singh         Sat @ 09:00
+      32      Luka Vukovic          vs       David Mizrahi        Sat @ 09:00
+      32      Brett Winters         vs       Kerim Hyatt          Sat @ 09:00
+      32      Carlos Salas Tulla    vs       Vince Orlando        Sat @ 09:00
+      32      Connor Robb-Wilcox    vs       Jonathan Sorbo       Sat @ 09:00
+      32 (16) Pavel Motl            vs       Nishanth Basavareddy Sat @ 09:00
+      32      Sam Edgar             vs       Thibaut de Negri     Sat @ 09:00
+      32      David Skrabut         vs       Jordan McClure       Sat @ 09:00
+      32      Jake Penny            vs       Charlie Temming      Sat @ 09:00
+      32      Borja Miralles        vs       Tomasz Dudek         Sat @ 09:00
+      32 (16) Stepan Holis          vs       Frederic Schlossmann Sat @ 09:00
+      32      Rohan Sachdev         vs       Alex Jochim          Sat @ 10:00
+      32 (16) Carson Haskins        vs       Petar Petrovic       Sat @ 10:00
+     64Q      Georgi Mavrodiev     def.      Abe Wojtalik         61 67(3) [9]
      64Q      Oliver Andersson     def.      Santiago Casamayor   76(7) 64
      64Q      Ryan Mudre           def.      Danilo Kovacevic     Walkover
      64Q      Sam Fischer          def.      Grant Kelly          63 64
@@ -160,7 +177,7 @@
      64Q      David Skrabut        def.      Tom Bolton           63 75
      64Q      Jordan McClure       def.      Jun Sasagawa         Walkover
      64Q      Jake Penny           def.      Milledge Cossu       75 46 [4]
-     64Q      Charlie Temming       vs       Parrish Simmons      Fri @ 14:00
+     64Q      Charlie Temming      def.      Parrish Simmons      75 36 [7]
      64Q      Borja Miralles       def.      Peyton Gatti         64 76(4)
      64Q      Tomasz Dudek         def.      Kyle Tang            63 63
      64Q (16) Stepan Holis         def.      Maksim Bogdanovich   61 64

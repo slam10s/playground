@@ -353,6 +353,18 @@
      32     Jin/Gaeth            def.     May/Lowy             84
      32     Lu/Huang             def.     Ramras/Amin          84
      32     Williams/Almy        def.     Castelino/Fernandez  83
+ > RR Consolation Doubles Round 1
+  > Main
+     16     Teng/Murphy          def.     May/Lowy             86
+     16     Lu/Huang             def.     Cui/Hart             86
+     16 (2) Liao/Pertsemlidis    def.     Shub/Kava            85
+     16     Castelino/Fernandez  def.     Sivarak/Sha          86
+     16     Lendel/Friedman      def.     Williams/Almy        85
+     16 (1) Henderson/Yu         def.     Guenther/Perera      84
+ > RR Consolation Doubles Round 2
+  > Main
+     SF     Lendel/Friedman      def.     Guenther/Perera      81
+     SF     Cui/Hart             def.     Castelino/Fernandez  83
 ~~~
 
 Return to the [Top](./women_doubles_2137.md) &#124; [Home Page](../../index.md)
