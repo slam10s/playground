@@ -12,15 +12,15 @@
 
 <a name="21-39721"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Mountain Regional Championship
   Dates: Sep 21-25, 2021
   Host: Brigham Young University (M)
-════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main
   > Main
-      F  (1) Davis/Summers         vs       Panik/Van Dijk       Sat @ 11:00
+      F  (1) Davis/Summers        def.      Panik/Van Dijk       63 36 [3]
      SF  (1) Davis/Summers        def.  (6) Straker-Meads/Tumosa 61 76(1)
      SF      Panik/Van Dijk       def.  (4) Bastias/Caula        63 76(5)
      QF  (1) Davis/Summers        def.  (5) Cierny/Zarkovic      85
@@ -112,14 +112,20 @@
  Men's Open Doubles
  > Draw
   > Main
-      16 (1) Stevenson/Cutting    vs      Michael/Trimpe      Sat @ 11:30
-      16 (5) Troost/Ross          vs      Haskins/Vukovic     Sat @ 11:30
-      16     Fischer/Penny        vs      de Negri/Herran     Sat @ 11:30
-      16 (5) Edge/Rocha           vs  (9) Rodriguez/Gatti     Sat @ 11:30
-      16     Taylor/Fanlo         vs  (5) Kovacevic/Adams     Sat @ 11:30
-      16 (9) Rengifo/Lobo         vs  (3) Motl/Slump          Sat @ 11:30
-      16     Brennan/Dickson      vs      Tosetto/Vicente     Sat @ 11:30
-      16 (9) Mercer/Lapadat       vs  (2) Harwell/Freeman     Sat @ 11:30
+      SF (1) Stevenson/Cutting    vs  (9) Rodriguez/Gatti     Sun @ 12:00
+      SF (3) Motl/Slump           vs  (9) Mercer/Lapadat      Sun @ 15:00
+      QF (1) Stevenson/Cutting   def. (5) Troost/Ross         85
+      QF (9) Rodriguez/Gatti     def.     de Negri/Herran     81
+      QF (3) Motl/Slump          def. (5) Kovacevic/Adams     86
+      QF (9) Mercer/Lapadat      def.     Tosetto/Vicente     81
+      16 (1) Stevenson/Cutting   def.     Michael/Trimpe      82
+      16 (5) Troost/Ross         def.     Haskins/Vukovic     85
+      16     de Negri/Herran     def.     Fischer/Penny       85
+      16 (9) Rodriguez/Gatti     def. (5) Edge/Rocha          85
+      16 (5) Kovacevic/Adams     def.     Taylor/Fanlo        85
+      16 (3) Motl/Slump          def. (9) Rengifo/Lobo        Walkover
+      16     Tosetto/Vicente     def.     Brennan/Dickson     84
+      16 (9) Mercer/Lapadat      def. (2) Harwell/Freeman     82
       32 (1) Stevenson/Cutting   def.     Simmons/Webster     80
       32     Michael/Trimpe      def. (9) Prata/Gannon        Walkover
       32 (5) Troost/Ross         def.     Kelly/Miyamoto      83
@@ -165,14 +171,20 @@
       64 (9) Mercer/Lapadat      def.     Dudek/Sachdev       83
       64     Rock/Alemany        def.     McClure/Kuroki      20 Ret.
   > Consolation
-      16     Marshall/Mudre       vs      Schlossmann/Damberg Sat @ 15:00
-      16     Bogdanovich/Skrabut  vs      Chin/Holis          Sat @ 15:00
-      16     Pernas/Zabala        vs      Huete/Miralles      Sat @ 15:00
-      16     Mizrahi/Tang         vs      Perkowski/Eliasson  Sat @ 15:00
-      16 (9) Chen/LeBlanc         vs      Uribe/Garcia-Nieto  Sat @ 15:00
-      16     Winters/Nakayama     vs      Cossu/Brancatelli   Sat @ 15:00
-      16 (9) Mitsui/Diaz          vs      Orlando/Wojtalik    Sat @ 15:00
-      16     Dudek/Sachdev        vs      McClure/Kuroki      Sat @ 15:00
+      SF     Marshall/Mudre      def.     Huete/Miralles      Walkover
+      SF (9) Chen/LeBlanc         vs  (9) Mitsui/Diaz         Sun @ 12:00
+      QF     Marshall/Mudre      def.     Bogdanovich/Skrabut 86
+      QF     Huete/Miralles      def.     Mizrahi/Tang        86
+      QF (9) Chen/LeBlanc        def.     Winters/Nakayama    85
+      QF (9) Mitsui/Diaz         def.     Dudek/Sachdev       84
+      16     Marshall/Mudre      def.     Schlossmann/Damberg 87(6)
+      16     Bogdanovich/Skrabut def.     Chin/Holis          83
+      16     Huete/Miralles      def.     Pernas/Zabala       Walkover
+      16     Mizrahi/Tang        def.     Perkowski/Eliasson  Walkover
+      16 (9) Chen/LeBlanc        def.     Uribe/Garcia-Nieto  87(4)
+      16     Winters/Nakayama    def.     Cossu/Brancatelli   Walkover
+      16 (9) Mitsui/Diaz         def.     Orlando/Wojtalik    84
+      16     Dudek/Sachdev       def.     McClure/Kuroki      Walkover
      32Q     Schlossmann/Damberg def.     Rodriguez/Ponomarew 84
      32Q     Bogdanovich/Skrabut def.     Dunne/Harper        82
      32Q     Chin/Holis          def.     Badra/Vargas        Walkover

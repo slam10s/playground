@@ -17,14 +17,18 @@
  Men's Open Singles
  > Draw
   > Main
-      16  (1) Gabriel Diallo        vs  (16) Angel Diaz           Sat @ 09:00
-      16      Matthew Fung          vs   (9) Joubert Klopper      Sat @ 09:00
-      16 (16) Frazier Rengifo       vs   (9) Shunsuke Mitsui      Sat @ 09:00
-      16  (5) Jeremie Casabon       vs       Ian Cruz             Sat @ 09:00
-      16      Diego Nava            vs   (5) Joshua Lapadat       Sat @ 09:00
-      16  (9) Stijn Slump           vs   (4) George Harwell       Sat @ 09:00
-      16  (9) Francois Musitelli    vs       Macsen Sisam         Sat @ 09:00
-      16      Oscar Cutting         vs       Evzen Holis          Sat @ 09:30
+      QF  (1) Gabriel Diallo        vs   (9) Joubert Klopper      Sun @ 09:00
+      QF  (9) Shunsuke Mitsui       vs   (5) Jeremie Casabon      Sun @ 09:00
+      QF  (5) Joshua Lapadat        vs   (9) Stijn Slump          Sun @ 09:00
+      QF  (9) Francois Musitelli    vs       Evzen Holis          Sun @ 09:00
+      16  (1) Gabriel Diallo       def. (16) Angel Diaz           63 64
+      16  (9) Joubert Klopper      def.      Matthew Fung         76(3) 62
+      16  (9) Shunsuke Mitsui      def. (16) Frazier Rengifo      64 62
+      16  (5) Jeremie Casabon      def.      Ian Cruz             63 76
+      16  (5) Joshua Lapadat       def.      Diego Nava           62 63
+      16  (9) Stijn Slump          def.  (4) George Harwell       64 61
+      16  (9) Francois Musitelli   def.      Macsen Sisam         64 60
+      16      Evzen Holis          def.      Oscar Cutting        36 64 63
       32  (1) Gabriel Diallo       def. (16) Rafael Tosetto       63 64
       32 (16) Angel Diaz           def.  (9) Athell Bennett       60 60
       32      Matthew Fung         def. (16) Siim Troost          76(3) 64
@@ -138,22 +142,34 @@
      128      Cambell Nakayama     def.      Petar Petrovic       62 62
      128      Diego Castro         def.  (2) Martim Prata         64 75
   > Consolation
-      32      Georgi Mavrodiev      vs       Oliver Andersson     Sat @ 09:00
-      32      Ryan Mudre            vs       Sam Fischer          Sat @ 09:00
-      32  (5) David Stevenson       vs       Jacob Marshall       Sat @ 10:00
-      32      Ryan Cahill           vs       Vikash Singh         Sat @ 09:00
-      32      Luka Vukovic          vs       David Mizrahi        Sat @ 09:00
-      32      Brett Winters         vs       Kerim Hyatt          Sat @ 09:00
-      32      Carlos Salas Tulla    vs       Vince Orlando        Sat @ 09:00
-      32      Connor Robb-Wilcox    vs       Jonathan Sorbo       Sat @ 09:00
-      32 (16) Pavel Motl            vs       Nishanth Basavareddy Sat @ 09:00
-      32      Sam Edgar             vs       Thibaut de Negri     Sat @ 09:00
-      32      David Skrabut         vs       Jordan McClure       Sat @ 09:00
-      32      Jake Penny            vs       Charlie Temming      Sat @ 09:00
-      32      Borja Miralles        vs       Tomasz Dudek         Sat @ 09:00
-      32 (16) Stepan Holis          vs       Frederic Schlossmann Sat @ 09:00
-      32      Rohan Sachdev         vs       Alex Jochim          Sat @ 10:00
-      32 (16) Carson Haskins        vs       Petar Petrovic       Sat @ 10:00
+      QF      Ryan Mudre            vs       Vikash Singh         Sun @ 09:00
+      QF      David Mizrahi         vs       Jonathan Sorbo       Sun @ 09:00
+      QF (16) Pavel Motl            vs       Jordan McClure       Sun @ 09:00
+      QF (16) Stepan Holis          vs  (16) Carson Haskins       Sun @ 09:00
+      16      Ryan Mudre           def.      Oliver Andersson     76(4) 63
+      16      Vikash Singh         def.  (5) David Stevenson      Walkover
+      16      David Mizrahi        def.      Kerim Hyatt          64 36 [6]
+      16      Jonathan Sorbo       def.      Vince Orlando        36 63 [6]
+      16 (16) Pavel Motl           def.      Thibaut de Negri     Walkover
+      16      Jordan McClure       def.      Charlie Temming      64 76(6)
+      16 (16) Stepan Holis         def.      Borja Miralles       62 61
+      16 (16) Carson Haskins       def.      Rohan Sachdev        63 64
+      32      Oliver Andersson     def.      Georgi Mavrodiev     63 67(7) [10]
+      32      Ryan Mudre           def.      Sam Fischer          16 62 [4]
+      32  (5) David Stevenson      def.      Jacob Marshall       63 76(5)
+      32      Vikash Singh         def.      Ryan Cahill          63 61
+      32      David Mizrahi        def.      Luka Vukovic         64 75
+      32      Kerim Hyatt          def.      Brett Winters        75 75
+      32      Vince Orlando        def.      Carlos Salas Tulla   63 62
+      32      Jonathan Sorbo       def.      Connor Robb-Wilcox   76(7) 46 [11]
+      32 (16) Pavel Motl           def.      Nishanth Basavareddy 62 63
+      32      Thibaut de Negri     def.      Sam Edgar            75 75
+      32      Jordan McClure       def.      David Skrabut        60 61
+      32      Charlie Temming      def.      Jake Penny           76(2) 60
+      32      Borja Miralles       def.      Tomasz Dudek         63 76(5)
+      32 (16) Stepan Holis         def.      Frederic Schlossmann 62 62
+      32      Rohan Sachdev        def.      Alex Jochim          64 61
+      32 (16) Carson Haskins       def.      Petar Petrovic       62 62
      64Q      Georgi Mavrodiev     def.      Abe Wojtalik         61 67(3) [9]
      64Q      Oliver Andersson     def.      Santiago Casamayor   76(7) 64
      64Q      Ryan Mudre           def.      Danilo Kovacevic     Walkover

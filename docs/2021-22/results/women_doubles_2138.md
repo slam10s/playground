@@ -10,7 +10,7 @@
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">2021 Cal Fall Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Bulldog Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Natchitoches Women's Care/Lady Demon Collegiate Invitational</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">STETSON INVITE 1</a>  
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Stetson Invite 1</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternIllinoisUniversityW/Tournaments/Overview/F071C84F-6B2D-4B81-8D42-5B11D51EAB94" target="_blank">Western Illinois University Fall Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WilliamsCollegeW/Tournaments/Overview/29825979-F460-4366-ACCA-41A880C0E1DA" target="_blank">Lindsay Morehouse Invitational</a>  
 
@@ -109,22 +109,34 @@
  Women's Open Doubles
  > Draw
   > Main
-     32  (1) Bereznyak/Atway       vs       Kojcic/Turconi       Sat @ 09:00
-     32 (16) Alcala/Teske          vs       Potsi/Zlatanovic     Sat @ 09:00
-     32  (7) Yellayi/Ghosh         vs       Tabanera/Schoolcraft Sat @ 09:00
-     32 (10) Semenovski/Cataldi    vs       Abyasova/Jankulovska Sat @ 09:00
-     32  (3) Beckman/Andreach      vs       Papavasilopoulos/Go… Sat @ 09:00
-     32 (11) Leong/Rabjohns        vs       Gustafsson/Jover     Sat @ 09:00
-     32  (6) Heuser/Yeah           vs       Abreu/Damnjanovic    Sat @ 09:00
-     32 (13) Stephens/Gisclon      vs       Yergler/Jovicic      Sat @ 09:00
-     32      Lukyanova/Welch       vs       Lazic/Streng         Sat @ 09:00
-     32      Silveira/Karg         vs   (8) Treiber/Ferrari      Sat @ 09:00
-     32      Kuszynski/Tallamraju  vs   (9) Koscielski/Castedo   Sat @ 09:00
-     32      Czerwonka/Czerwonka   vs   (5) Pratt/McColgan       Sat @ 09:00
-     32      Popovic/Weise         vs  (12) Lemonds/Can          Sat @ 09:00
-     32      Tsadari/Neuman        vs   (4) Stoica/Mukhortova    Sat @ 09:00
-     32      Drazic/Pukhaeva       vs  (15) Antonijevic/Kizelba… Sat @ 09:00
-     32      Brodin/Fitzgerald     vs   (2) Fliegner/Kelly       Sat @ 09:00
+     QF (16) Alcala/Teske          vs  (10) Semenovski/Cataldi   Sun @ 09:00
+     QF  (3) Beckman/Andreach      vs   (6) Heuser/Yeah          Sun @ 09:00
+     QF  (8) Treiber/Ferrari       vs   (5) Pratt/McColgan       Sun @ 09:00
+     QF  (4) Stoica/Mukhortova     vs  (15) Antonijevic/Kizelba… Sun @ 09:00
+     16 (16) Alcala/Teske         def.  (1) Bereznyak/Atway      84
+     16 (10) Semenovski/Cataldi   def.  (7) Yellayi/Ghosh        86
+     16  (3) Beckman/Andreach     def.      Gustafsson/Jover     86
+     16  (6) Heuser/Yeah          def. (13) Stephens/Gisclon     82
+     16  (8) Treiber/Ferrari      def.      Lazic/Streng         86
+     16  (5) Pratt/McColgan       def.  (9) Koscielski/Castedo   81
+     16  (4) Stoica/Mukhortova    def. (12) Lemonds/Can          84
+     16 (15) Antonijevic/Kizelba… def.  (2) Fliegner/Kelly       87(6)
+     32  (1) Bereznyak/Atway      def.      Kojcic/Turconi       86
+     32 (16) Alcala/Teske         def.      Potsi/Zlatanovic     83
+     32  (7) Yellayi/Ghosh        def.      Tabanera/Schoolcraft 81
+     32 (10) Semenovski/Cataldi   def.      Abyasova/Jankulovska 85
+     32  (3) Beckman/Andreach     def.      Papavasilopoulos/Go… 80
+     32      Gustafsson/Jover     def. (11) Leong/Rabjohns       83
+     32  (6) Heuser/Yeah          def.      Abreu/Damnjanovic    82
+     32 (13) Stephens/Gisclon     def.      Yergler/Jovicic      87(6)
+     32      Lazic/Streng         def.      Lukyanova/Welch      85
+     32  (8) Treiber/Ferrari      def.      Silveira/Karg        84
+     32  (9) Koscielski/Castedo   def.      Kuszynski/Tallamraju 82
+     32  (5) Pratt/McColgan       def.      Czerwonka/Czerwonka  87(9)
+     32 (12) Lemonds/Can          def.      Popovic/Weise        84
+     32  (4) Stoica/Mukhortova    def.      Tsadari/Neuman       83
+     32 (15) Antonijevic/Kizelba… def.      Drazic/Pukhaeva      Walkover
+     32  (2) Fliegner/Kelly       def.      Brodin/Fitzgerald    85
      64      Kojcic/Turconi       def.      Iglesias/Vetter      84
      64      Potsi/Zlatanovic     def.      McConnell/Jhaveri    81
      64      Papavasilopoulos/Go… def.      Poppe/Fuentes        82
@@ -137,11 +149,11 @@
      64      Tsadari/Neuman       def.      Ali/Schoenly         87(5)
      64      Brodin/Fitzgerald    def.      Vichare/Brichackova  82
   > Consolation
-     16      Iglesias/Vetter       vs       McConnell/Jhaveri    Sat @ 09:00
-     16      Poppe/Fuentes         vs       Ganesan/Popma        Sat @ 09:00
-     16      Andres/Dukic          vs       Whitney/Pelayo       Sat @ 09:00
-     16      Morgoshia/Borodina    vs       Ali/Schoenly         Sat @ 09:00
-     32      Rakita/Dimitriev      vs       Vichare/Brichackova  Sat @ 09:00
+     16      Iglesias/Vetter      def.      McConnell/Jhaveri    87(5)
+     16      Ganesan/Popma        def.      Andres/Dukic         81
+     16      Poppe/Fuentes         vs       Sedovich/Fuller      Sat @ 10:00
+     16      Ali/Schoenly         def.      Morgoshia/Borodina   80
+     32      Vichare/Brichackova  def.      Rakita/Dimitriev     84
 ~~~
 
 <a name="21-50226"></a>
@@ -189,24 +201,69 @@
       F  Neville/Gaskell      def.  Rizza/Bowles         64
  > Saturday Group 1
   > East
-     SF  Sosnowska/Laursen     vs   Ercetin/Hanford      Sat @ 09:00
-     SF  Kmoskova/Havlickova   vs   Haagensen/Stepan     Sat @ 09:00
+      F  Haagensen/Stepan     def.  Sosnowska/Laursen    64
+     SF  Sosnowska/Laursen    def.  Ercetin/Hanford      75
+     SF  Haagensen/Stepan     def.  Kmoskova/Havlickova  62
+  > 3-4 Playoff
+      F  Ercetin/Hanford      def.  Kmoskova/Havlickova  61
  > Saturday Group 2
   > East
-     SF  Lazarevic/Aly         vs   Ehn/Neville          Sat @ 09:00
-     SF  Karvouni/Duong        vs   Oda/Aitken           Sat @ 09:00
+      F  Lazarevic/Aly        def.  Karvouni/Duong       63
+     SF  Lazarevic/Aly        def.  Ehn/Neville          63
+     SF  Karvouni/Duong       def.  Oda/Aitken           63
+  > 3-4 Playoff
+      F  Ehn/Neville          def.  Oda/Aitken           62
  > Saturday Group 3
   > East
-     SF  Sela/Jansson          vs   Rizzolo/Said         Sat @ 09:00
-     SF  Gaskell/Walczak       vs   Frampton/Wernli      Sat @ 09:00
+      F  Rizzolo/Said         def.  Gaskell/Walczak      64
+     SF  Rizzolo/Said         def.  Sela/Jansson         62
+     SF  Gaskell/Walczak      def.  Frampton/Wernli      62
+  > 3-4 Playoff
+      F  Sela/Jansson         def.  Frampton/Wernli      61
  > Saturday Group 4
   > East
-     SF  Stephani/Lee          vs   Skobkareva/Girbau    Sat @ 09:00
-     SF  Lu/Sarioglan          vs   Rizza/Heinitz        Sat @ 09:00
+      F  Lu/Sarioglan         def.  Skobkareva/Girbau    62
+     SF  Skobkareva/Girbau    def.  Stephani/Lee         75
+     SF  Lu/Sarioglan         def.  Rizza/Heinitz        63
+  > 3-4 Playoff
+      F  Stephani/Lee         def.  Rizza/Heinitz        64
  > Saturday Group 5
   > East
-     SF  Zdravkovic/Ochotore…  vs   Almiron/Bukina       Sat @ 09:00
-     SF  Broerman/Sloan        vs   Danilchenko/Kezuka   Sat @ 09:00
+      F  Broerman/Sloan       def.  Zdravkovic/Ochotore… 63
+     SF  Zdravkovic/Ochotore… def.  Almiron/Bukina       62
+     SF  Broerman/Sloan       def.  Danilchenko/Kezuka   63
+  > 3-4 Playoff
+      F  Danilchenko/Kezuka   def.  Almiron/Bukina       61
+ > Sunday Court 1
+  > Main
+      F  Said/Duong            vs   Broerman/Oda         Sun @ 09:00
+ > Sunday Court 2
+  > Main
+      F  Ercetin/Hanford       vs   Aitken/Sloan         Sun @ 09:00
+ > Sunday Court 3
+  > Main
+      F  Lu/Rizzolo            vs   Lazarevic/Aly        Sun @ 09:00
+ > Sunday Court 4
+  > Main
+      F  Karvouni/Danilchenko  vs   Kmoskova/Havlickova  Sun @ 09:00
+ > Sunday Court 5
+  > Main
+      F  Sarioglan/Kezuka      vs   Sela/Jansson         Sun @ 09:00
+ > Sunday Court 6
+  > Main
+      F  Neville/Stephani      vs   Frampton/Wernli      Sun @ 09:00
+ > Sunday Court 7
+  > Main
+      F  Hunt/Lee              vs   Sosnowska/Laursen    Sun @ 09:00
+ > Sunday Court 8
+  > Main
+      F  Haagensen/Stepan      vs   Almiron/Bukina       Sun @ 09:00
+ > Sunday Court 9
+  > Main
+      F  Zdravkovic/Ochotore…  vs   Gaskell/Walczak      Sun @ 09:00
+ > Sunday Court 10
+  > Main
+      F  Skobkareva/Girbau     vs   Rizza/Heinitz        Sun @ 09:00
 ~~~
 
 Return to the [Top](./women_doubles_2138.md) &#124; [Home Page](../../index.md)

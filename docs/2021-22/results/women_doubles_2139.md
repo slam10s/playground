@@ -23,22 +23,34 @@
  Women's Open Doubles
  > Draw
   > Main
-     32  (1) Bereznyak/Atway       vs       Kojcic/Turconi       Sat @ 09:00
-     32 (16) Alcala/Teske          vs       Potsi/Zlatanovic     Sat @ 09:00
-     32  (7) Yellayi/Ghosh         vs       Tabanera/Schoolcraft Sat @ 09:00
-     32 (10) Semenovski/Cataldi    vs       Abyasova/Jankulovska Sat @ 09:00
-     32  (3) Beckman/Andreach      vs       Papavasilopoulos/Go… Sat @ 09:00
-     32 (11) Leong/Rabjohns        vs       Gustafsson/Jover     Sat @ 09:00
-     32  (6) Heuser/Yeah           vs       Abreu/Damnjanovic    Sat @ 09:00
-     32 (13) Stephens/Gisclon      vs       Yergler/Jovicic      Sat @ 09:00
-     32      Lukyanova/Welch       vs       Lazic/Streng         Sat @ 09:00
-     32      Silveira/Karg         vs   (8) Treiber/Ferrari      Sat @ 09:00
-     32      Kuszynski/Tallamraju  vs   (9) Koscielski/Castedo   Sat @ 09:00
-     32      Czerwonka/Czerwonka   vs   (5) Pratt/McColgan       Sat @ 09:00
-     32      Popovic/Weise         vs  (12) Lemonds/Can          Sat @ 09:00
-     32      Tsadari/Neuman        vs   (4) Stoica/Mukhortova    Sat @ 09:00
-     32      Drazic/Pukhaeva       vs  (15) Antonijevic/Kizelba… Sat @ 09:00
-     32      Brodin/Fitzgerald     vs   (2) Fliegner/Kelly       Sat @ 09:00
+     QF (16) Alcala/Teske          vs  (10) Semenovski/Cataldi   Sun @ 09:00
+     QF  (3) Beckman/Andreach      vs   (6) Heuser/Yeah          Sun @ 09:00
+     QF  (8) Treiber/Ferrari       vs   (5) Pratt/McColgan       Sun @ 09:00
+     QF  (4) Stoica/Mukhortova     vs  (15) Antonijevic/Kizelba… Sun @ 09:00
+     16 (16) Alcala/Teske         def.  (1) Bereznyak/Atway      84
+     16 (10) Semenovski/Cataldi   def.  (7) Yellayi/Ghosh        86
+     16  (3) Beckman/Andreach     def.      Gustafsson/Jover     86
+     16  (6) Heuser/Yeah          def. (13) Stephens/Gisclon     82
+     16  (8) Treiber/Ferrari      def.      Lazic/Streng         86
+     16  (5) Pratt/McColgan       def.  (9) Koscielski/Castedo   81
+     16  (4) Stoica/Mukhortova    def. (12) Lemonds/Can          84
+     16 (15) Antonijevic/Kizelba… def.  (2) Fliegner/Kelly       87(6)
+     32  (1) Bereznyak/Atway      def.      Kojcic/Turconi       86
+     32 (16) Alcala/Teske         def.      Potsi/Zlatanovic     83
+     32  (7) Yellayi/Ghosh        def.      Tabanera/Schoolcraft 81
+     32 (10) Semenovski/Cataldi   def.      Abyasova/Jankulovska 85
+     32  (3) Beckman/Andreach     def.      Papavasilopoulos/Go… 80
+     32      Gustafsson/Jover     def. (11) Leong/Rabjohns       83
+     32  (6) Heuser/Yeah          def.      Abreu/Damnjanovic    82
+     32 (13) Stephens/Gisclon     def.      Yergler/Jovicic      87(6)
+     32      Lazic/Streng         def.      Lukyanova/Welch      85
+     32  (8) Treiber/Ferrari      def.      Silveira/Karg        84
+     32  (9) Koscielski/Castedo   def.      Kuszynski/Tallamraju 82
+     32  (5) Pratt/McColgan       def.      Czerwonka/Czerwonka  87(9)
+     32 (12) Lemonds/Can          def.      Popovic/Weise        84
+     32  (4) Stoica/Mukhortova    def.      Tsadari/Neuman       83
+     32 (15) Antonijevic/Kizelba… def.      Drazic/Pukhaeva      Walkover
+     32  (2) Fliegner/Kelly       def.      Brodin/Fitzgerald    85
      64      Kojcic/Turconi       def.      Iglesias/Vetter      84
      64      Potsi/Zlatanovic     def.      McConnell/Jhaveri    81
      64      Papavasilopoulos/Go… def.      Poppe/Fuentes        82
@@ -51,11 +63,11 @@
      64      Tsadari/Neuman       def.      Ali/Schoenly         87(5)
      64      Brodin/Fitzgerald    def.      Vichare/Brichackova  82
   > Consolation
-     16      Iglesias/Vetter       vs       McConnell/Jhaveri    Sat @ 09:00
-     16      Poppe/Fuentes         vs       Ganesan/Popma        Sat @ 09:00
-     16      Andres/Dukic          vs       Whitney/Pelayo       Sat @ 09:00
-     16      Morgoshia/Borodina    vs       Ali/Schoenly         Sat @ 09:00
-     32      Rakita/Dimitriev      vs       Vichare/Brichackova  Sat @ 09:00
+     16      Iglesias/Vetter      def.      McConnell/Jhaveri    87(5)
+     16      Ganesan/Popma        def.      Andres/Dukic         81
+     16      Poppe/Fuentes         vs       Sedovich/Fuller      Sat @ 10:00
+     16      Ali/Schoenly         def.      Morgoshia/Borodina   80
+     32      Vichare/Brichackova  def.      Rakita/Dimitriev     84
 ~~~
 
 Return to the [Top](./women_doubles_2139.md) &#124; [Home Page](../../index.md)

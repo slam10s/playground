@@ -15,30 +15,38 @@
 
 <a name="21-30664"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Midwest Regional Championship
   Dates: Sep 23-27, 2021
   Host: University Of Illinois (W)
-═════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Draw
   > Main
-      32  (1) Julia Fliegner        vs       Shalini Tallamraju   Sat @ 11:30
-      32 (15) Merri Kelly           vs  (22) Maeve Koscielski     Sat @ 11:30
-      32  (7) Taylor Cataldi        vs  (28) Agnes Gustafsson     Sat @ 11:30
-      32 (11) Carrie Beckman        vs  (20) Sydney Pratt         Sat @ 11:30
-      32  (3) Nibedita Ghosh        vs  (21) Tijana Zlatanovic    Sat @ 11:30
-      32      Olivia Czerwonka      vs  (23) Ashley Yeah          Sat @ 11:30
-      32  (8) Julia Andreach        vs  (25) Cassie Alcala        Sat @ 11:30
-      32 (13) Ema Lazic             vs  (16) Maja Pietrowicz      Sat @ 11:30
-      32 (31) Sloane Teske          vs  (12) Josie Frazier        Sat @ 11:30
-      32 (26) Ayshe Can             vs       Alexandra Abyasova   Sat @ 11:30
-      32 (19) Yashna Yellayi        vs  (17) Madeline Atway       Sat @ 11:30
-      32 (18) Hannah McColgan       vs   (4) Kathryn Treiber      Sat @ 11:30
-      32      Anca Craciun          vs       Ana Jover            Sat @ 12:30
-      32 (29) Justine Leong         vs   (6) Denise Stoica        Sat @ 12:30
-      32 (27) Maria Olivia Castedo  vs  (14) Megan Heuser         Sat @ 12:30
-      32 (30) Nicole Stephens       vs   (2) Shelly Bereznyak     Sat @ 12:30
+      16  (1) Julia Fliegner        vs  (15) Merri Kelly          Sun @ 10:00
+      16  (7) Taylor Cataldi        vs  (11) Carrie Beckman       Sun @ 10:00
+      16 (21) Tijana Zlatanovic     vs  (23) Ashley Yeah          Sun @ 10:00
+      16  (8) Julia Andreach        vs  (13) Ema Lazic            Sun @ 10:00
+      16 (12) Josie Frazier         vs       Alexandra Abyasova   Sun @ 10:00
+      16 (17) Madeline Atway        vs  (18) Hannah McColgan      Sun @ 10:00
+      16      Ana Jover             vs  (29) Justine Leong        Sun @ 10:00
+      16 (14) Megan Heuser          vs  (30) Nicole Stephens      Sun @ 10:00
+      32  (1) Julia Fliegner       def.      Shalini Tallamraju   62 63
+      32 (15) Merri Kelly          def. (22) Maeve Koscielski     57 62 61
+      32  (7) Taylor Cataldi       def. (28) Agnes Gustafsson     62 63
+      32 (11) Carrie Beckman       def. (20) Sydney Pratt         62 46 76(5)
+      32 (21) Tijana Zlatanovic    def.  (3) Nibedita Ghosh       64 63
+      32 (23) Ashley Yeah          def.      Olivia Czerwonka     61 61
+      32  (8) Julia Andreach       def. (25) Cassie Alcala        75 64
+      32 (13) Ema Lazic            def. (16) Maja Pietrowicz      64 60
+      32 (12) Josie Frazier        def. (31) Sloane Teske         46 75 76(4)
+      32      Alexandra Abyasova   def. (26) Ayshe Can            64 61
+      32 (17) Madeline Atway       def. (19) Yashna Yellayi       63 63
+      32 (18) Hannah McColgan      def.  (4) Kathryn Treiber      75 46 64
+      32      Ana Jover            def.      Anca Craciun         57 76(3) 62
+      32 (29) Justine Leong        def.  (6) Denise Stoica        63 67(4) 76(1)
+      32 (14) Megan Heuser         def. (27) Maria Olivia Castedo 63 61
+      32 (30) Nicole Stephens      def.  (2) Shelly Bereznyak     62 16 64
       64  (1) Julia Fliegner       def.      Giulia Turconi       61 60
       64      Shalini Tallamraju   def. (32) Maria Potsi          Default
       64 (15) Merri Kelly          def.      Reagan Welch         62 63
@@ -100,10 +108,12 @@
      128      Maru Poppe           def.      Kiley Rabjohns       36 63 61
      128      Charlotte Gisclon    def.      Kristina Pukhaeva    64 60
   > Consolation
-      16      Susana Andres         vs       Andie Weise          Sat @ 11:30
-      16      Anastasia Rakita      vs       Isabella Schoolcraft Sat @ 11:30
-      16      Lizi Morgoshia        vs       Hannah Neuman        Sat @ 11:30
-      16      Selina Karg           vs       Dani Schoenly        Sat @ 11:30
+      16      Andie Weise          def.      Susana Andres        64 62
+      16      Anastasia Rakita     def.      Isabella Schoolcraft 61 61
+      16      Hannah Neuman        def.      Lizi Morgoshia       63 64
+      16      Selina Karg          def.      Dani Schoenly        61 30 Ret.
+      16      Julia Kuszynski      def.      Sofiya Sedovich      67(5) 76(4) [5]
+      16      Kiley Rabjohns       def.      Dagmar Zdrubecka     61 60
       32      Susana Andres        def.      Isabelle Popma       Walkover
       32      Andie Weise          def.      Katherine Bellia     63 75
       32      Anastasia Rakita     def.      Katarina Drazic      Walkover
@@ -112,12 +122,12 @@
       32      Selina Karg          def.      Demi Jhaveri         61 61
       32      Dani Schoenly        def.      Amanda Tabanera      64 06 [6]
       32      Sofiya Sedovich      def.      Diana Borodina       Walkover
-      32      Luisa Pelayo          vs       Julia Kuszynski      Sat @ 11:30
-      32      Penelope Abreu        vs       Lura Silveira        Sat @ 11:30
+      32      Julia Kuszynski      def.      Luisa Pelayo         Walkover
+      32      Penelope Abreu        vs       Lura Silveira        
       32      Claire Czerwonka     def.      Ines Iglesias        64 36 [7]
       32      Sabina Brichackova   def.      Allison McConnell    62 61
-      32      Christine Gouws       vs       Tara Damnjanovic     Sat @ 12:30
-      32      Katarina Dukic        vs       Dagmar Zdrubecka     Sat @ 12:30
+      32      Tara Damnjanovic     def.      Christine Gouws      46 61 [10]
+      32      Dagmar Zdrubecka     def.      Katarina Dukic       Walkover
       32      Kiley Rabjohns       def.      Kristina Pukhaeva    Walkover
 ~~~
 
