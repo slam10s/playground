@@ -104,16 +104,17 @@
 
 <a name="21-20374"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Ohio Valley Regional Championship
   Dates: Sep 23-27, 2021
   Host: Univ. Of Tennessee, Knoxville (M)
-═════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-      SF (1) Stevenson/Cutting    vs  (9) Rodriguez/Gatti     Sun @ 12:00
-      SF (3) Motl/Slump           vs  (9) Mercer/Lapadat      Sun @ 15:00
+       F (9) Rodriguez/Gatti      vs  (9) Mercer/Lapadat      Mon @ 10:00
+      SF (9) Rodriguez/Gatti     def. (1) Stevenson/Cutting   46 64 [7]
+      SF (9) Mercer/Lapadat      def. (3) Motl/Slump          26 76(5) [7]
       QF (1) Stevenson/Cutting   def. (5) Troost/Ross         85
       QF (9) Rodriguez/Gatti     def.     de Negri/Herran     81
       QF (3) Motl/Slump          def. (5) Kovacevic/Adams     86
@@ -171,8 +172,9 @@
       64 (9) Mercer/Lapadat      def.     Dudek/Sachdev       83
       64     Rock/Alemany        def.     McClure/Kuroki      20 Ret.
   > Consolation
+       F (9) Mitsui/Diaz         def.     Marshall/Mudre      81
       SF     Marshall/Mudre      def.     Huete/Miralles      Walkover
-      SF (9) Chen/LeBlanc         vs  (9) Mitsui/Diaz         Sun @ 12:00
+      SF (9) Mitsui/Diaz         def. (9) Chen/LeBlanc        87(4)
       QF     Marshall/Mudre      def.     Bogdanovich/Skrabut 86
       QF     Huete/Miralles      def.     Mizrahi/Tang        86
       QF (9) Chen/LeBlanc        def.     Winters/Nakayama    85

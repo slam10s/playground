@@ -24,13 +24,13 @@
  > Draw
   > Main
       16  (1) Julia Fliegner        vs  (15) Merri Kelly          Sun @ 10:00
-      16  (7) Taylor Cataldi        vs  (11) Carrie Beckman       Sun @ 10:00
-      16 (21) Tijana Zlatanovic     vs  (23) Ashley Yeah          Sun @ 10:00
-      16  (8) Julia Andreach        vs  (13) Ema Lazic            Sun @ 10:00
-      16 (12) Josie Frazier         vs       Alexandra Abyasova   Sun @ 10:00
-      16 (17) Madeline Atway        vs  (18) Hannah McColgan      Sun @ 10:00
+      16  (7) Taylor Cataldi       def. (11) Carrie Beckman       46 61 63
+      16 (23) Ashley Yeah          def. (21) Tijana Zlatanovic    76(4) 63
+      16  (8) Julia Andreach       def. (13) Ema Lazic            61 75
+      16 (12) Josie Frazier        def.      Alexandra Abyasova   64 62
+      16 (17) Madeline Atway       def. (18) Hannah McColgan      36 63 64
       16      Ana Jover             vs  (29) Justine Leong        Sun @ 10:00
-      16 (14) Megan Heuser          vs  (30) Nicole Stephens      Sun @ 10:00
+      16 (14) Megan Heuser         def. (30) Nicole Stephens      36 63 61
       32  (1) Julia Fliegner       def.      Shalini Tallamraju   62 63
       32 (15) Merri Kelly          def. (22) Maeve Koscielski     57 62 61
       32  (7) Taylor Cataldi       def. (28) Agnes Gustafsson     62 63

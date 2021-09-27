@@ -182,13 +182,13 @@
  > Draw
   > Main
       16  (1) Julia Fliegner        vs  (15) Merri Kelly          Sun @ 10:00
-      16  (7) Taylor Cataldi        vs  (11) Carrie Beckman       Sun @ 10:00
-      16 (21) Tijana Zlatanovic     vs  (23) Ashley Yeah          Sun @ 10:00
-      16  (8) Julia Andreach        vs  (13) Ema Lazic            Sun @ 10:00
-      16 (12) Josie Frazier         vs       Alexandra Abyasova   Sun @ 10:00
-      16 (17) Madeline Atway        vs  (18) Hannah McColgan      Sun @ 10:00
+      16  (7) Taylor Cataldi       def. (11) Carrie Beckman       46 61 63
+      16 (23) Ashley Yeah          def. (21) Tijana Zlatanovic    76(4) 63
+      16  (8) Julia Andreach       def. (13) Ema Lazic            61 75
+      16 (12) Josie Frazier        def.      Alexandra Abyasova   64 62
+      16 (17) Madeline Atway       def. (18) Hannah McColgan      36 63 64
       16      Ana Jover             vs  (29) Justine Leong        Sun @ 10:00
-      16 (14) Megan Heuser          vs  (30) Nicole Stephens      Sun @ 10:00
+      16 (14) Megan Heuser         def. (30) Nicole Stephens      36 63 61
       32  (1) Julia Fliegner       def.      Shalini Tallamraju   62 63
       32 (15) Merri Kelly          def. (22) Maeve Koscielski     57 62 61
       32  (7) Taylor Cataldi       def. (28) Agnes Gustafsson     62 63
@@ -291,90 +291,86 @@
 
 <a name="21-50226"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   University of Minnesota Gopher Invitational
   Dates: Sep 24-26, 2021
   Host: University Of Minnesota (W)
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Group 1
   > Main
-     R3  Catherine Broerman    vs   Vasiliki Karvouni    Sun @ 10:30
-     R3  Habiba Aly            vs   Andrea Jansson       Sun @ 10:30
+     R3  Vasiliki Karvouni    def.  Catherine Broerman   76(1) 67(9) 62
      R2  Vasiliki Karvouni    def.  Habiba Aly           57 63 61
      R2  Catherine Broerman   def.  Andrea Jansson       61 64
      R1  Catherine Broerman   def.  Habiba Aly           63 60
      R1  Vasiliki Karvouni    def.  Andrea Jansson       62 61
  > Group 2
   > Main
-     R3  Ines Stephani         vs   Jana Lazarevic       Sun @ 10:30
-     R3  Frederikke Svarre L…  vs   Maria Rizzolo        Sun @ 10:30
+     R3  Jana Lazarevic       def.  Ines Stephani        76(3) 64
+     R3  Frederikke Svarre L… def.  Maria Rizzolo        64 46 63
      R2  Frederikke Svarre L… def.  Jana Lazarevic       62 63
      R2  Ines Stephani        def.  Maria Rizzolo        76(3) 75
      R1  Ines Stephani        def.  Frederikke Svarre L… 62 62
      R1  Maria Rizzolo        def.  Jana Lazarevic       63 46 75
  > Group 8
   > Main
-     R3  Kelsey Neville        vs   Sonia Skobkareva     Sun @ 10:30
-     R3  Anfisa Danilchenko    vs   Allie Ochotorena     Sun @ 10:30
+     R3  Sonia Skobkareva     def.  Kelsey Neville       62 62
+     R3  Anfisa Danilchenko   def.  Allie Ochotorena     61 62
      R2  Anfisa Danilchenko   def.  Sonia Skobkareva     60 60
      R2  Allie Ochotorena     def.  Kelsey Neville       46 62 60
      R1  Anfisa Danilchenko   def.  Kelsey Neville       63 06 63
      R1  Sonia Skobkareva     def.  Allie Ochotorena     64 61
  > Group 3
   > Main
-     R3  Rachel Hanford        vs   Sapir Sela           Sun @ 10:30
-     R3  Chie Kezuka           vs   Adrianna Sosnowska   Sun @ 10:30
+     R3  Rachel Hanford       def.  Sapir Sela           61 61
      R2  Chie Kezuka          def.  Sapir Sela           61 61
      R2  Rachel Hanford       def.  Adrianna Sosnowska   63 60
      R1  Rachel Hanford       def.  Chie Kezuka          16 61 62
      R1  Adrianna Sosnowska   def.  Sapir Sela           63 61
  > Group 4
   > Main
-     R3  Emilee Duong          vs   Daria Walczak        Sun @ 10:30
-     R3  Natalie Kmoskova      vs   Jenna Sloan          Sun @ 10:30
+     R3  Jenna Sloan          def.  Natalie Kmoskova     63 63
      R2  Natalie Kmoskova     def.  Daria Walczak        67(5) 62 62
      R2  Emilee Duong         def.  Jenna Sloan          46 76 62
      R1  Emilee Duong         def.  Natalie Kmoskova     62 64
      R1  Jenna Sloan          def.  Daria Walczak        76(6) 62
  > Group 5
   > Main
-     R3  Mille Haagensen       vs   Nina Zdravkovic      Sun @ 10:30
-     R3  Ekin Ercetin          vs   Kianna Oda           Sun @ 10:30
+     R3  Nina Zdravkovic      def.  Mille Haagensen      63 63
+     R3  Ekin Ercetin         def.  Kianna Oda           64 62
      R2  Ekin Ercetin         def.  Nina Zdravkovic      60 61
-     R2  Mille Haagensen      def.  Kianna Oda           36 61 62
+     R2  Kianna Oda           def.  Mille Haagensen      36 61 62
      R1  Ekin Ercetin         def.  Mille Haagensen      62 60
      R1  Kianna Oda           def.  Nina Zdravkovic      64 61
  > Group 6
   > Main
-     R3  Beata Havlickova      vs   Dalila Said          Sun @ 10:30
-     R3  Darinka Stepan        vs   Vlada Medvedcova     Sun @ 10:30
+     R3  Beata Havlickova     def.  Dalila Said          75 36 61
      R2  Dalila Said          def.  Darinka Stepan       63 60
      R1  Darinka Stepan       def.  Beata Havlickova     61 61
      R1  Dalila Said          def.  Vlada Medvedcova     60 60
  > Group 7
   > Main
-     R3  Lucy Lu               vs   Rebecca Ehn          Sun @ 10:30
-     R3  Caroline Wernli       vs   Berta Girbau         Sun @ 10:30
+     R3  Lucy Lu              def.  Rebecca Ehn          62 60
+     R3  Caroline Wernli      def.  Berta Girbau         64 63
      R2  Lucy Lu              def.  Berta Girbau         60 62
      R1  Caroline Wernli      def.  Lucy Lu              16 62 76(7)
      R1  Berta Girbau         def.  Rebecca Ehn          75 57 64
  > Group 9
   > Main
-     R3  Anna Marija Bukina    vs   Nore Heinitz         Sun @ 10:30
-     R3  Zeyneb Sarioglan      vs   Jyun-Yi Lee          Sun @ 10:30
+     R3  Anna Marija Bukina   def.  Nore Heinitz         64 64
+     R3  Zeyneb Sarioglan     def.  Jyun-Yi Lee          61 57 61
      R2  Zeyneb Sarioglan     def.  Nore Heinitz         62 75
      R2  Anna Marija Bukina   def.  Jyun-Yi Lee          61 60
      R1  Zeyneb Sarioglan     def.  Anna Marija Bukina   63 63
      R1  Nore Heinitz         def.  Jyun-Yi Lee          62 60
  > Group 10
   > Main
-     R5  Eesha Varma           vs   Maria Frampton       Sun @ 10:30
-     R5  Kendall Hunt          vs   Yulia Almiron        Sun @ 10:30
-     R5  Yana Gaskell          vs   Lucia Rizza          Sun @ 10:30
+     R5  Eesha Varma          def.  Maria Frampton       36 61 60
+     R5  Yulia Almiron        def.  Kendall Hunt         Walkover
+     R5  Lucia Rizza          def.  Yana Gaskell         64 61
      R4  Eesha Varma          def.  Kendall Hunt         61 61
      R4  Yulia Almiron        def.  Yana Gaskell         75 63
-     R4  Lucia Rizza          def.  Maria Frampton       75 16 62
+     R4  Lucia Rizza          def.  Maria Frampton       75 16 63
      R1  Eesha Varma          def.  Yana Gaskell         61 76(2)
      R1  Maria Frampton       def.  Kendall Hunt         61 57 64
      R1  Lucia Rizza          def.  Yulia Almiron        36 75 63
@@ -388,11 +384,11 @@
 
 <a name="21-15800"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
   Lindsay Morehouse Invitational
   Dates: Sep 24-26, 2021
   Host: Williams College (W)
-══════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > S: WILL vs SKID & MID vs WELL
   > Main
@@ -424,6 +420,22 @@
      64  Caitlin Neal         def.  Libby Chang        60 26 [5]
      64  Nina Farhat          def.  Eli Lee            62 61
      64  Sami Remis           def.  Celeste Tran       61 60
+ > S: WILL vs MID & SKID vs WELL
+  > Main
+     64  Claudia Miller       def.  Erica Ekstrand     63 63
+     64  Yuu Ishikawa         def.  Amy Delman         62 57 [9]
+     64  Sahana Raman         def.  Zhenghui Tian      Walkover
+     64  Katherine Orgielewi… def.  Brinlea La Barge   63 67(4) [7]
+     64  Gena Huang           def.  Ananya Aggarwal    62 63
+     64  Sami Remis           def.  Julia Pham         60 64
+     64  Ashleigh Parlman     def.  Katherine Almquist 63 62
+     64  Caitlin Neal         def.  Michaela Markwart  62 63
+     64  Melinda Alviar       def.  Grace Truong       76(3) 16 [8]
+     64  Annissa Mu           def.  Ella Provost       35 Ret.
+     64  Amanda Frank         def.  Cristiana DeAgazio 61 64
+     64  Nina Farhat          def.  Cinji Lee          61 61
+     64  Nathalie Van der Re… def.  Libby Chang        60 61
+     64  Kavina Amin          def.  Eli Lee            60 63
 ~~~
 
 Return to the [Top](./women_singles_2138.md) &#124; [Home Page](../../index.md)

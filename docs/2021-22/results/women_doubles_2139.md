@@ -15,18 +15,18 @@
 
 <a name="21-30664"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Midwest Regional Championship
   Dates: Sep 23-27, 2021
   Host: University Of Illinois (W)
-════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-     QF (16) Alcala/Teske          vs  (10) Semenovski/Cataldi   Sun @ 09:00
-     QF  (3) Beckman/Andreach      vs   (6) Heuser/Yeah          Sun @ 09:00
-     QF  (8) Treiber/Ferrari       vs   (5) Pratt/McColgan       Sun @ 09:00
-     QF  (4) Stoica/Mukhortova     vs  (15) Antonijevic/Kizelba… Sun @ 09:00
+     QF (10) Semenovski/Cataldi   def. (16) Alcala/Teske         85
+     QF  (6) Heuser/Yeah          def.  (3) Beckman/Andreach     86
+     QF  (5) Pratt/McColgan       def.  (8) Treiber/Ferrari      86
+     QF  (4) Stoica/Mukhortova    def. (15) Antonijevic/Kizelba… 83
      16 (16) Alcala/Teske         def.  (1) Bereznyak/Atway      84
      16 (10) Semenovski/Cataldi   def.  (7) Yellayi/Ghosh        86
      16  (3) Beckman/Andreach     def.      Gustafsson/Jover     86
@@ -65,7 +65,6 @@
   > Consolation
      16      Iglesias/Vetter      def.      McConnell/Jhaveri    87(5)
      16      Ganesan/Popma        def.      Andres/Dukic         81
-     16      Poppe/Fuentes         vs       Sedovich/Fuller      Sat @ 10:00
      16      Ali/Schoenly         def.      Morgoshia/Borodina   80
      32      Vichare/Brichackova  def.      Rakita/Dimitriev     84
 ~~~

@@ -17,10 +17,13 @@
  Men's Open Singles
  > Draw
   > Main
-      QF  (1) Gabriel Diallo        vs   (9) Joubert Klopper      Sun @ 09:00
-      QF  (9) Shunsuke Mitsui       vs   (5) Jeremie Casabon      Sun @ 09:00
-      QF  (5) Joshua Lapadat        vs   (9) Stijn Slump          Sun @ 09:00
-      QF  (9) Francois Musitelli    vs       Evzen Holis          Sun @ 09:00
+       F  (1) Gabriel Diallo        vs   (9) Francois Musitelli   Mon @ 10:00
+      SF  (1) Gabriel Diallo       def.  (9) Shunsuke Mitsui      76(4) 61
+      SF  (9) Francois Musitelli   def.  (5) Joshua Lapadat       64 63
+      QF  (1) Gabriel Diallo       def.  (9) Joubert Klopper      75 62
+      QF  (9) Shunsuke Mitsui      def.  (5) Jeremie Casabon      61 60
+      QF  (5) Joshua Lapadat       def.  (9) Stijn Slump          16 64 62
+      QF  (9) Francois Musitelli   def.      Evzen Holis          61 64
       16  (1) Gabriel Diallo       def. (16) Angel Diaz           63 64
       16  (9) Joubert Klopper      def.      Matthew Fung         76(3) 62
       16  (9) Shunsuke Mitsui      def. (16) Frazier Rengifo      64 62
@@ -142,10 +145,13 @@
      128      Cambell Nakayama     def.      Petar Petrovic       62 62
      128      Diego Castro         def.  (2) Martim Prata         64 75
   > Consolation
-      QF      Ryan Mudre            vs       Vikash Singh         Sun @ 09:00
-      QF      David Mizrahi         vs       Jonathan Sorbo       Sun @ 09:00
-      QF (16) Pavel Motl            vs       Jordan McClure       Sun @ 09:00
-      QF (16) Stepan Holis          vs  (16) Carson Haskins       Sun @ 09:00
+       F      Jonathan Sorbo       def. (16) Stepan Holis         75 63
+      SF      Jonathan Sorbo       def.      Vikash Singh         62 62
+      SF (16) Stepan Holis         def. (16) Pavel Motl           Walkover
+      QF      Vikash Singh         def.      Ryan Mudre           64 60
+      QF      Jonathan Sorbo       def.      David Mizrahi        63 61
+      QF (16) Pavel Motl           def.      Jordan McClure       62 63
+      QF (16) Stepan Holis         def. (16) Carson Haskins       61 64
       16      Ryan Mudre           def.      Oliver Andersson     76(4) 63
       16      Vikash Singh         def.  (5) David Stevenson      Walkover
       16      David Mizrahi        def.      Kerim Hyatt          64 36 [6]
