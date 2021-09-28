@@ -17,7 +17,7 @@
  Men's Open Singles
  > Draw
   > Main
-       F  (1) Gabriel Diallo        vs   (9) Francois Musitelli   Mon @ 10:00
+       F  (1) Gabriel Diallo       def.  (9) Francois Musitelli   61 62
       SF  (1) Gabriel Diallo       def.  (9) Shunsuke Mitsui      76(4) 61
       SF  (9) Francois Musitelli   def.  (5) Joshua Lapadat       64 63
       QF  (1) Gabriel Diallo       def.  (9) Joubert Klopper      75 62

@@ -4,13 +4,14 @@
 - 9/16/2021 - [Bedford Cup in the Mountains](#21-69307) ([Results](#21-69307) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Draws</a>)  
 - 9/17/2021 - [Jersey Mike's Seahawk Fall Invitational](#21-41355) ([Results](#21-41355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/B5F60616-E79D-49E3-B226-EA1A8F6D19C9" target="_blank">Draws</a>)  
 - 9/17/2021 - [Joe Hunt Invitational](#21-56448) ([Results](#21-56448) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/ED7CF5B8-36CF-4226-9CE9-96204D8B6362" target="_blank">Draws</a>)  
+- 9/17/2021 - [The Star Group Binghamton Championships](#21-12886) ([Results](#21-12886) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BinghamtonUniversitySUNYM/Tournaments/Overview/45217160-5C07-4F1E-8FB5-6C5FBC28805F" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4" target="_blank">Alabama Four-In-The-Fall</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/FFC0211B-E579-4EA7-9FE6-D4E9522C2014" target="_blank">Duke Bonk Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BinghamtonUniversitySUNYM/Tournaments/Overview/45217160-5C07-4F1E-8FB5-6C5FBC28805F" target="_blank">The Star Group Binghamton Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/97C4AA58-56BC-46A0-8287-9B7C41BD76A7" target="_blank">Middlebury Invitational 2021</a>  
 
 <a name="21-69307"></a>
@@ -209,6 +210,64 @@
      32  Driscoll/Kolls       def.  Ballesteros/Liu      76(5)
      32  Koyama/Tardin        def.  Risebrobakken/Hyun   61
      32  Budinszky/Linley     def.  Watson/Hutchison     75
+~~~
+
+<a name="21-12886"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  The Star Group Binghamton Championships
+  Dates: Sep 17-19, 2021
+  Host: Binghamton University (SUNY) (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Green
+  > Main
+     16  Pawlowicz/Verma      def.  Semerak/Bhatia       63
+     16  Townes/Smith         def.  Weekes/Pergel        60
+     16  Bodavula/Hatton      def.  Kanektar/Perez Ramos 63
+     16  Huarte/Zhang         def.  Carvalho/Mueller     60
+     16  Galan/Snaiders       def.  Selati/Gupta         61
+     16  Tang/Wibler          def.  Levinson/Potter      76(4)
+ > Green 2
+  > Main
+     16  Pawlowicz/Verma      def.  Bodavula/Hatton      75
+     16  Weekes/Pergel        def.  Huarte/Zhang         76(5)
+     16  Semerak/Bhatia       def.  Galan/Snaiders       61
+     16  Tang/Wibler          def.  Townes/Smith         62
+     16  Kanektar/Perez Ramos def.  Levinson/Potter      76(6)
+     16  Selati/Gupta         def.  Carvalho/Mueller     62
+ > Green 3
+  > Main
+     16  Pawlowicz/Verma      def.  Huarte/Zhang         62
+     16  Tang/Wibler          def.  Weekes/Pergel        61
+     16  Galan/Snaiders       def.  Bodavula/Hatton      63
+     16  Semerak/Bhatia       def.  Levinson/Potter      61
+     16  Kanektar/Perez Ramos def.  Carvalho/Mueller     63
+     16  Townes/Smith         def.  Selati/Gupta         63
+ > Green 4
+  > Main
+     16  Tang/Wibler          def.  Pawlowicz/Verma      75
+     16  Selati/Gupta         def.  Weekes/Pergel        64
+     16  Levinson/Potter      def.  Huarte/Zhang         64
+     16  Semerak/Bhatia       def.  Bodavula/Hatton      63
+ > White
+  > Main
+     QF  Vlassis/Weitz        def.  Ben Ari/Srivastava   62
+     QF  Owen/Murphy          def.  Mackay/Garcia        76(6)
+     QF  Singer/Robertson     def.  Romig/Gupta          60
+     QF  Israel/Thomas        def.  Elalami/Lindeman     62
+ > White 1a
+  > Main
+     SF  Rooney/Haikal        def.  Astrom/Grunig        60
+     SF  Henderson/Roberts    def.  Sabogal/Bejarano-Ga… 64
+ > White 2
+  > Main
+     16  Henderson/Roberts    def.  Elalami/Lindeman     63
+     16  Singer/Robertson     def.  Ben Ari/Srivastava   64
+     16  Owen/Murphy          def.  Astrom/Grunig        62
+     16  Vlassis/Weitz        def.  Mackay/Garcia        63
+     16  Israel/Thomas        def.  Rooney/Haikal        76(4)
+     16  Sabogal/Bejarano-Ga… def.  Romig/Gupta          63
 ~~~
 
 <a name="21-76336"></a>

@@ -249,7 +249,7 @@
   Host: Angelo State University (W)
 ════════════════════════════════════════════════════════════════════════
  Women's Open Singles
- > Flight 1
+ > Flight  1
   > East
       F  Hana Kvapilova       def.  Maryjoe Crisologo    60 75
      SF  Hana Kvapilova       def.  Allison Stewart      63 62
@@ -266,7 +266,7 @@
       F  Allison Stewart      def.  Rishona Israel-Lewis 61 60
   > South
       F  Nina Mitrofanova     def.  Valentina Gonzalez … 46 Ret.
- > Flight 2
+ > Flight  2
   > East
       F  Ileana Mocciola      def.  Kate Malazonia       64 63
      SF  Kate Malazonia       def.  Ena Ovcina           36 75 [7]
@@ -283,7 +283,7 @@
       F  Ena Ovcina           def.  Emma Kesterson       62 57 [7]
   > South
       F  Mae McCutcheon       def.  Natalia Komar        62 60
- > Flight 3
+ > Flight  3
   > East
       F  Andrea Guerrero      def.  Eva Arranz           63 16 [7]
      SF  Eva Arranz           def.  Sofia Fortuno        76 62
@@ -300,7 +300,7 @@
       F  Sofia Fortuno        def.  Sydney Wahl          64 61
   > South
       F  Eva Schwartz         def.  Celia Vaudiau        26 75 [10]
- > Flight 4
+ > Flight  4
   > East
       F  Paula Garrote        def.  Jadeh Chan           61 63
      SF  Paula Garrote        def.  Renata Gonzalez      63 36 [3]
@@ -315,7 +315,7 @@
      SF  Anna Hosking         def.  Esther Bowers        64 76(2)
   > 3-4 Playoff
       F  Renata Gonzalez      def.  Alli Ziehm           62 62
- > Flight 6
+ > Flight  6
   > Main
      R5  Ramitha Irrinki      def.  Faustine Palatte     61 60
      R5  Sara Le              def.  Chacadyah Israel-Le… 62 36 [9]

@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
+- 9/24/2021 - [Bulldog Invitational](#21-92623) ([Results](#21-92623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
 - 9/24/2021 - [University of Minnesota Gopher Invitational](#21-50226) ([Results](#21-50226) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">Draws</a>)  
 - 9/24/2021 - [Lindsay Morehouse Invitational](#21-15800) ([Results](#21-15800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamsCollegeW/Tournaments/Overview/29825979-F460-4366-ACCA-41A880C0E1DA" target="_blank">Draws</a>)  
@@ -9,7 +10,6 @@
 **Tournaments without Matches**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">2021 Cal Fall Invitational</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Bulldog Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Natchitoches Women's Care/Lady Demon Collegiate Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Stetson Invite 1</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternIllinoisUniversityW/Tournaments/Overview/F071C84F-6B2D-4B81-8D42-5B11D51EAB94" target="_blank">Western Illinois University Fall Invite</a>  
@@ -171,6 +171,26 @@
      16Q      Sage Hills           def.  (2) Courtney Rittel      64 46 [4]
 ~~~
 
+<a name="21-92623"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  Bulldog Invitational
+  Dates: Sep 24-26, 2021
+  Host: Yale University (W)
+═════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw
+  > Main
+     64  Chelsea Kung      def.  Kamilla Nella      75 63
+     64  Rena Lin          def.  Claire Koscielski  63 76(5)
+     64  Caroline Dunleavy def.  Dominique Vasile   63 62
+     64  Rhea Shrivistava  def.  Jordan Bradley     61 64
+     64  Jamie kim         def.  Brittney Wilbur    61 63
+     64  Vivian Cheng      def.  Jean-Na Koo        62 61
+     64  Kathy Wang        def.  Andie Williams     36 62 [3]
+     64  nicole gillinov   def.  Alexandra Luehrman 62 60
+~~~
+
 <a name="21-30664"></a>
 ~~~
 ═════════════════════════════════════════════════════════════════════════════════
@@ -181,13 +201,11 @@
  Women's Open Singles
  > Draw
   > Main
-      16  (1) Julia Fliegner        vs  (15) Merri Kelly          Sun @ 10:00
       16  (7) Taylor Cataldi       def. (11) Carrie Beckman       46 61 63
       16 (23) Ashley Yeah          def. (21) Tijana Zlatanovic    76(4) 63
       16  (8) Julia Andreach       def. (13) Ema Lazic            61 75
       16 (12) Josie Frazier        def.      Alexandra Abyasova   64 62
       16 (17) Madeline Atway       def. (18) Hannah McColgan      36 63 64
-      16      Ana Jover             vs  (29) Justine Leong        Sun @ 10:00
       16 (14) Megan Heuser         def. (30) Nicole Stephens      36 63 61
       32  (1) Julia Fliegner       def.      Shalini Tallamraju   62 63
       32 (15) Merri Kelly          def. (22) Maeve Koscielski     57 62 61
@@ -424,10 +442,10 @@
   > Main
      64  Claudia Miller       def.  Erica Ekstrand     63 63
      64  Yuu Ishikawa         def.  Amy Delman         62 57 [9]
-     64  Sahana Raman         def.  Zhenghui Tian      Walkover
+     64  Sahana Raman         def.  Zhenghui Tian      50 Ret.
      64  Katherine Orgielewi… def.  Brinlea La Barge   63 67(4) [7]
-     64  Gena Huang           def.  Ananya Aggarwal    62 63
-     64  Sami Remis           def.  Julia Pham         60 64
+     64  Gena Huang           def.  Ananya Aggarwal    61 60
+     64  Sami Remis           def.  Julia Pham         61 64
      64  Ashleigh Parlman     def.  Katherine Almquist 63 62
      64  Caitlin Neal         def.  Michaela Markwart  62 63
      64  Melinda Alviar       def.  Grace Truong       76(3) 16 [8]

@@ -1,6 +1,7 @@
 <a name="top"></a>[<< Prev](men_singles_2135.md) &nbsp; **Week #36 - Sep 6-12, 2021** &nbsp; [Next >>](men_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2136.md) &#124; [Women](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2136.md) &#124; [Doubles](./men_doubles_2136.md)
 
 **Tournamets with Matches**  
+- 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
@@ -8,9 +9,66 @@
 
 **Tournaments without Matches**  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">2021 Dar Walters Classic</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Gator Fall Invite</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Orange Lawn Fall Invitational</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
+
+<a name="21-36446"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Gator Fall Invite
+  Dates: Sep 10-12, 2021
+  Host: University of Florida (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Day One Matches
+  > Main
+     32  Trey Hilderbrand   def.  Ben Shelton        57 64 64
+     32  Blaise Bicknell    def.  Kento Yamada       46 76(2) 64
+     32  Mattias Siimar     def.  JC Roddick         63 64
+     32  Andres Andrade     def.  Bryan Triana       63 63
+     32  Abedallah Shelbayh def.  Bogdan Pavel       63 36 62
+     32  Joshua Goodger     def.  Cooper White       61 62
+     32  William Grant      def.  Quinn Synder       61 63
+     32  Nate Bonetto       def.  Collin Shick       64 64
+     32  Robin Catry        def.  Toby Samuel        64 46 64
+     32  Connor Thomson     def.  Martins Rocens     64 75
+     32  Raphael Lambling   def.  Damien Salvestre   61 62
+     32  Braden Shick       def.  Jake Beasley       60 62
+     32  Yannai Barkai      def.  James Story        63 62
+     32  Fons Van Sambeek   def.  Carter Morgan      63 63
+     32  Beau Pelletier     def.  Joseph Schrader    62 62
+ > Day Two Matches
+  > Main
+     32  Mattias Siimar     def.  Robin Catry        16 63 60
+     32  Andres Andrade     def.  Damien Salvestre   62 60
+     32  Ben Shelton        def.  Martins Rocens     63 64
+     32  Blaise Bicknell    def.  Braden Shick       63 64
+     32  Yannai Barkai      def.  Abedallah Shelbayh 75 10 Ret.
+     32  Joshua Goodger     def.  Fons Van Sambeek   16 64 75
+     32  William Grant      def.  Collin Shick       63 36 61
+     32  Nate Bonetto       def.  Joseph Schrader    64 64
+     32  Daniel Rodrigues   def.  Trey Hilderbrand   64 26 76(6)
+     32  Connor Thomson     def.  Bogdan Pavel       63 62
+     32  Raphael Lambling   def.  Bryan Triana       61 62
+     32  JC Roddick         def.  Jake Beasley       76(5) 64
+     32  James Story        def.  Cooper White       63 61
+     32  Quinn Synder       def.  Carter Morgan      76(4) 64
+ > Day Three Matches
+  > Main
+     32  Andres Andrade     def.  Connor Thomson     64 64
+     32  Raphael Lambling   def.  Joshua Goodger     75 46 62
+     32  Ben Shelton        def.  James Story        76(4) 76(5)
+     32  William Grant      def.  Jake Beasley       76(5) 16 63
+     32  Lukas Greif        def.  Carter Morgan      67(5) 63 63
+     32  Beau Pelletier     def.  Nate Bonetto       75 26 63
+     32  Robin Catry        def.  Trey Hilderbrand   62 61
+     32  Braden Shick       def.  Kento Yamada       46 63 41 Ret.
+     32  Martins Rocens     def.  Bogdan Pavel       46 63 62
+     32  JC Roddick         def.  Damien Salvestre   75 62
+     32  Fons Van Sambeek   def.  Bryan Triana       76(1) 64
+     32  Quinn Synder       def.  Joseph Schrader    61 64
+     32  Cooper White       def.  Collin Shick       62 62
+~~~
 
 <a name="21-94373"></a>
 ~~~

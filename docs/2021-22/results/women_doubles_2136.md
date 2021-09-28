@@ -96,6 +96,23 @@
      16  Clairotte/Vanderhey… def.  Gurholt/Fernald      64
      16  Ballow/Gillar        def.  van Meeteren/Cricch… 63
      16  Hurrion/McGrane      def.  Fukutoku/Manolescu   63
+ > Doubles Rd. 2
+  > Main
+     16  Nguyen/Burger        def.  Clairotte/Vanderhey… 63
+     16  Ode Mitre/Parra Rom… def.  Ballow/Gillar        64
+     16  Almborg/Saraty       def.  Hurrion/McGrane      63
+     16  Stefancic/Van Hanse… def.  Lovato/Sampaio       76(5)
+     16  Saric/Alhach         def.  Bachir el Bouhali/C… 63
+     16  Gurholt/Fernald      def.  Diercksen/Muzzolon   64
+     16  van Meeteren/Cricch… def.  Hussain/Joseph       61
+ > Doubles Rd. 3
+  > Main
+     16  Nguyen/Almborg       def.  Saric/Alhach         62
+     16  Lovato/Burger        def.  Gurholt/Fernald      62
+     16  Parra Romero/Sampaio def.  van Meeteren/Cricch… 63
+     16  Ode Mitre/Kirch      def.  Fukutoku/Manolescu   64
+     16  Hussain/Muzzolon     def.  Van Hansewyck/McGra… 62
+     16  Gillar/Joseph        def.  Bachir el Bouhali/C… 64
 ~~~
 
 <a name="21-66962"></a>
@@ -114,6 +131,20 @@
      16  Steven/Gouws         def.  Hailey/Andrade       61
      16  Perlwitz/Lojpur      def.  Ellis/Bukraba-Ulano… 63
      16  Martinez/Marjanovic  def.  Shinabery/Perez-Kor… 61
+ > SIUE vs. Bradley, EIU vs. WIU
+  > Main
+     QF  Lambrechts/Thibault  def.  Maletin/Hailey       64
+     QF  Sporing/Vizcardo     def.  Bezmenova/Andrade    75
+     QF  Perez/Reinicke       def.  Martinez/Marjanovic  61
+     QF  Papavasilopoulos/Go… def.  Castellanos/Rybka    60
+ > SIUE vs. EIU, WIU vs. Bradley
+  > Main
+     16  Papavasilopoulos/Go… def.  Lambrechts/Thibault  75
+     16  Sporing/Vizcardo     def.  Ellis/Bukraba-Ulano… 76(4)
+     16  Hochstatter/Schifano def.  Steven/Ellis         61
+     16  Hailey/Andrade       def.  Castellanos/Rybka    75
+     16  Perlwitz/Lojpur      def.  Jacobson/Grice       60
+     16  Kancherla/Carbonell  def.  Kovacs/Marjanovic    76(3)
 ~~~
 
 <a name="21-31047"></a>

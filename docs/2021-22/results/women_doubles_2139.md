@@ -10,7 +10,7 @@
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/19C5EAFF-4E4C-4DBD-83F9-4FE76D915740" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">ITA Division I Women's Northeasts Regional Championship</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">mercer gridiron classic</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1EB1A7C8-81F9-4DDF-BE0F-D8EB9551DEA5" target="_blank">SDSU Fall Tennis Classic # 1</a>  
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1EB1A7C8-81F9-4DDF-BE0F-D8EB9551DEA5" target="_blank">SDSU Fall  Tennis Classic # 1</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/6AF18612-0DD9-474B-9A98-4C630E99D501" target="_blank">Wolverine Invitational</a>  
 
 <a name="21-30664"></a>

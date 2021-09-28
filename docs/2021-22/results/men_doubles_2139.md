@@ -17,7 +17,7 @@
  Men's Open Doubles
  > Draw
   > Main
-       F (9) Rodriguez/Gatti      vs  (9) Mercer/Lapadat      Mon @ 10:00
+       F (9) Mercer/Lapadat      def. (9) Rodriguez/Gatti     62 62
       SF (9) Rodriguez/Gatti     def. (1) Stevenson/Cutting   46 64 [7]
       SF (9) Mercer/Lapadat      def. (3) Motl/Slump          26 76(5) [7]
       QF (1) Stevenson/Cutting   def. (5) Troost/Ross         85

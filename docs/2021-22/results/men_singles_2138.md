@@ -215,6 +215,9 @@
  > Extra Matches 5
   > Main
        F  (1) Nicolas Herrera Cue… def.      Christopher Steele   76(5) 62
+ > Extra Matches 3
+  > Main
+      SF      Nicolas Herrera Cue… def.      Dominik Buzonics     63 62
 ~~~
 
 <a name="21-20374"></a>
@@ -227,7 +230,7 @@
  Men's Open Singles
  > Draw
   > Main
-       F  (1) Gabriel Diallo        vs   (9) Francois Musitelli   Mon @ 10:00
+       F  (1) Gabriel Diallo       def.  (9) Francois Musitelli   61 62
       SF  (1) Gabriel Diallo       def.  (9) Shunsuke Mitsui      76(4) 61
       SF  (9) Francois Musitelli   def.  (5) Joshua Lapadat       64 63
       QF  (1) Gabriel Diallo       def.  (9) Joubert Klopper      75 62
