@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
+- 9/24/2021 - [Bulldog Invitational](#21-92623) ([Results](#21-92623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
 - 9/24/2021 - [University of Minnesota Gopher Invitational](#21-50226) ([Results](#21-50226) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">Draws</a>)  
 - 9/24/2021 - [Lindsay Morehouse Invitational](#21-15800) ([Results](#21-15800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamsCollegeW/Tournaments/Overview/29825979-F460-4366-ACCA-41A880C0E1DA" target="_blank">Draws</a>)  
@@ -9,7 +10,6 @@
 **Tournaments without Matches**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">2021 Cal Fall Invitational</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Bulldog Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Natchitoches Women's Care/Lady Demon Collegiate Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Stetson Invite 1</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternIllinoisUniversityW/Tournaments/Overview/F071C84F-6B2D-4B81-8D42-5B11D51EAB94" target="_blank">Western Illinois University Fall Invite</a>  
@@ -97,6 +97,51 @@
      16Q     Luna/McGivern        def.     Schrepferman/Bucco … 86
      16Q     Padberg/Beidacki     def.     Skjelstad/Mokhasi    98(5)
      16Q     Kuehnle/Eremina      def. (2) Zafeiri/Reisch       81
+~~~
+
+<a name="21-92623"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Bulldog Invitational
+  Dates: Sep 24-26, 2021
+  Host: Yale University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Brown V Hofstra Dubs
+  > Main
+     QF  Reddy/Lau            def.  Walle/Soyer       63
+     QF  Benedetto/Peus       def.  Solagnier/Sanchez 62
+     QF  Williams/Hofflander  def.  Ray/Tonuzi        61
+ > Yale V Quinnipiac
+  > Main
+     QF  Kung/Gong            def.  Nella/Bradley     60
+     QF  Koscielski/Wilbur    def.  Lin/Bretkelly     62
+     QF  Dunleavy/Shrivistava def.  Williams/Koo      60
+     QF  Cheng/Lou            def.  Williams/Luehrman 62
+ > Yale V Hofstra
+  > Main
+     16  Kung/Gong            def.  Walle/Soyer       64
+     16  Lin/Bretkelly        def.  Solagnier/Sanchez 60
+     16  Dunleavy/Shrivistava def.  Ray/Tonuzi        60
+     16  kim/Cheng            def.  Desai/Yhang       60
+     16  Wang/gillinov        def.  Madigan/Ferguson  61
+ > Brown V Quinnipiac
+  > Main
+     QF  Truden/Nella         def.  Reddy/Lau         75
+     QF  Benedetto/Peus       def.  Koscielski/Wilbur 63
+     QF  Williams/Hofflander  def.  Bradley/Williams  64
+ > Hofstra V Quinnipiac
+  > Main
+     16  Truden/Nella         def.  Walle/Soyer       61
+     16  Koscielski/Wilbur    def.  Solagnier/Sanchez 62
+     16  Bradley/Koo          def.  Ray/Tonuzi        60
+     16  Vasile/Williams      def.  Desai/Yhang       62
+     16  Madigan/Ferguson     def.  Williams/Luehrman 76(5)
+ > Yale V Brown
+  > Main
+     QF  Kung/Gong            def.  Benedetto/Peus    62
+     QF  Dunleavy/Shrivistava def.  Lau/Newman        63
+     QF  Lin/Bretkelly        def.  Reddy/Hofflander  60
 ~~~
 
 <a name="21-30664"></a>

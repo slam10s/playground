@@ -173,22 +173,67 @@
 
 <a name="21-92623"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
   Bulldog Invitational
   Dates: Sep 24-26, 2021
   Host: Yale University (W)
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
  Women's Open Singles
- > Draw
+ > Brown V Hofstra
   > Main
-     64  Chelsea Kung      def.  Kamilla Nella      75 63
-     64  Rena Lin          def.  Claire Koscielski  63 76(5)
-     64  Caroline Dunleavy def.  Dominique Vasile   63 62
-     64  Rhea Shrivistava  def.  Jordan Bradley     61 64
-     64  Jamie kim         def.  Brittney Wilbur    61 63
-     64  Vivian Cheng      def.  Jean-Na Koo        62 61
-     64  Kathy Wang        def.  Andie Williams     36 62 [3]
-     64  nicole gillinov   def.  Alexandra Luehrman 62 60
+     16  Britany Lau         def.  Kayla Solagnier     62 64
+     16  Sophia Reddy        def.  Deniz Soyer         62 60
+     16  Ryan Peus           def.  Mandisa Walle       61 61
+     16  Lindsey Hofflander  def.  Isabella Tonuzi     60 60
+     16  April Sanchez       def.  Selena Williams     61 60
+ > Yale V Quinnipiac
+  > Main
+     16  Chelsea Kung        def.  Kamilla Nella       75 63
+     16  Rena Lin            def.  Claire Koscielski   63 76(5)
+     16  Caroline Dunleavy   def.  Dominique Vasile    63 62
+     16  Rhea Shrivistava    def.  Jordan Bradley      61 64
+     16  Jamie kim           def.  Brittney Wilbur     61 63
+     16  Vivian Cheng        def.  Jean-Na Koo         62 61
+     16  Kathy Wang          def.  Andie Williams      36 62 [3]
+     16  nicole gillinov     def.  Alexandra Luehrman  62 60
+ > Yale V Hofstra
+  > Main
+     32  Chelsea Kung        def.  Kayla Solagnier     61 60
+     32  Jessie Gong         def.  Deniz Soyer         63 61
+     32  Mirabelle Bretkelly def.  Mandisa Walle       62 61
+     32  Rena Lin            def.  April Sanchez       46 63 [4]
+     32  Caroline Dunleavy   def.  Simran Desai        61 61
+     32  Rhea Shrivistava    def.  Kaitlyn Ferguson    60 60
+     32  Raissa Lou          def.  Mary Madigan        60 62
+     32  Vivian Cheng        def.  Isabella Tonuzi     61 61
+     32  Jamie kim           def.  Shelly Ray          60 61
+     32  Kathy Wang          def.  Ciyin Yhang         60 60
+ > Yale V Brown
+  > Main
+     16  Chelsea Kung        def.  Britany Lau         60 64
+     16  Jessie Gong         def.  Ryan Peus           64 64
+     16  Mirabelle Bretkelly def.  Sophia Reddy        63 64
+     16  Lindsey Hofflander  def.  Rena Lin            76(7) 63
+     16  Caroline Dunleavy   def.  Alexandra Benedetto 64 75
+     16  Rhea Shrivistava    def.  Selena Williams     64 61
+ > Quinnipiac V Hofstra
+  > Main
+     32  Kamilla Nella       def.  Kayla Solagnier     62 63
+     32  Claire Koscielski   def.  Deniz Soyer         62 61
+     32  Dominique Vasile    def.  Mandisa Walle       16 60 [6]
+     32  April Sanchez       def.  Jordan Bradley      63 61
+     32  Brittney Wilbur     def.  Simran Desai        61 61
+     32  Jean-Na Koo         def.  Kaitlyn Ferguson    62 63
+     32  Andie Williams      def.  Mary Madigan        62 60
+     32  Madison Williams    def.  Isabella Tonuzi     62 61
+     32  Shelly Ray          def.  Alexandra Luehrman  36 63 [7]
+ > Quinnipiac V Brown
+  > Main
+     16  Britany Lau         def.  Kamilla Nella       62 61
+     16  Claire Koscielski   def.  Sophia Reddy        62 63
+     16  Ryan Peus           def.  Jordan Bradley      63 61
+     16  Lindsey Hofflander  def.  Brittney Wilbur     61 62
+     16  Jean-Na Koo         def.  Selena Williams     61 62
 ~~~
 
 <a name="21-30664"></a>

@@ -3,12 +3,12 @@
 **Tournamets with Matches**  
 - 9/21/2021 - [ITA Division I Men's Mountain Regional Championship](#21-39721) ([Results](#21-39721) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrighamYoungUniversityM/Tournaments/Overview/0A12EB81-68AE-4020-9FA2-B2DB100CE962" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Men's Ohio Valley Regional Championship](#21-20374) ([Results](#21-20374) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">Draws</a>)  
+- 9/24/2021 - [American Rivers Conference Men's Individual Tournament](#21-25873) ([Results](#21-25873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaStateUniversityM/Tournaments/Overview/B537401C-4CA4-4C79-A319-9E137D884288" target="_blank">Georgia State Panther Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityM/Tournaments/Overview/4CA1F754-31D9-4DCF-8BB3-0098D93E8693" target="_blank">Quinnipiac Invitational at Fairfield University</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">American Rivers Conference Men's Individual Tournament</a>  
 
 <a name="21-39721"></a>
 ~~~
@@ -421,6 +421,137 @@
      64Q      Alex Jochim          def.      Michael Karr         64 67(6) [7]
      64Q (16) Carson Haskins       def.      Gonzalo Garcia-Nieto 63 61
      64Q      Petar Petrovic       def.  (2) Martim Prata         Walkover
+~~~
+
+<a name="21-25873"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  American Rivers Conference Men's Individual Tournament
+  Dates: Sep 24-25, 2021
+  Host: ITA
+═══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > Main
+      F (1) Rami Hemaidan        def. (2) Nyathi Motlojoa      84
+     SF (1) Rami Hemaidan        def. (4) Max Loen             87(9)
+     SF (2) Nyathi Motlojoa      def. (3) Jon Lansing          81
+     QF (1) Rami Hemaidan        def. (7) Bo Wilson            84
+     QF (4) Max Loen             def. (5) Eli Young            85
+     QF (3) Jon Lansing          def.     Joaquim Fernandes    87(5)
+     QF (2) Nyathi Motlojoa      def. (8) Luke Westholder      Walkover
+     16 (1) Rami Hemaidan        def.     Jorge Melo           85
+     16 (7) Bo Wilson            def.     Jackson Eells        83
+     16 (4) Max Loen             def.     Ryan Carey           85
+     16 (5) Eli Young            def.     Jordan Oaks          81
+     16     Joaquim Fernandes    def. (6) Lucas Huffman        87(1)
+     16 (3) Jon Lansing          def.     Dylan Wiemers        83
+     16 (8) Luke Westholder      def.     Nathan Meskell       84
+     16 (2) Nyathi Motlojoa      def.     Graham Peterson      82
+     32     Jorge Melo           def.     Griffin Steiniger    62 60
+     32 (7) Bo Wilson            def.     Danny Kramer         60 63
+     32     Jackson Eells        def.     Ricky Portilla       36 60 [5]
+     32     Ryan Carey           def.     Trey Melvin          62 36 [8]
+     32 (5) Eli Young            def.     Kevin Blomquist      62 63
+     32     Jordan Oaks          def.     Caleb Vasconez       61 61
+     32     Joaquim Fernandes    def.     Brad Dileo           62 61
+     32     Dylan Wiemers        def.     Tommy Linkenheld     62 62
+     32     Nathan Meskell       def.     Tanner Finken        62 46 [5]
+     32 (8) Luke Westholder      def.     Cade Davis           61 62
+     32     Graham Peterson      def.     Ethan Beckerman      76(6) 60
+ > Flight B
+  > Main
+      F (1) Juan Navarrete       def.     Nate Withers         85
+     SF (1) Juan Navarrete       def.     Konnor Barth         83
+     SF     Nate Withers         def. (6) Peter Walkwitz       81
+     QF (1) Juan Navarrete       def.     Ethan Humble         80
+     QF     Konnor Barth         def.     Harry Hawbaker       81
+     QF (6) Peter Walkwitz       def. (3) Stefan Zrnic         85
+     QF     Nate Withers         def.     Ayden Fletcher       84
+     16 (1) Juan Navarrete       def.     Nick Scott           81
+     16     Ethan Humble         def.     Luke Smith           81
+     16     Konnor Barth         def.     Juan Pablo Rosaldo   86
+     16     Harry Hawbaker       def. (5) Nile Petersen        81
+     16 (6) Peter Walkwitz       def.     Jeff Miller          82
+     16 (3) Stefan Zrnic         def.     Cole Lohoefener      80
+     16     Nate Withers         def. (8) Aaron Price          82
+     16     Ayden Fletcher       def. (2) Alex Palomar         81
+     32 (1) Juan Navarrete       def.     Hunter Gerhardt      62 60
+     32     Nick Scott           def.     Joe Schneider        63 63
+     32     Luke Smith           def. (7) Brenden Schlader     Walkover
+     32     Ethan Humble         def.     Matthew DenAdel      60 57 [6]
+     32     Juan Pablo Rosaldo   def. (4) Will Olson           61 60
+     32     Konnor Barth         def.     Aj Wilkins           61 75
+     32 (5) Nile Petersen        def.     Caleb Hamerlinck     63 62
+     32     Harry Hawbaker       def.     Eian Coad            16 64 [5]
+     32     Jeff Miller          def.     Dalton Pregon        63 63
+     32 (6) Peter Walkwitz       def.     Aidan Hunter         76(2) 36 [7]
+     32     Cole Lohoefener      def.     Sam Soon             Walkover
+     32 (3) Stefan Zrnic         def.     Sean Gelski          61 46 [8]
+     32     Nate Withers         def.     Jack Veber           63 60
+     32 (8) Aaron Price          def.     Desmond Looft        62 64
+     32     Ayden Fletcher       def.     Daniel Bernhardsen   62 61
+     32 (2) Alex Palomar         def.     Joseph Haag          60 75
+     64     Hunter Gerhardt      def.     Bode Carter          86
+     64     Luke Smith           def.     Jacob Balfany        87(5)
+     64     Juan Pablo Rosaldo   def.     Jacob Alden          82
+     64     Caleb Hamerlinck     def.     Hayden Retzlaff      85
+     64     Aidan Hunter         def.     Rob Arbuckle         82
+     64     Sean Gelski          def.     Adam Velazquez       87(8)
+     64     Desmond Looft        def.     Ethan Weber          84
+     64     Joseph Haag          def.     Thomas Kampmier      83
+ > Flight C
+  > Main
+      F     Nico Martinez Biali  def.     Kareem Kassas        87(3)
+     SF     Kareem Kassas        def.     Connor Fuzzey        85
+     SF     Nico Martinez Biali  def.     Peter Heryla         83
+     QF     Connor Fuzzey        def.     Jared Burstein       86
+     QF     Kareem Kassas        def.     Sebastian Zavala Br… 87(5)
+     QF     Nico Martinez Biali  def.     Ryan Webb            83
+     QF     Peter Heryla         def.     Kevin Lopez          84
+     16     Jared Burstein       def.     Kaleb Flenker        86
+     16     Connor Fuzzey        def.     Jake Brend           81
+     16     Sebastian Zavala Br… def.     Nils Empen           82
+     16     Kareem Kassas        def.     Brock Bruns          84
+     16     Nico Martinez Biali  def.     Miles Meier          86
+     16     Ryan Webb            def.     Gabe Matthias        85
+     16     Kevin Lopez          def.     Nolan Teubel         87
+     16     Peter Heryla         def.     Julian Nemers        82
+     32     Kaleb Flenker        def.     Michael Turnley      63 75
+     32     Jared Burstein       def.     Sam Brickley         36 60 [7]
+     32     Connor Fuzzey        def.     Brady McIntyre       60 60
+     32     Jake Brend           def.     Benjamen Austin      64 76(4)
+     32     Nils Empen           def.     Gannon Harrington    61 60
+     32     Sebastian Zavala Br… def.     Garrett Janssen      62 61
+     32     Kareem Kassas        def.     Chase Henry          63 60
+     32     Brock Bruns          def.     Dylan Roseburrough   61 60
+     32     Miles Meier          def.     Ryan Kiddle          62 64
+     32     Nico Martinez Biali  def.     Nash Christian       61 62
+     32     Gabe Matthias        def.     Brett Batkoff        57 63 [2]
+     32     Kevin Lopez          def.     Sam Timp             60 61
+     32     Nolan Teubel         def.     Diego Diaz           63 62
+     32     Julian Nemers        def.     Josh Husemann        61 62
+     32     Peter Heryla         def.     Martin Harrington    62 60
+     64     Kaleb Flenker        def.     Dylan Determan       85
+     64     Jared Burstein       def.     Jeremiah Montgomery  80
+     64     Connor Fuzzey        def.     Victor Nop           80
+     64     Gannon Harrington    def.     Luke Snyder          85
+     64     Garrett Janssen      def.     Nick Rose            82
+     64     Kareem Kassas        def.     Zach Norman          80
+     64     Nash Christian       def.     Jeremiah Allen       84
+     64     Gabe Matthias        def.     Shimon Yonekura      86
+     64     Nolan Teubel         def.     Drake Downard        80
+     64     Julian Nemers        def.     Lucas Broom          83
+     64     Peter Heryla         def.     Joshua Woolcott      81
+ > A-Singles Third-Place
+  > Main
+      F (4) Max Loen             def. (3) Jon Lansing          Walkover
+ > B-Singles Third-Place
+  > Main
+      F (6) Peter Walkwitz       def.     Konnor Barth         84
+ > C-Singles Third-Place
+  > Main
+      F     Connor Fuzzey        def.     Peter Heryla         84
 ~~~
 
 Return to the [Top](./men_singles_2138.md) &#124; [Home Page](../../index.md)

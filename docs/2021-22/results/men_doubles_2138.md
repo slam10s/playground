@@ -3,12 +3,12 @@
 **Tournamets with Matches**  
 - 9/21/2021 - [ITA Division I Men's Mountain Regional Championship](#21-39721) ([Results](#21-39721) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrighamYoungUniversityM/Tournaments/Overview/0A12EB81-68AE-4020-9FA2-B2DB100CE962" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Men's Ohio Valley Regional Championship](#21-20374) ([Results](#21-20374) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">Draws</a>)  
+- 9/24/2021 - [American Rivers Conference Men's Individual Tournament](#21-25873) ([Results](#21-25873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaStateUniversityM/Tournaments/Overview/B537401C-4CA4-4C79-A319-9E137D884288" target="_blank">Georgia State Panther Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityM/Tournaments/Overview/4CA1F754-31D9-4DCF-8BB3-0098D93E8693" target="_blank">Quinnipiac Invitational at Fairfield University</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">American Rivers Conference Men's Individual Tournament</a>  
 
 <a name="21-39721"></a>
 ~~~
@@ -104,11 +104,11 @@
 
 <a name="21-20374"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Ohio Valley Regional Championship
   Dates: Sep 23-27, 2021
   Host: Univ. Of Tennessee, Knoxville (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
@@ -199,6 +199,77 @@
      32Q (9) Mitsui/Diaz         def.     Hiryur/Mavrodiev    83
      32Q     Orlando/Wojtalik    def.     Andersson/Nolasco   86
      32Q     Dudek/Sachdev       def.     Ball/Berry          86
+~~~
+
+<a name="21-25873"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  American Rivers Conference Men's Individual Tournament
+  Dates: Sep 24-25, 2021
+  Host: ITA
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight B
+  > Main
+      F (1) Melvin/Scott         def. (8) Withers/Hunter       85
+     SF (1) Melvin/Scott         def. (4) Balfany/Retzlaff     81
+     SF (8) Withers/Hunter       def. (3) Dileo/Fletcher       82
+     QF (1) Melvin/Scott         def. (7) Kramer/Pregon        83
+     QF (4) Balfany/Retzlaff     def. (5) Hawbaker/Palomar     82
+     QF (3) Dileo/Fletcher       def.     Martinez Biali/Rosa… 87(5)
+     QF (8) Withers/Hunter       def.     Miller/Petersen      81
+     16 (1) Melvin/Scott         def.     Lopez/Matthias       82
+     16 (7) Kramer/Pregon        def.     Burstein/Carter      86
+     16 (4) Balfany/Retzlaff     def.     Flenker/Nemers       82
+     16 (5) Hawbaker/Palomar     def.     Brickley/Coad        82
+     16     Martinez Biali/Rosa… def. (6) Wilkins/Gerhardt     84
+     16 (3) Dileo/Fletcher       def.     Gelski/Teubel        86
+     16 (8) Withers/Hunter       def.     Veber/Arbuckle       82
+     16     Miller/Petersen      def.     Henry/Velazquez      80
+     32 (1) Melvin/Scott         def.     Kassas/Schneider     81
+     32     Lopez/Matthias       def.     Downard/Brend        84
+     32 (7) Kramer/Pregon        def.     Heryla/Fuzzey        83
+     32     Burstein/Carter      def.     Zrnic/McIntyre       83
+     32 (4) Balfany/Retzlaff     def.     Alden/DenAdel        86
+     32     Flenker/Nemers       def.     Determan/Zavala Bri… 87(5)
+     32 (5) Hawbaker/Palomar     def.     Haag/Soon            82
+     32     Brickley/Coad        def.     Norman/Yonekura      81
+     32 (6) Wilkins/Gerhardt     def.     Harrington/Harringt… 80
+     32     Gelski/Teubel        def.     Roseburrough/Snyder  82
+     32 (3) Dileo/Fletcher       def.     Walkwitz/Humble      84
+     32     Veber/Arbuckle       def.     Broom/Nop            82
+     32 (8) Withers/Hunter       def.     Bernhardsen/Lohoefe… 82
+     32     Henry/Velazquez      def.     Austin/Montgomery    83
+     32     Miller/Petersen      def. (2) Finken/Hamerlinck    86
+     64     Kassas/Schneider     def.     Smith/Janssen        86
+     64     Lopez/Matthias       def.     Webb/Bruns           87(1)
+     64     Alden/DenAdel        def.     Diaz/Meier           85
+     64     Haag/Soon            def.     Christian/Turnley    83
+     64     Harrington/Harringt… def.     Kiddle/Husemann      86
+     64     Walkwitz/Humble      def.     Rose/Woolcott        81
+     64     Bernhardsen/Lohoefe… def.     Timp/Empen           80
+     64     Miller/Petersen      def.     Allen/Batkoff        82
+ > Flight A
+  > Main
+      F (2) Motlojoa/Westholder  def. (1) Wilson/Hemaidan      86
+     SF (1) Wilson/Hemaidan      def. (4) Portilla/Loen        Walkover
+     SF (2) Motlojoa/Westholder  def. (3) Meskell/Lansing      84
+     QF (1) Wilson/Hemaidan      def.     Navarrete/Young      82
+     QF (4) Portilla/Loen        def.     Melo/Wiemers         86
+     QF (3) Meskell/Lansing      def.     Huffman/Eells        82
+     QF (2) Motlojoa/Westholder  def.     Carey/Olson          82
+     16     Navarrete/Young      def.     Davis/Steiniger      83
+     16 (4) Portilla/Loen        def.     Blomquist/Kampmier   80
+     16     Melo/Wiemers         def.     Oaks/Peterson        86
+     16     Huffman/Eells        def.     Beckerman/Fernandes  87(7)
+     16 (3) Meskell/Lansing      def.     Price/Vasconez       82
+     16     Carey/Olson          def.     Linkenheld/Barth     86
+ > A-Doubles Third-Place
+  > Main
+      F     Meskell/Lansing      def.     Portilla/Loen        Walkover
+ > B-Doubles Third-Place
+  > Main
+      F     Dileo/Fletcher       def.     Balfany/Retzlaff     87(1)
 ~~~
 
 Return to the [Top](./men_doubles_2138.md) &#124; [Home Page](../../index.md)
