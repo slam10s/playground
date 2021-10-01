@@ -2,7 +2,7 @@
 
 **Tournamets with Matches**  
 - 9/23/2021 - [ITA Division I Men's Ohio Valley Regional Championship](#21-20374) ([Results](#21-20374) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">Draws</a>)  
-- 10/1/2021 - [mercer gridiron classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
+- 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Idaho State Bengal Invitational</a>  
@@ -213,7 +213,7 @@
 <a name="21-07548"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════════
-  mercer gridiron classic
+  Mercer Gridiron Classic
   Dates: Oct 1-3, 2021
   Host: Mercer University (M)
 ══════════════════════════════════════════════════════════════════════════
