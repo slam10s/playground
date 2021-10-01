@@ -116,30 +116,53 @@
  Men's Open Doubles
  > Doubles Flight A
   > East
-     16 (1) Duarte/Grinvalds      vs      Bajracharya/Du Preez Fri @ 08:30
-     16     Benoit/Waldow         vs      Hillhouse/Martens    Fri @ 08:30
-     16 (3) Sarrio/Robbins        vs      WAYENBURG/GEORGADZE  Fri @ 08:30
-     16     Lopez Cruz/Tryakshin  vs      Shoemake/Bencrdic    Fri @ 08:30
-     16     Cizek/Malirz          vs      Del Castillo/Roumpis Fri @ 08:30
-     16     Luna/Verlaguet        vs  (4) Patel/Tezuka         Fri @ 08:30
-     16     Portugal/Judy-Hansen  vs      Norwood/Blanchar     Fri @ 08:30
+     QF (1) Duarte/Grinvalds      vs      Hillhouse/Martens    Sat @ 08:30
+     QF (3) Sarrio/Robbins        vs      Lopez Cruz/Tryakshin Sat @ 08:30
+     QF     Cizek/Malirz          vs  (4) Patel/Tezuka         Sat @ 08:30
+     16 (1) Duarte/Grinvalds     def.     Bajracharya/Du Preez 62
+     16     Hillhouse/Martens    def.     Benoit/Waldow        62
+     16 (3) Sarrio/Robbins       def.     WAYENBURG/GEORGADZE  63
+     16     Lopez Cruz/Tryakshin def.     Shoemake/Bencrdic    64
+     16     Cizek/Malirz         def.     Del Castillo/Roumpis 64
+     16 (4) Patel/Tezuka         def.     Luna/Verlaguet       61
+     16     Norwood/Blanchar     def.     Portugal/Judy-Hansen 62
      16     Cantero/Tsai          vs  (2) Huempfner/Stodder    Fri @ 08:30
+  > West
+     QF     Bajracharya/Du Preez  vs      Benoit/Waldow        Sat @ 08:30
+     QF     WAYENBURG/GEORGADZE   vs      Shoemake/Bencrdic    Sat @ 08:30
+     QF     Del Castillo/Roumpis  vs      Luna/Verlaguet       Sat @ 08:30
  > Doubles Flight B
   > East
+     QF     Brainard/Gaskin       vs      Brewer/Nunez         Sat @ 08:30
+     QF     Suk/Dun               vs      Vishnevskiy/Garayev  Sat @ 08:30
+     QF     Maust/Thomas          vs      Bernard/Llinares     Sat @ 08:30
+     QF     Murillo/Osap          vs      Dobrnjac/Inagawa     Sat @ 08:30
      16     Brainard/Gaskin      def. (1) Marinescu/Maughan    Walkover
-     16     Gedney/Stuart         vs      Brewer/Nunez         Fri @ 08:30
-     16 (3) Botti/Salmeron        vs      Suk/Dun              Fri @ 08:30
-     16     Vishnevskiy/Garayev   vs      Jeanne-Grandinot/Jo… Fri @ 08:30
-     16     Maust/Thomas          vs      Mulas/Jacq           Fri @ 08:30
-     16     Bernard/Llinares      vs  (4) Jadoun/Diaz          Fri @ 08:30
-     16     BARROW/FLYNN          vs      Murillo/Osap         Fri @ 08:30
-     16     Dobrnjac/Inagawa      vs  (2) Lazo/Padilha         Fri @ 08:30
+     16     Brewer/Nunez         def.     Gedney/Stuart        62
+     16     Suk/Dun              def. (3) Botti/Salmeron       75
+     16     Vishnevskiy/Garayev  def.     Jeanne-Grandinot/Jo… 63
+     16     Maust/Thomas         def.     Mulas/Jacq           63
+     16     Bernard/Llinares     def. (4) Jadoun/Diaz          62
+     16     Murillo/Osap         def.     BARROW/FLYNN         75
+     16     Dobrnjac/Inagawa     def. (2) Lazo/Padilha         76(5)
+  > West
+     QF (1) Marinescu/Maughan     vs      Gedney/Stuart        Sat @ 08:30
+     QF (3) Botti/Salmeron        vs      Jeanne-Grandinot/Jo… Sat @ 08:30
+     QF     Mulas/Jacq            vs  (4) Jadoun/Diaz          Sat @ 08:30
+     QF     BARROW/FLYNN          vs  (2) Lazo/Padilha         Sat @ 08:30
  > Doubles Flight C
   > East
-     16     Amier/Amacher         vs      Wade/Zapata          Fri @ 08:30
-     16     Cruz/Millwood         vs      Evenson/Sassi        Fri @ 08:30
-     16     Kim/Tymes             vs      Stoica/Veloso        Fri @ 08:30
-     16     Fuller/Speranza       vs      Robinson/Villamizar  Fri @ 08:30
+     QF (1) Erramuspe/Rodriguez   vs      Amier/Amacher        Sat @ 09:00
+     QF (4) KRASHIN/MACLEOD       vs      Evenson/Sassi        Sat @ 09:00
+     QF     Kim/Tymes             vs  (3) Andre/Rodriguez      Sat @ 09:00
+     QF     Robinson/Villamizar   vs  (2) Mimata/Lee           Sat @ 09:00
+     16     Amier/Amacher        def.     Wade/Zapata          61
+     16     Evenson/Sassi        def.     Cruz/Millwood        60
+     16     Kim/Tymes            def.     Stoica/Veloso        62
+     16     Robinson/Villamizar  def.     Fuller/Speranza      63
+  > West
+     SF     Wade/Zapata           vs      Cruz/Millwood        Sat @ 10:15
+     SF     Stoica/Veloso         vs      Fuller/Speranza      Sat @ 10:15
 ~~~
 
 Return to the [Top](./men_doubles_2139.md) &#124; [Home Page](../../index.md)

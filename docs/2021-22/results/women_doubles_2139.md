@@ -71,27 +71,40 @@
 
 <a name="21-60580"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
   Florida Division 1 Bedford Cup, Women
   Dates: Oct 1-3, 2021
   Host: Univ. Of South Florida (W)
-═════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight A
   > East
-     16     Umarova/Skrobonja     vs      Filip/Schieroni     Fri @ 09:00
-     16 (3) Sharma/Mattel         vs      Hubeaut/Sandy       Fri @ 09:00
-     16     Bardet/ferding        vs      Eland/Shumacher     Fri @ 09:00
-     16     Kudelova/MGinnis      vs      Bekrar/Kabbaj       Fri @ 09:00
-     16     Davis/Yardley         vs  (4) De Oliveira/Dudeney Fri @ 09:00
-     16     Berry/Boy             vs      Cohen/Dovgopolyi    Fri @ 09:00
+     QF (1) Spee/Shelton         def.     Filip/Schieroni      63
+     QF (3) Sharma/Mattel        def.     Bardet/ferding       62
+     QF     Bekrar/Kabbaj        def. (4) De Oliveira/Dudeney  62
+     QF     Berry/Boy            def. (2) Leslie/Christians    64
+     16     Filip/Schieroni      def.     Umarova/Skrobonja    63
+     16 (3) Sharma/Mattel        def.     Hubeaut/Sandy        60
+     16     Bardet/ferding       def.     Eland/Shumacher      62
+     16     Bekrar/Kabbaj        def.     Kudelova/MGinnis     64
+     16 (4) De Oliveira/Dudeney  def.     Davis/Yardley        61
+     16     Berry/Boy            def.     Cohen/Dovgopolyi     62
+  > West
+     QF     Eland/Shumacher      def.     Hubeaut/Sandy        62
+     QF     Kudelova/MGinnis     def.     Davis/Yardley        63
  > Flight B
   > East
-     16     colmenares/retortil…  vs      Matthews/Sommer     Fri @ 09:00
-     16     Garriguez/Timmermans  vs      Menten/Hammoud      Fri @ 09:00
-     16     norin/ossa            vs      Kentish/Thomas      Fri @ 09:00
-     16     Nash/Oliveira         vs      Salinas/Sumaia      Fri @ 09:00
-     16     Pasini/Rizk           vs      Mjos/Yaylali        Fri @ 09:00
+     QF     colmenares/retortil… def. (1) Long/Lodzki          64
+     QF     Akbas/Morin-Kougoch… def.     Garriguez/Timmermans 63
+     QF     norin/ossa           def.     Nash/Oliveira        63
+     QF (2) Miletic/Velcea       def.     Mjos/Yaylali         63
+     16     colmenares/retortil… def.     Matthews/Sommer      64
+     16     Garriguez/Timmermans def.     Menten/Hammoud       62
+     16     norin/ossa           def.     Kentish/Thomas       61
+     16     Nash/Oliveira        def.     Salinas/Sumaia       62
+     16     Mjos/Yaylali         def.     Pasini/Rizk          61
+  > West
+     QF     Kentish/Thomas       def.     Salinas/Sumaia       60
 ~~~
 
 <a name="21-03077"></a>
@@ -104,22 +117,33 @@
  Women's Open Doubles
  > Draw
   > Main
-     32 (1) OGorman/Chekhlystova  vs      Lawson/Pospischill Fri @ 09:00
-     32     Etienne/Jankovic      vs      Honrubia/Svendsen  Fri @ 09:00
-     32     Weinberg/Hirsch       vs      Bendetti/Coburn    Fri @ 09:00
-     32 (3) Tannenbaum/Taggart    vs      Nannery/Crowell    Fri @ 09:00
-     32 (6) Marinkovikj/Wiesmann  vs      Barney/Mathur      Fri @ 09:00
-     32     La/Yang               vs      Mitchell/Rose      Fri @ 09:00
-     32     Hashiguchi/Wirt       vs      Axelsson/Rothfeld  Fri @ 09:00
-     32     Utrilla Benito/Pessy  vs      Butcher/Grayson    Fri @ 09:00
-     32     Elliott/Weiss         vs  (4) Lebedeva/Zuffova   Fri @ 09:00
-     32     Alamo/Lasorda         vs      Amato/Amato        Fri @ 09:00
-     32     Smith/Moysiadi        vs  (5) Askarova/Montana   Fri @ 09:00
-     32     Assenmacher/Haliou    vs      Georgieva/Turner   Fri @ 09:00
-     32     Latoni/Shanahan       vs  (2) Nielsen/Friedland  Fri @ 09:00
-     64     Pegram/Ifederu        vs      Placidi/Jones      Fri @ 09:00
-     64     Cardoso/Torrente      vs      Liang/Policare     Fri @ 09:00
-     64     Kirk/Nava             vs      Ho/Mikos           Fri @ 09:00
+     16 (1) OGorman/Chekhlystova  vs      Honrubia/Svendsen  Sat @ 09:00
+     16 (8) Corpuz/Komarraju      vs      Bendetti/Coburn    Sat @ 09:00
+     16 (3) Tannenbaum/Taggart    vs      Ashton/Willy       Sat @ 09:00
+     16 (6) Marinkovikj/Wiesmann  vs      Mitchell/Rose      Sat @ 09:00
+     16     Hashiguchi/Wirt       vs      Ho/Mikos           Sat @ 09:00
+     16     Utrilla Benito/Pessy  vs  (4) Lebedeva/Zuffova   Sat @ 09:45
+     16     Alamo/Lasorda         vs  (5) Askarova/Montana   Sat @ 09:00
+     16     Assenmacher/Haliou    vs  (2) Nielsen/Friedland  Sat @ 09:45
+     32 (1) OGorman/Chekhlystova def.     Lawson/Pospischill 61
+     32     Honrubia/Svendsen    def.     Etienne/Jankovic   60
+     32 (8) Corpuz/Komarraju     def.     Pegram/Ifederu     60
+     32     Bendetti/Coburn      def.     Weinberg/Hirsch    60
+     32 (3) Tannenbaum/Taggart   def.     Nannery/Crowell    63
+     32     Ashton/Willy         def.     Cardoso/Torrente   75
+     32 (6) Marinkovikj/Wiesmann def.     Barney/Mathur      62
+     32     Mitchell/Rose        def.     La/Yang            75
+     32     Hashiguchi/Wirt      def.     Axelsson/Rothfeld  61
+     32     Ho/Mikos             def. (7) Johns/Moore        75
+     32     Utrilla Benito/Pessy def.     Butcher/Grayson    63
+     32 (4) Lebedeva/Zuffova     def.     Elliott/Weiss      64
+     32     Alamo/Lasorda        def.     Amato/Amato        63
+     32 (5) Askarova/Montana     def.     Smith/Moysiadi     63
+     32     Assenmacher/Haliou   def.     Georgieva/Turner   Walkover
+     32 (2) Nielsen/Friedland    def.     Latoni/Shanahan    61
+     64     Pegram/Ifederu       def.     Placidi/Jones      64
+     64     Cardoso/Torrente     def.     Liang/Policare     61
+     64     Ho/Mikos             def.     Kirk/Nava          61
 ~~~
 
 <a name="21-54831"></a>
@@ -132,50 +156,74 @@
  Women's Open Doubles
  > Main Draw
   > Main
-     32 (1) Bossi/Chang           vs      Nikolopoulou/Nord    Fri @ 08:30
-     32 (6) Barad Itzaki/Aksu     vs      McGrane/Hurrion      Fri @ 08:30
-     32     Fernald/Manolescu     vs      Karlova/Draskovic    Fri @ 08:30
-     32 (4) Parra Romero/Ode Mi…  vs      Campodonico/Salemyr  Fri @ 08:30
-     32     Husted/Radulova       vs      Fukutoku/Cricchio    Fri @ 08:30
-     32 (5) Davidescu/Manjanna    vs      Vanderheyden/Ballow  Fri @ 08:30
-     32     Moulin/Voloh          vs      Brandow/Falk         Fri @ 08:30
-     32     Saraty/Nguyen         vs      Stefancic/Van Hanse… Fri @ 08:30
-     32     Kovick/Kucharova      vs  (7) Clark/Andreini       Fri @ 08:30
-     32     Loudili/Ifidzhen      vs      Gurholt/Stange       Fri @ 08:30
-     32     Nurgazieva/Saez       vs  (3) Afanasyeva/Moulin    Fri @ 08:30
-     32     Danailova/Richtrova   vs      Alhach/van Meeteren  Fri @ 08:30
-     32     Hsieh/Nagato          vs  (8) Gillar/Clairotte     Fri @ 08:30
-     32     Heiberg/Buendia       vs      Joliff/Hincu         Fri @ 08:30
-     32     Pinto/Cartledge       vs  (2) Kiefer/ODell         Fri @ 08:30
-     64     Hederich/Barton       vs      Dunbar/Cohen         
+     16 (6) Barad Itzaki/Aksu     vs      Fernald/Manolescu    Sat @ 08:30
+     16 (4) Parra Romero/Ode Mi…  vs      Fukutoku/Cricchio    Sat @ 08:30
+     16 (5) Davidescu/Manjanna    vs      Moulin/Voloh         Sat @ 08:30
+     16     Saraty/Nguyen         vs  (7) Clark/Andreini       Sat @ 08:30
+     16     Gurholt/Stange        vs  (3) Afanasyeva/Moulin    Sat @ 08:30
+     16     Danailova/Richtrova   vs      Hsieh/Nagato         Sat @ 08:30
+     16     Heiberg/Buendia       vs  (2) Kiefer/ODell         Sat @ 08:30
+     32 (1) Bossi/Chang          def.     Nikolopoulou/Nord    62
+     32     Cheng/Som             vs      Dunbar/Cohen         Fri @ 15:00
+     32 (6) Barad Itzaki/Aksu    def.     McGrane/Hurrion      64
+     32     Fernald/Manolescu    def.     Karlova/Draskovic    76(5)
+     32 (4) Parra Romero/Ode Mi… def.     Campodonico/Salemyr  75
+     32     Fukutoku/Cricchio    def.     Husted/Radulova      62
+     32 (5) Davidescu/Manjanna   def.     Vanderheyden/Ballow  64
+     32     Moulin/Voloh         def.     Brandow/Falk         64
+     32     Saraty/Nguyen        def.     Stefancic/Van Hanse… 76(8)
+     32 (7) Clark/Andreini       def.     Kovick/Kucharova     76(5)
+     32     Gurholt/Stange       def.     Loudili/Ifidzhen     62
+     32 (3) Afanasyeva/Moulin    def.     Nurgazieva/Saez      60
+     32     Danailova/Richtrova  def.     Alhach/van Meeteren  63
+     32     Hsieh/Nagato         def. (8) Gillar/Clairotte     62
+     32     Heiberg/Buendia      def.     Joliff/Hincu         61
+     32 (2) Kiefer/ODell         def.     Pinto/Cartledge      61
+     64     Dunbar/Cohen         def.     Hederich/Barton      61
 ~~~
 
 <a name="21-17427"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
   ITA Division I Women's Northeasts Regional Championship
   Dates: Oct 1-3, 2021
   Host: U.S. Military Academy (W)
-════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-     64     Bockman/Giambo        vs   Hofflander/Reddy     Fri @ 09:00
-     64     Kim/Kleynerman        vs   Lerby/Xu             Fri @ 09:00
-     64 (1) Edwards/Sanchez       vs   Yang/Casasampere Es… Fri @ 09:00
-     64     Irani/Mahajan         vs   Plumtree/Nowak       Fri @ 09:00
-     64     Sreeves/Villalba Ru…  vs   Hutchinson/Karman    Fri @ 09:00
-     64     Wright/Migliorini     vs   Okuyama/Farima       Fri @ 09:00
-     64     Dunleavy/Shrivistava  vs   Bradley/Koo          Fri @ 09:00
-     64     Viswanath/Boggiali    vs   Loredo/Chratian      Fri @ 09:00
-     64     Mulvey/Melendez       vs   Fischer/Arbitman     Fri @ 09:00
-     64     Strugnell/Brodsky     vs   de Lucas/Nielsen     Fri @ 09:00
-     64     Di Battista/Yaloz     vs   Cheng/Lou            Fri @ 09:00
-     64     Joshi/Medved          vs   Koscielski/Wilbur    Fri @ 09:00
-     64     Conklin/Wilcox        vs   Karamyshev/Petri-Be… Fri @ 09:00
-     64     Peus/Benedetto        vs   Hack/Jonglertakul    Fri @ 09:00
-     64     Ordonez/Breunich      vs   Jackson/Herremans    Fri @ 09:00
-     64     Hickey/Gomez Estrada  vs   Aude/Li              Fri @ 09:00
+     32     Hofflander/Reddy     def. (1) Dolehide/Vincent     84
+     32     Kim/Kleynerman       def. (9) Brown/Giralt         85
+     32     Munson/Rondini       def. (5) Bretkelly/Lin        87(4)
+     32     Irani/Mahajan        def. (9) Nella/Truden         85
+     32 (1) Lau/Lee              def.     Hutchinson/Karman    83
+     32     Okuyama/Farima       def. (9) Bou/McKenzie         86
+     32     Dunleavy/Shrivistava def. (5) Bouzgarrou/Haakanss… 84
+     32     Viswanath/Boggiali   def. (9) Boru/Kendall         84
+     32 (9) Yoo/Conard           def.     Fischer/Arbitman     87(5)
+     32     de Lucas/Nielsen     def. (5) Akimova/Napadiy      85
+     32 (9) Deminova/Fasoula     def.     Di Battista/Yaloz    86
+     32 (1) Bou/Hoppe            def.     Koscielski/Wilbur    86
+     32 (9) You/Lim              def.     Karamyshev/Petri-Be… 86
+     32     Hack/Jonglertakul    def. (5) Chratian/Rajan       82
+     32     Jackson/Herremans    def. (9) Hess/Okpara          87(4)
+     32 (1) Kerr/Rimondini       def.     Aude/Li              84
+     64     Hofflander/Reddy     def.     Bockman/Giambo       85
+     64     Kim/Kleynerman       def.     Lerby/Xu             85
+     64     Munson/Rondini       def.     Yang/Casasampere Es… 82
+     64     Irani/Mahajan        def.     Plumtree/Nowak       85
+     64     Hutchinson/Karman    def.     Sreeves/Villalba Ru… 83
+     64     Okuyama/Farima       def.     Wright/Migliorini    85
+     64     Dunleavy/Shrivistava def.     Bradley/Koo          80
+     64     Viswanath/Boggiali   def.     Loredo/Chratian      86
+     64     Fischer/Arbitman     def.     Mulvey/Melendez      81
+     64     de Lucas/Nielsen     def.     Strugnell/Brodsky    86
+     64     Di Battista/Yaloz    def.     Cheng/Lou            84
+     64     Koscielski/Wilbur    def.     Joshi/Medved         81
+     64     Karamyshev/Petri-Be… def.     Conklin/Wilcox       87(5)
+     64     Hack/Jonglertakul    def.     Peus/Benedetto       84
+     64     Jackson/Herremans    def.     Ordonez/Breunich     84
+     64     Aude/Li              def.     Hickey/Gomez Estrada 84
 ~~~
 
 <a name="21-07548"></a>
@@ -188,33 +236,59 @@
  Women's Open Doubles
  > Doubles Flight A
   > East
-     16 (1) Petruzelova/Sawhney   vs      Hecking/White        Fri @ 08:30
-     16     Vetter/Ellenberg      vs      Jorge/Lippert        Fri @ 08:30
-     16 (4) Widing/Khokhlova      vs      Fleming/Richter      Fri @ 08:30
-     16     Dzemchanka/Tarbujaru  vs      Puig Llompart/Picco… Fri @ 08:30
-     16     De La Torre/Mazzella  vs      Reisel/Wagemaker     Fri @ 08:30
-     16     Bulatovic/Mosse       vs  (3) Alvarez/Carney       Fri @ 08:30
-     16     Muzik/Taddia          vs      Courville/Hollyfield Fri @ 08:30
-     16     Chen/Black            vs  (2) Bakhodirova/Morales  Fri @ 08:30
+     QF (1) Petruzelova/Sawhney   vs      Jorge/Lippert        Sat @ 08:30
+     QF     Fleming/Richter       vs      Dzemchanka/Tarbujaru Sat @ 08:30
+     QF     Keranen/Wagemaker     vs  (3) Alvarez/Carney       Sat @ 08:30
+     QF     Courville/Hollyfield  vs  (2) Bakhodirova/Morales  Sat @ 08:30
+     16 (1) Petruzelova/Sawhney  def.     Hecking/White        63
+     16     Jorge/Lippert        def.     Vetter/Ellenberg     75
+     16     Fleming/Richter      def. (4) Widing/Khokhlova     64
+     16     Dzemchanka/Tarbujaru def.     Puig Llompart/Picco… 75
+     16     Keranen/Wagemaker    def.     De La Torre/Mazzella 63
+     16 (3) Alvarez/Carney       def.     Bulatovic/Mosse      61
+     16     Courville/Hollyfield def.     Muzik/Taddia         62
+     16 (2) Bakhodirova/Morales  def.     Chen/Black           63
+  > West
+     QF     Hecking/White         vs      Vetter/Ellenberg     Sat @ 08:30
+     QF (4) Widing/Khokhlova      vs      Puig Llompart/Picco… Sat @ 08:30
+     QF     De La Torre/Mazzella  vs      Bulatovic/Mosse      Sat @ 08:30
+     QF     Muzik/Taddia          vs      Chen/Black           Sat @ 08:30
  > Doubles Flight B
   > East
-     16 (1) Carvajal/Gorbunova    vs      Kim/Pinedo           Fri @ 08:30
-     16     Kukaras/Elizarraras   vs      Hogg/Becerra         Fri @ 08:30
-     16 (4) Clarke/White          vs      Acena/Velec          Fri @ 08:30
-     16     Yordanova/Rich        vs      Sukkanha/Yu          Fri @ 08:30
-     16     Kim/Charvatova        vs      Ibarra/Izco          Fri @ 08:30
-     16     Pavelekova/Tuomela    vs  (3) Labonte-Frey/Linnik… Fri @ 08:30
-     16     Morrison/Shing        vs      Espinosa/Villalobos  Fri @ 08:30
-     16     Frediani/Kumar        vs  (2) Brown/Dean           Fri @ 08:30
+     QF (1) Carvajal/Gorbunova    vs      Kukaras/Elizarraras  Sat @ 08:30
+     QF (4) Clarke/White          vs      Sukkanha/Yu          Sat @ 08:30
+     QF     Ibarra/Izco           vs      Pavelekova/Tuomela   Sat @ 08:30
+     QF     Morrison/Shing        vs  (2) Brown/Dean           Sat @ 08:30
+     16 (1) Carvajal/Gorbunova   def.     Kim/Pinedo           76(4)
+     16     Kukaras/Elizarraras  def.     Hogg/Becerra         61
+     16 (4) Clarke/White         def.     Acena/Velec          64
+     16     Sukkanha/Yu          def.     Yordanova/Rich       62
+     16     Ibarra/Izco          def.     Kim/Charvatova       64
+     16     Pavelekova/Tuomela   def. (3) Labonte-Frey/Linnik… 63
+     16     Morrison/Shing       def.     Espinosa/Villalobos  60
+     16 (2) Brown/Dean           def.     Frediani/Kumar       63
+  > West
+     QF     Kim/Pinedo            vs      Hogg/Becerra         Sat @ 08:30
+     QF     Acena/Velec           vs      Yordanova/Rich       Sat @ 08:30
+     QF     Kim/Charvatova        vs  (3) Labonte-Frey/Linnik… Sat @ 08:30
+     QF     Espinosa/Villalobos   vs      Frediani/Kumar       Sat @ 08:30
  > Doubles Flight C
   > East
-     16     Bryant/Klaren         vs      Lewis/Katzarkov      Fri @ 08:30
-     16 (4) Jones/Prato           vs      Gottiparthy/Cantrell Fri @ 08:30
-     16     Katsoudas/Chhabra     vs      Elliott/Ncube        Fri @ 08:30
-     16     Villanueva/Teterina   vs      Dufays/Thomet        Fri @ 09:00
-     16     Kaya/Syrova           vs  (3) Alfaro/Rivera        Fri @ 09:00
-     16     Popham/Varudandi      vs      Gallman/McKenzie     Fri @ 09:00
-     16     Duca/Bouchaala        vs  (2) Ferreira da Silva/M… Fri @ 09:00
+     QF (1) Wasserbauerova/Smith  vs      Lewis/Katzarkov      Sat @ 08:30
+     QF (4) Jones/Prato           vs      Elliott/Ncube        Sat @ 08:30
+     QF     Villanueva/Teterina   vs  (3) Alfaro/Rivera        Sat @ 08:30
+     QF     Popham/Varudandi      vs  (2) Ferreira da Silva/M… Sat @ 08:30
+     16     Lewis/Katzarkov      def.     Bryant/Klaren        61
+     16 (4) Jones/Prato          def.     Gottiparthy/Cantrell 75
+     16     Elliott/Ncube        def.     Katsoudas/Chhabra    61
+     16     Villanueva/Teterina  def.     Dufays/Thomet        62
+     16 (3) Alfaro/Rivera        def.     Kaya/Syrova          60
+     16     Popham/Varudandi     def.     Gallman/McKenzie     63
+     16 (2) Ferreira da Silva/M… def.     Duca/Bouchaala       64
+  > West
+     QF     Gottiparthy/Cantrell  vs      Katsoudas/Chhabra    Sat @ 09:00
+     QF     Dufays/Thomet         vs      Kaya/Syrova          Sat @ 09:00
+     QF     Gallman/McKenzie      vs      Duca/Bouchaala       Sat @ 09:00
 ~~~
 
 Return to the [Top](./women_doubles_2139.md) &#124; [Home Page](../../index.md)

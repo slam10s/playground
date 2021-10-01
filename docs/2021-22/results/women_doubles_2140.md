@@ -22,22 +22,33 @@
  Women's Open Doubles
  > Draw
   > Main
-     32 (1) OGorman/Chekhlystova  vs      Lawson/Pospischill Fri @ 09:00
-     32     Etienne/Jankovic      vs      Honrubia/Svendsen  Fri @ 09:00
-     32     Weinberg/Hirsch       vs      Bendetti/Coburn    Fri @ 09:00
-     32 (3) Tannenbaum/Taggart    vs      Nannery/Crowell    Fri @ 09:00
-     32 (6) Marinkovikj/Wiesmann  vs      Barney/Mathur      Fri @ 09:00
-     32     La/Yang               vs      Mitchell/Rose      Fri @ 09:00
-     32     Hashiguchi/Wirt       vs      Axelsson/Rothfeld  Fri @ 09:00
-     32     Utrilla Benito/Pessy  vs      Butcher/Grayson    Fri @ 09:00
-     32     Elliott/Weiss         vs  (4) Lebedeva/Zuffova   Fri @ 09:00
-     32     Alamo/Lasorda         vs      Amato/Amato        Fri @ 09:00
-     32     Smith/Moysiadi        vs  (5) Askarova/Montana   Fri @ 09:00
-     32     Assenmacher/Haliou    vs      Georgieva/Turner   Fri @ 09:00
-     32     Latoni/Shanahan       vs  (2) Nielsen/Friedland  Fri @ 09:00
-     64     Pegram/Ifederu        vs      Placidi/Jones      Fri @ 09:00
-     64     Cardoso/Torrente      vs      Liang/Policare     Fri @ 09:00
-     64     Kirk/Nava             vs      Ho/Mikos           Fri @ 09:00
+     16 (1) OGorman/Chekhlystova  vs      Honrubia/Svendsen  Sat @ 09:00
+     16 (8) Corpuz/Komarraju      vs      Bendetti/Coburn    Sat @ 09:00
+     16 (3) Tannenbaum/Taggart    vs      Ashton/Willy       Sat @ 09:00
+     16 (6) Marinkovikj/Wiesmann  vs      Mitchell/Rose      Sat @ 09:00
+     16     Hashiguchi/Wirt       vs      Ho/Mikos           Sat @ 09:00
+     16     Utrilla Benito/Pessy  vs  (4) Lebedeva/Zuffova   Sat @ 09:45
+     16     Alamo/Lasorda         vs  (5) Askarova/Montana   Sat @ 09:00
+     16     Assenmacher/Haliou    vs  (2) Nielsen/Friedland  Sat @ 09:45
+     32 (1) OGorman/Chekhlystova def.     Lawson/Pospischill 61
+     32     Honrubia/Svendsen    def.     Etienne/Jankovic   60
+     32 (8) Corpuz/Komarraju     def.     Pegram/Ifederu     60
+     32     Bendetti/Coburn      def.     Weinberg/Hirsch    60
+     32 (3) Tannenbaum/Taggart   def.     Nannery/Crowell    63
+     32     Ashton/Willy         def.     Cardoso/Torrente   75
+     32 (6) Marinkovikj/Wiesmann def.     Barney/Mathur      62
+     32     Mitchell/Rose        def.     La/Yang            75
+     32     Hashiguchi/Wirt      def.     Axelsson/Rothfeld  61
+     32     Ho/Mikos             def. (7) Johns/Moore        75
+     32     Utrilla Benito/Pessy def.     Butcher/Grayson    63
+     32 (4) Lebedeva/Zuffova     def.     Elliott/Weiss      64
+     32     Alamo/Lasorda        def.     Amato/Amato        63
+     32 (5) Askarova/Montana     def.     Smith/Moysiadi     63
+     32     Assenmacher/Haliou   def.     Georgieva/Turner   Walkover
+     32 (2) Nielsen/Friedland    def.     Latoni/Shanahan    61
+     64     Pegram/Ifederu       def.     Placidi/Jones      64
+     64     Cardoso/Torrente     def.     Liang/Policare     61
+     64     Ho/Mikos             def.     Kirk/Nava          61
 ~~~
 
 <a name="21-54831"></a>
@@ -50,22 +61,30 @@
  Women's Open Doubles
  > Main Draw
   > Main
-     32 (1) Bossi/Chang           vs      Nikolopoulou/Nord    Fri @ 08:30
-     32 (6) Barad Itzaki/Aksu     vs      McGrane/Hurrion      Fri @ 08:30
-     32     Fernald/Manolescu     vs      Karlova/Draskovic    Fri @ 08:30
-     32 (4) Parra Romero/Ode Mi…  vs      Campodonico/Salemyr  Fri @ 08:30
-     32     Husted/Radulova       vs      Fukutoku/Cricchio    Fri @ 08:30
-     32 (5) Davidescu/Manjanna    vs      Vanderheyden/Ballow  Fri @ 08:30
-     32     Moulin/Voloh          vs      Brandow/Falk         Fri @ 08:30
-     32     Saraty/Nguyen         vs      Stefancic/Van Hanse… Fri @ 08:30
-     32     Kovick/Kucharova      vs  (7) Clark/Andreini       Fri @ 08:30
-     32     Loudili/Ifidzhen      vs      Gurholt/Stange       Fri @ 08:30
-     32     Nurgazieva/Saez       vs  (3) Afanasyeva/Moulin    Fri @ 08:30
-     32     Danailova/Richtrova   vs      Alhach/van Meeteren  Fri @ 08:30
-     32     Hsieh/Nagato          vs  (8) Gillar/Clairotte     Fri @ 08:30
-     32     Heiberg/Buendia       vs      Joliff/Hincu         Fri @ 08:30
-     32     Pinto/Cartledge       vs  (2) Kiefer/ODell         Fri @ 08:30
-     64     Hederich/Barton       vs      Dunbar/Cohen         
+     16 (6) Barad Itzaki/Aksu     vs      Fernald/Manolescu    Sat @ 08:30
+     16 (4) Parra Romero/Ode Mi…  vs      Fukutoku/Cricchio    Sat @ 08:30
+     16 (5) Davidescu/Manjanna    vs      Moulin/Voloh         Sat @ 08:30
+     16     Saraty/Nguyen         vs  (7) Clark/Andreini       Sat @ 08:30
+     16     Gurholt/Stange        vs  (3) Afanasyeva/Moulin    Sat @ 08:30
+     16     Danailova/Richtrova   vs      Hsieh/Nagato         Sat @ 08:30
+     16     Heiberg/Buendia       vs  (2) Kiefer/ODell         Sat @ 08:30
+     32 (1) Bossi/Chang          def.     Nikolopoulou/Nord    62
+     32     Cheng/Som             vs      Dunbar/Cohen         Fri @ 15:00
+     32 (6) Barad Itzaki/Aksu    def.     McGrane/Hurrion      64
+     32     Fernald/Manolescu    def.     Karlova/Draskovic    76(5)
+     32 (4) Parra Romero/Ode Mi… def.     Campodonico/Salemyr  75
+     32     Fukutoku/Cricchio    def.     Husted/Radulova      62
+     32 (5) Davidescu/Manjanna   def.     Vanderheyden/Ballow  64
+     32     Moulin/Voloh         def.     Brandow/Falk         64
+     32     Saraty/Nguyen        def.     Stefancic/Van Hanse… 76(8)
+     32 (7) Clark/Andreini       def.     Kovick/Kucharova     76(5)
+     32     Gurholt/Stange       def.     Loudili/Ifidzhen     62
+     32 (3) Afanasyeva/Moulin    def.     Nurgazieva/Saez      60
+     32     Danailova/Richtrova  def.     Alhach/van Meeteren  63
+     32     Hsieh/Nagato         def. (8) Gillar/Clairotte     62
+     32     Heiberg/Buendia      def.     Joliff/Hincu         61
+     32 (2) Kiefer/ODell         def.     Pinto/Cartledge      61
+     64     Dunbar/Cohen         def.     Hederich/Barton      61
 ~~~
 
 Return to the [Top](./women_doubles_2140.md) &#124; [Home Page](../../index.md)

@@ -220,59 +220,114 @@
  Men's Open Singles
  > Singles Flight A1
   > East
-     16 (1) Carles Sarrio         vs      Guido Luna           Fri @ 09:30
-     16     LUCAS WAYENBURG       vs      Karol Malirz         Fri @ 09:30
-     16 (4) Roberts Grinvalds     vs      Vanja Dobrnjac       Fri @ 09:30
-     16     Pol Del Castillo      vs      Mark Tryakshin       Fri @ 09:30
-     16     Ryan Gaskin           vs      Hayden Shoemake      Fri @ 09:30
-     16     Ruan Du Preez         vs  (3) Kevin Huempfner      Fri @ 09:30
-     16     Kevin Patel           vs      Nino Portugal        Fri @ 09:30
-     16     Javier Llinares       vs  (2) Gaston Cantero       Fri @ 09:30
+     SF (1) Carles Sarrio         vs  (4) Roberts Grinvalds    Sat @ 11:00
+     QF (1) Carles Sarrio        def.     Karol Malirz         62 63
+     QF (4) Roberts Grinvalds    def.     Mark Tryakshin       60 61
+     QF (3) Kevin Huempfner      def.     Ryan Gaskin          62 64
+     QF     Kevin Patel           vs  (2) Gaston Cantero       Fri @ 13:30
+     16 (1) Carles Sarrio        def.     Guido Luna           61 64
+     16     Karol Malirz         def.     LUCAS WAYENBURG      26 64 61
+     16 (4) Roberts Grinvalds    def.     Vanja Dobrnjac       64 64
+     16     Mark Tryakshin       def.     Pol Del Castillo     57 64 64
+     16     Ryan Gaskin          def.     Hayden Shoemake      63 63
+     16 (3) Kevin Huempfner      def.     Ruan Du Preez        64 64
+     16     Kevin Patel          def.     Nino Portugal        60 63
+     16 (2) Gaston Cantero       def.     Javier Llinares      63 62
+  > West
+     SF     LUCAS WAYENBURG       vs      Pol Del Castillo     Sat @ 11:00
+     SF     Hayden Shoemake       vs      Javier Llinares      Sat @ 11:00
+     QF     LUCAS WAYENBURG      def.     Guido Luna           61 63
+     QF     Pol Del Castillo     def.     Vanja Dobrnjac       61 60
+     QF     Hayden Shoemake      def.     Ruan Du Preez        64 61
+     QF     Javier Llinares      def.     Nino Portugal        62 64
+  > North
+     SF     Karol Malirz          vs      Mark Tryakshin       Sat @ 11:00
+  > South
+     SF     Guido Luna            vs      Vanja Dobrnjac       Sat @ 11:00
+     SF     Ruan Du Preez         vs      Nino Portugal        Sat @ 11:00
  > Singles Flight A2
   > East
-     16 (1) Mihai Marinescu       vs      Cheng En Tsai        Fri @ 09:30
-     16     Seru Tezuka           vs      Alexandre Verlaguet  Fri @ 09:30
-     16 (3) Nicolas Jadoun        vs      Thomas Norwood       Fri @ 09:30
-     16     Gabriel Cizek         vs      Chris Andre          Fri @ 09:30
-     16     David Mulas           vs  (4) Andrei Duarte        Fri @ 09:30
-     16     Joaquin Benoit        vs      DAVID GEORGADZE      Fri @ 09:30
-     16     Alexandros Roumpis    vs  (2) Vicente Arbelaez Pr… Fri @ 09:30
+     QF (1) Mihai Marinescu       vs      Seru Tezuka          Fri @ 13:30
+     QF (3) Nicolas Jadoun        vs      Manuel Bernard       Fri @ 13:30
+     QF     Chris Andre           vs  (4) Andrei Duarte        Fri @ 13:30
+     QF     Joaquin Benoit        vs  (2) Vicente Arbelaez Pr… Fri @ 13:30
+     16 (1) Mihai Marinescu      def.     Cheng En Tsai        64 61
+     16     Seru Tezuka          def.     Alexandre Verlaguet  46 60 64
+     16 (3) Nicolas Jadoun       def.     Thomas Norwood       57 60 62
+     16     Chris Andre          def.     Gabriel Cizek        76(2) 62
+     16 (4) Andrei Duarte        def.     David Mulas          61 62
+     16     Joaquin Benoit       def.     DAVID GEORGADZE      63 75
+     16 (2) Vicente Arbelaez Pr… def.     Alexandros Roumpis   57 75 64
+  > West
+     QF     Cheng En Tsai         vs      Alexandre Verlaguet  Fri @ 14:00
+     QF     Gabriel Cizek         vs      David Mulas          Fri @ 14:00
+     QF     DAVID GEORGADZE       vs      Alexandros Roumpis   Fri @ 14:00
  > Singles Flight B1
   > East
-     16 (1) Finn Stodder          vs      Zvonko Bencrdic      Fri @ 11:00
-     16     DANNY FLYNN           vs      Matthew Gedney       Fri @ 09:30
-     16 (4) Noah Martens          vs      Zach Waldow          Fri @ 09:30
-     16     Hunter Robbins        vs      Gavin Thomas         Fri @ 09:30
-     16     Sebastian Murillo     vs      Diego Padilha        Fri @ 09:30
-     16     Gabriel Diaz          vs  (3) Hugo Salmeron        Fri @ 11:00
-     16     Jordi Blanchar        vs      David Jeanne-Grandi… Fri @ 11:00
-     16     Thibault Jacq         vs  (2) Valentin Dun         Fri @ 11:00
+     QF (1) Finn Stodder          vs      DANNY FLYNN          Fri @ 14:30
+     QF (4) Noah Martens          vs      Hunter Robbins       Fri @ 14:30
+     QF     Diego Padilha         vs  (3) Hugo Salmeron        Fri @ 14:30
+     QF     David Jeanne-Grandi…  vs  (2) Valentin Dun         Fri @ 14:30
+     16 (1) Finn Stodder         def.     Zvonko Bencrdic      61 64
+     16     DANNY FLYNN          def.     Matthew Gedney       60 60
+     16 (4) Noah Martens         def.     Zach Waldow          64 63
+     16     Hunter Robbins       def.     Gavin Thomas         64 62
+     16     Diego Padilha        def.     Sebastian Murillo    64 67(7) 63
+     16 (3) Hugo Salmeron        def.     Gabriel Diaz         62 61
+     16     David Jeanne-Grandi… def.     Jordi Blanchar       62 75
+     16 (2) Valentin Dun         def.     Thibault Jacq        60 61
+  > West
+     QF     Zvonko Bencrdic       vs      Matthew Gedney       Fri @ 15:00
+     QF     Zach Waldow           vs      Gavin Thomas         Fri @ 15:00
+     QF     Sebastian Murillo     vs      Gabriel Diaz         Fri @ 15:00
+     QF     Jordi Blanchar        vs      Thibault Jacq        Fri @ 15:00
  > Singles Flight B2
   > East
-     16 (1) Edward Tymes          vs      Santiago Speranza    Fri @ 11:30
-     16     Giulio Sassi          vs      Daisuke Inagawa      Fri @ 11:30
-     16 (4) Samrakshyak Bajrach…  vs      Alex Amacher         Fri @ 11:30
-     16     SAMUEL MACLEOD        vs      Francisco Erramuspe  Fri @ 11:30
-     16     SAMUEL BARROW         vs      Daniel Botti         Fri @ 11:30
-     16     Alex Suk              vs  (3) Maxime Hillhouse     Fri @ 11:30
-     16     Juan Rodriguez        vs      Jesus Villamizar     Fri @ 11:30
-     16     Luke Stuart           vs  (2) Alexander Vishnevsk… Fri @ 11:30
+     QF (1) Edward Tymes          vs      Giulio Sassi         Fri @ 15:30
+     QF (4) Samrakshyak Bajrach…  vs      Francisco Erramuspe  Fri @ 15:30
+     QF     Daniel Botti          vs  (3) Maxime Hillhouse     Fri @ 15:30
+     QF     Juan Rodriguez        vs  (2) Alexander Vishnevsk… Fri @ 15:30
+     16 (1) Edward Tymes         def.     Santiago Speranza    61 61
+     16     Giulio Sassi         def.     Daisuke Inagawa      61 62
+     16 (4) Samrakshyak Bajrach… def.     Alex Amacher         75 75
+     16     Francisco Erramuspe  def.     SAMUEL MACLEOD       63 30 Ret.
+     16     Daniel Botti         def.     SAMUEL BARROW        46 63 76(3)
+     16 (3) Maxime Hillhouse     def.     Alex Suk             63 63
+     16     Juan Rodriguez       def.     Jesus Villamizar     64 57 61
+     16 (2) Alexander Vishnevsk… def.     Luke Stuart          64 75
+  > West
+     QF     Santiago Speranza     vs      Daisuke Inagawa      Fri @ 15:30
+     QF     Alex Amacher          vs      SAMUEL MACLEOD       Fri @ 15:30
+     QF     SAMUEL BARROW         vs      Alex Suk             Fri @ 15:30
+     QF     Jesus Villamizar      vs      Luke Stuart          Fri @ 15:30
  > Singles Flight C1
   > East
+     QF     Kristofer Johnson     vs      Liam Stoica          Fri @ 15:30
+     QF (3) Cole Brainard         vs      Ignacio Orgaz        Fri @ 15:30
+     QF     Takafumi Mimata       vs      Matis Amier          Fri @ 15:30
+     QF     Nicolas Rodriguez     vs      Daniel Osap          Fri @ 15:30
      16     Kristofer Johnson    def. (1) Patrick Lazo         Walkover
-     16     Liam Stoica           vs      Trey Maust           Fri @ 11:30
-     16 (3) Cole Brainard         vs      DANIEL KRASHIN       Fri @ 11:30
-     16     Ignacio Orgaz         vs      Thomas Brewer        Fri @ 11:30
-     16     Takafumi Mimata       vs      Jorge Robinson       Fri @ 11:30
+     16     Liam Stoica          def.     Trey Maust           61 62
+     16 (3) Cole Brainard        def.     DANIEL KRASHIN       64 61
+     16     Ignacio Orgaz        def.     Thomas Brewer        16 62 63
+     16     Takafumi Mimata      def.     Jorge Robinson       46 75 60
      16     Matis Amier          def. (4) Jack Lee             Walkover
-     16     Nicolas Rodriguez     vs      David Lopez Cruz     Fri @ 11:30
-     16     Daniel Osap           vs  (2) Haktan Garayev       Fri @ 11:30
+     16     Nicolas Rodriguez    def.     David Lopez Cruz     61 61
+     16     Daniel Osap          def. (2) Haktan Garayev       64 60
+  > West
+     QF     Trey Maust           def. (1) Patrick Lazo         Walkover
+     QF     DANIEL KRASHIN        vs      Thomas Brewer        Fri @ 16:00
+     QF     Jorge Robinson       def. (4) Jack Lee             Walkover
+     QF     David Lopez Cruz      vs  (2) Haktan Garayev       Fri @ 16:00
  > Singles Flight C2
   > East
-     QF     Harrison Kim          vs      Brody Millwood       Fri @ 12:30
-     16     Eloy Veloso           vs      Dakotah Fuller       Fri @ 12:30
-     16     Jonathan Judy-Hansen  vs      Khalen Wimes         Fri @ 12:30
-     16     Eddie Wade            vs      Erick Cruz           Fri @ 12:30
+     QF (1) Connor Evenson        vs      Eloy Veloso          Fri @ 16:30
+     QF     Harrison Kim         def.     Brody Millwood       61 61
+     QF     Jonathan Judy-Hansen  vs      Rodrigo Zapata       Fri @ 16:30
+     QF     Erick Cruz            vs  (2) Sebastian Nunez      Fri @ 16:30
+     16     Eloy Veloso          def.     Dakotah Fuller       75 64
+     16     Jonathan Judy-Hansen def.     Khalen Wimes         60 60
+     16     Erick Cruz           def.     Eddie Wade           76(6) 16 62
 ~~~
 
 Return to the [Top](./men_singles_2139.md) &#124; [Home Page](../../index.md)
