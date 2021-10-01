@@ -2,18 +2,18 @@
 
 **Tournamets with Matches**  
 - 9/23/2021 - [ITA Division I Men's Ohio Valley Regional Championship](#21-20374) ([Results](#21-20374) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">Draws</a>)  
+- 10/1/2021 - [mercer gridiron classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 
-**Upcoming Tournaments**  
+**Tournaments without Matches**  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Idaho State Bengal Invitational</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">mercer gridiron classic</a>  
 
 <a name="21-20374"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Ohio Valley Regional Championship
   Dates: Sep 23-27, 2021
   Host: Univ. Of Tennessee, Knoxville (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
@@ -104,6 +104,42 @@
      32Q (9) Mitsui/Diaz         def.     Hiryur/Mavrodiev    83
      32Q     Orlando/Wojtalik    def.     Andersson/Nolasco   86
      32Q     Dudek/Sachdev       def.     Ball/Berry          86
+~~~
+
+<a name="21-07548"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  mercer gridiron classic
+  Dates: Oct 1-3, 2021
+  Host: Mercer University (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles Flight A
+  > East
+     16 (1) Duarte/Grinvalds      vs      Bajracharya/Du Preez Fri @ 08:30
+     16     Benoit/Waldow         vs      Hillhouse/Martens    Fri @ 08:30
+     16 (3) Sarrio/Robbins        vs      WAYENBURG/GEORGADZE  Fri @ 08:30
+     16     Lopez Cruz/Tryakshin  vs      Shoemake/Bencrdic    Fri @ 08:30
+     16     Cizek/Malirz          vs      Del Castillo/Roumpis Fri @ 08:30
+     16     Luna/Verlaguet        vs  (4) Patel/Tezuka         Fri @ 08:30
+     16     Portugal/Judy-Hansen  vs      Norwood/Blanchar     Fri @ 08:30
+     16     Cantero/Tsai          vs  (2) Huempfner/Stodder    Fri @ 08:30
+ > Doubles Flight B
+  > East
+     16     Brainard/Gaskin      def. (1) Marinescu/Maughan    Walkover
+     16     Gedney/Stuart         vs      Brewer/Nunez         Fri @ 08:30
+     16 (3) Botti/Salmeron        vs      Suk/Dun              Fri @ 08:30
+     16     Vishnevskiy/Garayev   vs      Jeanne-Grandinot/Jo… Fri @ 08:30
+     16     Maust/Thomas          vs      Mulas/Jacq           Fri @ 08:30
+     16     Bernard/Llinares      vs  (4) Jadoun/Diaz          Fri @ 08:30
+     16     BARROW/FLYNN          vs      Murillo/Osap         Fri @ 08:30
+     16     Dobrnjac/Inagawa      vs  (2) Lazo/Padilha         Fri @ 08:30
+ > Doubles Flight C
+  > East
+     16     Amier/Amacher         vs      Wade/Zapata          Fri @ 08:30
+     16     Cruz/Millwood         vs      Evenson/Sassi        Fri @ 08:30
+     16     Kim/Tymes             vs      Stoica/Veloso        Fri @ 08:30
+     16     Fuller/Speranza       vs      Robinson/Villamizar  Fri @ 08:30
 ~~~
 
 Return to the [Top](./men_doubles_2139.md) &#124; [Home Page](../../index.md)

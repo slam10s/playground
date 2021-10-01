@@ -2,10 +2,10 @@
 
 **Tournamets with Matches**  
 - 9/23/2021 - [ITA Division I Men's Ohio Valley Regional Championship](#21-20374) ([Results](#21-20374) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">Draws</a>)  
+- 10/1/2021 - [mercer gridiron classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 
-**Upcoming Tournaments**  
+**Tournaments without Matches**  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Idaho State Bengal Invitational</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">mercer gridiron classic</a>  
 
 <a name="21-20374"></a>
 ~~~
@@ -208,6 +208,71 @@
      64Q      Alex Jochim          def.      Michael Karr         64 67(6) [7]
      64Q (16) Carson Haskins       def.      Gonzalo Garcia-Nieto 63 61
      64Q      Petar Petrovic       def.  (2) Martim Prata         Walkover
+~~~
+
+<a name="21-07548"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  mercer gridiron classic
+  Dates: Oct 1-3, 2021
+  Host: Mercer University (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Singles Flight A1
+  > East
+     16 (1) Carles Sarrio         vs      Guido Luna           Fri @ 09:30
+     16     LUCAS WAYENBURG       vs      Karol Malirz         Fri @ 09:30
+     16 (4) Roberts Grinvalds     vs      Vanja Dobrnjac       Fri @ 09:30
+     16     Pol Del Castillo      vs      Mark Tryakshin       Fri @ 09:30
+     16     Ryan Gaskin           vs      Hayden Shoemake      Fri @ 09:30
+     16     Ruan Du Preez         vs  (3) Kevin Huempfner      Fri @ 09:30
+     16     Kevin Patel           vs      Nino Portugal        Fri @ 09:30
+     16     Javier Llinares       vs  (2) Gaston Cantero       Fri @ 09:30
+ > Singles Flight A2
+  > East
+     16 (1) Mihai Marinescu       vs      Cheng En Tsai        Fri @ 09:30
+     16     Seru Tezuka           vs      Alexandre Verlaguet  Fri @ 09:30
+     16 (3) Nicolas Jadoun        vs      Thomas Norwood       Fri @ 09:30
+     16     Gabriel Cizek         vs      Chris Andre          Fri @ 09:30
+     16     David Mulas           vs  (4) Andrei Duarte        Fri @ 09:30
+     16     Joaquin Benoit        vs      DAVID GEORGADZE      Fri @ 09:30
+     16     Alexandros Roumpis    vs  (2) Vicente Arbelaez Pr… Fri @ 09:30
+ > Singles Flight B1
+  > East
+     16 (1) Finn Stodder          vs      Zvonko Bencrdic      Fri @ 11:00
+     16     DANNY FLYNN           vs      Matthew Gedney       Fri @ 09:30
+     16 (4) Noah Martens          vs      Zach Waldow          Fri @ 09:30
+     16     Hunter Robbins        vs      Gavin Thomas         Fri @ 09:30
+     16     Sebastian Murillo     vs      Diego Padilha        Fri @ 09:30
+     16     Gabriel Diaz          vs  (3) Hugo Salmeron        Fri @ 11:00
+     16     Jordi Blanchar        vs      David Jeanne-Grandi… Fri @ 11:00
+     16     Thibault Jacq         vs  (2) Valentin Dun         Fri @ 11:00
+ > Singles Flight B2
+  > East
+     16 (1) Edward Tymes          vs      Santiago Speranza    Fri @ 11:30
+     16     Giulio Sassi          vs      Daisuke Inagawa      Fri @ 11:30
+     16 (4) Samrakshyak Bajrach…  vs      Alex Amacher         Fri @ 11:30
+     16     SAMUEL MACLEOD        vs      Francisco Erramuspe  Fri @ 11:30
+     16     SAMUEL BARROW         vs      Daniel Botti         Fri @ 11:30
+     16     Alex Suk              vs  (3) Maxime Hillhouse     Fri @ 11:30
+     16     Juan Rodriguez        vs      Jesus Villamizar     Fri @ 11:30
+     16     Luke Stuart           vs  (2) Alexander Vishnevsk… Fri @ 11:30
+ > Singles Flight C1
+  > East
+     16     Kristofer Johnson    def. (1) Patrick Lazo         Walkover
+     16     Liam Stoica           vs      Trey Maust           Fri @ 11:30
+     16 (3) Cole Brainard         vs      DANIEL KRASHIN       Fri @ 11:30
+     16     Ignacio Orgaz         vs      Thomas Brewer        Fri @ 11:30
+     16     Takafumi Mimata       vs      Jorge Robinson       Fri @ 11:30
+     16     Matis Amier          def. (4) Jack Lee             Walkover
+     16     Nicolas Rodriguez     vs      David Lopez Cruz     Fri @ 11:30
+     16     Daniel Osap           vs  (2) Haktan Garayev       Fri @ 11:30
+ > Singles Flight C2
+  > East
+     QF     Harrison Kim          vs      Brody Millwood       Fri @ 12:30
+     16     Eloy Veloso           vs      Dakotah Fuller       Fri @ 12:30
+     16     Jonathan Judy-Hansen  vs      Khalen Wimes         Fri @ 12:30
+     16     Eddie Wade            vs      Erick Cruz           Fri @ 12:30
 ~~~
 
 Return to the [Top](./men_singles_2139.md) &#124; [Home Page](../../index.md)
