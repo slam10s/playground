@@ -2,10 +2,8 @@
 
 **Tournamets with Matches**  
 - 9/23/2021 - [ITA Division I Men's Ohio Valley Regional Championship](#21-20374) ([Results](#21-20374) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">Draws</a>)  
+- 10/1/2021 - [Idaho State Bengal Invitational](#21-23711) ([Results](#21-23711) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Idaho State Bengal Invitational</a>  
 
 <a name="21-20374"></a>
 ~~~
@@ -106,6 +104,29 @@
      32Q     Dudek/Sachdev       def.     Ball/Berry          86
 ~~~
 
+<a name="21-23711"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Idaho State Bengal Invitational
+  Dates: Oct 1-3, 2021
+  Host: Idaho State University (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles
+  > East
+     QF  Kristensen/Trhac   vs   Andrus/Lin         Sat @ 10:00
+     QF  Kramer/Cankus      vs   Sciglitano/Baldwin Sat @ 10:00
+     QF  Fujita/Petrovic    vs   Gavelin/Ta         Sat @ 10:00
+     QF  Hallgren/Benn      vs   Fuchs/Leite        Sat @ 10:00
+     16  Andrus/Lin        def.  Blando/Blando      63
+     16  Kramer/Cankus     def.  Zelver/Watkins     61
+     16  Gavelin/Ta        def.  Buckland/Monteiro  63
+     16  Hallgren/Benn     def.  Robbertse/Matuszak 63
+  > West
+     SF  Blando/Blando      vs   Zelver/Watkins     Sat @ 10:45
+     SF  Buckland/Monteiro  vs   Robbertse/Matuszak Sat @ 10:45
+~~~
+
 <a name="21-07548"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════════
@@ -119,6 +140,7 @@
      QF (1) Duarte/Grinvalds      vs      Hillhouse/Martens    Sat @ 08:30
      QF (3) Sarrio/Robbins        vs      Lopez Cruz/Tryakshin Sat @ 08:30
      QF     Cizek/Malirz          vs  (4) Patel/Tezuka         Sat @ 08:30
+     QF     Norwood/Blanchar      vs  (2) Huempfner/Stodder    Sat @ 08:30
      16 (1) Duarte/Grinvalds     def.     Bajracharya/Du Preez 62
      16     Hillhouse/Martens    def.     Benoit/Waldow        62
      16 (3) Sarrio/Robbins       def.     WAYENBURG/GEORGADZE  63
@@ -126,11 +148,12 @@
      16     Cizek/Malirz         def.     Del Castillo/Roumpis 64
      16 (4) Patel/Tezuka         def.     Luna/Verlaguet       61
      16     Norwood/Blanchar     def.     Portugal/Judy-Hansen 62
-     16     Cantero/Tsai          vs  (2) Huempfner/Stodder    Fri @ 08:30
+     16 (2) Huempfner/Stodder    def.     Cantero/Tsai         64
   > West
      QF     Bajracharya/Du Preez  vs      Benoit/Waldow        Sat @ 08:30
      QF     WAYENBURG/GEORGADZE   vs      Shoemake/Bencrdic    Sat @ 08:30
      QF     Del Castillo/Roumpis  vs      Luna/Verlaguet       Sat @ 08:30
+     QF     Portugal/Judy-Hansen  vs      Cantero/Tsai         Sat @ 08:30
  > Doubles Flight B
   > East
      QF     Brainard/Gaskin       vs      Brewer/Nunez         Sat @ 08:30
@@ -146,7 +169,7 @@
      16     Murillo/Osap         def.     BARROW/FLYNN         75
      16     Dobrnjac/Inagawa     def. (2) Lazo/Padilha         76(5)
   > West
-     QF (1) Marinescu/Maughan     vs      Gedney/Stuart        Sat @ 08:30
+     QF     Gedney/Stuart        def. (1) Marinescu/Maughan    Walkover
      QF (3) Botti/Salmeron        vs      Jeanne-Grandinot/Jo… Sat @ 08:30
      QF     Mulas/Jacq            vs  (4) Jadoun/Diaz          Sat @ 08:30
      QF     BARROW/FLYNN          vs  (2) Lazo/Padilha         Sat @ 08:30
@@ -155,7 +178,7 @@
      QF (1) Erramuspe/Rodriguez   vs      Amier/Amacher        Sat @ 09:00
      QF (4) KRASHIN/MACLEOD       vs      Evenson/Sassi        Sat @ 09:00
      QF     Kim/Tymes             vs  (3) Andre/Rodriguez      Sat @ 09:00
-     QF     Robinson/Villamizar   vs  (2) Mimata/Lee           Sat @ 09:00
+     QF     Robinson/Villamizar  def. (2) Mimata/Lee           Walkover
      16     Amier/Amacher        def.     Wade/Zapata          61
      16     Evenson/Sassi        def.     Cruz/Millwood        60
      16     Kim/Tymes            def.     Stoica/Veloso        62

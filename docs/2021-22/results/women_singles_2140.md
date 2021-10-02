@@ -14,46 +14,98 @@
 
 <a name="21-03077"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
   ITA Division I Atlantic Women's Regional Championship
   Dates: Oct 1-4, 2021
   Host: U.S. Naval Academy (W)
-═════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Draw
   > Main
-      64 (14) Minorka Miranda       vs       Alexandra Vesikallio Fri @ 10:15
-      64      Karly Friedland       vs       Riya Mathur          Fri @ 10:15
-      64      Ana Utrilla Benito    vs       Sylvia Eklund        Fri @ 12:00
-      64      Agata Mikos           vs       Jordan Grayson       Fri @ 14:00
-      64  (5) Samantha Johns        vs       Stow Weiss           Fri @ 12:30
-      64      Viva Laas             vs       Katreina Corpuz      Fri @ 12:30
-      64      Shirley Liang         vs       Paige La             Fri @ 14:30
-      64      Morgan Coburn         vs       Sophia Amato         Fri @ 12:00
-      64      Sissi Axelsson        vs  (11) Jillian Taggart      Fri @ 13:30
-      64      Samantha Svendsen     vs       Olivia Rothfeld      Fri @ 13:30
-      64      Oluwayemisi Ifederu   vs   (8) McHaley Ho           Fri @ 13:30
-      64      Jessica Assenmacher   vs  (13) Kacey Moore          Fri @ 13:30
-      64      Christy Turner        vs  (12) Emily Tannenbaum     Fri @ 14:30
-      64      Grace Hashiguchi      vs       Sydney Weinberg      Fri @ 15:30
-     128      Themis Haliou         vs       Amber Policare       Fri @ 10:15
-     128      Ameilia Lawson        vs       Sifa Butcher         Fri @ 10:15
-     128      Olivia Ashton         vs       Megan Etienne        Fri @ 10:15
-     128      Savanna Crowell       vs       Margot Pessy         Fri @ 10:15
-     128      Ashley Fitz-Patrick   vs       Stella Ribaudo       Fri @ 12:00
-     128      Sarah Pospischill     vs       Lauren Splett        Fri @ 10:15
-     128      Stefania Moysiadi     vs       Emily Elliott        Fri @ 10:15
-     128      Adriana Barney        vs       Nolwenn Cardoso      Fri @ 12:00
-     128      Ireland Amato         vs       Parvathi Shanker     Fri @ 12:00
-     128      Francesca Feodorov    vs       Jackie Nannery       Fri @ 10:15
-     128      Katarina Marinkovikj  vs       Averiana Mitchell    Fri @ 12:00
-     128      Corinne Farid         vs       Hannah Yang          Fri @ 12:00
-     128      Danielle Alamo        vs       Vera Markovic        Fri @ 12:00
-     128      Ana Torrente          vs       Iva Jankovic         Fri @ 12:00
-     128      Daniela Latoni        vs       Casey Accola         Fri @ 12:00
-     128      Emily Wirt            vs       Meghana Komarraju    Fri @ 12:00
-     128      Ellen Shanahan        vs       Kate Lee             Fri @ 12:00
-     128      Nadia Pegram          vs       Fabiana Tort-Umpier… Fri @ 12:00
+      32  (1) Yvonna Zuffova        vs       Sifa Butcher         Sat @ 10:30
+      32 (14) Minorka Miranda       vs       Karly Friedland      Sat @ 10:30
+      32  (6) Jojo Bach             vs       Olivia Ryan          Sat @ 09:45
+      32      Stella Ribaudo        vs       Ana Utrilla Benito   Sat @ 11:00
+      32  (4) Stella Wiesmann       vs       Alina Lebedeva       Sat @ 11:00
+      32 (10) Selma Cadar           vs       Agata Mikos          Sat @ 11:00
+      32  (5) Samantha Johns        vs       Katreina Corpuz      Sat @ 11:00
+      32 (16) Avantika Willy        vs       Paige La             Sat @ 12:30
+      32      Morgan Coburn         vs  (11) Jillian Taggart      Sat @ 12:30
+      32      Samantha Svendsen     vs   (8) McHaley Ho           Sat @ 12:30
+      32 (13) Kacey Moore           vs       Francesca Feodorov   Sat @ 09:45
+      32      Katarina Marinkovikj  vs   (3) Aliza Askarova       Sat @ 14:00
+      32      Asmara Rose           vs  (12) Emily Tannenbaum     Sat @ 14:00
+      32      Ana Torrente          vs   (7) Alexandra Nielsen    Sat @ 14:00
+      32      Hannah Smith          vs   (9) Juleta Honrubia      Sat @ 14:00
+      32      Grace Hashiguchi      vs   (2) Mary Brumfield       Sat @ 14:00
+      64  (1) Yvonna Zuffova       def.      Themis Haliou        62 60
+      64      Sifa Butcher         def.      Isabella Montana     62 75
+      64 (14) Minorka Miranda      def.      Alexandra Vesikallio 64 60
+      64      Karly Friedland      def.      Riya Mathur          61 61
+      64  (6) Jojo Bach            def.      Olivia Ashton        31 Ret.
+      64      Olivia Ryan          def.      Margot Pessy         62 76(3)
+      64      Stella Ribaudo       def. (15) Amanda Nava          76(3) 36 76(6)
+      64      Ana Utrilla Benito   def.      Sylvia Eklund        26 64 76(2)
+      64  (4) Stella Wiesmann      def.      Lauren Splett        61 61
+      64      Alina Lebedeva       def.      Emily Elliott        76(3) 62
+      64 (10) Selma Cadar          def.      Nolwenn Cardoso      60 63
+      64      Agata Mikos          def.      Jordan Grayson       61 63
+      64  (5) Samantha Johns       def.      Stow Weiss           63 62
+      64      Katreina Corpuz      def.      Viva Laas            63 62
+      64 (16) Avantika Willy       def.      Parvathi Shanker     63 62
+      64      Paige La             def.      Shirley Liang        62 61
+      64      Morgan Coburn        def.      Sophia Amato         63 60
+      64 (11) Jillian Taggart      def.      Sissi Axelsson       63 60
+      64      Samantha Svendsen    def.      Olivia Rothfeld      75 61
+      64  (8) McHaley Ho           def.      Oluwayemisi Ifederu  63 61
+      64 (13) Kacey Moore          def.      Jessica Assenmacher  75 63
+      64      Francesca Feodorov   def.      Chloe Bendetti       60 63
+      64      Katarina Marinkovikj def.      Deanna Lasorda       64 36 61
+      64  (3) Aliza Askarova       def.      Corinne Farid        61 62
+      64      Asmara Rose          def.      Danielle Alamo       26 76(3) 64
+      64 (12) Emily Tannenbaum     def.      Christy Turner       62 63
+      64      Ana Torrente         def.      Gracey Hirsch        62 75
+      64  (7) Alexandra Nielsen    def.      Casey Accola         62 62
+      64      Hannah Smith         def.      Meghana Komarraju    75 61
+      64  (9) Juleta Honrubia      def.      Ellen Shanahan       75 62
+      64      Grace Hashiguchi     def.      Sydney Weinberg      64 63
+      64  (2) Mary Brumfield       def.      Nadia Pegram         61 75
+     128      Themis Haliou        def.      Amber Policare       63 64
+     128      Sifa Butcher         def.      Ameilia Lawson       60 61
+     128      Olivia Ashton        def.      Megan Etienne        60 64
+     128      Margot Pessy         def.      Savanna Crowell      36 63 62
+     128      Stella Ribaudo       def.      Ashley Fitz-Patrick  60 62
+     128      Lauren Splett        def.      Sarah Pospischill    64 06 64
+     128      Emily Elliott        def.      Stefania Moysiadi    61 61
+     128      Nolwenn Cardoso      def.      Adriana Barney       62 62
+     128      Parvathi Shanker     def.      Ireland Amato        63 61
+     128      Francesca Feodorov   def.      Jackie Nannery       62 61
+     128      Katarina Marinkovikj def.      Averiana Mitchell    60 63
+     128      Corinne Farid        def.      Hannah Yang          Walkover
+     128      Danielle Alamo       def.      Vera Markovic        16 75 40 Ret.
+     128      Ana Torrente         def.      Iva Jankovic         61 64
+     128      Casey Accola         def.      Daniela Latoni       75 61
+     128      Meghana Komarraju    def.      Emily Wirt           62 61
+     128      Ellen Shanahan       def.      Kate Lee             36 76(2) Ret.
+     128      Nadia Pegram         def.      Fabiana Tort-Umpier… 61 64
+  > Consolation
+      32      Alexandra Vesikallio  vs       Riya Mathur          Sat @ 10:30
+      32      Megan Etienne         vs       Savanna Crowell      Sat @ 10:30
+      32      Sarah Pospischill     vs       Stefania Moysiadi    Sat @ 10:30
+      32      Jordan Grayson        vs       Adriana Barney       Sat @ 10:30
+      32      Stow Weiss            vs       Viva Laas            Sat @ 10:30
+      32      Shirley Liang         vs       Ireland Amato        Sat @ 10:30
+      32      Sophia Amato          vs       Sissi Axelsson       Sat @ 12:00
+      32      Olivia Rothfeld       vs       Oluwayemisi Ifederu  Sat @ 12:00
+      32      Christy Turner        vs       Vera Markovic        Sat @ 12:00
+      32      Emily Wirt           def.      Kate Lee             Walkover
+      32      Sydney Weinberg       vs       Fabiana Tort-Umpier… Sat @ 12:00
+      64      Isabella Montana      vs       Ameilia Lawson       Sat @ 09:00
+      64 (15) Amanda Nava           vs       Ashley Fitz-Patrick  Sat @ 09:00
+      64      Chloe Bendetti        vs       Jackie Nannery       Sat @ 09:00
+      64      Deanna Lasorda        vs       Averiana Mitchell    Sat @ 09:00
+      64      Corinne Farid         vs       Hannah Yang          Sat @ 09:00
+      64      Gracey Hirsch         vs       Iva Jankovic         Sat @ 09:00
 ~~~
 
 <a name="21-54831"></a>

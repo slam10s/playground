@@ -71,14 +71,16 @@
 
 <a name="21-60580"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Florida Division 1 Bedford Cup, Women
   Dates: Oct 1-3, 2021
   Host: Univ. Of South Florida (W)
-═══════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight A
   > East
+     SF (1) Spee/Shelton          vs  (3) Sharma/Mattel        Sat @ 09:00
+     SF     Bekrar/Kabbaj         vs      Berry/Boy            Sat @ 09:00
      QF (1) Spee/Shelton         def.     Filip/Schieroni      63
      QF (3) Sharma/Mattel        def.     Bardet/ferding       62
      QF     Bekrar/Kabbaj        def. (4) De Oliveira/Dudeney  62
@@ -90,10 +92,19 @@
      16 (4) De Oliveira/Dudeney  def.     Davis/Yardley        61
      16     Berry/Boy            def.     Cohen/Dovgopolyi     62
   > West
+     SF     Umarova/Skrobonja     vs      Eland/Shumacher      Sat @ 09:00
+     SF     Kudelova/MGinnis      vs      Cohen/Dovgopolyi     Sat @ 09:00
      QF     Eland/Shumacher      def.     Hubeaut/Sandy        62
      QF     Kudelova/MGinnis     def.     Davis/Yardley        63
+  > North
+     SF     Filip/Schieroni       vs      Bardet/ferding       Sat @ 09:00
+     SF (4) De Oliveira/Dudeney   vs  (2) Leslie/Christians    Sat @ 09:00
+  > South
+      F     Hubeaut/Sandy         vs      Davis/Yardley        Sat @ 10:00
  > Flight B
   > East
+     SF     colmenares/retortil…  vs      Akbas/Morin-Kougoch… Sat @ 09:00
+     SF     norin/ossa            vs  (2) Miletic/Velcea       Sat @ 09:00
      QF     colmenares/retortil… def. (1) Long/Lodzki          64
      QF     Akbas/Morin-Kougoch… def.     Garriguez/Timmermans 63
      QF     norin/ossa           def.     Nash/Oliveira        63
@@ -104,7 +115,12 @@
      16     Nash/Oliveira        def.     Salinas/Sumaia       62
      16     Mjos/Yaylali         def.     Pasini/Rizk          61
   > West
+     SF     Matthews/Sommer       vs      Menten/Hammoud       Sat @ 09:00
+     SF     Kentish/Thomas        vs      Pasini/Rizk          Sat @ 09:00
      QF     Kentish/Thomas       def.     Salinas/Sumaia       60
+  > North
+     SF (1) Long/Lodzki           vs      Garriguez/Timmermans Sat @ 09:00
+     SF     Nash/Oliveira         vs      Mjos/Yaylali         Sat @ 10:00
 ~~~
 
 <a name="21-03077"></a>
@@ -156,6 +172,7 @@
  Women's Open Doubles
  > Main Draw
   > Main
+     16 (1) Bossi/Chang           vs      Cheng/Som            Sat @ 08:30
      16 (6) Barad Itzaki/Aksu     vs      Fernald/Manolescu    Sat @ 08:30
      16 (4) Parra Romero/Ode Mi…  vs      Fukutoku/Cricchio    Sat @ 08:30
      16 (5) Davidescu/Manjanna    vs      Moulin/Voloh         Sat @ 08:30
@@ -164,7 +181,7 @@
      16     Danailova/Richtrova   vs      Hsieh/Nagato         Sat @ 08:30
      16     Heiberg/Buendia       vs  (2) Kiefer/ODell         Sat @ 08:30
      32 (1) Bossi/Chang          def.     Nikolopoulou/Nord    62
-     32     Cheng/Som             vs      Dunbar/Cohen         Fri @ 15:00
+     32     Cheng/Som            def.     Dunbar/Cohen         76(4)
      32 (6) Barad Itzaki/Aksu    def.     McGrane/Hurrion      64
      32     Fernald/Manolescu    def.     Karlova/Draskovic    76(5)
      32 (4) Parra Romero/Ode Mi… def.     Campodonico/Salemyr  75

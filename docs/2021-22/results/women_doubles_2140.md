@@ -61,6 +61,7 @@
  Women's Open Doubles
  > Main Draw
   > Main
+     16 (1) Bossi/Chang           vs      Cheng/Som            Sat @ 08:30
      16 (6) Barad Itzaki/Aksu     vs      Fernald/Manolescu    Sat @ 08:30
      16 (4) Parra Romero/Ode Mi…  vs      Fukutoku/Cricchio    Sat @ 08:30
      16 (5) Davidescu/Manjanna    vs      Moulin/Voloh         Sat @ 08:30
@@ -69,7 +70,7 @@
      16     Danailova/Richtrova   vs      Hsieh/Nagato         Sat @ 08:30
      16     Heiberg/Buendia       vs  (2) Kiefer/ODell         Sat @ 08:30
      32 (1) Bossi/Chang          def.     Nikolopoulou/Nord    62
-     32     Cheng/Som             vs      Dunbar/Cohen         Fri @ 15:00
+     32     Cheng/Som            def.     Dunbar/Cohen         76(4)
      32 (6) Barad Itzaki/Aksu    def.     McGrane/Hurrion      64
      32     Fernald/Manolescu    def.     Karlova/Draskovic    76(5)
      32 (4) Parra Romero/Ode Mi… def.     Campodonico/Salemyr  75
