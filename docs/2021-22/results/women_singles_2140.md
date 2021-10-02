@@ -119,22 +119,30 @@
  Women's Open Singles
  > Main Draw
   > Main
-      32  (1) Alexandra Viktorovi…  vs       Alexandra Hincu      Sat @ 09:30
-      32 (15) Amber ODell           vs       Rita Pinto           Sat @ 09:30
-      32  (7) Kylie Moulin          vs       Shahar Biran         Sat @ 09:30
-      32  (9) Kendall Kovick        vs       Tiffany Nguyen       Sat @ 09:30
-      32  (3) Hibah Shaikh          vs       Charlotte Cartledge  Sat @ 09:30
-      32 (10) Camilla Bossi         vs       Malin Falk           Sat @ 09:30
-      32  (8) Maria Juliana Parra…  vs       Lisa Fukutoku        Sat @ 09:30
-      32 (14) Hope Moulin           vs       Emily Dunbar         Sat @ 09:30
-      32      Dariya Radulova       vs  (11) Momoko Nagato        Sat @ 09:30
-      32      Katie Andreini        vs   (5) Daniela Voloh        Sat @ 09:30
-      32      Amanda Nord           vs  (12) Michaela Kucharova   Sat @ 09:30
-      32      Hedda Gurholt         vs       Shivani Manjanna     Sat @ 09:30
-      32      Sofia Johnson         vs  (16) Semra Aksu           Sat @ 10:45
-      32      Kensie Cricchio       vs   (6) Elizabet Danailova   Sat @ 10:45
-      32      Ine Stange            vs  (13) Yelizaveta Karlova   Sat @ 10:45
-      32      Ting-Pei Chang        vs   (2) Alesya Yakubovich    Sat @ 10:45
+      16  (1) Alexandra Viktorovi…  vs       Rita Pinto           Sun @ 09:30
+      16  (7) Kylie Moulin          vs   (9) Kendall Kovick       Sun @ 09:30
+      16  (3) Hibah Shaikh          vs  (10) Camilla Bossi        Sun @ 09:30
+      16  (8) Maria Juliana Parra…  vs       Emily Dunbar         Sun @ 09:30
+      16 (11) Momoko Nagato         vs       Katie Andreini       Sun @ 09:30
+      16 (12) Michaela Kucharova    vs       Hedda Gurholt        Sun @ 09:30
+      16      Sofia Johnson         vs   (6) Elizabet Danailova   Sun @ 09:30
+      16 (13) Yelizaveta Karlova    vs   (2) Alesya Yakubovich    Sun @ 09:30
+      32  (1) Alexandra Viktorovi… def.      Alexandra Hincu      61 62
+      32      Rita Pinto           def. (15) Amber ODell          64 57 64
+      32  (7) Kylie Moulin         def.      Shahar Biran         64 63
+      32  (9) Kendall Kovick       def.      Tiffany Nguyen       46 63 64
+      32  (3) Hibah Shaikh         def.      Charlotte Cartledge  62 64
+      32 (10) Camilla Bossi        def.      Malin Falk           62 61
+      32  (8) Maria Juliana Parra… def.      Lisa Fukutoku        63 61
+      32      Emily Dunbar         def. (14) Hope Moulin          75 46 64
+      32 (11) Momoko Nagato        def.      Dariya Radulova      64 62
+      32      Katie Andreini       def.  (5) Daniela Voloh        64 64
+      32 (12) Michaela Kucharova   def.      Amanda Nord          76(5) 63
+      32      Hedda Gurholt        def.      Shivani Manjanna     62 26 63
+      32      Sofia Johnson        def. (16) Semra Aksu           75 64
+      32  (6) Elizabet Danailova   def.      Kensie Cricchio      46 64 64
+      32 (13) Yelizaveta Karlova   def.      Ine Stange           62 61
+      32  (2) Alesya Yakubovich    def.      Ting-Pei Chang       64 16 62
       64  (1) Alexandra Viktorovi… def.      Gabriela Davidescu   64 62
       64      Alexandra Hincu      def.      Sophia Hurrion       Walkover
       64 (15) Amber ODell          def.      Andrea Campodonico   62 62
@@ -172,6 +180,38 @@
      128      Alisia Manolescu     def.      Emma Nurgazieva      63 62
      128      Salma Loudili        def.      Eloise Saraty        57 63 60
      128      Marta Buendia        def.      Nina Hederich        61 61
+ > Back draw 1
+  > Main
+     128      Jutte Van Hansewyck  def.      Micaela Ode Mitre    64 06 [8]
+     128      Camryn McClure       def.      Rieke Gillar         64 61
+     128      Michelle Los Arcos   def.      Sara Salemyr         57 64 [4]
+     128      Nicole Kiefer        def.      Maria Saez           75 62
+     128      Liz Stefancic        def.      Tamara Barad Itzaki  75 46 [9]
+     128      Carly Cohen          def.      Emily Brandow        75 62
+     128      Sabina Richtrova     def.      Zoe Barton           63 36 [5]
+     128      Raffaela Alhach      def.      Nina Hederich        61 63
+     128      Andrea Campodonico   def.      Elisa van Meeteren   64 63
+     128      Madi Ballow          def.      Kirsten Husted       36 61 [7]
+     128      Chhinda Som          def.      Melissa Ifidzhen     63 75
+     128      Penny Hsieh          def.      Gabrielle Clairotte  46 63 [7]
+     128      Annie Clark          def.      Briee Joliff         63 61
+     128      Eloise Saraty        def.      Emma Nurgazieva      63 61
+     128      Erika Cheng          def.      Natalia Nikolopoulou 75 26 [5]
+     128      Emma Vanderheyden    def.      Emma Fernald         62 62
+ > Back draw 2
+  > Main
+     128      Emily Brandow        def.      Jutte Van Hansewyck  16 76 [5]
+     128      Carly Cohen          def.      Nina Hederich        60 62
+     128      Madi Ballow          def.      Sara Salemyr         63 62
+     128      Erika Cheng          def.      Nicole Kiefer        62 62
+     128      Annie Clark          def.      Gabrielle Clairotte  64 76(6)
+     128      Tamara Barad Itzaki  def.      Alisia Manolescu     62 60
+     128      Emma Fernald         def.      Sabina Richtrova     76(5) 62
+     128      Micaela Ode Mitre    def.      Michelle Los Arcos   75 61
+     128      Eloise Saraty        def.      Emma Vanderheyden    64 63
+     128      Liz Stefancic        def.      Kirsten Husted       63 63
+     128      Salma Loudili        def.      Raffaela Alhach      63 16 [9]
+     128      Rieke Gillar         def.      Elisa van Meeteren   63 63
 ~~~
 
 Return to the [Top](./women_singles_2140.md) &#124; [Home Page](../../index.md)

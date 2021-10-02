@@ -251,7 +251,7 @@
      QF  Zach Fuchs          def.  Jayson Blando       67(3) 64 [4]
   > North
      SF  Alex Lin             vs   Umit Ege Cankus     Sat @ 12:00
-     SF  Brigham Andrus       vs   Patrik Trhac        Sat @ 12:00
+     SF  Brigham Andrus      def.  Patrik Trhac        Walkover
   > South
      SF  Bradley Buckland     vs   Matheus Leite       Sat @ 12:00
      SF  Sam Baldwin          vs   Jayson Blando       Sat @ 12:00
@@ -415,6 +415,8 @@
      16     Eloy Veloso          def.     Dakotah Fuller       75 64
      16     Jonathan Judy-Hansen def.     Khalen Wimes         60 60
      16     Erick Cruz           def.     Eddie Wade           76(6) 16 62
+  > West
+     SF     Khalen Wimes          vs      Eddie Wade           Sat @ 14:00
   > North
      SF     Eloy Veloso           vs      Brody Millwood       Sat @ 14:00
      SF     Rodrigo Zapata        vs      Erick Cruz           Sat @ 14:00

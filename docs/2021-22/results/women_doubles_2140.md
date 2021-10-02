@@ -14,41 +14,45 @@
 
 <a name="21-03077"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Atlantic Women's Regional Championship
   Dates: Oct 1-4, 2021
   Host: U.S. Naval Academy (W)
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-     16 (1) OGorman/Chekhlystova  vs      Honrubia/Svendsen  Sat @ 09:00
-     16 (8) Corpuz/Komarraju      vs      Bendetti/Coburn    Sat @ 09:00
-     16 (3) Tannenbaum/Taggart    vs      Ashton/Willy       Sat @ 09:00
-     16 (6) Marinkovikj/Wiesmann  vs      Mitchell/Rose      Sat @ 09:00
-     16     Hashiguchi/Wirt       vs      Ho/Mikos           Sat @ 09:00
-     16     Utrilla Benito/Pessy  vs  (4) Lebedeva/Zuffova   Sat @ 09:45
-     16     Alamo/Lasorda         vs  (5) Askarova/Montana   Sat @ 09:00
-     16     Assenmacher/Haliou    vs  (2) Nielsen/Friedland  Sat @ 09:45
-     32 (1) OGorman/Chekhlystova def.     Lawson/Pospischill 61
-     32     Honrubia/Svendsen    def.     Etienne/Jankovic   60
-     32 (8) Corpuz/Komarraju     def.     Pegram/Ifederu     60
-     32     Bendetti/Coburn      def.     Weinberg/Hirsch    60
-     32 (3) Tannenbaum/Taggart   def.     Nannery/Crowell    63
-     32     Ashton/Willy         def.     Cardoso/Torrente   75
-     32 (6) Marinkovikj/Wiesmann def.     Barney/Mathur      62
-     32     Mitchell/Rose        def.     La/Yang            75
-     32     Hashiguchi/Wirt      def.     Axelsson/Rothfeld  61
-     32     Ho/Mikos             def. (7) Johns/Moore        75
-     32     Utrilla Benito/Pessy def.     Butcher/Grayson    63
-     32 (4) Lebedeva/Zuffova     def.     Elliott/Weiss      64
-     32     Alamo/Lasorda        def.     Amato/Amato        63
-     32 (5) Askarova/Montana     def.     Smith/Moysiadi     63
-     32     Assenmacher/Haliou   def.     Georgieva/Turner   Walkover
-     32 (2) Nielsen/Friedland    def.     Latoni/Shanahan    61
-     64     Pegram/Ifederu       def.     Placidi/Jones      64
-     64     Cardoso/Torrente     def.     Liang/Policare     61
-     64     Ho/Mikos             def.     Kirk/Nava          61
+     QF (1) OGorman/Chekhlystova  vs  (8) Corpuz/Komarraju     Sun @ 09:00
+     QF (3) Tannenbaum/Taggart    vs  (6) Marinkovikj/Wiesmann Sun @ 09:00
+     QF     Ho/Mikos              vs  (4) Lebedeva/Zuffova     Sun @ 09:00
+     QF     Alamo/Lasorda         vs  (2) Nielsen/Friedland    Sun @ 09:00
+     16 (1) OGorman/Chekhlystova def.     Honrubia/Svendsen    61
+     16 (8) Corpuz/Komarraju     def.     Bendetti/Coburn      75
+     16 (3) Tannenbaum/Taggart   def.     Ashton/Willy         61
+     16 (6) Marinkovikj/Wiesmann def.     Mitchell/Rose        61
+     16     Ho/Mikos             def.     Hashiguchi/Wirt      63
+     16 (4) Lebedeva/Zuffova     def.     Utrilla Benito/Pessy 63
+     16     Alamo/Lasorda        def. (5) Askarova/Montana     64
+     16 (2) Nielsen/Friedland    def.     Assenmacher/Haliou   60
+     32 (1) OGorman/Chekhlystova def.     Lawson/Pospischill   61
+     32     Honrubia/Svendsen    def.     Etienne/Jankovic     60
+     32 (8) Corpuz/Komarraju     def.     Pegram/Ifederu       60
+     32     Bendetti/Coburn      def.     Weinberg/Hirsch      60
+     32 (3) Tannenbaum/Taggart   def.     Nannery/Crowell      63
+     32     Ashton/Willy         def.     Cardoso/Torrente     75
+     32 (6) Marinkovikj/Wiesmann def.     Barney/Mathur        62
+     32     Mitchell/Rose        def.     La/Yang              75
+     32     Hashiguchi/Wirt      def.     Axelsson/Rothfeld    61
+     32     Ho/Mikos             def. (7) Johns/Moore          75
+     32     Utrilla Benito/Pessy def.     Butcher/Grayson      63
+     32 (4) Lebedeva/Zuffova     def.     Elliott/Weiss        64
+     32     Alamo/Lasorda        def.     Amato/Amato          63
+     32 (5) Askarova/Montana     def.     Smith/Moysiadi       63
+     32     Assenmacher/Haliou   def.     Georgieva/Turner     Walkover
+     32 (2) Nielsen/Friedland    def.     Latoni/Shanahan      61
+     64     Pegram/Ifederu       def.     Placidi/Jones        64
+     64     Cardoso/Torrente     def.     Liang/Policare       61
+     64     Ho/Mikos             def.     Kirk/Nava            61
 ~~~
 
 <a name="21-54831"></a>

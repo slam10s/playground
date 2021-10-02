@@ -114,17 +114,26 @@
  Men's Open Doubles
  > Doubles
   > East
-     QF  Kristensen/Trhac   vs   Andrus/Lin         Sat @ 10:00
-     QF  Kramer/Cankus      vs   Sciglitano/Baldwin Sat @ 10:00
-     QF  Fujita/Petrovic    vs   Gavelin/Ta         Sat @ 10:00
-     QF  Hallgren/Benn      vs   Fuchs/Leite        Sat @ 10:00
-     16  Andrus/Lin        def.  Blando/Blando      63
-     16  Kramer/Cankus     def.  Zelver/Watkins     61
-     16  Gavelin/Ta        def.  Buckland/Monteiro  63
-     16  Hallgren/Benn     def.  Robbertse/Matuszak 63
+     SF  Andrus/Lin         def.  Kramer/Cankus      62
+     SF  Gavelin/Ta         def.  Hallgren/Benn      62
+     QF  Andrus/Lin         def.  Kristensen/Trhac   Walkover
+     QF  Kramer/Cankus      def.  Sciglitano/Baldwin 75
+     QF  Gavelin/Ta         def.  Fujita/Petrovic    63
+     QF  Hallgren/Benn      def.  Fuchs/Leite        76(6)
+     16  Andrus/Lin         def.  Blando/Blando      63
+     16  Kramer/Cankus      def.  Zelver/Watkins     61
+     16  Gavelin/Ta         def.  Buckland/Monteiro  63
+     16  Hallgren/Benn      def.  Robbertse/Matuszak 63
   > West
-     SF  Blando/Blando      vs   Zelver/Watkins     Sat @ 10:45
-     SF  Buckland/Monteiro  vs   Robbertse/Matuszak Sat @ 10:45
+      F  Buckland/Monteiro  def.  Blando/Blando      64
+     SF  Blando/Blando      def.  Zelver/Watkins     62
+     SF  Buckland/Monteiro  def.  Robbertse/Matuszak 76(4)
+  > North
+      F  Sciglitano/Baldwin  vs   Fuchs/Leite        Sun @ 10:00
+     SF  Sciglitano/Baldwin def.  Kristensen/Trhac   Walkover
+     SF  Fuchs/Leite        def.  Fujita/Petrovic    62
+  > 3-4 Playoff
+      F  Kramer/Cankus       vs   Hallgren/Benn      Sun @ 10:00
 ~~~
 
 <a name="21-07548"></a>
@@ -137,10 +146,12 @@
  Men's Open Doubles
  > Doubles Flight A
   > East
-     QF (1) Duarte/Grinvalds      vs      Hillhouse/Martens    Sat @ 08:30
-     QF (3) Sarrio/Robbins        vs      Lopez Cruz/Tryakshin Sat @ 08:30
-     QF     Cizek/Malirz          vs  (4) Patel/Tezuka         Sat @ 08:30
-     QF     Norwood/Blanchar      vs  (2) Huempfner/Stodder    Sat @ 08:30
+     SF (1) Duarte/Grinvalds      vs  (3) Sarrio/Robbins       Sat @ 09:30
+     SF (4) Patel/Tezuka          vs  (2) Huempfner/Stodder    Sat @ 09:30
+     QF (1) Duarte/Grinvalds     def.     Hillhouse/Martens    61
+     QF (3) Sarrio/Robbins       def.     Lopez Cruz/Tryakshin 62
+     QF (4) Patel/Tezuka         def.     Cizek/Malirz         62
+     QF (2) Huempfner/Stodder    def.     Norwood/Blanchar     64
      16 (1) Duarte/Grinvalds     def.     Bajracharya/Du Preez 62
      16     Hillhouse/Martens    def.     Benoit/Waldow        62
      16 (3) Sarrio/Robbins       def.     WAYENBURG/GEORGADZE  63
@@ -150,16 +161,26 @@
      16     Norwood/Blanchar     def.     Portugal/Judy-Hansen 62
      16 (2) Huempfner/Stodder    def.     Cantero/Tsai         64
   > West
-     QF     Bajracharya/Du Preez  vs      Benoit/Waldow        Sat @ 08:30
-     QF     WAYENBURG/GEORGADZE   vs      Shoemake/Bencrdic    Sat @ 08:30
-     QF     Del Castillo/Roumpis  vs      Luna/Verlaguet       Sat @ 08:30
-     QF     Portugal/Judy-Hansen  vs      Cantero/Tsai         Sat @ 08:30
+     SF     Benoit/Waldow         vs      Shoemake/Bencrdic    Sat @ 09:30
+     SF     Del Castillo/Roumpis  vs      Cantero/Tsai         Sat @ 09:30
+     QF     Benoit/Waldow        def.     Bajracharya/Du Preez 64
+     QF     Shoemake/Bencrdic    def.     WAYENBURG/GEORGADZE  63
+     QF     Del Castillo/Roumpis def.     Luna/Verlaguet       76(5)
+     QF     Cantero/Tsai         def.     Portugal/Judy-Hansen 61
+  > North
+     SF     Hillhouse/Martens     vs      Lopez Cruz/Tryakshin Sat @ 09:30
+     SF     Cizek/Malirz          vs      Norwood/Blanchar     Sat @ 09:30
+  > South
+     SF     Bajracharya/Du Preez  vs      WAYENBURG/GEORGADZE  Sat @ 09:30
+     SF     Luna/Verlaguet        vs      Portugal/Judy-Hansen Sat @ 09:30
  > Doubles Flight B
   > East
-     QF     Brainard/Gaskin       vs      Brewer/Nunez         Sat @ 08:30
-     QF     Suk/Dun               vs      Vishnevskiy/Garayev  Sat @ 08:30
-     QF     Maust/Thomas          vs      Bernard/Llinares     Sat @ 08:30
-     QF     Murillo/Osap          vs      Dobrnjac/Inagawa     Sat @ 08:30
+     SF     Brainard/Gaskin       vs      Vishnevskiy/Garayev  Sat @ 09:30
+     SF     Bernard/Llinares      vs      Dobrnjac/Inagawa     Sat @ 09:30
+     QF     Brainard/Gaskin      def.     Brewer/Nunez         60
+     QF     Vishnevskiy/Garayev  def.     Suk/Dun              76(3)
+     QF     Bernard/Llinares     def.     Maust/Thomas         75
+     QF     Dobrnjac/Inagawa     def.     Murillo/Osap         63
      16     Brainard/Gaskin      def. (1) Marinescu/Maughan    Walkover
      16     Brewer/Nunez         def.     Gedney/Stuart        62
      16     Suk/Dun              def. (3) Botti/Salmeron       75
@@ -169,10 +190,16 @@
      16     Murillo/Osap         def.     BARROW/FLYNN         75
      16     Dobrnjac/Inagawa     def. (2) Lazo/Padilha         76(5)
   > West
+     SF     Mulas/Jacq            vs      BARROW/FLYNN         Sat @ 09:45
      QF     Gedney/Stuart        def. (1) Marinescu/Maughan    Walkover
      QF (3) Botti/Salmeron        vs      Jeanne-Grandinot/Jo… Sat @ 08:30
-     QF     Mulas/Jacq            vs  (4) Jadoun/Diaz          Sat @ 08:30
-     QF     BARROW/FLYNN          vs  (2) Lazo/Padilha         Sat @ 08:30
+     QF     Mulas/Jacq           def. (4) Jadoun/Diaz          63
+     QF     BARROW/FLYNN         def. (2) Lazo/Padilha         64
+  > North
+     SF     Brewer/Nunez          vs      Suk/Dun              Sat @ 09:45
+     SF     Maust/Thomas          vs      Murillo/Osap         Sat @ 09:45
+  > South
+     SF (4) Jadoun/Diaz           vs  (2) Lazo/Padilha         Sat @ 09:45
  > Doubles Flight C
   > East
      QF (1) Erramuspe/Rodriguez   vs      Amier/Amacher        Sat @ 09:00
