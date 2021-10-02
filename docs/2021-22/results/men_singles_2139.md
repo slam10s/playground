@@ -210,16 +210,15 @@
 
 <a name="21-23711"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Idaho State Bengal Invitational
   Dates: Oct 1-3, 2021
   Host: Idaho State University (M)
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > White
   > East
      SF  Wikus Robbertse      vs   Pontus Hallgren     Sat @ 13:30
-     SF  Zachary Matuszak     vs   Rian Ta             Fri @ 13:30
      QF  Wikus Robbertse     def.  Manuel Monteiro     63 46 64
      QF  Pontus Hallgren     def.  Michael Blando      64 62
      QF  Zachary Matuszak    def.  Josh Watkins        60 62
@@ -260,11 +259,11 @@
 
 <a name="21-07548"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   Mercer Gridiron Classic
   Dates: Oct 1-3, 2021
   Host: Mercer University (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Singles Flight A1
   > East
@@ -299,7 +298,7 @@
   > East
      SF (1) Mihai Marinescu       vs      Manuel Bernard       Sat @ 11:00
      SF (4) Andrei Duarte         vs      Joaquin Benoit       Sat @ 11:00
-     QF (1) Mihai Marinescu      def.     Seru Tezuka          Walkover
+     QF (1) Mihai Marinescu      def.     Seru Tezuka          57 62 20 Ret.
      QF     Manuel Bernard       def. (3) Nicolas Jadoun       63 64
      QF (4) Andrei Duarte        def.     Chris Andre          61 63
      QF     Joaquin Benoit       def. (2) Vicente Arbelaez Pr… 64 75
@@ -367,9 +366,9 @@
      16     Juan Rodriguez       def.     Jesus Villamizar     64 57 61
      16 (2) Alexander Vishnevsk… def.     Luke Stuart          64 75
   > West
-     SF     Santiago Speranza     vs      Alex Amacher         Sat @ 13:00
+     SF     Daisuke Inagawa       vs      Alex Amacher         Sat @ 13:00
      SF     Alex Suk              vs      Luke Stuart          Sat @ 13:00
-     QF     Santiago Speranza    def.     Daisuke Inagawa      60 60
+     QF     Daisuke Inagawa      def.     Santiago Speranza    60 60
      QF     Alex Amacher         def.     SAMUEL MACLEOD       Walkover
      QF     Alex Suk             def.     SAMUEL BARROW        Walkover
      QF     Luke Stuart          def.     Jesus Villamizar     46 64 [3]
@@ -377,7 +376,7 @@
      SF     Giulio Sassi          vs  (4) Samrakshyak Bajrach… Sat @ 13:00
      SF (3) Maxime Hillhouse      vs      Juan Rodriguez       Sat @ 13:00
   > South
-     SF     Daisuke Inagawa       vs      SAMUEL MACLEOD       Sat @ 13:00
+     SF     Santiago Speranza     vs      SAMUEL MACLEOD       Sat @ 13:00
      SF     SAMUEL BARROW         vs      Jesus Villamizar     Sat @ 13:00
  > Singles Flight C1
   > East

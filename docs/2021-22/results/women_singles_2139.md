@@ -173,7 +173,7 @@
      16     Sydney Berlin        def.     Emma Bardet          76(6) 63
      16     Andjela Skrobonja    def.     Noa Cohen            63 61
   > North
-     QF     ida ferding           vs      Nadja Bay Christians Sat @ 11:30
+     QF     Nadja Bay Christians def.     ida ferding          Walkover
      QF (3) Andreeea Velcea       vs      Greta Schieroni      Sat @ 11:30
      QF     Martina Kudelova      vs      Amelie Boy           Sat @ 11:30
      QF     Annabelle Davis       vs      Alexandria Mjos      Sat @ 11:30
@@ -306,6 +306,7 @@
   > Consolation
       32      Alexandra Vesikallio  vs       Riya Mathur          Sat @ 10:30
       32      Megan Etienne         vs       Savanna Crowell      Sat @ 10:30
+      32 (15) Amanda Nava           vs       Sylvia Eklund        Sat @ 12:00
       32      Sarah Pospischill     vs       Stefania Moysiadi    Sat @ 10:30
       32      Jordan Grayson        vs       Adriana Barney       Sat @ 10:30
       32      Stow Weiss            vs       Viva Laas            Sat @ 10:30
@@ -315,11 +316,11 @@
       32      Christy Turner        vs       Vera Markovic        Sat @ 12:00
       32      Emily Wirt           def.      Kate Lee             Walkover
       32      Sydney Weinberg       vs       Fabiana Tort-Umpier… Sat @ 12:00
-      64      Isabella Montana      vs       Ameilia Lawson       Sat @ 09:00
-      64 (15) Amanda Nava           vs       Ashley Fitz-Patrick  Sat @ 09:00
-      64      Chloe Bendetti        vs       Jackie Nannery       Sat @ 09:00
-      64      Deanna Lasorda        vs       Averiana Mitchell    Sat @ 09:00
-      64      Corinne Farid         vs       Hannah Yang          Sat @ 09:00
+      64      Isabella Montana      vs       Ameilia Lawson       Sat @ 12:00
+      64 (15) Amanda Nava          def.      Ashley Fitz-Patrick  Walkover
+      64      Chloe Bendetti        vs       Jackie Nannery       Sat @ 10:00
+      64      Deanna Lasorda        vs       Averiana Mitchell    Sat @ 10:00
+      64      Corinne Farid        def.      Hannah Yang          Walkover
       64      Gracey Hirsch         vs       Iva Jankovic         Sat @ 09:00
 ~~~
 
@@ -390,11 +391,11 @@
 
 <a name="21-17427"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Northeasts Regional Championship
   Dates: Oct 1-3, 2021
   Host: U.S. Military Academy (W)
-══════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Draw
   > Main
@@ -428,6 +429,8 @@
      128      Sophie Edwards       def.      Maanya Viswanath     60 64
      128      Rhea Shrivistava     def.      Isabel Petri-Bere    75 60
      128      Tiara Higuchi        def.      Chandrika Joshi      63 75
+     128      Jayden Nielsen       def.      Deana Giambo         67(2) 76(3) [7]
+     128      Winta Tewolde        def.      Katie Mulvey         76(2) 63
      128      Aina March           def.      Julia Migliorini     64 64
      128      Willa Bay Breunich   def.      Claire Koscielski    64 62
      128      Danielle Hack        def.      Shelly Yaloz         76(3) 62

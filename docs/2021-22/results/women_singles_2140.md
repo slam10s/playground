@@ -91,6 +91,7 @@
   > Consolation
       32      Alexandra Vesikallio  vs       Riya Mathur          Sat @ 10:30
       32      Megan Etienne         vs       Savanna Crowell      Sat @ 10:30
+      32 (15) Amanda Nava           vs       Sylvia Eklund        Sat @ 12:00
       32      Sarah Pospischill     vs       Stefania Moysiadi    Sat @ 10:30
       32      Jordan Grayson        vs       Adriana Barney       Sat @ 10:30
       32      Stow Weiss            vs       Viva Laas            Sat @ 10:30
@@ -100,11 +101,11 @@
       32      Christy Turner        vs       Vera Markovic        Sat @ 12:00
       32      Emily Wirt           def.      Kate Lee             Walkover
       32      Sydney Weinberg       vs       Fabiana Tort-Umpier… Sat @ 12:00
-      64      Isabella Montana      vs       Ameilia Lawson       Sat @ 09:00
-      64 (15) Amanda Nava           vs       Ashley Fitz-Patrick  Sat @ 09:00
-      64      Chloe Bendetti        vs       Jackie Nannery       Sat @ 09:00
-      64      Deanna Lasorda        vs       Averiana Mitchell    Sat @ 09:00
-      64      Corinne Farid         vs       Hannah Yang          Sat @ 09:00
+      64      Isabella Montana      vs       Ameilia Lawson       Sat @ 12:00
+      64 (15) Amanda Nava          def.      Ashley Fitz-Patrick  Walkover
+      64      Chloe Bendetti        vs       Jackie Nannery       Sat @ 10:00
+      64      Deanna Lasorda        vs       Averiana Mitchell    Sat @ 10:00
+      64      Corinne Farid        def.      Hannah Yang          Walkover
       64      Gracey Hirsch         vs       Iva Jankovic         Sat @ 09:00
 ~~~
 
