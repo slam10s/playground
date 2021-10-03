@@ -229,8 +229,6 @@
       F  Manuel Monteiro      vs   Marcos Zelver       Sun @ 10:00
      SF  Manuel Monteiro     def.  Michael Blando      62 62
      SF  Marcos Zelver       def.  Josh Watkins        63 62
-  > 3-4 Playoff
-      F  Pontus Hallgren      vs   Zachary Matuszak    Sun @ 11:00
  > Orange
   > East
       F  Mathias Gavelin      vs   Lawrence Sciglitano Sun @ 11:00
@@ -262,8 +260,12 @@
       F  Bradley Buckland    def.  Jayson Blando       76(4) 76(4)
      SF  Bradley Buckland    def.  Matheus Leite       Walkover
      SF  Jayson Blando       def.  Sam Baldwin         67(4) 62 [7]
-  > Southwest
-      F  Milo Benn            vs   Hiroki Fujita       Sat @ 23:00
+ > Extra Matches
+  > Main
+     QF  Aleksandar Petrovic  vs   Sam Baldwin         Sun @ 11:00
+     QF  Patrick Kristensen   vs   Pontus Hallgren     Sun @ 11:00
+     QF  Umit Ege Cankus      vs   Michael Blando      Sun @ 11:00
+     QF  Andreas Kramer       vs   Jayson Blando       Sun @ 11:00
 ~~~
 
 <a name="21-07548"></a>

@@ -135,6 +135,9 @@
       F  Kramer/Cankus       vs   Hallgren/Benn      Sun @ 10:00
   > Southwest
       F  Zelver/Watkins     def.  Robbertse/Matuszak 76(4)
+ > Extra Doubles
+  > Main
+      F  Fujita/Petrovic     vs   Blando/Blando      Sun @ 10:00
 ~~~
 
 <a name="21-07548"></a>

@@ -67,7 +67,7 @@
   > Main
      QF (1) Bossi/Chang           vs      Fernald/Manolescu    Sun @ 08:30
      QF (4) Parra Romero/Ode Mi…  vs  (5) Davidescu/Manjanna   Sun @ 08:30
-     QF (7) Clark/Andreini        vs  (3) Afanasyeva/Moulin    Sun @ 08:30
+     QF (3) Afanasyeva/Moulin    def. (7) Clark/Andreini       61
      QF     Hsieh/Nagato          vs  (2) Kiefer/ODell         Sun @ 08:30
      16 (1) Bossi/Chang          def.     Cheng/Som            63
      16     Fernald/Manolescu    def. (6) Barad Itzaki/Aksu    76(6)
@@ -94,6 +94,9 @@
      32     Heiberg/Buendia      def.     Joliff/Hincu         61
      32 (2) Kiefer/ODell         def.     Pinto/Cartledge      61
      64     Dunbar/Cohen         def.     Hederich/Barton      61
+ > Extra Doubles
+  > Main
+      F     Alhach/van Meeteren  def.     Loudili/Ifidzhen     62
 ~~~
 
 Return to the [Top](./women_doubles_2140.md) &#124; [Home Page](../../index.md)

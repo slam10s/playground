@@ -148,7 +148,7 @@
       16 (11) Momoko Nagato         vs       Katie Andreini       Sun @ 09:30
       16 (12) Michaela Kucharova    vs       Hedda Gurholt        Sun @ 09:30
       16      Sofia Johnson         vs   (6) Elizabet Danailova   Sun @ 09:30
-      16 (13) Yelizaveta Karlova    vs   (2) Alesya Yakubovich    Sun @ 09:30
+      16  (2) Alesya Yakubovich    def. (13) Yelizaveta Karlova   Walkover
       32  (1) Alexandra Viktorovi… def.      Alexandra Hincu      61 62
       32      Rita Pinto           def. (15) Amber ODell          64 57 64
       32  (7) Kylie Moulin         def.      Shahar Biran         64 63
@@ -230,7 +230,7 @@
      128      Tamara Barad Itzaki  def.      Alisia Manolescu     62 60
      128      Emma Fernald         def.      Sabina Richtrova     76(5) 62
      128      Micaela Ode Mitre    def.      Michelle Los Arcos   75 61
-     128      Eloise Saraty        def.      Emma Vanderheyden    64 63
+     128      Emma Vanderheyden    def.      Eloise Saraty        64 63
      128      Liz Stefancic        def.      Kirsten Husted       63 63
      128      Salma Loudili        def.      Raffaela Alhach      63 16 [9]
      128      Rieke Gillar         def.      Elisa van Meeteren   63 63
