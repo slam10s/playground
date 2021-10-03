@@ -3,6 +3,8 @@
 **Tournamets with Matches**  
 - 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
+- 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
+- 9/11/2021 - [St. Lawrence University Fall Classic](#21-93996) ([Results](#21-93996) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/3699D952-856D-4724-8FE8-12BD2237BE35" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
@@ -10,7 +12,10 @@
 **Tournaments without Matches**  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">2021 Dar Walters Classic</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Orange Lawn Fall Invitational</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">River Forrest Collegiate Invitational</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">UNCG Fall Invitational</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Warhawk Fall Invitational</a>  
 
 <a name="21-36446"></a>
 ~~~
@@ -190,6 +195,101 @@
      16  Mikael Purne         def.  Lorenzo Orellano     63 60
      16  Maciej Ziomber       def.  Jonathan Vega        62 64
      16  Filippo Salsini      def.  Yu-Jhe Du            64 76(3)
+~~~
+
+<a name="21-17243"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Charger Invitational
+  Dates: Sep 11-12, 2021
+  Host: Hillsdale College (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > Main
+      F  Brennan Cimpeanu     def.  Dom Spicer           75 62
+     SF  Dom Spicer           def.  Luigi Bove           57 64 [7]
+     SF  Brennan Cimpeanu     def.  Daniel Grey          63 67(6) [7]
+     QF  Luigi Bove           def.  Matt Telford         76(3) 63
+     QF  Dom Spicer           def.  Tyler Conrad         62 63
+     QF  Brennan Cimpeanu     def.  Wilfredo Lara        61 62
+     QF  Daniel Grey          def.  Michael Gurtner      26 60 [7]
+  > Consolation
+     SQ  Matt Telford         def.  Tyler Conrad         62 62
+     SQ  Michael Gurtner      def.  Wilfredo Lara        62 61
+ > Flight B
+  > Main
+      F  Sean Barstow         def.  Brian Hackman        67(5) 62 [5]
+     SF  Sean Barstow         def.  Niklas Karcz         75 36 [12]
+     SF  Brian Hackman        def.  Luke Laws            64 62
+     QF  Sean Barstow         def.  Alfredo Berlanga     62 62
+     QF  Niklas Karcz         def.  Gabe Belli De Olive… 62 62
+     QF  Brian Hackman        def.  Andrew Codita        64 75
+     QF  Luke Laws            def.  Matt Saunders        61 62
+  > Consolation
+      F  Andrew Codita        def.  Gabe Belli De Olive… 46 41 Ret.
+     SQ  Gabe Belli De Olive… def.  Alfredo Berlanga     16 63 [7]
+     SQ  Andrew Codita        def.  Matt Saunders        60 60
+ > Flight C
+  > Main
+      F  Cedric Drenth        def.  David Pluszczyk      63 60
+     SF  David Pluszczyk      def.  Noah Fasczewski      62 62
+     SF  Cedric Drenth        def.  Octavio Carrasco     62 62
+     QF  David Pluszczyk      def.  Cyrille Colomb       61 75
+     QF  Noah Fasczewski      def.  Mark Ivanov          Walkover
+     QF  Cedric Drenth        def.  Daniel Gilbert       16 75 [7]
+     QF  Octavio Carrasco     def.  Daniel Martinez Roca 64 67(2) [7]
+  > Consolation
+      F  Daniel Gilbert       def.  Cyrille Colomb       67(4) 62 [3]
+     SF  Cyrille Colomb       def.  Noah Fasczewski      Walkover
+     SQ  Cyrille Colomb       def.  Mark Ivanov          Walkover
+     SQ  Daniel Gilbert       def.  Daniel Martinez Roca 62 64
+ > Flight D
+  > Main
+      F  Ethan Shoesmith      def.  Ryan Okonski         61 64
+     SF  Ryan Okonski         def.  David Solar          76(4) 62
+     SF  Ethan Shoesmith      def.  Joe Steele           06 64 [8]
+     QF  David Solar          def.  Brayden Doherty      60 61
+     QF  Ryan Okonski         def.  Ryan Gase            60 62
+     QF  Ethan Shoesmith      def.  Ben Szarek           60 60
+     QF  Joe Steele           def.  Timothy Richardson   61 62
+  > Consolation
+     SQ  Ryan Gase            def.  Brayden Doherty      63 62
+~~~
+
+<a name="21-93996"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  St. Lawrence University Fall Classic
+  Dates: Sep 11-12, 2021
+  Host: St. Lawrence University (M)
+═════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight B
+  > Main
+      F  Thomas Shung     def.  Eric Stein       83
+     SF  Eric Stein       def.  Nicolas Gritz    83
+     SF  Thomas Shung     def.  Jack Ledford     82
+     QF  Eric Stein       def.  Grahith Movva    83
+     QF  Nicolas Gritz    def.  Troy Steiner     86
+     QF  Jack Ledford     def.  Joe Reiner       85
+     QF  Thomas Shung     def.  Eric Dubilirer   83
+     16  Eric Stein       def.  Bailey McAtee    81
+     16  Grahith Movva    def.  Mark Zolotukhin  83
+     16  Troy Steiner     def.  Adam Heilbronner 87(3)
+     16  Nicolas Gritz    def.  Artem Khaybullin 80
+     16  Joe Reiner       def.  Ian Schunk       81
+     16  Jack Ledford     def.  Cole Hamilton    85
+     16  Eric Dubilirer   def.  Adrian Zhang     83
+     16  Thomas Shung     def.  Jake Wolicki     82
+  > Consolation
+      F  Adam Heilbronner def.  Cole Hamilton    86
+     SF  Adam Heilbronner def.  Mark Zolotukhin  Walkover
+     SF  Cole Hamilton    def.  Adrian Zhang     Default
+     QQ  Mark Zolotukhin  def.  Bailey McAtee    84
+     QQ  Adam Heilbronner def.  Artem Khaybullin 83
+     QQ  Cole Hamilton    def.  Ian Schunk       83
+     QQ  Adrian Zhang     def.  Jake Wolicki     Walkover
 ~~~
 
 <a name="21-79025"></a>

@@ -4,13 +4,16 @@
 - 9/10/2021 - [Bill and Sandra Moore Invitational](#21-34233) ([Results](#21-34233) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/91B59866-0B48-4129-8FAE-B1A88BCD7896" target="_blank">Draws</a>)  
 - 9/11/2021 - [Liberty Invite](#21-48654) ([Results](#21-48654) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/D66E087D-3234-4CE1-8D12-9CFE3EF5F621" target="_blank">Draws</a>)  
 - 9/10/2021 - [SIUE Cougar Invite](#21-66962) ([Results](#21-66962) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernIllinoisUniversityEdwardsvilleW/Tournaments/Overview/49CD19F7-C361-46C8-9A0D-85DA79B24973" target="_blank">Draws</a>)  
+- 9/10/2021 - [Women's Drake Invite](#21-32364) ([Results](#21-32364) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/51EAC500-8BA9-4BA4-A244-CED3E726C5FE" target="_blank">Draws</a>)  
 - 9/10/2021 - [Angelo State SlamFest](#21-31047) ([Results](#21-31047) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AngeloStateUniversityW/Tournaments/Overview/AF7EE133-54BC-4F7C-A60D-0E1A114F1191" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
+- 9/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7" target="_blank">Mary Hosking Invitational Tournament</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfLouisianaMonroeW/Tournaments/Overview/54708D1F-C66A-43B0-AD2A-D851EE9A1A35" target="_blank">Warhawk Invite</a>  
+- 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">University of Findlay/Findlay YMCA East Fall Invite</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
@@ -145,6 +148,74 @@
      16  Hailey/Andrade       def.  Castellanos/Rybka    75
      16  Perlwitz/Lojpur      def.  Jacobson/Grice       60
      16  Kancherla/Carbonell  def.  Kovacs/Marjanovic    76(3)
+~~~
+
+<a name="21-32364"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Women's Drake Invite
+  Dates: Sep 10-12, 2021
+  Host: Drake University (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight 1
+  > East
+      F  Krueger/Shukla       def.  Absisan/Gallegos     84
+     SF  Krueger/Shukla       def.  Ehn/Petushkova       83
+     SF  Absisan/Gallegos     def.  Kuckelman/Alicea     86
+     QF  Krueger/Shukla       def.  Carr/Dalecka         83
+     QF  Ehn/Petushkova       def.  Monko/Hadjigeorgiou  87(7)
+     QF  Absisan/Gallegos     def.  Sela/Jansson         84
+     QF  Kuckelman/Alicea     def.  Lazarevic/Aly        81
+  > West
+      F  Monko/Hadjigeorgiou  def.  Lazarevic/Aly        82
+     SF  Monko/Hadjigeorgiou  def.  Carr/Dalecka         84
+     SF  Lazarevic/Aly        def.  Sela/Jansson         82
+  > 3-4 Playoff
+      F  Kuckelman/Alicea     def.  Ehn/Petushkova       Walkover
+  > South
+      F  Sela/Jansson         def.  Carr/Dalecka         83
+ > Flight 2
+  > East
+      F  Ochotorena/Zdravkov… def.  Wilcox/Negin         84
+     SF  Wilcox/Negin         def.  Stephani/Neville     83
+     SF  Ochotorena/Zdravkov… def.  Havlickova/Kmoskova  87(6)
+     QF  Wilcox/Negin         def.  Di Giulio/Osborn     86
+     QF  Stephani/Neville     def.  Moreira/Brkic        80
+     QF  Ochotorena/Zdravkov… def.  Jancikova/Arce Viey… 82
+     QF  Havlickova/Kmoskova  def.  Sandberg/Roa         84
+  > West
+      F  Di Giulio/Osborn     def.  Sandberg/Roa         Walkover
+     SF  Di Giulio/Osborn     def.  Moreira/Brkic        85
+     SF  Sandberg/Roa         def.  Jancikova/Arce Viey… 82
+  > 3-4 Playoff
+      F  Havlickova/Kmoskova  def.  Stephani/Neville     82
+  > South
+      F  Jancikova/Arce Viey… def.  Moreira/Brkic        87(5)
+ > Flight 3
+  > East
+      F  Kongara/Gener        def.  Haagensen/Stepan     86
+     SF  Haagensen/Stepan     def.  Kistanova/Granson    83
+     SF  Kongara/Gener        def.  Walczak/Lee          84
+     QF  Haagensen/Stepan     def.  Michieli/Grammatika… 83
+     QF  Walczak/Lee          def.  Skobkareva/Girbau    82
+  > West
+      F  Skobkareva/Girbau    def.  Michieli/Grammatika… 83
+  > 3-4 Playoff
+      F  Walczak/Lee          def.  Kistanova/Granson    81
+ > Flight 4
+  > East
+      F  Bukina/Almiron       def.  Cardoso/Sullivan     83
+     SF  Bukina/Almiron       def.  Heinitz/Rizza        87(4)
+     SF  Cardoso/Sullivan     def.  Hunt/Gaskell         85
+     QF  Bukina/Almiron       def.  Ogorodnikova/Ziani   81
+     QF  Cardoso/Sullivan     def.  OConnor/Benson       84
+     QF  Hunt/Gaskell         def.  Linscott/Tiemeyer    87(4)
+  > West
+      F  OConnor/Benson       def.  Ogorodnikova/Ziani   Walkover
+     SF  OConnor/Benson       def.  Linscott/Tiemeyer    81
+  > 3-4 Playoff
+      F  Hunt/Gaskell         def.  Heinitz/Rizza        87(6)
 ~~~
 
 <a name="21-31047"></a>

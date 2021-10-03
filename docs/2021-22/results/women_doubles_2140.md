@@ -3,14 +3,26 @@
 **Tournamets with Matches**  
 - 10/1/2021 - [ITA Division I Atlantic Women's Regional Championship](#21-03077) ([Results](#21-03077) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/EB66D8AE-2B72-4A34-AF59-E6C67DA9A6D8" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
+- 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
+
+**Tournaments without Matches**  
+- 10/3/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Texas State Play Days</a>  
 
 **Upcoming Tournaments**  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCCharlotteW/Tournaments/Overview/928AA6BE-846A-430B-89FA-222F70E8CCBB" target="_blank">49er Invite</a>  
+- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Cincinnati/Xavier Fall Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Georgia Southern Fall Shootout</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
+- 10/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">ITA Women's All-American Championship</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Long Beach State Fall Tournament</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">MVC Individual Championships</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C" target="_blank">Navy Blue and Gold Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847" target="_blank">Wildcat Invite</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">C.L Varner Invitational</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NortheasternStateUW/Tournaments/Overview/6CDF33CD-A0E5-4CA9-BD9D-2F5B12B0FE50" target="_blank">Rumble by the River</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/CD3EA260-EE7B-4CC4-AEAD-3B2FCD79FEE4" target="_blank">Saint Leo Lion Fall Invitational - Women</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/0D92B574-F815-4CD2-9DB5-9DE635B3C608" target="_blank">Warhawk Fall Invitational</a>  
 
 <a name="21-03077"></a>
 ~~~
@@ -57,18 +69,18 @@
 
 <a name="21-54831"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
   ITA Division I Women's Atlantic Regional Championship
   Dates: Oct 1-4, 2021
   Host: Liberty University (W)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main Draw
   > Main
-     QF (1) Bossi/Chang           vs      Fernald/Manolescu    Sun @ 08:30
-     QF (4) Parra Romero/Ode Mi…  vs  (5) Davidescu/Manjanna   Sun @ 08:30
+     QF (1) Bossi/Chang          def.     Fernald/Manolescu    63
+     QF (5) Davidescu/Manjanna   def. (4) Parra Romero/Ode Mi… 63
      QF (3) Afanasyeva/Moulin    def. (7) Clark/Andreini       61
-     QF     Hsieh/Nagato          vs  (2) Kiefer/ODell         Sun @ 08:30
+     QF     Hsieh/Nagato         def. (2) Kiefer/ODell         60
      16 (1) Bossi/Chang          def.     Cheng/Som            63
      16     Fernald/Manolescu    def. (6) Barad Itzaki/Aksu    76(6)
      16 (4) Parra Romero/Ode Mi… def.     Fukutoku/Cricchio    63
@@ -97,6 +109,32 @@
  > Extra Doubles
   > Main
       F     Alhach/van Meeteren  def.     Loudili/Ifidzhen     62
+~~~
+
+<a name="21-08096"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  PSAC Individual Tennis Championship
+  Dates: Oct 2-4, 2021
+  Host: Bloomsburg University (M)
+═══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > PSAC Women's Doubles
+  > Main
+     SF (1) Kirchtag/Graydon     def. (3) Gonzalez Sanchez/Pa… 83
+     SF (2) Munday/Stralka       def. (4) Wallace/Htwar        84
+     QF (1) Kirchtag/Graydon     def.     Negrao De Almeida/Z… 83
+     QF (3) Gonzalez Sanchez/Pa… def.     Shaw-Morris/Heckert  83
+     QF (4) Wallace/Htwar        def.     Ostojic/Jahr         84
+     QF (2) Munday/Stralka       def.     Alexander/Lee        81
+     16 (1) Kirchtag/Graydon     def.     Beer/McClusky        83
+     16     Negrao De Almeida/Z… def.     Frushour/Burner      81
+     16 (3) Gonzalez Sanchez/Pa… def.     Reeves/Wolever       81
+     16     Shaw-Morris/Heckert  def.     Walder/Winters       80
+     16     Ostojic/Jahr         def.     Capoferri/Quackenbu… 83
+     16 (4) Wallace/Htwar        def.     Aughenbaugh/Strouse  80
+     16     Alexander/Lee        def.     Makarski/Maher       82
+     16 (2) Munday/Stralka       def.     Winseck/Duran        82
 ~~~
 
 Return to the [Top](./women_doubles_2140.md) &#124; [Home Page](../../index.md)

@@ -4,6 +4,7 @@
 - 9/3/2021 - [Tyler Invite](#21-00238) ([Results](#21-00238) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTexasTylerW/Tournaments/Overview/2BA0D609-FAB2-4A48-859D-61975908AE40" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
+- 9/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7" target="_blank">Mary Hosking Invitational Tournament</a>  
 - 9/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/4E7E69DF-F521-4DA8-A3AB-8131B80552CE" target="_blank">Warhawk Invitational</a>  
 
 <a name="21-00238"></a>

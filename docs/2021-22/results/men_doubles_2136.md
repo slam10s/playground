@@ -3,6 +3,8 @@
 **Tournamets with Matches**  
 - 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
+- 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
+- 9/11/2021 - [St. Lawrence University Fall Classic](#21-93996) ([Results](#21-93996) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/3699D952-856D-4724-8FE8-12BD2237BE35" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
@@ -10,7 +12,10 @@
 **Tournaments without Matches**  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">2021 Dar Walters Classic</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Orange Lawn Fall Invitational</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">River Forrest Collegiate Invitational</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">UNCG Fall Invitational</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Warhawk Fall Invitational</a>  
 
 <a name="21-36446"></a>
 ~~~
@@ -109,6 +114,77 @@
  > Crimson added doubles match
   > Main
       F     Barranquero/Chhabra  def.     Larrea/Mere          82
+~~~
+
+<a name="21-17243"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Charger Invitational
+  Dates: Sep 11-12, 2021
+  Host: Hillsdale College (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > Main
+      F  Cimpeanu/Barstow     def.  Drenth/Grey          83
+     SF  Cimpeanu/Barstow     def.  Laws/Spicer          82
+     SF  Drenth/Grey          def.  Conrad/Hackman       84
+     QF  Cimpeanu/Barstow     def.  Martinez Roca/Saund… 85
+     QF  Laws/Spicer          def.  Bove/Codita          97
+     QF  Drenth/Grey          def.  Telford/Gurtner      86
+     QF  Conrad/Hackman       def.  Berlanga/Lara        85
+  > Consolation
+      F  Telford/Gurtner      def.  Bove/Codita          98(3)
+     SQ  Bove/Codita          def.  Martinez Roca/Saund… 85
+     SQ  Telford/Gurtner      def.  Berlanga/Lara        85
+ > Flight B
+  > Main
+      F  Karcz/Solar          def.  Steele/Pluszczyk     97
+     SF  Steele/Pluszczyk     def.  Gilbert/Degtyaryov   85
+     SF  Karcz/Solar          def.  Shoesmith/Carrasco   84
+     QF  Gilbert/Degtyaryov   def.  Doherty/Ivanov       84
+     QF  Steele/Pluszczyk     def.  Richardson/Parisien  81
+     QF  Shoesmith/Carrasco   def.  Belli De Oliveira/G… 83
+     QF  Karcz/Solar          def.  Thatcher/Szarek      80
+  > Consolation
+      F  Belli De Oliveira/G… def.  Doherty/Ivanov       Walkover
+     SQ  Doherty/Ivanov       def.  Richardson/Parisien  84
+     SQ  Belli De Oliveira/G… def.  Thatcher/Szarek      81
+~~~
+
+<a name="21-93996"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  St. Lawrence University Fall Classic
+  Dates: Sep 11-12, 2021
+  Host: St. Lawrence University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > A Doubles
+  > Main
+      F  Lyu/Steiner          def.  Ayman/Wright         83
+     SF  Ayman/Wright         def.  Fagerberg/Shung      85
+     SF  Lyu/Steiner          def.  Griff/Tsyvin         87(4)
+     QF  Ayman/Wright         def.  Hamilton/Heilbronner 83
+     QF  Fagerberg/Shung      def.  Gritz/Reiner         81
+     QF  Lyu/Steiner          def.  Chin/Wang            83
+     QF  Griff/Tsyvin         def.  Haet/Turtledove      84
+     16  Ayman/Wright         def.  Del Zoppo/Dubilirer  81
+     16  Hamilton/Heilbronner def.  Bull/Berko           86
+     16  Gritz/Reiner         def.  Procaccino/Zolotukh… 82
+     16  Fagerberg/Shung      def.  OBrien/Weitzman      82
+     16  Lyu/Steiner          def.  Yuminaga/Vennam      86
+     16  Chin/Wang            def.  Kraft/Stavrakas      86
+     16  Haet/Turtledove      def.  Binopoulos/Jacobs    86
+     16  Griff/Tsyvin         def.  Martin/Movva         81
+  > Consolation
+      F  OBrien/Weitzman      def.  Kraft/Stavrakas      Default
+     SF  OBrien/Weitzman      def.  Bull/Berko           87(3)
+     SF  Kraft/Stavrakas      def.  Binopoulos/Jacobs    85
+     QQ  Bull/Berko           def.  Del Zoppo/Dubilirer  85
+     QQ  OBrien/Weitzman      def.  Procaccino/Zolotukh… Walkover
+     QQ  Kraft/Stavrakas      def.  Yuminaga/Vennam      86
+     QQ  Binopoulos/Jacobs    def.  Martin/Movva         82
 ~~~
 
 <a name="21-79025"></a>
