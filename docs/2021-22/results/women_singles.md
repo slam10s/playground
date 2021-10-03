@@ -131,16 +131,16 @@
 
 <a name="21-60580"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   Florida Division 1 Bedford Cup, Women
   Dates: Oct 1-3, 2021
   Host: Univ. Of South Florida (W)
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Flight A
   > East
-     SF (1) Emma Shelton          vs      Bente Spee           Sat @ 12:45
-     SF (4) Nandini Sharma        vs  (2) Alicia Dudeney       Sat @ 12:45
+     SF (1) Emma Shelton         def.     Bente Spee           63 63
+     SF (2) Alicia Dudeney       def. (4) Nandini Sharma       64 61
      QF (1) Emma Shelton         def.     Kamila Umarova       61 64
      QF     Bente Spee           def.     Jaleesa Leslie       61 60
      QF (4) Nandini Sharma       def.     Yasmine Kabbaj       61 63
@@ -166,9 +166,10 @@
      32     Annabelle Davis      def.     Noa Cohen            61 46 [4]
      32     Alexandria Mjos      def.     Diarra Thomas        61 61
   > West
-     SF     Sydney Berlin         vs      Andjela Skrobonja    Sat @ 14:15
+     SF     Grace Shumacher      def.     Summer Yardley       64 61
+     SF     Andjela Skrobonja    def.     Sydney Berlin        26 63 [5]
      QF     Summer Yardley       def.     Emily De Oliveira    76(5) 64
-     QF     Aylen Hubeaut         vs      Grace Shumacher      Sat @ 11:30
+     QF     Grace Shumacher      def.     Aylen Hubeaut        64 62
      QF     Sydney Berlin        def.     Sean Lodzki          61 60
      QF     Andjela Skrobonja    def.     Diarra Thomas        60 60
      16     Summer Yardley       def.     Katerina Filip       61 63
@@ -176,24 +177,32 @@
      16     Sydney Berlin        def.     Emma Bardet          76(6) 63
      16     Andjela Skrobonja    def.     Noa Cohen            63 61
   > North
-     SF     Nadja Bay Christians  vs  (3) Andreeea Velcea      Sat @ 14:15
-     SF     Martina Kudelova      vs      Annabelle Davis      Sat @ 14:15
+     SF (3) Andreeea Velcea      def.     Nadja Bay Christians Walkover
+     SF     Martina Kudelova     def.     Annabelle Davis      75 62
      QF     Nadja Bay Christians def.     ida ferding          Walkover
      QF (3) Andreeea Velcea      def.     Greta Schieroni      62 61
      QF     Martina Kudelova     def.     Amelie Boy           63 63
      QF     Annabelle Davis      def.     Alexandria Mjos      61 61
   > Northeast
-     SF     Kamila Umarova        vs      Jaleesa Leslie       Sat @ 14:15
-     SF     Yasmine Kabbaj        vs      Marie Mattel         Sat @ 15:00
+     SF     Kamila Umarova       def.     Jaleesa Leslie       62 62
+     SF     Yasmine Kabbaj       def.     Marie Mattel         64 67(3) [8]
   > South
-     SF     Katerina Filip        vs      fanny norin          Sat @ 12:45
-     SF     Emma Bardet           vs      Noa Cohen            Sat @ 12:45
+      F     Noa Cohen            def.     fanny norin          62 60
+     SF     fanny norin          def.     Katerina Filip       36 75 [7]
+     SF     Noa Cohen            def.     Emma Bardet          63 57 [7]
+  > Southwest
+     SF     Aylen Hubeaut        def.     Emily De Oliveira    Walkover
+     SF     Sean Lodzki          def.     Diarra Thomas        62 60
+  > Northwest
+     SF     Amelie Boy           def.     ida ferding          Walkover
+     SF     Greta Schieroni      def.     Alexandria Mjos      75 75
  > Flight B
   > East
-     SF     isabella colmenares   vs      Grace Eland          Sat @ 12:45
+     SF     isabella colmenares  def.     Grace Eland          57 62 [7]
+     SF     Sierra Berry         def.     Kristina Miletic     75 76(5)
      QF     isabella colmenares  def.     Ines Bekrar          61 62
      QF     Grace Eland          def.     Basak Akbas          36 64 [7]
-     QF     Isabel Oliveira       vs      Kristina Miletic     Sat @ 11:00
+     QF     Kristina Miletic     def.     Isabel Oliveira      06 76(6) [10]
      QF     Sierra Berry         def. (2) alba retortillo      63 61
      16     Ines Bekrar          def. (1) Anslee Long          62 75
      16     isabella colmenares  def.     Margriet Timmermans  61 67(7) [8]
@@ -217,8 +226,8 @@
      32     Susan Salinas        def.     Laia Pasini          61 16 [5]
      32     Millie-Mae Matthews  def.     Kendall Nash         26 64 [9]
   > West
-     SF     Anique Kattenberg     vs      Audelia Morin-Kougo… Sat @ 14:15
-     SF     Lucia Garriguez       vs      Kendall Nash         Sat @ 14:15
+     SF     Audelia Morin-Kougo… def.     Anique Kattenberg    64 16 [8]
+     SF     Lucia Garriguez      def.     Kendall Nash         60 64
      QF     Anique Kattenberg    def.     Adrienne Clayton     61 60
      QF     Audelia Morin-Kougo… def.     Daliyah Hammoud      63 60
      QF     Lucia Garriguez      def.     lola glantz          62 63
@@ -229,16 +238,25 @@
      16     Lucia Garriguez      def.     Carina Sommer        46 64 [6]
      16     Laia Pasini          def.     Sierra Sandy         76(1) 61
   > North
-     QF (1) Anslee Long           vs      Margriet Timmermans  Sat @ 12:45
-     QF     Tess Menten           vs      jordana ossa         Sat @ 12:45
-     QF     Laetitia Rizk         vs      Amber MGinnis        Sat @ 12:45
-     QF     Susan Salinas         vs      Millie-Mae Matthews  Sat @ 12:45
+     SF     jordana ossa         def. (1) Anslee Long          62 26 [8]
+     SF     Amber MGinnis        def.     Millie-Mae Matthews  Walkover
+     QF (1) Anslee Long          def.     Margriet Timmermans  63 76(1)
+     QF     jordana ossa         def.     Tess Menten          16 62 [8]
+     QF     Amber MGinnis        def.     Laetitia Rizk        61 63
+     QF     Millie-Mae Matthews  def.     Susan Salinas        64 61
+  > Northeast
+     SF     Ines Bekrar          def.     Isabel Oliveira      Walkover
+     SF     Basak Akbas          def. (2) alba retortillo      Walkover
   > South
-     SF     Anna Dovgopolyi       vs      Claudia Sumaia       Sat @ 14:15
-     SF     Carina Sommer         vs      Sierra Sandy         Sat @ 12:45
+     SF     Anna Dovgopolyi      def.     Claudia Sumaia       61 63
+     SF     Carina Sommer        def.     Sierra Sandy         60 62
      QF     Claudia Sumaia       def.     Selene Kentish       61 64
   > Southwest
-     SF     Adrienne Clayton      vs      Daliyah Hammoud      Sat @ 14:15
+     SF     Daliyah Hammoud      def.     Adrienne Clayton     62 26 [12]
+     SF     lola glantz          def.     Laia Pasini          61 63
+  > Northwest
+     SF     Tess Menten          def.     Margriet Timmermans  64 61
+     SF     Laetitia Rizk        def.     Susan Salinas        62 64
 ~~~
 
 <a name="21-03077"></a>
@@ -251,22 +269,30 @@
  Women's Open Singles
  > Draw
   > Main
-      32  (1) Yvonna Zuffova        vs       Sifa Butcher         Sat @ 10:30
-      32 (14) Minorka Miranda       vs       Karly Friedland      Sat @ 10:30
-      32  (6) Jojo Bach             vs       Olivia Ryan          Sat @ 09:45
-      32      Stella Ribaudo        vs       Ana Utrilla Benito   Sat @ 11:00
-      32  (4) Stella Wiesmann       vs       Alina Lebedeva       Sat @ 11:00
-      32 (10) Selma Cadar           vs       Agata Mikos          Sat @ 11:00
-      32  (5) Samantha Johns        vs       Katreina Corpuz      Sat @ 11:00
-      32 (16) Avantika Willy        vs       Paige La             Sat @ 12:30
-      32      Morgan Coburn         vs  (11) Jillian Taggart      Sat @ 12:30
-      32      Samantha Svendsen     vs   (8) McHaley Ho           Sat @ 12:30
-      32 (13) Kacey Moore           vs       Francesca Feodorov   Sat @ 09:45
-      32      Katarina Marinkovikj  vs   (3) Aliza Askarova       Sat @ 14:00
-      32      Asmara Rose           vs  (12) Emily Tannenbaum     Sat @ 14:00
-      32      Ana Torrente          vs   (7) Alexandra Nielsen    Sat @ 14:00
-      32      Hannah Smith          vs   (9) Juleta Honrubia      Sat @ 14:00
-      32      Grace Hashiguchi      vs   (2) Mary Brumfield       Sat @ 14:00
+      16  (1) Yvonna Zuffova        vs  (14) Minorka Miranda      Sun @ 10:00
+      16  (6) Jojo Bach             vs       Ana Utrilla Benito   Sun @ 09:00
+      16  (4) Stella Wiesmann       vs  (10) Selma Cadar          Sun @ 11:00
+      16      Katreina Corpuz       vs  (16) Avantika Willy       Sun @ 10:00
+      16 (11) Jillian Taggart       vs   (8) McHaley Ho           Sun @ 10:00
+      16      Francesca Feodorov    vs       Katarina Marinkovikj Sun @ 11:00
+      16 (12) Emily Tannenbaum      vs       Ana Torrente         Sun @ 10:00
+      16  (9) Juleta Honrubia       vs   (2) Mary Brumfield       Sun @ 09:00
+      32  (1) Yvonna Zuffova       def.      Sifa Butcher         60 75
+      32 (14) Minorka Miranda      def.      Karly Friedland      63 76(2)
+      32  (6) Jojo Bach            def.      Olivia Ryan          63 61
+      32      Ana Utrilla Benito   def.      Stella Ribaudo       62 63
+      32  (4) Stella Wiesmann      def.      Alina Lebedeva       63 34 Ret.
+      32 (10) Selma Cadar          def.      Agata Mikos          62 62
+      32      Katreina Corpuz      def.  (5) Samantha Johns       63 63
+      32 (16) Avantika Willy       def.      Paige La             63 63
+      32 (11) Jillian Taggart      def.      Morgan Coburn        64 61
+      32  (8) McHaley Ho           def.      Samantha Svendsen    64 16 63
+      32      Francesca Feodorov   def. (13) Kacey Moore          61 16 61
+      32      Katarina Marinkovikj def.  (3) Aliza Askarova       62 62
+      32 (12) Emily Tannenbaum     def.      Asmara Rose          62 60
+      32      Ana Torrente         def.  (7) Alexandra Nielsen    67(4) 43 Ret.
+      32  (9) Juleta Honrubia      def.      Hannah Smith         63 36 61
+      32  (2) Mary Brumfield       def.      Grace Hashiguchi     60 75
       64  (1) Yvonna Zuffova       def.      Themis Haliou        62 60
       64      Sifa Butcher         def.      Isabella Montana     62 75
       64 (14) Minorka Miranda      def.      Alexandra Vesikallio 64 60
@@ -318,24 +344,38 @@
      128      Ellen Shanahan       def.      Kate Lee             36 76(2) Ret.
      128      Nadia Pegram         def.      Fabiana Tort-Umpier… 61 64
   > Consolation
-      32      Alexandra Vesikallio  vs       Riya Mathur          Sat @ 10:30
-      32      Megan Etienne         vs       Savanna Crowell      Sat @ 10:30
-      32 (15) Amanda Nava           vs       Sylvia Eklund        Sat @ 12:00
-      32      Sarah Pospischill     vs       Stefania Moysiadi    Sat @ 10:30
-      32      Jordan Grayson        vs       Adriana Barney       Sat @ 10:30
-      32      Stow Weiss            vs       Viva Laas            Sat @ 10:30
-      32      Shirley Liang         vs       Ireland Amato        Sat @ 10:30
-      32      Sophia Amato          vs       Sissi Axelsson       Sat @ 12:00
-      32      Olivia Rothfeld       vs       Oluwayemisi Ifederu  Sat @ 12:00
-      32      Christy Turner        vs       Vera Markovic        Sat @ 12:00
+      QF      Jordan Grayson        vs       Viva Laas            Sun @ 10:00
+      QF      Oluwayemisi Ifederu   vs       Deanna Lasorda       Sun @ 09:00
+      16      Alexandra Vesikallio def.      Ameilia Lawson       Walkover
+      16      Sylvia Eklund         vs       Savanna Crowell      Sun @ 09:00
+      16      Jordan Grayson       def.      Sarah Pospischill    Walkover
+      16      Viva Laas            def.      Shirley Liang        Walkover
+      16      Oluwayemisi Ifederu  def.      Sophia Amato         Walkover
+      16      Deanna Lasorda       def.      Jessica Assenmacher  Walkover
+      16      Vera Markovic         vs       Iva Jankovic         Sun @ 09:00
+      16      Emily Wirt           def.      Fabiana Tort-Umpier… Walkover
+      32      Ameilia Lawson       def.      Amber Policare       Walkover
+      32      Alexandra Vesikallio def.      Riya Mathur          64 46 [3]
+      32      Savanna Crowell      def.      Megan Etienne        62 61
+      32      Sylvia Eklund        def. (15) Amanda Nava          26 75 [2]
+      32      Sarah Pospischill    def.      Stefania Moysiadi    76(4) 63
+      32      Jordan Grayson       def.      Adriana Barney       60 61
+      32      Viva Laas            def.      Stow Weiss           75 64
+      32      Shirley Liang        def.      Ireland Amato        57 61 [3]
+      32      Sophia Amato         def.      Sissi Axelsson       61 64
+      32      Oluwayemisi Ifederu  def.      Olivia Rothfeld      61 36 [8]
+      32      Jessica Assenmacher  def.      Jackie Nannery       63 64
+      32      Deanna Lasorda       def.      Corinne Farid        61 61
+      32      Vera Markovic        def.      Christy Turner       60 62
+      32      Iva Jankovic         def.      Daniela Latoni       76(5) 57 [8]
       32      Emily Wirt           def.      Kate Lee             Walkover
-      32      Sydney Weinberg       vs       Fabiana Tort-Umpier… Sat @ 12:00
-      64      Isabella Montana      vs       Ameilia Lawson       Sat @ 12:00
+      32      Fabiana Tort-Umpier… def.      Sydney Weinberg      62 61
+      64      Ameilia Lawson       def.      Isabella Montana     64 16 [6]
       64 (15) Amanda Nava          def.      Ashley Fitz-Patrick  Walkover
-      64      Chloe Bendetti        vs       Jackie Nannery       Sat @ 10:00
-      64      Deanna Lasorda        vs       Averiana Mitchell    Sat @ 10:00
+      64      Jackie Nannery       def.      Chloe Bendetti       Walkover
+      64      Deanna Lasorda       def.      Averiana Mitchell    61 61
       64      Corinne Farid        def.      Hannah Yang          Walkover
-      64      Gracey Hirsch         vs       Iva Jankovic         Sat @ 09:00
+      64      Iva Jankovic         def.      Gracey Hirsch        16 76(6) [7]
 ~~~
 
 <a name="21-54831"></a>
@@ -453,15 +493,38 @@
  Women's Open Singles
  > Draw
   > Main
-      64  (1) Jennifer Kerr         vs       Aleksandra Karamysh… Sat @ 09:00
-      64 (17) Sophia Reddy          vs       Olivia Wright        Sat @ 09:00
-      64  (9) Rena Lin              vs       Thamonpan Jonglerta… Sat @ 09:00
-      64 (17) Caroline Vincent      vs       Erin Chratian        Sat @ 09:00
-      64  (1) Mirabelle Bretkelly   vs       Avery Aude           Sat @ 09:00
-      64 (17) Julieanne Bou         vs       Katarina Plumtree    Sat @ 09:00
-      64  (9) Anna Napadiy          vs       Sydney Chratian      Sat @ 09:00
-      64 (17) Mouna Bouzgarrou      vs       Brittney Wilbur      Sat @ 09:00
-      64  (1) Rachel Arbitman       vs       Emilie Haakansson    Sat @ 09:00
+      32  (1) Jennifer Kerr        def. (17) Sophia Reddy         64 62
+      32  (9) Rena Lin             def.      Erin Chratian        60 62
+      32  (1) Mirabelle Bretkelly  def. (17) Julieanne Bou        63 62
+      32 (17) Mouna Bouzgarrou     def.      Sydney Chratian      64 61
+      32  (1) Rachel Arbitman      def. (17) Clarine Lerby        75 64
+      32  (9) Michelle Kleynerman  def.      Sophie Edwards       62 63
+      32  (1) Natasha Irani        def. (17) Rachel Lim           63 61
+      32  (9) Julia Haynes         def.      Winta Tewolde        63 60
+      32  (9) Holly Fischer        def. (17) Chloe Yoo            75 64
+      32  (1) Sasha Wood           def.      Danielle Hack        64 62
+      32  (9) Chidimma Okpara      def. (17) Renata Farima        36 63 [8]
+      32      IVETA DAUJOTAITE     def.  (1) Laura Lopez          64 26 [10]
+      32  (9) Polina Akimova       def. (17) Muskan Mahajan       Walkover
+      32 (17) Erica Di Battista    def.      Cooper Jackson       62 63
+      32      Angel You            def.  (9) Ashley Hess          61 75
+      32  (1) Caroline Dunleavy    def. (17) Alexandra Benedetto  60 60
+      64  (1) Jennifer Kerr        def.      Aleksandra Karamysh… 64 63
+      64 (17) Sophia Reddy         def.      Olivia Wright        62 64
+      64  (9) Rena Lin             def.      Thamonpan Jonglerta… 63 61
+      64      Erin Chratian        def. (17) Caroline Vincent     64 62
+      64  (1) Mirabelle Bretkelly  def.      Avery Aude           63 67(6) [5]
+      64 (17) Julieanne Bou        def.      Katarina Plumtree    26 61 [5]
+      64      Sydney Chratian      def.  (9) Anna Napadiy         75 63
+      64 (17) Mouna Bouzgarrou     def.      Brittney Wilbur      60 63
+      64  (1) Rachel Arbitman      def.      Emilie Haakansson    63 60
+      64 (17) Clarine Lerby        def.      Paola Bou            62 60
+      64  (9) Michelle Kleynerman  def.      Lindsey Hofflander   64 62
+      64      Sophie Edwards       def. (17) Alessia Truden       57 76(5) [1]
+      64  (1) Natasha Irani        def.      Rhea Shrivistava     63 61
+      64 (17) Rachel Lim           def.      Tiara Higuchi        60 63
+      64  (9) Julia Haynes         def.      Jayden Nielsen       62 62
+      64      Winta Tewolde        def. (17) Stephanie Dolehide   76(4) 46 [7]
       64 (17) Chloe Yoo            def.      Aina March           62 61
       64  (9) Holly Fischer        def.      Willa Bay Breunich   63 60
       64      Danielle Hack        def. (17) Valeria Deminova     62 61
@@ -514,16 +577,17 @@
 
 <a name="21-07548"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   Mercer Gridiron Classic
   Dates: Oct 1-3, 2021
   Host: Mercer University (M)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Singles Flight A1
   > East
-     SF (1) Lucie Petruzelova     vs      Vaishali Jorge       Sat @ 11:00
-     SF (4) Katherine Muzik       vs  (2) Laylo Bakhodirova    Sat @ 11:00
+      F (1) Lucie Petruzelova     vs  (4) Katherine Muzik      Sun @ 09:30
+     SF (1) Lucie Petruzelova    def.     Vaishali Jorge       46 60 61
+     SF (4) Katherine Muzik      def. (2) Laylo Bakhodirova    64 61
      QF (1) Lucie Petruzelova    def.     Angel Carney         63 57 75
      QF     Vaishali Jorge       def.     Carolina Bulatovic   63 46 62
      QF (4) Katherine Muzik      def.     Alessia Piccoliori   61 64
@@ -537,22 +601,34 @@
      16     Jana Hecking         def.     Mary Courville       63 46 63
      16 (2) Laylo Bakhodirova    def.     Sofia Shing          63 63
   > West
-     SF     Anastasiia Khokhlova  vs      Jou Chen Chen        Sat @ 11:00
-     SF     Lizaveta Dzemchanka   vs      Sofia Shing          Sat @ 11:00
+      F     Anastasiia Khokhlova  vs      Sofia Shing          Sun @ 09:30
+     SF     Anastasiia Khokhlova def.     Jou Chen Chen        64 60
+     SF     Sofia Shing          def.     Lizaveta Dzemchanka  62 61
      QF     Anastasiia Khokhlova def.     Laura Vetter         75 63
      QF     Jou Chen Chen        def. (3) Luise Reisel         Walkover
      QF     Lizaveta Dzemchanka  def.     Nahia Izco           62 62
      QF     Sofia Shing          def.     Mary Courville       64 64
   > North
-     SF     Angel Carney          vs      Carolina Bulatovic   Sat @ 11:00
-     SF     Alessia Piccoliori    vs      Jana Hecking         Sat @ 11:00
+      F     Angel Carney          vs      Jana Hecking         Sun @ 09:30
+     SF     Angel Carney         def.     Carolina Bulatovic   30 Ret.
+     SF     Jana Hecking         def.     Alessia Piccoliori   64 61
+  > 3-4 Playoff
+      F     Vaishali Jorge        vs  (2) Laylo Bakhodirova    Sun @ 09:30
   > South
+      F     Laura Vetter          vs      Mary Courville       Sun @ 09:30
      SF     Laura Vetter         def. (3) Luise Reisel         Walkover
-     SF     Nahia Izco            vs      Mary Courville       Sat @ 11:00
+     SF     Mary Courville       def.     Nahia Izco           61 60
+  > Southwest
+      F     Jou Chen Chen         vs      Lizaveta Dzemchanka  Sun @ 09:30
+  > Northwest
+      F     Carolina Bulatovic    vs      Alessia Piccoliori   Sun @ 09:30
+  > Southeast
+      F     Nahia Izco           def. (3) Luise Reisel         Walkover
  > Singles Flight A2
   > East
-     SF     Yue Yu                vs  (3) Adela Wasserbauerova Sat @ 11:00
-     SF     Sahra Bouchaala       vs  (2) Kaavya Sawhney       Sat @ 11:00
+      F (3) Adela Wasserbauerova  vs      Sahra Bouchaala      Sun @ 09:30
+     SF (3) Adela Wasserbauerova def.     Yue Yu               63 63
+     SF     Sahra Bouchaala      def. (2) Kaavya Sawhney       61 60
      QF     Yue Yu               def.     Alara Hollyfield     76(4) 06 63
      QF (3) Adela Wasserbauerova def.     Emilia Richter       61 61
      QF     Sahra Bouchaala      def. (4) Alejandra Morales    63 63
@@ -566,23 +642,32 @@
      16     Anna Markvartova     def.     Valentina Taddia     61 64
      16 (2) Kaavya Sawhney       def.     Maya Boynton         61 60
   > West
-     SF     Alexia Alvarez        vs      Andrea Widing        Sat @ 11:30
-     SF     Minnie Kim            vs      Valentina Taddia     Sat @ 11:30
+      F     Alexia Alvarez        vs      Valentina Taddia     Sun @ 09:30
+     SF     Alexia Alvarez       def.     Andrea Widing        64 63
+     SF     Valentina Taddia     def.     Minnie Kim           75 61
      QF     Alexia Alvarez       def. (1) Mila Hartig          Walkover
      QF     Andrea Widing        def.     Lea-Alessandra Mazz… 76(6) 63
      QF     Minnie Kim           def.     Zuzana Pavelekova    Walkover
      QF     Valentina Taddia     def.     Maya Boynton         60 61
   > North
-     SF     Alara Hollyfield      vs      Emilia Richter       Sat @ 11:00
-     SF (4) Alejandra Morales     vs      Anna Markvartova     Sat @ 11:00
+      F     Alara Hollyfield      vs  (4) Alejandra Morales    Sun @ 09:30
+     SF     Alara Hollyfield     def.     Emilia Richter       63 75
+     SF (4) Alejandra Morales    def.     Anna Markvartova     46 63 [3]
+  > 3-4 Playoff
+      F     Yue Yu                vs  (2) Kaavya Sawhney       Sun @ 09:30
   > South
-      F     Lea-Alessandra Mazz…  vs      Maya Boynton         Sat @ 11:30
+      F     Lea-Alessandra Mazz… def.     Maya Boynton         64 61
      SF     Lea-Alessandra Mazz… def. (1) Mila Hartig          Walkover
      SF     Maya Boynton         def.     Zuzana Pavelekova    Walkover
+  > Southwest
+      F     Andrea Widing         vs      Minnie Kim           Sun @ 09:30
+  > Northwest
+      F     Emilia Richter        vs      Anna Markvartova     Sun @ 09:30
  > Singles Flight B1
   > East
-     SF (1) Fernanda Carvajal     vs  (4) Romane Mosse         Sat @ 11:30
-     SF     Priya Sukkanha        vs      Angelina Linnikova   Sat @ 11:30
+      F (1) Fernanda Carvajal     vs      Priya Sukkanha       Sun @ 09:30
+     SF (1) Fernanda Carvajal    def. (4) Romane Mosse         63 64
+     SF     Priya Sukkanha       def.     Angelina Linnikova   63 76(5)
      QF (1) Fernanda Carvajal    def.     Pragnya Kumar        63 60
      QF (4) Romane Mosse         def.     Urska Velec          64 61
      QF     Priya Sukkanha       def. (3) Sydney Clarke        63 63
@@ -596,22 +681,34 @@
      16     Angelina Linnikova   def.     Olivia Elliott       63 63
      16     Jenna Dean           def. (2) Sophie Wagemaker     62 61
   > West
-     SF     Maxima Ellenberg      vs      Alba De La Torre     Sat @ 12:30
-     SF     Emma Fleming          vs      Olivia Elliott       Sat @ 12:30
+      F     Maxima Ellenberg      vs      Emma Fleming         Sun @ 09:30
+     SF     Maxima Ellenberg     def.     Alba De La Torre     64 63
+     SF     Emma Fleming         def.     Olivia Elliott       64 63
      QF     Maxima Ellenberg     def.     Pilar Becerra        60 60
      QF     Alba De La Torre     def.     Sophia Unger         Walkover
      QF     Emma Fleming         def.     Lauren Rich          Walkover
      QF     Olivia Elliott       def. (2) Sophie Wagemaker     63 64
   > North
-     SF     Pragnya Kumar         vs      Urska Velec          Sat @ 11:30
-     SF (3) Sydney Clarke         vs      Jenna Dean           Sat @ 11:30
+      F     Urska Velec           vs      Jenna Dean           Sun @ 09:30
+     SF     Urska Velec          def.     Pragnya Kumar        26 64 [4]
+     SF     Jenna Dean           def. (3) Sydney Clarke        75 76(4)
+  > 3-4 Playoff
+      F (4) Romane Mosse          vs      Angelina Linnikova   Sun @ 09:30
   > South
+      F     Pilar Becerra         vs  (2) Sophie Wagemaker     Sun @ 09:30
      SF     Pilar Becerra        def.     Sophia Unger         Walkover
-     SF     Lauren Rich           vs  (2) Sophie Wagemaker     Sat @ 12:30
+     SF (2) Sophie Wagemaker     def.     Lauren Rich          64 61
+  > Southwest
+      F     Alba De La Torre      vs      Olivia Elliott       Sun @ 09:30
+  > Northwest
+      F     Pragnya Kumar        def. (3) Sydney Clarke        Walkover
+  > Southeast
+      F     Lauren Rich          def.     Sophia Unger         Walkover
  > Singles Flight B2
   > East
-     SF (1) Emilia Alfaro         vs  (4) Michelle Ncube       Sat @ 13:00
-     SF     Ane Ibarra            vs  (2) Maggie White         Sat @ 13:00
+      F (1) Emilia Alfaro         vs  (2) Maggie White         Sun @ 11:00
+     SF (1) Emilia Alfaro        def. (4) Michelle Ncube       63 61
+     SF (2) Maggie White         def.     Ane Ibarra           16 63 [4]
      QF (1) Emilia Alfaro        def.     Soomin Kim           62 76(2)
      QF (4) Michelle Ncube       def.     Lekha Varudandi      46 64 63
      QF     Ane Ibarra           def.     Sofia Villalobos     61 62
@@ -625,22 +722,33 @@
      16     Francina Puig Llomp… def.     Cibeles Zuddy        Walkover
      16 (2) Maggie White         def.     Sonja Keranen        62 63
   > West
-     SF     Francesca Duca        vs      Vivien Charvatova    Sat @ 13:00
-     SF (3) Ella Tuomela          vs      Sonja Keranen        Sat @ 13:00
+     SF     Vivien Charvatova    def.     Francesca Duca       06 75 [3]
+     SF (3) Ella Tuomela         def.     Sonja Keranen        26 76(4) [8]
      QF     Francesca Duca       def.     Camille Dufays       62 60
      QF     Vivien Charvatova    def.     Maddy Frediani       16 76 [4]
      QF (3) Ella Tuomela         def.     Ellie Black          62 61
      QF     Sonja Keranen        def.     Cibeles Zuddy        Walkover
   > North
-     SF     Soomin Kim            vs      Lekha Varudandi      Sat @ 13:00
-     SF     Sofia Villalobos      vs      Francina Puig Llomp… Sat @ 13:00
+      F     Soomin Kim            vs      Francina Puig Llomp… Sun @ 11:00
+     SF     Soomin Kim           def.     Lekha Varudandi      62 62
+     SF     Francina Puig Llomp… def.     Sofia Villalobos     61 63
+  > 3-4 Playoff
+      F (4) Michelle Ncube        vs      Ane Ibarra           Sun @ 11:00
   > South
-     SF     Camille Dufays        vs      Maddy Frediani       Sat @ 13:00
+      F     Maddy Frediani        vs      Ellie Black          Sun @ 11:30
+     SF     Maddy Frediani       def.     Camille Dufays       63 64
      SF     Ellie Black          def.     Cibeles Zuddy        Walkover
+  > Southwest
+      F     Francesca Duca        vs      Sonja Keranen        Sun @ 11:30
+  > Northwest
+      F     Lekha Varudandi       vs      Sofia Villalobos     Sun @ 11:00
+  > Southeast
+      F     Camille Dufays       def.     Cibeles Zuddy        Walkover
  > Singles Flight C1
   > East
-     SF     Daniela Rivera        vs      Kristina Kukaras     Sat @ 13:30
-     SF     Kristin Yordanova     vs  (2) Yunuen Elizarraras   Sat @ 13:30
+      F     Daniela Rivera        vs  (2) Yunuen Elizarraras   Sun @ 11:30
+     SF     Daniela Rivera       def.     Kristina Kukaras     63 63
+     SF (2) Yunuen Elizarraras   def.     Kristin Yordanova    61 61
      QF     Daniela Rivera       def.     Sofia Pinedo         75 62
      QF     Kristina Kukaras     def. (3) Annalisa Smith       57 64 60
      QF     Kristin Yordanova    def. (4) Dariana Prato        62 63
@@ -654,22 +762,34 @@
      16     Bea Acena            def.     Nicole Katzarkov     46 62 62
      16 (2) Yunuen Elizarraras   def.     Vanessa Mellynchuk   76(3) 60
   > West
-     SF     Maddie Brown          vs      Johanna Lippert      Sat @ 13:30
-     SF     Nina Thomet           vs      Vanessa Mellynchuk   Sat @ 13:30
+      F     Johanna Lippert       vs      Vanessa Mellynchuk   Sun @ 11:30
+     SF     Johanna Lippert      def.     Maddie Brown         62 62
+     SF     Vanessa Mellynchuk   def.     Nina Thomet          62 62
      QF     Maddie Brown         def. (1) Olivia Bryant        64 36 [9]
      QF     Johanna Lippert      def.     Shradha Chhabra      63 63
      QF     Nina Thomet          def.     Marianna Espinosa    61 64
      QF     Vanessa Mellynchuk   def.     Nicole Katzarkov     62 62
   > North
-     SF     Sofia Pinedo          vs  (3) Annalisa Smith       Sat @ 13:30
-     SF (4) Dariana Prato         vs      Bea Acena            Sat @ 13:30
+      F     Sofia Pinedo          vs      Bea Acena            Sun @ 11:30
+     SF     Sofia Pinedo         def. (3) Annalisa Smith       46 75 [6]
+     SF     Bea Acena            def. (4) Dariana Prato        Walkover
+  > 3-4 Playoff
+      F     Kristina Kukaras      vs      Kristin Yordanova    Sun @ 11:30
   > South
-     SF (1) Olivia Bryant         vs      Shradha Chhabra      Sat @ 13:30
-     SF     Marianna Espinosa     vs      Nicole Katzarkov     Sat @ 13:30
+      F (1) Olivia Bryant         vs      Nicole Katzarkov     Sun @ 11:30
+     SF (1) Olivia Bryant        def.     Shradha Chhabra      75 61
+     SF     Nicole Katzarkov     def.     Marianna Espinosa    60 63
+  > Southwest
+      F     Maddie Brown          vs      Nina Thomet          Sun @ 11:30
+  > Northwest
+      F (3) Annalisa Smith       def. (4) Dariana Prato        Walkover
+  > Southeast
+      F     Shradha Chhabra       vs      Marianna Espinosa    Sun @ 11:30
  > Singles Flight C2
   > East
-     SF (1) Mayya Gorbunova       vs  (4) Amulika Gottiparthy  Sat @ 14:00
-     SF     Anna Syrova           vs  (2) Rafaella Villanueva  Sat @ 14:00
+      F (1) Mayya Gorbunova       vs  (2) Rafaella Villanueva  Sun @ 11:30
+     SF (1) Mayya Gorbunova      def. (4) Amulika Gottiparthy  63 63
+     SF (2) Rafaella Villanueva  def.     Anna Syrova          63 64
      QF (1) Mayya Gorbunova      def.     Claudelle Labonte-F… 63 63
      QF (4) Amulika Gottiparthy  def.     Paulina Katsoudas    60 60
      QF     Anna Syrova          def. (3) Kennedi Jones        46 63 75
@@ -683,26 +803,37 @@
      16     Kelly Klaren         def.     Lisa McKenzie        61 61
      16 (2) Rafaella Villanueva  def.     Hannah Hogg          60 63
   > West
-     SF     Ana Tarbujaru         vs      Ashley Popham        Sat @ 14:30
-     SF     Ashton Morrison       vs      Hannah Hogg          Sat @ 14:30
+      F     Ashley Popham         vs      Ashton Morrison      Sun @ 11:30
+     SF     Ashley Popham        def.     Ana Tarbujaru        63 62
+     SF     Ashton Morrison      def.     Hannah Hogg          36 63 [1]
      QF     Ana Tarbujaru        def.     Tiffany-Anne Beukes  63 76(2)
      QF     Ashley Popham        def.     JoAnna Gallman       60 61
      QF     Ashton Morrison      def.     Caroline Lewis       61 60
      QF     Hannah Hogg          def.     Lisa McKenzie        62 61
   > North
-     SF     Claudelle Labonte-F…  vs      Paulina Katsoudas    Sat @ 14:00
-     SF (3) Kennedi Jones         vs      Kelly Klaren         Sat @ 14:00
+      F     Claudelle Labonte-F…  vs      Kelly Klaren         Sun @ 11:30
+     SF     Claudelle Labonte-F… def.     Paulina Katsoudas    63 60
+     SF     Kelly Klaren         def. (3) Kennedi Jones        Walkover
+  > 3-4 Playoff
+      F (4) Amulika Gottiparthy   vs      Anna Syrova          Sun @ 11:30
   > South
-     SF     Tiffany-Anne Beukes   vs      JoAnna Gallman       Sat @ 14:30
-     SF     Caroline Lewis        vs      Lisa McKenzie        Sat @ 14:30
+      F     Tiffany-Anne Beukes   vs      Lisa McKenzie        Sun @ 11:30
+     SF     Tiffany-Anne Beukes  def.     JoAnna Gallman       63 61
+     SF     Lisa McKenzie        def.     Caroline Lewis       62 76(1)
+  > Southwest
+      F     Ana Tarbujaru         vs      Hannah Hogg          Sun @ 11:30
+  > Northwest
+      F     Paulina Katsoudas    def. (3) Kennedi Jones        Walkover
+  > Southeast
+      F     JoAnna Gallman        vs      Caroline Lewis       Sun @ 11:30
  > Singles Flight D
   > Main
      R4     Melody Cantrell       vs      Tania Herrera        Sun @ 11:30
      R4     Svetlana Teterina     vs      Alexandra Ferreira … Sun @ 11:30
      R4     Sofia Gonzalez        vs      Balsen Kaya          Sun @ 11:30
-     R3     Svetlana Teterina     vs      Sofia Gonzalez       Sat @ 14:30
-     R3     Melody Cantrell       vs      Alexandra Ferreira … Sat @ 14:30
-     R3     Tania Herrera         vs      Balsen Kaya          Sat @ 14:30
+     R3     Svetlana Teterina    def.     Sofia Gonzalez       62 60
+     R3     Alexandra Ferreira … def.     Melody Cantrell      61 61
+     R3     Balsen Kaya          def.     Tania Herrera        60 60
      R2     Svetlana Teterina    def.     Tania Herrera        60 60
      R2     Alexandra Ferreira … def.     Sofia Gonzalez       60 60
      R2     Melody Cantrell      def.     Balsen Kaya          63 76(2)

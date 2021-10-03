@@ -129,11 +129,12 @@
      SF  Blando/Blando      def.  Zelver/Watkins     62
      SF  Buckland/Monteiro  def.  Robbertse/Matuszak 76(4)
   > North
-      F  Sciglitano/Baldwin  vs   Fuchs/Leite        Sun @ 10:00
      SF  Sciglitano/Baldwin def.  Kristensen/Trhac   Walkover
      SF  Fuchs/Leite        def.  Fujita/Petrovic    62
   > 3-4 Playoff
       F  Kramer/Cankus       vs   Hallgren/Benn      Sun @ 10:00
+  > Southwest
+      F  Zelver/Watkins     def.  Robbertse/Matuszak 76(4)
 ~~~
 
 <a name="21-07548"></a>
@@ -146,8 +147,9 @@
  Men's Open Doubles
  > Doubles Flight A
   > East
-     SF (1) Duarte/Grinvalds      vs  (3) Sarrio/Robbins       Sat @ 09:30
-     SF (4) Patel/Tezuka          vs  (2) Huempfner/Stodder    Sat @ 09:30
+      F (3) Sarrio/Robbins        vs  (2) Huempfner/Stodder    Sun @ 08:30
+     SF (3) Sarrio/Robbins       def. (1) Duarte/Grinvalds     64
+     SF (2) Huempfner/Stodder    def. (4) Patel/Tezuka         62
      QF (1) Duarte/Grinvalds     def.     Hillhouse/Martens    61
      QF (3) Sarrio/Robbins       def.     Lopez Cruz/Tryakshin 62
      QF (4) Patel/Tezuka         def.     Cizek/Malirz         62
@@ -161,22 +163,34 @@
      16     Norwood/Blanchar     def.     Portugal/Judy-Hansen 62
      16 (2) Huempfner/Stodder    def.     Cantero/Tsai         64
   > West
-     SF     Benoit/Waldow         vs      Shoemake/Bencrdic    Sat @ 09:30
-     SF     Del Castillo/Roumpis  vs      Cantero/Tsai         Sat @ 09:30
+      F     Shoemake/Bencrdic     vs      Cantero/Tsai         Sun @ 08:30
+     SF     Shoemake/Bencrdic    def.     Benoit/Waldow        63
+     SF     Cantero/Tsai         def.     Del Castillo/Roumpis 62
      QF     Benoit/Waldow        def.     Bajracharya/Du Preez 64
      QF     Shoemake/Bencrdic    def.     WAYENBURG/GEORGADZE  63
      QF     Del Castillo/Roumpis def.     Luna/Verlaguet       76(5)
      QF     Cantero/Tsai         def.     Portugal/Judy-Hansen 61
   > North
-     SF     Hillhouse/Martens     vs      Lopez Cruz/Tryakshin Sat @ 09:30
-     SF     Cizek/Malirz          vs      Norwood/Blanchar     Sat @ 09:30
+      F     Hillhouse/Martens     vs      Cizek/Malirz         Sun @ 08:30
+     SF     Hillhouse/Martens    def.     Lopez Cruz/Tryakshin 76(3)
+     SF     Cizek/Malirz         def.     Norwood/Blanchar     76
+  > 3-4 Playoff
+      F (1) Duarte/Grinvalds      vs  (4) Patel/Tezuka         Sun @ 08:30
   > South
-     SF     Bajracharya/Du Preez  vs      WAYENBURG/GEORGADZE  Sat @ 09:30
-     SF     Luna/Verlaguet        vs      Portugal/Judy-Hansen Sat @ 09:30
+      F     WAYENBURG/GEORGADZE   vs      Luna/Verlaguet       Sun @ 08:30
+     SF     WAYENBURG/GEORGADZE  def.     Bajracharya/Du Preez 64
+     SF     Luna/Verlaguet       def.     Portugal/Judy-Hansen 62
+  > Southwest
+      F     Benoit/Waldow         vs      Del Castillo/Roumpis Sun @ 08:30
+  > Northwest
+      F     Lopez Cruz/Tryakshin  vs      Norwood/Blanchar     Sun @ 08:30
+  > Southeast
+      F     Bajracharya/Du Preez  vs      Portugal/Judy-Hansen Sun @ 08:30
  > Doubles Flight B
   > East
-     SF     Brainard/Gaskin       vs      Vishnevskiy/Garayev  Sat @ 09:30
-     SF     Bernard/Llinares      vs      Dobrnjac/Inagawa     Sat @ 09:30
+      F     Brainard/Gaskin       vs      Dobrnjac/Inagawa     Sun @ 08:30
+     SF     Brainard/Gaskin      def.     Vishnevskiy/Garayev  64
+     SF     Dobrnjac/Inagawa     def.     Bernard/Llinares     64
      QF     Brainard/Gaskin      def.     Brewer/Nunez         60
      QF     Vishnevskiy/Garayev  def.     Suk/Dun              76(3)
      QF     Bernard/Llinares     def.     Maust/Thomas         75
@@ -190,29 +204,53 @@
      16     Murillo/Osap         def.     BARROW/FLYNN         75
      16     Dobrnjac/Inagawa     def. (2) Lazo/Padilha         76(5)
   > West
-     SF     Mulas/Jacq            vs      BARROW/FLYNN         Sat @ 09:45
+      F (3) Botti/Salmeron        vs      Mulas/Jacq           Sun @ 08:30
+     SF (3) Botti/Salmeron       def.     Gedney/Stuart        64
+     SF     Mulas/Jacq           def.     BARROW/FLYNN         76(4)
      QF     Gedney/Stuart        def. (1) Marinescu/Maughan    Walkover
-     QF (3) Botti/Salmeron        vs      Jeanne-Grandinot/Jo… Sat @ 08:30
+     QF (3) Botti/Salmeron       def.     Jeanne-Grandinot/Jo… Walkover
      QF     Mulas/Jacq           def. (4) Jadoun/Diaz          63
      QF     BARROW/FLYNN         def. (2) Lazo/Padilha         64
   > North
-     SF     Brewer/Nunez          vs      Suk/Dun              Sat @ 09:45
-     SF     Maust/Thomas          vs      Murillo/Osap         Sat @ 09:45
+      F     Suk/Dun               vs      Murillo/Osap         Sun @ 08:30
+     SF     Suk/Dun              def.     Brewer/Nunez         61
+     SF     Murillo/Osap         def.     Maust/Thomas         62
+  > 3-4 Playoff
+      F     Vishnevskiy/Garayev   vs      Bernard/Llinares     Sun @ 08:30
   > South
-     SF (4) Jadoun/Diaz           vs  (2) Lazo/Padilha         Sat @ 09:45
+     SF     Jeanne-Grandinot/Jo… def. (1) Marinescu/Maughan    Walkover
+     SF (2) Lazo/Padilha         def. (4) Jadoun/Diaz          Walkover
+  > Southwest
+      F     Gedney/Stuart         vs      BARROW/FLYNN         Sun @ 08:30
+  > Northwest
+      F     Brewer/Nunez          vs      Maust/Thomas         Sun @ 08:30
+  > Southeast
+      F (4) Jadoun/Diaz          def. (1) Marinescu/Maughan    Walkover
  > Doubles Flight C
   > East
-     QF (1) Erramuspe/Rodriguez   vs      Amier/Amacher        Sat @ 09:00
-     QF (4) KRASHIN/MACLEOD       vs      Evenson/Sassi        Sat @ 09:00
-     QF     Kim/Tymes             vs  (3) Andre/Rodriguez      Sat @ 09:00
+      F     Evenson/Sassi         vs  (3) Andre/Rodriguez      Sun @ 08:30
+     SF     Evenson/Sassi        def. (1) Erramuspe/Rodriguez  64
+     SF (3) Andre/Rodriguez      def.     Robinson/Villamizar  62
+     QF (1) Erramuspe/Rodriguez  def.     Amier/Amacher        64
+     QF     Evenson/Sassi        def. (4) KRASHIN/MACLEOD      75
+     QF (3) Andre/Rodriguez      def.     Kim/Tymes            64
      QF     Robinson/Villamizar  def. (2) Mimata/Lee           Walkover
      16     Amier/Amacher        def.     Wade/Zapata          61
      16     Evenson/Sassi        def.     Cruz/Millwood        60
      16     Kim/Tymes            def.     Stoica/Veloso        62
      16     Robinson/Villamizar  def.     Fuller/Speranza      63
   > West
-     SF     Wade/Zapata           vs      Cruz/Millwood        Sat @ 10:15
-     SF     Stoica/Veloso         vs      Fuller/Speranza      Sat @ 10:15
+      F     Cruz/Millwood         vs      Fuller/Speranza      Sun @ 08:30
+     SF     Cruz/Millwood        def.     Wade/Zapata          63
+     SF     Fuller/Speranza      def.     Stoica/Veloso        63
+  > North
+      F     Amier/Amacher         vs      Kim/Tymes            Sun @ 08:30
+     SF     Amier/Amacher        def. (4) KRASHIN/MACLEOD      Walkover
+     SF     Kim/Tymes            def. (2) Mimata/Lee           Walkover
+  > 3-4 Playoff
+      F (1) Erramuspe/Rodriguez   vs      Robinson/Villamizar  Sun @ 08:30
+  > Southwest
+      F     Wade/Zapata           vs      Stoica/Veloso        Sun @ 08:30
 ~~~
 
 Return to the [Top](./men_doubles_2139.md) &#124; [Home Page](../../index.md)

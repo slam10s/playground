@@ -22,22 +22,30 @@
  Women's Open Singles
  > Draw
   > Main
-      32  (1) Yvonna Zuffova        vs       Sifa Butcher         Sat @ 10:30
-      32 (14) Minorka Miranda       vs       Karly Friedland      Sat @ 10:30
-      32  (6) Jojo Bach             vs       Olivia Ryan          Sat @ 09:45
-      32      Stella Ribaudo        vs       Ana Utrilla Benito   Sat @ 11:00
-      32  (4) Stella Wiesmann       vs       Alina Lebedeva       Sat @ 11:00
-      32 (10) Selma Cadar           vs       Agata Mikos          Sat @ 11:00
-      32  (5) Samantha Johns        vs       Katreina Corpuz      Sat @ 11:00
-      32 (16) Avantika Willy        vs       Paige La             Sat @ 12:30
-      32      Morgan Coburn         vs  (11) Jillian Taggart      Sat @ 12:30
-      32      Samantha Svendsen     vs   (8) McHaley Ho           Sat @ 12:30
-      32 (13) Kacey Moore           vs       Francesca Feodorov   Sat @ 09:45
-      32      Katarina Marinkovikj  vs   (3) Aliza Askarova       Sat @ 14:00
-      32      Asmara Rose           vs  (12) Emily Tannenbaum     Sat @ 14:00
-      32      Ana Torrente          vs   (7) Alexandra Nielsen    Sat @ 14:00
-      32      Hannah Smith          vs   (9) Juleta Honrubia      Sat @ 14:00
-      32      Grace Hashiguchi      vs   (2) Mary Brumfield       Sat @ 14:00
+      16  (1) Yvonna Zuffova        vs  (14) Minorka Miranda      Sun @ 10:00
+      16  (6) Jojo Bach             vs       Ana Utrilla Benito   Sun @ 09:00
+      16  (4) Stella Wiesmann       vs  (10) Selma Cadar          Sun @ 11:00
+      16      Katreina Corpuz       vs  (16) Avantika Willy       Sun @ 10:00
+      16 (11) Jillian Taggart       vs   (8) McHaley Ho           Sun @ 10:00
+      16      Francesca Feodorov    vs       Katarina Marinkovikj Sun @ 11:00
+      16 (12) Emily Tannenbaum      vs       Ana Torrente         Sun @ 10:00
+      16  (9) Juleta Honrubia       vs   (2) Mary Brumfield       Sun @ 09:00
+      32  (1) Yvonna Zuffova       def.      Sifa Butcher         60 75
+      32 (14) Minorka Miranda      def.      Karly Friedland      63 76(2)
+      32  (6) Jojo Bach            def.      Olivia Ryan          63 61
+      32      Ana Utrilla Benito   def.      Stella Ribaudo       62 63
+      32  (4) Stella Wiesmann      def.      Alina Lebedeva       63 34 Ret.
+      32 (10) Selma Cadar          def.      Agata Mikos          62 62
+      32      Katreina Corpuz      def.  (5) Samantha Johns       63 63
+      32 (16) Avantika Willy       def.      Paige La             63 63
+      32 (11) Jillian Taggart      def.      Morgan Coburn        64 61
+      32  (8) McHaley Ho           def.      Samantha Svendsen    64 16 63
+      32      Francesca Feodorov   def. (13) Kacey Moore          61 16 61
+      32      Katarina Marinkovikj def.  (3) Aliza Askarova       62 62
+      32 (12) Emily Tannenbaum     def.      Asmara Rose          62 60
+      32      Ana Torrente         def.  (7) Alexandra Nielsen    67(4) 43 Ret.
+      32  (9) Juleta Honrubia      def.      Hannah Smith         63 36 61
+      32  (2) Mary Brumfield       def.      Grace Hashiguchi     60 75
       64  (1) Yvonna Zuffova       def.      Themis Haliou        62 60
       64      Sifa Butcher         def.      Isabella Montana     62 75
       64 (14) Minorka Miranda      def.      Alexandra Vesikallio 64 60
@@ -89,24 +97,38 @@
      128      Ellen Shanahan       def.      Kate Lee             36 76(2) Ret.
      128      Nadia Pegram         def.      Fabiana Tort-Umpier… 61 64
   > Consolation
-      32      Alexandra Vesikallio  vs       Riya Mathur          Sat @ 10:30
-      32      Megan Etienne         vs       Savanna Crowell      Sat @ 10:30
-      32 (15) Amanda Nava           vs       Sylvia Eklund        Sat @ 12:00
-      32      Sarah Pospischill     vs       Stefania Moysiadi    Sat @ 10:30
-      32      Jordan Grayson        vs       Adriana Barney       Sat @ 10:30
-      32      Stow Weiss            vs       Viva Laas            Sat @ 10:30
-      32      Shirley Liang         vs       Ireland Amato        Sat @ 10:30
-      32      Sophia Amato          vs       Sissi Axelsson       Sat @ 12:00
-      32      Olivia Rothfeld       vs       Oluwayemisi Ifederu  Sat @ 12:00
-      32      Christy Turner        vs       Vera Markovic        Sat @ 12:00
+      QF      Jordan Grayson        vs       Viva Laas            Sun @ 10:00
+      QF      Oluwayemisi Ifederu   vs       Deanna Lasorda       Sun @ 09:00
+      16      Alexandra Vesikallio def.      Ameilia Lawson       Walkover
+      16      Sylvia Eklund         vs       Savanna Crowell      Sun @ 09:00
+      16      Jordan Grayson       def.      Sarah Pospischill    Walkover
+      16      Viva Laas            def.      Shirley Liang        Walkover
+      16      Oluwayemisi Ifederu  def.      Sophia Amato         Walkover
+      16      Deanna Lasorda       def.      Jessica Assenmacher  Walkover
+      16      Vera Markovic         vs       Iva Jankovic         Sun @ 09:00
+      16      Emily Wirt           def.      Fabiana Tort-Umpier… Walkover
+      32      Ameilia Lawson       def.      Amber Policare       Walkover
+      32      Alexandra Vesikallio def.      Riya Mathur          64 46 [3]
+      32      Savanna Crowell      def.      Megan Etienne        62 61
+      32      Sylvia Eklund        def. (15) Amanda Nava          26 75 [2]
+      32      Sarah Pospischill    def.      Stefania Moysiadi    76(4) 63
+      32      Jordan Grayson       def.      Adriana Barney       60 61
+      32      Viva Laas            def.      Stow Weiss           75 64
+      32      Shirley Liang        def.      Ireland Amato        57 61 [3]
+      32      Sophia Amato         def.      Sissi Axelsson       61 64
+      32      Oluwayemisi Ifederu  def.      Olivia Rothfeld      61 36 [8]
+      32      Jessica Assenmacher  def.      Jackie Nannery       63 64
+      32      Deanna Lasorda       def.      Corinne Farid        61 61
+      32      Vera Markovic        def.      Christy Turner       60 62
+      32      Iva Jankovic         def.      Daniela Latoni       76(5) 57 [8]
       32      Emily Wirt           def.      Kate Lee             Walkover
-      32      Sydney Weinberg       vs       Fabiana Tort-Umpier… Sat @ 12:00
-      64      Isabella Montana      vs       Ameilia Lawson       Sat @ 12:00
+      32      Fabiana Tort-Umpier… def.      Sydney Weinberg      62 61
+      64      Ameilia Lawson       def.      Isabella Montana     64 16 [6]
       64 (15) Amanda Nava          def.      Ashley Fitz-Patrick  Walkover
-      64      Chloe Bendetti        vs       Jackie Nannery       Sat @ 10:00
-      64      Deanna Lasorda        vs       Averiana Mitchell    Sat @ 10:00
+      64      Jackie Nannery       def.      Chloe Bendetti       Walkover
+      64      Deanna Lasorda       def.      Averiana Mitchell    61 61
       64      Corinne Farid        def.      Hannah Yang          Walkover
-      64      Gracey Hirsch         vs       Iva Jankovic         Sat @ 09:00
+      64      Iva Jankovic         def.      Gracey Hirsch        16 76(6) [7]
 ~~~
 
 <a name="21-54831"></a>

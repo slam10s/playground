@@ -71,14 +71,15 @@
 
 <a name="21-60580"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Florida Division 1 Bedford Cup, Women
   Dates: Oct 1-3, 2021
   Host: Univ. Of South Florida (W)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight A
   > East
+      F (1) Spee/Shelton          vs      Bekrar/Kabbaj        Sun @ 09:00
      SF (1) Spee/Shelton         def. (3) Sharma/Mattel        61
      SF     Bekrar/Kabbaj        def.     Berry/Boy            76(4)
      QF (1) Spee/Shelton         def.     Filip/Schieroni      63
@@ -92,6 +93,7 @@
      16 (4) De Oliveira/Dudeney  def.     Davis/Yardley        61
      16     Berry/Boy            def.     Cohen/Dovgopolyi     62
   > West
+      F     Umarova/Skrobonja     vs      Kudelova/MGinnis     Sun @ 09:00
      SF     Umarova/Skrobonja    def.     Eland/Shumacher      63
      SF     Kudelova/MGinnis     def.     Cohen/Dovgopolyi     62
      QF     Eland/Shumacher      def.     Hubeaut/Sandy        62
@@ -101,8 +103,11 @@
      SF (4) De Oliveira/Dudeney  def. (2) Leslie/Christians    63
   > South
       F     Hubeaut/Sandy        def.     Davis/Yardley        64
+  > Southwest
+      F     Eland/Shumacher       vs      Cohen/Dovgopolyi     Sun @ 09:00
  > Flight B
   > East
+      F     colmenares/retortil…  vs  (2) Miletic/Velcea       Sun @ 09:00
      SF     colmenares/retortil… def.     Akbas/Morin-Kougoch… 62
      SF (2) Miletic/Velcea       def.     norin/ossa           62
      QF     colmenares/retortil… def. (1) Long/Lodzki          64
