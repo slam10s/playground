@@ -12,11 +12,11 @@
 - 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
 - 10/1/2021 - [Eagles Invitational](#21-42606) ([Results](#21-42606) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternMichiganUnivW/Tournaments/Overview/47B6E347-F9DC-455F-9E51-1E407EB949E4" target="_blank">Draws</a>)  
 - 10/1/2021 - [Florida Division 1 Bedford Cup, Women](#21-60580) ([Results](#21-60580) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthFloridaW/Tournaments/Overview/C3845735-BCB5-44DE-9B50-9FA2F75B1EE9" target="_blank">Draws</a>)  
+- 10/1/2021 - [HEB Invite](#21-50278) ([Results](#21-50278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityW/Tournaments/Overview/DED0835D-381B-47D9-8471-55474B03566B" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Atlantic Women's Regional Championship](#21-03077) ([Results](#21-03077) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/EB66D8AE-2B72-4A34-AF59-E6C67DA9A6D8" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Northeasts Regional Championship](#21-17427) ([Results](#21-17427) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
-- 10/1/2021 - [SDSU Fall Tennis Classic # 1](#21-00709) ([Results](#21-00709) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1EB1A7C8-81F9-4DDF-BE0F-D8EB9551DEA5" target="_blank">Draws</a>)  
 - 10/1/2021 - [Utah Invite](#21-47623) ([Results](#21-47623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahW/Tournaments/Overview/7AF1E32C-8707-429F-A3C2-89B494D4EF50" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
@@ -31,7 +31,6 @@
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Division III Women's Midwest ITA Regional Championships</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Division III Women's Northwest ITA Regional Championships</a>  
 - 9/27/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">BU Invitational</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityW/Tournaments/Overview/DED0835D-381B-47D9-8471-55474B03566B" target="_blank">HEB Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/19C5EAFF-4E4C-4DBD-83F9-4FE76D915740" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Kitty Harrison invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
@@ -1146,7 +1145,7 @@
      16     Sydney Berlin        def.     Emma Bardet          76(6) 63
      16     Andjela Skrobonja    def.     Noa Cohen            63 61
   > North
-      F (3) Andreeea Velcea       vs      Martina Kudelova     Sun @ 10:00
+      F (3) Andreeea Velcea      def.     Martina Kudelova     36 76(5) [5]
      SF (3) Andreeea Velcea      def.     Nadja Bay Christians Walkover
      SF     Martina Kudelova     def.     Annabelle Davis      75 62
      QF     Nadja Bay Christians def.     ida ferding          Walkover
@@ -1157,7 +1156,7 @@
      SF     Kamila Umarova       def.     Jaleesa Leslie       62 62
      SF     Yasmine Kabbaj       def.     Marie Mattel         64 67(3) [8]
   > Playoff 3-4
-      F     Bente Spee            vs  (4) Nandini Sharma       Sun @ 10:00
+      F     Bente Spee           def. (4) Nandini Sharma       26 62 [3]
   > South
       F     Noa Cohen            def.     fanny norin          62 60
      SF     fanny norin          def.     Katerina Filip       36 75 [7]
@@ -1171,7 +1170,7 @@
      SF     Greta Schieroni      def.     Alexandria Mjos      75 75
  > Flight B
   > East
-      F     isabella colmenares   vs      Sierra Berry         Sun @ 10:00
+      F     isabella colmenares  def.     Sierra Berry         63 16 [5]
      SF     isabella colmenares  def.     Grace Eland          57 62 [7]
      SF     Sierra Berry         def.     Kristina Miletic     75 76(5)
      QF     isabella colmenares  def.     Ines Bekrar          61 62
@@ -1238,13 +1237,32 @@
  > Sunday Extra Singles
   > Main
      32     Laia Pasini          def.     Alexandria Mjos      61 63
-     32     Jaleesa Leslie        vs      Sydney Berlin        Sun @ 10:00
-     32     Aylen Hubeaut         vs      Ines Bekrar          Sun @ 10:00
+     32     Sydney Berlin        def.     Jaleesa Leslie       75 64
+     32     Ines Bekrar          def.     Aylen Hubeaut        26 63 [7]
      32     Margriet Timmermans  def.     Adrienne Clayton     61 62
      32     Anique Kattenberg    def.     Tess Menten          63 60
-     32     Grace Eland           vs      Claudia Sumaia       Sun @ 10:00
+     32     Grace Eland          def.     Claudia Sumaia       60 61
      32     Susan Salinas        def.     Daliyah Hammoud      63 57 [8]
      32     Amber MGinnis        def.     Sierra Sandy         60 62
+~~~
+
+<a name="21-50278"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  HEB Invite
+  Dates: Oct 1-3, 2021
+  Host: Baylor University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Thursday Flight A
+  > Main
+     16  Renee McBryde        def.  Khim Iglupas  46 63 [8]
+     16  Jeanette Mireles     def.  Parker Fry    62 63
+     16  Salma Ziouti         def.  Ellie Pittman 75 57 [8]
+     16  Isa Di Laura         def.  Kayla Meraz   76(4) 46 [3]
+     16  Mary Grace Armistead def.  Kayal Gownder 76(4) 75
+     16  Belen Nevenhoven     def.  Elise Robbins 75 63
+     16  Kirsten Prelle       def.  Olivia Malm   61 64
 ~~~
 
 <a name="21-03077"></a>
@@ -1257,14 +1275,14 @@
  Women's Open Singles
  > Draw
   > Main
-      16  (1) Yvonna Zuffova        vs  (14) Minorka Miranda      Sun @ 10:00
-      16  (6) Jojo Bach             vs       Ana Utrilla Benito   Sun @ 09:00
-      16  (4) Stella Wiesmann       vs  (10) Selma Cadar          Sun @ 11:00
-      16      Katreina Corpuz       vs  (16) Avantika Willy       Sun @ 10:00
-      16 (11) Jillian Taggart       vs   (8) McHaley Ho           Sun @ 10:00
-      16      Francesca Feodorov    vs       Katarina Marinkovikj Sun @ 11:00
-      16 (12) Emily Tannenbaum      vs       Ana Torrente         Sun @ 10:00
-      16  (9) Juleta Honrubia       vs   (2) Mary Brumfield       Sun @ 09:00
+      16  (1) Yvonna Zuffova       def. (14) Minorka Miranda      62 62
+      16  (6) Jojo Bach            def.      Ana Utrilla Benito   64 62
+      16 (10) Selma Cadar          def.  (4) Stella Wiesmann      06 64 60
+      16 (16) Avantika Willy       def.      Katreina Corpuz      61 26 75
+      16 (11) Jillian Taggart      def.  (8) McHaley Ho           61 61
+      16      Francesca Feodorov   def.      Katarina Marinkovikj 63 62
+      16 (12) Emily Tannenbaum     def.      Ana Torrente         63 62
+      16  (2) Mary Brumfield       def.  (9) Juleta Honrubia      63 63
       32  (1) Yvonna Zuffova       def.      Sifa Butcher         60 75
       32 (14) Minorka Miranda      def.      Karly Friedland      63 76(2)
       32  (6) Jojo Bach            def.      Olivia Ryan          63 61
@@ -1335,12 +1353,12 @@
       QF      Jordan Grayson        vs       Viva Laas            Sun @ 10:00
       QF      Oluwayemisi Ifederu   vs       Deanna Lasorda       Sun @ 09:00
       16      Alexandra Vesikallio def.      Ameilia Lawson       Walkover
-      16      Sylvia Eklund         vs       Savanna Crowell      Sun @ 09:00
+      16      Sylvia Eklund        def.      Savanna Crowell      62 60
       16      Jordan Grayson       def.      Sarah Pospischill    Walkover
       16      Viva Laas            def.      Shirley Liang        Walkover
       16      Oluwayemisi Ifederu  def.      Sophia Amato         Walkover
       16      Deanna Lasorda       def.      Jessica Assenmacher  Walkover
-      16      Vera Markovic         vs       Iva Jankovic         Sun @ 09:00
+      16      Vera Markovic        def.      Iva Jankovic         64 63
       16      Emily Wirt           def.      Fabiana Tort-Umpier… Walkover
       32      Ameilia Lawson       def.      Amber Policare       Walkover
       32      Alexandra Vesikallio def.      Riya Mathur          64 46 [3]
@@ -1687,7 +1705,7 @@
      SF     Urska Velec          def.     Pragnya Kumar        26 64 [4]
      SF     Jenna Dean           def. (3) Sydney Clarke        75 76(4)
   > 3-4 Playoff
-      F (4) Romane Mosse          vs      Angelina Linnikova   Sun @ 09:30
+      F (4) Romane Mosse         def.     Angelina Linnikova   64 67(3) [8]
   > South
       F (2) Sophie Wagemaker     def.     Pilar Becerra        63 62
      SF     Pilar Becerra        def.     Sophia Unger         Walkover
@@ -1700,7 +1718,7 @@
       F     Lauren Rich          def.     Sophia Unger         Walkover
  > Singles Flight B2
   > East
-      F (1) Emilia Alfaro         vs  (2) Maggie White         Sun @ 11:00
+      F (1) Emilia Alfaro        def. (2) Maggie White         60 76(1)
      SF (1) Emilia Alfaro        def. (4) Michelle Ncube       63 61
      SF (2) Maggie White         def.     Ane Ibarra           16 63 [4]
      QF (1) Emilia Alfaro        def.     Soomin Kim           62 76(2)
@@ -1724,11 +1742,11 @@
      QF (3) Ella Tuomela         def.     Ellie Black          62 61
      QF     Sonja Keranen        def.     Cibeles Zuddy        Walkover
   > North
-      F     Soomin Kim            vs      Francina Puig Llomp… Sun @ 11:00
+      F     Soomin Kim           def.     Francina Puig Llomp… 62 36 [5]
      SF     Soomin Kim           def.     Lekha Varudandi      62 62
      SF     Francina Puig Llomp… def.     Sofia Villalobos     61 63
   > 3-4 Playoff
-      F (4) Michelle Ncube        vs      Ane Ibarra           Sun @ 11:00
+      F     Ane Ibarra           def. (4) Michelle Ncube       36 76(2) [5]
   > South
       F     Maddy Frediani       def.     Ellie Black          64 63
      SF     Maddy Frediani       def.     Camille Dufays       63 64
@@ -1765,24 +1783,24 @@
      QF     Nina Thomet          def.     Marianna Espinosa    61 64
      QF     Vanessa Mellynchuk   def.     Nicole Katzarkov     62 62
   > North
-      F     Sofia Pinedo          vs      Bea Acena            Sun @ 11:30
+      F     Bea Acena            def.     Sofia Pinedo         64 76(1)
      SF     Sofia Pinedo         def. (3) Annalisa Smith       46 75 [6]
      SF     Bea Acena            def. (4) Dariana Prato        Walkover
   > 3-4 Playoff
       F     Kristina Kukaras      vs      Kristin Yordanova    Sun @ 11:30
   > South
-      F (1) Olivia Bryant         vs      Nicole Katzarkov     Sun @ 11:30
+      F (1) Olivia Bryant        def.     Nicole Katzarkov     63 62
      SF (1) Olivia Bryant        def.     Shradha Chhabra      75 61
      SF     Nicole Katzarkov     def.     Marianna Espinosa    60 63
   > Southwest
-      F     Maddie Brown          vs      Nina Thomet          Sun @ 11:30
+      F     Maddie Brown         def.     Nina Thomet          61 61
   > Northwest
       F (3) Annalisa Smith       def. (4) Dariana Prato        Walkover
   > Southeast
-      F     Shradha Chhabra       vs      Marianna Espinosa    Sun @ 11:30
+      F     Shradha Chhabra      def.     Marianna Espinosa    61 61
  > Singles Flight C2
   > East
-      F (1) Mayya Gorbunova       vs  (2) Rafaella Villanueva  Sun @ 11:30
+      F (1) Mayya Gorbunova      def. (2) Rafaella Villanueva  63 61
      SF (1) Mayya Gorbunova      def. (4) Amulika Gottiparthy  63 63
      SF (2) Rafaella Villanueva  def.     Anna Syrova          63 64
      QF (1) Mayya Gorbunova      def.     Claudelle Labonte-F… 63 63
@@ -1798,7 +1816,7 @@
      16     Kelly Klaren         def.     Lisa McKenzie        61 61
      16 (2) Rafaella Villanueva  def.     Hannah Hogg          60 63
   > West
-      F     Ashley Popham         vs      Ashton Morrison      Sun @ 11:30
+      F     Ashley Popham        def.     Ashton Morrison      61 64
      SF     Ashley Popham        def.     Ana Tarbujaru        63 62
      SF     Ashton Morrison      def.     Hannah Hogg          36 63 [1]
      QF     Ana Tarbujaru        def.     Tiffany-Anne Beukes  63 76(2)
@@ -1806,13 +1824,13 @@
      QF     Ashton Morrison      def.     Caroline Lewis       61 60
      QF     Hannah Hogg          def.     Lisa McKenzie        62 61
   > North
-      F     Claudelle Labonte-F…  vs      Kelly Klaren         Sun @ 11:30
+      F     Claudelle Labonte-F… def.     Kelly Klaren         63 64
      SF     Claudelle Labonte-F… def.     Paulina Katsoudas    63 60
      SF     Kelly Klaren         def. (3) Kennedi Jones        Walkover
   > 3-4 Playoff
-      F (4) Amulika Gottiparthy   vs      Anna Syrova          Sun @ 11:30
+      F (4) Amulika Gottiparthy  def.     Anna Syrova          57 64 [2]
   > South
-      F     Tiffany-Anne Beukes   vs      Lisa McKenzie        Sun @ 11:30
+      F     Tiffany-Anne Beukes  def.     Lisa McKenzie        64 63
      SF     Tiffany-Anne Beukes  def.     JoAnna Gallman       63 61
      SF     Lisa McKenzie        def.     Caroline Lewis       62 76(1)
   > Southwest
@@ -1823,9 +1841,9 @@
       F     JoAnna Gallman       def.     Caroline Lewis       Walkover
  > Singles Flight D
   > Main
-     R4     Melody Cantrell       vs      Tania Herrera        Sun @ 11:30
-     R4     Svetlana Teterina     vs      Alexandra Ferreira … Sun @ 11:30
-     R4     Sofia Gonzalez        vs      Balsen Kaya          Sun @ 11:30
+     R4     Melody Cantrell      def.     Tania Herrera        61 61
+     R4     Alexandra Ferreira … def.     Svetlana Teterina    75 64
+     R4     Balsen Kaya          def.     Sofia Gonzalez       60 62
      R3     Svetlana Teterina    def.     Sofia Gonzalez       62 60
      R3     Alexandra Ferreira … def.     Melody Cantrell      61 61
      R3     Balsen Kaya          def.     Tania Herrera        60 60
@@ -2023,8 +2041,9 @@
       64      Fiorella Mendez      def.      Lexi Penn            64 61
       64      Kaylyn Chleborad     def.      Merci Hood           60 61
   > Consolation
+       F      Ali May              def.      Rhythm Aswal         98(7)
       SF      Ali May              def.      Ashley Nilsson       Walkover
-      SF      Rhythm Aswal          vs       Alisha Moldakhmetova Sun @ 09:00
+      SF      Rhythm Aswal         def.      Alisha Moldakhmetova 83
       QF      Ali May              def.      Clarisa Valenzuela   82
       QF      Ashley Nilsson       def.      Taylor Conway        84
       QF      Rhythm Aswal         def.      Aubrey Bailey        83
@@ -2250,7 +2269,7 @@
      16Q     Alexis Golin         def.     Brennan Foreman      62 60
  > Flight C
   > Main
-       F (1) Sophia Gawrit         vs      Luisa Garcia         Sun @ 10:00
+       F (1) Sophia Gawrit        def.     Luisa Garcia         62 63
       SF (1) Sophia Gawrit        def.     Kayla Kling          76(6) 62
       SF     Luisa Garcia         def.     Brooke Andrews       75 75
       QF (1) Sophia Gawrit        def.     Mina Ahmadi          75 62
@@ -2290,14 +2309,25 @@
  Women's Open Singles
  > Singles D
   > Main
-      16     Hollan Rabensdorf    def.     Lillian Williams    61 63
-      16     Morris Kelly Clayton def.     Lexie Washburn      60 60
-      16     Tessa Shackelford    def.     Muskaan Bhukhanwala 60 60
+      QF     Sydney Wray          def.     Brianna Ali         61 61
+      QF     Alexandra Smyth      def.     Kaitlyn House       61 61
       16     Brianna Ali          def.     Anna Lassiter       61 61
       16     Sydney Wray          def.     Abby Jamison        61 36 63
+      16     Morris Kelly Clayton def.     Lexie Washburn      60 60
+      16     Tessa Shackelford    def.     Muskaan Bhukhanwala 60 60
+      16     Hollan Rabensdorf    def.     Lillian Williams    61 63
       16     Alexandra Smyth      def.     Tyler Wiggins       60 60
+  > Consolation
+       F     Abby Jamison         def.     Kaitlyn House       60 64
+      SF     Kaitlyn House        def.     Muskaan Bhukhanwala 64 36 [5]
+      SF     Abby Jamison         def.     Tyler Wiggins       61 60
+      QQ     Kaitlyn House        def.     Lillian Williams    67 63 [7]
+      QQ     Muskaan Bhukhanwala  def.     Lexie Washburn      61 61
+      QQ     Abby Jamison         def.     Anna Lassiter       60 60
  > Singles C
   > Main
+      SF     Emma McHale          def.     Bradley Tyer Jones  60 62
+      SF     Dallas Bennett       def.     Nelson Tyer Jones   64 64
       QF     Bradley Tyer Jones   def.     Caroline Yarbrough  64 62
       QF     Emma McHale          def.     Kaylin Thompson     61 60
       QF     Nelson Tyer Jones    def.     Sarah Hayek         61 64
@@ -2325,9 +2355,16 @@
       16     Julia Darkey         def.     Tyler Perry         61 60
       16     Lauren Kadow         def.     Isabella Hutchins   60 60
   > Consolation
+       F     Dakota Wilkes        def.     Amelia Chrisy       63 63
+      SF     Amelia Chrisy        def.     Railey Richardson   60 61
+      SF     Dakota Wilkes        def.     Isabella Hutchins   06 60 [7]
       QQ     Railey Richardson    def.     Lily Grace          63 62
+      QQ     Amelia Chrisy        def.     Mia Vasher          75 63
+      QQ     Dakota Wilkes        def.     Allison Dempsey     Walkover
+      QQ     Isabella Hutchins    def.     Tyler Perry         61 57 [9]
  > Singles A
   > Main
+      SF (3) Kristal Dule         def. (1) Christina Watson    76(1) 64
       QF (1) Christina Watson     def.     Sarah Livingston    60 46 60
       QF (3) Kristal Dule         def. (5) Brooke Despriet     62 61
       QF (8) Ana Cristina Perez   def.     Ansley Carpenter    26 60 62
@@ -2388,7 +2425,8 @@
       64 (2) Emma Smith           def.     Melissa Gish        62 61
   > Consolation
       QF     Lea Letourneau       def.     Marissa Brown       62 63
-      QF     Alyssa McSpadden     def.     Maddy Trinh         46 60 [8]
+      QF     Maddy Trinh          def.     Alyssa McSpadden    46 60 [8]
+      QF     Megan Kidd           def.     Lainey Hill         75 61
       16     Marissa Brown        def.     Sarah Rushing       61 75
       16     Lea Letourneau       def.     Alyssa Merletti     60 60
       16     Maddy Trinh          def.     Caroline Lancaster  64 64
@@ -2423,6 +2461,8 @@
  Women's Open Singles
  > Draw A
   > Main
+      SF (14) Suzuka Nishino       def.  (6) Emma Kesterson       62 64
+      SF  (2) Samantha Wong        def. (12) Lydia Lee            63 64
       QF (14) Suzuka Nishino       def.  (1) Nina Mitrofanova     63 26 [6]
       QF  (6) Emma Kesterson       def.  (4) Cate Cushing         62 63
       QF (12) Lydia Lee            def.  (3) Ruth Hill            36 61 [8]

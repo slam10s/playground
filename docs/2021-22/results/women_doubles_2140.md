@@ -26,18 +26,18 @@
 
 <a name="21-03077"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Division I Atlantic Women's Regional Championship
   Dates: Oct 1-4, 2021
   Host: U.S. Naval Academy (W)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-     QF (1) OGorman/Chekhlystova  vs  (8) Corpuz/Komarraju     Sun @ 09:00
-     QF (3) Tannenbaum/Taggart    vs  (6) Marinkovikj/Wiesmann Sun @ 09:00
-     QF     Ho/Mikos              vs  (4) Lebedeva/Zuffova     Sun @ 09:00
-     QF     Alamo/Lasorda         vs  (2) Nielsen/Friedland    Sun @ 09:00
+     QF (1) OGorman/Chekhlystova def. (8) Corpuz/Komarraju     61
+     QF (6) Marinkovikj/Wiesmann def. (3) Tannenbaum/Taggart   76(1)
+     QF (4) Lebedeva/Zuffova     def.     Ho/Mikos             64
+     QF (2) Nielsen/Friedland    def.     Alamo/Lasorda        61
      16 (1) OGorman/Chekhlystova def.     Honrubia/Svendsen    61
      16 (8) Corpuz/Komarraju     def.     Bendetti/Coburn      75
      16 (3) Tannenbaum/Taggart   def.     Ashton/Willy         61

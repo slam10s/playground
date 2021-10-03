@@ -8,7 +8,6 @@
 - 9/24/2021 - [Loyola Invitational](#21-56169) ([Results](#21-56169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/72CD9175-7FAD-47BC-B686-CD1AF1858ECC" target="_blank">Draws</a>)  
 - 9/24/2021 - [Roadrunner Invitational](#21-84395) ([Results](#21-84395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTexasSanAntonioM/Tournaments/Overview/E7F7F76A-E6C1-4F1D-AFAC-36B9F1DB36FF" target="_blank">Draws</a>)  
 - 9/24/2021 - [UVA Orange & Blue Classic](#21-08100) ([Results](#21-08100) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaM/Tournaments/Overview/CF3502B7-78F4-4CCB-AB88-CC54F61E06F0" target="_blank">Draws</a>)  
-- 9/25/2021 - [Wabash Hidden Duals](#21-62669) ([Results](#21-62669) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WabashCollegeM/Tournaments/Overview/F852092B-DFCA-4C1A-8C98-83E3D2CDF000" target="_blank">Draws</a>)  
 - 9/24/2021 - [American Rivers Conference Men's Individual Tournament](#21-25873) ([Results](#21-25873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
@@ -29,7 +28,6 @@
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CreightonUniversityW/Tournaments/Overview/9CFAB6A8-8E2B-42E6-9D2D-9A4EECB3CAEB" target="_blank">Bluejay Invite</a>  
 - 9/26/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNotreDameM/Tournaments/Overview/772A5D00-C1F2-4758-8876-D10A5F7DA5EF" target="_blank">Bobby Bayliss Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityM/Tournaments/Overview/88FFAEBD-EA36-4335-8B1D-3F3BBC1F47AB" target="_blank">Elon Invitational</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaStateUniversityM/Tournaments/Overview/B537401C-4CA4-4C79-A319-9E137D884288" target="_blank">Georgia State Panther Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityM/Tournaments/Overview/4CA1F754-31D9-4DCF-8BB3-0098D93E8693" target="_blank">Quinnipiac Invitational at Fairfield University</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/8D7F2E07-AC4A-4E21-9AD6-185AA3004B4C" target="_blank">Rancher Collegiate Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/B89A76E9-2709-4BFC-AAB2-ED109F32123C" target="_blank">Southern Intercollegiates</a>  
@@ -497,30 +495,6 @@
      R1  Bosancic/Duo         def.  Sculley/Ix           86
      R1  Shepheard/Thompson   def.  Kam/Astreinidis      83
      R1  Westphal/Hashimoto   def.  Poling/Rodriguez     84
-~~~
-
-<a name="21-62669"></a>
-~~~
-════════════════════════════════════════════════════════════
-  Wabash Hidden Duals
-  Dates: Sep 25-25, 2021
-  Host: Wabash College (M)
-════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Draw
-  > Main
-     R5  Brodski/Gallart     def.  Borden/Alonso    86
-     R5  Gallart/Keal        def.  McCoy/Turnbull   82
-     R5  Garrison/Keal       def.  Brownlee/Long    82
-     R5  Cross/Nair          def.  Macedo/Kroeger   86
-     R5  Clunie/Williams     def.  Hargitt/Courter  84
-     R5  Palocci/Holmes      def.  Wallace/Randle   87(1)
-     R2  Brodski/Garrison    def.  Triantafel/Burk  82
-     R2  McCoy/Nair          def.  Brownlee/Long    82
-     R2  Turnbull/Cross      def.  Hargitt/Courter  83
-     R2  Sibley-Diggs/Cortez def.  Holmes/Assumpcao 85
-     R1  Borden/Alonso       def.  Triantafel/Burk  87(3)
-     R1  Sibley-Diggs/Cortez def.  Wallace/Randle   82
 ~~~
 
 <a name="21-25873"></a>

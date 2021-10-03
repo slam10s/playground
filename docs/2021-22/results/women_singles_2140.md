@@ -34,14 +34,14 @@
  Women's Open Singles
  > Draw
   > Main
-      16  (1) Yvonna Zuffova        vs  (14) Minorka Miranda      Sun @ 10:00
-      16  (6) Jojo Bach             vs       Ana Utrilla Benito   Sun @ 09:00
-      16  (4) Stella Wiesmann       vs  (10) Selma Cadar          Sun @ 11:00
-      16      Katreina Corpuz       vs  (16) Avantika Willy       Sun @ 10:00
-      16 (11) Jillian Taggart       vs   (8) McHaley Ho           Sun @ 10:00
-      16      Francesca Feodorov    vs       Katarina Marinkovikj Sun @ 11:00
-      16 (12) Emily Tannenbaum      vs       Ana Torrente         Sun @ 10:00
-      16  (9) Juleta Honrubia       vs   (2) Mary Brumfield       Sun @ 09:00
+      16  (1) Yvonna Zuffova       def. (14) Minorka Miranda      62 62
+      16  (6) Jojo Bach            def.      Ana Utrilla Benito   64 62
+      16 (10) Selma Cadar          def.  (4) Stella Wiesmann      06 64 60
+      16 (16) Avantika Willy       def.      Katreina Corpuz      61 26 75
+      16 (11) Jillian Taggart      def.  (8) McHaley Ho           61 61
+      16      Francesca Feodorov   def.      Katarina Marinkovikj 63 62
+      16 (12) Emily Tannenbaum     def.      Ana Torrente         63 62
+      16  (2) Mary Brumfield       def.  (9) Juleta Honrubia      63 63
       32  (1) Yvonna Zuffova       def.      Sifa Butcher         60 75
       32 (14) Minorka Miranda      def.      Karly Friedland      63 76(2)
       32  (6) Jojo Bach            def.      Olivia Ryan          63 61
@@ -112,12 +112,12 @@
       QF      Jordan Grayson        vs       Viva Laas            Sun @ 10:00
       QF      Oluwayemisi Ifederu   vs       Deanna Lasorda       Sun @ 09:00
       16      Alexandra Vesikallio def.      Ameilia Lawson       Walkover
-      16      Sylvia Eklund         vs       Savanna Crowell      Sun @ 09:00
+      16      Sylvia Eklund        def.      Savanna Crowell      62 60
       16      Jordan Grayson       def.      Sarah Pospischill    Walkover
       16      Viva Laas            def.      Shirley Liang        Walkover
       16      Oluwayemisi Ifederu  def.      Sophia Amato         Walkover
       16      Deanna Lasorda       def.      Jessica Assenmacher  Walkover
-      16      Vera Markovic         vs       Iva Jankovic         Sun @ 09:00
+      16      Vera Markovic        def.      Iva Jankovic         64 63
       16      Emily Wirt           def.      Fabiana Tort-Umpier… Walkover
       32      Ameilia Lawson       def.      Amber Policare       Walkover
       32      Alexandra Vesikallio def.      Riya Mathur          64 46 [3]

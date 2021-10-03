@@ -26,7 +26,6 @@
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Beeman/Drobac Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Davidson College Invite</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Hagedorn Hidden Dual</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">ITA Men's All-American Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">PNW Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Division III Men's Northeast ITA Regional Championships</a>  
@@ -500,18 +499,24 @@
      16  Bancila/Jacobson     def.  Lin/Mrsic            75
      16  Cooksey/Fu           def.  Grueber/Lo           76(3)
      16  Hanchaikul/Yaffe     def.  Barry/De Alba        61
+     16  Broska/Ramskogler    def.  Aguiard/Planinsek    61
+     16  Kaukovalta/Martin    def.  Malesevic/Tortora    64
+     16  Christiansen/Ferrei… def.  Colas/Hernandez      63
 ~~~
 
 <a name="21-25425"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   South Carolina Men's Collegiate Championships
   Dates: Oct 1-3, 2021
   Host: ITA
-════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Championship Doubles Draw
   > East
+      F (3) Matos/Babic          def. (4) Singerman/Burnam     63
+     SF (3) Matos/Babic          def.     Horne/De Groot       61
+     SF (4) Singerman/Burnam     def. (2) Crepy/De Negri       64
      QF     Horne/De Groot       def. (1) Poritzky/Laymon      60
      QF (3) Matos/Babic          def.     Danielsson/Regner    63
      QF (4) Singerman/Burnam     def.     Samhan/Yanine        63
@@ -525,12 +530,23 @@
      16     Cardoso/Cariov       def.     Pereira/Bourdon      75
      16 (2) Crepy/De Negri       def.     Snow/Cronin          62
   > West
+     SF     Cabo/Kush            def.     Schomburg/Anastopou… 63
+     SF     Pereira/Bourdon      def.     Bellett/Queguiner    62
      QF     Schomburg/Anastopou… def.     Pudney/Lai San       62
      QF     Cabo/Kush            def.     Blavignat/Bivol      64
      QF     Bellett/Queguiner    def.     Baradel/Gwynne       76(5)
      QF     Pereira/Bourdon      def.     Snow/Cronin          63
+  > North
+     SF (1) Poritzky/Laymon      def.     Danielsson/Regner    62
+     SF     Cardoso/Cariov       def.     Samhan/Yanine        63
+  > South
+     SF     Pudney/Lai San       def.     Blavignat/Bivol      63
+     SF     Baradel/Gwynne       def.     Snow/Cronin          64
  > Blue Doubles Draw
   > East
+      F (1) Paladines/Koehler     vs  (3) Zamorano/Rodrigues   Sun @ 08:00
+     SF (1) Paladines/Koehler    def.     Morel/Berrouet       75
+     SF (3) Zamorano/Rodrigues   def.     Layton/Zancheta      61
      QF (1) Paladines/Koehler    def.     Coleman/King         62
      QF     Morel/Berrouet       def. (4) Cardoso/Velasco      75
      QF (3) Zamorano/Rodrigues   def.     Cassini/Alvarez      61
@@ -539,7 +555,12 @@
      16     Cassini/Alvarez      def.     Martinetti/Summers   64
      16     Layton/Zancheta      def.     Legrand/Davies       76(5)
   > West
+      F     Legrand/Davies       def.     Rogerson/Rogerson    62
      SF     Legrand/Davies       def.     Martinetti/Summers   76(4)
+  > North
+      F     Cassini/Alvarez      def.     Coleman/King         75
+     SF     Coleman/King         def. (4) Cardoso/Velasco      Walkover
+     SF     Cassini/Alvarez      def. (2) Vos/Praschan         Walkover
 ~~~
 
 <a name="21-35169"></a>
@@ -758,8 +779,9 @@
  Men's Open Doubles
  > Draw
   > Main
-      SF (1) Katzman/Liu           vs  (8) Martin/Arimilli      Sun @ 09:00
-      SF     Comadena/Kelley       vs  (6) Yip/Hester           Sun @ 09:00
+       F (8) Martin/Arimilli       vs      Comadena/Kelley      Sun @ 10:00
+      SF (8) Martin/Arimilli      def. (1) Katzman/Liu          84
+      SF     Comadena/Kelley      def. (6) Yip/Hester           86
       QF (1) Katzman/Liu          def.     Reznik/Mattox        84
       QF (8) Martin/Arimilli      def. (3) Stark/Madabhushi     87(5)
       QF     Comadena/Kelley      def. (4) McCandless/Wen       86
@@ -789,8 +811,9 @@
       32     Steinhauser/Lee      def.     Gundakaram/Srinivas… 82
       32 (2) Freer/Robinson       def.     Lilov/Watson         82
   > Consolation
-      SF (5) Mardirossian/Hall     vs      Cabacungan/Somervil… Sun @ 09:00
-      SF     Carroll/Li            vs      Sundar/Gonzalgo      Sun @ 09:00
+       F (5) Mardirossian/Hall     vs      Sundar/Gonzalgo      Sun @ 10:00
+      SF (5) Mardirossian/Hall    def.     Cabacungan/Somervil… 86
+      SF     Sundar/Gonzalgo      def.     Carroll/Li           85
       QF (5) Mardirossian/Hall    def.     Will/Staicu          84
       QF     Cabacungan/Somervil… def.     Chen/Tjoa            87(5)
       QF     Carroll/Li           def. (7) Oconnor/Zhang        86
@@ -815,6 +838,7 @@
  Men's Open Doubles
  > Flight A
   > Main
+      F (2) Nader/Vanecek        def. (1) Parada/Toloza        64 62
      SF (1) Parada/Toloza        def.     Gayk/Dulaney         81
      SF (2) Nader/Vanecek        def. (4) Fudge/Molero         84
      QF (1) Parada/Toloza        def.     Bevard/Brewer        85

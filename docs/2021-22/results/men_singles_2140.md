@@ -33,7 +33,12 @@
       32  Matt Hulme            vs   Robert Cash          Sun @ 13:30
       32  Andrew Rogers         vs   Mark Mandlik         Sun @ 13:30
       32  Max McKennon          vs   Eric Hadigian        Sun @ 13:30
+      32  Inigo Torre Martin    vs   Julian Steinhausen   Sun @ 14:00
       32  Carlos Hassey         vs   Guillaume Dalmasso   Sun @ 14:00
+      32  Filippo Moroni        vs   Ivailo Keremedchiev  Sun @ 14:00
+      32  Eban Straker-Meads    vs   Dusan Milanovic      Sun @ 14:30
+      32  Angel Diaz            vs   Guido Marson         Sun @ 14:30
+      32  Maxwell Benson        vs   Conor Gannon         Sun @ 15:00
       64  Gabriel Diaz Freire  def.  Sviatoslav Gulin     64 51 Ret.
       64  Carl Emil Overbeck   def.  Stefan Leustian      62 36 64
       64  Francisco Pini       def.  Volodymyr Zakharov   62 61
@@ -46,20 +51,20 @@
       64  Mark Mandlik         def.  Michal Lusovsky      60 64
       64  Max McKennon         def.  Riccardo Roberto     62 61
       64  Eric Hadigian        def.  Lukas Engelhardt     64 60
-      64  Aleksa Bucan          vs   Inigo Torre Martin   Sun @ 09:00
+      64  Inigo Torre Martin   def.  Aleksa Bucan         63 46 75
       64  Julian Steinhausen   def.  Sasha Trkulja        64 62
       64  Carlos Hassey        def.  Mikhail Sokolovskiy  63 63
       64  Guillaume Dalmasso   def.  Maxence Bertimon     76(7) 62
-      64  Filippo Moroni        vs   Jordan Hasson        Sun @ 09:30
+      64  Filippo Moroni       def.  Jordan Hasson        57 64 63
       64  Ivailo Keremedchiev  def.  Louis Gorregues      62 62
       64  Eban Straker-Meads   def.  Joe Tyler            63 62
-      64  Peter Murphy          vs   Dusan Milanovic      Sun @ 10:00
-      64  Angel Diaz            vs   Andre Rodeia         Sun @ 10:00
-      64  Guido Marson          vs   George Stoupe        Sun @ 10:00
-      64  Maxwell Benson        vs   Anuj Watane          Sun @ 10:30
-      64  Herman Hoeyeraal      vs   Conor Gannon         Sun @ 10:30
+      64  Dusan Milanovic      def.  Peter Murphy         61 16 63
+      64  Angel Diaz           def.  Andre Rodeia         63 76(5)
+      64  Guido Marson         def.  George Stoupe        64 26 63
+      64  Maxwell Benson       def.  Anuj Watane          75 26 62
+      64  Conor Gannon         def.  Herman Hoeyeraal     62 63
       64  Simon Junk            vs   Nevin Arimilli       Sun @ 11:00
-      64  Goncalo Ferreira      vs   Andrew Lutschaunig   Sun @ 11:00
+      64  Andrew Lutschaunig   def.  Goncalo Ferreira     63 63
       64  Carlos Vicente        vs   Zion Heaven          Sun @ 11:30
       64  Welsh Hotard          vs   Giulio Perego        Sun @ 11:30
       64  Udayan Bhakar         vs   Josh Wilson          Sun @ 12:00
@@ -235,7 +240,7 @@
      128  Shunya Maruyama      def.  Nick Beamish         61 60
      128  Anton Shepp          def.  Rithik Sardana       26 75 63
      128  Miguel Cabrera       def.  Omar El Kadi         60 62
-     128  Javier Gonzalez       vs   Vojtech Podzemny     Sun @ 08:00
+     128  Vojtech Podzemny     def.  Javier Gonzalez      63 36 64
      128  Roman Postolka       def.  Brandon Perez        61 62
      128  Nicolas Simkin       def.  Jonathan Evans       61 60
      128  Rafael Tosetto       def.  Nicolas Pesoli       64 63
@@ -248,34 +253,33 @@
      128  Jason Hildebrandt    def.  William Grant        60 63
      128  aditya gupta         def.  Ignacio Vinas        62 63
      128  Adam Neff            def.  Peyton Gatti         64 63
-     128  Thando Longwe-Smit    vs   Huntley Allen        Sun @ 09:00
-     128  Ryan Charles          vs   Jordi Redelijk       Sun @ 09:30
+     128  Huntley Allen        def.  Thando Longwe-Smit   76(4) 64
+     128  Jordi Redelijk       def.  Ryan Charles         76(4) 76(7)
      128  Juan Sebastian Domi… def.  Philip Olsson        62 20 Ret.
-     128  Stefan Storch         vs   Arthur Neuhaus       Sun @ 10:00
-     128  Ignacio Garcia        vs   Dario Kmet           Sun @ 10:00
-     128  Jackson Atherton      vs   Diego Le Gal Perez   Sun @ 09:00
-     128  Kenner Taylor         vs   Karl Collins         Sun @ 09:00
-     128  Rudra Dixit           vs   Tyler Stewart        Sun @ 09:30
-     128  Spencer Brachman      vs   Daniel Linkuns-Moro… Sun @ 09:30
-     128  Adam Kovac            vs   Davis Lawley         Sun @ 09:30
-     128  Takeyasu Sekiguchi    vs   Arvid Hjalte         Sun @ 09:30
-     128  Matthew Hollingworth  vs   Victor Castro        Sun @ 09:30
-     128  Simon Labbe           vs   Pol Botifoll Rius    Sun @ 09:30
-     128  Marko Galic           vs   Dario Huber          Sun @ 10:00
-     128  Chris Tasker          vs   Thibault Frumholz    Sun @ 10:00
-     128  Jonah Wilson          vs   Nate Bonetto         Sun @ 10:30
-     128  Patrick Cacciatore    vs   Jack Hambrook        Sun @ 10:30
-     128  Jesper Klov-Nilsson   vs   Reed Collier         Sun @ 11:00
-     128  Patrick Zahraj        vs   Anton Ornberg        Sun @ 11:00
+     128  Arthur Neuhaus       def.  Stefan Storch        57 61 61
+     128  Dario Kmet           def.  Ignacio Garcia       61 62
+     128  Diego Le Gal Perez   def.  Jackson Atherton     61 64
+     128  Kenner Taylor        def.  Karl Collins         75 75
+     128  Rudra Dixit          def.  Tyler Stewart        36 63 76(4)
+     128  Daniel Linkuns-Moro… def.  Spencer Brachman     64 42 Ret.
+     128  Davis Lawley         def.  Adam Kovac           36 76(4) 64
+     128  Takeyasu Sekiguchi   def.  Arvid Hjalte         60 62
+     128  Matthew Hollingworth def.  Victor Castro        75 67(5) 62
+     128  Simon Labbe          def.  Pol Botifoll Rius    62 64
+     128  Dario Huber          def.  Marko Galic          64 64
+     128  Thibault Frumholz    def.  Chris Tasker         64 62
+     128  Nate Bonetto         def.  Jonah Wilson         67(6) 63 63
+     128  Patrick Cacciatore   def.  Jack Hambrook        60 60
+     128  Reed Collier         def.  Jesper Klov-Nilsson  62 46 76(7)
+     128  Patrick Zahraj       def.  Anton Ornberg        63 61
      128  Tom Thelwall Jones    vs   Sebastian Vile       Sun @ 12:30
      128  Matthan Tharakan      vs   William Karpinski    Sun @ 12:30
-     128  Antoine Audrain       vs   Deji Thomas-Smith    Sun @ 11:00
-     128  Tom Ciszewski         vs   Callaway Clark       Sun @ 11:00
-     128  Pawit Sornlaksup      vs   Demetris Azoides     Sun @ 11:00
-     128  Melvin Manuel         vs   Sebastian Rodriguez  Sun @ 11:00
-     128  Carson Haskins        vs   Luke Hammond         Sun @ 11:00
-     128  Blaz Seric            vs   Walker Stearns       Sun @ 11:00
-     128  Kaya Gore             vs   Christopher Cahour   Sun @ 11:30
+     128  Deji Thomas-Smith    def.  Antoine Audrain      76(2) 62
+     128  Callaway Clark       def.  Tom Ciszewski        75 36 64
+     128  Pawit Sornlaksup     def.  Demetris Azoides     75 64
+     128  Sebastian Rodriguez  def.  Melvin Manuel        62 46 76(7)
+     128  Blaz Seric           def.  Walker Stearns       64 62
+     128  Kaya Gore            def.  Christopher Cahour   67(3) 60 64
 ~~~
 
 <a name="21-08096"></a>
@@ -288,6 +292,7 @@
  Men's Open Singles
  > PSAC Men's Singles
   > Main
+     SF (1) Carlos Martinez  def. (4) David Akinpetide     67(5) 64 [7]
      SF (2) Bruno Sabio      def. (3) Ruben Acuna          64 46 [5]
      QF (1) Carlos Martinez  def.     Aidan Cashin         60 60
      QF (4) David Akinpetide def.     Gustavo Martins      61 63

@@ -15,7 +15,6 @@
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Northeasts Regional Championship](#21-17427) ([Results](#21-17427) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
-- 10/1/2021 - [SDSU Fall Tennis Classic # 1](#21-00709) ([Results](#21-00709) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1EB1A7C8-81F9-4DDF-BE0F-D8EB9551DEA5" target="_blank">Draws</a>)  
 - 10/1/2021 - [Utah Invite](#21-47623) ([Results](#21-47623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahW/Tournaments/Overview/7AF1E32C-8707-429F-A3C2-89B494D4EF50" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
@@ -382,8 +381,9 @@
   > Main
      R7  Ernstberger/Baptista def.  Van Baelen/Villarejo 62
      R6  Jhang/Redondo        def.  Sanoner/Ohara        62
-     R5  Ernstberger/Baptista def.  Jhang/Redondo        76(6)
+     R5  Jhang/Redondo        def.  Ernstberger/Baptista 76(6)
      R5  Heimuli/Huang        def.  Stewart/Conde Vendr… 64
+     R4  Stewart/Conde Vendr… def.  Jhang/Redondo        60
      R1  Heimuli/Huang        def.  Huchet/Oliveira      62
      R1  Stewart/Conde Vendr… def.  Garcia-Reboredo/Cuq… 61
  > Orange
@@ -393,6 +393,7 @@
      R5  Hernandez/Rees       def.  Chen/Lerman          63
      R5  Astle/Lin            def.  Jayasaputra/Beukers  60
      R4  Dowse/Palma          def.  Chen/Lerman          61
+     R3  Chen/Lerman          def.  Heffernan/Patton Lo… 63
      R3  Astle/Lin            def.  Milenkoski/Egan      61
      R1  Heffernan/Patton Lo… def.  Milenkoski/Egan      64
 ~~~
@@ -556,18 +557,18 @@
 
 <a name="21-03077"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Division I Atlantic Women's Regional Championship
   Dates: Oct 1-4, 2021
   Host: U.S. Naval Academy (W)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-     QF (1) OGorman/Chekhlystova  vs  (8) Corpuz/Komarraju     Sun @ 09:00
-     QF (3) Tannenbaum/Taggart    vs  (6) Marinkovikj/Wiesmann Sun @ 09:00
-     QF     Ho/Mikos              vs  (4) Lebedeva/Zuffova     Sun @ 09:00
-     QF     Alamo/Lasorda         vs  (2) Nielsen/Friedland    Sun @ 09:00
+     QF (1) OGorman/Chekhlystova def. (8) Corpuz/Komarraju     61
+     QF (6) Marinkovikj/Wiesmann def. (3) Tannenbaum/Taggart   76(1)
+     QF (4) Lebedeva/Zuffova     def.     Ho/Mikos             64
+     QF (2) Nielsen/Friedland    def.     Alamo/Lasorda        61
      16 (1) OGorman/Chekhlystova def.     Honrubia/Svendsen    61
      16 (8) Corpuz/Komarraju     def.     Bendetti/Coburn      75
      16 (3) Tannenbaum/Taggart   def.     Ashton/Willy         61
@@ -823,20 +824,28 @@
  Women's Open Doubles
  > Utah vs. UNM; WSU vs. USU
   > Main
-     16  Dush/Tattini      def.  Chen/Kageyama   83
-     16  Lamoreaux/Horwood def.  Huang/Toriumi   83
-     16  Hersh/Hung        def.  Huang/OConnor   84
-     16  Ukita/Morett      def.  DEKKERS/COUNTY  86
-     16  MILLAN/OZTURK     def.  Semenik/Kuo     86
-     16  Davies/Ferreira   def.  KUNG/DEMERATH   84
+     16  Dush/Tattini      def.  Chen/Kageyama     83
+     16  Lamoreaux/Horwood def.  Huang/Toriumi     83
+     16  Hersh/Hung        def.  Huang/OConnor     84
+     16  Ukita/Morett      def.  DEKKERS/COUNTY    86
+     16  MILLAN/OZTURK     def.  Semenik/Kuo       86
+     16  Davies/Ferreira   def.  KUNG/DEMERATH     84
  > Utah vs. WSU; UNM vs. USU
   > Main
-     16  Dush/Tattini      def.  Ukita/Morett    83
-     16  Hersh/Hung        def.  Kuo/Lombardi    85
-     16  Lamoreaux/Horwood def.  Davies/Ferreira 82
-     16  MILLAN/OZTURK     def.  Chen/Kageyama   85
-     16  DEKKERS/COUNTY    def.  Huang/Toriumi   83
-     16  Huang/OConnor     def.  KUNG/DEMERATH   87(2)
+     16  Dush/Tattini      def.  Ukita/Morett      83
+     16  Hersh/Hung        def.  Kuo/Lombardi      85
+     16  Lamoreaux/Horwood def.  Davies/Ferreira   82
+     16  MILLAN/OZTURK     def.  Chen/Kageyama     85
+     16  DEKKERS/COUNTY    def.  Huang/Toriumi     83
+     16  Huang/OConnor     def.  KUNG/DEMERATH     87(2)
+ > Utah vs. USU; UNM vs. WSU
+  > Main
+     16  Dush/Tattini      def.  MILLAN/OZTURK     84
+     16  DEKKERS/COUNTY    def.  Lamoreaux/Horwood 86
+     16  Hersh/Hung        def.  KUNG/DEMERATH     83
+     16  Ukita/Morett      def.  Chen/Kageyama     87(5)
+     16  Huang/Huang       def.  Semenik/Kuo       84
+     16  Toriumi/OConnor   def.  Ferreira/Lombardi 87(2)
 ~~~
 
 <a name="21-35169"></a>
@@ -972,9 +981,10 @@
  Women's Open Doubles
  > Draw
   > Main
-      SF (1) Bahsoun/Batoshvili    vs  (3) Zhou/Markey          Sun @ 09:00
-      SF (4) Wolfe/Chulani         vs  (5) Lee/Juan             Sun @ 09:00
-      QF (1) Bahsoun/Batoshvili   def.     Selby/Yoon           81
+       F (3) Zhou/Markey           vs  (5) Lee/Juan             Sun @ 10:00
+      SF (3) Zhou/Markey          def.     Selby/Yoon           85
+      SF (5) Lee/Juan             def. (4) Wolfe/Chulani        85
+      QF     Selby/Yoon           def. (1) Bahsoun/Batoshvili   86
       QF (3) Zhou/Markey          def.     La/Desso             81
       QF (4) Wolfe/Chulani        def.     Aziz/Marcus          85
       QF (5) Lee/Juan             def. (2) Ye/Ryan              86
@@ -1003,7 +1013,8 @@
       32     Kolli/Zhang          def.     Edson/Fukushige      82
       32 (2) Ye/Ryan              def.     Van Cott/Bufkin      83
   > Consolation
-      SF     Rockwood/Bolock       vs      Hyun/Yu              Sun @ 09:00
+       F     Rockwood/Bolock      def.     Van Cott/Bufkin      83
+      SF     Rockwood/Bolock      def.     Hyun/Yu              80
       SF     Van Cott/Bufkin      def.     Fitzgerald/Lehman    82
       QF     Rockwood/Bolock      def.     Brady/OBrien         82
       QF     Hyun/Yu              def.     Moore-Thomson/Dogra  80
@@ -1021,35 +1032,48 @@
 
 <a name="21-21997"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Division III Women's South ITA Regional Championships
   Dates: Oct 1-3, 2021
   Host: Sewanee: U Of The South (W)
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main Draw Doubles
   > Main
-     16     Smith/Nowak          def.     Rueff/Hill           84
-     16     Perez/Yoon           def.     Mcgough/Holderness   84
-     16     Shulman/Falcon       def.     Adams/Besh           84
-     16 (4) Despriet/Hall        def.     Mariotti/Schoorsmans 81
-     16     Cartledge/Fatemi     def.     Livingston/Caldwell  81
-     16 (2) Watson/McPherron     def.     Vincent/Laidman      83
-     32 (1) Li/Goetz             def.     Rushing/Prater       Walkover
-     32     Reid/Towning         def.     Moody/Gish           82
-     32     Smith/Nowak          def.     Lawrence/Kidd        83
-     32     Rueff/Hill           def.     Forster/Merletti     86
-     32 (5) Dule/Rescia          def.     Mills/Lwin           81
-     32     Nassar/Carpenter     def.     Adan-Pol/Lemasters   84
-     32     Mcgough/Holderness   def. (3) Sherman/Doherty      86
-     32     Perez/Yoon           def.     Everhart/Fremaux     83
-     32     Adams/Besh           def.     Dattilo/Alleyne      81
-     32     Shulman/Falcon       def.     McHale/Letourneau    82
-     32     Mariotti/Schoorsmans def.     Laney/Lewis          84
-     32 (4) Despriet/Hall        def.     Clayton/Brown        81
-     32     Cartledge/Fatemi     def.     Trinh/Lancaster      81
-     32     Livingston/Caldwell  def.     Turley/Stewart       82
-     32     Vincent/Laidman      def.     Massey/Un            80
+      QF (1) Li/Goetz             def.     Smith/Nowak          85
+      QF     Perez/Yoon           def.     Nassar/Carpenter     84
+      QF (4) Despriet/Hall        def.     Shulman/Falcon       85
+      QF     Cartledge/Fatemi     def. (2) Watson/McPherron     84
+      16 (1) Li/Goetz             def.     Reid/Towning         80
+      16     Smith/Nowak          def.     Rueff/Hill           84
+      16     Nassar/Carpenter     def. (5) Dule/Rescia          87(5)
+      16     Perez/Yoon           def.     Mcgough/Holderness   84
+      16     Shulman/Falcon       def.     Adams/Besh           84
+      16 (4) Despriet/Hall        def.     Mariotti/Schoorsmans 81
+      16     Cartledge/Fatemi     def.     Livingston/Caldwell  81
+      16 (2) Watson/McPherron     def.     Vincent/Laidman      83
+      32 (1) Li/Goetz             def.     Rushing/Prater       Walkover
+      32     Reid/Towning         def.     Moody/Gish           82
+      32     Smith/Nowak          def.     Lawrence/Kidd        83
+      32     Rueff/Hill           def.     Forster/Merletti     86
+      32 (5) Dule/Rescia          def.     Mills/Lwin           81
+      32     Nassar/Carpenter     def.     Adan-Pol/Lemasters   84
+      32     Mcgough/Holderness   def. (3) Sherman/Doherty      86
+      32     Perez/Yoon           def.     Everhart/Fremaux     83
+      32     Adams/Besh           def.     Dattilo/Alleyne      81
+      32     Shulman/Falcon       def.     McHale/Letourneau    82
+      32     Mariotti/Schoorsmans def.     Laney/Lewis          84
+      32 (4) Despriet/Hall        def.     Clayton/Brown        81
+      32     Cartledge/Fatemi     def.     Trinh/Lancaster      81
+      32     Livingston/Caldwell  def.     Turley/Stewart       82
+      32     Vincent/Laidman      def.     Massey/Un            80
+  > Consolation
+      SF (3) Sherman/Doherty      def.     Forster/Merletti     86
+      QF     Forster/Merletti     def.     Moody/Gish           84
+      QF (3) Sherman/Doherty      def.     Adan-Pol/Lemasters   84
+     16Q     Forster/Merletti     def.     Lawrence/Kidd        86
+     16Q     Adan-Pol/Lemasters   def.     Mills/Lwin           81
+     16Q (3) Sherman/Doherty      def.     Everhart/Fremaux     82
 ~~~
 
 <a name="21-36423"></a>
