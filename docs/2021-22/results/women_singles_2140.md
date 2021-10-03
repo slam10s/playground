@@ -251,7 +251,7 @@
      128      Erika Cheng          def.      Kensie Cricchio      62 62
      128      Amber ODell          def.      Hope Moulin          63 63
      128      Lisa Fukutoku        def.      Nicole Kiefer        62 26 [6]
-     128      Alesya Yakubovich    def.      Emma Fernald         61 60
+     128      Alesya Yakubovich    def.      Emma Fernald         64 57 [8]
 ~~~
 
 <a name="21-08096"></a>
@@ -264,6 +264,8 @@
  Women's Open Singles
  > PSAC Women's Singles
   > Main
+     SF (1) Karolin Kirchtag     def. (6) Kayla Dean           76(5) 36 [9]
+     SF (4) Natasha Munday       def. (2) Lois Page            61 61
      QF (1) Karolin Kirchtag     def. (5) Adriana Gonzalez Sa… 46 61 [8]
      QF (6) Kayla Dean           def. (3) Katy Graydon         64 60
      QF (4) Natasha Munday       def. (7) Gabriela Del Val De… 63 63

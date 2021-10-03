@@ -512,7 +512,7 @@
  Men's Open Singles
  > Blue
   > Main
-      F  Mann Shah          vs   Andrei Volgin     Sun @ 10:30
+      F  Mann Shah         def.  Andrei Volgin     76(2) 64
      SF  Mann Shah         def.  James Watt        75 61
      SF  Andrei Volgin     def.  Carlos Ramos      63 64
      QF  James Watt        def.  Mate Voros        76(6) 64
@@ -534,7 +534,7 @@
      QQ  Matheo Coupu      def.  Andras Necz       62 63
  > Red
   > Main
-      F  Mitchell Davis     vs   Ryan Morgan       Sun @ 10:30
+      F  Mitchell Davis    def.  Ryan Morgan       63 61
      SF  Mitchell Davis    def.  Brandon Park      Walkover
      SF  Ryan Morgan       def.  Brett Brinkman    63 63
      QF  Brandon Park      def.  Boris Reckow      60 60
@@ -556,7 +556,7 @@
      QQ  Ryan Ali          def.  Coby McCaig       64 63
  > Green
   > Main
-      F  Cory Pham          vs   Rudolfs Aksenoks  Sun @ 09:00
+      F  Cory Pham         def.  Rudolfs Aksenoks  64 63
      SF  Cory Pham         def.  Ambroise Marchand 61 63
      SF  Rudolfs Aksenoks  def.  Coleton Hootman   64 61
      QF  Ambroise Marchand def.  Matthew Rodriguez 62 57 62
@@ -579,14 +579,14 @@
      32  Russell Henderson def.  Ryan Torres       62 61
  > Consolation Sunday
   > Main
-     32  Benjamin Campi     vs   Patrick Wong      Sun @ 10:30
-     32  Ambroise Marchand  vs   Ryan Ali          Sun @ 10:30
-     32  Daniel Dudockin    vs   Coleton Hootman   Sun @ 10:30
-     32  Delmas N Tcha      vs   Nick Cmager       Sun @ 10:30
-     32  Juan Batalla       vs   Ori Maior         Sun @ 10:30
-     32  Loris Zisswiller   vs   James Bell        Sun @ 10:30
-     32  Matheo Coupu       vs   Santiago Hinojosa Sun @ 10:30
-     32  Satchel Benn       vs   Matthew Rodriguez Sun @ 10:30
+     32  Patrick Wong      def.  Benjamin Campi    63 36 64
+     32  Ryan Ali          def.  Ambroise Marchand 63 36 76(5)
+     32  Daniel Dudockin   def.  Coleton Hootman   46 63 62
+     32  Nick Cmager       def.  Delmas N Tcha     63 26 76(4)
+     32  Ori Maior         def.  Juan Batalla      62 63
+     32  James Bell        def.  Loris Zisswiller  64 75
+     32  Santiago Hinojosa def.  Matheo Coupu      63 26 76(4)
+     32  Satchel Benn      def.  Matthew Rodriguez 75 16 62
 ~~~
 
 <a name="21-39279"></a>
@@ -689,18 +689,22 @@
  Men's Open Singles
  > Prequalifying
   > Prequalifying Main
-      32  Gabriel Diaz Freire   vs   Carl Emil Overbeck   Sun @ 13:00
-      32  Francisco Pini        vs   Thomas Brown         Sun @ 13:00
-      32  Brian Shi             vs   Oscar Pinto Sansano  Sun @ 13:00
-      32  Matt Hulme            vs   Robert Cash          Sun @ 13:30
-      32  Andrew Rogers         vs   Mark Mandlik         Sun @ 13:30
-      32  Max McKennon          vs   Eric Hadigian        Sun @ 13:30
-      32  Inigo Torre Martin    vs   Julian Steinhausen   Sun @ 14:00
-      32  Carlos Hassey         vs   Guillaume Dalmasso   Sun @ 14:00
-      32  Filippo Moroni        vs   Ivailo Keremedchiev  Sun @ 14:00
-      32  Eban Straker-Meads    vs   Dusan Milanovic      Sun @ 14:30
-      32  Angel Diaz            vs   Guido Marson         Sun @ 14:30
+      32  Gabriel Diaz Freire  def.  Carl Emil Overbeck   46 63 64
+      32  Thomas Brown         def.  Francisco Pini       62 63
+      32  Oscar Pinto Sansano  def.  Brian Shi            62 62
+      32  Matt Hulme           def.  Robert Cash          64 57 61
+      32  Mark Mandlik         def.  Andrew Rogers        26 61 75
+      32  Eric Hadigian        def.  Max McKennon         64 76(5)
+      32  Inigo Torre Martin   def.  Julian Steinhausen   64 63
+      32  Carlos Hassey        def.  Guillaume Dalmasso   75 64
+      32  Filippo Moroni       def.  Ivailo Keremedchiev  76(5) 61
+      32  Dusan Milanovic      def.  Eban Straker-Meads   64 62
+      32  Guido Marson         def.  Angel Diaz           63 61
       32  Maxwell Benson        vs   Conor Gannon         Sun @ 15:00
+      32  Simon Junk            vs   Andrew Lutschaunig   Sun @ 15:30
+      32  Zion Heaven           vs   Welsh Hotard         Sun @ 15:30
+      32  Josh Wilson           vs   Luke Casper          Sun @ 16:00
+      32  Justin Schlageter     vs   kevin zhu            Sun @ 16:00
       64  Gabriel Diaz Freire  def.  Sviatoslav Gulin     64 51 Ret.
       64  Carl Emil Overbeck   def.  Stefan Leustian      62 36 64
       64  Francisco Pini       def.  Volodymyr Zakharov   62 61
@@ -725,14 +729,14 @@
       64  Guido Marson         def.  George Stoupe        64 26 63
       64  Maxwell Benson       def.  Anuj Watane          75 26 62
       64  Conor Gannon         def.  Herman Hoeyeraal     62 63
-      64  Simon Junk            vs   Nevin Arimilli       Sun @ 11:00
+      64  Simon Junk           def.  Nevin Arimilli       63 46 63
       64  Andrew Lutschaunig   def.  Goncalo Ferreira     63 63
-      64  Carlos Vicente        vs   Zion Heaven          Sun @ 11:30
-      64  Welsh Hotard          vs   Giulio Perego        Sun @ 11:30
-      64  Udayan Bhakar         vs   Josh Wilson          Sun @ 12:00
-      64  Luke Casper           vs   Keshav Chopra        Sun @ 12:00
-      64  Justin Schlageter     vs   Alex Mandma          Sun @ 12:00
-      64  kevin zhu             vs   Raphael Perot        Sun @ 12:00
+      64  Zion Heaven          def.  Carlos Vicente       67(2) 62 63
+      64  Welsh Hotard         def.  Giulio Perego        75 75
+      64  Josh Wilson          def.  Udayan Bhakar        16 64 64
+      64  Luke Casper          def.  Keshav Chopra        62 62
+      64  Justin Schlageter    def.  Alex Mandma          63 76(1)
+      64  kevin zhu            def.  Raphael Perot        16 64 64
      128  Gabriel Diaz Freire  def.  Jesper Klov-Nilsson  46 75 [8]
      128  Sviatoslav Gulin     def.  Luke Hammond         26 76(2) [5]
      128  Stefan Leustian      def.  Alan Sau             67(3) 63 [0]
@@ -934,8 +938,8 @@
      128  Patrick Cacciatore   def.  Jack Hambrook        60 60
      128  Reed Collier         def.  Jesper Klov-Nilsson  62 46 76(7)
      128  Patrick Zahraj       def.  Anton Ornberg        63 61
-     128  Tom Thelwall Jones    vs   Sebastian Vile       Sun @ 12:30
-     128  Matthan Tharakan      vs   William Karpinski    Sun @ 12:30
+     128  Sebastian Vile       def.  Tom Thelwall Jones   64 62
+     128  William Karpinski    def.  Matthan Tharakan     60 63
      128  Deji Thomas-Smith    def.  Antoine Audrain      76(2) 62
      128  Callaway Clark       def.  Tom Ciszewski        75 36 64
      128  Pawit Sornlaksup     def.  Demetris Azoides     75 64
@@ -974,7 +978,7 @@
      SF     Pol Del Castillo     def.     LUCAS WAYENBURG      64 64
      SF     Javier Llinares      def.     Hayden Shoemake      64 63
      QF     LUCAS WAYENBURG      def.     Guido Luna           61 63
-     QF     Pol Del Castillo     def.     Vanja Dobrnjac       61 60
+     QF     Pol Del Castillo     def.     Vanja Dobrnjac       61 30 Ret.
      QF     Hayden Shoemake      def.     Ruan Du Preez        64 61
      QF     Javier Llinares      def.     Nino Portugal        62 64
   > North
@@ -1106,7 +1110,7 @@
   > Southwest
       F     Alex Suk             def.     Daisuke Inagawa      63 64
   > Northwest
-      F     Giulio Sassi          vs      Juan Rodriguez       Sun @ 11:00
+      F     Giulio Sassi         def.     Juan Rodriguez       63 61
  > Singles Flight C1
   > East
       F (3) Cole Brainard        def.     Nicolas Rodriguez    63 64
@@ -1148,7 +1152,7 @@
       F     Ignacio Orgaz        def.     Takafumi Mimata      60 64
  > Singles Flight C2
   > East
-      F     Harrison Kim          vs      Jonathan Judy-Hansen Sun @ 11:30
+      F     Jonathan Judy-Hansen def.     Harrison Kim         76(5) 16 63
      SF     Harrison Kim         def. (1) Connor Evenson       61 64
      SF     Jonathan Judy-Hansen def. (2) Sebastian Nunez      63 61
      QF (1) Connor Evenson       def.     Eloy Veloso          64 67(4) 63
@@ -1224,6 +1228,12 @@
      32  Alex Zederbauer     def.  Charlie Barry      26 61 [8]
      32  Luka Petrovic       def.  Jackie Lin         60 62
      32  Jonny Yaffe         def.  Zach Grueber       75 60
+     32  Florian Broska      def.  Filip Planinsek    46 75 76(4)
+     32  Nemanja Malesevic   def.  Enzo Aguiard       63 75
+     32  Juan Martin         def.  Carles Hernandez   46 63 76(6)
+     32  Gregor Ramskogler   def.  Patrick Kaukovalta 75 76(2)
+     32  Joao Ferreira       def.  Alberto Colas      75 36 61
+     32  Davide Tortora      def.  Rudi Christiansen  64 64
 ~~~
 
 <a name="21-25425"></a>
@@ -1643,7 +1653,6 @@
  Men's Open Singles
  > ITA Mens Singles
   > Main
-       F (1) James Hopper          vs  (5) Ansh Shah            Sun @ 13:00
       SF (1) James Hopper         def. (9) Vishwa Aduru         61 63
       SF (5) Ansh Shah            def. (2) Timmy Cianciola      60 62
       QF (1) James Hopper         def.     Rishil Kondapaneni   61 61
@@ -1750,7 +1759,7 @@
  Men's Open Singles
  > Flight A
   > Main
-       F (3) Robert Liu           vs      Ethan Carroll       Sun @ 11:30
+       F (3) Robert Liu          def.     Ethan Carroll       64 76(5)
       SF (3) Robert Liu          def. (5) Philip Martin       62 61
       SF     Ethan Carroll       def. (2) Matthew Robinson    75 64
       QF (5) Philip Martin       def. (1) Jack Katzman        60 64
@@ -1799,7 +1808,7 @@
      16Q     Stefan Hester       def.     Michael Abagyan     Walkover
  > Flight B
   > Main
-       F (1) Roshan Morey         vs  (8) Reini Igna          Sun @ 09:30
+       F (8) Reini Igna          def. (1) Roshan Morey        76(5) 64
       SF (1) Roshan Morey        def. (3) Praneet Varade      10 Ret.
       SF (8) Reini Igna          def. (2) Daniel Blackman     75 20 Ret.
       QF (1) Roshan Morey        def. (5) Clark Steinhauser   46 62 [9]
@@ -1831,7 +1840,7 @@
       32     Harrison Cohen      def.     Andrew Kaelin       76(5) 75
       32 (2) Daniel Blackman     def.     Jake Will           62 63
   > Consolation
-       F     Bharathan Sundar     vs      Jake Will           Sun @ 11:30
+       F     Jake Will           def.     Bharathan Sundar    64 64
       SF     Bharathan Sundar    def.     Rishi Gundakaram    63 62
       SF     Jake Will           def.     Owen Kelley         36 75 [14]
       QF     Bharathan Sundar    def.     David Jackson       64 64
@@ -1848,7 +1857,7 @@
      16Q     Jake Will           def.     Andrew Kaelin       76(5) 76(5)
  > Flight C
   > Main
-       F (5) Nathan Bernardo      vs  (7) Julien Sanseverino  Sun @ 12:30
+       F (5) Nathan Bernardo     def. (7) Julien Sanseverino  62 61
       SF (5) Nathan Bernardo     def.     Tommy Hays          63 46 [8]
       SF (7) Julien Sanseverino  def.     Andrei Staicu       61 62
       QF (5) Nathan Bernardo     def. (1) John Kim            42 Ret.
@@ -1880,8 +1889,9 @@
       32     Andrei Staicu       def.     Cameron McDaniel    60 57 [7]
       32     Mason Lebby         def. (2) Hangyu Ai           36 63 [10]
   > Consolation
-      SF     Aaron Moylan         vs      JJ Niven            Sun @ 11:00
-      SF     Nick Griffin         vs  (2) Hangyu Ai           Sun @ 11:00
+       F     Aaron Moylan        def. (2) Hangyu Ai           75 63
+      SF     Aaron Moylan        def.     JJ Niven            75 63
+      SF (2) Hangyu Ai           def.     Nick Griffin        64 46 [8]
       QF     Aaron Moylan        def.     Shawn Rothermel     62 46 [5]
       QF     JJ Niven            def.     Nathan Butterfield  63 62
       QF     Nick Griffin        def.     Alex Atwell         50 Ret.

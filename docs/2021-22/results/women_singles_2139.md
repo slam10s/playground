@@ -891,6 +891,7 @@
      R1  Mirte Van Baelen     def.  Makoto Ohara         64 75
  > Orange Mian, Top 8
   > Main
+     R6  Felicia Jayasaputra  def.  Madison Egan         76(6) 61
      R4  Felicia Jayasaputra  def.  Corey Patton Lossner 60 60
      R4  Emilee Astle         def.  Jacinta Milenkoski   63 62
      R4  Win Ka Lin           def.  Madison Egan         60 60
@@ -1170,7 +1171,7 @@
      SF     Greta Schieroni      def.     Alexandria Mjos      75 75
  > Flight B
   > East
-      F     isabella colmenares  def.     Sierra Berry         63 16 [5]
+      F     isabella colmenares  def.     Sierra Berry         75 16 75
      SF     isabella colmenares  def.     Grace Eland          57 62 [7]
      SF     Sierra Berry         def.     Kristina Miletic     75 76(5)
      QF     isabella colmenares  def.     Ines Bekrar          61 62
@@ -1492,7 +1493,7 @@
      128      Erika Cheng          def.      Kensie Cricchio      62 62
      128      Amber ODell          def.      Hope Moulin          63 63
      128      Lisa Fukutoku        def.      Nicole Kiefer        62 26 [6]
-     128      Alesya Yakubovich    def.      Emma Fernald         61 60
+     128      Alesya Yakubovich    def.      Emma Fernald         64 57 [8]
 ~~~
 
 <a name="21-17427"></a>
@@ -1759,7 +1760,6 @@
       F     Camille Dufays       def.     Cibeles Zuddy        Walkover
  > Singles Flight C1
   > East
-      F     Daniela Rivera        vs  (2) Yunuen Elizarraras   Sun @ 11:30
      SF     Daniela Rivera       def.     Kristina Kukaras     63 63
      SF (2) Yunuen Elizarraras   def.     Kristin Yordanova    61 61
      QF     Daniela Rivera       def.     Sofia Pinedo         75 62
@@ -1786,8 +1786,6 @@
       F     Bea Acena            def.     Sofia Pinedo         64 76(1)
      SF     Sofia Pinedo         def. (3) Annalisa Smith       46 75 [6]
      SF     Bea Acena            def. (4) Dariana Prato        Walkover
-  > 3-4 Playoff
-      F     Kristina Kukaras      vs      Kristin Yordanova    Sun @ 11:30
   > South
       F (1) Olivia Bryant        def.     Nicole Katzarkov     63 62
      SF (1) Olivia Bryant        def.     Shradha Chhabra      75 61
@@ -1891,6 +1889,20 @@
      32  Hsiang-Wen Huang def.  Megan Lombardi      61 62
      32  Sicely Ferreira  def.  Sarah Alice OConnor 62 64
      32  satoho Toriumi   def.  Megan Davies        16 76(5) 60
+ > Utah vs. UNM; USU vs. WSU
+  > Main
+     32  Anya Lamoreaux   def.  Sarah Alice OConnor 16 62 61
+     32  Samantha Horwood def.  Hsiang-Wen Huang    62 62
+     32  Lindsay Hung     def.  Myu Kageyama        61 64
+     32  Hsuan Huang      def.  Madison Tattini     64 63
+     32  satoho Toriumi   def.  Katya Hersh         64 63
+     32  Emily Dush       def.  Yue Lin Chen        61 63
+     32  ANNALIESE COUNTY def.  Kenadee Semenik     Walkover
+     32  Patty Kuo        def.  GABINE DEKKERS      63 76(5)
+     32  LISA KUNG        def.  Sicely Ferreira     62 64
+     32  Megan Davies     def.  CAROLINA MILLAN     64 64
+     32  Megan Lombardi   def.  ZEYNEP OZTURK       61 60
+     32  Nadja Straehle   def.  BROOKE DEMERATH     64 60
 ~~~
 
 <a name="21-35169"></a>
@@ -2203,7 +2215,7 @@
       32     Athena Kolli         def.     Caro Groff           63 36 [2]
       32 (2) Arushi Malik         def.     Manasvi Vardham      61 61
   > Consolation
-       F     Lexi Lehman           vs      Abby Nash            Sun @ 11:30
+       F     Abby Nash            def.     Lexi Lehman          64 75
       SF     Lexi Lehman          def. (7) Michelle Hyun        61 61
       SF     Abby Nash            def.     Caro Groff           64 62
       QF (7) Michelle Hyun        def.     Sylvie Van Cott      16 76(5) [8]
@@ -2220,7 +2232,7 @@
      16Q     Caro Groff           def.     Manasvi Vardham      63 64
  > Flight A
   > Main
-       F (1) Angie Zhou            vs  (3) Nina Ye              Sun @ 11:30
+       F (3) Nina Ye              def. (1) Angie Zhou           Walkover
       SF (1) Angie Zhou           def.     Sarah Bahsoun        63 60
       SF (3) Nina Ye              def. (6) Sena Selby           61 62
       QF (1) Angie Zhou           def. (5) Nikolina Batoshvili  61 63
@@ -2289,7 +2301,8 @@
       32     Rubina Copano        def.     Courtney Saqueton    60 61
       32     Lauren Sebastian     def.     Julie Cutler         60 75
   > Consolation
-      SF     Grace Wilson          vs      Teresa Huang         Sun @ 10:00
+       F     Teresa Huang         def.     Claire Andrews       61 63
+      SF     Teresa Huang         def.     Grace Wilson         75 62
       SF     Claire Andrews       def.     Joslin Seaberg       61 61
       QF     Teresa Huang         def.     Brechtje Voskuil     61 60
       QF     Grace Wilson         def.     Courtney Saqueton    61 60
@@ -2718,6 +2731,8 @@
  Women's Open Singles
  > PSAC Women's Singles
   > Main
+     SF (1) Karolin Kirchtag     def. (6) Kayla Dean           76(5) 36 [9]
+     SF (4) Natasha Munday       def. (2) Lois Page            61 61
      QF (1) Karolin Kirchtag     def. (5) Adriana Gonzalez Sa… 46 61 [8]
      QF (6) Kayla Dean           def. (3) Katy Graydon         64 60
      QF (4) Natasha Munday       def. (7) Gabriela Del Val De… 63 63

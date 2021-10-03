@@ -384,6 +384,7 @@
      R5  Jhang/Redondo        def.  Ernstberger/Baptista 76(6)
      R5  Heimuli/Huang        def.  Stewart/Conde Vendr… 64
      R4  Stewart/Conde Vendr… def.  Jhang/Redondo        60
+     R2  Van Baelen/Villarejo def.  Garcia-Reboredo/Cuq… 64
      R1  Heimuli/Huang        def.  Huchet/Oliveira      62
      R1  Stewart/Conde Vendr… def.  Garcia-Reboredo/Cuq… 61
  > Orange
@@ -973,15 +974,15 @@
 
 <a name="21-64584"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Division III Men’s & Women's West ITA Regional Championships
   Dates: Oct 1-3, 2021
   Host: Pomona Pitzer Colleges (M)
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-       F (3) Zhou/Markey           vs  (5) Lee/Juan             Sun @ 10:00
+       F (3) Zhou/Markey          def. (5) Lee/Juan             64 64
       SF (3) Zhou/Markey          def.     Selby/Yoon           85
       SF (5) Lee/Juan             def. (4) Wolfe/Chulani        85
       QF     Selby/Yoon           def. (1) Bahsoun/Batoshvili   86
@@ -1040,6 +1041,8 @@
  Women's Open Doubles
  > Main Draw Doubles
   > Main
+      SF (1) Li/Goetz             def.     Perez/Yoon           62 63
+      SF     Cartledge/Fatemi     def. (4) Despriet/Hall        63 36 64
       QF (1) Li/Goetz             def.     Smith/Nowak          85
       QF     Perez/Yoon           def.     Nassar/Carpenter     84
       QF (4) Despriet/Hall        def.     Shulman/Falcon       85

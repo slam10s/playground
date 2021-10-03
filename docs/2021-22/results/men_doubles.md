@@ -256,43 +256,46 @@
 
 <a name="21-92523"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
   Aggie Invitational
   Dates: Oct 1-3, 2021
   Host: Univ. Of California, Davis (M)
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Blue
   > Main
-      F  Davis/Volgin      vs   Voros/Silva      Sun @ 09:00
-     SF  Davis/Volgin     def.  Reckow/Watt      83
-     SF  Voros/Silva      def.  Alam/Park        97
-     QF  Reckow/Watt      def.  Batalla/N Tcha   82
-     QF  Davis/Volgin     def.  Hinojosa/Shah    85
-     QF  Alam/Park        def.  Coupu/Zisswiller 98(1)
-     QF  Voros/Silva      def.  Cmager/Bell      86
+      F  Voros/Silva       def.  Davis/Volgin     98(5)
+     SF  Davis/Volgin      def.  Reckow/Watt      83
+     SF  Voros/Silva       def.  Alam/Park        97
+     QF  Reckow/Watt       def.  Batalla/N Tcha   82
+     QF  Davis/Volgin      def.  Hinojosa/Shah    85
+     QF  Alam/Park         def.  Coupu/Zisswiller 98(1)
+     QF  Voros/Silva       def.  Cmager/Bell      86
   > Consolation
-     SQ  Batalla/N Tcha   def.  Hinojosa/Shah    84
-     SQ  Coupu/Zisswiller def.  Cmager/Bell      83
+     SQ  Batalla/N Tcha    def.  Hinojosa/Shah    84
+     SQ  Coupu/Zisswiller  def.  Cmager/Bell      83
  > White
   > Main
-      F  Benn/Dudockin     vs   Hootman/Necz     Sun @ 09:00
-     SF  Benn/Dudockin    def.  Morgan/Torres    85
-     SF  Hootman/Necz     def.  Brinkman/Pham    82
-     QF  Morgan/Torres    def.  Maior/Wong       86
-     QF  Benn/Dudockin    def.  Ramos/Rincon     98(3)
-     QF  Brinkman/Pham    def.  Ali/Rodriguez    98(1)
-     QF  Hootman/Necz     def.  Campi/Marchand   82
-     16  Maior/Wong       def.  McCaig/Saini     98(3)
-     16  Brinkman/Pham    def.  Ortiveros/Potts  82
-     16  Hootman/Necz     def.  Alam/Puttergill  Walkover
+      F  Benn/Dudockin     def.  Hootman/Necz     86
+     SF  Benn/Dudockin     def.  Morgan/Torres    85
+     SF  Hootman/Necz      def.  Brinkman/Pham    82
+     QF  Morgan/Torres     def.  Maior/Wong       86
+     QF  Benn/Dudockin     def.  Ramos/Rincon     98(3)
+     QF  Brinkman/Pham     def.  Ali/Rodriguez    98(1)
+     QF  Hootman/Necz      def.  Campi/Marchand   82
+     16  Maior/Wong        def.  McCaig/Saini     98(3)
+     16  Brinkman/Pham     def.  Ortiveros/Potts  82
+     16  Hootman/Necz      def.  Alam/Puttergill  Walkover
   > Consolation
-     QF  Ortiveros/Potts  def.  McCaig/Saini     83
+     QF  Ortiveros/Potts   def.  McCaig/Saini     83
  > Sunday Consoldation
   > Main
-     QF  Hinojosa/Cmager   vs   Campi/Marchand   Sun @ 09:00
-     QF  Coupu/Zisswiller  vs   Morgan/Torres    Sun @ 09:00
-     QF  Batalla/N Tcha    vs   Maior/Wong       Sun @ 09:00
+     QF  Hinojosa/Cmager   def.  Campi/Marchand   82
+     QF  Morgan/Torres     def.  Coupu/Zisswiller 84
+     QF  Maior/Wong        def.  Batalla/N Tcha   86
+ > Sunday Extra
+  > Main
+      F  Aksenoks/Brinkman def.  Ali/Rodriguez    84
 ~~~
 
 <a name="21-39279"></a>
@@ -772,15 +775,15 @@
 
 <a name="21-64584"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   Division III Men’s & Women's West ITA Regional Championships
   Dates: Oct 1-3, 2021
   Host: Pomona Pitzer Colleges (M)
-═══════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-       F (8) Martin/Arimilli       vs      Comadena/Kelley      Sun @ 10:00
+       F     Comadena/Kelley      def. (8) Martin/Arimilli      26 63 [9]
       SF (8) Martin/Arimilli      def. (1) Katzman/Liu          84
       SF     Comadena/Kelley      def. (6) Yip/Hester           86
       QF (1) Katzman/Liu          def.     Reznik/Mattox        84
@@ -812,7 +815,7 @@
       32     Steinhauser/Lee      def.     Gundakaram/Srinivas… 82
       32 (2) Freer/Robinson       def.     Lilov/Watson         82
   > Consolation
-       F (5) Mardirossian/Hall     vs      Sundar/Gonzalgo      Sun @ 10:00
+       F (5) Mardirossian/Hall    def.     Sundar/Gonzalgo      84
       SF (5) Mardirossian/Hall    def.     Cabacungan/Somervil… 86
       SF     Sundar/Gonzalgo      def.     Carroll/Li           85
       QF (5) Mardirossian/Hall    def.     Will/Staicu          84

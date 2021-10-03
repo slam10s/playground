@@ -27,18 +27,22 @@
  Men's Open Singles
  > Prequalifying
   > Prequalifying Main
-      32  Gabriel Diaz Freire   vs   Carl Emil Overbeck   Sun @ 13:00
-      32  Francisco Pini        vs   Thomas Brown         Sun @ 13:00
-      32  Brian Shi             vs   Oscar Pinto Sansano  Sun @ 13:00
-      32  Matt Hulme            vs   Robert Cash          Sun @ 13:30
-      32  Andrew Rogers         vs   Mark Mandlik         Sun @ 13:30
-      32  Max McKennon          vs   Eric Hadigian        Sun @ 13:30
-      32  Inigo Torre Martin    vs   Julian Steinhausen   Sun @ 14:00
-      32  Carlos Hassey         vs   Guillaume Dalmasso   Sun @ 14:00
-      32  Filippo Moroni        vs   Ivailo Keremedchiev  Sun @ 14:00
-      32  Eban Straker-Meads    vs   Dusan Milanovic      Sun @ 14:30
-      32  Angel Diaz            vs   Guido Marson         Sun @ 14:30
+      32  Gabriel Diaz Freire  def.  Carl Emil Overbeck   46 63 64
+      32  Thomas Brown         def.  Francisco Pini       62 63
+      32  Oscar Pinto Sansano  def.  Brian Shi            62 62
+      32  Matt Hulme           def.  Robert Cash          64 57 61
+      32  Mark Mandlik         def.  Andrew Rogers        26 61 75
+      32  Eric Hadigian        def.  Max McKennon         64 76(5)
+      32  Inigo Torre Martin   def.  Julian Steinhausen   64 63
+      32  Carlos Hassey        def.  Guillaume Dalmasso   75 64
+      32  Filippo Moroni       def.  Ivailo Keremedchiev  76(5) 61
+      32  Dusan Milanovic      def.  Eban Straker-Meads   64 62
+      32  Guido Marson         def.  Angel Diaz           63 61
       32  Maxwell Benson        vs   Conor Gannon         Sun @ 15:00
+      32  Simon Junk            vs   Andrew Lutschaunig   Sun @ 15:30
+      32  Zion Heaven           vs   Welsh Hotard         Sun @ 15:30
+      32  Josh Wilson           vs   Luke Casper          Sun @ 16:00
+      32  Justin Schlageter     vs   kevin zhu            Sun @ 16:00
       64  Gabriel Diaz Freire  def.  Sviatoslav Gulin     64 51 Ret.
       64  Carl Emil Overbeck   def.  Stefan Leustian      62 36 64
       64  Francisco Pini       def.  Volodymyr Zakharov   62 61
@@ -63,14 +67,14 @@
       64  Guido Marson         def.  George Stoupe        64 26 63
       64  Maxwell Benson       def.  Anuj Watane          75 26 62
       64  Conor Gannon         def.  Herman Hoeyeraal     62 63
-      64  Simon Junk            vs   Nevin Arimilli       Sun @ 11:00
+      64  Simon Junk           def.  Nevin Arimilli       63 46 63
       64  Andrew Lutschaunig   def.  Goncalo Ferreira     63 63
-      64  Carlos Vicente        vs   Zion Heaven          Sun @ 11:30
-      64  Welsh Hotard          vs   Giulio Perego        Sun @ 11:30
-      64  Udayan Bhakar         vs   Josh Wilson          Sun @ 12:00
-      64  Luke Casper           vs   Keshav Chopra        Sun @ 12:00
-      64  Justin Schlageter     vs   Alex Mandma          Sun @ 12:00
-      64  kevin zhu             vs   Raphael Perot        Sun @ 12:00
+      64  Zion Heaven          def.  Carlos Vicente       67(2) 62 63
+      64  Welsh Hotard         def.  Giulio Perego        75 75
+      64  Josh Wilson          def.  Udayan Bhakar        16 64 64
+      64  Luke Casper          def.  Keshav Chopra        62 62
+      64  Justin Schlageter    def.  Alex Mandma          63 76(1)
+      64  kevin zhu            def.  Raphael Perot        16 64 64
      128  Gabriel Diaz Freire  def.  Jesper Klov-Nilsson  46 75 [8]
      128  Sviatoslav Gulin     def.  Luke Hammond         26 76(2) [5]
      128  Stefan Leustian      def.  Alan Sau             67(3) 63 [0]
@@ -272,8 +276,8 @@
      128  Patrick Cacciatore   def.  Jack Hambrook        60 60
      128  Reed Collier         def.  Jesper Klov-Nilsson  62 46 76(7)
      128  Patrick Zahraj       def.  Anton Ornberg        63 61
-     128  Tom Thelwall Jones    vs   Sebastian Vile       Sun @ 12:30
-     128  Matthan Tharakan      vs   William Karpinski    Sun @ 12:30
+     128  Sebastian Vile       def.  Tom Thelwall Jones   64 62
+     128  William Karpinski    def.  Matthan Tharakan     60 63
      128  Deji Thomas-Smith    def.  Antoine Audrain      76(2) 62
      128  Callaway Clark       def.  Tom Ciszewski        75 36 64
      128  Pawit Sornlaksup     def.  Demetris Azoides     75 64
