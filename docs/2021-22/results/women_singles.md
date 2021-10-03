@@ -2461,6 +2461,7 @@
  Women's Open Singles
  > Draw A
   > Main
+       F (14) Suzuka Nishino       def.  (2) Samantha Wong        64 63
       SF (14) Suzuka Nishino       def.  (6) Emma Kesterson       62 64
       SF  (2) Samantha Wong        def. (12) Lydia Lee            63 64
       QF (14) Suzuka Nishino       def.  (1) Nina Mitrofanova     63 26 [6]

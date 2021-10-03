@@ -12,5 +12,6 @@
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">ITA Division I Women's Ohio Valley Regional Championship</a>  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">ITA Division I Women's Southwest Regional Championship</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Eagle Invitational</a>  
+- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/4E66DF95-8991-4880-9830-29E9F5B3C53F" target="_blank">Saint Leo Hidden Duals - Women</a>  
 
 Return to the [Top](./women_doubles_2142.md) &#124; [Home Page](../../index.md)

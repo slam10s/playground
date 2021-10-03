@@ -26,6 +26,7 @@
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Beeman/Drobac Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Davidson College Invite</a>  
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Hagedorn Hidden Dual</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">ITA Men's All-American Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">PNW Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Division III Men's Northeast ITA Regional Championships</a>  
