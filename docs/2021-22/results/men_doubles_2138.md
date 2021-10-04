@@ -141,7 +141,7 @@
      16     Pelletti/Pessoa      def.     Glowaki/De Oliveira  84
      16     Nouws/den Hartog     def.     Tajada/Turley        98(4)
      16 (4) Barbon/Stepanov      def.     Chiaradia/Figuiere   81
-     16 (3) Marrero/Orevad       def.     Freemann/Ferreira    83
+     16 (3) Marrero/Orevad       def.     Hartmann/Ferreira    83
      16     Navrotchi/Mochizuki  def.     Binnios/Nicolau Fer… 82
      16     Della Cioppa/Menend… def.     Safont Martinez/Tab… 85
      16 (2) Barrios/Zick         def.     Preiswerk/Martinez   86
@@ -153,7 +153,7 @@
      32     Chiaradia/Figuiere   def.     Lopez Cruz/Tryakshin 86
      32 (4) Barbon/Stepanov      def.     Fererr/Landaluce     85
      32 (3) Marrero/Orevad       def.     Smulski/Torrenegra   82
-     32     Freemann/Ferreira    def.     Nunez/Mariot         Walkover
+     32     Hartmann/Ferreira    def.     Nunez/Mariot         Walkover
      32     Binnios/Nicolau Fer… def.     Gibbs/Bousquet       Walkover
      32     Navrotchi/Mochizuki  def.     Pejanovic/Andrews    97
      32     Della Cioppa/Menend… def.     Grijalva/Amorim      83

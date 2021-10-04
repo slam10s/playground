@@ -635,7 +635,7 @@
      QF  Zachary Matuszak    def.  Josh Watkins        60 62
      QF  Rian Ta             def.  Marcos Zelver       60 63
   > West
-      F  Manuel Monteiro      vs   Marcos Zelver       Sun @ 10:00
+      F  Marcos Zelver       def.  Manuel Monteiro     64 64
      SF  Manuel Monteiro     def.  Michael Blando      62 62
      SF  Marcos Zelver       def.  Josh Watkins        63 62
  > Orange
@@ -700,11 +700,11 @@
       32  Filippo Moroni       def.  Ivailo Keremedchiev  76(5) 61
       32  Dusan Milanovic      def.  Eban Straker-Meads   64 62
       32  Guido Marson         def.  Angel Diaz           63 61
-      32  Maxwell Benson        vs   Conor Gannon         Sun @ 15:00
-      32  Simon Junk            vs   Andrew Lutschaunig   Sun @ 15:30
-      32  Zion Heaven           vs   Welsh Hotard         Sun @ 15:30
-      32  Josh Wilson           vs   Luke Casper          Sun @ 16:00
-      32  Justin Schlageter     vs   kevin zhu            Sun @ 16:00
+      32  Conor Gannon         def.  Maxwell Benson       46 64 60
+      32  Simon Junk           def.  Andrew Lutschaunig   61 76(5)
+      32  Welsh Hotard         def.  Zion Heaven          63 61
+      32  Luke Casper          def.  Josh Wilson          67(5) 63 76(5)
+      32  Justin Schlageter    def.  kevin zhu            61 62
       64  Gabriel Diaz Freire  def.  Sviatoslav Gulin     64 51 Ret.
       64  Carl Emil Overbeck   def.  Stefan Leustian      62 36 64
       64  Francisco Pini       def.  Volodymyr Zakharov   62 61
@@ -946,6 +946,72 @@
      128  Sebastian Rodriguez  def.  Melvin Manuel        62 46 76(7)
      128  Blaz Seric           def.  Walker Stearns       64 62
      128  Kaya Gore            def.  Christopher Cahour   67(3) 60 64
+ > Qualifying
+  > Main
+     256  Chase Ferguson        vs   Mark Mandlik         Mon @ 08:00
+     256  Abedallah Shelbayh    vs   Yuta Kikuchi         Mon @ 08:00
+     256  Daniel De Jonge       vs   Kyryll Kryvchun      Mon @ 08:00
+     256  Luca Staeheli         vs   David Stevenson      Mon @ 08:00
+     256  Toby Samuel           vs   Sema Pankin          Mon @ 10:00
+     256  Nicholas McKinney     vs   Johannes Seeman      Mon @ 11:30
+     256  Jake Finn Bass        vs   Justin Barki         Mon @ 11:00
+     256  Vlad Lobak            vs   Kento Yamada         Mon @ 09:45
+     256  Garrett Johns         vs   Ilgiz Valiev         Mon @ 08:00
+     256  Chris Rodesch         vs   Alex Brown           Mon @ 08:00
+     256  Guido Marson          vs   Matt Hulme           Mon @ 08:00
+     256  Jett Middleton        vs   Vito Tonejc          Mon @ 08:00
+     256  Fabien Salle          vs   Quinn Vandecasteele  Mon @ 08:00
+     256  Sean Sculley          vs   Eric Hadigian        Mon @ 08:00
+     256  Conor Gannon          vs   Welsh Hotard         Mon @ 11:00
+     256  Matt Summers          vs   Joshua Lapadat       Mon @ 11:30
+     256  Dimitri Badra         vs   Tim Zeitvogel        Mon @ 10:30
+     256  Murphy Cassone        vs   Nathan Han           Mon @ 11:30
+     256  Carles Anton          vs   Thomas Brown         Mon @ 08:00
+     256  Geronimo Busleiman    vs   Loris Pourroy        Mon @ 08:00
+     256  Nicolas Rousset       vs   Justin Boulais       Mon @ 09:00
+     256  Andrew Zhang          vs   Francois Musitelli   Mon @ 09:00
+     256  Filip Malbasic        vs   Inigo Torre Martin   Mon @ 09:30
+     256  Simon Arca Costas     vs   Emile Hudd           Mon @ 09:30
+     256  James Story           vs   Max Basing           Mon @ 09:45
+     256  Connor Di Marco       vs   Kyle Frankel         Mon @ 11:00
+     256  Carlos Hassey         vs   Ronan Jachuck        Mon @ 09:30
+     256  Justin Schlageter     vs   JJ Tracy             Mon @ 09:30
+     256  Siem Woldeab          vs   Oscar Pinto Sansano  Mon @ 12:00
+     256  Thomas Bosancic       vs   Blake Croyder        Mon @ 12:00
+     256  Marin Delmas          vs   Trey Hilderbrand     Mon @ 12:30
+     256  Mac Kiger             vs   Sven Lah             Mon @ 12:30
+     256  Joshua Goodger        vs   Andre Ilagan         Mon @ 11:30
+     256  Dusan Milanovic       vs   Jacob Brumm          Mon @ 10:30
+     256  Stijn Slump           vs   Timothy Sah          Mon @ 08:00
+     256  Lui Maxted            vs   Andrew Fenty         Mon @ 08:00
+     256  Richard Ciamarra      vs   Ezequiel Santalla    Mon @ 09:00
+     256  edoardo graziani      vs   Tadeas Paroulek      Mon @ 09:00
+     256  Gavin Young           vs   Max McKennon         Mon @ 08:00
+     256  Alexander Hoogmarte…  vs   Leyton Cronje        Mon @ 08:00
+     256  Noah Schachter        vs   Finlay Murgett       Mon @ 08:00
+     256  Athell Bennett        vs   Filippo Moroni       Mon @ 08:00
+     256  Ewen Lumsden          vs   Bradley Frye         Mon @ 11:30
+     256  Harris Walker         vs   Joshua Charlton      Mon @ 10:00
+     256  Emmanuel Coste        vs   Oscar Cutting        Mon @ 09:45
+     256  kevin zhu             vs   Luke Casper          Mon @ 09:45
+     256  Colton Smith          vs   Mark Wallner         Mon @ 08:00
+     256  Henry Schulenburg     vs   James Trotter        Mon @ 08:00
+     256  Cleeve Harper         vs   Francisco Pini       Mon @ 10:30
+     256  Bogdan Pavel          vs   Nicola Vidal         Mon @ 11:00
+     256  Patrick Maloney       vs   Pedro Vives Marcos   Mon @ 08:00
+     256  Tristan Boyer         vs   Matthis Ross         Mon @ 08:00
+     256  Joao Ceolin           vs   Mattias Siimar       Mon @ 08:00
+     256  Tad McClean           vs   Rafael Marques Da S… Mon @ 08:00
+     256  John Hallquist Lith…  vs   Charles Bertimon     Mon @ 09:30
+     256  Callum Gale           vs   Alexandre Rotsaert   Mon @ 09:30
+     256  Stefan Dostanic       vs   Liam Krall           Mon @ 11:30
+     256  Simon Junk            vs   Shunsuke Mitsui      Mon @ 10:00
+     256  Holden Koons          vs   Daniel Siddall       Mon @ 09:30
+     256  Pavel Motl            vs   Pierce Rollins       Mon @ 09:30
+     256  Magnus Johnson        vs   Chris Edge           Mon @ 10:00
+     256  Rayane Stable         vs   Adham Gaber          Mon @ 10:45
+     256  Lodewijk Weststrate   vs   Gabriel Diaz Freire  Mon @ 11:00
+     256  Alex Martinez         vs   Rafael Iziquierdo L… Mon @ 10:30
 ~~~
 
 <a name="21-07548"></a>
@@ -1355,8 +1421,9 @@
  Men's Open Singles
  > Main Draw A
   > Main
-      SF (1) Andrea Zamurri        vs  (9) Marko Nikoliuk       Sun @ 09:00
-      SF (3) Francisco Oliveira    vs  (9) Franco Oliva         Sun @ 09:00
+       F (9) Marko Nikoliuk       def. (9) Franco Oliva         63 75
+      SF (9) Marko Nikoliuk       def. (1) Andrea Zamurri       26 63 62
+      SF (9) Franco Oliva         def. (3) Francisco Oliveira   63 75
       QF (1) Andrea Zamurri       def.     Kim Niethammer       63 61
       QF (9) Marko Nikoliuk       def. (5) Guilherme Dos Santos 76(2) 64
       QF (3) Francisco Oliveira   def. (9) Tim Hammes           64 46 [8]
@@ -2074,6 +2141,7 @@
  Men's Open Singles
  > PSAC Men's Singles
   > Main
+      F (2) Bruno Sabio      def. (1) Carlos Martinez      63 64
      SF (1) Carlos Martinez  def. (4) David Akinpetide     67(5) 64 [7]
      SF (2) Bruno Sabio      def. (3) Ruben Acuna          64 46 [5]
      QF (1) Carlos Martinez  def.     Aidan Cashin         60 60

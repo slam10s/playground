@@ -9,6 +9,7 @@
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
 - 9/24/2021 - [Ole Miss Fall Invite](#21-39692) ([Results](#21-39692) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMississippiW/Tournaments/Overview/5CF07ED7-A131-45ED-8D93-E6058EED2536" target="_blank">Draws</a>)  
 - 9/23/2021 - [Ranked College Spotlight](#21-47703) ([Results](#21-47703) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthCarolinaStateUnivW/Tournaments/Overview/2CBD0E5F-B8C8-4667-972F-0BCB4951BB75" target="_blank">Draws</a>)  
+- 9/24/2021 - [SMU Fall Invite](#21-08553) ([Results](#21-08553) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/DA20527E-5D36-4FBF-A32B-A3905E6A333C" target="_blank">Draws</a>)  
 - 9/24/2021 - [University of Minnesota Gopher Invitational](#21-50226) ([Results](#21-50226) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
@@ -38,7 +39,6 @@
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityW/Tournaments/Overview/1CE6B392-5A54-43F9-A9F6-BAC5D49C0747" target="_blank">Lehigh Women's Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Natchitoches Women's Care/Lady Demon Collegiate Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityW/Tournaments/Overview/7BB7BD29-7CFA-40C8-8B1A-907141B28F7E" target="_blank">Purdue Invite</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/DA20527E-5D36-4FBF-A32B-A3905E6A333C" target="_blank">SMU Fall Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/EDD70DAB-65CC-4E26-BC6B-D0CC66FD5BAC" target="_blank">Stetson Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Stetson Invite 1</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/6F07BB8D-7FC6-4D88-B1F7-809501FCD0B1" target="_blank">Thunder in the Mountains</a>  
@@ -825,6 +825,47 @@
  > Extra Match
   > Main
       F  Victoria Hu          def.  Eleonora Molinaro    64 75
+~~~
+
+<a name="21-08553"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  SMU Fall Invite
+  Dates: Sep 24-26, 2021
+  Host: Southern Methodist Univ. (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw
+  > Main
+     32  Drew Morris          def.  Ileana Mocciola      61 60
+     32  Nicole Petchey       def.  Maryjoe Crisologo    63 61
+     32  Winslow Huth         def.  Camryn Stepp         62 67(3) [8]
+     32  Katherine Jakeway    def.  Andrea Guerrero      62 63
+     32  Reka Patel           def.  Paula Garrote        64 60
+     32  Cambelle Bouchard    def.  Danielle Viljoen     63 63
+     32  Avelina Sayfetdinova def.  Gabriela Giraldo     64 64
+     32  Tomi Main            def.  Azul Pedemonti       64 75
+     32  Momoka Horiguchi     def.  Laura Slisane        63 64
+     32  Ana Paula Jimenez    def.  Manasi Reddy         60 60
+     32  Ioana Dumitrescu     def.  Sophie Gerits        64 64
+     32  Nika Novikova        def.  Elena Trencheva      36 63 [3]
+     32  Sarina Reinertsen    def.  Blanca Cortijo Parr… 62 62
+     32  Maria Dzemeshkevich  def.  Tara Gorinsek        63 64
+ > Day 2
+  > Main
+     32  Nicole Petchey       def.  Tomi Main            63 57 [6]
+     32  Maria Dzemeshkevich  def.  Winslow Huth         62 64
+     32  Gabriela Giraldo     def.  Drew Morris          61 60
+     32  Katherine Jakeway    def.  Elena Trencheva      63 60
+     32  Blanca Cortijo Parr… def.  Reka Patel           61 64
+     32  Ana Paula Jimenez    def.  Allison Stewart      64 64
+     32  Sarina Reinertsen    def.  Ileana Mocciola      63 61
+     32  Ioana Dumitrescu     def.  Paula Garrote        62 61
+     32  Laura Slisane        def.  Emma Gretzky         76(3) 62
+     32  Avelina Sayfetdinova def.  Sophie Gerits        61 75
+     32  Momoka Horiguchi     def.  Camryn Stepp         26 63 [5]
+     32  Tara Gorinsek        def.  Maryjoe Crisologo    64 63
+     32  Nika Novikova        def.  Andrea Guerrero      46 63 [6]
 ~~~
 
 <a name="21-50226"></a>

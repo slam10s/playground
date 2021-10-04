@@ -1,9 +1,11 @@
 <a name="top"></a>[<< Prev](men_singles_2136.md) &nbsp; **Week #37 - Sep 13-19, 2021** &nbsp; [Next >>](men_singles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2137.md) &#124; [Women](./women_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2137.md) &#124; [Doubles](./men_doubles_2137.md)
 
 **Tournamets with Matches**  
+- 9/17/2021 - [Alabama Four-In-The-Fall](#21-01301) ([Results](#21-01301) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4" target="_blank">Draws</a>)  
 - 9/16/2021 - [Bedford Cup in the Mountains](#21-69307) ([Results](#21-69307) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dale Short Shootout](#21-04953) ([Results](#21-04953) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityM/Tournaments/Overview/8D17D1A4-3D6A-4D99-9858-4808AD3D6EAE" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dartmouth Invitational](#21-10750) ([Results](#21-10750) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeM/Tournaments/Overview/FB53D115-F7C3-43C7-9CAF-0B60D9E55E67" target="_blank">Draws</a>)  
+- 9/17/2021 - [Duke Bonk Invitational](#21-67582) ([Results](#21-67582) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/FFC0211B-E579-4EA7-9FE6-D4E9522C2014" target="_blank">Draws</a>)  
 - 9/17/2021 - [Jersey Mike's Seahawk Fall Invitational](#21-41355) ([Results](#21-41355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/B5F60616-E79D-49E3-B226-EA1A8F6D19C9" target="_blank">Draws</a>)  
 - 9/17/2021 - [Lakes Tennis Club Invite](#21-22672) ([Results](#21-22672) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOklahomaM/Tournaments/Overview/C4392CA9-3D72-477E-9550-4FE92C5723E8" target="_blank">Draws</a>)  
 - 9/18/2021 - [Lehigh Men's Tennis Invite](#21-40280) ([Results](#21-40280) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityM/Tournaments/Overview/DC12F12F-6866-4F1B-A1DE-CB27F27A4E6F" target="_blank">Draws</a>)  
@@ -20,8 +22,6 @@
 - 9/17/2021 - [Trinity Invitational](#21-44752) ([Results](#21-44752) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TrinityUniversityM/Tournaments/Overview/CC4630A5-B838-48AE-83FD-363FF44D005F" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4" target="_blank">Alabama Four-In-The-Fall</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/FFC0211B-E579-4EA7-9FE6-D4E9522C2014" target="_blank">Duke Bonk Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityM/Tournaments/Overview/D4F405A0-9744-41D5-B40A-884B0F1AADEF" target="_blank">OSU Invitational</a>  
@@ -31,6 +31,67 @@
 - 9/19/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CarthageCollegeM/Tournaments/Overview/0360BE02-00EA-4704-B66F-2ED3ACEF18A1" target="_blank">Firebird Challenge</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/97C4AA58-56BC-46A0-8287-9B7C41BD76A7" target="_blank">Middlebury Invitational 2021</a>  
 - 9/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SwarthmoreCollegeM/Tournaments/Overview/EBF37285-C88B-4F3E-B6EA-6C0DE013DBB8" target="_blank">Swat Men's Tennis Invite</a>  
+
+<a name="21-01301"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  Alabama Four-In-The-Fall
+  Dates: Sep 17-19, 2021
+  Host: University of Alabama (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Friday
+  > Main
+     64  Filip Planinsek      def.  David Stevenson      75 63
+     64  Enzo Aguiard         def.  Oscar Cutting        63 67(2) 64
+     64  Joao Ferreira        def.  Jeremy Taylor        36 76(6) 75
+     64  Pau Fanlo            def.  Juan Martin          63 36 64
+     64  German Samofalov     def.  Pablo Alemany        63 46 63
+     64  Harry Rock           def.  Zach Foster          64 06 64
+     64  Karl Poling          def.  Vlad Lobak           61 64
+     64  Damian Rodriguez     def.  Gabriel Diaz Freire  63 61
+     64  Joao Graca           def.  Thomas Bosancic      63 63
+     64  Bill Duo             def.  Benjamin Ambrosio    76(4) 67(3) 62
+     64  Filippos Astreinidis def.  Dakotah Bobo         63 63
+     64  Matthew Bosancic     def.  Ben Koch             76(3) 61
+     64  Rudi Christiansen    def.  Sam Edgar            75 26 64
+     64  Ben Smith            def.  Nick Watson          62 63
+     64  Aidan Mahoney        def.  Will Cubitt          62 60
+ > Saturday
+  > Main
+     64  Joao Ferreira        def.  Vlad Lobak           76(4) 67(1) [5]
+     64  Juan Martin          def.  Gabriel Diaz Freire  75 61
+     64  Filip Planinsek      def.  Joao Graca           75 52 Ret.
+     64  German Samofalov     def.  Benjamin Ambrosio    60 61
+     64  Enzo Aguiard         def.  Dakotah Bobo         62 61
+     64  Ben Koch             def.  Rudi Christiansen    63 36 [6]
+     64  Patrick Kaukovalta   def.  Nick Watson          61 64
+     64  Zach Foster          def.  Will Cubitt          60 60
+     64  Oscar Cutting        def.  Karl Poling          61 63
+     64  Jeremy Taylor        def.  Damian Rodriguez     64 63
+     64  Thomas Bosancic      def.  David Stevenson      16 63 [8]
+     64  Pau Fanlo            def.  Bill Duo             60 62
+     64  Sam Edgar            def.  Filippos Astreinidis 64 76(6)
+     64  Pablo Alemany        def.  Matthew Bosancic     46 75 [6]
+     64  Harry Rock           def.  Ben Smith            64 75
+ > Sunday
+  > Main
+     64  Karl Poling          def.  German Samofalov     57 64 [4]
+     64  Filip Planinsek      def.  Thomas Bosancic      26 75 [11]
+     64  Damian Rodriguez     def.  Juan Martin          62 63
+     64  Enzo Aguiard         def.  Bill Duo             64 16 [4]
+     64  Patrick Kaukovalta   def.  Filippos Astreinidis 61 63
+     64  Joao Ferreira        def.  Matthew Bosancic     61 62
+     64  Zach Foster          def.  Ben Smith            60 60
+     64  Rudi Christiansen    def.  Aidan Mahoney        62 63
+     64  Oscar Cutting        def.  Gabriel Diaz Freire  62 64
+     64  Vlad Lobak           def.  Jeremy Taylor        75 64
+     64  David Stevenson      def.  Benjamin Ambrosio    36 63 [5]
+     64  Pau Fanlo            def.  Ben Koch             64 62
+     64  Harry Rock           def.  Dakotah Bobo         63 61
+     64  Sam Edgar            def.  Nick Watson          61 62
+     64  Pablo Alemany        def.  Will Cubitt          61 62
+~~~
 
 <a name="21-69307"></a>
 ~~~
@@ -262,6 +323,108 @@
  > Draw 4
   > Main
      32  bennett turner       def.  Diego Trejo          64 76(4)
+~~~
+
+<a name="21-67582"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════
+  Duke Bonk Invitational
+  Dates: Sep 17-19, 2021
+  Host: Duke University (M)
+═════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > East
+      F     Robin Catry          def. (2) Siddhant Banthia     62 63
+     SF     Robin Catry          def.     Josh Wilson          61 64
+     SF (2) Siddhant Banthia     def.     Juan Lopez De Azcona 36 63 76(6)
+     QF     Josh Wilson          def.     Connor Krug          64 64
+     QF     Robin Catry          def.     Frazier Rengifo      61 63
+     QF     Juan Lopez De Azcona def.     Peter Murphy         63 75
+     QF (2) Siddhant Banthia     def.     Mac Kiger            64 Ret.
+     16     Josh Wilson          def. (1) Jakob Schnaitter     64 64
+     16     Connor Krug          def.     Anuj Watane          46 62 62
+     16     Robin Catry          def.     Logan Zapp           63 63
+     16     Frazier Rengifo      def. (4) Andrew Zhang         75 67(5) 75
+     16     Peter Murphy         def. (3) Inigo Torre Martin   63 76(4)
+     16     Juan Lopez De Azcona def.     Andrew Dale          62 Ret.
+     16     Mac Kiger            def.     Fons Van Sambeek     64 64
+     16 (2) Siddhant Banthia     def.     Kyle Frankel         63 Ret.
+  > West
+      F (3) Inigo Torre Martin   def. (1) Jakob Schnaitter     62 64
+     SF (1) Jakob Schnaitter     def. (4) Andrew Zhang         75 76(4)
+     SF (3) Inigo Torre Martin   def.     Fons Van Sambeek     62 64
+     QF (1) Jakob Schnaitter     def.     Anuj Watane          62 76
+     QF (4) Andrew Zhang         def.     Logan Zapp           Walkover
+     QF (3) Inigo Torre Martin   def.     Andrew Dale          Walkover
+     QF     Fons Van Sambeek     def.     Kyle Frankel         Walkover
+  > North
+      F     Frazier Rengifo      def.     Peter Murphy         62 36 76(1)
+     SF     Frazier Rengifo      def.     Connor Krug          62 46 63
+     SF     Peter Murphy         def.     Mac Kiger            Walkover
+  > 3-4 Playoff
+      F     Juan Lopez De Azcona def.     Josh Wilson          63 64
+  > South
+     SF     Anuj Watane          def.     Logan Zapp           Walkover
+  > Southwest
+      F (4) Andrew Zhang         def.     Fons Van Sambeek     36 64 61
+  > Northwest
+      F     Connor Krug          def.     Mac Kiger            Walkover
+ > Flight B
+  > East
+      F     Faris Khan           def. (1) Arturo Kam           61 26 60
+     SF (1) Arturo Kam           def.     Niroop Vallabhaneni  Walkover
+     SF     Faris Khan           def. (3) Jake Krug            64 61
+     QF (1) Arturo Kam           def.     Ben Draper           67(9) 64 60
+     QF     Niroop Vallabhaneni  def.     Daniel Martin        67(6) 63 62
+     QF (3) Jake Krug            def.     Deji Thomas-Smith    62 62
+     QF     Faris Khan           def.     Juan Sebastian Zaba… 64 62
+     16 (1) Arturo Kam           def.     Gray Voelzke         60 61
+     16     Ben Draper           def.     Camilo Ponce         63 46 Ret.
+     16     Niroop Vallabhaneni  def.     Thiago Pernas        46 64 76(6)
+     16     Daniel Martin        def. (4) Joseph Wayand        67(6) 76(7) 64
+     16 (3) Jake Krug            def.     Connor Enslin        61 62
+     16     Deji Thomas-Smith    def.     Nicholas Campbell    61 46 60
+     16     Faris Khan           def.     Joaquim Almeida      60 62
+     16     Juan Sebastian Zaba… def. (2) Martins Rocens       75 76(9)
+  > West
+      F     Thiago Pernas        def.     Connor Enslin        64 63
+     SF     Thiago Pernas        def.     Gray Voelzke         62 61
+     SF     Connor Enslin        def. (2) Martins Rocens       Walkover
+     QF     Gray Voelzke         def.     Camilo Ponce         Walkover
+     QF     Thiago Pernas        def. (4) Joseph Wayand        64 61
+     QF     Connor Enslin        def.     Nicholas Campbell    60 Ret.
+     QF (2) Martins Rocens       def.     Joaquim Almeida      36 62 64
+  > North
+      F     Ben Draper           def.     Juan Sebastian Zaba… 63 75
+     SF     Ben Draper           def.     Daniel Martin        16 76(6) [12]
+     SF     Juan Sebastian Zaba… def.     Deji Thomas-Smith    60 36 64
+  > South
+     SF (4) Joseph Wayand        def.     Camilo Ponce         Walkover
+     SF     Joaquim Almeida      def.     Nicholas Campbell    Walkover
+  > Southwest
+      F (2) Martins Rocens       def.     Gray Voelzke         61 62
+  > Northwest
+      F     Daniel Martin        def.     Deji Thomas-Smith    76(6) 57 76(4)
+ > Flight C
+  > East
+      F (2) Goncalo Ferreira     def. (1) Hugo Lobo            63 62
+     SF (1) Hugo Lobo            def. (4) Joseph Schrader      63 62
+     SF (2) Goncalo Ferreira     def. (3) Esteban Penagos      63 64
+     QF (1) Hugo Lobo            def.     Sebastian Harris     62 64
+     QF (4) Joseph Schrader      def.     Ben Zipay            63 61
+     QF (3) Esteban Penagos      def.     Chrisjan Van Wyk     64 61
+     QF (2) Goncalo Ferreira     def.     Collin Shick         60 46 64
+  > West
+     SF     Sebastian Harris     def.     Ben Zipay            75 76(9)
+     SF     Chrisjan Van Wyk     def.     Collin Shick         36 75 61
+  > 3-4 Playoff
+      F (4) Joseph Schrader      def. (3) Esteban Penagos      Walkover
+  > South
+      F     Collin Shick         def.     Ben Zipay            75 76(5)
+ > Flight B (additional match)
+  > Main
+      F     Joaquim Almeida      def.     Hugo Lobo            63 63
 ~~~
 
 <a name="21-41355"></a>
@@ -1165,7 +1328,7 @@
      64     Ramon Fererr         def.     Nicola Buffo         63 63
      64     Yassir Kilani        def.     Miguel Torrenegra    61 63
      64     Maxime Navrotchi     def.     Rodrigo Zapata       60 61
-     64     Fernando Alejandro … def.     Richard Freemann     62 62
+     64     Fernando Alejandro … def.     Richard Hartmann     62 62
      64     Diego Menendez Vina  def.     Thomas Andrews       63 46 [4]
      64 (2) Geronimo Barrios     def.     Adriel Bousquet      Walkover
 ~~~

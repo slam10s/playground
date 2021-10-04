@@ -4,6 +4,7 @@
 - 9/16/2021 - [Bedford Cup in the Mountains](#21-69307) ([Results](#21-69307) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dale Short Shootout](#21-04953) ([Results](#21-04953) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityM/Tournaments/Overview/8D17D1A4-3D6A-4D99-9858-4808AD3D6EAE" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dartmouth Invitational](#21-10750) ([Results](#21-10750) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeM/Tournaments/Overview/FB53D115-F7C3-43C7-9CAF-0B60D9E55E67" target="_blank">Draws</a>)  
+- 9/17/2021 - [Duke Bonk Invitational](#21-67582) ([Results](#21-67582) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/FFC0211B-E579-4EA7-9FE6-D4E9522C2014" target="_blank">Draws</a>)  
 - 9/17/2021 - [Jersey Mike's Seahawk Fall Invitational](#21-41355) ([Results](#21-41355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/B5F60616-E79D-49E3-B226-EA1A8F6D19C9" target="_blank">Draws</a>)  
 - 9/18/2021 - [Lehigh Men's Tennis Invite](#21-40280) ([Results](#21-40280) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityM/Tournaments/Overview/DC12F12F-6866-4F1B-A1DE-CB27F27A4E6F" target="_blank">Draws</a>)  
 - 9/17/2021 - [Men's Drake Invite](#21-75794) ([Results](#21-75794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/85AE0B8E-86E0-4EAE-A572-CE5DC0BA3FB7" target="_blank">Draws</a>)  
@@ -18,7 +19,6 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4" target="_blank">Alabama Four-In-The-Fall</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/FFC0211B-E579-4EA7-9FE6-D4E9522C2014" target="_blank">Duke Bonk Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOklahomaM/Tournaments/Overview/C4392CA9-3D72-477E-9550-4FE92C5723E8" target="_blank">Lakes Tennis Club Invite</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
@@ -169,6 +169,56 @@
  > Draw 4
   > Main
      32  Chang/Pritzker       def.  Castro/Bezborodov    62
+~~~
+
+<a name="21-67582"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Duke Bonk Invitational
+  Dates: Sep 17-19, 2021
+  Host: Duke University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > East
+      F (1) Kiger/Murphy         def.     Dale/Zhang           Walkover
+     SF (1) Kiger/Murphy         def.     Van Sambeek/Shick    63
+     SF     Dale/Zhang           def. (2) Banthia/Draper       76(7)
+     QF (1) Kiger/Murphy         def.     Lopez De Azcona/Sch… 63
+     QF     Van Sambeek/Shick    def.     Frankel/Ponce        62
+     QF     Dale/Zhang           def.     Watane/Zapp          75
+     QF (2) Banthia/Draper       def.     Catry/Schrader       64
+  > West
+      F     Lopez De Azcona/Sch… def.     Catry/Schrader       61
+     SF     Lopez De Azcona/Sch… def.     Frankel/Ponce        63
+     SF     Catry/Schrader       def.     Watane/Zapp          75
+  > 3-4 Playoff
+      F (2) Banthia/Draper       def.     Van Sambeek/Shick    76(3)
+ > Flight B
+  > East
+      F     Martin/Campbell      def.     Vallabhaneni/Khan    Walkover
+     SF     Martin/Campbell      def.     Krug/Krug            63
+     SF     Vallabhaneni/Khan    def. (2) Wilson/Ferreira      76(6)
+     QF     Martin/Campbell      def. (1) Almeida/Voelzke      76(5)
+     QF     Krug/Krug            def.     Zabala/Pernas        64
+     QF     Vallabhaneni/Khan    def.     Torre Martin/Leblanc 62
+     QF (2) Wilson/Ferreira      def.     Wayand/Rocens        75
+  > West
+      F     Zabala/Pernas        def.     Wayand/Rocens        76(4)
+     SF     Zabala/Pernas        def. (1) Almeida/Voelzke      62
+     SF     Wayand/Rocens        def.     Torre Martin/Leblanc 64
+  > 3-4 Playoff
+      F     Krug/Krug            def. (2) Wilson/Ferreira      64
+  > South
+      F (1) Almeida/Voelzke      def.     Torre Martin/Leblanc 63
+ > Flight C
+  > Main
+     R3     Kam/Guell            def.     Rengifo/Lobo         63
+     R3     Harris/Van Wyk       def.     Penagos/Zipay        Walkover
+     R2     Penagos/Zipay        def.     Rengifo/Lobo         63
+     R2     Harris/Van Wyk       def.     Kam/Guell            76(4)
+     R1     Kam/Guell            def.     Penagos/Zipay        61
+     R1     Rengifo/Lobo         def.     Harris/Van Wyk       61
 ~~~
 
 <a name="21-41355"></a>
@@ -403,6 +453,19 @@
      16  Vlassis/Weitz        def.  Mackay/Garcia        63
      16  Israel/Thomas        def.  Rooney/Haikal        76(4)
      16  Sabogal/Bejarano-Ga… def.  Romig/Gupta          63
+ > White 3
+  > Main
+     16  Ben Ari/Srivastava   def.  Henderson/Roberts    64
+     16  Elalami/Lindeman     def.  Vlassis/Weitz        63
+     16  Israel/Thomas        def.  Singer/Robertson     64
+     16  Mackay/Garcia        def.  Romig/Gupta          64
+     16  Rooney/Haikal        def.  Owen/Murphy          63
+     16  Sabogal/Bejarano-Ga… def.  Astrom/Grunig        63
+ > White 4
+  > Main
+     16  Israel/Thomas        def.  Ben Ari/Srivastava   64
+     16  Rooney/Haikal        def.  Singer/Robertson     61
+     16  Mackay/Garcia        def.  Astrom/Grunig        61
 ~~~
 
 <a name="21-72013"></a>
@@ -554,7 +617,7 @@
      16     Pelletti/Pessoa      def.     Glowaki/De Oliveira  84
      16     Nouws/den Hartog     def.     Tajada/Turley        98(4)
      16 (4) Barbon/Stepanov      def.     Chiaradia/Figuiere   81
-     16 (3) Marrero/Orevad       def.     Freemann/Ferreira    83
+     16 (3) Marrero/Orevad       def.     Hartmann/Ferreira    83
      16     Navrotchi/Mochizuki  def.     Binnios/Nicolau Fer… 82
      16     Della Cioppa/Menend… def.     Safont Martinez/Tab… 85
      16 (2) Barrios/Zick         def.     Preiswerk/Martinez   86
@@ -566,7 +629,7 @@
      32     Chiaradia/Figuiere   def.     Lopez Cruz/Tryakshin 86
      32 (4) Barbon/Stepanov      def.     Fererr/Landaluce     85
      32 (3) Marrero/Orevad       def.     Smulski/Torrenegra   82
-     32     Freemann/Ferreira    def.     Nunez/Mariot         Walkover
+     32     Hartmann/Ferreira    def.     Nunez/Mariot         Walkover
      32     Binnios/Nicolau Fer… def.     Gibbs/Bousquet       Walkover
      32     Navrotchi/Mochizuki  def.     Pejanovic/Andrews    97
      32     Della Cioppa/Menend… def.     Grijalva/Amorim      83

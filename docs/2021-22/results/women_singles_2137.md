@@ -5,9 +5,11 @@
 - 9/17/2021 - [Elon Invitational](#21-46904) ([Results](#21-46904) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A" target="_blank">Draws</a>)  
 - 9/17/2021 - [Lynn Stevens Invite](#21-42923) ([Results](#21-42923) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CoastalCarolinaUniversityW/Tournaments/Overview/74919BE2-BE17-4E9F-8752-0E9BA855D125" target="_blank">Draws</a>)  
 - 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655) ([Results](#21-47655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityW/Tournaments/Overview/AF0C9E05-93DF-4088-A5CF-0B35FDCDBA9C" target="_blank">Draws</a>)  
+- 9/17/2021 - [Redbird Invitational](#21-33894) ([Results](#21-33894) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityW/Tournaments/Overview/1C326774-DC63-4687-A38F-F4CEEC065C15" target="_blank">Draws</a>)  
 - 9/17/2021 - [University of Cincinnati/Pam Whitehead Fall Invitational](#21-41928) ([Results](#21-41928) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">Draws</a>)  
 - 9/17/2021 - [UVA Invitational](#21-02168) ([Results](#21-02168) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/C8B138D1-65A1-4A21-BF46-12614579945A" target="_blank">Draws</a>)  
 - 9/15/2021 - [Battle of the Blue Ridge, Weekend One](#21-96874) ([Results](#21-96874) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SweetBriarCollegeW/Tournaments/Overview/4FB76F6F-BB1C-4A77-92A3-CC5A5BFD60A4" target="_blank">Draws</a>)  
+- 9/18/2021 - [Big Red Invitational](#21-52871) ([Results](#21-52871) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DenisonUniversityW/Tournaments/Overview/8C55E0CC-605C-4584-8311-FA3093162009" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 - 9/17/2021 - [Javalina Fall Quad](#21-30014) ([Results](#21-30014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityKingsvilleW/Tournaments/Overview/598273F2-FD41-4282-9467-EFD6330C79CC" target="_blank">Draws</a>)  
@@ -25,10 +27,8 @@
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityW/Tournaments/Overview/A09A4AF9-B31A-4CDC-A222-437B2830D744" target="_blank">Idaho State Invite</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">QU Hidden Duals At Uconn</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityW/Tournaments/Overview/1C326774-DC63-4687-A38F-F4CEEC065C15" target="_blank">Redbird Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
 - 9/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">BAC Invitational</a>  
-- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DenisonUniversityW/Tournaments/Overview/8C55E0CC-605C-4584-8311-FA3093162009" target="_blank">Big Red Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Division II Women's East ITA Regional Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Division III Women's Northeast ITA Regional Championships</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MethodistUniversityW/Tournaments/Overview/4FFAB7FF-537E-4837-8CBB-5347D9DABA5B" target="_blank">Methodist University Women's Fall Invitational</a>  
@@ -265,11 +265,11 @@
 
 <a name="21-47655"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
   NMSU Women's Aggie Invite
   Dates: Sep 17-19, 2021
   Host: New Mexico State University (W)
-════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Crimson
   > East
@@ -369,6 +369,201 @@
       F     Caini Wang           def.     Sylvie Schoenen      Walkover
   > Northwest
       F     Bissola Lassissi     def. (3) Danielle Viljoen     63 76(4)
+ > Additional Matches 9/17
+  > Main
+      F     Mingfang Lisa Zhu    def.     Bella Nguyen         62 64
+ > Additional Matches 9/18
+  > Main
+     QF     Livia Leite          def.     Emma Troyer          60 60
+     QF     Elena DiBattista     def.     Manuella Peguy Elou… 62 62
+     QF     Eve Daniels          def.     Eva Arranz           62 76(1)
+ > Additional Matches 9/19
+  > Main
+     16     Sanne Frederieke Sc… def.     Caini Wang           60 60
+     16     Manuella Peguy Elou… def.     Eve Daniels          76(5) 67(4) [8]
+     16     Elena DiBattista     def.     Eva Arranz           60 61
+     16     Sarah Alice OConnor  def.     Andreea Arnautu      62 61
+     16     Lyric Bonilla        def.     Julia Terrazas       61 62
+     16     Hsuan Huang          def.     Massiel Paredes      61 62
+~~~
+
+<a name="21-33894"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  Redbird Invitational
+  Dates: Sep 17-19, 2021
+  Host: Illinois State University (W)
+══════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight 1 - Main Draw
+  > Main
+      F  Elizabeth Mintusova  def.  Tijana Zlatanovic    76(4) 64
+     SF  Tijana Zlatanovic    def.  Norhan Hesham        63 57 [8]
+     SF  Elizabeth Mintusova  def.  Sylwia Mikos         63 62
+     QF  Tijana Zlatanovic    def.  Andie Weise          62 64
+     QF  Norhan Hesham        def.  Lenka Antonijevic    62 62
+     QF  Sylwia Mikos         def.  Sandra Maletin       64 60
+     QF  Elizabeth Mintusova  def.  Claire Czerwonka     62 63
+  > Playoff 3-4
+      F  Norhan Hesham        def.  Sylwia Mikos         63 64
+ > Flight 5 - Main Draw
+  > Main
+      F  Elena Jankulovska    def.  Nicole Geller        
+     SF  Nicole Geller        def.  Eleanor Nobbs        62 46 [4]
+     SF  Elena Jankulovska    def.  Tiana Windbuchler    61 62
+     QF  Eleanor Nobbs        def.  Demi Jhaveri         62 60
+     QF  Nicole Geller        def.  Maria Bezmenova      57 63 [6]
+     QF  Elena Jankulovska    def.  Sarah Lounsbury      62 61
+     QF  Tiana Windbuchler    def.  Katarina Drazic      63 63
+  > Playoff 3-4
+      F  Eleanor Nobbs        def.  Tiana Windbuchler    63 60
+ > Flight 1 - Back Draw
+  > East
+      F  Sandra Maletin       def.  Andie Weise          63 62
+     SF  Andie Weise          def.  Lenka Antonijevic    75 64
+     SF  Sandra Maletin       def.  Claire Czerwonka     63 61
+  > 3-4 Playoff
+      F  Claire Czerwonka     def.  Lenka Antonijevic    Walkover
+ > Flight 6 - Main Draw
+  > Main
+      F  Nicola Perlwitz      def.  Miranda Yuan         64 75
+     SF  Miranda Yuan         def.  kate sexton          62 61
+     SF  Nicola Perlwitz      def.  Valentina Martin     36 63 [7]
+     QF  Miranda Yuan         def.  Penelope Abreu       62 63
+     QF  kate sexton          def.  Lizi Morgoshia       63 64
+     QF  Nicola Perlwitz      def.  Elizabeth Ferdman    60 61
+     QF  Valentina Martin     def.  Perene Wang          62 61
+  > Playoff 3-4
+      F  Valentina Martin     def.  kate sexton          26 64 [6]
+ > Flight 2 - Main Draw
+  > Main
+      F  Olivia Czerwonka     def.  Mariona Perez        64 64
+     SF  Mariona Perez        def.  Bozana Lojpur        16 75 [5]
+     SF  Olivia Czerwonka     def.  Giulia Turconi       61 61
+     QF  Mariona Perez        def.  Calista Fuller       26 61 [8]
+     QF  Bozana Lojpur        def.  Gabrielle Ochalik    
+     QF  Olivia Czerwonka     def.  Alexandra Abyasova   60 46 [8]
+     QF  Giulia Turconi       def.  Yuliya Kizelbasheva  16 76(6) [7]
+  > Playoff 3-4
+      F  Bozana Lojpur        def.  Giulia Turconi       64 64
+ > Flight 2 - Back Draw
+  > Main
+      F  Alexandra Abyasova   def.  Calista Fuller       62 75
+     SF  Calista Fuller       def.  Gabrielle Ochalik    06 63
+     SF  Alexandra Abyasova   def.  Yuliya Kizelbasheva  75 46 [3]
+  > Playoff 3-4
+      F  Yuliya Kizelbasheva  def.  Gabrielle Ochalik    61 63
+ > Flight 3 - Main Draw
+  > Main
+      F  Marija Jovicic       def.  Kristina Pukhaeva    61 61
+     SF  Marija Jovicic       def.  Krystal Grubb        60 60
+     SF  Kristina Pukhaeva    def.  Lauren Park          75 16 [8]
+     QF  Marija Jovicic       def.  Claudia Ng           62 60
+     QF  Krystal Grubb        def.  mya spencer          62 62
+     QF  Lauren Park          def.  Madalena Andrade     75 26 [7]
+     QF  Kristina Pukhaeva    def.  Tara Damnjanovic     67(2) 76(2) [8]
+  > Playoff 3-4
+      F  Lauren Park          def.  Krystal Grubb        46 63 [6]
+ > Flight 3 - Back Draw
+  > Main
+      F  Claudia Ng           def.  Tara Damnjanovic     63 64
+     SF  Claudia Ng           def.  mya spencer          63 60
+     SF  Tara Damnjanovic     def.  Madalena Andrade     Walkover
+ > Flight 5 - Back Draw
+  > Main
+      F  Maria Bezmenova      def.  Sarah Lounsbury      61 64
+     SF  Maria Bezmenova      def.  Demi Jhaveri         76(6) 60
+     SF  Sarah Lounsbury      def.  Katarina Drazic      64 46 [8]
+  > Playoff 3-4
+      F  Demi Jhaveri         def.  Katarina Drazic      Walkover
+ > Flight 6 - Back Draw
+  > Main
+      F  Penelope Abreu       def.  Perene Wang          64 61
+     SF  Penelope Abreu       def.  Lizi Morgoshia       
+     SF  Perene Wang          def.  Elizabeth Ferdman    62 63
+  > Playoff 3-4
+      F  Elizabeth Ferdman    def.  Lizi Morgoshia       Walkover
+ > Flight 7 - Main Draw
+  > Main
+      F  Meghan Bernard       def.  Mia Bertino          76(4) 64
+     SF  Meghan Bernard       def.  Lara Kaiser          64 26 [7]
+     SF  Mia Bertino          def.  lizzie barloe        63 46 [7]
+     QF  Lara Kaiser          def.  Katrina Rand         76(4) 76
+     QF  Meghan Bernard       def.  Eugenia Lee          64 64
+     QF  Mia Bertino          def.  Laura Fitzgerald     75 46 [10]
+     QF  lizzie barloe        def.  Diana Borodina       63 63
+  > Playoff 3-4
+      F  lizzie barloe        def.  Lara Kaiser          61 64
+ > Flight 7 - Back Draw
+  > Main
+      F  Laura Fitzgerald     def.  Katrina Rand         76(1) 26 [9]
+     SF  Katrina Rand         def.  Eugenia Lee          75 61
+     SF  Laura Fitzgerald     def.  Diana Borodina       
+  > Playoff 3-4
+      F  Eugenia Lee          def.  Diana Borodina       Walkover
+ > Flight 8 - Main Draw
+  > Main
+      F  Samantha Hayward     def.  Katarina Dukic       16 62 [10]
+     SF  Samantha Hayward     def.  Chloe Isabella Tsang 64 46 [12]
+     SF  Katarina Dukic       def.  Nawal Cheema         75 60
+     QF  Chloe Isabella Tsang def.  Isabella Schoolcraft 62 62
+     QF  Samantha Hayward     def.  Nina Marjanovic      60 64
+     QF  Katarina Dukic       def.  Nicole Hopman        16 62 [7]
+     QF  Nawal Cheema         def.  Sarah Badawi         63 75
+  > Playoff 3-4
+      F  Nawal Cheema         def.  Chloe Isabella Tsang Walkover
+ > Flight 8 - Back Draw
+  > Main
+     SF  Nicole Hopman        def.  Isabella Schoolcraft 46 63 [5]
+     SF  Sarah Badawi         def.  Nina Marjanovic      64 36 [6]
+ > Flight 9 - 1st Round
+  > Main
+     SF  Ivvy Hicks           def.  jacqueline Hijaouy   62 61
+     SF  Ines Rivera          def.  Juliana Martinez     63 60
+ > Flight 9 - Main Draw
+  > Main
+      F  Ivvy Hicks           def.  Cara O Flaherty      
+     SF  Ivvy Hicks           def.  Marta Krakowski      64 63
+     SF  Cara O Flaherty      def.  Kinga Kovacs         61 61
+     QF  Ivvy Hicks           def.  Allison McConnell    76(2) 63
+     QF  Marta Krakowski      def.  Danina Hughes        61 63
+     QF  Kinga Kovacs         def.  Susana Andres        76(5) 36 [3]
+     QF  Cara O Flaherty      def.  Ines Rivera          61 64
+  > Playoff 3-4
+      F  Marta Krakowski      def.  Kinga Kovacs         62 63
+ > Flight 9 - Back Draw
+  > Main
+     SF  Allison McConnell    def.  Danina Hughes        60 61
+     SF  Susana Andres        def.  Ines Rivera          63 64
+  > Playoff 3-4
+      F  Ines Rivera          def.  Danina Hughes        61 62
+ > Consolation #1
+  > Main
+     SF  Juliana Martinez     def.  jacqueline Hijaouy   75 62
+     SF  Claire Czerwonka     def.  mya spencer          61 62
+ > Consolation #2
+  > Main
+     SF  Elizabeth Ferdman    def.  jacqueline Hijaouy   64 60
+     QF  Elizabeth Ferdman    def.  mya spencer          64 60
+     QF  Sarah Badawi         def.  Isabella Schoolcraft 67(5) 64 [8]
+ > Flight 4 - Back Draw
+  > Main
+      F  Amanda Tabanera      def.  Christina Stankovic  
+     SF  Christina Stankovic  def.  Jessica Stefan       76(4) 61
+     SF  Amanda Tabanera      def.  Sofiya Sedovich      63 61
+  > Playoff 3-4
+      F  Sofiya Sedovich      def.  Jessica Stefan       63 76(5)
+ > Flight 4 - Main Draw
+  > Main
+      F  Kirstin Hailey       def.  Shianna Guo          64 64
+     SF  Shianna Guo          def.  Elisabeth Desmarais  61 62
+     SF  Kirstin Hailey       def.  Madelyn Yergler      64 64
+     QF  Shianna Guo          def.  Christina Stankovic  61 61
+     QF  Elisabeth Desmarais  def.  Jessica Stefan       60 67(5) [8]
+     QF  Madelyn Yergler      def.  Sofiya Sedovich      64 76(10)
+     QF  Kirstin Hailey       def.  Amanda Tabanera      62 75
+  > Playoff 3-4
+      F  Madelyn Yergler      def.  Elisabeth Desmarais  75 63
 ~~~
 
 <a name="21-41928"></a>
@@ -480,6 +675,9 @@
  > Flight 3
   > Main
       F  Elaine Chervinsky    def.  Georgie Axon         76(4) 60
+ > Flight 4
+  > Main
+      F  Madeline Meredith    def.  Sara Nayar           64 64
 ~~~
 
 <a name="21-96874"></a>
@@ -545,6 +743,61 @@
      16  Hollan Rabensdorf    def.  Lily Hurt          84
      16  Grace Teefey         def.  Milana Lewis       80
      16  Kaitlyn House        def.  Jada Lewis         64 76(4)
+~~~
+
+<a name="21-52871"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Big Red Invitational
+  Dates: Sep 18-19, 2021
+  Host: Denison University (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw
+  > Main
+     R6  Sydney Cianciola   def.  Katharine Sherman  64 62
+     R6  Hannah Kassaie     def.  Ella Rueff         61 60
+     R6  Monique Brual      def.  Emma Henson        60 62
+     R6  Anna Kan           def.  Caroline Lancaster 60 63
+     R6  Kendall Schrader   def.  Rachelle Moses     61 60
+     R6  Pallavi Goculdas   def.  Maddy Trinh        60 61
+     R6  Lainey Hill        def.  Cassady Shough     61 63
+     R5  Hannah Kassaie     def.  Sydney Cianciola   61 61
+     R5  Ella Rueff         def.  Lillia Walter      16 76(3) [5]
+     R5  Anna Kan           def.  Monique Brual      64 62
+     R5  Caroline Lancaster def.  Madison Mueller    62 64
+     R5  Kendall Schrader   def.  Katherine Wang     46 64 [10]
+     R4  Nina Hoog          def.  Emma Henson        76(3) 63
+     R4  Katherine Wang     def.  Lainey Hill        61 60
+     R3  Hannah Kassaie     def.  Erin Storrer       60 62
+     R3  Sarah Robertson    def.  Ella Rueff         62 62
+     R3  Hannah Bradvica    def.  Cassady Shough     60 62
+     R2  Sydney Cianciola   def.  Erin Storrer       76(5) 61
+     R2  Sarah Robertson    def.  Lillia Walter      60 64
+     R2  Monique Brual      def.  Hannah Doherty     62 46 [4]
+     R2  Caroline Lopez     def.  Caroline Lancaster 61 63
+     R1  Katharine Sherman  def.  Erin Storrer       64 75
+     R1  Hannah Doherty     def.  Emma Henson        75 61
+     R1  Caroline Lopez     def.  Madison Mueller    26 61 [3]
+     R1  Maddy Trinh        def.  Rachelle Moses     63 61
+ > Draw 2
+  > Main
+     R7  Eliza Georgiades   def.  Cassady Shough     62 62
+     R6  Hannah Bradvica    def.  Madeleine Eiss     60 60
+     R6  Pallavi Goculdas   def.  Caroline Lopez     61 63
+     R4  Hannah Bradvica    def.  Abby Jamison       60 60
+     R4  Madeleine Eiss     def.  Lillia Walter      61 61
+     R1  Hannah Bradvica    def.  Cassady Shough     60 62
+     R1  Savannah Bright    def.  Sarah Robertson    57 64 [7]
+ > Draw 3
+  > Main
+     R4  Susan Biederstedt  def.  Abby Jamison       64 60
+     R3  Nidhi Jha          def.  Mamie Sevier       62 60
+     R1  Radha Patel        def.  Susan Biederstedt  60 60
+     R1  Kendall Schrader   def.  Mamie Sevier       60 60
+ > Draw 4
+  > Main
+     R1  Susan Biederstedt  def.  Julia Gillin       63 62
 ~~~
 
 <a name="21-14491"></a>

@@ -7,6 +7,7 @@
 - 10/1/2021 - [Aggie Invitational](#21-92523) ([Results](#21-92523) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaDavisM/Tournaments/Overview/8C1469E6-3A8C-48A5-A340-2EB9734F03E4" target="_blank">Draws</a>)  
 - 9/30/2021 - [BU Invite](#21-39279) ([Results](#21-39279) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityM/Tournaments/Overview/A2243BD0-B01D-447E-89E6-9F9C5E5F85DA" target="_blank">Draws</a>)  
 - 10/1/2021 - [Idaho State Bengal Invitational](#21-23711) ([Results](#21-23711) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Draws</a>)  
+- 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/1/2021 - [MSU Bulldog Invitational](#21-39463) ([Results](#21-39463) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77" target="_blank">Draws</a>)  
 - 10/1/2021 - [South Carolina Men's Collegiate Championships](#21-25425) ([Results](#21-25425) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C61DDA49-6047-4361-9048-8658AEA3B344" target="_blank">Draws</a>)  
@@ -27,7 +28,6 @@
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Davidson College Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Hagedorn Hidden Dual</a>  
-- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">ITA Men's All-American Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">PNW Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Division III Men's Northeast ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Division III Men’s Midwest ITA Regional Championships</a>  
@@ -353,6 +353,50 @@
       F  Fujita/Petrovic    def.  Blando/Blando      63
 ~~~
 
+<a name="21-73796"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  ITA Men's All-American Championships
+  Dates: Oct 2-10, 2021
+  Host: ITA
+══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Qualifying
+  > Main
+     64  Jong/Aguilar          vs   Stewart/Henning      Mon @ 13:00
+     64  De Jonge/Hadigian     vs   Siddall/Thelwall Jo… Mon @ 13:00
+     64  Pankin/Tvedt          vs   Simkin/Tasker        Mon @ 14:00
+     64  Moroni/Thomson        vs   Rotsaert/Fery        Mon @ 14:00
+     64  Monday/Prata          vs   Reco/Rousset         Mon @ 13:30
+     64  Lambling/Story        vs   Poling/Rodriguez     Mon @ 13:30
+     64  Staeheli/Iziquierdo…  vs   Neuhaus/Dalmasso     Mon @ 13:30
+     64  Reynolds/Lithen       vs   Pourroy/Arcila       Mon @ 13:30
+     64  Capalbo/Busleiman     vs   Chidekh/Davis        Mon @ 13:00
+     64  Hassey/Smith          vs   Kingsley/Tracy       Mon @ 13:00
+     64  Chopra/Dong           vs   Junk/Slavic          Mon @ 13:00
+     64  Tumosa/Straker-Meads  vs   Siimar/Shelbayh      Mon @ 13:00
+     64  Torre Martin/Stable   vs   Valiev/Azoides       Mon @ 14:30
+     64  Malbasic/Hoeyeraal    vs   Acosta/Cierny        Mon @ 14:30
+     64  Marson/Perego         vs   graziani/zhu         Mon @ 14:30
+     64  Ornberg/Atherton      vs   Coste/Roberto        Mon @ 14:30
+     64  Diallo/Musitelli      vs   Jakic/Tonejc         Mon @ 14:30
+     64  Bollipalli/Ferguson   vs   Zhang/Heller         Mon @ 14:30
+     64  Zink/Hammond          vs   Marques Da Silva/Th… Mon @ 13:30
+     64  Pratt/Vile            vs   Keremedchiev/Klov-N… Mon @ 13:30
+     64  Allen/Steinhausen     vs   McKennon/Salle       Mon @ 13:00
+     64  Sauer/Bulus           vs   Paroulek/Brumm       Mon @ 13:00
+     64  Zahraj/Hoogmartens    vs   Abbrat/Ross          Mon @ 14:00
+     64  Braswell/McDonald     vs   Hudd/Mitsui          Mon @ 14:00
+     64  Rodesch/Goetz         vs   Edge/Rocha           Mon @ 14:00
+     64  Zeitvogel/Rogers      vs   Neff/Thamma          Mon @ 14:00
+     64  Schulenburg/Walker    vs   Kikuchi/Overbeck     Mon @ 14:30
+     64  Ciamarra/Harper       vs   Harrison/Zavala      Mon @ 14:30
+     64  Cash/Vocel            vs   Boyer/Sah            Mon @ 13:00
+     64  Dworak/Sanchez Gonz…  vs   Anselmo/Mandlik      Mon @ 13:00
+     64  Yamada/Cronje         vs   Fomba/Vives Marcos   Mon @ 13:30
+     64  Jachuck/Shi           vs   Schachter/Rollins    Mon @ 13:30
+~~~
+
 <a name="21-07548"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -510,11 +554,11 @@
 
 <a name="21-25425"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   South Carolina Men's Collegiate Championships
   Dates: Oct 1-3, 2021
   Host: ITA
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Championship Doubles Draw
   > East
@@ -548,7 +592,6 @@
      SF     Baradel/Gwynne       def.     Snow/Cronin          64
  > Blue Doubles Draw
   > East
-      F (1) Paladines/Koehler     vs  (3) Zamorano/Rodrigues   Sun @ 08:00
      SF (1) Paladines/Koehler    def.     Morel/Berrouet       75
      SF (3) Zamorano/Rodrigues   def.     Layton/Zancheta      61
      QF (1) Paladines/Koehler    def.     Coleman/King         62
@@ -569,11 +612,11 @@
 
 <a name="21-35169"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   Division II Men’s & Women's Central ITA Regional Championships
   Dates: Oct 1-3, 2021
   Host: Univ. Of Central Oklahoma (W)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main Draw A
   > Main
@@ -597,7 +640,7 @@
       32     kolaric/penteado     def.     Cowger/Lapoint      85
       32 (2) Zamurri/Oliva        def.     Docters/Fuerschuss  98(8)
   > Consolation
-       F     Del Rosario/Orduz     vs      Docters/Fuerschuss  Sun @ 16:30
+       F     Docters/Fuerschuss   def.     Del Rosario/Orduz   62
       SF     Del Rosario/Orduz    def.     Smid/Naraya         75
       SF     Docters/Fuerschuss   def.     Schmit/Cortinas     Walkover
       QF     Del Rosario/Orduz    def.     Blanchar/Parzajuk   64
