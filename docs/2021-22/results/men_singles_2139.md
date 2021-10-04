@@ -948,70 +948,102 @@
      128  Kaya Gore            def.  Christopher Cahour   67(3) 60 64
  > Qualifying
   > Main
-     256  Chase Ferguson        vs   Mark Mandlik         Mon @ 08:00
-     256  Abedallah Shelbayh    vs   Yuta Kikuchi         Mon @ 08:00
-     256  Daniel De Jonge       vs   Kyryll Kryvchun      Mon @ 08:00
-     256  Luca Staeheli         vs   David Stevenson      Mon @ 08:00
-     256  Toby Samuel           vs   Sema Pankin          Mon @ 10:00
-     256  Nicholas McKinney     vs   Johannes Seeman      Mon @ 11:30
-     256  Jake Finn Bass        vs   Justin Barki         Mon @ 11:00
-     256  Vlad Lobak            vs   Kento Yamada         Mon @ 09:45
-     256  Garrett Johns         vs   Ilgiz Valiev         Mon @ 08:00
-     256  Chris Rodesch         vs   Alex Brown           Mon @ 08:00
-     256  Guido Marson          vs   Matt Hulme           Mon @ 08:00
-     256  Jett Middleton        vs   Vito Tonejc          Mon @ 08:00
-     256  Fabien Salle          vs   Quinn Vandecasteele  Mon @ 08:00
-     256  Sean Sculley          vs   Eric Hadigian        Mon @ 08:00
-     256  Conor Gannon          vs   Welsh Hotard         Mon @ 11:00
-     256  Matt Summers          vs   Joshua Lapadat       Mon @ 11:30
-     256  Dimitri Badra         vs   Tim Zeitvogel        Mon @ 10:30
-     256  Murphy Cassone        vs   Nathan Han           Mon @ 11:30
-     256  Carles Anton          vs   Thomas Brown         Mon @ 08:00
-     256  Geronimo Busleiman    vs   Loris Pourroy        Mon @ 08:00
-     256  Nicolas Rousset       vs   Justin Boulais       Mon @ 09:00
-     256  Andrew Zhang          vs   Francois Musitelli   Mon @ 09:00
-     256  Filip Malbasic        vs   Inigo Torre Martin   Mon @ 09:30
-     256  Simon Arca Costas     vs   Emile Hudd           Mon @ 09:30
-     256  James Story           vs   Max Basing           Mon @ 09:45
-     256  Connor Di Marco       vs   Kyle Frankel         Mon @ 11:00
-     256  Carlos Hassey         vs   Ronan Jachuck        Mon @ 09:30
-     256  Justin Schlageter     vs   JJ Tracy             Mon @ 09:30
-     256  Siem Woldeab          vs   Oscar Pinto Sansano  Mon @ 12:00
-     256  Thomas Bosancic       vs   Blake Croyder        Mon @ 12:00
-     256  Marin Delmas          vs   Trey Hilderbrand     Mon @ 12:30
-     256  Mac Kiger             vs   Sven Lah             Mon @ 12:30
-     256  Joshua Goodger        vs   Andre Ilagan         Mon @ 11:30
-     256  Dusan Milanovic       vs   Jacob Brumm          Mon @ 10:30
-     256  Stijn Slump           vs   Timothy Sah          Mon @ 08:00
-     256  Lui Maxted            vs   Andrew Fenty         Mon @ 08:00
-     256  Richard Ciamarra      vs   Ezequiel Santalla    Mon @ 09:00
-     256  edoardo graziani      vs   Tadeas Paroulek      Mon @ 09:00
-     256  Gavin Young           vs   Max McKennon         Mon @ 08:00
-     256  Alexander Hoogmarte…  vs   Leyton Cronje        Mon @ 08:00
-     256  Noah Schachter        vs   Finlay Murgett       Mon @ 08:00
-     256  Athell Bennett        vs   Filippo Moroni       Mon @ 08:00
-     256  Ewen Lumsden          vs   Bradley Frye         Mon @ 11:30
-     256  Harris Walker         vs   Joshua Charlton      Mon @ 10:00
-     256  Emmanuel Coste        vs   Oscar Cutting        Mon @ 09:45
-     256  kevin zhu             vs   Luke Casper          Mon @ 09:45
-     256  Colton Smith          vs   Mark Wallner         Mon @ 08:00
-     256  Henry Schulenburg     vs   James Trotter        Mon @ 08:00
-     256  Cleeve Harper         vs   Francisco Pini       Mon @ 10:30
-     256  Bogdan Pavel          vs   Nicola Vidal         Mon @ 11:00
-     256  Patrick Maloney       vs   Pedro Vives Marcos   Mon @ 08:00
-     256  Tristan Boyer         vs   Matthis Ross         Mon @ 08:00
-     256  Joao Ceolin           vs   Mattias Siimar       Mon @ 08:00
-     256  Tad McClean           vs   Rafael Marques Da S… Mon @ 08:00
-     256  John Hallquist Lith…  vs   Charles Bertimon     Mon @ 09:30
-     256  Callum Gale           vs   Alexandre Rotsaert   Mon @ 09:30
-     256  Stefan Dostanic       vs   Liam Krall           Mon @ 11:30
-     256  Simon Junk            vs   Shunsuke Mitsui      Mon @ 10:00
-     256  Holden Koons          vs   Daniel Siddall       Mon @ 09:30
-     256  Pavel Motl            vs   Pierce Rollins       Mon @ 09:30
-     256  Magnus Johnson        vs   Chris Edge           Mon @ 10:00
-     256  Rayane Stable         vs   Adham Gaber          Mon @ 10:45
-     256  Lodewijk Weststrate   vs   Gabriel Diaz Freire  Mon @ 11:00
-     256  Alex Martinez         vs   Rafael Iziquierdo L… Mon @ 10:30
+     128  Chase Ferguson        vs   Yuta Kikuchi         Tue @ 08:00
+     128  Daniel De Jonge       vs   Luca Staeheli        Tue @ 08:00
+     128  Toby Samuel           vs   Nicholas McKinney    Tue @ 08:00
+     128  Justin Barki          vs   Vlad Lobak           Tue @ 08:00
+     128  Garrett Johns         vs   Chris Rodesch        Tue @ 08:00
+     128  Guido Marson          vs   Vito Tonejc          Tue @ 08:00
+     128  Fabien Salle          vs   Eric Hadigian        Tue @ 10:00
+     128  Welsh Hotard          vs   Joshua Lapadat       Tue @ 10:00
+     128  Tim Zeitvogel         vs   Murphy Cassone       Tue @ 08:00
+     128  Thomas Brown          vs   Geronimo Busleiman   Tue @ 08:00
+     128  Justin Boulais        vs   Francois Musitelli   Tue @ 08:00
+     128  Filip Malbasic        vs   Simon Arca Costas    Tue @ 08:00
+     128  Max Basing            vs   Connor Di Marco      Tue @ 09:30
+     128  Carlos Hassey         vs   JJ Tracy             Tue @ 09:30
+     128  Siem Woldeab          vs   Blake Croyder        Tue @ 08:00
+     128  Trey Hilderbrand      vs   Carl Emil Overbeck   Tue @ 08:00
+     128  Andre Ilagan          vs   Jacob Brumm          Tue @ 10:00
+     128  Stijn Slump           vs   Lui Maxted           Tue @ 10:00
+     128  Ezequiel Santalla     vs   Tadeas Paroulek      Tue @ 09:30
+     128  Gavin Young           vs   Alexander Hoogmarte… Tue @ 09:30
+     128  Noah Schachter        vs   Filippo Moroni       Tue @ 08:00
+     128  Ewen Lumsden          vs   Harris Walker        Tue @ 08:00
+     128  Emmanuel Coste        vs   kevin zhu            Tue @ 08:00
+     128  Colton Smith          vs   Henry Schulenburg    Tue @ 08:00
+     128  Cleeve Harper         vs   Bogdan Pavel         Tue @ 08:00
+     128  Pedro Vives Marcos    vs   Tristan Boyer        Tue @ 08:00
+     128  Mattias Siimar        vs   Tad McClean          Tue @ 08:00
+     128  John Hallquist Lith…  vs   Alexandre Rotsaert   Tue @ 08:00
+     128  Stefan Dostanic       vs   Shunsuke Mitsui      Tue @ 08:00
+     128  Holden Koons          vs   Pierce Rollins       Tue @ 08:00
+     128  Chris Edge            vs   Rayane Stable        Tue @ 08:00
+     128  Lodewijk Weststrate   vs   Alex Martinez        Tue @ 08:00
+     256  Chase Ferguson       def.  Mark Mandlik         75 16 75
+     256  Yuta Kikuchi         def.  Abedallah Shelbayh   63 63
+     256  Daniel De Jonge      def.  Kyryll Kryvchun      64 62
+     256  Luca Staeheli        def.  David Stevenson      26 62 61
+     256  Toby Samuel          def.  Sema Pankin          46 64 62
+     256  Nicholas McKinney    def.  Johannes Seeman      62 67(6) 76(3)
+     256  Justin Barki         def.  Jake Finn Bass       64 63
+     256  Vlad Lobak           def.  Kento Yamada         60 46 76(3)
+     256  Garrett Johns        def.  Ilgiz Valiev         61 62
+     256  Chris Rodesch        def.  Alex Brown           64 61
+     256  Guido Marson         def.  Matt Hulme           63 36 60
+     256  Vito Tonejc          def.  Jett Middleton       64 75
+     256  Fabien Salle         def.  Quinn Vandecasteele  26 76(7) 75
+     256  Eric Hadigian        def.  Sean Sculley         63 76(5)
+     256  Welsh Hotard         def.  Conor Gannon         75 64
+     256  Joshua Lapadat       def.  Matt Summers         36 75 61
+     256  Tim Zeitvogel        def.  Dimitri Badra        61 36 62
+     256  Murphy Cassone       def.  Nathan Han           46 60 64
+     256  Thomas Brown         def.  Carles Anton         36 76(1) 75
+     256  Geronimo Busleiman   def.  Loris Pourroy        63 36 62
+     256  Justin Boulais       def.  Nicolas Rousset      61 61
+     256  Francois Musitelli   def.  Andrew Zhang         61 62
+     256  Filip Malbasic       def.  Inigo Torre Martin   63 26 64
+     256  Simon Arca Costas    def.  Emile Hudd           67(3) 64 61
+     256  Max Basing           def.  James Story          76(9) 76(5)
+     256  Connor Di Marco      def.  Kyle Frankel         63 16 64
+     256  Carlos Hassey        def.  Ronan Jachuck        36 63 63
+     256  JJ Tracy             def.  Justin Schlageter    63 62
+     256  Siem Woldeab         def.  Oscar Pinto Sansano  62 60
+     256  Blake Croyder        def.  Thomas Bosancic      62 64
+     256  Trey Hilderbrand     def.  Marin Delmas         36 63 63
+     256  Carl Emil Overbeck   def.  Mac Kiger            67(4) 61 75
+     256  Andre Ilagan         def.  Joshua Goodger       61 64
+     256  Jacob Brumm          def.  Dusan Milanovic      64 36 61
+     256  Stijn Slump          def.  Timothy Sah          75 26 63
+     256  Lui Maxted           def.  Andrew Fenty         62 64
+     256  Ezequiel Santalla    def.  Richard Ciamarra     62 75
+     256  Tadeas Paroulek      def.  edoardo graziani     63 64
+     256  Gavin Young          def.  Max McKennon         64 36 63
+     256  Alexander Hoogmarte… def.  Leyton Cronje        46 61 62
+     256  Noah Schachter       def.  Finlay Murgett       64 63
+     256  Filippo Moroni       def.  Athell Bennett       62 61
+     256  Ewen Lumsden         def.  Bradley Frye         63 75
+     256  Harris Walker        def.  Joshua Charlton      75 61
+     256  Emmanuel Coste       def.  Oscar Cutting        64 46 64
+     256  kevin zhu            def.  Luke Casper          76(3) 64
+     256  Colton Smith         def.  Mark Wallner         61 62
+     256  Henry Schulenburg    def.  James Trotter        26 61 62
+     256  Cleeve Harper        def.  Francisco Pini       63 62
+     256  Bogdan Pavel         def.  Nicola Vidal         62 62
+     256  Pedro Vives Marcos   def.  Patrick Maloney      61 46 64
+     256  Tristan Boyer        def.  Matthis Ross         63 46 63
+     256  Mattias Siimar       def.  Joao Ceolin          16 76(4) 64
+     256  Tad McClean          def.  Rafael Marques Da S… 64 62
+     256  John Hallquist Lith… def.  Charles Bertimon     61 60
+     256  Alexandre Rotsaert   def.  Callum Gale          64 62
+     256  Stefan Dostanic      def.  Liam Krall           76(3) 61
+     256  Shunsuke Mitsui      def.  Simon Junk           60 63
+     256  Holden Koons         def.  Daniel Siddall       62 62
+     256  Pierce Rollins       def.  Pavel Motl           64 62
+     256  Chris Edge           def.  Magnus Johnson       63 75
+     256  Rayane Stable        def.  Adham Gaber          26 60 76(1)
+     256  Lodewijk Weststrate  def.  Gabriel Diaz Freire  76(4) 46 75
+     256  Alex Martinez        def.  Rafael Iziquierdo L… 63 26 41 Ret.
 ~~~
 
 <a name="21-07548"></a>

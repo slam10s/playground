@@ -12,53 +12,68 @@
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Bulldawg Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Florida Division I - Bedford Cup, Men 2021</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">River City Tennis Open</a>  
+- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">C.L Varner Invitational</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Lander Invitational</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Wallach Invitational 2021</a>  
 
 <a name="21-73796"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Men's All-American Championships
   Dates: Oct 2-10, 2021
   Host: ITA
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Qualifying
   > Main
-     64  Jong/Aguilar          vs   Stewart/Henning      Mon @ 13:00
-     64  De Jonge/Hadigian     vs   Siddall/Thelwall Jo… Mon @ 13:00
-     64  Pankin/Tvedt          vs   Simkin/Tasker        Mon @ 14:00
-     64  Moroni/Thomson        vs   Rotsaert/Fery        Mon @ 14:00
-     64  Monday/Prata          vs   Reco/Rousset         Mon @ 13:30
-     64  Lambling/Story        vs   Poling/Rodriguez     Mon @ 13:30
-     64  Staeheli/Iziquierdo…  vs   Neuhaus/Dalmasso     Mon @ 13:30
-     64  Reynolds/Lithen       vs   Pourroy/Arcila       Mon @ 13:30
-     64  Capalbo/Busleiman     vs   Chidekh/Davis        Mon @ 13:00
-     64  Hassey/Smith          vs   Kingsley/Tracy       Mon @ 13:00
-     64  Chopra/Dong           vs   Junk/Slavic          Mon @ 13:00
-     64  Tumosa/Straker-Meads  vs   Siimar/Shelbayh      Mon @ 13:00
-     64  Torre Martin/Stable   vs   Valiev/Azoides       Mon @ 14:30
-     64  Malbasic/Hoeyeraal    vs   Acosta/Cierny        Mon @ 14:30
+     16  Hassey/Smith          vs   Siimar/Shelbayh      Tue @ 16:00
+     32  Stewart/Henning      def.  De Jonge/Hadigian    64 63
+     32  Pankin/Tvedt          vs   Rotsaert/Fery        Mon @ 17:00
+     32  Poling/Rodriguez     def.  Reco/Rousset         63 63
+     32  Neuhaus/Dalmasso      vs   Reynolds/Lithen      Mon @ 16:30
+     32  Hassey/Smith         def.  Chidekh/Davis        61 62
+     32  Siimar/Shelbayh      def.  Junk/Slavic          63 64
+     32  Torre Martin/Stable   vs   Malbasic/Hoeyeraal   Mon @ 17:00
+     32  Jakic/Tonejc          vs   Zhang/Heller         Mon @ 17:00
+     32  Zink/Hammond          vs   Keremedchiev/Klov-N… Mon @ 16:30
+     32  Zahraj/Hoogmartens    vs   Hudd/Mitsui          Mon @ 17:00
+     32  Cash/Vocel           def.  Anselmo/Mandlik      62 76(1)
+     32  Fomba/Vives Marcos    vs   Jachuck/Shi          Mon @ 16:30
+     64  Stewart/Henning      def.  Jong/Aguilar         64 75
+     64  De Jonge/Hadigian    def.  Siddall/Thelwall Jo… 62 64
+     64  Pankin/Tvedt         def.  Simkin/Tasker        61 46 [3]
+     64  Rotsaert/Fery        def.  Moroni/Thomson       75 61
+     64  Reco/Rousset         def.  Monday/Prata         63 46 [6]
+     64  Poling/Rodriguez     def.  Lambling/Story       64 62
+     64  Neuhaus/Dalmasso     def.  Beiler/Hasson        63 76(6)
+     64  Reynolds/Lithen      def.  Pourroy/Arcila       62 64
+     64  Chidekh/Davis        def.  Capalbo/Busleiman    46 64 [8]
+     64  Hassey/Smith         def.  Kingsley/Tracy       61 64
+     64  Junk/Slavic          def.  Chopra/Dong          64 76(3)
+     64  Siimar/Shelbayh      def.  Tumosa/Straker-Meads 64 67(5) [8]
+     64  Torre Martin/Stable  def.  Valiev/Azoides       46 62 [8]
+     64  Malbasic/Hoeyeraal   def.  Acosta/Cierny        Default
      64  Marson/Perego         vs   graziani/zhu         Mon @ 14:30
      64  Ornberg/Atherton      vs   Coste/Roberto        Mon @ 14:30
-     64  Diallo/Musitelli      vs   Jakic/Tonejc         Mon @ 14:30
-     64  Bollipalli/Ferguson   vs   Zhang/Heller         Mon @ 14:30
-     64  Zink/Hammond          vs   Marques Da Silva/Th… Mon @ 13:30
-     64  Pratt/Vile            vs   Keremedchiev/Klov-N… Mon @ 13:30
-     64  Allen/Steinhausen     vs   McKennon/Salle       Mon @ 13:00
+     64  Jakic/Tonejc         def.  Diallo/Musitelli     76(4) 75
+     64  Zhang/Heller         def.  Bollipalli/Ferguson  76(4) 75
+     64  Zink/Hammond         def.  Marques Da Silva/Th… 76(2) 76(1)
+     64  Keremedchiev/Klov-N… def.  Pratt/Vile           36 63 [10]
+     64  McKennon/Salle       def.  Allen/Steinhausen    36 76(4) [8]
      64  Sauer/Bulus           vs   Paroulek/Brumm       Mon @ 13:00
-     64  Zahraj/Hoogmartens    vs   Abbrat/Ross          Mon @ 14:00
-     64  Braswell/McDonald     vs   Hudd/Mitsui          Mon @ 14:00
+     64  Zahraj/Hoogmartens   def.  Abbrat/Ross          63 62
+     64  Hudd/Mitsui          def.  Braswell/McDonald    62 46 [4]
      64  Rodesch/Goetz         vs   Edge/Rocha           Mon @ 14:00
      64  Zeitvogel/Rogers      vs   Neff/Thamma          Mon @ 14:00
      64  Schulenburg/Walker    vs   Kikuchi/Overbeck     Mon @ 14:30
      64  Ciamarra/Harper       vs   Harrison/Zavala      Mon @ 14:30
-     64  Cash/Vocel            vs   Boyer/Sah            Mon @ 13:00
-     64  Dworak/Sanchez Gonz…  vs   Anselmo/Mandlik      Mon @ 13:00
-     64  Yamada/Cronje         vs   Fomba/Vives Marcos   Mon @ 13:30
-     64  Jachuck/Shi           vs   Schachter/Rollins    Mon @ 13:30
+     64  Cash/Vocel           def.  Boyer/Sah            64 63
+     64  Anselmo/Mandlik      def.  Brown/Sokolovskiy    63 46 [6]
+     64  Fomba/Vives Marcos   def.  Yamada/Cronje        76(5) 60
+     64  Jachuck/Shi          def.  Schachter/Rollins    46 76(4) [8]
 ~~~
 
 <a name="21-08096"></a>
