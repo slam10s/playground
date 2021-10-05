@@ -1044,6 +1044,38 @@
      256  Rayane Stable        def.  Adham Gaber          26 60 76(1)
      256  Lodewijk Weststrate  def.  Gabriel Diaz Freire  76(4) 46 75
      256  Alex Martinez        def.  Rafael Iziquierdo L… 63 26 41 Ret.
+ > Qualifying Consolation
+  > Main
+      64  Bradley Frye          vs   Kyle Frankel         Tue @ 09:00
+      64  Alex Brown            vs   Magnus Johnson       Tue @ 09:00
+      64  Ilgiz Valiev          vs   Mark Wallner         Tue @ 09:30
+      64  Ronan Jachuck         vs   Conor Gannon         Tue @ 09:30
+      64  Kyryll Kryvchun       vs   David Stevenson      Tue @ 09:30
+      64  Matt Hulme            vs   Oscar Cutting        Tue @ 09:30
+      64  Loris Pourroy         vs   Timothy Sah          Tue @ 10:00
+      64  Marin Delmas          vs   Leyton Cronje        Tue @ 10:00
+      64  Finlay Murgett        vs   Matthis Ross         Tue @ 10:00
+      64  Rafael Iziquierdo L…  vs   Rafael Marques Da S… Tue @ 10:00
+      64  Charles Bertimon      vs   Quinn Vandecasteele  Tue @ 10:30
+      64  Carles Anton          vs   Joshua Charlton      Tue @ 10:30
+      64  Andrew Zhang          vs   Abedallah Shelbayh   Tue @ 11:00
+      64  Richard Ciamarra      vs   edoardo graziani     Tue @ 11:00
+      64  Sean Sculley          vs   Joao Ceolin          Tue @ 11:00
+      64  Nicola Vidal          vs   Joshua Goodger       Tue @ 11:00
+      64  Jake Finn Bass        vs   Kento Yamada         Tue @ 11:30
+      64  Nicolas Rousset       vs   Dimitri Badra        Tue @ 11:30
+      64  Francisco Pini        vs   Emile Hudd           Tue @ 11:30
+      64  Luke Casper           vs   James Trotter        Tue @ 11:30
+      64  Liam Krall            vs   Dusan Milanovic      Tue @ 12:00
+      64  Sema Pankin           vs   James Story          Tue @ 12:00
+      64  Thomas Bosancic       vs   Athell Bennett       Tue @ 12:30
+      64  Inigo Torre Martin    vs   Mac Kiger            Tue @ 12:30
+      64  Adham Gaber           vs   Johannes Seeman      Tue @ 10:30
+      64  Patrick Maloney       vs   Callum Gale          Tue @ 10:30
+      64  Justin Schlageter     vs   Max McKennon         Tue @ 10:30
+      64  Pavel Motl            vs   Daniel Siddall       Tue @ 10:30
+      64  Mark Mandlik          vs   Jett Middleton       Tue @ 11:00
+      64  Matt Summers          vs   Nathan Han           Tue @ 11:00
 ~~~
 
 <a name="21-07548"></a>
@@ -1400,7 +1432,7 @@
      QF     Leopold Morel       def.     Patrick Cronin      62 61
  > Blue Singles
   > East
-      F (8) Lorenzo Martinetti  def. (1) Juan Luis Yanine    26 62 64
+      F (8) Lorenzo Martinetti  def. (1) Juan Luis Yanine    61 26 64
      SF (1) Juan Luis Yanine    def.     Louka Queguiner     67(5) 61 60
      SF (8) Lorenzo Martinetti  def.     Tuur Vos            63 16 76(2)
      QF (1) Juan Luis Yanine    def. (7) Enzo Blavignat      63 57 62
@@ -1988,7 +2020,7 @@
       32     Andrei Staicu       def.     Cameron McDaniel    60 57 [7]
       32     Mason Lebby         def. (2) Hangyu Ai           36 63 [10]
   > Consolation
-       F     Aaron Moylan        def. (2) Hangyu Ai           75 63
+       F     Aaron Moylan        def. (2) Hangyu Ai           61 61
       SF     Aaron Moylan        def.     JJ Niven            75 63
       SF (2) Hangyu Ai           def.     Nick Griffin        64 46 [8]
       QF     Aaron Moylan        def.     Shawn Rothermel     62 46 [5]

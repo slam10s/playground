@@ -287,7 +287,7 @@
      16  Brinkman/Pham     def.  Ortiveros/Potts  82
      16  Hootman/Necz      def.  Alam/Puttergill  Walkover
   > Consolation
-     QF  Ortiveros/Potts   def.  McCaig/Saini     83
+     QF  McCaig/Saini      def.  Ortiveros/Potts  83
  > Sunday Consoldation
   > Main
      QF  Hinojosa/Cmager   def.  Campi/Marchand   82
@@ -355,27 +355,38 @@
 
 <a name="21-73796"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Men's All-American Championships
   Dates: Oct 2-10, 2021
   Host: ITA
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Qualifying
   > Main
+     16  Stewart/Henning       vs   Rotsaert/Fery        Tue @ 16:00
+     16  Poling/Rodriguez      vs   Reynolds/Lithen      Tue @ 16:00
      16  Hassey/Smith          vs   Siimar/Shelbayh      Tue @ 16:00
+     16  Malbasic/Hoeyeraal    vs   graziani/zhu         Tue @ 16:00
+     16  Zhang/Heller          vs   Keremedchiev/Klov-N… Tue @ 16:00
+     16  McKennon/Salle        vs   Hudd/Mitsui          Tue @ 16:00
+     16  Rodesch/Goetz         vs   Ciamarra/Harper      Tue @ 16:00
+     16  Cash/Vocel            vs   Fomba/Vives Marcos   Tue @ 16:00
      32  Stewart/Henning      def.  De Jonge/Hadigian    64 63
-     32  Pankin/Tvedt          vs   Rotsaert/Fery        Mon @ 17:00
+     32  Rotsaert/Fery        def.  Pankin/Tvedt         64 75
      32  Poling/Rodriguez     def.  Reco/Rousset         63 63
-     32  Neuhaus/Dalmasso      vs   Reynolds/Lithen      Mon @ 16:30
+     32  Reynolds/Lithen      def.  Neuhaus/Dalmasso     64 36 [9]
      32  Hassey/Smith         def.  Chidekh/Davis        61 62
      32  Siimar/Shelbayh      def.  Junk/Slavic          63 64
-     32  Torre Martin/Stable   vs   Malbasic/Hoeyeraal   Mon @ 17:00
-     32  Jakic/Tonejc          vs   Zhang/Heller         Mon @ 17:00
-     32  Zink/Hammond          vs   Keremedchiev/Klov-N… Mon @ 16:30
-     32  Zahraj/Hoogmartens    vs   Hudd/Mitsui          Mon @ 17:00
+     32  Malbasic/Hoeyeraal   def.  Torre Martin/Stable  76(1) 46 [4]
+     32  graziani/zhu         def.  Ornberg/Atherton     63 64
+     32  Zhang/Heller         def.  Jakic/Tonejc         62 63
+     32  Keremedchiev/Klov-N… def.  Zink/Hammond         62 76(1)
+     32  McKennon/Salle       def.  Paroulek/Brumm       63 63
+     32  Hudd/Mitsui          def.  Zahraj/Hoogmartens   67(5) 61 [3]
+     32  Rodesch/Goetz        def.  Neff/Thamma          36 76(4) [8]
+     32  Ciamarra/Harper      def.  Kikuchi/Overbeck     76(4) 63
      32  Cash/Vocel           def.  Anselmo/Mandlik      62 76(1)
-     32  Fomba/Vives Marcos    vs   Jachuck/Shi          Mon @ 16:30
+     32  Fomba/Vives Marcos   def.  Jachuck/Shi          76(5) 67(5) [6]
      64  Stewart/Henning      def.  Jong/Aguilar         64 75
      64  De Jonge/Hadigian    def.  Siddall/Thelwall Jo… 62 64
      64  Pankin/Tvedt         def.  Simkin/Tasker        61 46 [3]
@@ -390,20 +401,20 @@
      64  Siimar/Shelbayh      def.  Tumosa/Straker-Meads 64 67(5) [8]
      64  Torre Martin/Stable  def.  Valiev/Azoides       46 62 [8]
      64  Malbasic/Hoeyeraal   def.  Acosta/Cierny        Default
-     64  Marson/Perego         vs   graziani/zhu         Mon @ 14:30
-     64  Ornberg/Atherton      vs   Coste/Roberto        Mon @ 14:30
+     64  graziani/zhu         def.  Marson/Perego        62 46 [4]
+     64  Ornberg/Atherton     def.  Coste/Roberto        61 16 [7]
      64  Jakic/Tonejc         def.  Diallo/Musitelli     76(4) 75
      64  Zhang/Heller         def.  Bollipalli/Ferguson  76(4) 75
      64  Zink/Hammond         def.  Marques Da Silva/Th… 76(2) 76(1)
      64  Keremedchiev/Klov-N… def.  Pratt/Vile           36 63 [10]
      64  McKennon/Salle       def.  Allen/Steinhausen    36 76(4) [8]
-     64  Sauer/Bulus           vs   Paroulek/Brumm       Mon @ 13:00
+     64  Paroulek/Brumm       def.  Sauer/Bulus          76(4) 61
      64  Zahraj/Hoogmartens   def.  Abbrat/Ross          63 62
      64  Hudd/Mitsui          def.  Braswell/McDonald    62 46 [4]
-     64  Rodesch/Goetz         vs   Edge/Rocha           Mon @ 14:00
-     64  Zeitvogel/Rogers      vs   Neff/Thamma          Mon @ 14:00
-     64  Schulenburg/Walker    vs   Kikuchi/Overbeck     Mon @ 14:30
-     64  Ciamarra/Harper       vs   Harrison/Zavala      Mon @ 14:30
+     64  Rodesch/Goetz        def.  Edge/Rocha           26 64 [10]
+     64  Neff/Thamma          def.  Zeitvogel/Rogers     63 75
+     64  Kikuchi/Overbeck     def.  Schulenburg/Walker   63 62
+     64  Ciamarra/Harper      def.  Harrison/Zavala      63 63
      64  Cash/Vocel           def.  Boyer/Sah            64 63
      64  Anselmo/Mandlik      def.  Brown/Sokolovskiy    63 46 [6]
      64  Fomba/Vives Marcos   def.  Yamada/Cronje        76(5) 60
@@ -633,6 +644,9 @@
  Men's Open Doubles
  > Main Draw A
   > Main
+      SF (3) Kearney/Oliveira     def.     Perez/Bird          86
+      QF     Perez/Bird           def.     Birgerson/Calloud   97
+      QF (3) Kearney/Oliveira     def. (5) Pjontek/Earle       86
       16     Perez/Bird           def. (1) Jans/Bah            84
       16     Birgerson/Calloud    def.     Dornbusch/Damgaard  86
       16 (5) Pjontek/Earle        def.     Pierola/Reeves      81
