@@ -15,6 +15,7 @@
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Cincinnati/Xavier Fall Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Georgia Southern Fall Shootout</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Jimmy Powell Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">June Stewart</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Long Beach State Fall Tournament</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">MVC Individual Championships</a>  

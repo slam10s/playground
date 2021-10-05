@@ -9,6 +9,7 @@
 
 **Upcoming Tournaments**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Bulldawg Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Florida Division I - Bedford Cup, Men 2021</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">River City Tennis Open</a>  

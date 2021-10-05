@@ -37,6 +37,7 @@
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Kitty Harrison invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
+- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHoustonW/Tournaments/Overview/81CEAFCF-07E3-42B0-BDDF-CB7D5F8E881B" target="_blank">UH Fall Invitational</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternCarolinaUniversityW/Tournaments/Overview/B2620864-02CA-45C5-97AD-B736DD738210" target="_blank">WCU Fall Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Division III Women's New England ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  

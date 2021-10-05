@@ -9,6 +9,7 @@
 
 **Upcoming Tournaments**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Bulldawg Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Florida Division I - Bedford Cup, Men 2021</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">River City Tennis Open</a>  
@@ -289,38 +290,54 @@
      128  Kaya Gore            def.  Christopher Cahour   67(3) 60 64
  > Qualifying
   > Main
-     128  Chase Ferguson        vs   Yuta Kikuchi         Tue @ 08:00
-     128  Daniel De Jonge       vs   Luca Staeheli        Tue @ 08:00
-     128  Toby Samuel           vs   Nicholas McKinney    Tue @ 08:00
-     128  Justin Barki          vs   Vlad Lobak           Tue @ 08:00
-     128  Garrett Johns         vs   Chris Rodesch        Tue @ 08:00
-     128  Guido Marson          vs   Vito Tonejc          Tue @ 08:00
-     128  Fabien Salle          vs   Eric Hadigian        Tue @ 10:00
-     128  Welsh Hotard          vs   Joshua Lapadat       Tue @ 10:00
-     128  Tim Zeitvogel         vs   Murphy Cassone       Tue @ 08:00
-     128  Thomas Brown          vs   Geronimo Busleiman   Tue @ 08:00
-     128  Justin Boulais        vs   Francois Musitelli   Tue @ 08:00
-     128  Filip Malbasic        vs   Simon Arca Costas    Tue @ 08:00
-     128  Max Basing            vs   Connor Di Marco      Tue @ 09:30
-     128  Carlos Hassey         vs   JJ Tracy             Tue @ 09:30
-     128  Siem Woldeab          vs   Blake Croyder        Tue @ 08:00
-     128  Trey Hilderbrand      vs   Carl Emil Overbeck   Tue @ 08:00
-     128  Andre Ilagan          vs   Jacob Brumm          Tue @ 10:00
-     128  Stijn Slump           vs   Lui Maxted           Tue @ 10:00
-     128  Ezequiel Santalla     vs   Tadeas Paroulek      Tue @ 09:30
-     128  Gavin Young           vs   Alexander Hoogmarte… Tue @ 09:30
-     128  Noah Schachter        vs   Filippo Moroni       Tue @ 08:00
-     128  Ewen Lumsden          vs   Harris Walker        Tue @ 08:00
-     128  Emmanuel Coste        vs   kevin zhu            Tue @ 08:00
-     128  Colton Smith          vs   Henry Schulenburg    Tue @ 08:00
-     128  Cleeve Harper         vs   Bogdan Pavel         Tue @ 08:00
-     128  Pedro Vives Marcos    vs   Tristan Boyer        Tue @ 08:00
-     128  Mattias Siimar        vs   Tad McClean          Tue @ 08:00
-     128  John Hallquist Lith…  vs   Alexandre Rotsaert   Tue @ 08:00
-     128  Stefan Dostanic       vs   Shunsuke Mitsui      Tue @ 08:00
-     128  Holden Koons          vs   Pierce Rollins       Tue @ 08:00
-     128  Chris Edge            vs   Rayane Stable        Tue @ 08:00
-     128  Lodewijk Weststrate   vs   Alex Martinez        Tue @ 08:00
+      64  Daniel De Jonge      def.  Yuta Kikuchi         61 75
+      64  Toby Samuel          def.  Justin Barki         64 64
+      64  Chris Rodesch        def.  Vito Tonejc          63 75
+      64  Eric Hadigian        def.  Joshua Lapadat       64 64
+      64  Tim Zeitvogel        def.  Geronimo Busleiman   63 46 76(3)
+      64  Francois Musitelli   def.  Simon Arca Costas    63 61
+      64  JJ Tracy             def.  Max Basing           76(4) 60
+      64  Trey Hilderbrand     def.  Blake Croyder        63 36 64
+      64  Andre Ilagan         def.  Stijn Slump          62 57 60
+      64  Tadeas Paroulek       vs   Gavin Young          Tue @ 14:00
+      64  Filippo Moroni       def.  Harris Walker        64 75
+      64  Henry Schulenburg    def.  Emmanuel Coste       63 64
+      64  Tristan Boyer        def.  Bogdan Pavel         64 62
+      64  Tad McClean          def.  John Hallquist Lith… 76(5) 64
+      64  Stefan Dostanic      def.  Holden Koons         64 75
+      64  Lodewijk Weststrate  def.  Rayane Stable        62 64
+     128  Yuta Kikuchi         def.  Chase Ferguson       61 63
+     128  Daniel De Jonge      def.  Luca Staeheli        63 61
+     128  Toby Samuel          def.  Nicholas McKinney    63 61
+     128  Justin Barki         def.  Vlad Lobak           61 64
+     128  Chris Rodesch        def.  Garrett Johns        67(5) 76(6) 64
+     128  Vito Tonejc          def.  Guido Marson         Walkover
+     128  Eric Hadigian        def.  Fabien Salle         75 26 75
+     128  Joshua Lapadat       def.  Welsh Hotard         64 63
+     128  Tim Zeitvogel        def.  Murphy Cassone       61 64
+     128  Geronimo Busleiman   def.  Thomas Brown         76(4) 57 61
+     128  Francois Musitelli   def.  Justin Boulais       64 62
+     128  Simon Arca Costas    def.  Filip Malbasic       26 75 75
+     128  Max Basing           def.  Connor Di Marco      62 64
+     128  JJ Tracy             def.  Carlos Hassey        16 64 61
+     128  Blake Croyder        def.  Siem Woldeab         76(4) 75
+     128  Trey Hilderbrand     def.  Carl Emil Overbeck   64 36 64
+     128  Andre Ilagan         def.  Jacob Brumm          64 62
+     128  Stijn Slump          def.  Lui Maxted           61 62
+     128  Tadeas Paroulek      def.  Ezequiel Santalla    62 46 63
+     128  Gavin Young          def.  Alexander Hoogmarte… 75 64
+     128  Filippo Moroni       def.  Noah Schachter       46 64 63
+     128  Harris Walker        def.  Ewen Lumsden         26 61 61
+     128  Emmanuel Coste       def.  kevin zhu            63 60
+     128  Henry Schulenburg    def.  Colton Smith         62 16 63
+     128  Bogdan Pavel         def.  Cleeve Harper        63 75
+     128  Tristan Boyer        def.  Pedro Vives Marcos   76(4) 76(2)
+     128  Tad McClean          def.  Mattias Siimar       60 62
+     128  John Hallquist Lith… def.  Alexandre Rotsaert   64 60
+     128  Stefan Dostanic      def.  Shunsuke Mitsui      16 76(3) 75
+     128  Holden Koons         def.  Pierce Rollins       26 61 64
+     128  Rayane Stable        def.  Chris Edge           60 76(1)
+     128  Lodewijk Weststrate  def.  Alex Martinez        62 62
      256  Chase Ferguson       def.  Mark Mandlik         75 16 75
      256  Yuta Kikuchi         def.  Abedallah Shelbayh   63 63
      256  Daniel De Jonge      def.  Kyryll Kryvchun      64 62
@@ -388,35 +405,32 @@
  > Qualifying Consolation
   > Main
       64  Bradley Frye          vs   Kyle Frankel         Tue @ 09:00
-      64  Alex Brown            vs   Magnus Johnson       Tue @ 09:00
-      64  Ilgiz Valiev          vs   Mark Wallner         Tue @ 09:30
-      64  Ronan Jachuck         vs   Conor Gannon         Tue @ 09:30
-      64  Kyryll Kryvchun       vs   David Stevenson      Tue @ 09:30
-      64  Matt Hulme            vs   Oscar Cutting        Tue @ 09:30
-      64  Loris Pourroy         vs   Timothy Sah          Tue @ 10:00
-      64  Marin Delmas          vs   Leyton Cronje        Tue @ 10:00
-      64  Finlay Murgett        vs   Matthis Ross         Tue @ 10:00
-      64  Rafael Iziquierdo L…  vs   Rafael Marques Da S… Tue @ 10:00
-      64  Charles Bertimon      vs   Quinn Vandecasteele  Tue @ 10:30
-      64  Carles Anton          vs   Joshua Charlton      Tue @ 10:30
-      64  Andrew Zhang          vs   Abedallah Shelbayh   Tue @ 11:00
-      64  Richard Ciamarra      vs   edoardo graziani     Tue @ 11:00
-      64  Sean Sculley          vs   Joao Ceolin          Tue @ 11:00
-      64  Nicola Vidal          vs   Joshua Goodger       Tue @ 11:00
-      64  Jake Finn Bass        vs   Kento Yamada         Tue @ 11:30
-      64  Nicolas Rousset       vs   Dimitri Badra        Tue @ 11:30
-      64  Francisco Pini        vs   Emile Hudd           Tue @ 11:30
-      64  Luke Casper           vs   James Trotter        Tue @ 11:30
-      64  Liam Krall            vs   Dusan Milanovic      Tue @ 12:00
-      64  Sema Pankin           vs   James Story          Tue @ 12:00
-      64  Thomas Bosancic       vs   Athell Bennett       Tue @ 12:30
-      64  Inigo Torre Martin    vs   Mac Kiger            Tue @ 12:30
-      64  Adham Gaber           vs   Johannes Seeman      Tue @ 10:30
-      64  Patrick Maloney       vs   Callum Gale          Tue @ 10:30
-      64  Justin Schlageter     vs   Max McKennon         Tue @ 10:30
-      64  Pavel Motl            vs   Daniel Siddall       Tue @ 10:30
-      64  Mark Mandlik          vs   Jett Middleton       Tue @ 11:00
-      64  Matt Summers          vs   Nathan Han           Tue @ 11:00
+      64  Magnus Johnson       def.  Alex Brown           60 62
+      64  Mark Wallner         def.  Ilgiz Valiev         46 62 75
+      64  Conor Gannon         def.  Ronan Jachuck        76(4) 26 62
+      64  David Stevenson      def.  Kyryll Kryvchun      63 64
+      64  Oscar Cutting        def.  Sebastian Arcila     62 64
+      64  Timothy Sah          def.  Loris Pourroy        67(3) 61 63
+      64  Matthis Ross         def.  Finlay Murgett       67(5) 62 61
+      64  Leyton Cronje        def.  Rafael Marques Da S… 63 46 62
+      64  Quinn Vandecasteele  def.  Charles Bertimon     76(6) 62
+      64  Joshua Charlton      def.  Carles Anton         76(3) 62
+      64  Andrew Zhang         def.  Abedallah Shelbayh   16 75 63
+      64  Richard Ciamarra     def.  edoardo graziani     63 63
+      64  Joao Ceolin          def.  Sean Sculley         64 62
+      64  Nicola Vidal         def.  Joshua Goodger       64 62
+      64  Jake Finn Bass       def.  Kento Yamada         46 52 Ret.
+      64  Nicolas Rousset      def.  Dimitri Badra        61 62
+      64  Emile Hudd           def.  Francisco Pini       62 62
+      64  James Trotter        def.  Luke Casper          62 63
+      64  Dusan Milanovic      def.  Liam Krall           75 36 63
+      64  James Story          def.  Sema Pankin          63 63
+      64  Thomas Bosancic      def.  Athell Bennett       46 76(4) 61
+      64  Adham Gaber          def.  Johannes Seeman      75 60
+      64  Patrick Maloney      def.  Callum Gale          64 63
+      64  Pavel Motl           def.  Daniel Siddall       63 75
+      64  Mark Mandlik         def.  Jett Middleton       62 46 75
+      64  Nathan Han           def.  Matt Summers         62 62
 ~~~
 
 <a name="21-08096"></a>
