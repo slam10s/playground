@@ -15,7 +15,9 @@
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Northeasts Regional Championship](#21-17427) ([Results](#21-17427) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
+- 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/1/2021 - [Utah Invite](#21-47623) ([Results](#21-47623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahW/Tournaments/Overview/7AF1E32C-8707-429F-A3C2-89B494D4EF50" target="_blank">Draws</a>)  
+- 10/1/2021 - [Wolverine Invitational](#21-66025) ([Results](#21-66025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/6AF18612-0DD9-474B-9A98-4C630E99D501" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
@@ -35,8 +37,7 @@
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Kitty Harrison invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
-- 10/3/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Texas State Play Days</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/6AF18612-0DD9-474B-9A98-4C630E99D501" target="_blank">Wolverine Invitational</a>  
+- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternCarolinaUniversityW/Tournaments/Overview/B2620864-02CA-45C5-97AD-B736DD738210" target="_blank">WCU Fall Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Division III Women's New England ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Junior College Men's and Women's Northern California ITA Regional Championships</a>  
@@ -499,11 +500,11 @@
 
 <a name="21-60580"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   Florida Division 1 Bedford Cup, Women
   Dates: Oct 1-3, 2021
   Host: Univ. Of South Florida (W)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight A
   > East
@@ -531,8 +532,6 @@
      SF (4) De Oliveira/Dudeney  def. (2) Leslie/Christians    63
   > South
       F     Hubeaut/Sandy        def.     Davis/Yardley        64
-  > Southwest
-      F     Eland/Shumacher       vs      Cohen/Dovgopolyi     Sun @ 09:00
  > Flight B
   > East
       F (2) Miletic/Velcea       def.     colmenares/retortil… 85
@@ -641,18 +640,33 @@
  > Extra Doubles
   > Main
       F     Alhach/van Meeteren  def.     Loudili/Ifidzhen     62
+ > Extra Doubles 2
+  > Main
+      F     Aksu/Cheng           def.     Fukutoku/Cricchio    63
 ~~~
 
 <a name="21-17427"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Division I Women's Northeasts Regional Championship
   Dates: Oct 1-3, 2021
   Host: U.S. Military Academy (W)
-════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
+     QF     Munson/Rondini       def.     Hofflander/Reddy     83
+     QF     Dunleavy/Shrivistava def.     Okuyama/Farima       87(2)
+     QF     de Lucas/Nielsen     def. (1) Bou/Hoppe            87(4)
+     QF     Hack/Jonglertakul    def.     Jackson/Herremans    86
+     16     Hofflander/Reddy     def.     Kim/Kleynerman       86
+     16     Munson/Rondini       def.     Irani/Mahajan        Walkover
+     16     Okuyama/Farima       def. (1) Lau/Lee              84
+     16     Dunleavy/Shrivistava def.     Viswanath/Boggiali   83
+     16     de Lucas/Nielsen     def. (9) Yoo/Conard           87(5)
+     16 (1) Bou/Hoppe            def. (9) Deminova/Fasoula     84
+     16     Hack/Jonglertakul    def. (9) You/Lim              86
+     16     Jackson/Herremans    def. (1) Kerr/Rimondini       83
      32     Hofflander/Reddy     def. (1) Dolehide/Vincent     84
      32     Kim/Kleynerman       def. (9) Brown/Giralt         85
      32     Munson/Rondini       def. (5) Bretkelly/Lin        87(4)
@@ -815,6 +829,42 @@
       F     Popham/Varudandi     def. (4) Jones/Prato          Walkover
 ~~~
 
+<a name="21-09694"></a>
+~~~
+═══════════════════════════════════════════════════════════
+  Texas State Play Days
+  Dates: Oct 3-4, 2021
+  Host: Texas State U-San Marcos (W)
+═══════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight 1
+  > Main
+     R4  Aguilar/Makantasi    def.  Kvapilova/Israel-Le… 63
+     R3  Fabre/Kauders        def.  Souza/Sasaroga       63
+     R3  Kvapilova/Israel-Le… def.  Karren/Souza         62
+     R2  Fabre/Kauders        def.  Aguilar/Makantasi    63
+     R1  Fabre/Kauders        def.  Kvapilova/Israel-Le… 75
+     R1  Aguilar/Makantasi    def.  Souza/Sasaroga       63
+ > Flight 2
+  > Main
+     R4  Bleicher/Frigout     def.  Malazonia/McCutcheon 62
+     R4  Cerda/Furness        def.  Palatte/Boisson      64
+     R3  Cerda/Furness        def.  Malazonia/McCutcheon 61
+     R3  Palatte/Boisson      def.  Montero/Platisa      60
+     R2  Malazonia/McCutcheon def.  Montero/Platisa      60
+     R2  Fortuno/Chan         def.  Palatte/Boisson      62
+     R1  Montero/Platisa      def.  Cerda/Furness        64
+ > Flight 3/4
+  > Main
+     R6  Komar/Vaudiau        def.  Gonzalez/Shannon     63
+     R3  Watanabe/Hosking     def.  Gonzalez/Shannon     64
+     R3  Bleicher/Frigout     def.  Komar/Vaudiau        64
+     R3  Fortuno/Chan         def.  Thal/Sasaroga        61
+     R2  Israel-Lewis/Lora M… def.  Watanabe/Hosking     62
+     R2  Bleicher/Frigout     def.  Fortuno/Chan         62
+     R1  Israel-Lewis/Lora M… def.  Komar/Vaudiau        61
+~~~
+
 <a name="21-47623"></a>
 ~~~
 ════════════════════════════════════════════════════════════════
@@ -849,18 +899,67 @@
      16  Toriumi/OConnor   def.  Ferreira/Lombardi 87(2)
 ~~~
 
+<a name="21-66025"></a>
+~~~
+═══════════════════════════════════════════════════════════
+  Wolverine Invitational
+  Dates: Oct 1-3, 2021
+  Host: University Of Michigan (W)
+═══════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Friday Doubles Round 1
+  > Main
+     R1  Bereznyak/Marzal     def.  Lewis/Pietrowicz   63
+     R1  Atway/Ali            def.  Gisclon/Lemonds    63
+     R1  Freeman/Lilien       def.  Guadiana/Rizzolo   60
+     R1  Hamilton/Zieglar     def.  Coleman/Bellia     63
+     R1  Brown/Cerdan         def.  Cruz/Malkin        64
+     R1  Mills/Tulenko        def.  Kelly/Craciun      61
+     R1  Fliegner/Hammond     def.  Turkovic/Jankowski 62
+ > Friday Doubles Round 2
+  > Main
+     R1  Lewis/Pietrowicz     def.  Guadiana/Rizzolo   60
+     R1  Gisclon/Lemonds      def.  Hamilton/Zieglar   75
+     R1  Turkovic/Jankowski   def.  Cruz/Malkin        62
+     R1  Mills/Tulenko        def.  Freeman/Lilien     63
+     R1  Bereznyak/Marzal     def.  Brown/Cerdan       63
+     R1  Fliegner/Hammond     def.  Atway/Ali          61
+     R1  Kelly/Craciun        def.  Coleman/Bellia     63
+ > Sunday Doubles
+  > Main
+     R1  Cruz/Malkin          def.  Lewis/Pietrowicz   63
+     R1  Mills/Tulenko        def.  Gisclon/Lemonds    63
+     R1  Guadiana/Rizzolo     def.  Brown/Cerdan       64
+     R1  Kelly/Fliegner       def.  Hamilton/Zieglar   62
+     R1  Jankowski/Argyrokas… def.  Freeman/Lilien     75
+     R1  Atway/Ali            def.  Coleman/Bellia     61
+~~~
+
 <a name="21-35169"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Division II Men’s & Women's Central ITA Regional Championships
   Dates: Oct 1-3, 2021
   Host: Univ. Of Central Oklahoma (W)
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main Draw A
   > Main
+       F (3) Canete/Canete        def.     Arce Vieyra/Janciko… 80
+      SF     Arce Vieyra/Janciko… def. (4) Abidulina/Boyar      85
+      SF (3) Canete/Canete        def.     Chavez/MacGibbon     84
+      QF     Arce Vieyra/Janciko… def.     Iglesias Iglesias/G… 85
+      QF (4) Abidulina/Boyar      def.     Britt/Dodd           80
+      QF (3) Canete/Canete        def. (5) Hadjigeorgiou/Kista… 82
+      QF     Chavez/MacGibbon     def. (7) Gonzalez/Cozamanis   83
+      16     Iglesias Iglesias/G… def.     Crocker/Valenzuela   82
+      16     Arce Vieyra/Janciko… def. (8) zeikidze/murali      82
+      16     Britt/Dodd           def.     Kamoe/Row            84
+      16 (4) Abidulina/Boyar      def.     Kwakernaak/Per More… 84
       16 (3) Canete/Canete        def.     Tregubova/Hosking    82
       16 (5) Hadjigeorgiou/Kista… def.     Baez/Grinberg        80
+      16 (7) Gonzalez/Cozamanis   def.     issabayeva/bifano    86
+      16     Chavez/MacGibbon     def.     Wallin/Simas         85
       32     Iglesias Iglesias/G… def. (1) Vidnere/Popova       83
       32     Crocker/Valenzuela   def.     Paz Diaz/Stemmer     85
       32     Arce Vieyra/Janciko… def.     Lynn/Foster          86
@@ -878,8 +977,9 @@
       32     Chavez/MacGibbon     def.     Sherikulova/Becerra  86
       32     Wallin/Simas         def. (2) Alenicheva/Aliseda … 98(5)
   > Consolation
+       F     Buntrock/Chadick     def.     Bernthal/Zamorano    64
       SF     Bernthal/Zamorano    def. (1) Vidnere/Popova       64
-      SF     Vera/Carvalho         vs      Buntrock/Chadick     Sun @ 15:00
+      SF     Buntrock/Chadick     def.     Vera/Carvalho        75
       QF (1) Vidnere/Popova       def.     Lynn/Foster          Walkover
       QF     Bernthal/Zamorano    def.     Dargude/Griffiths    62
       QF     Vera/Carvalho        def.     Davilus/Hansard      62
@@ -894,8 +994,9 @@
      16Q (2) Alenicheva/Aliseda … def.     Sherikulova/Becerra  Walkover
  > Main Draw B
   > Main
-      SF     Pignataro/Chleborad   vs  (4) Ranaivo/Hatouka      Sun @ 15:00
-      SF (3) Brocks/Penn           vs  (2) Curci/Donnelly       Sun @ 15:00
+       F (4) Ranaivo/Hatouka      def. (2) Curci/Donnelly       97
+      SF (4) Ranaivo/Hatouka      def.     Pignataro/Chleborad  84
+      SF (2) Curci/Donnelly       def. (3) Brocks/Penn          86
       QF     Pignataro/Chleborad  def.     Hood/Plachy          83
       QF (4) Ranaivo/Hatouka      def.     Jayaprakash/Moldakh… 83
       QF (3) Brocks/Penn          def.     Serpukhova/Gill      86
@@ -1041,6 +1142,7 @@
  Women's Open Doubles
  > Main Draw Doubles
   > Main
+       F (1) Li/Goetz             def.     Cartledge/Fatemi     63 75
       SF (1) Li/Goetz             def.     Perez/Yoon           62 63
       SF     Cartledge/Fatemi     def. (4) Despriet/Hall        63 36 64
       QF (1) Li/Goetz             def.     Smith/Nowak          85
@@ -1089,6 +1191,9 @@
  Women's Open Doubles
  > Draw A
   > Main
+      F (6) Ziehm/Kesterson   def. (4) Mitrofanova/Lee      64 64
+     SF (4) Mitrofanova/Lee   def. (1) Flores/Cushing       86
+     SF (6) Ziehm/Kesterson   def. (2) Wong/Ducret          84
      QF (1) Flores/Cushing    def. (8) Jackson/Zeng         81
      QF (4) Mitrofanova/Lee   def. (5) Gonzalez/Lopez       81
      QF (6) Ziehm/Kesterson   def. (3) Hill/Kim             85

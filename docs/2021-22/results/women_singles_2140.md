@@ -3,22 +3,27 @@
 **Tournamets with Matches**  
 - 10/1/2021 - [ITA Division I Atlantic Women's Regional Championship](#21-03077) ([Results](#21-03077) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/EB66D8AE-2B72-4A34-AF59-E6C67DA9A6D8" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
+- 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 - 10/4/2021 - [ITA Women's All-American Championship](#21-68261) ([Results](#21-68261) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/3/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Texas State Play Days</a>  
+- 10/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/7737FD94-882F-4257-A700-306375BD09EC" target="_blank">2nd UCA FALL INVITATIONAL TOURNAMENT</a>  
 
 **Upcoming Tournaments**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCCharlotteW/Tournaments/Overview/928AA6BE-846A-430B-89FA-222F70E8CCBB" target="_blank">49er Invite</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Cincinnati/Xavier Fall Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Georgia Southern Fall Shootout</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">June Stewart</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Long Beach State Fall Tournament</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">MVC Individual Championships</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C" target="_blank">Navy Blue and Gold Invitational</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/4628479A-19D9-4AD2-91AA-D180971411D5" target="_blank">SMU Red and Blue Invite</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F" target="_blank">USC Women of Troy Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847" target="_blank">Wildcat Invite</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">C.L Varner Invitational</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE" target="_blank">Lander Women's Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NortheasternStateUW/Tournaments/Overview/6CDF33CD-A0E5-4CA9-BD9D-2F5B12B0FE50" target="_blank">Rumble by the River</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/CD3EA260-EE7B-4CC4-AEAD-3B2FCD79FEE4" target="_blank">Saint Leo Lion Fall Invitational - Women</a>  
@@ -109,8 +114,6 @@
      128      Ellen Shanahan       def.      Kate Lee             36 76(2) Ret.
      128      Nadia Pegram         def.      Fabiana Tort-Umpier… 61 64
   > Consolation
-      QF      Jordan Grayson        vs       Viva Laas            Sun @ 10:00
-      QF      Oluwayemisi Ifederu   vs       Deanna Lasorda       Sun @ 09:00
       16      Alexandra Vesikallio def.      Ameilia Lawson       Walkover
       16      Sylvia Eklund        def.      Savanna Crowell      62 60
       16      Jordan Grayson       def.      Sarah Pospischill    Walkover
@@ -217,7 +220,7 @@
  > Back draw 1
   > Main
      128      Jutte Van Hansewyck  def.      Micaela Ode Mitre    64 06 [8]
-     128      Rieke Gillar         def.      Camryn McClure       64 61
+     128      Camryn McClure       def.      Rieke Gillar         64 61
      128      Michelle Los Arcos   def.      Sara Salemyr         57 64 [4]
      128      Nicole Kiefer        def.      Maria Saez           75 62
      128      Liz Stefancic        def.      Tamara Barad Itzaki  75 46 [9]
@@ -252,6 +255,72 @@
      128      Amber ODell          def.      Hope Moulin          63 63
      128      Lisa Fukutoku        def.      Nicole Kiefer        62 26 [6]
      128      Alesya Yakubovich    def.      Emma Fernald         64 57 [8]
+~~~
+
+<a name="21-09694"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Texas State Play Days
+  Dates: Oct 3-4, 2021
+  Host: Texas State U-San Marcos (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight 1
+  > Main
+     R3  Hana Kvapilova       def.  Lea Karren           60 Ret.
+     R3  Nyah Kauders         def.  Jemileth Aguilar     63 62
+     R2  Nyah Kauders         def.  Lea Karren           62 75
+     R2  Hana Kvapilova       def.  Jemileth Aguilar     61 63
+     R1  Hana Kvapilova       def.  Nyah Kauders         46 61 [5]
+     R1  Jemileth Aguilar     def.  Lea Karren           46 75 [5]
+ > Flight 2
+  > Main
+     R3  Paula Cerda          def.  Marjorie Souza       36 63 [8]
+     R3  Martha Makantasi     def.  Rishona Israel-Lewis 76(8) 64
+     R2  Rishona Israel-Lewis def.  Marjorie Souza       60 63
+     R2  Martha Makantasi     def.  Paula Cerda          62 75
+     R1  Rishona Israel-Lewis def.  Paula Cerda          64 64
+     R1  Martha Makantasi     def.  Marjorie Souza       46 64 [4]
+ > Flight 3
+  > Main
+     R3  Lucy Furness         def.  Elsa Boisson         63 75
+     R3  Kate Malazonia       def.  Alicia Thal          61 63
+     R2  Kate Malazonia       def.  Elsa Boisson         64 16 [7]
+     R2  Lucy Furness         def.  Alicia Thal          62 62
+     R1  Lucy Furness         def.  Kate Malazonia       36 62 [6]
+     R1  Elsa Boisson         def.  Alicia Thal          61 61
+ > Flight 4
+  > Main
+     R3  Mae McCutcheon       def.  Elise Frigout        76(6) 36 [5]
+     R3  Ana Platisa          def.  Natalia Komar        64 63
+     R2  Elise Frigout        def.  Ana Platisa          57 62 [4]
+     R2  Mae McCutcheon       def.  Natalia Komar        76(1) 62
+     R1  Mae McCutcheon       def.  Ana Platisa          61 63
+     R1  Elise Frigout        def.  Natalia Komar        61 62
+ > Flight 5
+  > Main
+     R3  Elena Bleicher       def.  Valeria Montero      63 61
+     R3  Sofia Fortuno        def.  Celia Vaudiau        61 62
+     R2  Sofia Fortuno        def.  Valeria Montero      63 60
+     R2  Elena Bleicher       def.  Celia Vaudiau        60 62
+     R1  Sofia Fortuno        def.  Elena Bleicher       36 61 [7]
+     R1  Valeria Montero      def.  Celia Vaudiau        64 26 [4]
+ > Flight 6
+  > Main
+     R3  Ainoa Fabre          def.  Rosemary Watanabe    63 61
+     R2  Jadeh Chan           def.  Rosemary Watanabe    63 61
+     R2  Maria Andrea Lora M… def.  Ainoa Fabre          46 76(4) [2]
+     R1  Maria Andrea Lora M… def.  Rosemary Watanabe    62 62
+     R1  Jadeh Chan           def.  Ainoa Fabre          62 63
+ > Flight 7/8
+  > Main
+     R6  Maria Andrea Lora M… def.  Faustine Palatte     61 60
+     R6  Anna Hosking         def.  Kylee Shannon        76(1) 46 [7]
+     R5  Faustine Palatte     def.  Kylee Shannon        61 76(4)
+     R5  Anna Hosking         def.  Chacadyah Israel-Le… 64 61
+     R4  Renata Gonzalez      def.  Anna Hosking         46 63 [9]
+     R2  Renata Gonzalez      def.  Faustine Palatte     46 62 [3]
+     R2  Chacadyah Israel-Le… def.  Hadley Jones         64 36 [8]
 ~~~
 
 <a name="21-08096"></a>
@@ -298,46 +367,86 @@
 
 <a name="21-68261"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Women's All-American Championship
   Dates: Oct 4-10, 2021
   Host: ITA
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Qualifying Draw
   > Qualifying - Main
-     64  Alana Smith           vs   Clarissa Hand        Mon @ 12:00
-     64  Tatsiana Sasnouskaya  vs   Iuliia Bryzgalova    Mon @ 12:00
-     64  Patricija Spaka       vs   Valentina Ivanov     Mon @ 12:00
-     64  Carmen Corley         vs   Taylor Bridges       Mon @ 12:00
-     64  Cameron Morra         vs   Marlee Zein          Mon @ 09:00
-     64  Paola Exposito Diaz…  vs   Anna Campana         Mon @ 09:00
-     64  Melodie Collard       vs   Kylie Collns         Mon @ 09:00
-     64  Federica Trevisan     vs   Megan Davies         Mon @ 09:00
-     64  Sabina Machalova      vs   Evgeniya Levashova   Mon @ 09:00
-     64  Madeline Lamoreaux    vs   Ahmeir Kyle          Mon @ 09:00
-     64  Mell Reasco           vs   Jaeda Daniel         Mon @ 09:00
-     64  Brianna Shvets        vs   Eryn Cayetano        Mon @ 09:00
-     64  Kari Miller           vs   Margarita Skriabina  Mon @ 09:00
-     64  Anna Riedmiller       vs   Yuliia Starodubtseva Mon @ 09:00
-     64  Jessica Alsola        vs   Xinyu Cai            Mon @ 09:00
-     64  Taisiya Pachkaleva    vs   Thasaporn Naklo      Mon @ 09:00
-     64  Lisa Zaar             vs   Taylor Melville      Mon @ 10:30
-     64  Zoe Howard            vs   Sarah Hamner         Mon @ 10:30
-     64  Abigail Rencheli      vs   Carly Briggs         Mon @ 10:30
-     64  Fiona Crawley         vs   Bronte Murgett       Mon @ 10:30
-     64  Dana Guzman           vs   Elaine Chervinsky    Mon @ 10:45
-     64  Marina Alcaide        vs   Mary Stoiana         Mon @ 10:45
-     64  Carolyn Ansari        vs   Miska Kadleckova     Mon @ 10:30
-     64  Sarah-Maude Fortin    vs   Ayana Akli           Mon @ 10:30
-     64  Shakhnoza Khatamova   vs   Andrea Di Palma      Mon @ 10:45
-     64  Eleni Louka           vs   Victoria Hu          Mon @ 10:45
-     64  Shura Poppe           vs   Hannah Viller Moell… Mon @ 12:00
-     64  Ivana Corley          vs   Solymar Colling      Mon @ 12:00
-     64  Sophie Abrams         vs   Sedona Gallagher     Mon @ 12:00
-     64  Anna Brylin           vs   Sabine Rutlauka      Mon @ 12:00
-     64  Morgan Coppoc         vs   Anika Yarlagadda     Mon @ 10:45
-     64  Shiori Fukuda         vs   Indianna Spink       Mon @ 10:45
+      16  Alana Smith           vs   Carmen Corley        Tue @ 11:00
+      16  Marlee Zein           vs   Kylie Collns         Tue @ 09:00
+      16  Sabina Machalova      vs   Eryn Cayetano        Tue @ 09:00
+      16  Yuliia Starodubtseva  vs   Taisiya Pachkaleva   Tue @ 09:00
+      16  Sarah Hamner          vs   Fiona Crawley        Tue @ 11:00
+      16  Dana Guzman           vs   Ayana Akli           Tue @ 11:00
+      16  Victoria Hu           vs   Ivana Corley         Tue @ 11:00
+      16  Anna Brylin           vs   Shiori Fukuda        Tue @ 11:00
+      32  Alana Smith          def.  Tatsiana Sasnouskaya 36 62 64
+      32  Carmen Corley        def.  Valentina Ivanov     61 63
+      32  Marlee Zein          def.  Anna Campana         62 64
+      32  Kylie Collns         def.  Federica Trevisan    60 63
+      32  Sabina Machalova     def.  Ahmeir Kyle          63 62
+      32  Eryn Cayetano        def.  Jaeda Daniel         64 62
+      32  Yuliia Starodubtseva def.  Margarita Skriabina  64 57 75
+      32  Taisiya Pachkaleva   def.  Jessica Alsola       63 75
+      32  Sarah Hamner         def.  Lisa Zaar            46 64 64
+      32  Fiona Crawley        def.  Abigail Rencheli     60 30 Ret.
+      32  Dana Guzman          def.  Mary Stoiana         61 61
+      32  Ayana Akli           def.  Miska Kadleckova     60 76(4)
+      32  Victoria Hu          def.  Andrea Di Palma      36 63 75
+      32  Ivana Corley         def.  Hannah Viller Moell… 16 64 62
+      32  Anna Brylin          def.  Sedona Gallagher     26 63 62
+      32  Shiori Fukuda        def.  Anika Yarlagadda     60 62
+      64  Alana Smith          def.  Clarissa Hand        63 30 Ret.
+      64  Tatsiana Sasnouskaya def.  Iuliia Bryzgalova    62 61
+      64  Valentina Ivanov     def.  Patricija Spaka      61 36 64
+      64  Carmen Corley        def.  Taylor Bridges       62 75
+      64  Marlee Zein          def.  Cameron Morra        46 75 60
+      64  Anna Campana         def.  Paola Exposito Diaz… 76(4) 63
+      64  Kylie Collns         def.  Melodie Collard      61 60
+      64  Federica Trevisan    def.  Megan Davies         64 64
+      64  Sabina Machalova     def.  Evgeniya Levashova   76(2) 61
+      64  Ahmeir Kyle          def.  Madeline Lamoreaux   46 64 62
+      64  Jaeda Daniel         def.  Mell Reasco          64 75
+      64  Eryn Cayetano        def.  Brianna Shvets       63 63
+      64  Margarita Skriabina  def.  Kari Miller          63 46 76(3)
+      64  Yuliia Starodubtseva def.  Anna Riedmiller      06 62 60
+      64  Jessica Alsola       def.  Xinyu Cai            76(4) 63
+      64  Taisiya Pachkaleva   def.  Thasaporn Naklo      16 62 76(1)
+      64  Lisa Zaar            def.  Taylor Melville      36 61 60
+      64  Sarah Hamner         def.  Zoe Howard           64 64
+      64  Abigail Rencheli     def.  Carly Briggs         62 61
+      64  Fiona Crawley        def.  Bronte Murgett       46 63 75
+      64  Dana Guzman          def.  Elaine Chervinsky    76(8) 63
+      64  Mary Stoiana         def.  Marina Alcaide       62 61
+      64  Miska Kadleckova     def.  Carolyn Ansari       64 63
+      64  Ayana Akli           def.  Sarah-Maude Fortin   63 60
+      64  Andrea Di Palma      def.  Shakhnoza Khatamova  75 60
+      64  Victoria Hu          def.  Eleni Louka          61 61
+      64  Hannah Viller Moell… def.  Shura Poppe          60 62
+      64  Ivana Corley         def.  Solymar Colling      36 63 63
+      64  Sedona Gallagher     def.  Sophie Abrams        46 61 64
+      64  Anna Brylin          def.  Sabine Rutlauka      60 64
+      64  Anika Yarlagadda     def.  Morgan Coppoc        64 36 75
+      64  Shiori Fukuda        def.  Indianna Spink       62 64
+  > Qualifying - Consolation
+     32Q  Paola Exposito Diaz…  vs   Iuliia Bryzgalova    Tue @ 09:00
+     32Q  Patricija Spaka       vs   Taylor Bridges       Tue @ 09:00
+     32Q  Melodie Collard       vs   Megan Davies         Tue @ 09:00
+     32Q  Evgeniya Levashova    vs   Madeline Lamoreaux   Tue @ 09:00
+     32Q  Mell Reasco           vs   Brianna Shvets       Tue @ 09:00
+     32Q  Kari Miller           vs   Anna Riedmiller      Tue @ 09:00
+     32Q  Xinyu Cai             vs   Thasaporn Naklo      Tue @ 09:00
+     32Q  Taylor Melville       vs   Zoe Howard           Tue @ 11:00
+     32Q  Carly Briggs          vs   Bronte Murgett       Tue @ 09:00
+     32Q  Elaine Chervinsky     vs   Marina Alcaide       Tue @ 11:00
+     32Q  Carolyn Ansari        vs   Sarah-Maude Fortin   Tue @ 11:00
+     32Q  Shakhnoza Khatamova   vs   Eleni Louka          Tue @ 11:00
+     32Q  Shura Poppe           vs   Solymar Colling      Tue @ 11:00
+     32Q  Sophie Abrams         vs   Sabine Rutlauka      Tue @ 11:00
+     32Q  Morgan Coppoc         vs   Indianna Spink       Tue @ 11:00
 ~~~
 
 Return to the [Top](./women_singles_2140.md) &#124; [Home Page](../../index.md)

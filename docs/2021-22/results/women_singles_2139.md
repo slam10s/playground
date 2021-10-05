@@ -12,12 +12,13 @@
 - 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
 - 10/1/2021 - [Eagles Invitational](#21-42606) ([Results](#21-42606) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternMichiganUnivW/Tournaments/Overview/47B6E347-F9DC-455F-9E51-1E407EB949E4" target="_blank">Draws</a>)  
 - 10/1/2021 - [Florida Division 1 Bedford Cup, Women](#21-60580) ([Results](#21-60580) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthFloridaW/Tournaments/Overview/C3845735-BCB5-44DE-9B50-9FA2F75B1EE9" target="_blank">Draws</a>)  
-- 10/1/2021 - [HEB Invite](#21-50278) ([Results](#21-50278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityW/Tournaments/Overview/DED0835D-381B-47D9-8471-55474B03566B" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Atlantic Women's Regional Championship](#21-03077) ([Results](#21-03077) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/EB66D8AE-2B72-4A34-AF59-E6C67DA9A6D8" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Northeasts Regional Championship](#21-17427) ([Results](#21-17427) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
+- 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/1/2021 - [Utah Invite](#21-47623) ([Results](#21-47623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahW/Tournaments/Overview/7AF1E32C-8707-429F-A3C2-89B494D4EF50" target="_blank">Draws</a>)  
+- 10/1/2021 - [Wolverine Invitational](#21-66025) ([Results](#21-66025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/6AF18612-0DD9-474B-9A98-4C630E99D501" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
@@ -31,12 +32,12 @@
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Division III Women's Midwest ITA Regional Championships</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Division III Women's Northwest ITA Regional Championships</a>  
 - 9/27/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">BU Invitational</a>  
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityW/Tournaments/Overview/DED0835D-381B-47D9-8471-55474B03566B" target="_blank">HEB Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/19C5EAFF-4E4C-4DBD-83F9-4FE76D915740" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Kitty Harrison invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
-- 10/3/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Texas State Play Days</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/6AF18612-0DD9-474B-9A98-4C630E99D501" target="_blank">Wolverine Invitational</a>  
+- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternCarolinaUniversityW/Tournaments/Overview/B2620864-02CA-45C5-97AD-B736DD738210" target="_blank">WCU Fall Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Division III Women's New England ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Junior College Men's and Women's Northern California ITA Regional Championships</a>  
@@ -947,6 +948,24 @@
      16  Eleanor Chapman      def.  Makayla Loubser      75 62
      16  Sasha Dobranos       def.  Sydney Flesch        64 26 [4]
      16  Juliette Talieu      def.  Kate Popova          63 36 [6]
+ > Belmont vs. North Alabama
+  > Main
+     16  Taylor Trondson      def.  Nicole Reilly        75 60
+     16  Peyton Lee           def.  Juliette Talieu      63 26 [6]
+     16  Abigail Solomon      def.  Kalais Going         75 62
+     16  Makayla Loubser      def.  Alyssa Getty         63 62
+     16  Somer Henry          def.  Sydney Flesch        76(4) 64
+     16  Payton Andrews       def.  Lauren Carelli       62 62
+ > Lipscomb vs. Murray State
+  > Main
+     16  Natalie Slezakova    def.  Liza Diachenko       63 60
+     16  Marit Kreugel        def.  Maddox Bandy         62 64
+     16  Annika Pschorr       def.  Anja Trbeznik        61 64
+     16  Tully Richter        def.  Paola Silva Campigo… 75 61
+     16  Sarah Bureau         def.  Kate Popova          60 63
+     16  Sasha Dobranos       def.  Anastassiya Sharapo… 63 67(4) [9]
+     16  Jordina Font Montero def.  Perri Howard         64 61
+     16  Gabrielle Geolier    def.  Eleanor Chapman      64 63
 ~~~
 
 <a name="21-42606"></a>
@@ -981,7 +1000,7 @@
      QF (2) Alexandra Abyasova   def.     Sima Heren           64 63
      QF     Maya Perkucin        def.     Elizaveta Velichko   60 63
   > West
-      F     Mia Melnizki         def.     Sima Heren           62 63
+      F     Sima Heren           def.     Mia Melnizki         62 63
      SF     Mia Melnizki         def.     Laura Cazacu         75 62
      SF     Sima Heren           def.     Elizaveta Velichko   61 64
   > 3-4 Playoff
@@ -1213,7 +1232,6 @@
      16     Lucia Garriguez      def.     Carina Sommer        46 64 [6]
      16     Laia Pasini          def.     Sierra Sandy         76(1) 61
   > North
-      F     jordana ossa          vs      Amber MGinnis        Sun @ 10:00
      SF     jordana ossa         def. (1) Anslee Long          62 26 [8]
      SF     Amber MGinnis        def.     Millie-Mae Matthews  Walkover
      QF (1) Anslee Long          def.     Margriet Timmermans  63 76(1)
@@ -1229,7 +1247,6 @@
      SF     Carina Sommer        def.     Sierra Sandy         60 62
      QF     Claudia Sumaia       def.     Selene Kentish       61 64
   > Southwest
-      F     Daliyah Hammoud       vs      lola glantz          Sun @ 10:00
      SF     Daliyah Hammoud      def.     Adrienne Clayton     62 26 [12]
      SF     lola glantz          def.     Laia Pasini          61 63
   > Northwest
@@ -1254,16 +1271,6 @@
   Dates: Oct 1-3, 2021
   Host: Baylor University (W)
 ═══════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > Thursday Flight A
-  > Main
-     16  Renee McBryde        def.  Khim Iglupas  46 63 [8]
-     16  Jeanette Mireles     def.  Parker Fry    62 63
-     16  Salma Ziouti         def.  Ellie Pittman 75 57 [8]
-     16  Isa Di Laura         def.  Kayla Meraz   76(4) 46 [3]
-     16  Mary Grace Armistead def.  Kayal Gownder 76(4) 75
-     16  Belen Nevenhoven     def.  Elise Robbins 75 63
-     16  Kirsten Prelle       def.  Olivia Malm   61 64
 ~~~
 
 <a name="21-03077"></a>
@@ -1351,8 +1358,6 @@
      128      Ellen Shanahan       def.      Kate Lee             36 76(2) Ret.
      128      Nadia Pegram         def.      Fabiana Tort-Umpier… 61 64
   > Consolation
-      QF      Jordan Grayson        vs       Viva Laas            Sun @ 10:00
-      QF      Oluwayemisi Ifederu   vs       Deanna Lasorda       Sun @ 09:00
       16      Alexandra Vesikallio def.      Ameilia Lawson       Walkover
       16      Sylvia Eklund        def.      Savanna Crowell      62 60
       16      Jordan Grayson       def.      Sarah Pospischill    Walkover
@@ -1459,7 +1464,7 @@
  > Back draw 1
   > Main
      128      Jutte Van Hansewyck  def.      Micaela Ode Mitre    64 06 [8]
-     128      Rieke Gillar         def.      Camryn McClure       64 61
+     128      Camryn McClure       def.      Rieke Gillar         64 61
      128      Michelle Los Arcos   def.      Sara Salemyr         57 64 [4]
      128      Nicole Kiefer        def.      Maria Saez           75 62
      128      Liz Stefancic        def.      Tamara Barad Itzaki  75 46 [9]
@@ -1506,6 +1511,14 @@
  Women's Open Singles
  > Draw
   > Main
+      16  (1) Jennifer Kerr        def.  (9) Rena Lin             75 46 [7]
+      16 (17) Mouna Bouzgarrou     def.  (1) Mirabelle Bretkelly  63 46 [8]
+      16  (1) Rachel Arbitman      def.  (9) Michelle Kleynerman  64 64
+      16  (1) Natasha Irani        def.  (9) Julia Haynes         26 63 [7]
+      16  (1) Sasha Wood           def.  (9) Holly Fischer        26 64 [6]
+      16      IVETA DAUJOTAITE     def.  (9) Chidimma Okpara      64 75
+      16  (9) Polina Akimova       def. (17) Erica Di Battista    62 46 [3]
+      16  (1) Caroline Dunleavy    def.      Angel You            61 76(3)
       32  (1) Jennifer Kerr        def. (17) Sophia Reddy         64 62
       32  (9) Rena Lin             def.      Erin Chratian        60 62
       32  (1) Mirabelle Bretkelly  def. (17) Julieanne Bou        63 62
@@ -1853,6 +1866,72 @@
      R1     Alexandra Ferreira … def.     Balsen Kaya          76(4) 63
 ~~~
 
+<a name="21-09694"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Texas State Play Days
+  Dates: Oct 3-4, 2021
+  Host: Texas State U-San Marcos (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight 1
+  > Main
+     R3  Hana Kvapilova       def.  Lea Karren           60 Ret.
+     R3  Nyah Kauders         def.  Jemileth Aguilar     63 62
+     R2  Nyah Kauders         def.  Lea Karren           62 75
+     R2  Hana Kvapilova       def.  Jemileth Aguilar     61 63
+     R1  Hana Kvapilova       def.  Nyah Kauders         46 61 [5]
+     R1  Jemileth Aguilar     def.  Lea Karren           46 75 [5]
+ > Flight 2
+  > Main
+     R3  Paula Cerda          def.  Marjorie Souza       36 63 [8]
+     R3  Martha Makantasi     def.  Rishona Israel-Lewis 76(8) 64
+     R2  Rishona Israel-Lewis def.  Marjorie Souza       60 63
+     R2  Martha Makantasi     def.  Paula Cerda          62 75
+     R1  Rishona Israel-Lewis def.  Paula Cerda          64 64
+     R1  Martha Makantasi     def.  Marjorie Souza       46 64 [4]
+ > Flight 3
+  > Main
+     R3  Lucy Furness         def.  Elsa Boisson         63 75
+     R3  Kate Malazonia       def.  Alicia Thal          61 63
+     R2  Kate Malazonia       def.  Elsa Boisson         64 16 [7]
+     R2  Lucy Furness         def.  Alicia Thal          62 62
+     R1  Lucy Furness         def.  Kate Malazonia       36 62 [6]
+     R1  Elsa Boisson         def.  Alicia Thal          61 61
+ > Flight 4
+  > Main
+     R3  Mae McCutcheon       def.  Elise Frigout        76(6) 36 [5]
+     R3  Ana Platisa          def.  Natalia Komar        64 63
+     R2  Elise Frigout        def.  Ana Platisa          57 62 [4]
+     R2  Mae McCutcheon       def.  Natalia Komar        76(1) 62
+     R1  Mae McCutcheon       def.  Ana Platisa          61 63
+     R1  Elise Frigout        def.  Natalia Komar        61 62
+ > Flight 5
+  > Main
+     R3  Elena Bleicher       def.  Valeria Montero      63 61
+     R3  Sofia Fortuno        def.  Celia Vaudiau        61 62
+     R2  Sofia Fortuno        def.  Valeria Montero      63 60
+     R2  Elena Bleicher       def.  Celia Vaudiau        60 62
+     R1  Sofia Fortuno        def.  Elena Bleicher       36 61 [7]
+     R1  Valeria Montero      def.  Celia Vaudiau        64 26 [4]
+ > Flight 6
+  > Main
+     R3  Ainoa Fabre          def.  Rosemary Watanabe    63 61
+     R2  Jadeh Chan           def.  Rosemary Watanabe    63 61
+     R2  Maria Andrea Lora M… def.  Ainoa Fabre          46 76(4) [2]
+     R1  Maria Andrea Lora M… def.  Rosemary Watanabe    62 62
+     R1  Jadeh Chan           def.  Ainoa Fabre          62 63
+ > Flight 7/8
+  > Main
+     R6  Maria Andrea Lora M… def.  Faustine Palatte     61 60
+     R6  Anna Hosking         def.  Kylee Shannon        76(1) 46 [7]
+     R5  Faustine Palatte     def.  Kylee Shannon        61 76(4)
+     R5  Anna Hosking         def.  Chacadyah Israel-Le… 64 61
+     R4  Renata Gonzalez      def.  Anna Hosking         46 63 [9]
+     R2  Renata Gonzalez      def.  Faustine Palatte     46 62 [3]
+     R2  Chacadyah Israel-Le… def.  Hadley Jones         64 36 [8]
+~~~
+
 <a name="21-47623"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -1905,6 +1984,75 @@
      32  Nadja Straehle   def.  BROOKE DEMERATH     64 60
 ~~~
 
+<a name="21-66025"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  Wolverine Invitational
+  Dates: Oct 1-3, 2021
+  Host: University Of Michigan (W)
+══════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Friday Singles
+  > Main
+     R1  Lauren Lemonds       def.  Meghan Coleman       62 61
+     R1  Lucia Marzal         def.  Ana Cruz             64 64
+     R1  Shelly Bereznyak     def.  Elise Mills          62 61
+     R1  Misa Malkin          def.  Madeline Atway       64 64
+     R1  Lindsay Tulenko      def.  Lina Ali             62 64
+     R1  Charlotte Gisclon    def.  Katherine Bellia     62 62
+     R1  Page Freeman         def.  Mary Lewis           63 76(2)
+     R1  Maja Pietrowicz      def.  Julia Lilien         62 62
+     R1  Anca Craciun         def.  Kiana Rizzolo        61 60
+     R1  Cali Jankowski       def.  Jaedan Brown         64 63
+     R1  Merri Kelly          def.  Ana Karen Guadiana   64 62
+     R1  Julia Fliegner       def.  Lindsey Zieglar      46 61 62
+     R1  Andrea Cerdan        def.  Marianna Argyrokast… 76(4) 16 64
+     R1  Domenika Turkovic    def.  Karin Hamilton       62 60
+ > Saturday morning singles
+  > Main
+     R1  Mary Lewis           def.  Lindsey Zieglar      62 63
+     R1  Ana Karen Guadiana   def.  Maja Pietrowicz      57 75 60
+     R1  Kiana Rizzolo        def.  Lauren Lemonds       64 61
+     R1  Karin Hamilton       def.  Charlotte Gisclon    46 62 63
+     R1  Cali Jankowski       def.  Lucia Marzal         76(5) 64
+     R1  Madeline Atway       def.  Meghan Coleman       64 61
+     R1  Jaedan Brown         def.  Misa Malkin          60 62
+     R1  Julia Fliegner       def.  Lindsay Tulenko      60 62
+     R1  Ana Cruz             def.  Merri Kelly          46 64 62
+     R1  Elise Mills          def.  Anca Craciun         62 60
+     R1  Lina Ali             def.  Katherine Bellia     16 62 62
+     R1  Page Freeman         def.  Nicole Hammond       64 26 62
+     R1  Andrea Cerdan        def.  Julia Lilien         62 64
+ > Saturday Afternoon Singles
+  > Main
+     R1  Cali Jankowski       def.  Ana Cruz             63 63
+     R1  Marianna Argyrokast… def.  Elise Mills          62 26 63
+     R1  Domenika Turkovic    def.  Lindsay Tulenko      64 67(4) 62
+     R1  Maja Pietrowicz      def.  Lucia Marzal         64 Ret.
+     R1  Meghan Coleman       def.  Kiana Rizzolo        64 46 63
+     R1  Karin Hamilton       def.  Katherine Bellia     63 62
+     R1  Mary Lewis           def.  Jaedan Brown         46 63 62
+     R1  Julia Fliegner       def.  Lauren Lemonds       61 61
+     R1  Madeline Atway       def.  Anca Craciun         64 62
+     R1  Page Freeman         def.  Lindsey Zieglar      62 62
+     R1  Julia Lilien         def.  Ana Karen Guadiana   63 64
+     R1  Misa Malkin          def.  Lina Ali             61 63
+ > Sunday Singles
+  > Main
+     R1  Madeline Atway       def.  Charlotte Gisclon    61 64
+     R1  Maja Pietrowicz      def.  Lina Ali             76(5) 62
+     R1  Julia Fliegner       def.  Page Freeman         75 63
+     R1  Jaedan Brown         def.  Julia Lilien         61 63
+     R1  Elise Mills          def.  Lindsey Zieglar      57 64 [7]
+     R1  Misa Malkin          def.  Ana Karen Guadiana   76(4) 67(5) [1]
+     R1  Ana Cruz             def.  Kiana Rizzolo        60 62
+     R1  Lindsay Tulenko      def.  Karin Hamilton       64 62
+     R1  Nicole Hammond       def.  Cali Jankowski       16 62 63
+     R1  Marianna Argyrokast… def.  Meghan Coleman       60 64
+     R1  Lauren Lemonds       def.  Katherine Bellia     61 62
+     R1  Domenika Turkovic    def.  Merri Kelly          Walkover
+~~~
+
 <a name="21-35169"></a>
 ~~~
 ═════════════════════════════════════════════════════════════════════════════════
@@ -1915,7 +2063,7 @@
  Women's Open Singles
  > Main Draw A
   > Main
-       F  (1) Mae Canete            vs  (11) Christine Canete     Sun @ 12:00
+       F  (1) Mae Canete           def. (11) Christine Canete     64 75
       SF  (1) Mae Canete           def. (12) Grace Chadick        60 61
       SF (11) Christine Canete     def.  (2) Adel Abidulina       75 62
       QF  (1) Mae Canete           def.  (8) Melisa Becerra       60 61
@@ -2012,7 +2160,8 @@
      32Q      Aleksandra Kistanova def.      Allison Carpenter    57 76(3) [5]
  > Main Draw B
   > Main
-      SF  (1) Claudia Iglesias Ig…  vs       Angela Per Moreno    Sun @ 09:00
+       F  (2) Vanessa Cozamanis    def.  (1) Claudia Iglesias Ig… 76(4) 26 [9]
+      SF  (1) Claudia Iglesias Ig… def.      Angela Per Moreno    62 62
       SF  (2) Vanessa Cozamanis    def.  (5) Lindy Carpenter      Walkover
       QF  (1) Claudia Iglesias Ig… def.      Jing Yang            62 36 [5]
       QF      Angela Per Moreno    def.  (3) Georgia Hosking      31 Ret.
@@ -2183,7 +2332,7 @@
  Women's Open Singles
  > Flight B
   > Main
-       F (3) Crystal Juan          vs      Riti Agarwal         Sun @ 11:30
+       F (3) Crystal Juan         def.     Riti Agarwal         63 64
       SF (3) Crystal Juan         def.     Yoyo Benchetrit      64 60
       SF     Riti Agarwal         def.     Olivia Desso         63 62
       QF     Yoyo Benchetrit      def.     Christine OBrien     62 61
@@ -2264,7 +2413,7 @@
       32     Amelia Poor          def.     Alexis Golin         57 62 [7]
       32 (2) Audrey Yoon          def.     Brennan Foreman      60 61
   > Consolation
-       F     Marissa Markey        vs      Alexis Golin         Sun @ 10:30
+       F     Alexis Golin         def.     Marissa Markey       64 63
       SF     Marissa Markey       def.     Anna Tifrea          63 62
       SF     Alexis Golin         def.     Janie Marcus         Walkover
       QF     Anna Tifrea          def.     Aliya Allyn          36 75 [6]
