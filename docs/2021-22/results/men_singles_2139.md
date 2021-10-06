@@ -1119,7 +1119,6 @@
      256  Alex Martinez        def.  Rafael Iziquierdo L… 63 26 41 Ret.
  > Qualifying Consolation
   > Main
-      64  Bradley Frye          vs   Kyle Frankel         Tue @ 09:00
       64  Magnus Johnson       def.  Alex Brown           60 62
       64  Mark Wallner         def.  Ilgiz Valiev         46 62 75
       64  Conor Gannon         def.  Ronan Jachuck        76(4) 26 62
