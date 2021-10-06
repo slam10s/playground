@@ -163,7 +163,7 @@
       16     Giuliato/Forcano    def. (5) Bermejo/Descarrega  86
       16 (2) Faletto/Bacella     def.     Bracaval/Stroppiana 81
       32 (1) Bandeira/Nery       def.     Kearns/Fonseca      83
-      32     Mack/Carvalho       def.     Martinez/kirkman    87(5)
+      32     Mack/Carvalho       def.     Martinez/Kirkman    87(5)
       32 (5) Brignacca/Golubev   def.     Guariente/Mulas     85
       32     Hasegawa/Carlsten   def.     Paschal/Loerwink    83
       32     Miro/Ekenros        def. (3) Cazaban/Gutierrez   87(6)
@@ -186,7 +186,7 @@
       QF     Le Terrier/Roldan   def. (3) Cazaban/Gutierrez   87(6)
       QF     Buettner/Rodriguez  def.     Feggi/Hertweck      86
       QF     Bucurescu/Baumann   def.     Martinez/Salton     86
-     16Q     Kearns/Fonseca      def.     Martinez/kirkman    Walkover
+     16Q     Kearns/Fonseca      def.     Martinez/Kirkman    Walkover
      16Q     Guariente/Mulas     def.     Paschal/Loerwink    87(5)
      16Q (3) Cazaban/Gutierrez   def.     Nordblom/Pham       Walkover
      16Q     Le Terrier/Roldan   def.     Hartmann/Zehender   86
@@ -227,7 +227,7 @@
      32     Constantino/Nokic    def. (9) Bonacia/Subanovic    82
      32     Can Wijk/Cary        def. (4) Bottino/Cecere       86
      32 (9) Jankulovski/Waterbo… def.     Pudney/Kenzlers      84
-     32 (5) Danielsson/Regner    def.     WINTER/MACMILLIAN    81
+     32 (5) Danielsson/Regner    def.     Winter/Macmillian    81
      32 (9) Brainard/Osap        def.     Blavignat/Bivol      84
      32 (9) Evenson/Sassi        def.     Walcher/Brown        83
      32 (7) Del Granado/Lemken   def.     Crepy/De Negri       82
@@ -243,14 +243,14 @@
      64     Constantino/Nokic    def.     Grosset/Kimaszweski  82
      64     Can Wijk/Cary        def.     Mendoza/Schiltz      84
      64     Pudney/Kenzlers      def.     Hermans/Jonsson      84
-     64     WINTER/MACMILLIAN    def.     Badran/Sreekumar     97
+     64     Winter/Macmillian    def.     Badran/Sreekumar     97
      64     Blavignat/Bivol      def.     Komada/Sergi         86
      64     Walcher/Brown        def.     Day/Lloyd-Evans      83
      64     Crepy/De Negri       def.     Hernandez/Hemmings   98
      64     Schomburg/Friedland  def.     Lopes Polesi/Marche… 85
      64     Janse/Hordijk        def.     Kush/Cabo            83
      64     Gaskin/Murillo       def.     Eldin/Kondou         98(3)
-     64     Malirz/Cizek         def.     DECALUWE/KEANE       85
+     64     Malirz/Cizek         def.     Decaluwe/Keane       85
      64     Oka/Dulganov         def.     Crespo/Makhanya      98(5)
      64     Grasmuck/Maria       def.     Hernandez Gonzalez/… 81
 ~~~
@@ -385,7 +385,7 @@
      16 (9) Rotsaert/Fery        def.     Stewart/Henning      63 64
      16     Reynolds/Lithen      def.     Poling/Rodriguez     26 64 [7]
      16 (9) Siimar/Shelbayh      def.     Hassey/Smith         46 62 [12]
-     16     Malbasic/Hoeyeraal   def.     graziani/zhu         75 63
+     16     Malbasic/Hoeyeraal   def.     Graziani/Zhu         75 63
      16     Zhang/Heller         def. (9) Keremedchiev/Klov-N… 63 64
      16 (9) Hudd/Mitsui          def.     McKennon/Salle       16 63 [5]
      16 (7) Rodesch/Goetz        def.     Ciamarra/Harper      62 64
@@ -397,7 +397,7 @@
      32     Hassey/Smith         def.     Chidekh/Davis        61 62
      32 (9) Siimar/Shelbayh      def.     Junk/Slavic          63 64
      32     Malbasic/Hoeyeraal   def. (4) Torre Martin/Stable  76(1) 46 [4]
-     32     graziani/zhu         def.     Ornberg/Atherton     63 64
+     32     Graziani/Zhu         def.     Ornberg/Atherton     63 64
      32     Zhang/Heller         def.     Jakic/Tonejc         62 63
      32 (9) Keremedchiev/Klov-N… def.     Zink/Hammond         62 76(1)
      32     McKennon/Salle       def.     Paroulek/Brumm       63 63
@@ -420,7 +420,7 @@
      64 (9) Siimar/Shelbayh      def.     Tumosa/Straker-Meads 64 67(5) [8]
      64 (4) Torre Martin/Stable  def.     Valiev/Azoides       46 62 [8]
      64     Malbasic/Hoeyeraal   def.     Acosta/Cierny        Default
-     64     graziani/zhu         def.     Marson/Perego        62 46 [4]
+     64     Graziani/Zhu         def.     Marson/Perego        62 46 [4]
      64     Ornberg/Atherton     def. (9) Coste/Roberto        61 16 [7]
      64     Jakic/Tonejc         def. (5) Diallo/Musitelli     76(4) 75
      64     Zhang/Heller         def.     Bollipalli/Ferguson  76(4) 75
@@ -459,7 +459,7 @@
      QF (2) Huempfner/Stodder    def.     Norwood/Blanchar     64
      16 (1) Duarte/Grinvalds     def.     Bajracharya/Du Preez 62
      16     Hillhouse/Martens    def.     Benoit/Waldow        62
-     16 (3) Sarrio/Robbins       def.     WAYENBURG/GEORGADZE  63
+     16 (3) Sarrio/Robbins       def.     Wayenburg/Georgadze  63
      16     Lopez Cruz/Tryakshin def.     Shoemake/Bencrdic    64
      16     Cizek/Malirz         def.     Del Castillo/Roumpis 64
      16 (4) Patel/Tezuka         def.     Luna/Verlaguet       61
@@ -470,7 +470,7 @@
      SF     Shoemake/Bencrdic    def.     Benoit/Waldow        63
      SF     Cantero/Tsai         def.     Del Castillo/Roumpis 62
      QF     Benoit/Waldow        def.     Bajracharya/Du Preez 64
-     QF     Shoemake/Bencrdic    def.     WAYENBURG/GEORGADZE  63
+     QF     Shoemake/Bencrdic    def.     Wayenburg/Georgadze  63
      QF     Del Castillo/Roumpis def.     Luna/Verlaguet       76(5)
      QF     Cantero/Tsai         def.     Portugal/Judy-Hansen 61
   > North
@@ -480,8 +480,8 @@
   > 3-4 Playoff
       F (1) Duarte/Grinvalds     def. (4) Patel/Tezuka         62
   > South
-      F     WAYENBURG/GEORGADZE  def.     Luna/Verlaguet       64
-     SF     WAYENBURG/GEORGADZE  def.     Bajracharya/Du Preez 64
+      F     Wayenburg/Georgadze  def.     Luna/Verlaguet       64
+     SF     Wayenburg/Georgadze  def.     Bajracharya/Du Preez 64
      SF     Luna/Verlaguet       def.     Portugal/Judy-Hansen 62
   > Southwest
       F     Benoit/Waldow        def.     Del Castillo/Roumpis 60
@@ -504,16 +504,16 @@
      16     Vishnevskiy/Garayev  def.     Jeanne-Grandinot/Jo… 63
      16     Maust/Thomas         def.     Mulas/Jacq           63
      16     Bernard/Llinares     def. (4) Jadoun/Diaz          62
-     16     Murillo/Osap         def.     BARROW/FLYNN         75
+     16     Murillo/Osap         def.     Barrow/Flynn         75
      16     Dobrnjac/Inagawa     def. (2) Lazo/Padilha         76(5)
   > West
       F (3) Botti/Salmeron       def.     Mulas/Jacq           63
      SF (3) Botti/Salmeron       def.     Gedney/Stuart        64
-     SF     Mulas/Jacq           def.     BARROW/FLYNN         76(4)
+     SF     Mulas/Jacq           def.     Barrow/Flynn         76(4)
      QF     Gedney/Stuart        def. (1) Marinescu/Maughan    Walkover
      QF (3) Botti/Salmeron       def.     Jeanne-Grandinot/Jo… Walkover
      QF     Mulas/Jacq           def. (4) Jadoun/Diaz          63
-     QF     BARROW/FLYNN         def. (2) Lazo/Padilha         64
+     QF     Barrow/Flynn         def. (2) Lazo/Padilha         64
   > North
       F     Suk/Dun              def.     Murillo/Osap         64
      SF     Suk/Dun              def.     Brewer/Nunez         61
@@ -524,7 +524,7 @@
      SF     Jeanne-Grandinot/Jo… def. (1) Marinescu/Maughan    Walkover
      SF (2) Lazo/Padilha         def. (4) Jadoun/Diaz          Walkover
   > Southwest
-      F     BARROW/FLYNN         def.     Gedney/Stuart        64
+      F     Barrow/Flynn         def.     Gedney/Stuart        64
   > Northwest
       F     Maust/Thomas         def.     Brewer/Nunez         Walkover
   > Southeast
@@ -535,7 +535,7 @@
      SF     Evenson/Sassi        def. (1) Erramuspe/Rodriguez  64
      SF (3) Andre/Rodriguez      def.     Robinson/Villamizar  62
      QF (1) Erramuspe/Rodriguez  def.     Amier/Amacher        64
-     QF     Evenson/Sassi        def. (4) KRASHIN/MACLEOD      75
+     QF     Evenson/Sassi        def. (4) Krashin/Macleod      75
      QF (3) Andre/Rodriguez      def.     Kim/Tymes            64
      QF     Robinson/Villamizar  def. (2) Mimata/Lee           Walkover
      16     Amier/Amacher        def.     Wade/Zapata          61
@@ -548,7 +548,7 @@
      SF     Fuller/Speranza      def.     Stoica/Veloso        63
   > North
       F     Kim/Tymes            def.     Amier/Amacher        63
-     SF     Amier/Amacher        def. (4) KRASHIN/MACLEOD      Walkover
+     SF     Amier/Amacher        def. (4) Krashin/Macleod      Walkover
      SF     Kim/Tymes            def. (2) Mimata/Lee           Walkover
   > 3-4 Playoff
       F     Robinson/Villamizar  def. (1) Erramuspe/Rodriguez  63
@@ -674,7 +674,7 @@
       32     Birgerson/Calloud    def.     Del Rosario/Orduz   84
       32     Dornbusch/Damgaard   def. (8) Walker/Bellan       86
       32 (5) Pjontek/Earle        def.     Smid/Naraya         82
-      32     Pierola/Reeves       def.     nowak/akoudad       86
+      32     Pierola/Reeves       def.     Nowak/Akoudad       86
       32     Piranomonte/Sanchez  def.     Gonzalez/Ranamane   83
       32 (3) Kearney/Oliveira     def.     Shafer/Plachy       82
       32 (4) Salvan/de Lorenzo    def.     Nickel/Rodrigues    85
@@ -683,7 +683,7 @@
       32 (6) Dos Santos/Jurkovic  def.     Schmit/Cortinas     83
       32 (7) Valkyser/Nikoliuk    def.     Pilotto/Ncube       85
       32     Dicu/Hammes          def.     Jove/Wood           83
-      32     kolaric/penteado     def.     Cowger/Lapoint      85
+      32     Kolaric/Penteado     def.     Cowger/Lapoint      85
       32 (2) Zamurri/Oliva        def.     Docters/Fuerschuss  98(8)
   > Consolation
        F     Docters/Fuerschuss   def.     Del Rosario/Orduz   62
@@ -695,7 +695,7 @@
       QF     Docters/Fuerschuss   def.     Pilotto/Ncube       61
       16     Blanchar/Parzajuk    def. (1) Jans/Bah            Walkover
      16Q     Del Rosario/Orduz    def. (8) Walker/Bellan       Walkover
-     16Q     Smid/Naraya          def.     nowak/akoudad       60
+     16Q     Smid/Naraya          def.     Nowak/Akoudad       60
      16Q     Shafer/Plachy        def.     Gonzalez/Ranamane   62
      16Q     Niethammer/Dreher    def.     Nickel/Rodrigues    Walkover
      16Q     Schmit/Cortinas      def.     Brazet/Fallon       Walkover
@@ -723,19 +723,19 @@
      16 (1) Bohren/Velicki       def.     Weeks/Leischner      85
      16 (8) McDermott/Auzias     def.     Cronau/Wong          84
      16 (3) Davis/Khan           def.     Howe/Lajes           82
-     16 (7) Van Wyk/Hartman      def.     sedeno/gomez gomez   82
+     16 (7) Van Wyk/Hartman      def.     Sedeno/Gomez Gomez   82
      16 (6) Caddies/Smiej        def.     Heinke/Zubieta       82
      16     Pinedo/Caruana       def. (4) Castaneda/Schuster   82
-     16     Hornung/Parsley      def. (5) prokopchuk/rosales … 86
-     16 (2) Nuno/Walter          def.     herrera/solorzano    82
+     16     Hornung/Parsley      def. (5) Prokopchuk/Rosales … 86
+     16 (2) Nuno/Walter          def.     Herrera/Solorzano    82
      32     Weeks/Leischner      def.     Simon/Kodiji         87(3)
      32     Cronau/Wong          def.     Cure/Albrechtsen     85
      32     Howe/Lajes           def.     Large/Tayebi         83
-     32     sedeno/gomez gomez   def.     Ramirez/Schmidt      83
+     32     Sedeno/Gomez Gomez   def.     Ramirez/Schmidt      83
      32     Heinke/Zubieta       def.     Alviz/Elahcene       82
      32     Pinedo/Caruana       def.     Bangert/Wortelmann   82
      32     Hornung/Parsley      def.     Strassburger/Paintal 83
-     32     herrera/solorzano    def.     Greco/de Simon       83
+     32     Herrera/Solorzano    def.     Greco/de Simon       83
   > Consolation
       F     Simon/Kodiji         def.     Bangert/Wortelmann   83
      SF     Simon/Kodiji         def.     Ramirez/Schmidt      84
@@ -743,9 +743,9 @@
      QF     Simon/Kodiji         def.     Cure/Albrechtsen     85
      QF     Ramirez/Schmidt      def.     Large/Tayebi         86
      QF     Bangert/Wortelmann   def.     Alviz/Elahcene       Walkover
-     QF     Greco/de Simon       def. (5) prokopchuk/rosales … Walkover
+     QF     Greco/de Simon       def. (5) Prokopchuk/Rosales … Walkover
      16     Bangert/Wortelmann   def. (4) Castaneda/Schuster   Walkover
-     16 (5) prokopchuk/rosales … def.     Strassburger/Paintal Walkover
+     16 (5) Prokopchuk/Rosales … def.     Strassburger/Paintal Walkover
 ~~~
 
 <a name="21-08149"></a>
@@ -1016,10 +1016,10 @@
  > PSAC Men's Doubles
   > Main
       F (2) Yanni/Martinez    def.     Palombarini/Sabio   86
-     SF     Palombarini/Sabio def.     jaunmarti/Clary     86
+     SF     Palombarini/Sabio def.     Jaunmarti/Clary     86
      SF (2) Yanni/Martinez    def.     Arizpe/Barcelo      81
      QF     Palombarini/Sabio def. (1) Akinpetide/Jankovic 86
-     QF     jaunmarti/Clary   def.     Martins/Dorval      83
+     QF     Jaunmarti/Clary   def.     Martins/Dorval      83
      QF     Arizpe/Barcelo    def.     Cox/Cramer          82
      QF (2) Yanni/Martinez    def.     Cashin/Weber        81
 ~~~

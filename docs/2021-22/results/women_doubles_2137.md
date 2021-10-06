@@ -230,7 +230,7 @@
       F  Antonijevic/Kizelba… def.  Zlatanovic/Potsi     87(5)
      SF  Antonijevic/Kizelba… def.  Czerwonka/Czerwonka  84
      SF  Zlatanovic/Potsi     def.  Maletin/Hailey       85
-     QF  Antonijevic/Kizelba… def.  spencer/Perez        85
+     QF  Antonijevic/Kizelba… def.  Spencer/Perez        85
      QF  Czerwonka/Czerwonka  def.  Weise/Desmarais      85
      QF  Maletin/Hailey       def.  Drazic/Pukhaeva      82
      QF  Zlatanovic/Potsi     def.  Grubb/Rivera         84
@@ -238,8 +238,8 @@
       F  Maletin/Hailey       def.  Czerwonka/Czerwonka  86
  > Flight 1 - Back Draw
   > Main
-      F  Grubb/Rivera         def.  spencer/Perez        84
-     SF  spencer/Perez        def.  Weise/Desmarais      81
+      F  Grubb/Rivera         def.  Spencer/Perez        84
+     SF  Spencer/Perez        def.  Weise/Desmarais      81
      SF  Grubb/Rivera         def.  Drazic/Pukhaeva      84
   > Playoff 3-4
       F  Weise/Desmarais      def.  Drazic/Pukhaeva      87(4)
@@ -266,7 +266,7 @@
      SF  Abyasova/Fitzgerald  def.  Nobbs/Martin         87(5)
      QF  Guo/Mikos            def.  Perlwitz/Lojpur      85
      QF  Borodina/Morgoshia   def.  Kaiser/Ferdman       83
-     QF  Abyasova/Fitzgerald  def.  Stefan/barloe        84
+     QF  Abyasova/Fitzgerald  def.  Stefan/Barloe        84
      QF  Nobbs/Martin         def.  Tabanera/Schoolcraft 81
   > Playoff 3-4
       F  Nobbs/Martin         def.  Borodina/Morgoshia   Walkover
@@ -284,15 +284,15 @@
      SF  O Flaherty/Yuan      def.  Tsang/Geller         83
      QF  Park/Lee             def.  Marjanovic/Martinez  82
      QF  Rand/Jankulovska     def.  Dukic/Andres         82
-     QF  Tsang/Geller         def.  Cheema/sexton        84
+     QF  Tsang/Geller         def.  Cheema/Sexton        84
      QF  O Flaherty/Yuan      def.  McConnell/Jhaveri    87(3)
  > Flight 4 - Back Draw
   > Main
       F  McConnell/Jhaveri    def.  Dukic/Andres         86
      SF  Dukic/Andres         def.  Marjanovic/Martinez  83
-     SF  McConnell/Jhaveri    def.  Cheema/sexton        84
+     SF  McConnell/Jhaveri    def.  Cheema/Sexton        84
   > Playoff 3-4
-      F  Cheema/sexton        def.  Marjanovic/Martinez  85
+      F  Cheema/Sexton        def.  Marjanovic/Martinez  85
  > Flight 4 - 1st Round
   > Main
      SF  Park/Lee             def.  Badawi/Hopman        84
@@ -308,9 +308,9 @@
   > Main
       F  Kaiser/Ferdman       def.  Tabanera/Schoolcraft 85
      SF  Kaiser/Ferdman       def.  Perlwitz/Lojpur      86
-     SF  Tabanera/Schoolcraft def.  Stefan/barloe        80
+     SF  Tabanera/Schoolcraft def.  Stefan/Barloe        80
   > Playoff 3-4
-      F  Perlwitz/Lojpur      def.  Stefan/barloe        83
+      F  Perlwitz/Lojpur      def.  Stefan/Barloe        83
  > Flight 2 - Semifinal#2
   > Main
       F  Yergler/Jovicic      def.  Kovacs/Bezmenova     82
@@ -499,7 +499,7 @@
       QF (2) Carofano/Yamagachi   def.     Gilman/Fraile Raton  83
       16 (1) Hernandez/Griva      def.     Tsuen/Raslan         83
       16     Koua/Ranjan          def.     Spinazze/Wagner      82
-      16     Sole/Malpass         def. (4) cupper/lisson        85
+      16     Sole/Malpass         def. (4) Cupper/Lisson        85
       16     Hadler/Resor         def.     Rittel/Chawner       84
       16     Brito/Pereyra        def.     Hanover/Huang        86
       16     Uzcategui/Dizon      def. (3) Laverdiere/Martin G… 83
@@ -507,11 +507,11 @@
       16 (2) Carofano/Yamagachi   def.     Gamborino/Sanchez    82
   > Consolation
        F     Spinazze/Wagner      def.     Hanover/Huang        82
-      SF     Spinazze/Wagner      def. (4) cupper/lisson        82
+      SF     Spinazze/Wagner      def. (4) Cupper/Lisson        82
       SF     Hanover/Huang        def.     Gamborino/Sanchez    86
       QF     Gamborino/Sanchez    def.     Gilman/Fraile Raton  83
       QQ     Spinazze/Wagner      def.     Tsuen/Raslan         97
-      QQ (4) cupper/lisson        def.     Rittel/Chawner       86
+      QQ (4) Cupper/Lisson        def.     Rittel/Chawner       86
       QQ     Hanover/Huang        def. (3) Laverdiere/Martin G… 83
       QQ     Gamborino/Sanchez    def.     Trystan/Platisota    Walkover
  > Draw A Doubles
@@ -530,7 +530,7 @@
       16     Stephenson/Waller    def.     Griva/Barrett        86
       16 (3) Solnyshkina/Sharono… def.     Baigorria/Whip       80
       16     Cabrera/Ballesteros  def. (6) Nolan/Klak           85
-      16     Shumilova/Coetzee    def.     orlove/velazquez     98(3)
+      16     Shumilova/Coetzee    def.     Orlove/Velazquez     98(3)
       32 (1) Novikova/Dunlap      def.     Lopez/Kintscher      83
       32     Neves/Dzenga         def.     Hills/Sueflohn       85
       32 (8) Salenko/Smith        def.     Ballach/Opalewski    84
@@ -545,7 +545,7 @@
       32 (3) Solnyshkina/Sharono… def.     Schrepferman/Bucco … 80
       32     Cabrera/Ballesteros  def.     Padberg/Beidacki     81
       32 (6) Nolan/Klak           def.     Skjelstad/Mokhasi    82
-      32     orlove/velazquez     def.     Kuehnle/Eremina      85
+      32     Orlove/Velazquez     def.     Kuehnle/Eremina      85
       32     Shumilova/Coetzee    def. (2) Zafeiri/Reisch       97
   > Consolation
        F     Kuehnle/Eremina      def.     Leko/Canellopolous   86
@@ -758,10 +758,10 @@
      QF  Fernandez/Genovese def.  Mesa/Tsuji           80
      QF  Lysykh/Pichler     def.  Blinouskaya/Kakkar   82
      16  Kurz/Mendoza       def.  Romero/Guaglianone   85
-     16  Gallman/Espinosa   def.  STANDING/Le Roux     86
+     16  Gallman/Espinosa   def.  Standing/Le Roux     86
      16  Gilich/Fernandez   def.  Brunzlow/Scobernatti 81
      16  Fernandez/Genovese def.  Benjumeda/Alvarez    84
-     16  Mesa/Tsuji         def.  KRUGER/Nelson        81
+     16  Mesa/Tsuji         def.  Kruger/Nelson        81
      16  Blinouskaya/Kakkar def.  Herrera/McKenzie     80
      16  Lysykh/Pichler     def.  Canadas/Piquero      80
 ~~~
@@ -782,23 +782,23 @@
      QF (1) Quiceno/Petit        def. (6) Mladenovic/Rachdano… 81
      QF (5) Bueno/Rojas          def.     Sposetti Ponzetti/C… Default
      QF (7) Mendoza/Espinoza     def. (3) Fros/Nagao           83
-     QF (2) Mora/Parra           def. (8) ferguson/montori     83
+     QF (2) Mora/Parra           def. (8) Ferguson/Montori     83
      16 (1) Quiceno/Petit        def.     Hill/Mitchell        81
      16 (6) Mladenovic/Rachdano… def.     Beckmann/Mitani      87(1)
      16     Sposetti Ponzetti/C… def. (4) Jovic/Viljoen        87(3)
      16 (5) Bueno/Rojas          def.     Saner/Ziebro         81
      16 (7) Mendoza/Espinoza     def.     Ortega/Sullivan      82
      16 (3) Fros/Nagao           def.     Hernandez/Beckmann   84
-     16 (8) ferguson/montori     def.     ferguson/forero      81
+     16 (8) Ferguson/Montori     def.     Ferguson/Forero      81
      16 (2) Mora/Parra           def.     Gray/Rae             83
      32     Hill/Mitchell        def.     Martinez Garcia/Sch… 81
      32     Beckmann/Mitani      def.     Rodenas/Arteaga      82
-     32     Sposetti Ponzetti/C… def.     prince/moore         84
+     32     Sposetti Ponzetti/C… def.     Prince/Moore         84
      32     Saner/Ziebro         def.     Pearce/Rodriquez     80
      32     Ortega/Sullivan      def.     Dunman/Leonard       80
      32     Hernandez/Beckmann   def.     Martin/Coradi        82
-     32     ferguson/forero      def.     Dail/Sabga           87(1)
-     32 (8) ferguson/montori     def.     Barrett/Light        82
+     32     Ferguson/Forero      def.     Dail/Sabga           87(1)
+     32 (8) Ferguson/Montori     def.     Barrett/Light        82
      32     Gray/Rae             def.     Enarson/Kennedy      85
 ~~~
 

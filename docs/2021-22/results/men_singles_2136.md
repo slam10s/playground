@@ -31,7 +31,7 @@
   > Main
      32  Trey Hilderbrand   def.  Ben Shelton        57 64 64
      32  Blaise Bicknell    def.  Kento Yamada       46 76(2) 64
-     32  Mattias Siimar     def.  JC Roddick         63 64
+     32  Mattias Siimar     def.  Jc Roddick         63 64
      32  Andres Andrade     def.  Bryan Triana       63 63
      32  Abedallah Shelbayh def.  Bogdan Pavel       63 36 62
      32  Joshua Goodger     def.  Cooper White       61 62
@@ -57,7 +57,7 @@
      32  Daniel Rodrigues   def.  Trey Hilderbrand   64 26 76(6)
      32  Connor Thomson     def.  Bogdan Pavel       63 62
      32  Raphael Lambling   def.  Bryan Triana       61 62
-     32  JC Roddick         def.  Jake Beasley       76(5) 64
+     32  Jc Roddick         def.  Jake Beasley       76(5) 64
      32  James Story        def.  Cooper White       63 61
      32  Quinn Synder       def.  Carter Morgan      76(4) 64
  > Day Three Matches
@@ -71,7 +71,7 @@
      32  Robin Catry        def.  Trey Hilderbrand   62 61
      32  Braden Shick       def.  Kento Yamada       46 63 41 Ret.
      32  Martins Rocens     def.  Bogdan Pavel       46 63 62
-     32  JC Roddick         def.  Damien Salvestre   75 62
+     32  Jc Roddick         def.  Damien Salvestre   75 62
      32  Fons Van Sambeek   def.  Bryan Triana       76(1) 64
      32  Quinn Synder       def.  Joseph Schrader    61 64
      32  Cooper White       def.  Collin Shick       62 62
@@ -571,46 +571,46 @@
      SF  Florian Walcher     def.  Marc Janse          63 62
      QF  Marko Sudar         def.  Xaveam Can Wijk     63 26 [6]
      QF  Marnix Van Dalen    def.  Gabriel Constantino 64 61
-     QF  Florian Walcher     def.  ISAAC MACMILLIAN    61 63
+     QF  Florian Walcher     def.  Isaac Macmillian    61 63
      QF  Marc Janse          def.  Alex Turner         64 63
   > West
-      F  Gabriel Constantino def.  ISAAC MACMILLIAN    62 75
+      F  Gabriel Constantino def.  Isaac Macmillian    62 75
      SF  Gabriel Constantino def.  Xaveam Can Wijk     61 63
-     SF  ISAAC MACMILLIAN    def.  Alex Turner         64 57 [3]
+     SF  Isaac Macmillian    def.  Alex Turner         64 57 [3]
   > 3-4 Playoff
       F  Marc Janse          def.  Marko Sudar         61 60
   > South
       F  Xaveam Can Wijk     def.  Alex Turner         76(5) 61
  > Red
   > East
-     SF  Luka Brown          def.  SEANE KEANE         64 75
+     SF  Luka Brown          def.  Seane Keane         64 75
      SF  Edis Nokic          def.  Matthew Orozco      60 61
      QF  Luka Brown          def.  Elijah Buerkle      60 61
-     QF  SEANE KEANE         def.  Paul Dekester       76(5) 36 [7]
-     QF  Matthew Orozco      def.  THIBEAULT DECALUWE  36 63 [5]
+     QF  Seane Keane         def.  Paul Dekester       76(5) 36 [7]
+     QF  Matthew Orozco      def.  Thibeault Decaluwe  36 63 [5]
      QF  Edis Nokic          def.  Rintaro Oka         63 63
   > West
-      F  THIBEAULT DECALUWE  def.  Elijah Buerkle      63 61
+      F  Thibeault Decaluwe  def.  Elijah Buerkle      63 61
      SF  Elijah Buerkle      def.  Paul Dekester       61 36 [6]
-     SF  THIBEAULT DECALUWE  def.  Rintaro Oka         63 64
+     SF  Thibeault Decaluwe  def.  Rintaro Oka         63 64
   > 3-4 Playoff
-      F  SEANE KEANE         def.  Matthew Orozco      64 60
+      F  Seane Keane         def.  Matthew Orozco      64 60
   > South
       F  Rintaro Oka         def.  Paul Dekester       75 62
  > Green
   > East
-     SF  Tolunay Sumer       def.  NOLAN SMITH         62 63
+     SF  Tolunay Sumer       def.  Nolan Smith         62 63
      SF  Federico Spinetta   def.  Ids Waterbolk       62 67(4) [8]
-     QF  NOLAN SMITH         def.  Kane Elkin          63 60
+     QF  Nolan Smith         def.  Kane Elkin          63 60
      QF  Tolunay Sumer       def.  Pedro Knippling     60 61
      QF  Ids Waterbolk       def.  Marco Garofalo      61 60
-     QF  Federico Spinetta   def.  SAMUEL WINTER       64 62
+     QF  Federico Spinetta   def.  Samuel Winter       64 62
   > West
-      F  SAMUEL WINTER       def.  Kane Elkin          60 61
+      F  Samuel Winter       def.  Kane Elkin          60 61
      SF  Kane Elkin          def.  Pedro Knippling     62 62
-     SF  SAMUEL WINTER       def.  Marco Garofalo      60 44 Ret.
+     SF  Samuel Winter       def.  Marco Garofalo      60 44 Ret.
   > 3-4 Playoff
-      F  Ids Waterbolk       def.  NOLAN SMITH         63 63
+      F  Ids Waterbolk       def.  Nolan Smith         63 63
   > South
       F  Pedro Knippling     def.  Marco Garofalo      43 Ret.
  > Purple
@@ -619,13 +619,13 @@
      SF  Matteo Gostoli      def.  Patrick Arapi       36 60 [8]
      SF  Richard Dulganov    def.  Hugo Nossler        46 75 [7]
      QF  Patrick Arapi       def.  Luca Ricciardi      61 61
-     QF  Matteo Gostoli      def.  BRADLEY BOMAR       60 61
+     QF  Matteo Gostoli      def.  Bradley Bomar       60 61
      QF  Hugo Nossler        def.  Sebastian Zabala    64 63
-     QF  Richard Dulganov    def.  MITCHELL DAVIES     61 61
+     QF  Richard Dulganov    def.  Mitchell Davies     61 61
   > West
-      F  Sebastian Zabala    def.  BRADLEY BOMAR       63 62
-     SF  BRADLEY BOMAR       def.  Luca Ricciardi      63 63
-     SF  Sebastian Zabala    def.  MITCHELL DAVIES     61 42 Ret.
+      F  Sebastian Zabala    def.  Bradley Bomar       63 62
+     SF  Bradley Bomar       def.  Luca Ricciardi      63 63
+     SF  Sebastian Zabala    def.  Mitchell Davies     61 42 Ret.
  > Orange
   > Main
      R3  Tyler Juergens      def.  Lars Hordijk        61 63

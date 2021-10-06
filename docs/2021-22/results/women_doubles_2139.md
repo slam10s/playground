@@ -55,7 +55,7 @@
  Women's Open Doubles
  > HV vs BU
   > Main
-     QF  DAUJOTAITE/Duncan def.  Di Battista/Carlsten 64
+     QF  Daujotaite/Duncan def.  Di Battista/Carlsten 64
      QF  Yaloz/Tan         def.  Lim/You              61
      QF  Fischer/Arbitman  def.  Kleynerman/Kostirko  62
      QF  Nguyen/Sharma     def.  Snyder/Marculescu    64
@@ -133,14 +133,14 @@
       QF (5) Farfan/Moosbacher    def. (1) Groth/Borg           86
       QF (5) Kozar/Dovnik         def.     Mautner/Tripaldelli  82
       QF (4) Franco/Garza         def.     Recuenco/Wagner      85
-      QF (2) Espinal/Nosievici    def.     Engelmann/leweurs    87(1)
+      QF (2) Espinal/Nosievici    def.     Engelmann/Leweurs    87(1)
       16 (1) Groth/Borg           def.     Arevalo/Ly           82
       16 (5) Farfan/Moosbacher    def.     Bihel/Wagner         85
       16     Mautner/Tripaldelli  def.     Dirr/Ozzor           81
       16 (5) Kozar/Dovnik         def.     Furmaniak/Ermann     81
       16     Recuenco/Wagner      def. (5) Lancellotti/Vicens … 85
       16 (4) Franco/Garza         def.     Grib/Roquebert       Walkover
-      16     Engelmann/leweurs    def.     Vetter/Vidgren       85
+      16     Engelmann/Leweurs    def.     Vetter/Vidgren       85
       16 (2) Espinal/Nosievici    def.     Cibakova/Pigato      81
       32 (1) Groth/Borg           def.     Misdorp/Chavarria    80
       32     Arevalo/Ly           def.     Edstrom/Weindl       82
@@ -154,7 +154,7 @@
       32 (5) Lancellotti/Vicens … def.     Subias/Pepe          81
       32     Grib/Roquebert       def.     Jagger/Kwasnik       80
       32 (4) Franco/Garza         def.     Williams/Robichaud   81
-      32     Engelmann/leweurs    def.     Kohoutkova/Tuells B… 81
+      32     Engelmann/Leweurs    def.     Kohoutkova/Tuells B… 81
       32     Vetter/Vidgren       def. (5) Amaro/Garcia         81
       32     Cibakova/Pigato      def.     Blanco Fernandez De… 82
       32 (2) Espinal/Nosievici    def.     Turro/Hartlohner     84
@@ -210,14 +210,14 @@
      32 (9) Markvartova/Villanu… def.     Martincova/Karatant… 82
      32 (9) Voloshyna/Weber      def.     Vaughan/Peterson     85
      32 (7) Hrda/Rosberg         def.     Kharb/Aguirre        80
-     32 (9) Richter/Fleming      def.     BINZARI/MACIAS       86
+     32 (9) Richter/Fleming      def.     Binzari/Macias       86
      32 (3) Jorge/Lippert        def.     Harfield/Griffiths   84
      32 (9) Castaneda/Gonzalez   def.     Castillon/Ghosh      82
      32 (5) Ciaccia/Gunfaus      def.     Resende/Ulloa        83
      32     Shing/Bowie          def. (9) Jacobs/Valtere       97
      32 (2) Schlagenhauf/Traub   def.     Kosmrlj/Lopez        84
      64     Robeson/Greer        def.     Hendricks/Aranyos    82
-     64     Reeves/Speiser       def.     HEED/KRIEG           83
+     64     Reeves/Speiser       def.     Heed/Krieg           83
      64     Baechler/Loretz      def.     Maher/Kronsbein      84
      64     Schipper/Montserrat  def.     Batth/King           85
      64     Axelsson/Veselinova  def.     Ferenczy/Bentz       82
@@ -226,7 +226,7 @@
      64     Martincova/Karatant… def.     Southwick/Luiz       97
      64     Vaughan/Peterson     def.     Guerrero/Chistov     84
      64     Kharb/Aguirre        def.     Ratiu/Dong           84
-     64     BINZARI/MACIAS       def.     Labonte-Frey/Teteri… 86
+     64     Binzari/Macias       def.     Labonte-Frey/Teteri… 86
      64     Harfield/Griffiths   def.     Menyhart/Mitso       83
      64     Castillon/Ghosh      def.     Kotsiou/Croes        82
      64     Resende/Ulloa        def.     Wahlberg/Whelan      97
@@ -291,7 +291,7 @@
       16  Alvarez/Glaves       def.  Courdi/Saez-Raez     86
       16  Shchoma/Valencia Gu… def.  Alvarez/Hull         81
       16  Cabral/Zanotti       def.  Budin/Theodora       81
-      16  Agarwal/Singh        def.  chikhalenko/Capofer… 83
+      16  Agarwal/Singh        def.  Chikhalenko/Capofer… 83
       16  Lancaster/Martin Lo… def.  Abramowitz/Then      82
       32  Chen/Osborne         def.  Loader/Beynon        97
       32  Long/Hutton          def.  Nguyen/Sprout        85
@@ -302,14 +302,14 @@
   > Consolation
        F  Budin/Theodora       def.  Nguyen/Sprout        82
       SF  Nguyen/Sprout        def.  Riecken/Toth         83
-      SF  Budin/Theodora       def.  chikhalenko/Capofer… 82
+      SF  Budin/Theodora       def.  Chikhalenko/Capofer… 82
       QF  Riecken/Toth         def.  Loader/Beynon        85
       QF  Nguyen/Sprout        def.  Toothman/Ladan       98(2)
       QF  Budin/Theodora       def.  Alvarez/Hull         Walkover
-      QF  chikhalenko/Capofer… def.  Montero/Reed         Walkover
+      QF  Chikhalenko/Capofer… def.  Montero/Reed         Walkover
       16  Toothman/Ladan       def.  Courdi/Saez-Raez     Walkover
       16  Budin/Theodora       def.  Cevera/Nadai         80
-      16  chikhalenko/Capofer… def.  Lerario dos Santos/… 86
+      16  Chikhalenko/Capofer… def.  Lerario dos Santos/… 86
 ~~~
 
 <a name="21-51444"></a>
@@ -513,12 +513,12 @@
      SF (1) Spee/Shelton         def. (3) Sharma/Mattel        61
      SF     Bekrar/Kabbaj        def.     Berry/Boy            76(4)
      QF (1) Spee/Shelton         def.     Filip/Schieroni      63
-     QF (3) Sharma/Mattel        def.     Bardet/ferding       62
+     QF (3) Sharma/Mattel        def.     Bardet/Ferding       62
      QF     Bekrar/Kabbaj        def. (4) De Oliveira/Dudeney  62
      QF     Berry/Boy            def. (2) Leslie/Christians    64
      16     Filip/Schieroni      def.     Umarova/Skrobonja    63
      16 (3) Sharma/Mattel        def.     Hubeaut/Sandy        60
-     16     Bardet/ferding       def.     Eland/Shumacher      62
+     16     Bardet/Ferding       def.     Eland/Shumacher      62
      16     Bekrar/Kabbaj        def.     Kudelova/MGinnis     64
      16 (4) De Oliveira/Dudeney  def.     Davis/Yardley        61
      16     Berry/Boy            def.     Cohen/Dovgopolyi     62
@@ -529,22 +529,22 @@
      QF     Eland/Shumacher      def.     Hubeaut/Sandy        62
      QF     Kudelova/MGinnis     def.     Davis/Yardley        63
   > North
-     SF     Filip/Schieroni      def.     Bardet/ferding       Walkover
+     SF     Filip/Schieroni      def.     Bardet/Ferding       Walkover
      SF (4) De Oliveira/Dudeney  def. (2) Leslie/Christians    63
   > South
       F     Hubeaut/Sandy        def.     Davis/Yardley        64
  > Flight B
   > East
-      F (2) Miletic/Velcea       def.     colmenares/retortil… 85
-     SF     colmenares/retortil… def.     Akbas/Morin-Kougoch… 62
-     SF (2) Miletic/Velcea       def.     norin/ossa           62
-     QF     colmenares/retortil… def. (1) Long/Lodzki          64
+      F (2) Miletic/Velcea       def.     Colmenares/Retortil… 85
+     SF     Colmenares/Retortil… def.     Akbas/Morin-Kougoch… 62
+     SF (2) Miletic/Velcea       def.     Norin/Ossa           62
+     QF     Colmenares/Retortil… def. (1) Long/Lodzki          64
      QF     Akbas/Morin-Kougoch… def.     Garriguez/Timmermans 63
-     QF     norin/ossa           def.     Nash/Oliveira        63
+     QF     Norin/Ossa           def.     Nash/Oliveira        63
      QF (2) Miletic/Velcea       def.     Mjos/Yaylali         63
-     16     colmenares/retortil… def.     Matthews/Sommer      64
+     16     Colmenares/Retortil… def.     Matthews/Sommer      64
      16     Garriguez/Timmermans def.     Menten/Hammoud       62
-     16     norin/ossa           def.     Kentish/Thomas       61
+     16     Norin/Ossa           def.     Kentish/Thomas       61
      16     Nash/Oliveira        def.     Salinas/Sumaia       62
      16     Mjos/Yaylali         def.     Pasini/Rizk          61
   > West
@@ -879,22 +879,22 @@
      16  Dush/Tattini      def.  Chen/Kageyama     83
      16  Lamoreaux/Horwood def.  Huang/Toriumi     83
      16  Hersh/Hung        def.  Huang/OConnor     84
-     16  Ukita/Morett      def.  DEKKERS/COUNTY    86
-     16  MILLAN/OZTURK     def.  Semenik/Kuo       86
-     16  Davies/Ferreira   def.  KUNG/DEMERATH     84
+     16  Ukita/Morett      def.  Dekkers/County    86
+     16  Millan/Ozturk     def.  Semenik/Kuo       86
+     16  Davies/Ferreira   def.  Kung/Demerath     84
  > Utah vs. WSU; UNM vs. USU
   > Main
      16  Dush/Tattini      def.  Ukita/Morett      83
      16  Hersh/Hung        def.  Kuo/Lombardi      85
      16  Lamoreaux/Horwood def.  Davies/Ferreira   82
-     16  MILLAN/OZTURK     def.  Chen/Kageyama     85
-     16  DEKKERS/COUNTY    def.  Huang/Toriumi     83
-     16  Huang/OConnor     def.  KUNG/DEMERATH     87(2)
+     16  Millan/Ozturk     def.  Chen/Kageyama     85
+     16  Dekkers/County    def.  Huang/Toriumi     83
+     16  Huang/OConnor     def.  Kung/Demerath     87(2)
  > Utah vs. USU; UNM vs. WSU
   > Main
-     16  Dush/Tattini      def.  MILLAN/OZTURK     84
-     16  DEKKERS/COUNTY    def.  Lamoreaux/Horwood 86
-     16  Hersh/Hung        def.  KUNG/DEMERATH     83
+     16  Dush/Tattini      def.  Millan/Ozturk     84
+     16  Dekkers/County    def.  Lamoreaux/Horwood 86
+     16  Hersh/Hung        def.  Kung/Demerath     83
      16  Ukita/Morett      def.  Chen/Kageyama     87(5)
      16  Huang/Huang       def.  Semenik/Kuo       84
      16  Toriumi/OConnor   def.  Ferreira/Lombardi 87(2)
@@ -954,17 +954,17 @@
       QF (3) Canete/Canete        def. (5) Hadjigeorgiou/Kista… 82
       QF     Chavez/MacGibbon     def. (7) Gonzalez/Cozamanis   83
       16     Iglesias Iglesias/G… def.     Crocker/Valenzuela   82
-      16     Arce Vieyra/Janciko… def. (8) zeikidze/murali      82
+      16     Arce Vieyra/Janciko… def. (8) Zeikidze/Murali      82
       16     Britt/Dodd           def.     Kamoe/Row            84
       16 (4) Abidulina/Boyar      def.     Kwakernaak/Per More… 84
       16 (3) Canete/Canete        def.     Tregubova/Hosking    82
       16 (5) Hadjigeorgiou/Kista… def.     Baez/Grinberg        80
-      16 (7) Gonzalez/Cozamanis   def.     issabayeva/bifano    86
+      16 (7) Gonzalez/Cozamanis   def.     Issabayeva/Bifano    86
       16     Chavez/MacGibbon     def.     Wallin/Simas         85
       32     Iglesias Iglesias/G… def. (1) Vidnere/Popova       83
       32     Crocker/Valenzuela   def.     Paz Diaz/Stemmer     85
       32     Arce Vieyra/Janciko… def.     Lynn/Foster          86
-      32 (8) zeikidze/murali      def.     Nitu/Royall          98(5)
+      32 (8) Zeikidze/Murali      def.     Nitu/Royall          98(5)
       32     Britt/Dodd           def. (6) Fields/Torres Rodri… 82
       32     Kamoe/Row            def.     Bernthal/Zamorano    82
       32     Kwakernaak/Per More… def.     Roy/Milosevic        81
@@ -974,7 +974,7 @@
       32     Baez/Grinberg        def.     Vera/Carvalho        81
       32 (5) Hadjigeorgiou/Kista… def.     Carpenter/Carpenter  85
       32 (7) Gonzalez/Cozamanis   def.     Chouliara/Granson    84
-      32     issabayeva/bifano    def.     Buntrock/Chadick     98
+      32     Issabayeva/Bifano    def.     Buntrock/Chadick     98
       32     Chavez/MacGibbon     def.     Sherikulova/Becerra  86
       32     Wallin/Simas         def. (2) Alenicheva/Aliseda … 98(5)
   > Consolation
@@ -1001,14 +1001,14 @@
       QF     Pignataro/Chleborad  def.     Hood/Plachy          83
       QF (4) Ranaivo/Hatouka      def.     Jayaprakash/Moldakh… 83
       QF (3) Brocks/Penn          def.     Serpukhova/Gill      86
-      QF (2) Curci/Donnelly       def.     ramos/cavalcanti     86
+      QF (2) Curci/Donnelly       def.     Ramos/Cavalcanti     86
       16     Hood/Plachy          def. (1) Lozano/Aswal         84
       16     Pignataro/Chleborad  def.     Nilsson/McCrae       83
       16     Jayaprakash/Moldakh… def.     Polo Gallart/Willia… 85
       16 (4) Ranaivo/Hatouka      def.     Auftengarten/Mendez  80
       16 (3) Brocks/Penn          def.     Carpenter/Yang       81
       16     Serpukhova/Gill      def.     Turner/Cannon        86
-      16     ramos/cavalcanti     def.     Gannavaram/Huynh     82
+      16     Ramos/Cavalcanti     def.     Gannavaram/Huynh     82
       16 (2) Curci/Donnelly       def.     Bailey/Romero        82
       32     Auftengarten/Mendez  def.     Owens/Messenger      83
       32     Bailey/Romero        def.     Lozano/Maldonado     Walkover
@@ -1031,26 +1031,26 @@
  Women's Open Doubles
  > Women's doubles
   > Main
-       F (2) Ragona/Shiau         def. (1) emery/brascia        86
-      SF (1) emery/brascia        def.     carvajal/fager       86
+       F (2) Ragona/Shiau         def. (1) Emery/Brascia        86
+      SF (1) Emery/Brascia        def.     Carvajal/Fager       86
       SF (2) Ragona/Shiau         def. (5) Neuburger-Higby/Her… 84
-      QF (1) emery/brascia        def. (8) Brooner/Wong         86
-      QF     carvajal/fager       def. (7) Dudley/Rafols        85
+      QF (1) Emery/Brascia        def. (8) Brooner/Wong         86
+      QF     Carvajal/Fager       def. (7) Dudley/Rafols        85
       QF (5) Neuburger-Higby/Her… def. (3) Liga/Kane            83
       QF (2) Ragona/Shiau         def. (6) Pearson/Audelo       Walkover
-      16 (1) emery/brascia        def.     Romero/Coman         82
+      16 (1) Emery/Brascia        def.     Romero/Coman         82
       16 (8) Brooner/Wong         def.     Brull/Di Matteo      82
-      16     carvajal/fager       def.     Hellbe/Leth          85
+      16     Carvajal/Fager       def.     Hellbe/Leth          85
       16 (7) Dudley/Rafols        def.     Casucci/Marques      84
       16 (5) Neuburger-Higby/Her… def.     Waldburger/Livingst… Walkover
       16 (3) Liga/Kane            def.     Carrillo/Richards    82
       16 (6) Pearson/Audelo       def.     Stienemeier/Cool     82
       16 (2) Ragona/Shiau         def.     Olmos/Barnes         84
       32     Romero/Coman         def.     Rogers/Schreiber     81
-      32 (8) Brooner/Wong         def.     mann/mcneill         85
+      32 (8) Brooner/Wong         def.     Mann/Mcneill         85
       32     Brull/Di Matteo      def.     Huk/Mulick           83
       32     Hellbe/Leth          def. (4) Friedrich/Neilson    86
-      32     carvajal/fager       def.     Borodi/Leik          86
+      32     Carvajal/Fager       def.     Borodi/Leik          86
       32 (7) Dudley/Rafols        def.     Richards/Campos      87(4)
       32     Casucci/Marques      def.     Lam/Mayo             86
       32     Waldburger/Livingst… def.     Bulatovaite/Lavender 81
@@ -1063,11 +1063,11 @@
        F     Borodi/Leik          def.     Zayat/Arksey         85
       SF     Borodi/Leik          def.     Rogers/Schreiber     Walkover
       SF     Zayat/Arksey         def.     Bolton/Young         82
-      QF     Rogers/Schreiber     def.     mann/mcneill         Walkover
+      QF     Rogers/Schreiber     def.     Mann/Mcneill         Walkover
       QF     Borodi/Leik          def.     Lam/Mayo             85
       QF     Zayat/Arksey         def.     Letzring/Sepulveda   Walkover
       QF     Bolton/Young         def.     Talamantes/Tay       85
-     16Q     mann/mcneill         def.     Huk/Mulick           87(2)
+     16Q     Mann/Mcneill         def.     Huk/Mulick           87(2)
      16Q     Borodi/Leik          def. (4) Friedrich/Neilson    86
      16Q     Lam/Mayo             def.     Richards/Campos      85
      16Q     Zayat/Arksey         def.     Bulatovaite/Lavender 82

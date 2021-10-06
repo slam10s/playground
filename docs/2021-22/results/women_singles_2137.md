@@ -337,16 +337,16 @@
      SF     Johanna Lutz         def.     Karla Grobbelaar     Walkover
  > Grey
   > East
-      F (2) Hsiang-Wen Huang     def. (4) satoho Toriumi       75 75
-     SF (4) satoho Toriumi       def.     Lyric Bonilla        64 76(4)
+      F (2) Hsiang-Wen Huang     def. (4) Satoho Toriumi       75 75
+     SF (4) Satoho Toriumi       def.     Lyric Bonilla        64 76(4)
      SF (2) Hsiang-Wen Huang     def.     Laura Schmitz        64 60
      QF     Lyric Bonilla        def. (1) Bella Nguyen         36 62 [1]
-     QF (4) satoho Toriumi       def.     Bissola Lassissi     75 62
+     QF (4) Satoho Toriumi       def.     Bissola Lassissi     75 62
      QF     Laura Schmitz        def. (3) Danielle Viljoen     61 61
      QF (2) Hsiang-Wen Huang     def.     Paula Garrote        62 61
      16     Lyric Bonilla        def.     Sylvie Schoenen      60 61
      16     Bissola Lassissi     def.     Nicold Gonzalez      64 64
-     16 (4) satoho Toriumi       def.     Emma Troyer          61 60
+     16 (4) Satoho Toriumi       def.     Emma Troyer          61 60
      16 (3) Danielle Viljoen     def.     Massiel Paredes      67(4) 63 [7]
      16     Laura Schmitz        def.     Melissa Cartis       60 62
      16     Paula Garrote        def.     Caini Wang           64 46 [5]
@@ -427,14 +427,14 @@
  > Flight 6 - Main Draw
   > Main
       F  Nicola Perlwitz      def.  Miranda Yuan         64 75
-     SF  Miranda Yuan         def.  kate sexton          62 61
+     SF  Miranda Yuan         def.  Kate Sexton          62 61
      SF  Nicola Perlwitz      def.  Valentina Martin     36 63 [7]
      QF  Miranda Yuan         def.  Penelope Abreu       62 63
-     QF  kate sexton          def.  Lizi Morgoshia       63 64
+     QF  Kate Sexton          def.  Lizi Morgoshia       63 64
      QF  Nicola Perlwitz      def.  Elizabeth Ferdman    60 61
      QF  Valentina Martin     def.  Perene Wang          62 61
   > Playoff 3-4
-      F  Valentina Martin     def.  kate sexton          26 64 [6]
+      F  Valentina Martin     def.  Kate Sexton          26 64 [6]
  > Flight 2 - Main Draw
   > Main
       F  Olivia Czerwonka     def.  Mariona Perez        64 64
@@ -459,7 +459,7 @@
      SF  Marija Jovicic       def.  Krystal Grubb        60 60
      SF  Kristina Pukhaeva    def.  Lauren Park          75 16 [8]
      QF  Marija Jovicic       def.  Claudia Ng           62 60
-     QF  Krystal Grubb        def.  mya spencer          62 62
+     QF  Krystal Grubb        def.  Mya Spencer          62 62
      QF  Lauren Park          def.  Madalena Andrade     75 26 [7]
      QF  Kristina Pukhaeva    def.  Tara Damnjanovic     67(2) 76(2) [8]
   > Playoff 3-4
@@ -467,7 +467,7 @@
  > Flight 3 - Back Draw
   > Main
       F  Claudia Ng           def.  Tara Damnjanovic     63 64
-     SF  Claudia Ng           def.  mya spencer          63 60
+     SF  Claudia Ng           def.  Mya Spencer          63 60
      SF  Tara Damnjanovic     def.  Madalena Andrade     Walkover
  > Flight 5 - Back Draw
   > Main
@@ -487,13 +487,13 @@
   > Main
       F  Meghan Bernard       def.  Mia Bertino          76(4) 64
      SF  Meghan Bernard       def.  Lara Kaiser          64 26 [7]
-     SF  Mia Bertino          def.  lizzie barloe        63 46 [7]
+     SF  Mia Bertino          def.  Lizzie Barloe        63 46 [7]
      QF  Lara Kaiser          def.  Katrina Rand         76(4) 76
      QF  Meghan Bernard       def.  Eugenia Lee          64 64
      QF  Mia Bertino          def.  Laura Fitzgerald     75 46 [10]
-     QF  lizzie barloe        def.  Diana Borodina       63 63
+     QF  Lizzie Barloe        def.  Diana Borodina       63 63
   > Playoff 3-4
-      F  lizzie barloe        def.  Lara Kaiser          61 64
+      F  Lizzie Barloe        def.  Lara Kaiser          61 64
  > Flight 7 - Back Draw
   > Main
       F  Laura Fitzgerald     def.  Katrina Rand         76(1) 26 [9]
@@ -518,7 +518,7 @@
      SF  Sarah Badawi         def.  Nina Marjanovic      64 36 [6]
  > Flight 9 - 1st Round
   > Main
-     SF  Ivvy Hicks           def.  jacqueline Hijaouy   62 61
+     SF  Ivvy Hicks           def.  Jacqueline Hijaouy   62 61
      SF  Ines Rivera          def.  Juliana Martinez     63 60
  > Flight 9 - Main Draw
   > Main
@@ -539,12 +539,12 @@
       F  Ines Rivera          def.  Danina Hughes        61 62
  > Consolation #1
   > Main
-     SF  Juliana Martinez     def.  jacqueline Hijaouy   75 62
-     SF  Claire Czerwonka     def.  mya spencer          61 62
+     SF  Juliana Martinez     def.  Jacqueline Hijaouy   75 62
+     SF  Claire Czerwonka     def.  Mya Spencer          61 62
  > Consolation #2
   > Main
-     SF  Elizabeth Ferdman    def.  jacqueline Hijaouy   64 60
-     QF  Elizabeth Ferdman    def.  mya spencer          64 60
+     SF  Elizabeth Ferdman    def.  Jacqueline Hijaouy   64 60
+     QF  Elizabeth Ferdman    def.  Mya Spencer          64 60
      QF  Sarah Badawi         def.  Isabella Schoolcraft 67(5) 64 [8]
  > Flight 4 - Back Draw
   > Main
@@ -844,7 +844,7 @@
       64  (1) Anna Novikova        def.      Oona Kintscher       61 63
       64      Jovana Vujanic       def.      Willemien Coetzee    60 62
       64 (10) Alma Abazi           def.      Marija Leko          63 60
-      64      Ghada Dirninger      def.      georgina cupper      61 61
+      64      Ghada Dirninger      def.      Georgina Cupper      61 61
       64  (7) Sofiia Sharonova     def.      Lauren Opalewski     60 60
       64      Sophia Spinazze      def.      Viola Cipriani       62 61
       64 (12) Sophie Daavettila    def.      Neha Mokhasi         60 64
@@ -858,7 +858,7 @@
       64 (13) Casey Smith          def.      Kseniia Eremina      76(4) 62
       64      Zuzanna Krygier      def.      Rafaela Platisota    Walkover
       64      Camilla Fonseca      def.      Franca Bucco Paolas… 75 61
-      64 (11) Estefania Hernandez  def.      emily orlove         64 61
+      64 (11) Estefania Hernandez  def.      Emily Orlove         64 61
       64      Nicole Beidacki      def.      Morgan Waller        Walkover
       64  (6) Kristina Lagoda      def.      Vasileia Griva       62 63
       64      Elizaveta Velichko   def.      Elsa Pascual         60 63
@@ -877,11 +877,11 @@
        F      Kseniia Eremina      def.      Elsa Pascual         46 64 [8]
       SF      Kseniia Eremina      def.      Milena Baigorria     63 61
       SF      Elsa Pascual         def.      Sarah Hackman        Walkover
-      QF      Milena Baigorria     def.      georgina cupper      46 62 [3]
+      QF      Milena Baigorria     def.      Georgina Cupper      46 62 [3]
       QF      Kseniia Eremina      def.      Canela Luna          Walkover
       QF      Elsa Pascual         def.      Franca Bucco Paolas… 61 64
       QF      Sarah Hackman        def.      Lauren Rowe          63 63
-      16      georgina cupper      def.      Willemien Coetzee    60 61
+      16      Georgina Cupper      def.      Willemien Coetzee    60 61
       16      Milena Baigorria     def.      Lauren Opalewski     Walkover
       16      Canela Luna          def.      Iryna Trystan        60 60
       16      Kseniia Eremina      def.      Sina Skjelstad       61 63
@@ -891,14 +891,14 @@
       16      Lauren Rowe          def.      Gabriella Hudec      63 Ret.
       32      Vasileia Griva       def.      Nicole Beidacki      Walkover
      32Q      Willemien Coetzee    def.      Oona Kintscher       Walkover
-     32Q      georgina cupper      def.      Marija Leko          64 36 [6]
+     32Q      Georgina Cupper      def.      Marija Leko          64 36 [6]
      32Q      Lauren Opalewski     def.      Viola Cipriani       63 75
      32Q      Milena Baigorria     def.      Neha Mokhasi         Walkover
      32Q      Iryna Trystan        def.      Luciana Pereyra      45 Ret.
      32Q      Canela Luna          def.      Sara Neves           75 60
      32Q      Sina Skjelstad       def.      Abby Totten          61 60
      32Q      Kseniia Eremina      def.      Rafaela Platisota    Walkover
-     32Q      Franca Bucco Paolas… def.      emily orlove         26 63 [9]
+     32Q      Franca Bucco Paolas… def.      Emily Orlove         26 63 [9]
      32Q      Vasileia Griva       def.      Morgan Waller        Walkover
      32Q      Elsa Pascual         def.      Lidia Laskova        21 Ret.
      32Q      Piper Schrepferman   def.      Risako Umekuni       63 75
@@ -932,9 +932,9 @@
       32  (8) Claudia Sole         def.      Samantha Stephenson  62 46 [6]
       32      Olivia Huang         def.      Cristina Nieto Soto  64 61
       32      Isabella Sanchez     def.      Irene Latorre Barre… 64 64
-      32      Madison Arquette     def.  (7) victoria lisson      75 76(3)
+      32      Madison Arquette     def.  (7) Victoria Lisson      75 76(3)
       32      Kumiko Yamagachi     def.      Sophia Hanover       64 64
-      32      Lola Cincunegui      def.  (3) carolina velazquez   76(3) 62
+      32      Lola Cincunegui      def.  (3) Carolina Velazquez   76(3) 62
       32      Alexa Gamborino      def.      Danica Malan         61 61
       32      Laura Brito          def.  (6) Brittany Lavenant    36 33 Ret.
       32      Chiara Wolff         def.      Sage Hills           63 26 [6]
@@ -942,17 +942,17 @@
   > Consolation
        F      Sage Hills           def.      Nicole Johnson       60 76(1)
       SF      Nicole Johnson       def.      Cristina Nieto Soto  Walkover
-      SF      Sage Hills           def.  (3) carolina velazquez   Walkover
+      SF      Sage Hills           def.  (3) Carolina Velazquez   Walkover
       QF      Nicole Johnson       def.      Madison Windham      Walkover
       QF      Cristina Nieto Soto  def.      Reagan Resor         64 63
-      QF  (3) carolina velazquez   def.  (7) victoria lisson      Walkover
+      QF  (3) Carolina Velazquez   def.  (7) Victoria Lisson      Walkover
       QF      Sage Hills           def.      Danica Malan         62 61
      16Q      Nicole Johnson       def.      Patricia Martin Gom… Walkover
      16Q      Madison Windham      def.      Marily Canellopolous Walkover
      16Q      Reagan Resor         def.      Sophia Baker         61 60
      16Q      Cristina Nieto Soto  def.      Samantha Stephenson  45 Ret.
-     16Q  (7) victoria lisson      def.      Irene Latorre Barre… 63 62
-     16Q  (3) carolina velazquez   def.      Sophia Hanover       63 46 [8]
+     16Q  (7) Victoria Lisson      def.      Irene Latorre Barre… 63 62
+     16Q  (3) Carolina Velazquez   def.      Sophia Hanover       63 46 [8]
      16Q      Danica Malan         def.  (6) Brittany Lavenant    Walkover
      16Q      Sage Hills           def.  (2) Courtney Rittel      64 46 [4]
 ~~~
@@ -1260,11 +1260,11 @@
      16  Selina Pichler      def.  Blanca Alvarez      61 60
      16  Stephanie Fernandez def.  Natacha Mesa        62 64
      16  Astrid Staksrud     def.  Chen Chen Liao      63 36 [7]
-     16  Iryna Lysykh        def.  Elyse STANDING      60 63
+     16  Iryna Lysykh        def.  Elyse Standing      60 63
      32  Maria Genovese      def.  Taylor Nelson       60 61
      32  Ana Ossio           def.  Elizabeth Allen     61 61
      32  Eva Siska           def.  Mariana Scobernatti 62 60
-     32  Josefa Fernandez    def.  TAYLA KRUGER        61 60
+     32  Josefa Fernandez    def.  Tayla Kruger        61 60
      32  Tereza Koplova      def.  Nadia Brunzlow      60 60
      32  Elisa Piquero       def.  Lisa McKenzie       61 64
      32  Tara Gilich         def.  Nicolle Romero      67(6) 64 [2]
@@ -1275,13 +1275,13 @@
      32  Stephanie Fernandez def.  Hanna Blinouskaya   26 64 [6]
      32  Astrid Staksrud     def.  Marianna Espinosa   61 61
      32  Chen Chen Liao      def.  Begona Benjumeda    63 57 [7]
-     32  Elyse STANDING      def.  JoAnna Gallman      64 64
+     32  Elyse Standing      def.  JoAnna Gallman      64 64
      32  Iryna Lysykh        def.  Raquel Canadas      60 62
      64  Ana Ossio           def.  Tania Herrera       60 61
      64  Aarushi Kakkar      def.  Honoka Tsuji        76(3) 64
      64  Raquel Canadas      def.  Brissa Mendoza      62 61
   > Consolation
-     QF  Taylor Nelson       def.  TAYLA KRUGER        61 62
+     QF  Taylor Nelson       def.  Tayla Kruger        61 62
      QF  Nicolle Romero      def.  Lisa McKenzie       76(4) 60
      QF  Begona Benjumeda    def.  Tania Herrera       61 61
      QF  Hanna Blinouskaya   def.  Brissa Mendoza      62 61
@@ -1308,27 +1308,27 @@
       SF  (3) Teodora Jovic        def.  (2) Valerie Quiceno      63 64
       QF  (1) Stephanie Petit      def. (10) Oriana Espinoza      60 62
       QF  (4) Tomomi Nagao         def. (15) Parisa Rachdanone    64 61
-      QF  (3) Teodora Jovic        def.  (6) maci ferguson        62 61
+      QF  (3) Teodora Jovic        def.  (6) Maci Ferguson        62 61
       QF  (2) Valerie Quiceno      def.  (5) Alexandra Parra      63 61
       16  (1) Stephanie Petit      def.  (9) Nicole Bueno         62 64
       16 (10) Oriana Espinoza      def.  (7) Lucia Mora           60 63
       16  (4) Tomomi Nagao         def. (16) Nicole Viljoen       61 60
       16 (15) Parisa Rachdanone    def.      Meiri Okuwaki        64 75
-      16  (6) maci ferguson        def.      Fan Shiau            62 76(2)
-      16  (3) Teodora Jovic        def. (13) michela montori      60 61
+      16  (6) Maci Ferguson        def.      Fan Shiau            62 76(2)
+      16  (3) Teodora Jovic        def. (13) Michela Montori      60 61
       16  (5) Alexandra Parra      def. (14) Dayana Ortega        64 61
       16  (2) Valerie Quiceno      def. (12) Angela Mendoza       61 60
       32  (1) Stephanie Petit      def.      Sarah Mitchell       60 61
       32  (9) Nicole Bueno         def.      Hana Shimeno         60 61
       32  (7) Lucia Mora           def.      Sofia Hernandez      26 62 [7]
       32 (10) Oriana Espinoza      def.      Catherine Rae        62 62
-      32  (4) Tomomi Nagao         def.      samantha spady       61 61
+      32  (4) Tomomi Nagao         def.      Samantha Spady       61 61
       32 (16) Nicole Viljoen       def.      Alba Rodenas         46 62 [5]
       32      Meiri Okuwaki        def.  (8) Mikaela Fros         36 60 [2]
       32 (15) Parisa Rachdanone    def.      Reshma Challarapu    Default
       32      Fan Shiau            def. (11) Noelia Martinez Gar… 60 60
-      32  (6) maci ferguson        def.      Annika Beckmann      62 62
-      32 (13) michela montori      def.      Kylie Enarson        63 62
+      32  (6) Maci Ferguson        def.      Annika Beckmann      62 62
+      32 (13) Michela Montori      def.      Kylie Enarson        63 62
       32  (3) Teodora Jovic        def.      Kaitlin Barrett      60 61
       32 (14) Dayana Ortega        def.      Sofia Rojas          64 62
       32  (5) Alexandra Parra      def.      Dakota Schroeder     63 61
@@ -1338,37 +1338,37 @@
       64      Hana Shimeno         def.      Mia Ziebro           60 60
       64      Sofia Hernandez      def.      Salome Sposetti Pon… 36 75 [6]
       64      Catherine Rae        def.      Madison Hill         64 60
-      64      samantha spady       def.      Delfina Rodriquez    Default
+      64      Samantha Spady       def.      Delfina Rodriquez    Default
       64 (16) Nicole Viljoen       def.      Macy Kennedy         64 60
       64      Alba Rodenas         def.      Katharina Zausek     60 61
       64      Meiri Okuwaki        def.      Darija Mladenovic    63 67 [0]
       64 (15) Parisa Rachdanone    def.      Emily Hibbs          60 60
       64      Reshma Challarapu    def.      Jordan Reed          61 61
-      64      Fan Shiau            def.      ana forero           62 62
+      64      Fan Shiau            def.      Ana Forero           62 62
       64      Annika Beckmann      def.      Camila Coradi        60 61
       64      Kylie Enarson        def.      Addison Sutton       62 63
-      64 (13) michela montori      def.      Aman Dail            64 61
-      64      Kaitlin Barrett      def.      emma hill            60 63
+      64 (13) Michela Montori      def.      Aman Dail            64 61
+      64      Kaitlin Barrett      def.      Emma Hill            60 63
       64      Sofia Rojas          def.      Abigail Martin       76 60
       64 (14) Dayana Ortega        def.      Cassandra Saner      61 61
       64      Dakota Schroeder     def.      Hannah Pearce        60 60
-      64      Maria Belen Arteaga  def.      madelyn gill         61 61
+      64      Maria Belen Arteaga  def.      Madelyn Gill         61 61
       64      Karson Light         def.      Kimberly Sabga       60 62
   > Consolation
       SF      Darija Mladenovic    def.      Salome Sposetti Pon… 61 63
       QF      Salome Sposetti Pon… def.      Sophie Dunman        Default
       QF      Darija Mladenovic    def.      Macy Kennedy         Default
-      QF      madelyn gill         def.      Abigail Martin       75 36 [5]
+      QF      Madelyn Gill         def.      Abigail Martin       75 36 [5]
       16      Sophie Dunman        def.      Mia Ziebro           Default
       16      Salome Sposetti Pon… def.      Madison Hill         61 Ret.
       16      Macy Kennedy         def.      Delfina Rodriquez    Default
       16      Darija Mladenovic    def.      Jordan Reed          60 60
-      16      ana forero           def.      Camila Coradi        62 64
-      16      Addison Sutton       def.      emma hill            61 60
+      16      Ana Forero           def.      Camila Coradi        62 64
+      16      Addison Sutton       def.      Emma Hill            61 60
       16      Abigail Martin       def.      Hannah Pearce        61 60
-      16      madelyn gill         def.      Kimberly Sabga       Default
+      16      Madelyn Gill         def.      Kimberly Sabga       Default
       32      Darija Mladenovic    def.  (8) Mikaela Fros         Default
-      32      ana forero           def. (11) Noelia Martinez Gar… Default
+      32      Ana Forero           def. (11) Noelia Martinez Gar… Default
      32Q      Macy Kennedy         def.      Katharina Zausek     60 62
      32Q      Jordan Reed          def.      Emily Hibbs          76(2) 75
      32Q      Addison Sutton       def.      Aman Dail            Default

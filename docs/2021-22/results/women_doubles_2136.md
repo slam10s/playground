@@ -368,12 +368,12 @@
      SF  Pandurevic/Nuqui    def.  Kosmrlj/Lopez        Walkover
      SF  Price/Forrest       def.  Gunfaus/Ciaccia      Walkover
      QF  Pandurevic/Nuqui    def.  Axelsson/Bertran De… 64
-     QF  Kosmrlj/Lopez       def.  BINZARI/KRIEG        60
+     QF  Kosmrlj/Lopez       def.  Binzari/Krieg        60
      QF  Gunfaus/Ciaccia     def.  Klaassen/Veselinova  60
      QF  Price/Forrest       def.  Aranyos/Hendricks    75
   > West
-      F  Aranyos/Hendricks   def.  BINZARI/KRIEG        64
-     SF  BINZARI/KRIEG       def.  Axelsson/Bertran De… Walkover
+      F  Aranyos/Hendricks   def.  Binzari/Krieg        64
+     SF  Binzari/Krieg       def.  Axelsson/Bertran De… Walkover
      SF  Aranyos/Hendricks   def.  Klaassen/Veselinova  Walkover
  > Red
   > East
@@ -381,15 +381,15 @@
      SF  Morse/Vollmin       def.  Beardsley/Laughton   64
      SF  Speiser/Reeves      def.  Galeano/Socarras     64
      QF  Morse/Vollmin       def.  Ruetten/Sambyakugari 63
-     QF  Beardsley/Laughton  def.  SCHAUB/HEED          61
+     QF  Beardsley/Laughton  def.  Schaub/Heed          61
      QF  Galeano/Socarras    def.  Poliakova/Correia    61
-     QF  Speiser/Reeves      def.  MACIAS/DRAKE         64
+     QF  Speiser/Reeves      def.  Macias/Drake         64
  > Green
   > Main
      R3  Berggren/Guidantoni def.  Gonzalez/Sommariva   62
-     R3  AGARWAL/MATTHEWS    def.  Billingsly/Steiner   62
+     R3  Agarwal/Matthews    def.  Billingsly/Steiner   62
      R3  Ulloa/Chornei       def.  Halickman/Gagnon     64
-     R1  Gonzalez/Sommariva  def.  AGARWAL/MATTHEWS     76(3)
+     R1  Gonzalez/Sommariva  def.  Agarwal/Matthews     76(3)
      R1  Berggren/Guidantoni def.  Ulloa/Chornei        62
      R1  Halickman/Gagnon    def.  Billingsly/Steiner   61
 ~~~

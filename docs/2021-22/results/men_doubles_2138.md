@@ -71,7 +71,7 @@
      32  Plasheski/Haab       def.  Gutierrez/Mullins    61
      32  Morin/Caban          def.  Clary/Weisemann      62
      32  Mulyadi/Umeda        def.  David Avila Torres/… 63
-     32  Grear/Johnson        def.  jaunmarti/Luetzig    62
+     32  Grear/Johnson        def.  Jaunmarti/Luetzig    62
      32  Rawson/Stevens       def.  Matsuno/Martins      76(3)
      32  Aota/Makhmudov       def.  Barozzi/Velayos      61
   > Consolation
@@ -80,7 +80,7 @@
      SF  Barozzi/Velayos      def.  David Avila Torres/… 64
      QF  Schulz/Roehner       def.  Zequeira/Succi       64
      QF  Gutierrez/Mullins    def.  Clary/Weisemann      64
-     QF  David Avila Torres/… def.  jaunmarti/Luetzig    63
+     QF  David Avila Torres/… def.  Jaunmarti/Luetzig    63
      QF  Barozzi/Velayos      def.  Matsuno/Martins      63
      16  Gutierrez/Mullins    def.  Schmieta/Busse       Walkover
      16  Clary/Weisemann      def.  Sabio/Sacchi         Walkover
@@ -102,7 +102,7 @@
      16  Piplani/Tull         def.  Robertson/Weber      62
      16  Ramos/de Koning      def.  Anderson/Valencia    62
      16  Chiang/Acuna         def.  Agrawal/Tegelaar     60
-     32  Hamide/Azeredo       def.  choudhary/Vishesh    75
+     32  Hamide/Azeredo       def.  Choudhary/Vishesh    75
      32  Dux/Jones            def.  Thomas/McGee         62
      32  Tamburini/Shand      def.  Balaci/DeJesus-Mora… 60
      32  Piplani/Tull         def.  Rodriguez/Carranza   64
@@ -111,7 +111,7 @@
       F  Agrawal/Tegelaar     def.  Yen/Pernia           Walkover
      SF  Yen/Pernia           def.  Beidle/Bolen         Walkover
      SF  Agrawal/Tegelaar     def.  Balaci/DeJesus-Mora… Walkover
-     QF  Yen/Pernia           def.  choudhary/Vishesh    63
+     QF  Yen/Pernia           def.  Choudhary/Vishesh    63
      QF  Beidle/Bolen         def.  Thomas/McGee         64
      QF  Balaci/DeJesus-Mora… def.  Robertson/Weber      62
      QF  Agrawal/Tegelaar     def.  Martins/Hawthorne    Walkover
@@ -619,7 +619,7 @@
       16     Giuliato/Forcano    def. (5) Bermejo/Descarrega  86
       16 (2) Faletto/Bacella     def.     Bracaval/Stroppiana 81
       32 (1) Bandeira/Nery       def.     Kearns/Fonseca      83
-      32     Mack/Carvalho       def.     Martinez/kirkman    87(5)
+      32     Mack/Carvalho       def.     Martinez/Kirkman    87(5)
       32 (5) Brignacca/Golubev   def.     Guariente/Mulas     85
       32     Hasegawa/Carlsten   def.     Paschal/Loerwink    83
       32     Miro/Ekenros        def. (3) Cazaban/Gutierrez   87(6)
@@ -642,7 +642,7 @@
       QF     Le Terrier/Roldan   def. (3) Cazaban/Gutierrez   87(6)
       QF     Buettner/Rodriguez  def.     Feggi/Hertweck      86
       QF     Bucurescu/Baumann   def.     Martinez/Salton     86
-     16Q     Kearns/Fonseca      def.     Martinez/kirkman    Walkover
+     16Q     Kearns/Fonseca      def.     Martinez/Kirkman    Walkover
      16Q     Guariente/Mulas     def.     Paschal/Loerwink    87(5)
      16Q (3) Cazaban/Gutierrez   def.     Nordblom/Pham       Walkover
      16Q     Le Terrier/Roldan   def.     Hartmann/Zehender   86
@@ -683,7 +683,7 @@
      32     Constantino/Nokic    def. (9) Bonacia/Subanovic    82
      32     Can Wijk/Cary        def. (4) Bottino/Cecere       86
      32 (9) Jankulovski/Waterbo… def.     Pudney/Kenzlers      84
-     32 (5) Danielsson/Regner    def.     WINTER/MACMILLIAN    81
+     32 (5) Danielsson/Regner    def.     Winter/Macmillian    81
      32 (9) Brainard/Osap        def.     Blavignat/Bivol      84
      32 (9) Evenson/Sassi        def.     Walcher/Brown        83
      32 (7) Del Granado/Lemken   def.     Crepy/De Negri       82
@@ -699,14 +699,14 @@
      64     Constantino/Nokic    def.     Grosset/Kimaszweski  82
      64     Can Wijk/Cary        def.     Mendoza/Schiltz      84
      64     Pudney/Kenzlers      def.     Hermans/Jonsson      84
-     64     WINTER/MACMILLIAN    def.     Badran/Sreekumar     97
+     64     Winter/Macmillian    def.     Badran/Sreekumar     97
      64     Blavignat/Bivol      def.     Komada/Sergi         86
      64     Walcher/Brown        def.     Day/Lloyd-Evans      83
      64     Crepy/De Negri       def.     Hernandez/Hemmings   98
      64     Schomburg/Friedland  def.     Lopes Polesi/Marche… 85
      64     Janse/Hordijk        def.     Kush/Cabo            83
      64     Gaskin/Murillo       def.     Eldin/Kondou         98(3)
-     64     Malirz/Cizek         def.     DECALUWE/KEANE       85
+     64     Malirz/Cizek         def.     Decaluwe/Keane       85
      64     Oka/Dulganov         def.     Crespo/Makhanya      98(5)
      64     Grasmuck/Maria       def.     Hernandez Gonzalez/… 81
 ~~~
@@ -1004,7 +1004,7 @@
      32     Cercos/Ezcurra       def.     Fuentes/Bailey       84
      32     Salamanca De Arcos/… def.     Shaikh/Medley        83
      32 (6) Vuckovic/Omcikus     def.     Choudhary/Fauchet -… 82
-     32     Chong/Magale         def.     montijano/bamberger  82
+     32     Chong/Magale         def.     Montijano/Bamberger  82
      32     Tokmakov/Petrovic    def. (4) Delebois/Schaadt     97
      32     Choubey/Barnes       def.     Dunwoody/Musman      80
      32 (7) Ingrassia/Kerrigan   def.     Cota/Lingle          86
@@ -1027,16 +1027,16 @@
  Men's Open Doubles
  > Flight A
   > East
-      F (1) Li/Ramireddy      def. (2) Fukushima/behun   83
+      F (1) Li/Ramireddy      def. (2) Fukushima/Behun   83
      SF (1) Li/Ramireddy      def.     Alvarez/Ortis     86
-     SF (2) Fukushima/behun   def.     Diaz/Herrera      86
-     QF (1) Li/Ramireddy      def.     badaiants/lopez   84
+     SF (2) Fukushima/Behun   def.     Diaz/Herrera      86
+     QF (1) Li/Ramireddy      def.     Badaiants/Lopez   84
      QF     Alvarez/Ortis     def.     Ouyang/Singh      85
      QF     Diaz/Herrera      def.     Phillips/Yamamoto 87(5)
-     QF (2) Fukushima/behun   def.     Puente/Rattes     87(5)
+     QF (2) Fukushima/Behun   def.     Puente/Rattes     87(5)
   > West
-      F     Phillips/Yamamoto def.     badaiants/lopez   85
-     SF     badaiants/lopez   def.     Ouyang/Singh      83
+      F     Phillips/Yamamoto def.     Badaiants/Lopez   85
+     SF     Badaiants/Lopez   def.     Ouyang/Singh      83
      SF     Phillips/Yamamoto def.     Puente/Rattes     86
   > 3-4 Playoff
       F     Diaz/Herrera      def.     Alvarez/Ortis     86
@@ -1045,11 +1045,11 @@
  > Flight B
   > East
      QF     Lamm/Teste        def. (1) Komis/Ohl         85
-     QF     Shaheen/Smith     def.     sadowski/marri    82
+     QF     Shaheen/Smith     def.     Sadowski/Marri    82
      QF     Guy/Fakouri       def.     Valarezo/Ycaza    81
   > West
       F (1) Komis/Ohl         def.     Valarezo/Ycaza    84
-     SF (1) Komis/Ohl         def.     sadowski/marri    81
+     SF (1) Komis/Ohl         def.     Sadowski/Marri    81
  > B Round Robin
   > East
      SF     Guy/Fakouri       def.     Shaheen/Smith     84
@@ -1057,7 +1057,7 @@
      QF     Shaheen/Smith     def.     Valarezo/Ycaza    80
  > B Round Robin II
   > Main
-      F     Lamm/Teste        def.     sadowski/marri    85
+      F     Lamm/Teste        def.     Sadowski/Marri    85
 ~~~
 
 Return to the [Top](./men_doubles_2138.md) &#124; [Home Page](../../index.md)

@@ -93,7 +93,7 @@
       64  (1) Anna Novikova        def.      Oona Kintscher       61 63
       64      Jovana Vujanic       def.      Willemien Coetzee    60 62
       64 (10) Alma Abazi           def.      Marija Leko          63 60
-      64      Ghada Dirninger      def.      georgina cupper      61 61
+      64      Ghada Dirninger      def.      Georgina Cupper      61 61
       64  (7) Sofiia Sharonova     def.      Lauren Opalewski     60 60
       64      Sophia Spinazze      def.      Viola Cipriani       62 61
       64 (12) Sophie Daavettila    def.      Neha Mokhasi         60 64
@@ -107,7 +107,7 @@
       64 (13) Casey Smith          def.      Kseniia Eremina      76(4) 62
       64      Zuzanna Krygier      def.      Rafaela Platisota    Walkover
       64      Camilla Fonseca      def.      Franca Bucco Paolas… 75 61
-      64 (11) Estefania Hernandez  def.      emily orlove         64 61
+      64 (11) Estefania Hernandez  def.      Emily Orlove         64 61
       64      Nicole Beidacki      def.      Morgan Waller        Walkover
       64  (6) Kristina Lagoda      def.      Vasileia Griva       62 63
       64      Elizaveta Velichko   def.      Elsa Pascual         60 63
@@ -126,11 +126,11 @@
        F      Kseniia Eremina      def.      Elsa Pascual         46 64 [8]
       SF      Kseniia Eremina      def.      Milena Baigorria     63 61
       SF      Elsa Pascual         def.      Sarah Hackman        Walkover
-      QF      Milena Baigorria     def.      georgina cupper      46 62 [3]
+      QF      Milena Baigorria     def.      Georgina Cupper      46 62 [3]
       QF      Kseniia Eremina      def.      Canela Luna          Walkover
       QF      Elsa Pascual         def.      Franca Bucco Paolas… 61 64
       QF      Sarah Hackman        def.      Lauren Rowe          63 63
-      16      georgina cupper      def.      Willemien Coetzee    60 61
+      16      Georgina Cupper      def.      Willemien Coetzee    60 61
       16      Milena Baigorria     def.      Lauren Opalewski     Walkover
       16      Canela Luna          def.      Iryna Trystan        60 60
       16      Kseniia Eremina      def.      Sina Skjelstad       61 63
@@ -140,14 +140,14 @@
       16      Lauren Rowe          def.      Gabriella Hudec      63 Ret.
       32      Vasileia Griva       def.      Nicole Beidacki      Walkover
      32Q      Willemien Coetzee    def.      Oona Kintscher       Walkover
-     32Q      georgina cupper      def.      Marija Leko          64 36 [6]
+     32Q      Georgina Cupper      def.      Marija Leko          64 36 [6]
      32Q      Lauren Opalewski     def.      Viola Cipriani       63 75
      32Q      Milena Baigorria     def.      Neha Mokhasi         Walkover
      32Q      Iryna Trystan        def.      Luciana Pereyra      45 Ret.
      32Q      Canela Luna          def.      Sara Neves           75 60
      32Q      Sina Skjelstad       def.      Abby Totten          61 60
      32Q      Kseniia Eremina      def.      Rafaela Platisota    Walkover
-     32Q      Franca Bucco Paolas… def.      emily orlove         26 63 [9]
+     32Q      Franca Bucco Paolas… def.      Emily Orlove         26 63 [9]
      32Q      Vasileia Griva       def.      Morgan Waller        Walkover
      32Q      Elsa Pascual         def.      Lidia Laskova        21 Ret.
      32Q      Piper Schrepferman   def.      Risako Umekuni       63 75
@@ -181,9 +181,9 @@
       32  (8) Claudia Sole         def.      Samantha Stephenson  62 46 [6]
       32      Olivia Huang         def.      Cristina Nieto Soto  64 61
       32      Isabella Sanchez     def.      Irene Latorre Barre… 64 64
-      32      Madison Arquette     def.  (7) victoria lisson      75 76(3)
+      32      Madison Arquette     def.  (7) Victoria Lisson      75 76(3)
       32      Kumiko Yamagachi     def.      Sophia Hanover       64 64
-      32      Lola Cincunegui      def.  (3) carolina velazquez   76(3) 62
+      32      Lola Cincunegui      def.  (3) Carolina Velazquez   76(3) 62
       32      Alexa Gamborino      def.      Danica Malan         61 61
       32      Laura Brito          def.  (6) Brittany Lavenant    36 33 Ret.
       32      Chiara Wolff         def.      Sage Hills           63 26 [6]
@@ -191,17 +191,17 @@
   > Consolation
        F      Sage Hills           def.      Nicole Johnson       60 76(1)
       SF      Nicole Johnson       def.      Cristina Nieto Soto  Walkover
-      SF      Sage Hills           def.  (3) carolina velazquez   Walkover
+      SF      Sage Hills           def.  (3) Carolina Velazquez   Walkover
       QF      Nicole Johnson       def.      Madison Windham      Walkover
       QF      Cristina Nieto Soto  def.      Reagan Resor         64 63
-      QF  (3) carolina velazquez   def.  (7) victoria lisson      Walkover
+      QF  (3) Carolina Velazquez   def.  (7) Victoria Lisson      Walkover
       QF      Sage Hills           def.      Danica Malan         62 61
      16Q      Nicole Johnson       def.      Patricia Martin Gom… Walkover
      16Q      Madison Windham      def.      Marily Canellopolous Walkover
      16Q      Reagan Resor         def.      Sophia Baker         61 60
      16Q      Cristina Nieto Soto  def.      Samantha Stephenson  45 Ret.
-     16Q  (7) victoria lisson      def.      Irene Latorre Barre… 63 62
-     16Q  (3) carolina velazquez   def.      Sophia Hanover       63 46 [8]
+     16Q  (7) Victoria Lisson      def.      Irene Latorre Barre… 63 62
+     16Q  (3) Carolina Velazquez   def.      Sophia Hanover       63 46 [8]
      16Q      Danica Malan         def.  (6) Brittany Lavenant    Walkover
      16Q      Sage Hills           def.  (2) Courtney Rittel      64 46 [4]
 ~~~
@@ -365,21 +365,21 @@
      16  Toni Nelson          def.  Luna Urso            60 60
      16  Mihaela Kaftanova    def.  Ellen Puzak          64 63
      16  Alex Arkhipov        def.  Alexis Odom          64 64
-     16  Elinor Beazley       def.  JJ Chen              62 64
+     16  Elinor Beazley       def.  Jj Chen              62 64
      16  Chunxi Guo           def.  Tatum Burger         75 36 64
   > West
      SF  Lucia Malinak        def.  Luna Urso            62 75
      SF  Tatum Burger         def.  Alexis Odom          46 63 [6]
      QF  Lucia Malinak        def.  Freia Lawrence       Walkover
      QF  Alexis Odom          def.  Ellen Puzak          62 26 [9]
-     QF  Tatum Burger         def.  JJ Chen              64 46 [8]
+     QF  Tatum Burger         def.  Jj Chen              64 46 [8]
   > North
      SF  Ava Neyestani        def.  Alyse Cormier        63 60
      SF  Elinor Beazley       def.  Alex Arkhipov        Walkover
   > 3-4 Playoff
       F  Karina Chao          def.  Mihaela Kaftanova    63 62
   > South
-     SF  JJ Chen              def.  Ellen Puzak          64 62
+     SF  Jj Chen              def.  Ellen Puzak          64 62
   > Southwest
       F  Alexis Odom          def.  Luna Urso            60 61
  > Delta
@@ -414,7 +414,7 @@
      64  Hailey Stelse        def.  Maria Villarejo      61 60
      64  Megan Lang Gould     def.  Felicia Jayasaputra  63 64
      64  Ava Neyestani        def.  Ellen Puzak          63 36 [6]
-     64  JJ Chen              def.  Alyse Cormier        63 36 [7]
+     64  Jj Chen              def.  Alyse Cormier        63 36 [7]
      64  Elinor Beazley       def.  Jazmin Lerman        62 76(5)
      64  Annabel Davis        def.  Adriene Pavek        61 63
  > Other Matches
@@ -445,10 +445,10 @@
      16  Rena Lin            def.  Claire Koscielski   63 76(5)
      16  Caroline Dunleavy   def.  Dominique Vasile    63 62
      16  Rhea Shrivistava    def.  Jordan Bradley      61 64
-     16  Jamie kim           def.  Brittney Wilbur     61 63
+     16  Jamie Kim           def.  Brittney Wilbur     61 63
      16  Vivian Cheng        def.  Jean-Na Koo         62 61
      16  Kathy Wang          def.  Andie Williams      36 62 [3]
-     16  nicole gillinov     def.  Alexandra Luehrman  62 60
+     16  Nicole Gillinov     def.  Alexandra Luehrman  62 60
  > Yale V Hofstra
   > Main
      32  Chelsea Kung        def.  Kayla Solagnier     61 60
@@ -459,7 +459,7 @@
      32  Rhea Shrivistava    def.  Kaitlyn Ferguson    60 60
      32  Raissa Lou          def.  Mary Madigan        60 62
      32  Vivian Cheng        def.  Isabella Tonuzi     61 61
-     32  Jamie kim           def.  Shelly Ray          60 61
+     32  Jamie Kim           def.  Shelly Ray          60 61
      32  Kathy Wang          def.  Ciyin Yhang         60 60
  > Yale V Brown
   > Main
@@ -501,7 +501,7 @@
   > Main
      16  Maxi Duncan       def.  Victoria Carlsten   61 62
      16  Rachel Arbitman   def.  Michelle Kleynerman 61 61
-     16  Kaitlin Tan       def.  IVETA DAUJOTAITE    61 76(5)
+     16  Kaitlin Tan       def.  Iveta Daujotaite    61 76(5)
      16  Angel You         def.  Shelly Yaloz        64 64
      16  Erica Di Battista def.  Holly Fischer       64 63
      16  Rachel Lim        def.  Sofia Kostirko      64 36 [6]
@@ -1105,7 +1105,7 @@
       32  (8) Vaishali Jorge       def. (16) Ameek Batth          62 64
       32  (9) Ebba Rosberg         def. (16) Alex Lopez           62 62
       32  (3) Ana Carla Resende    def.      Hanna Axelsson       63 62
-      32      Inma Ramon           def.      ZOE HEED             62 61
+      32      Inma Ramon           def.      Zoe Heed             62 61
       32      Elisa Aguirre        def.      Paige Wise           75 36 64
       32  (9) Mariana Ramirez      def. (16) Johanna Lippert      26 64 62
       32  (2) Eden Schlagenhauf    def. (16) Flaminia Guidantoni  67(8) 62 63
@@ -1114,7 +1114,7 @@
       64  (9) Camilla Ciaccia      def.      Elodie Baechler      61 62
       64 (16) Zulay Castaneda      def.      Alejandra Guerrero   64 46 60
       64  (6) Viktorija Veselinova def.      Amy Griffiths        67(3) 63 76(3)
-      64 (16) Anika Nissen         def.      JESSICA BINZARI      61 61
+      64 (16) Anika Nissen         def.      Jessica Binzari      61 61
       64  (9) Anna Markvartova     def.      Summer Reeves        61 46 61
       64 (16) Sofia Shing          def.      Angelina Linnikova   75 62
       64  (4) Elena Gunfaus        def.      Val Bodra            61 36 60
@@ -1134,7 +1134,7 @@
       64      Hanna Axelsson       def. (16) Catherine Blouin     75 64
       64  (3) Ana Carla Resende    def.      Frankee Hendricks    60 61
       64      Inma Ramon           def. (16) Judit Gonzalez       61 46 76(6)
-      64      ZOE HEED             def.  (9) Gemma Southwick      61 62
+      64      Zoe Heed             def.  (9) Gemma Southwick      61 62
       64      Elisa Aguirre        def. (16) Valentina Ascarrunz  16 62 62
       64      Paige Wise           def.  (7) Chole Kosmrlj        64 63
       64 (16) Johanna Lippert      def.      Natasha Forrest      63 62
@@ -1146,7 +1146,7 @@
      128      Elodie Baechler      def.      Czarina Aguirre      61 75
      128      Alejandra Guerrero   def.      Bailee Wilson        62 64
      128      Amy Griffiths        def.      Darja Chistov        61 64
-     128      JESSICA BINZARI      def.      Yelena Labat         61 46 62
+     128      Jessica Binzari      def.      Yelena Labat         61 46 62
      128      Summer Reeves        def.      Julie Martincova     63 62
      128      Angelina Linnikova   def.      Alicia Wahlberg      64 60
      128      Val Bodra            def.      Leonie Floeth        36 62 63
@@ -1166,7 +1166,7 @@
      128      Hanna Axelsson       def.      Claudelle Labonte-F… 61 61
      128      Frankee Hendricks    def.      Hermon Mikael        63 64
      128      Inma Ramon           def.      Jing Dong            75 61
-     128      ZOE HEED             def.      Paulina Loretz       64 62
+     128      Zoe Heed             def.      Paulina Loretz       64 62
      128      Elisa Aguirre        def.      Jordan Bowie         60 61
      128      Paige Wise           def.      Eimear Maher         62 64
      128      Natasha Forrest      def.      Rupal Kharb          64 62
@@ -1187,7 +1187,7 @@
       32 (16) Hannah Price         def.      Laura Jipescu        Walkover
       32      Claudelle Labonte-F… def.      Val Bodra            Walkover
       32      Angelina Linnikova   def.      Paulina Loretz       60 62
-      32      Eimear Maher         def.      JESSICA BINZARI      75 62
+      32      Eimear Maher         def.      Jessica Binzari      75 62
       32      Elliott Peterson     def.      Rupal Kharb          60 75
       32      Luciana Galves       def.      Maren Kronsbein      62 62
       64      Emilie Hansen        def.      Kayla Vaughan        62 64
@@ -1216,7 +1216,7 @@
       64      Val Bodra            def.      Hermon Mikael        Walkover
       64      Angelina Linnikova   def.      Jing Dong            57 63 [7]
       64      Paulina Loretz       def.      Summer Reeves        36 64 [6]
-      64      JESSICA BINZARI      def.      Jordan Bowie         Walkover
+      64      Jessica Binzari      def.      Jordan Bowie         Walkover
       64      Eimear Maher         def.      Amy Griffiths        26 64 Ret.
       64      Rupal Kharb          def.      Alejandra Guerrero   64 75
       64      Elliott Peterson     def.      Elodie Baechler      63 62
@@ -1327,7 +1327,7 @@
       32  Georgia Lancaster    def.  Abigail Jones        63 75
       32  Alyssa Skulsky       def.  Ana Nadai            26 62 [4]
       32  Sara Bertolez Puente def.  Harriet Glaves       63 75
-      32  Ishika Agarwal       def.  anna chikhalenko     61 61
+      32  Ishika Agarwal       def.  Anna Chikhalenko     61 61
       32  Teddi Isherwood      def.  Aida Montero         76(4) 60
       32  Gabriella Lerario d… def.  RaeAnne Reed         61 62
       32  Virginia Zanotti     def.  Katherine Loader     62 62
@@ -1350,17 +1350,17 @@
   > Consolation
        F  Kavya Singh          def.  Victoria Cabral      40 40
       SF  Kavya Singh          def.  Flavia Rodas         Walkover
-      SF  Victoria Cabral      def.  anna chikhalenko     42 53
+      SF  Victoria Cabral      def.  Anna Chikhalenko     42 53
       QF  Kavya Singh          def.  Emelina Alvarez      41 42
       QF  Flavia Rodas         def.  Abigail Jones        Walkover
-      QF  anna chikhalenko     def.  Ana Nadai            42 41
+      QF  Anna Chikhalenko     def.  Ana Nadai            42 41
       QF  Victoria Cabral      def.  Chloe Abramowitz     54(4) 24 [7]
       16  Emelina Alvarez      def.  Paula Saez-Raez      41 40
       16  Kavya Singh          def.  Emily Cevera         40 41
       16  Flavia Rodas         def.  Emily Harper         42 41
       16  Abigail Jones        def.  RaeAnne Reed         Walkover
       16  Ana Nadai            def.  Cara Long            40 40
-      16  anna chikhalenko     def.  Maddie Chen          Walkover
+      16  Anna Chikhalenko     def.  Maddie Chen          Walkover
       16  Chloe Abramowitz     def.  Trang Nguyen         42 24 [3]
       16  Victoria Cabral      def.  Molly Hull           Walkover
       32  Paula Saez-Raez      def.  Kaitlin Toth         Walkover
@@ -1368,7 +1368,7 @@
       32  Kavya Singh          def.  Rebecca Osborne      40 35 [3]
       32  RaeAnne Reed         def.  Kaitlyn Then         41 42
       32  Abigail Jones        def.  Madison Toothman     40 40
-      32  anna chikhalenko     def.  Sandra Riecken       45(2) 53 [7]
+      32  Anna Chikhalenko     def.  Sandra Riecken       45(2) 53 [7]
       32  Victoria Cabral      def.  Rabiatu Ladan        41 40
 ~~~
 

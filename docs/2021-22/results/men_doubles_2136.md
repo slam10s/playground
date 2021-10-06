@@ -331,25 +331,25 @@
      SF  Constantino/Nokic  def.  Janse/Hordijk      62
      QF  Elkin/Dekester     def.  Van Dalen/Oka      76(5)
      QF  Brown/Walcher      def.  Orozco/Buerkle     64
-     QF  Janse/Hordijk      def.  MACMILLIAN/WINTER  61
+     QF  Janse/Hordijk      def.  Macmillian/Winter  61
      QF  Constantino/Nokic  def.  Can Wijk/Turner    76(4)
   > West
       F  Can Wijk/Turner    def.  Orozco/Buerkle     63
      SF  Orozco/Buerkle     def.  Van Dalen/Oka      64
-     SF  Can Wijk/Turner    def.  MACMILLIAN/WINTER  63
+     SF  Can Wijk/Turner    def.  Macmillian/Winter  63
   > South
-      F  MACMILLIAN/WINTER  def.  Van Dalen/Oka      64
+      F  Macmillian/Winter  def.  Van Dalen/Oka      64
  > Red
   > Main
-     R3  BOMAR/SMITH        def.  Phelan/Sechrist    61
+     R3  Bomar/Smith        def.  Phelan/Sechrist    61
      R2  Zababuryn/Juergens def.  Phelan/Sechrist    62
      R1  Spinetta/Gostoli   def.  Phelan/Sechrist    61
-     R1  Zababuryn/Juergens def.  BOMAR/SMITH        64
+     R1  Zababuryn/Juergens def.  Bomar/Smith        64
  > White
   > Main
-     R4  DECALUWE/KEANE     def.  Zabala/Sudar       63
+     R4  Decaluwe/Keane     def.  Zabala/Sudar       63
      R4  Sumer/Nossler      def.  Knippling/Garofalo 61
-     R1  Sumer/Nossler      def.  DECALUWE/KEANE     64
+     R1  Sumer/Nossler      def.  Decaluwe/Keane     64
      R1  Zabala/Sudar       def.  Waterbolk/Dulganov 75
 ~~~
 

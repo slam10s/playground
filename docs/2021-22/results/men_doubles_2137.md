@@ -147,25 +147,25 @@
      32  Gibbons/Guerrero Al… def.  Reilly/Oberg         63
      32  Lefevre/Neal         def.  Pregel/Burger        62
      32  Van Noord/Penman     def.  Quiles/Takeda        64
-     32  motlagh/bianchi      def.  Ilie/Knox-Jones      60
-     32  Serra Sparrow/Trejo  def.  mcdonald/turner      64
-     32  Castro/Bezborodov    def.  eedara/Campbell      62
+     32  Motlagh/Bianchi      def.  Ilie/Knox-Jones      60
+     32  Serra Sparrow/Trejo  def.  Mcdonald/Turner      64
+     32  Castro/Bezborodov    def.  Eedara/Campbell      62
  > Draw 2
   > Main
-     32  Kasten/fung          def.  Reilly/Oberg         61
-     32  Lefevre/Neal         def.  eedara/Campbell      64
-     32  motlagh/bianchi      def.  Quiles/Takeda        60
+     32  Kasten/Fung          def.  Reilly/Oberg         61
+     32  Lefevre/Neal         def.  Eedara/Campbell      64
+     32  Motlagh/Bianchi      def.  Quiles/Takeda        60
      32  Van Noord/Penman     def.  Guerrero Alvarez/We… 76(3)
      32  Ilie/Knox-Jones      def.  Castro/Bezborodov    76(7)
      32  Gibbons/Chari        def.  Serra Sparrow/Trejo  64
  > Draw 3
   > Main
      32  Chang/Pritzker       def.  Pregel/Burger        62
-     32  Gibbons/Chari        def.  mcdonald/turner      61
+     32  Gibbons/Chari        def.  Mcdonald/Turner      61
      32  Reilly/Oberg         def.  Guerrero Alvarez/We… 64
-     32  Quiles/Takeda        def.  eedara/Campbell      64
+     32  Quiles/Takeda        def.  Eedara/Campbell      64
      32  Ilie/Knox-Jones      def.  Lefevre/Neal         64
-     32  Van Noord/Penman     def.  Kasten/fung          76(11)
+     32  Van Noord/Penman     def.  Kasten/Fung          76(11)
  > Draw 4
   > Main
      32  Chang/Pritzker       def.  Castro/Bezborodov    62
@@ -498,7 +498,7 @@
      32  Plasheski/Haab       def.  Gutierrez/Mullins    61
      32  Morin/Caban          def.  Clary/Weisemann      62
      32  Mulyadi/Umeda        def.  David Avila Torres/… 63
-     32  Grear/Johnson        def.  jaunmarti/Luetzig    62
+     32  Grear/Johnson        def.  Jaunmarti/Luetzig    62
      32  Rawson/Stevens       def.  Matsuno/Martins      76(3)
      32  Aota/Makhmudov       def.  Barozzi/Velayos      61
   > Consolation
@@ -507,7 +507,7 @@
      SF  Barozzi/Velayos      def.  David Avila Torres/… 64
      QF  Schulz/Roehner       def.  Zequeira/Succi       64
      QF  Gutierrez/Mullins    def.  Clary/Weisemann      64
-     QF  David Avila Torres/… def.  jaunmarti/Luetzig    63
+     QF  David Avila Torres/… def.  Jaunmarti/Luetzig    63
      QF  Barozzi/Velayos      def.  Matsuno/Martins      63
      16  Gutierrez/Mullins    def.  Schmieta/Busse       Walkover
      16  Clary/Weisemann      def.  Sabio/Sacchi         Walkover
@@ -529,7 +529,7 @@
      16  Piplani/Tull         def.  Robertson/Weber      62
      16  Ramos/de Koning      def.  Anderson/Valencia    62
      16  Chiang/Acuna         def.  Agrawal/Tegelaar     60
-     32  Hamide/Azeredo       def.  choudhary/Vishesh    75
+     32  Hamide/Azeredo       def.  Choudhary/Vishesh    75
      32  Dux/Jones            def.  Thomas/McGee         62
      32  Tamburini/Shand      def.  Balaci/DeJesus-Mora… 60
      32  Piplani/Tull         def.  Rodriguez/Carranza   64
@@ -538,7 +538,7 @@
       F  Agrawal/Tegelaar     def.  Yen/Pernia           Walkover
      SF  Yen/Pernia           def.  Beidle/Bolen         Walkover
      SF  Agrawal/Tegelaar     def.  Balaci/DeJesus-Mora… Walkover
-     QF  Yen/Pernia           def.  choudhary/Vishesh    63
+     QF  Yen/Pernia           def.  Choudhary/Vishesh    63
      QF  Beidle/Bolen         def.  Thomas/McGee         64
      QF  Balaci/DeJesus-Mora… def.  Robertson/Weber      62
      QF  Agrawal/Tegelaar     def.  Martins/Hawthorne    Walkover
@@ -660,7 +660,7 @@
      16  Fernandez/Gallegos   def.  Puig/Alexander       84
      16  Bierman/Perez Le Ti… def.  Luna/Thomas          98(5)
      16  Gurmendi/Dugo        def.  Rios/Volpi           97
-     16  Magnarelli/Popescu   def.  GOMEZ/Pujadas        84
+     16  Magnarelli/Popescu   def.  Gomez/Pujadas        84
      16  Bonacia/Czepielewski def.  Pacera/Sharma        80
      32  Herin/Watts          def.  Speranza/Verlaguet   86
      32  Luna/Thomas          def.  Howard/Duzinkiewicz  81

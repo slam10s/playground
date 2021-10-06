@@ -39,7 +39,7 @@
       64  (5) Trent Bryde          def.      Henry Schulenburg    61 26 64
       64      Alexandre Reco       def.      Emmanuel Coste       64 26 76(2)
       64  (9) Nikola Slavic         vs       James Davis          Wed @ 11:00
-      64      JJ Tracy              vs       Stefan Hampe         Wed @ 12:30
+      64      Jj Tracy              vs       Stefan Hampe         Wed @ 12:30
       64      Francisco Rocha      def.  (3) Luc Fomba            76(4) 64
       64      Stefan Dostanic      def.      Brian Cernoch        64 60
       64      Ryan Goetz           def.  (9) MAtej Vocel          36 62 63
@@ -72,7 +72,7 @@
       64      Eric Hadigian        def. (17) Joshua Lapadat       64 64
       64      Tim Zeitvogel        def.      Geronimo Busleiman   63 46 76(3)
       64      Francois Musitelli   def.      Simon Arca Costas    63 61
-      64 (17) JJ Tracy             def.      Max Basing           76(4) 60
+      64 (17) Jj Tracy             def.      Max Basing           76(4) 60
       64      Trey Hilderbrand     def.      Blake Croyder        63 36 64
       64      Andre Ilagan         def.      Stijn Slump          62 57 60
       64      Tadeas Paroulek      def.      Gavin Young          64 64
@@ -95,7 +95,7 @@
      128      Francois Musitelli   def.      Justin Boulais       64 62
      128      Simon Arca Costas    def.      Filip Malbasic       26 75 75
      128      Max Basing           def.      Connor Di Marco      62 64
-     128 (17) JJ Tracy             def.      Carlos Hassey        16 64 61
+     128 (17) Jj Tracy             def.      Carlos Hassey        16 64 61
      128      Blake Croyder        def.  (8) Siem Woldeab         76(4) 75
      128      Trey Hilderbrand     def.      Carl Emil Overbeck   64 36 64
      128      Andre Ilagan         def.      Jacob Brumm          64 62
@@ -104,7 +104,7 @@
      128      Gavin Young          def.      Alexander Hoogmarte… 75 64
      128      Filippo Moroni       def. (11) Noah Schachter       46 64 63
      128      Harris Walker        def.      Ewen Lumsden         26 61 61
-     128 (12) Emmanuel Coste       def.      kevin zhu            63 60
+     128 (12) Emmanuel Coste       def.      Kevin Zhu            63 60
      128      Henry Schulenburg    def.      Colton Smith         62 16 63
      128      Bogdan Pavel         def. (13) Cleeve Harper        63 75
      128      Tristan Boyer        def.      Pedro Vives Marcos   76(4) 76(2)
@@ -141,7 +141,7 @@
      256      Max Basing           def.  (7) James Story          76(9) 76(5)
      256      Connor Di Marco      def.      Kyle Frankel         63 16 64
      256      Carlos Hassey        def.      Ronan Jachuck        36 63 63
-     256 (17) JJ Tracy             def.      Justin Schlageter    63 62
+     256 (17) Jj Tracy             def.      Justin Schlageter    63 62
      256  (8) Siem Woldeab         def.      Oscar Pinto Sansano  62 60
      256      Blake Croyder        def.      Thomas Bosancic      62 64
      256      Trey Hilderbrand     def.      Marin Delmas         36 63 63
@@ -151,7 +151,7 @@
      256      Stijn Slump          def.      Timothy Sah          75 26 63
      256      Lui Maxted           def. (17) Andrew Fenty         62 64
      256      Ezequiel Santalla    def. (10) Richard Ciamarra     62 75
-     256      Tadeas Paroulek      def.      edoardo graziani     63 64
+     256      Tadeas Paroulek      def.      Edoardo Graziani     63 64
      256      Gavin Young          def.      Max McKennon         64 36 63
      256      Alexander Hoogmarte… def. (17) Leyton Cronje        46 61 62
      256 (11) Noah Schachter       def.      Finlay Murgett       64 63
@@ -159,7 +159,7 @@
      256      Ewen Lumsden         def.      Bradley Frye         63 75
      256      Harris Walker        def. (17) Joshua Charlton      75 61
      256 (12) Emmanuel Coste       def.      Oscar Cutting        64 46 64
-     256      kevin zhu            def.      Luke Casper          76(3) 64
+     256      Kevin Zhu            def.      Luke Casper          76(3) 64
      256      Colton Smith         def.      Mark Wallner         61 62
      256      Henry Schulenburg    def. (17) James Trotter        26 61 62
      256 (13) Cleeve Harper        def.      Francisco Pini       63 62
@@ -191,7 +191,7 @@
       64      Quinn Vandecasteele  def.      Charles Bertimon     76(6) 62
       64      Joshua Charlton      def.      Carles Anton         76(3) 62
       64      Andrew Zhang         def.      Abedallah Shelbayh   16 75 63
-      64      Richard Ciamarra     def.      edoardo graziani     63 63
+      64      Richard Ciamarra     def.      Edoardo Graziani     63 63
       64      Joao Ceolin          def.      Sean Sculley         64 62
       64      Nicola Vidal         def.      Joshua Goodger       64 62
       64      Jake Finn Bass       def.      Kento Yamada         46 52 Ret.
@@ -223,7 +223,7 @@
       32      Simon Junk           def. (17) Andrew Lutschaunig   61 76(5)
       32      Welsh Hotard         def.      Zion Heaven          63 61
       32      Luke Casper          def.      Josh Wilson          67(5) 63 76(5)
-      32  (9) Justin Schlageter    def.      kevin zhu            61 62
+      32  (9) Justin Schlageter    def.      Kevin Zhu            61 62
       64      Gabriel Diaz Freire  def.      Sviatoslav Gulin     64 51 Ret.
       64 (17) Carl Emil Overbeck   def.      Stefan Leustian      62 36 64
       64      Francisco Pini       def.  (2) Volodymyr Zakharov   62 61
@@ -255,7 +255,7 @@
       64      Josh Wilson          def.      Udayan Bhakar        16 64 64
       64      Luke Casper          def. (17) Keshav Chopra        62 62
       64  (9) Justin Schlageter    def.      Alex Mandma          63 76(1)
-      64      kevin zhu            def. (17) Raphael Perot        16 64 64
+      64      Kevin Zhu            def. (17) Raphael Perot        16 64 64
      128      Gabriel Diaz Freire  def.  (1) Jesper Klov-Nilsson  46 75 [8]
      128      Sviatoslav Gulin     def.      Luke Hammond         26 76(2) [5]
      128      Stefan Leustian      def.      Alan Sau             67(3) 63 [0]
@@ -318,7 +318,7 @@
      128 (17) Keshav Chopra        def.      Ivan Thamma          64 63
      128  (9) Justin Schlageter    def.      Nicola Cigna         63 63
      128      Alex Mandma          def.      Tomas Reche          26 62 [7]
-     128      kevin zhu            def.      Nickolas Frisk       61 62
+     128      Kevin Zhu            def.      Nickolas Frisk       61 62
      128 (17) Raphael Perot        def.      Axel Labrunie        63 62
      256      Gabriel Diaz Freire  def.      Kerim Hyatt          64 63
      256      Sviatoslav Gulin     def.      Shunya Maruyama      60 26 [9]
@@ -384,7 +384,7 @@
      256      Andre Rodeia         def.      Chris Tasker         16 63 [5]
      256      Matthew Rodriguez    def.      Jackson Atherton     60 62
      256      Guido Marson         def.      Thibault Frumholz    63 36 [6]
-     256      Evan Fragistas       def.      aditya gupta         76(5) 76(3)
+     256      Evan Fragistas       def.      Aditya Gupta         76(5) 76(3)
      256      Nathan Perrone       def.      Huntley Allen        61 52 Ret.
      256      Zach Garner          def.      Vikash Singh         36 63 [7]
      256      Austin Abbrat        def.      Arvid Hjalte         63 62
@@ -413,7 +413,7 @@
      256      Tomas Reche          def.      Juan Sebastian Domi… 64 63
      256      Alex Mandma          def.      Savan Chhabra        61 61
      256      Nickolas Frisk       def.      Tom Ciszewski        36 62 [3]
-     256      kevin zhu            def.      Callaway Clark       62 63
+     256      Kevin Zhu            def.      Callaway Clark       62 63
      256      Axel Labrunie        def.      Pawit Sornlaksup     64 36 [7]
  > Prequalifying Consolation
   > Prequalifying Consolation
@@ -436,7 +436,7 @@
      128      Warren Fulgenzi      def.      Charles Morkel       63 61
      128      Krzystof Wetoszka    def.      Meg Siritaworachan   64 75
      128      Jason Hildebrandt    def.      William Grant        60 63
-     128      aditya gupta         def.      Ignacio Vinas        62 63
+     128      Aditya Gupta         def.      Ignacio Vinas        62 63
      128      Adam Neff            def.      Peyton Gatti         64 63
      128      Huntley Allen        def.      Thando Longwe-Smit   76(4) 64
      128      Jordi Redelijk       def.      Ryan Charles         76(4) 76(7)

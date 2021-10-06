@@ -53,7 +53,7 @@
      16 (9) Rotsaert/Fery        def.     Stewart/Henning      63 64
      16     Reynolds/Lithen      def.     Poling/Rodriguez     26 64 [7]
      16 (9) Siimar/Shelbayh      def.     Hassey/Smith         46 62 [12]
-     16     Malbasic/Hoeyeraal   def.     graziani/zhu         75 63
+     16     Malbasic/Hoeyeraal   def.     Graziani/Zhu         75 63
      16     Zhang/Heller         def. (9) Keremedchiev/Klov-N… 63 64
      16 (9) Hudd/Mitsui          def.     McKennon/Salle       16 63 [5]
      16 (7) Rodesch/Goetz        def.     Ciamarra/Harper      62 64
@@ -65,7 +65,7 @@
      32     Hassey/Smith         def.     Chidekh/Davis        61 62
      32 (9) Siimar/Shelbayh      def.     Junk/Slavic          63 64
      32     Malbasic/Hoeyeraal   def. (4) Torre Martin/Stable  76(1) 46 [4]
-     32     graziani/zhu         def.     Ornberg/Atherton     63 64
+     32     Graziani/Zhu         def.     Ornberg/Atherton     63 64
      32     Zhang/Heller         def.     Jakic/Tonejc         62 63
      32 (9) Keremedchiev/Klov-N… def.     Zink/Hammond         62 76(1)
      32     McKennon/Salle       def.     Paroulek/Brumm       63 63
@@ -88,7 +88,7 @@
      64 (9) Siimar/Shelbayh      def.     Tumosa/Straker-Meads 64 67(5) [8]
      64 (4) Torre Martin/Stable  def.     Valiev/Azoides       46 62 [8]
      64     Malbasic/Hoeyeraal   def.     Acosta/Cierny        Default
-     64     graziani/zhu         def.     Marson/Perego        62 46 [4]
+     64     Graziani/Zhu         def.     Marson/Perego        62 46 [4]
      64     Ornberg/Atherton     def. (9) Coste/Roberto        61 16 [7]
      64     Jakic/Tonejc         def. (5) Diallo/Musitelli     76(4) 75
      64     Zhang/Heller         def.     Bollipalli/Ferguson  76(4) 75
@@ -119,10 +119,10 @@
  > PSAC Men's Doubles
   > Main
       F (2) Yanni/Martinez    def.     Palombarini/Sabio   86
-     SF     Palombarini/Sabio def.     jaunmarti/Clary     86
+     SF     Palombarini/Sabio def.     Jaunmarti/Clary     86
      SF (2) Yanni/Martinez    def.     Arizpe/Barcelo      81
      QF     Palombarini/Sabio def. (1) Akinpetide/Jankovic 86
-     QF     jaunmarti/Clary   def.     Martins/Dorval      83
+     QF     Jaunmarti/Clary   def.     Martins/Dorval      83
      QF     Arizpe/Barcelo    def.     Cox/Cramer          82
      QF (2) Yanni/Martinez    def.     Cashin/Weber        81
 ~~~

@@ -680,11 +680,11 @@
      QF  Camilla Ciaccia      def.  Frankee Hendricks    62 61
      QF  Chole Kosmrlj        def.  Hanna Axelsson       76(5) 64
      QF  Viktorija Veselinova def.  Una Pandurevic       63 62
-     QF  Elena Gunfaus        def.  JESSICA BINZARI      63 64
+     QF  Elena Gunfaus        def.  Jessica Binzari      63 64
   > West
-      F  JESSICA BINZARI      def.  Hanna Axelsson       67(5) 64 [4]
+      F  Jessica Binzari      def.  Hanna Axelsson       67(5) 64 [4]
      SF  Hanna Axelsson       def.  Frankee Hendricks    67(4) 63 [12]
-     SF  JESSICA BINZARI      def.  Una Pandurevic       61 63
+     SF  Jessica Binzari      def.  Una Pandurevic       61 63
   > 3-4 Playoff
       F  Viktorija Veselinova def.  Chole Kosmrlj        Walkover
   > South
@@ -695,29 +695,29 @@
      SF  Flaminia Guidantoni  def.  Veronika Poliakova   57 60 [7]
      SF  Alex Lopez           def.  Lily Aranyos         61 61
      QF  Veronika Poliakova   def.  Summer Reeves        61 67(5) [10]
-     QF  Flaminia Guidantoni  def.  TAMARA MACIAS        63 64
+     QF  Flaminia Guidantoni  def.  Tamara Macias        63 64
      QF  Alex Lopez           def.  Natasha Forrest      76(4) 62
      QF  Lily Aranyos         def.  Marie Bertran De Ba… 64 63
   > West
       F  Summer Reeves        def.  Natasha Forrest      46 62 [7]
-     SF  Summer Reeves        def.  TAMARA MACIAS        60 36 [7]
+     SF  Summer Reeves        def.  Tamara Macias        60 36 [7]
      SF  Natasha Forrest      def.  Marie Bertran De Ba… Walkover
   > 3-4 Playoff
       F  Veronika Poliakova   def.  Lily Aranyos         62 63
   > South
-      F  TAMARA MACIAS        def.  Marie Bertran De Ba… Walkover
+      F  Tamara Macias        def.  Marie Bertran De Ba… Walkover
  > Green
   > East
       F  Jill Morse           def.  Paola Socarras       63 60
      SF  Jill Morse           def.  Vicky Beardsley      63 16 [7]
      SF  Paola Socarras       def.  Hannah Price         76(2) 76(7)
      QF  Jill Morse           def.  Jessica Ruetten      61 63
-     QF  Vicky Beardsley      def.  ZOE HEED             64 64
+     QF  Vicky Beardsley      def.  Zoe Heed             64 64
      QF  Paola Socarras       def.  Suzuka Sambyakugari  64 63
      QF  Hannah Price         def.  Caitlin Klaassen     75 63
   > West
-      F  Suzuka Sambyakugari  def.  ZOE HEED             62 62
-     SF  ZOE HEED             def.  Jessica Ruetten      76(3) 67 [3]
+      F  Suzuka Sambyakugari  def.  Zoe Heed             62 62
+     SF  Zoe Heed             def.  Jessica Ruetten      76(3) 67 [3]
      SF  Suzuka Sambyakugari  def.  Caitlin Klaassen     63 32 Ret.
   > 3-4 Playoff
       F  Hannah Price         def.  Vicky Beardsley      67(5) 62 [6]
@@ -729,41 +729,41 @@
      SF  Julia Speiser        def.  Lauren Laughton      62 61
      SF  Saga Berggren        def.  Kate Halickman       67(3) 62 [2]
      QF  Julia Speiser        def.  Daniella Galeano     36 60 [5]
-     QF  Lauren Laughton      def.  OLIVIA DRAKE         63 61
+     QF  Lauren Laughton      def.  Olivia Drake         63 61
      QF  Saga Berggren        def.  Carolina Correia     61 62
-     QF  Kate Halickman       def.  MICHELLE SCHAUB      61 62
+     QF  Kate Halickman       def.  Michelle Schaub      61 62
   > West
-      F  Daniella Galeano     def.  MICHELLE SCHAUB      64 61
-     SF  Daniella Galeano     def.  OLIVIA DRAKE         64 67(1) [6]
-     SF  MICHELLE SCHAUB      def.  Carolina Correia     62 67(5) [3]
+      F  Daniella Galeano     def.  Michelle Schaub      64 61
+     SF  Daniella Galeano     def.  Olivia Drake         64 67(1) [6]
+     SF  Michelle Schaub      def.  Carolina Correia     62 67(5) [3]
   > 3-4 Playoff
       F  Kate Halickman       def.  Lauren Laughton      36 64 [9]
   > South
-      F  Carolina Correia     def.  OLIVIA DRAKE         62 63
+      F  Carolina Correia     def.  Olivia Drake         62 63
  > Orange
   > East
       F  Maria Ulloa          def.  Elizabeth Vollmin    64 61
      SF  Elizabeth Vollmin    def.  Anita Chornei        63 46 [7]
      SF  Maria Ulloa          def.  Charisma Nuqui       61 60
      QF  Elizabeth Vollmin    def.  Anna Steiner         60 62
-     QF  Anita Chornei        def.  ANGELINA KRIEG       62 62
-     QF  Charisma Nuqui       def.  KHUSHI AGARWAL       76(4) 61
+     QF  Anita Chornei        def.  Angelina Krieg       62 62
+     QF  Charisma Nuqui       def.  Khushi Agarwal       76(4) 61
      QF  Maria Ulloa          def.  Yaritza Gonzalez     62 62
   > West
-      F  ANGELINA KRIEG       def.  KHUSHI AGARWAL       63 26 [2]
-     SF  ANGELINA KRIEG       def.  Anna Steiner         64 61
-     SF  KHUSHI AGARWAL       def.  Yaritza Gonzalez     62 61
+      F  Angelina Krieg       def.  Khushi Agarwal       63 26 [2]
+     SF  Angelina Krieg       def.  Anna Steiner         64 61
+     SF  Khushi Agarwal       def.  Yaritza Gonzalez     62 61
   > 3-4 Playoff
       F  Charisma Nuqui       def.  Anita Chornei        76(6) 46 [3]
   > South
       F  Yaritza Gonzalez     def.  Anna Steiner         26 62 [4]
  > Yellow
   > Main
-     R5  Lena Friedrich       def.  KATHERINE MATTHEWS   60 60
+     R5  Lena Friedrich       def.  Katherine Matthews   60 60
      R4  Lena Friedrich       def.  Reagan Sommariva     60 60
-     R4  Walker Gagnon        def.  KATHERINE MATTHEWS   60 60
+     R4  Walker Gagnon        def.  Katherine Matthews   60 60
      R3  Walker Gagnon        def.  Andi Billingsly      62 61
-     R3  Reagan Sommariva     def.  KATHERINE MATTHEWS   61 62
+     R3  Reagan Sommariva     def.  Katherine Matthews   61 62
      R2  Lena Friedrich       def.  Walker Gagnon        57 61 [3]
 ~~~
 

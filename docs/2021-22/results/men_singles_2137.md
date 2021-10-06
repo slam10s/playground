@@ -116,7 +116,7 @@
      16 (4) Louis Menard         def.     Arthur Serafim       60 10 Ret.
      16 (3) Mattia Ros           def.     Umit Ege Cankus      63 62
      16     Johnny Mascagni      def.     Daan Van Dijk        57 64 63
-     16     Tristan Sarap        def.     AJ Woodman           63 64
+     16     Tristan Sarap        def.     Aj Woodman           63 64
      16     Javier Ruiz Medina   def. (2) Matt Summers         63 64
      32     Arjun Kersten        def.     Diego Huttepain      64 64
      32     Elyes Marouani       def.     Martin Simecek       26 64 63
@@ -128,7 +128,7 @@
      32     Johnny Mascagni      def.     Corey Clarke         64 67(3) 63
      32     Daan Van Dijk        def. (5) Sebastian Buxman     75 57 62
      32     Tristan Sarap        def. (5) Robert Baylon        76(4) 64
-     32     AJ Woodman           def.     Jamieson Nathan      63 64
+     32     Aj Woodman           def.     Jamieson Nathan      63 64
      32     Javier Ruiz Medina   def.     Jordan Azuma         67(4) 63 63
   > West
       F (5) Sebastian Buxman     def.     Nejc Sitar           63 60
@@ -149,7 +149,7 @@
      QF     Arjun Kersten        def.     Elyes Marouani       Walkover
      QF     Justin Waldman       def.     Arthur Serafim       Walkover
      QF     Daan Van Dijk        def.     Umit Ege Cankus      62 67(5) [10]
-     QF (2) Matt Summers         def.     AJ Woodman           64 64
+     QF (2) Matt Summers         def.     Aj Woodman           64 64
   > South
      SF     Martin Simecek       def.     Hiroki Fujita        Walkover
      SF     Corey Clarke         def.     Jamieson Nathan      Walkover
@@ -280,10 +280,10 @@
   > Main
      32  Logan Chang          def.  Will Kasten          76(4) 16 [9]
      32  Dmitry Bezborodov    def.  Matt Campbell        46 63 62
-     32  Victor Castro        def.  shreekar eedara      62 36 62
-     32  Diego Serra Sparrow  def.  connor mcdonald      62 61
-     32  max motlagh          def.  Andrew Ilie          63 64
-     32  jj bianchi           def.  Alex Knox-Jones      62 46 64
+     32  Victor Castro        def.  Shreekar Eedara      62 36 62
+     32  Diego Serra Sparrow  def.  Connor Mcdonald      62 61
+     32  Max Motlagh          def.  Andrew Ilie          63 64
+     32  Jj Bianchi           def.  Alex Knox-Jones      62 46 64
      32  Alejandro Quiles     def.  Niels Van Noord      63 26 61
      32  Hikaru Takeda        def.  Charlie Penman       63 61
      32  Luke Neal            def.  Teague Burger        75 75
@@ -293,13 +293,13 @@
  > Draw 2
   > Main
      32  Teague Burger        def.  Logan Chang          62 64
-     32  Anders Gibbons       def.  connor mcdonald      60 62
-     32  Sid Chari            def.  bennett turner       61 63
+     32  Anders Gibbons       def.  Connor Mcdonald      60 62
+     32  Sid Chari            def.  Bennett Turner       61 63
      32  Aidan Reilly         def.  Will Kasten          64 67(5) 62
-     32  Walker Oberg         def.  mason fung           61 60
+     32  Walker Oberg         def.  Mason Fung           61 60
      32  Renaud Lefevre       def.  Matt Campbell        61 76(2)
-     32  Luke Neal            def.  shreekar eedara      63 46 62
-     32  Alejandro Quiles     def.  max motlagh          64 62
+     32  Luke Neal            def.  Shreekar Eedara      63 46 62
+     32  Alejandro Quiles     def.  Max Motlagh          64 62
      32  Dmitry Bezborodov    def.  Alex Knox-Jones      75 62
      32  Carlos Guerrero Alv… def.  Niels Van Noord      64 62
      32  Daniel Webb          def.  Charlie Penman       63 26 62
@@ -308,21 +308,21 @@
   > Main
      32  Logan Chang          def.  Victor Castro        46 64 63
      32  Dmitry Bezborodov    def.  Alexander Pritzker   63 46 61
-     32  max motlagh          def.  Teague Burger        63 60
-     32  bennett turner       def.  Andrew Pregel        64 76(4)
+     32  Max Motlagh          def.  Teague Burger        63 60
+     32  Bennett Turner       def.  Andrew Pregel        64 76(4)
      32  Niels Van Noord      def.  Will Kasten          64 61
-     32  Charlie Penman       def.  mason fung           63 Ret.
+     32  Charlie Penman       def.  Mason Fung           63 Ret.
      32  Andrew Ilie          def.  Renaud Lefevre       67(4) 60 64
      32  Luke Neal            def.  Alex Knox-Jones      63 75
      32  Alejandro Quiles     def.  Matt Campbell        36 63 61
-     32  shreekar eedara      def.  Hikaru Takeda        75 61
+     32  Shreekar Eedara      def.  Hikaru Takeda        75 61
      32  Aidan Reilly         def.  Carlos Guerrero Alv… 76(3) 63
-     32  Walker Oberg         def.  connor mcdonald      63 64
+     32  Walker Oberg         def.  Connor Mcdonald      63 64
      32  Anders Gibbons       def.  Diego Serra Sparrow  16 62 64
      32  Sid Chari            def.  Diego Trejo          63 64
  > Draw 4
   > Main
-     32  bennett turner       def.  Diego Trejo          64 76(4)
+     32  Bennett Turner       def.  Diego Trejo          64 76(4)
 ~~~
 
 <a name="21-67582"></a>
@@ -884,13 +884,13 @@
       F  Mikey Weitz         def.  Andre Singer        75 63
  > Flight F
   > East
-      F  JJ Henderson        def.  Jonah Murphy        67(3) 63 [5]
+      F  Jj Henderson        def.  Jonah Murphy        67(3) 63 [5]
      SF  Jonah Murphy        def.  Michael Rooney      64 63
-     SF  JJ Henderson        def.  Juan Bejarano-Gamez 64 61
+     SF  Jj Henderson        def.  Juan Bejarano-Gamez 64 61
      QF  Jonah Murphy        def.  Nick Potter         76(3) 63
      QF  Michael Rooney      def.  Henrik Lindeman     63 64
      QF  Juan Bejarano-Gamez def.  Hassan Elalami      62 62
-     QF  JJ Henderson        def.  Benito Vlassis      63 62
+     QF  Jj Henderson        def.  Benito Vlassis      63 62
   > West
      SF  Henrik Lindeman     def.  Nick Potter         62 75
      SF  Hassan Elalami      def.  Benito Vlassis      62 75
@@ -945,7 +945,7 @@
      32  Takahiro Inoue       def.  Elia Barozzi         62 64
      32  Daniel Llorente      def.  Desire Johnson       61 62
      32  Ruben Acuna          def.  Taiki Umeda          64 63
-     32  Robert Steinhauser   def.  albert jaunmarti     64 62
+     32  Robert Steinhauser   def.  Albert Jaunmarti     64 62
      32  David Akinpetide     def.  Seena Saadevandi     60 57 [4]
      32  Frederik Bau-Madsen  def.  Chia Chun Chiang     61 75
      64  Camillo Salvi        def.  Juan Carlos Hernand… 26 61 [6]
@@ -961,7 +961,7 @@
      64  Elia Barozzi         def.  Nevio Dux            63 62
      64  Desire Johnson       def.  Morris Haab          36 64 [11]
      64  Taiki Umeda          def.  Brandon Caban        63 76(5)
-     64  albert jaunmarti     def.  Ryan Mullins         61 60
+     64  Albert Jaunmarti     def.  Ryan Mullins         61 60
      64  Seena Saadevandi     def.  Isfandiyor Makhmudov 62 76(6)
      64  Chia Chun Chiang     def.  Alejandro Martinez   63 62
   > Consolation
@@ -998,7 +998,7 @@
      16  David Velayos        def.  Lino Morin           46 63 [7]
      16  Hristo Plasheski     def.  Aidan Cashin         61 61
      16  Robin Luetzig        def.  Anthony Martins      63 26 [9]
-     32  Caleb Beidle         def.  chaitanya choudhary  75 64
+     32  Caleb Beidle         def.  Chaitanya Choudhary  75 64
      32  Kiran Richards       def.  Vinicius Azeredo     36 62 [9]
      32  Alex Stacy           def.  Zach Pernia          63 61
      32  Elias Valencia       def.  Syno Tegelaar        46 62 [9]
@@ -1043,7 +1043,7 @@
      16  Jorge Barra          def.  Alex Ramsey          60 61
      16  Ting-yu Yen          def.  Alfonso Zerpa        16 63 [5]
      16  Alex Cottrell        def.  Nicholas Balaci      62 62
-     32  Christoph Baroudi    def.  chaitanya choudhary  36 63 [8]
+     32  Christoph Baroudi    def.  Chaitanya Choudhary  36 63 [8]
      32  Vinicius Azeredo     def.  Juan Manuel de Frei… 64 60
      32  Zach Pernia          def.  Ethan Thomas         60 60
      32  Dylan Tull           def.  Felix Weber          61 62
@@ -1355,7 +1355,7 @@
      16  Gabriel Ortiz        def.  Jesus Fernandez      75 75
      16  Jose Dugo            def.  Ernesto Martinez     75 61
      16  Jodi Puig            def.  Guilhem Perez Le Ti… 63 46 [11]
-     16  Agustin Tamagnone    def.  Federico GOMEZ       62 64
+     16  Agustin Tamagnone    def.  Federico Gomez       62 64
      16  Daniel Czepielewski  def.  Valentin Popescu     64 75
      16  Valentino Caratini   def.  Jaiden Watts         64 60
      32  Alex Gurmendi        def.  Alan Toleu           62 62
@@ -1369,7 +1369,7 @@
      32  Jodi Puig            def.  Alexandre Verlaguet  63 36 [6]
      32  Guilhem Perez Le Ti… def.  Gregorio Magnarelli  62 64
      32  Agustin Tamagnone    def.  Rubin Howard         62 60
-     32  Federico GOMEZ       def.  Federico Bonacia     67(6) 63 [8]
+     32  Federico Gomez       def.  Federico Bonacia     67(6) 63 [8]
      32  Valentin Popescu     def.  Valentin Ortiz       62 64
      32  Daniel Czepielewski  def.  Vicente Rivas        64 63
      32  Jaiden Watts         def.  Tomas Pacera         62 63
@@ -1379,7 +1379,7 @@
      64  Sam Alexander        def.  Jhoann Osorio        63 63
      64  Jesus Fernandez      def.  Joe Herin            61 62
      64  Ernesto Martinez     def.  Said Santin          64 36 [7]
-     64  Federico GOMEZ       def.  Mirko Dedich         60 61
+     64  Federico Gomez       def.  Mirko Dedich         60 61
      64  Valentin Ortiz       def.  Max Duzinkiewicz     61 61
      64  Valentin Popescu     def.  Guido Luna           63 62
      64  Tomas Pacera         def.  Connor Lord          67(6) 75 [7]
