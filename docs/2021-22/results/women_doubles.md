@@ -5,10 +5,10 @@
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
+- 10/4/2021 - [ITA Women's All-American Championship](#21-68261) ([Results](#21-68261) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/7737FD94-882F-4257-A700-306375BD09EC" target="_blank">2nd UCA FALL INVITATIONAL TOURNAMENT</a>  
-- 10/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">ITA Women's All-American Championship</a>  
 
 **Upcoming Tournaments**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCCharlotteW/Tournaments/Overview/928AA6BE-846A-430B-89FA-222F70E8CCBB" target="_blank">49er Invite</a>  
@@ -181,6 +181,34 @@
      16 (4) Wallace/Htwar        def.     Aughenbaugh/Strouse  80
      16     Alexander/Lee        def.     Makarski/Maher       82
      16 (2) Munday/Stralka       def.     Winseck/Duran        82
+~~~
+
+<a name="21-68261"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  ITA Women's All-American Championship
+  Dates: Oct 4-10, 2021
+  Host: ITA
+══════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+     32 (1) Corley/Corley         vs      Verma/Di Palma       Wed @ 15:00
+     32     Louka/Thompson        vs      Sasnouskaya/Starodu… Wed @ 15:30
+     32 (8) Tran/Sanford          vs      Lamoreaux/Dush       Wed @ 15:00
+     32     Bridges/Babic         vs      Gulihur/Melilo       Wed @ 16:00
+     32 (3) Makarova/Goldsmith    vs      Campana/Campana      Wed @ 16:30
+     32     Antonaki/Racine       vs      Lewis/Pietrowicz     Wed @ 15:00
+     32 (5) Murgett/Oliveira      vs      Tjen/Flores          Wed @ 16:30
+     32     Adams/Dillon          vs      Ansari/Ovunc         Wed @ 16:45
+     32     Bryzgalova/Curnic     vs      Mannix/Noel          Wed @ 16:45
+     32     Daniel/Smith          vs  (7) Fukuda/Pachkaleva    Wed @ 17:30
+     32     Lilien/Freeman        vs      Kadleckova/Naklo     Wed @ 14:30
+     32     Colling/Goldsmith     vs  (4) Kuczer/Adeshina      Wed @ 16:00
+     32     Allen/Hule            vs      Poppe/Conde Monfort  Wed @ 17:30
+     32     Axon/Flach            vs  (6) Brylin/Killingsworth Wed @ 14:30
+     32     Verden-Anderson/Pur…  vs      Hand/Crowley         Wed @ 15:30
+     32     Collard/Chervinsky    vs  (2) Berankova/Beck       Wed @ 17:30
 ~~~
 
 Return to the [Top](./women_doubles_2140.md) &#124; [Home Page](../../index.md)

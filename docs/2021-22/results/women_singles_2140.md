@@ -369,93 +369,100 @@
 
 <a name="21-68261"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Women's All-American Championship
   Dates: Oct 4-10, 2021
   Host: ITA
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Main Draw
   > Main
-      32  Abigail Forbes        vs   Julia Adams          Wed @ 09:30
-      32  Kelly Chen            vs   Salma Ewing          Wed @ 09:30
-      32  Emmanouela Antonaki   vs   Chloe Beck           Wed @ 09:45
-      32  Tatiana Makarova      vs   Lea Ma               Wed @ 09:45
-      32  Vanessa Wong          vs   Valeriya Zelevka     Wed @ 10:00
-      32  Gina Dittmann         vs   Alexa Noel           Wed @ 10:00
-      32  Carolyn Campana       vs   Bunyawi Thamchaiwat  Wed @ 12:00
-      32  Laia Conde Monfort    vs   Janice Tjen          Wed @ 12:00
+      32 (1) Abigail Forbes        vs      Julia Adams          Wed @ 09:30
+      32     Selin Ovunc           vs      Taisiya Pachkaleva   Wed @ 13:30
+      32 (7) Viktoryia Kanapatsk…  vs      Alana Smith          Wed @ 12:30
+      32     Kelly Chen            vs      Salma Ewing          Wed @ 09:30
+      32     Emmanouela Antonaki  def.     Chloe Beck           61 26 76(3)
+      32 (6) Tatiana Makarova      vs      Lea Ma               Wed @ 09:45
+      32     Victoria Flores       vs      Sarah Hamner         Wed @ 13:15
+      32     Vanessa Wong          vs      Valeriya Zelevka     Wed @ 10:00
+      32     Gina Dittmann         vs  (8) Alexa Noel           Wed @ 10:00
+      32     Ayana Akli            vs      Isabella Pfennig     Wed @ 13:30
+      32     Shiori Fukuda         vs  (3) Georgia Drummy       Wed @ 13:45
+      32     Rebeka Mertena        vs      Victoria Hu          Wed @ 14:00
+      32     Carolyn Campana       vs  (5) Bunyawi Thamchaiwat  Wed @ 12:00
+      32     Meg Kowalski          vs      Eryn Cayetano        Wed @ 13:00
+      32     Laia Conde Monfort    vs  (2) Janice Tjen          Wed @ 12:00
  > Qualifying Draw
   > Qualifying - Main
-      16  Alana Smith           vs   Carmen Corley        Wed @ 08:00
-      16  Marlee Zein           vs   Kylie Collns         Wed @ 08:00
-      16  Sabina Machalova      vs   Eryn Cayetano        Wed @ 08:00
-      16  Yuliia Starodubtseva  vs   Taisiya Pachkaleva   Wed @ 08:00
-      16  Sarah Hamner          vs   Fiona Crawley        Wed @ 08:00
-      16  Dana Guzman           vs   Ayana Akli           Wed @ 08:00
-      16  Victoria Hu           vs   Ivana Corley         Wed @ 08:00
-      16  Anna Brylin           vs   Shiori Fukuda        Wed @ 08:00
-      32  Alana Smith          def.  Tatsiana Sasnouskaya 36 62 64
-      32  Carmen Corley        def.  Valentina Ivanov     61 63
-      32  Marlee Zein          def.  Anna Campana         62 64
-      32  Kylie Collns         def.  Federica Trevisan    60 63
-      32  Sabina Machalova     def.  Ahmeir Kyle          63 62
-      32  Eryn Cayetano        def.  Jaeda Daniel         64 62
-      32  Yuliia Starodubtseva def.  Margarita Skriabina  64 57 75
-      32  Taisiya Pachkaleva   def.  Jessica Alsola       63 75
-      32  Sarah Hamner         def.  Lisa Zaar            46 64 64
-      32  Fiona Crawley        def.  Abigail Rencheli     60 30 Ret.
-      32  Dana Guzman          def.  Mary Stoiana         61 61
-      32  Ayana Akli           def.  Miska Kadleckova     60 76(4)
-      32  Victoria Hu          def.  Andrea Di Palma      36 63 75
-      32  Ivana Corley         def.  Hannah Viller Moell… 16 64 62
-      32  Anna Brylin          def.  Sedona Gallagher     26 63 62
-      32  Shiori Fukuda        def.  Anika Yarlagadda     60 62
-      64  Alana Smith          def.  Clarissa Hand        63 30 Ret.
-      64  Tatsiana Sasnouskaya def.  Iuliia Bryzgalova    62 61
-      64  Valentina Ivanov     def.  Patricija Spaka      61 36 64
-      64  Carmen Corley        def.  Taylor Bridges       62 75
-      64  Marlee Zein          def.  Cameron Morra        46 75 60
-      64  Anna Campana         def.  Paola Exposito Diaz… 76(4) 63
-      64  Kylie Collns         def.  Melodie Collard      61 60
-      64  Federica Trevisan    def.  Megan Davies         64 64
-      64  Sabina Machalova     def.  Evgeniya Levashova   76(2) 61
-      64  Ahmeir Kyle          def.  Madeline Lamoreaux   46 64 62
-      64  Jaeda Daniel         def.  Mell Reasco          64 75
-      64  Eryn Cayetano        def.  Brianna Shvets       63 63
-      64  Margarita Skriabina  def.  Kari Miller          63 46 76(3)
-      64  Yuliia Starodubtseva def.  Anna Riedmiller      06 62 60
-      64  Jessica Alsola       def.  Xinyu Cai            76(4) 63
-      64  Taisiya Pachkaleva   def.  Thasaporn Naklo      16 62 76(1)
-      64  Lisa Zaar            def.  Taylor Melville      36 61 60
-      64  Sarah Hamner         def.  Zoe Howard           64 64
-      64  Abigail Rencheli     def.  Carly Briggs         62 61
-      64  Fiona Crawley        def.  Bronte Murgett       46 63 75
-      64  Dana Guzman          def.  Elaine Chervinsky    76(8) 63
-      64  Mary Stoiana         def.  Marina Alcaide       62 61
-      64  Miska Kadleckova     def.  Carolyn Ansari       64 63
-      64  Ayana Akli           def.  Sarah-Maude Fortin   63 60
-      64  Andrea Di Palma      def.  Shakhnoza Khatamova  75 60
-      64  Victoria Hu          def.  Eleni Louka          61 61
-      64  Hannah Viller Moell… def.  Shura Poppe          60 62
-      64  Ivana Corley         def.  Solymar Colling      36 63 63
-      64  Sedona Gallagher     def.  Sophie Abrams        46 61 64
-      64  Anna Brylin          def.  Sabine Rutlauka      60 64
-      64  Anika Yarlagadda     def.  Morgan Coppoc        64 36 75
-      64  Shiori Fukuda        def.  Indianna Spink       62 64
+      16 (1) Alana Smith          def.     Carmen Corley        61 63
+      16     Marlee Zein          def.     Kylie Collns         75 57 64
+      16     Eryn Cayetano        def. (3) Sabina Machalova     63 63
+      16     Taisiya Pachkaleva   def.     Yuliia Starodubtseva 61 64
+      16 (9) Sarah Hamner         def.     Fiona Crawley        76(2) 61
+      16 (4) Ayana Akli           def.     Dana Guzman          60 76(4)
+      16 (9) Victoria Hu          def.     Ivana Corley         63 62
+      16     Shiori Fukuda        def.     Anna Brylin          64 64
+      32 (1) Alana Smith          def.     Tatsiana Sasnouskaya 36 62 64
+      32     Carmen Corley        def.     Valentina Ivanov     61 63
+      32     Marlee Zein          def.     Anna Campana         62 64
+      32     Kylie Collns         def.     Federica Trevisan    60 63
+      32 (3) Sabina Machalova     def.     Ahmeir Kyle          63 62
+      32     Eryn Cayetano        def.     Jaeda Daniel         64 62
+      32     Yuliia Starodubtseva def.     Margarita Skriabina  64 57 75
+      32     Taisiya Pachkaleva   def. (9) Jessica Alsola       63 75
+      32 (9) Sarah Hamner         def.     Lisa Zaar            46 64 64
+      32     Fiona Crawley        def.     Abigail Rencheli     60 30 Ret.
+      32     Dana Guzman          def. (9) Mary Stoiana         61 61
+      32 (4) Ayana Akli           def.     Miska Kadleckova     60 76(4)
+      32 (9) Victoria Hu          def.     Andrea Di Palma      36 63 75
+      32     Ivana Corley         def.     Hannah Viller Moell… 16 64 62
+      32     Anna Brylin          def.     Sedona Gallagher     26 63 62
+      32     Shiori Fukuda        def.     Anika Yarlagadda     60 62
+      64 (1) Alana Smith          def.     Clarissa Hand        63 30 Ret.
+      64     Tatsiana Sasnouskaya def.     Iuliia Bryzgalova    62 61
+      64     Valentina Ivanov     def. (9) Patricija Spaka      61 36 64
+      64     Carmen Corley        def.     Taylor Bridges       62 75
+      64     Marlee Zein          def. (7) Cameron Morra        46 75 60
+      64     Anna Campana         def.     Paola Exposito Diaz… 76(4) 63
+      64     Kylie Collns         def. (9) Melodie Collard      61 60
+      64     Federica Trevisan    def.     Megan Davies         64 64
+      64 (3) Sabina Machalova     def.     Evgeniya Levashova   76(2) 61
+      64     Ahmeir Kyle          def.     Madeline Lamoreaux   46 64 62
+      64     Jaeda Daniel         def. (9) Mell Reasco          64 75
+      64     Eryn Cayetano        def.     Brianna Shvets       63 63
+      64     Margarita Skriabina  def. (6) Kari Miller          63 46 76(3)
+      64     Yuliia Starodubtseva def.     Anna Riedmiller      06 62 60
+      64 (9) Jessica Alsola       def.     Xinyu Cai            76(4) 63
+      64     Taisiya Pachkaleva   def.     Thasaporn Naklo      16 62 76(1)
+      64     Lisa Zaar            def.     Taylor Melville      36 61 60
+      64 (9) Sarah Hamner         def.     Zoe Howard           64 64
+      64     Abigail Rencheli     def.     Carly Briggs         62 61
+      64     Fiona Crawley        def. (8) Bronte Murgett       46 63 75
+      64     Dana Guzman          def.     Elaine Chervinsky    76(8) 63
+      64 (9) Mary Stoiana         def.     Marina Alcaide       62 61
+      64     Miska Kadleckova     def.     Carolyn Ansari       64 63
+      64 (4) Ayana Akli           def.     Sarah-Maude Fortin   63 60
+      64     Andrea Di Palma      def.     Shakhnoza Khatamova  75 60
+      64 (9) Victoria Hu          def.     Eleni Louka          61 61
+      64     Hannah Viller Moell… def.     Shura Poppe          60 62
+      64     Ivana Corley         def. (5) Solymar Colling      36 63 63
+      64     Sedona Gallagher     def.     Sophie Abrams        46 61 64
+      64     Anna Brylin          def. (9) Sabine Rutlauka      60 64
+      64     Anika Yarlagadda     def.     Morgan Coppoc        64 36 75
+      64     Shiori Fukuda        def. (2) Indianna Spink       62 64
   > Qualifying - Consolation
-     32Q  Paola Exposito Diaz…  vs   Iuliia Bryzgalova    Wed @ 09:30
-     32Q  Patricija Spaka       vs   Taylor Bridges       Wed @ 09:30
-     32Q  Melodie Collard       vs   Anna Campana         Wed @ 12:00
-     32Q  Evgeniya Levashova    vs   Madeline Lamoreaux   Wed @ 09:30
-     32Q  Mell Reasco           vs   Xinyu Cai            Wed @ 11:00
-     32Q  Kari Miller           vs   Morgan Coppoc        Wed @ 09:30
-     32Q  Carly Briggs          vs   Bronte Murgett       Wed @ 12:30
-     32Q  Elaine Chervinsky     vs   Lisa Zaar            Wed @ 13:30
-     32Q  Carolyn Ansari        vs   Sarah-Maude Fortin   Wed @ 11:30
-     32Q  Shakhnoza Khatamova   vs   Eleni Louka          Wed @ 11:30
-     32Q  Shura Poppe           vs   Solymar Colling      Wed @ 11:30
-     32Q  Sophie Abrams         vs   Sabine Rutlauka      Wed @ 12:30
+     32Q     Iuliia Bryzgalova    def.     Paola Exposito Diaz… 76(6) 76(4)
+     32Q (9) Patricija Spaka      def.     Taylor Bridges       75 63
+     32Q (9) Melodie Collard       vs      Anna Campana         Wed @ 12:00
+     32Q     Evgeniya Levashova   def.     Madeline Lamoreaux   60 62
+     32Q     Xinyu Cai            def. (9) Mell Reasco          60 36 62
+     32Q (6) Kari Miller          def.     Morgan Coppoc        63 63
+     32Q     Carly Briggs          vs  (8) Bronte Murgett       Wed @ 12:30
+     32Q     Elaine Chervinsky     vs      Lisa Zaar            Wed @ 13:30
+     32Q     Carolyn Ansari        vs      Sarah-Maude Fortin   Wed @ 11:30
+     32Q     Shakhnoza Khatamova  def.     Eleni Louka          63 62
+     32Q     Shura Poppe           vs  (5) Solymar Colling      Wed @ 11:30
+     32Q     Sophie Abrams         vs  (9) Sabine Rutlauka      Wed @ 12:30
 ~~~
 
 Return to the [Top](./women_singles_2140.md) &#124; [Home Page](../../index.md)
