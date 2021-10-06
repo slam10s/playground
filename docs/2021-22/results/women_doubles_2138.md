@@ -50,127 +50,127 @@
 
 <a name="21-14491"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Division II Women's Midwest ITA Regional Championships
   Dates: Sep 18-20, 2021
   Host: Univ. Of Indianapolis (W)
-════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw B Doubles
   > Main
-       F ((1)) Hernandez/Griva      def.       Uzcategui/Dizon      86
-      SF ((1)) Hernandez/Griva      def.       Sole/Malpass         83
-      SF       Uzcategui/Dizon      def. ((2)) Carofano/Yamagachi   86
-      QF ((1)) Hernandez/Griva      def.       Koua/Ranjan          83
-      QF       Sole/Malpass         def.       Hadler/Resor         85
-      QF       Uzcategui/Dizon      def.       Brito/Pereyra        86
-      QF ((2)) Carofano/Yamagachi   def.       Gilman/Fraile Raton  83
-      16 ((1)) Hernandez/Griva      def.       Tsuen/Raslan         83
-      16       Koua/Ranjan          def.       Spinazze/Wagner      82
-      16       Sole/Malpass         def. ((4)) Cupper/Lisson        85
-      16       Hadler/Resor         def.       Rittel/Chawner       84
-      16       Brito/Pereyra        def.       Hanover/Huang        86
-      16       Uzcategui/Dizon      def. ((3)) Laverdiere/Martin G… 83
-      16       Gilman/Fraile Raton  def.       Trystan/Platisota    Walkover
-      16 ((2)) Carofano/Yamagachi   def.       Gamborino/Sanchez    82
+       F (1) Hernandez/Griva      def.     Uzcategui/Dizon      86
+      SF (1) Hernandez/Griva      def.     Sole/Malpass         83
+      SF     Uzcategui/Dizon      def. (2) Carofano/Yamagachi   86
+      QF (1) Hernandez/Griva      def.     Koua/Ranjan          83
+      QF     Sole/Malpass         def.     Hadler/Resor         85
+      QF     Uzcategui/Dizon      def.     Brito/Pereyra        86
+      QF (2) Carofano/Yamagachi   def.     Gilman/Fraile Raton  83
+      16 (1) Hernandez/Griva      def.     Tsuen/Raslan         83
+      16     Koua/Ranjan          def.     Spinazze/Wagner      82
+      16     Sole/Malpass         def. (4) Cupper/Lisson        85
+      16     Hadler/Resor         def.     Rittel/Chawner       84
+      16     Brito/Pereyra        def.     Hanover/Huang        86
+      16     Uzcategui/Dizon      def. (3) Laverdiere/Martin G… 83
+      16     Gilman/Fraile Raton  def.     Trystan/Platisota    Walkover
+      16 (2) Carofano/Yamagachi   def.     Gamborino/Sanchez    82
   > Consolation
-       F       Spinazze/Wagner      def.       Hanover/Huang        82
-      SF       Spinazze/Wagner      def. ((4)) Cupper/Lisson        82
-      SF       Hanover/Huang        def.       Gamborino/Sanchez    86
-      QF       Gamborino/Sanchez    def.       Gilman/Fraile Raton  83
-      QQ       Spinazze/Wagner      def.       Tsuen/Raslan         97
-      QQ ((4)) Cupper/Lisson        def.       Rittel/Chawner       86
-      QQ       Hanover/Huang        def. ((3)) Laverdiere/Martin G… 83
-      QQ       Gamborino/Sanchez    def.       Trystan/Platisota    Walkover
+       F     Spinazze/Wagner      def.     Hanover/Huang        82
+      SF     Spinazze/Wagner      def. (4) Cupper/Lisson        82
+      SF     Hanover/Huang        def.     Gamborino/Sanchez    86
+      QF     Gamborino/Sanchez    def.     Gilman/Fraile Raton  83
+      QQ     Spinazze/Wagner      def.     Tsuen/Raslan         97
+      QQ (4) Cupper/Lisson        def.     Rittel/Chawner       86
+      QQ     Hanover/Huang        def. (3) Laverdiere/Martin G… 83
+      QQ     Gamborino/Sanchez    def.     Trystan/Platisota    Walkover
  > Draw A Doubles
   > Main
-       F ((1)) Novikova/Dunlap      def.       Stephenson/Waller    61 64
-      SF ((1)) Novikova/Dunlap      def.       Lagoda/Cakarevic     84
-      SF       Stephenson/Waller    def.       Cabrera/Ballesteros  81
-      QF ((1)) Novikova/Dunlap      def.       Daavettila/Lavenant  84
-      QF       Lagoda/Cakarevic     def.       Alvarado/Sweet       84
-      QF       Stephenson/Waller    def. ((3)) Solnyshkina/Sharono… 86
-      QF       Cabrera/Ballesteros  def.       Shumilova/Coetzee    82
-      16 ((1)) Novikova/Dunlap      def.       Neves/Dzenga         84
-      16       Daavettila/Lavenant  def. ((8)) Salenko/Smith        83
-      16       Lagoda/Cakarevic     def.       McCorkle/Rowe        84
-      16       Alvarado/Sweet       def. ((5)) Samberger/Abazi      84
-      16       Stephenson/Waller    def.       Griva/Barrett        86
-      16 ((3)) Solnyshkina/Sharono… def.       Baigorria/Whip       80
-      16       Cabrera/Ballesteros  def. ((6)) Nolan/Klak           85
-      16       Shumilova/Coetzee    def.       Orlove/Velazquez     98(3)
-      32 ((1)) Novikova/Dunlap      def.       Lopez/Kintscher      83
-      32       Neves/Dzenga         def.       Hills/Sueflohn       85
-      32 ((8)) Salenko/Smith        def.       Ballach/Opalewski    84
-      32       Daavettila/Lavenant  def.       Pascual/Cincunegui   83
-      32       Lagoda/Cakarevic     def.       Leko/Canellopolous   84
-      32       McCorkle/Rowe        def.       Velichko/Baker       80
-      32 ((5)) Samberger/Abazi      def.       Hollis/Totten        84
-      32       Alvarado/Sweet       def.       Reed/Lake            83
-      32       Griva/Barrett        def.       Fonseca/Cipriani     84
-      32       Stephenson/Waller    def. ((7)) Krygier/Arquette     82
-      32       Baigorria/Whip       def.       Luna/McGivern        81
-      32 ((3)) Solnyshkina/Sharono… def.       Schrepferman/Bucco … 80
-      32       Cabrera/Ballesteros  def.       Padberg/Beidacki     81
-      32 ((6)) Nolan/Klak           def.       Skjelstad/Mokhasi    82
-      32       Orlove/Velazquez     def.       Kuehnle/Eremina      85
-      32       Shumilova/Coetzee    def. ((2)) Zafeiri/Reisch       97
+       F (1) Novikova/Dunlap      def.     Stephenson/Waller    61 64
+      SF (1) Novikova/Dunlap      def.     Lagoda/Cakarevic     84
+      SF     Stephenson/Waller    def.     Cabrera/Ballesteros  81
+      QF (1) Novikova/Dunlap      def.     Daavettila/Lavenant  84
+      QF     Lagoda/Cakarevic     def.     Alvarado/Sweet       84
+      QF     Stephenson/Waller    def. (3) Solnyshkina/Sharono… 86
+      QF     Cabrera/Ballesteros  def.     Shumilova/Coetzee    82
+      16 (1) Novikova/Dunlap      def.     Neves/Dzenga         84
+      16     Daavettila/Lavenant  def. (8) Salenko/Smith        83
+      16     Lagoda/Cakarevic     def.     McCorkle/Rowe        84
+      16     Alvarado/Sweet       def. (5) Samberger/Abazi      84
+      16     Stephenson/Waller    def.     Griva/Barrett        86
+      16 (3) Solnyshkina/Sharono… def.     Baigorria/Whip       80
+      16     Cabrera/Ballesteros  def. (6) Nolan/Klak           85
+      16     Shumilova/Coetzee    def.     Orlove/Velazquez     98(3)
+      32 (1) Novikova/Dunlap      def.     Lopez/Kintscher      83
+      32     Neves/Dzenga         def.     Hills/Sueflohn       85
+      32 (8) Salenko/Smith        def.     Ballach/Opalewski    84
+      32     Daavettila/Lavenant  def.     Pascual/Cincunegui   83
+      32     Lagoda/Cakarevic     def.     Leko/Canellopolous   84
+      32     McCorkle/Rowe        def.     Velichko/Baker       80
+      32 (5) Samberger/Abazi      def.     Hollis/Totten        84
+      32     Alvarado/Sweet       def.     Reed/Lake            83
+      32     Griva/Barrett        def.     Fonseca/Cipriani     84
+      32     Stephenson/Waller    def. (7) Krygier/Arquette     82
+      32     Baigorria/Whip       def.     Luna/McGivern        81
+      32 (3) Solnyshkina/Sharono… def.     Schrepferman/Bucco … 80
+      32     Cabrera/Ballesteros  def.     Padberg/Beidacki     81
+      32 (6) Nolan/Klak           def.     Skjelstad/Mokhasi    82
+      32     Orlove/Velazquez     def.     Kuehnle/Eremina      85
+      32     Shumilova/Coetzee    def. (2) Zafeiri/Reisch       97
   > Consolation
-       F       Kuehnle/Eremina      def.       Leko/Canellopolous   86
-      SF       Leko/Canellopolous   def.       Lopez/Kintscher      86
-      SF       Kuehnle/Eremina      def.       Luna/McGivern        82
-      QF       Lopez/Kintscher      def.       Pascual/Cincunegui   82
-      QF       Leko/Canellopolous   def.       Hollis/Totten        Walkover
-      QF       Luna/McGivern        def.       Fonseca/Cipriani     85
-      QF       Kuehnle/Eremina      def.       Padberg/Beidacki     86
-     16Q       Lopez/Kintscher      def.       Hills/Sueflohn       83
-     16Q       Pascual/Cincunegui   def.       Ballach/Opalewski    84
-     16Q       Leko/Canellopolous   def.       Velichko/Baker       97
-     16Q       Hollis/Totten        def.       Reed/Lake            86
-     16Q       Fonseca/Cipriani     def. ((7)) Krygier/Arquette     86
-     16Q       Luna/McGivern        def.       Schrepferman/Bucco … 86
-     16Q       Padberg/Beidacki     def.       Skjelstad/Mokhasi    98(5)
-     16Q       Kuehnle/Eremina      def. ((2)) Zafeiri/Reisch       81
+       F     Kuehnle/Eremina      def.     Leko/Canellopolous   86
+      SF     Leko/Canellopolous   def.     Lopez/Kintscher      86
+      SF     Kuehnle/Eremina      def.     Luna/McGivern        82
+      QF     Lopez/Kintscher      def.     Pascual/Cincunegui   82
+      QF     Leko/Canellopolous   def.     Hollis/Totten        Walkover
+      QF     Luna/McGivern        def.     Fonseca/Cipriani     85
+      QF     Kuehnle/Eremina      def.     Padberg/Beidacki     86
+     16Q     Lopez/Kintscher      def.     Hills/Sueflohn       83
+     16Q     Pascual/Cincunegui   def.     Ballach/Opalewski    84
+     16Q     Leko/Canellopolous   def.     Velichko/Baker       97
+     16Q     Hollis/Totten        def.     Reed/Lake            86
+     16Q     Fonseca/Cipriani     def. (7) Krygier/Arquette     86
+     16Q     Luna/McGivern        def.     Schrepferman/Bucco … 86
+     16Q     Padberg/Beidacki     def.     Skjelstad/Mokhasi    98(5)
+     16Q     Kuehnle/Eremina      def. (2) Zafeiri/Reisch       81
 ~~~
 
 <a name="21-21828"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   NAIA Men's & Women’s Florida ITA Regional Championships
   Dates: Sep 16-20, 2021
   Host: Keiser University (M)
-═══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-      F ((1)) Coopersmith/Vidanov… def. ((2)) Piccoliori/Puig Llo… Walkover
-     SF ((1)) Coopersmith/Vidanov… def. ((4)) Barandas/Teodoro De… 81
-     SF ((2)) Piccoliori/Puig Llo… def. ((3)) Morrissey/Sukkanha   Walkover
-     QF ((1)) Coopersmith/Vidanov… def.       Katzarkov/Yu         84
-     QF ((4)) Barandas/Teodoro De… def.       Engelbrecht/Sorakudo 97
-     QF ((3)) Morrissey/Sukkanha   def.       Baptista/Damon       84
-     QF ((2)) Piccoliori/Puig Llo… def.       Araya/Peneda         84
-     16 ((1)) Coopersmith/Vidanov… def.       Ibanez Navarro/Maeh… 82
-     16       Katzarkov/Yu         def.       Netto Koop/Oliveira  82
-     16 ((4)) Barandas/Teodoro De… def.       Matos/Santiago       84
-     16       Engelbrecht/Sorakudo def.       Letizia/Picardi      86
-     16       Baptista/Damon       def.       Botsford/Lewis       83
-     16 ((3)) Morrissey/Sukkanha   def.       Berghaus/Pena        85
-     16       Araya/Peneda         def.       Chang/Maier          82
-     16 ((2)) Piccoliori/Puig Llo… def.       Landi/Rubio          81
-     32       Ibanez Navarro/Maeh… def.       Fuller/Rich          82
-     32       Netto Koop/Oliveira  def.       Colvee/Seemann       84
-     32       Katzarkov/Yu         def.       Arraya/Napier        82
-     32 ((4)) Barandas/Teodoro De… def.       Lopez Suero/Neiberl… 85
-     32       Matos/Santiago       def.       Harris/Schnatz       83
-     32       Letizia/Picardi      def.       Cook/Piette          80
-     32       Engelbrecht/Sorakudo def.       Benn/Benn            86
-     32       Baptista/Damon       def.       Candiotto/Rodriguez… Walkover
-     32       Botsford/Lewis       def.       Guglielmetti/Medina  85
-     32       Berghaus/Pena        def.       Bobrowski/Hire       84
-     32       Araya/Peneda         def.       Kelkboom/Colin       Walkover
-     32       Chang/Maier          def.       Bijelic/Martinez     82
-     32       Landi/Rubio          def.       Carrera/Puente       97
+      F (1) Coopersmith/Vidanov… def. (2) Piccoliori/Puig Llo… Walkover
+     SF (1) Coopersmith/Vidanov… def. (4) Barandas/Teodoro De… 81
+     SF (2) Piccoliori/Puig Llo… def. (3) Morrissey/Sukkanha   Walkover
+     QF (1) Coopersmith/Vidanov… def.     Katzarkov/Yu         84
+     QF (4) Barandas/Teodoro De… def.     Engelbrecht/Sorakudo 97
+     QF (3) Morrissey/Sukkanha   def.     Baptista/Damon       84
+     QF (2) Piccoliori/Puig Llo… def.     Araya/Peneda         84
+     16 (1) Coopersmith/Vidanov… def.     Ibanez Navarro/Maeh… 82
+     16     Katzarkov/Yu         def.     Netto Koop/Oliveira  82
+     16 (4) Barandas/Teodoro De… def.     Matos/Santiago       84
+     16     Engelbrecht/Sorakudo def.     Letizia/Picardi      86
+     16     Baptista/Damon       def.     Botsford/Lewis       83
+     16 (3) Morrissey/Sukkanha   def.     Berghaus/Pena        85
+     16     Araya/Peneda         def.     Chang/Maier          82
+     16 (2) Piccoliori/Puig Llo… def.     Landi/Rubio          81
+     32     Ibanez Navarro/Maeh… def.     Fuller/Rich          82
+     32     Netto Koop/Oliveira  def.     Colvee/Seemann       84
+     32     Katzarkov/Yu         def.     Arraya/Napier        82
+     32 (4) Barandas/Teodoro De… def.     Lopez Suero/Neiberl… 85
+     32     Matos/Santiago       def.     Harris/Schnatz       83
+     32     Letizia/Picardi      def.     Cook/Piette          80
+     32     Engelbrecht/Sorakudo def.     Benn/Benn            86
+     32     Baptista/Damon       def.     Candiotto/Rodriguez… Walkover
+     32     Botsford/Lewis       def.     Guglielmetti/Medina  85
+     32     Berghaus/Pena        def.     Bobrowski/Hire       84
+     32     Araya/Peneda         def.     Kelkboom/Colin       Walkover
+     32     Chang/Maier          def.     Bijelic/Martinez     82
+     32     Landi/Rubio          def.     Carrera/Puente       97
 ~~~
 
 <a name="21-10883"></a>
