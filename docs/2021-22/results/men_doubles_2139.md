@@ -40,219 +40,219 @@
 
 <a name="21-20374"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Ohio Valley Regional Championship
   Dates: Sep 23-27, 2021
   Host: Univ. Of Tennessee, Knoxville (M)
-══════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-       F (9) Mercer/Lapadat      def. (9) Rodriguez/Gatti     62 62
-      SF (9) Rodriguez/Gatti     def. (1) Stevenson/Cutting   46 64 [7]
-      SF (9) Mercer/Lapadat      def. (3) Motl/Slump          26 76(5) [7]
-      QF (1) Stevenson/Cutting   def. (5) Troost/Ross         85
-      QF (9) Rodriguez/Gatti     def.     de Negri/Herran     81
-      QF (3) Motl/Slump          def. (5) Kovacevic/Adams     86
-      QF (9) Mercer/Lapadat      def.     Tosetto/Vicente     81
-      16 (1) Stevenson/Cutting   def.     Michael/Trimpe      82
-      16 (5) Troost/Ross         def.     Haskins/Vukovic     85
-      16     de Negri/Herran     def.     Fischer/Penny       85
-      16 (9) Rodriguez/Gatti     def. (5) Edge/Rocha          85
-      16 (5) Kovacevic/Adams     def.     Taylor/Fanlo        85
-      16 (3) Motl/Slump          def. (9) Rengifo/Lobo        Walkover
-      16     Tosetto/Vicente     def.     Brennan/Dickson     84
-      16 (9) Mercer/Lapadat      def. (2) Harwell/Freeman     82
-      32 (1) Stevenson/Cutting   def.     Simmons/Webster     80
-      32     Michael/Trimpe      def. (9) Prata/Gannon        Walkover
-      32 (5) Troost/Ross         def.     Kelly/Miyamoto      83
-      32     Haskins/Vukovic     def. (9) Bennett/Galus       84
-      32     Fischer/Penny       def.     Nava/Cahill         87(5)
-      32     de Negri/Herran     def.     Rodeia/Holis        84
-      32 (5) Edge/Rocha          def.     Jochim/Jankowski    84
-      32 (9) Rodriguez/Gatti     def.     Burnel/Casamayor    87(6)
-      32     Taylor/Fanlo        def.     Wesbrooks/Fung      85
-      32 (5) Kovacevic/Adams     def.     Klopper/Ferreira    Default
-      32 (9) Rengifo/Lobo        def.     Hyatt/Labbe         85
-      32 (3) Motl/Slump          def.     Castro/Luis         85
-      32     Brennan/Dickson     def.     Temming/Pennelli    81
-      32     Tosetto/Vicente     def. (5) Andre/Tiraspolsky   86
-      32 (9) Mercer/Lapadat      def.     Khamis/Lamas        81
-      32 (2) Harwell/Freeman     def.     Rock/Alemany        86
-      64     Simmons/Webster     def.     Marshall/Mudre      85
-      64 (9) Prata/Gannon        def.     Schlossmann/Damberg 85
-      64     Michael/Trimpe      def.     Rodriguez/Ponomarew 86
-      64 (5) Troost/Ross         def.     Dunne/Harper        83
-      64     Kelly/Miyamoto      def.     Bogdanovich/Skrabut 84
-      64 (9) Bennett/Galus       def.     Chin/Holis          82
-      64     Haskins/Vukovic     def.     Badra/Vargas        86
-      64     Fischer/Penny       def. (4) Musitelli/Diallo    86
-      64     Nava/Cahill         def.     Pernas/Zabala       86
-      64     de Negri/Herran     def. (9) Fletchall/Singh     85
-      64     Rodeia/Holis        def.     Huete/Miralles      83
-      64 (5) Edge/Rocha          def.     Toledo/Cruz         86
-      64     Jochim/Jankowski    def.     Mizrahi/Tang        85
-      64 (9) Rodriguez/Gatti     def.     Robb-Wilcox/Casabon 84
-      64     Burnel/Casamayor    def.     Perkowski/Eliasson  85
-      64     Taylor/Fanlo        def. (9) Chen/LeBlanc        82
-      64     Klopper/Ferreira    def.     Rogers/Saylor       82
-      64 (5) Kovacevic/Adams     def.     Uribe/Garcia-Nieto  85
-      64     Hyatt/Labbe         def.     Winters/Nakayama    81
-      64 (9) Rengifo/Lobo        def.     Benibo/Kozerski     86
-      64     Castro/Luis         def.     Cossu/Brancatelli   85
-      64     Temming/Pennelli    def.     Hiryur/Mavrodiev    87(1)
-      64     Brennan/Dickson     def. (9) Mitsui/Diaz         84
-      64     Tosetto/Vicente     def.     Orlando/Wojtalik    87(5)
-      64 (5) Andre/Tiraspolsky   def.     Andersson/Nolasco   83
-      64     Khamis/Lamas        def.     Ball/Berry          82
-      64 (9) Mercer/Lapadat      def.     Dudek/Sachdev       83
-      64     Rock/Alemany        def.     McClure/Kuroki      20 Ret.
+       F ((9)) Mercer/Lapadat      def. ((9)) Rodriguez/Gatti     62 62
+      SF ((9)) Rodriguez/Gatti     def. ((1)) Stevenson/Cutting   46 64 [7]
+      SF ((9)) Mercer/Lapadat      def. ((3)) Motl/Slump          26 76(5) [7]
+      QF ((1)) Stevenson/Cutting   def. ((5)) Troost/Ross         85
+      QF ((9)) Rodriguez/Gatti     def.       de Negri/Herran     81
+      QF ((3)) Motl/Slump          def. ((5)) Kovacevic/Adams     86
+      QF ((9)) Mercer/Lapadat      def.       Tosetto/Vicente     81
+      16 ((1)) Stevenson/Cutting   def.       Michael/Trimpe      82
+      16 ((5)) Troost/Ross         def.       Haskins/Vukovic     85
+      16       de Negri/Herran     def.       Fischer/Penny       85
+      16 ((9)) Rodriguez/Gatti     def. ((5)) Edge/Rocha          85
+      16 ((5)) Kovacevic/Adams     def.       Taylor/Fanlo        85
+      16 ((3)) Motl/Slump          def. ((9)) Rengifo/Lobo        Walkover
+      16       Tosetto/Vicente     def.       Brennan/Dickson     84
+      16 ((9)) Mercer/Lapadat      def. ((2)) Harwell/Freeman     82
+      32 ((1)) Stevenson/Cutting   def.       Simmons/Webster     80
+      32       Michael/Trimpe      def. ((9)) Prata/Gannon        Walkover
+      32 ((5)) Troost/Ross         def.       Kelly/Miyamoto      83
+      32       Haskins/Vukovic     def. ((9)) Bennett/Galus       84
+      32       Fischer/Penny       def.       Nava/Cahill         87(5)
+      32       de Negri/Herran     def.       Rodeia/Holis        84
+      32 ((5)) Edge/Rocha          def.       Jochim/Jankowski    84
+      32 ((9)) Rodriguez/Gatti     def.       Burnel/Casamayor    87(6)
+      32       Taylor/Fanlo        def.       Wesbrooks/Fung      85
+      32 ((5)) Kovacevic/Adams     def.       Klopper/Ferreira    Default
+      32 ((9)) Rengifo/Lobo        def.       Hyatt/Labbe         85
+      32 ((3)) Motl/Slump          def.       Castro/Luis         85
+      32       Brennan/Dickson     def.       Temming/Pennelli    81
+      32       Tosetto/Vicente     def. ((5)) Andre/Tiraspolsky   86
+      32 ((9)) Mercer/Lapadat      def.       Khamis/Lamas        81
+      32 ((2)) Harwell/Freeman     def.       Rock/Alemany        86
+      64       Simmons/Webster     def.       Marshall/Mudre      85
+      64 ((9)) Prata/Gannon        def.       Schlossmann/Damberg 85
+      64       Michael/Trimpe      def.       Rodriguez/Ponomarew 86
+      64 ((5)) Troost/Ross         def.       Dunne/Harper        83
+      64       Kelly/Miyamoto      def.       Bogdanovich/Skrabut 84
+      64 ((9)) Bennett/Galus       def.       Chin/Holis          82
+      64       Haskins/Vukovic     def.       Badra/Vargas        86
+      64       Fischer/Penny       def. ((4)) Musitelli/Diallo    86
+      64       Nava/Cahill         def.       Pernas/Zabala       86
+      64       de Negri/Herran     def. ((9)) Fletchall/Singh     85
+      64       Rodeia/Holis        def.       Huete/Miralles      83
+      64 ((5)) Edge/Rocha          def.       Toledo/Cruz         86
+      64       Jochim/Jankowski    def.       Mizrahi/Tang        85
+      64 ((9)) Rodriguez/Gatti     def.       Robb-Wilcox/Casabon 84
+      64       Burnel/Casamayor    def.       Perkowski/Eliasson  85
+      64       Taylor/Fanlo        def. ((9)) Chen/LeBlanc        82
+      64       Klopper/Ferreira    def.       Rogers/Saylor       82
+      64 ((5)) Kovacevic/Adams     def.       Uribe/Garcia-Nieto  85
+      64       Hyatt/Labbe         def.       Winters/Nakayama    81
+      64 ((9)) Rengifo/Lobo        def.       Benibo/Kozerski     86
+      64       Castro/Luis         def.       Cossu/Brancatelli   85
+      64       Temming/Pennelli    def.       Hiryur/Mavrodiev    87(1)
+      64       Brennan/Dickson     def. ((9)) Mitsui/Diaz         84
+      64       Tosetto/Vicente     def.       Orlando/Wojtalik    87(5)
+      64 ((5)) Andre/Tiraspolsky   def.       Andersson/Nolasco   83
+      64       Khamis/Lamas        def.       Ball/Berry          82
+      64 ((9)) Mercer/Lapadat      def.       Dudek/Sachdev       83
+      64       Rock/Alemany        def.       McClure/Kuroki      20 Ret.
   > Consolation
-       F (9) Mitsui/Diaz         def.     Marshall/Mudre      81
-      SF     Marshall/Mudre      def.     Huete/Miralles      Walkover
-      SF (9) Mitsui/Diaz         def. (9) Chen/LeBlanc        87(4)
-      QF     Marshall/Mudre      def.     Bogdanovich/Skrabut 86
-      QF     Huete/Miralles      def.     Mizrahi/Tang        86
-      QF (9) Chen/LeBlanc        def.     Winters/Nakayama    85
-      QF (9) Mitsui/Diaz         def.     Dudek/Sachdev       84
-      16     Marshall/Mudre      def.     Schlossmann/Damberg 87(6)
-      16     Bogdanovich/Skrabut def.     Chin/Holis          83
-      16     Huete/Miralles      def.     Pernas/Zabala       Walkover
-      16     Mizrahi/Tang        def.     Perkowski/Eliasson  Walkover
-      16 (9) Chen/LeBlanc        def.     Uribe/Garcia-Nieto  87(4)
-      16     Winters/Nakayama    def.     Cossu/Brancatelli   Walkover
-      16 (9) Mitsui/Diaz         def.     Orlando/Wojtalik    84
-      16     Dudek/Sachdev       def.     McClure/Kuroki      Walkover
-     32Q     Schlossmann/Damberg def.     Rodriguez/Ponomarew 84
-     32Q     Bogdanovich/Skrabut def.     Dunne/Harper        82
-     32Q     Chin/Holis          def.     Badra/Vargas        Walkover
-     32Q     Pernas/Zabala       def. (4) Musitelli/Diallo    Walkover
-     32Q     Huete/Miralles      def. (9) Fletchall/Singh     82
-     32Q     Mizrahi/Tang        def.     Toledo/Cruz         Walkover
-     32Q     Perkowski/Eliasson  def.     Robb-Wilcox/Casabon Walkover
-     32Q     Uribe/Garcia-Nieto  def.     Rogers/Saylor       83
-     32Q     Winters/Nakayama    def.     Benibo/Kozerski     81
-     32Q (9) Mitsui/Diaz         def.     Hiryur/Mavrodiev    83
-     32Q     Orlando/Wojtalik    def.     Andersson/Nolasco   86
-     32Q     Dudek/Sachdev       def.     Ball/Berry          86
+       F ((9)) Mitsui/Diaz         def.       Marshall/Mudre      81
+      SF       Marshall/Mudre      def.       Huete/Miralles      Walkover
+      SF ((9)) Mitsui/Diaz         def. ((9)) Chen/LeBlanc        87(4)
+      QF       Marshall/Mudre      def.       Bogdanovich/Skrabut 86
+      QF       Huete/Miralles      def.       Mizrahi/Tang        86
+      QF ((9)) Chen/LeBlanc        def.       Winters/Nakayama    85
+      QF ((9)) Mitsui/Diaz         def.       Dudek/Sachdev       84
+      16       Marshall/Mudre      def.       Schlossmann/Damberg 87(6)
+      16       Bogdanovich/Skrabut def.       Chin/Holis          83
+      16       Huete/Miralles      def.       Pernas/Zabala       Walkover
+      16       Mizrahi/Tang        def.       Perkowski/Eliasson  Walkover
+      16 ((9)) Chen/LeBlanc        def.       Uribe/Garcia-Nieto  87(4)
+      16       Winters/Nakayama    def.       Cossu/Brancatelli   Walkover
+      16 ((9)) Mitsui/Diaz         def.       Orlando/Wojtalik    84
+      16       Dudek/Sachdev       def.       McClure/Kuroki      Walkover
+     32Q       Schlossmann/Damberg def.       Rodriguez/Ponomarew 84
+     32Q       Bogdanovich/Skrabut def.       Dunne/Harper        82
+     32Q       Chin/Holis          def.       Badra/Vargas        Walkover
+     32Q       Pernas/Zabala       def. ((4)) Musitelli/Diallo    Walkover
+     32Q       Huete/Miralles      def. ((9)) Fletchall/Singh     82
+     32Q       Mizrahi/Tang        def.       Toledo/Cruz         Walkover
+     32Q       Perkowski/Eliasson  def.       Robb-Wilcox/Casabon Walkover
+     32Q       Uribe/Garcia-Nieto  def.       Rogers/Saylor       83
+     32Q       Winters/Nakayama    def.       Benibo/Kozerski     81
+     32Q ((9)) Mitsui/Diaz         def.       Hiryur/Mavrodiev    83
+     32Q       Orlando/Wojtalik    def.       Andersson/Nolasco   86
+     32Q       Dudek/Sachdev       def.       Ball/Berry          86
 ~~~
 
 <a name="21-22872"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Division II Men’s & Women's South ITA Regional Championships
   Dates: Sep 24-27, 2021
   Host: Florida Southern College (W)
-══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-       F     Mack/Carvalho       def. (5) Bedwan/Rieme        62 63
-      SF     Mack/Carvalho       def.     Mensour/Thiel       86
-      SF (5) Bedwan/Rieme        def.     Giuliato/Forcano    87(4)
-      QF     Mack/Carvalho       def. (5) Brignacca/Golubev   84
-      QF     Mensour/Thiel       def. (5) Vesanen/Hammond     87(3)
-      QF (5) Bedwan/Rieme        def.     Jokinen/Danze       86
-      QF     Giuliato/Forcano    def. (2) Faletto/Bacella     84
-      16     Mack/Carvalho       def. (1) Bandeira/Nery       82
-      16 (5) Brignacca/Golubev   def.     Hasegawa/Carlsten   87(8)
-      16     Mensour/Thiel       def.     Miro/Ekenros        82
-      16 (5) Vesanen/Hammond     def.     Diaz Rodrigo/Alonso 87(6)
-      16 (5) Bedwan/Rieme        def.     Baptista/Gonzalez   86
-      16     Jokinen/Danze       def.     Etty/Felline        85
-      16     Giuliato/Forcano    def. (5) Bermejo/Descarrega  86
-      16 (2) Faletto/Bacella     def.     Bracaval/Stroppiana 81
-      32 (1) Bandeira/Nery       def.     Kearns/Fonseca      83
-      32     Mack/Carvalho       def.     Martinez/Kirkman    87(5)
-      32 (5) Brignacca/Golubev   def.     Guariente/Mulas     85
-      32     Hasegawa/Carlsten   def.     Paschal/Loerwink    83
-      32     Miro/Ekenros        def. (3) Cazaban/Gutierrez   87(6)
-      32     Mensour/Thiel       def.     Nordblom/Pham       86
-      32 (5) Vesanen/Hammond     def.     Hartmann/Zehender   80
-      32     Diaz Rodrigo/Alonso def.     Le Terrier/Roldan   85
-      32     Baptista/Gonzalez   def.     Lassalle/Patel      84
-      32 (5) Bedwan/Rieme        def.     Feggi/Hertweck      82
-      32     Jokinen/Danze       def.     Buettner/Rodriguez  86
-      32     Etty/Felline        def. (4) Ortiz Couder/Guedy  87(5)
-      32     Giuliato/Forcano    def.     Fok Kow/Altman      84
-      32 (5) Bermejo/Descarrega  def.     Bucurescu/Baumann   87(10)
-      32     Bracaval/Stroppiana def.     Binaghi/Velloso     81
-      32 (2) Faletto/Bacella     def.     Martinez/Salton     84
+       F       Mack/Carvalho       def. ((5)) Bedwan/Rieme        62 63
+      SF       Mack/Carvalho       def.       Mensour/Thiel       86
+      SF ((5)) Bedwan/Rieme        def.       Giuliato/Forcano    87(4)
+      QF       Mack/Carvalho       def. ((5)) Brignacca/Golubev   84
+      QF       Mensour/Thiel       def. ((5)) Vesanen/Hammond     87(3)
+      QF ((5)) Bedwan/Rieme        def.       Jokinen/Danze       86
+      QF       Giuliato/Forcano    def. ((2)) Faletto/Bacella     84
+      16       Mack/Carvalho       def. ((1)) Bandeira/Nery       82
+      16 ((5)) Brignacca/Golubev   def.       Hasegawa/Carlsten   87(8)
+      16       Mensour/Thiel       def.       Miro/Ekenros        82
+      16 ((5)) Vesanen/Hammond     def.       Diaz Rodrigo/Alonso 87(6)
+      16 ((5)) Bedwan/Rieme        def.       Baptista/Gonzalez   86
+      16       Jokinen/Danze       def.       Etty/Felline        85
+      16       Giuliato/Forcano    def. ((5)) Bermejo/Descarrega  86
+      16 ((2)) Faletto/Bacella     def.       Bracaval/Stroppiana 81
+      32 ((1)) Bandeira/Nery       def.       Kearns/Fonseca      83
+      32       Mack/Carvalho       def.       Martinez/Kirkman    87(5)
+      32 ((5)) Brignacca/Golubev   def.       Guariente/Mulas     85
+      32       Hasegawa/Carlsten   def.       Paschal/Loerwink    83
+      32       Miro/Ekenros        def. ((3)) Cazaban/Gutierrez   87(6)
+      32       Mensour/Thiel       def.       Nordblom/Pham       86
+      32 ((5)) Vesanen/Hammond     def.       Hartmann/Zehender   80
+      32       Diaz Rodrigo/Alonso def.       Le Terrier/Roldan   85
+      32       Baptista/Gonzalez   def.       Lassalle/Patel      84
+      32 ((5)) Bedwan/Rieme        def.       Feggi/Hertweck      82
+      32       Jokinen/Danze       def.       Buettner/Rodriguez  86
+      32       Etty/Felline        def. ((4)) Ortiz Couder/Guedy  87(5)
+      32       Giuliato/Forcano    def.       Fok Kow/Altman      84
+      32 ((5)) Bermejo/Descarrega  def.       Bucurescu/Baumann   87(10)
+      32       Bracaval/Stroppiana def.       Binaghi/Velloso     81
+      32 ((2)) Faletto/Bacella     def.       Martinez/Salton     84
   > Consolation
-       F     Le Terrier/Roldan   def.     Buettner/Rodriguez  Walkover
-      SF     Le Terrier/Roldan   def.     Guariente/Mulas     83
-      SF     Buettner/Rodriguez  def.     Bucurescu/Baumann   84
-      QF     Guariente/Mulas     def.     Kearns/Fonseca      82
-      QF     Le Terrier/Roldan   def. (3) Cazaban/Gutierrez   87(6)
-      QF     Buettner/Rodriguez  def.     Feggi/Hertweck      86
-      QF     Bucurescu/Baumann   def.     Martinez/Salton     86
-     16Q     Kearns/Fonseca      def.     Martinez/Kirkman    Walkover
-     16Q     Guariente/Mulas     def.     Paschal/Loerwink    87(5)
-     16Q (3) Cazaban/Gutierrez   def.     Nordblom/Pham       Walkover
-     16Q     Le Terrier/Roldan   def.     Hartmann/Zehender   86
-     16Q     Feggi/Hertweck      def.     Lassalle/Patel      61 Ret.
-     16Q     Buettner/Rodriguez  def. (4) Ortiz Couder/Guedy  83
-     16Q     Bucurescu/Baumann   def.     Fok Kow/Altman      Walkover
-     16Q     Martinez/Salton     def.     Binaghi/Velloso     83
+       F       Le Terrier/Roldan   def.       Buettner/Rodriguez  Walkover
+      SF       Le Terrier/Roldan   def.       Guariente/Mulas     83
+      SF       Buettner/Rodriguez  def.       Bucurescu/Baumann   84
+      QF       Guariente/Mulas     def.       Kearns/Fonseca      82
+      QF       Le Terrier/Roldan   def. ((3)) Cazaban/Gutierrez   87(6)
+      QF       Buettner/Rodriguez  def.       Feggi/Hertweck      86
+      QF       Bucurescu/Baumann   def.       Martinez/Salton     86
+     16Q       Kearns/Fonseca      def.       Martinez/Kirkman    Walkover
+     16Q       Guariente/Mulas     def.       Paschal/Loerwink    87(5)
+     16Q ((3)) Cazaban/Gutierrez   def.       Nordblom/Pham       Walkover
+     16Q       Le Terrier/Roldan   def.       Hartmann/Zehender   86
+     16Q       Feggi/Hertweck      def.       Lassalle/Patel      61 Ret.
+     16Q       Buettner/Rodriguez  def. ((4)) Ortiz Couder/Guedy  83
+     16Q       Bucurescu/Baumann   def.       Fok Kow/Altman      Walkover
+     16Q       Martinez/Salton     def.       Binaghi/Velloso     83
 ~~~
 
 <a name="21-93790"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Division II Men’s & Women's Southeast ITA Regional Championships
   Dates: Sep 24-27, 2021
   Host: ITA
-════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Men's Doubles Draw
   > Main
-      F (1) Regalado/Cueto Ramos def. (3) Schold/Martinetti    84
-     SF (1) Regalado/Cueto Ramos def.     Can Wijk/Cary        81
-     SF (3) Schold/Martinetti    def.     Gaskin/Murillo       97
-     QF (1) Regalado/Cueto Ramos def. (6) Benoit/Waldow        82
-     QF     Can Wijk/Cary        def. (9) Brainard/Osap        86
-     QF (3) Schold/Martinetti    def. (7) Del Granado/Lemken   83
-     QF     Gaskin/Murillo       def. (2) Garay/Steen          97
-     16 (1) Regalado/Cueto Ramos def. (9) Golindano/Stafford   82
-     16 (6) Benoit/Waldow        def.     Constantino/Nokic    83
-     16     Can Wijk/Cary        def. (9) Jankulovski/Waterbo… 85
-     16 (9) Brainard/Osap        def. (5) Danielsson/Regner    83
-     16 (7) Del Granado/Lemken   def. (9) Evenson/Sassi        86
-     16 (3) Schold/Martinetti    def. (9) Medeiros/Garcia Gil  82
-     16     Gaskin/Murillo       def. (8) Atkinson/Alvestrand  83
-     16 (2) Garay/Steen          def. (9) De Groot/Horne       86
-     32 (1) Regalado/Cueto Ramos def.     Cola/Sjokvist        83
-     32 (9) Golindano/Stafford   def.     Tatyanin/Holzmann    97
-     32 (6) Benoit/Waldow        def.     Selde/Cox            83
-     32     Constantino/Nokic    def. (9) Bonacia/Subanovic    82
-     32     Can Wijk/Cary        def. (4) Bottino/Cecere       86
-     32 (9) Jankulovski/Waterbo… def.     Pudney/Kenzlers      84
-     32 (5) Danielsson/Regner    def.     Winter/Macmillian    81
-     32 (9) Brainard/Osap        def.     Blavignat/Bivol      84
-     32 (9) Evenson/Sassi        def.     Walcher/Brown        83
-     32 (7) Del Granado/Lemken   def.     Crepy/De Negri       82
-     32 (9) Medeiros/Garcia Gil  def.     Schomburg/Friedland  83
-     32 (3) Schold/Martinetti    def.     Janse/Hordijk        80
-     32     Gaskin/Murillo       def. (9) Ferreira/Nunez       86
-     32 (8) Atkinson/Alvestrand  def.     Malirz/Cizek         83
-     32 (9) De Groot/Horne       def.     Oka/Dulganov         83
-     32 (2) Garay/Steen          def.     Grasmuck/Maria       82
-     64     Cola/Sjokvist        def.     Bodson/Ernberg       84
-     64     Tatyanin/Holzmann    def.     Stahlbrand/Agudelo   86
-     64     Selde/Cox            def.     Luque/Minguez Ribera 86
-     64     Constantino/Nokic    def.     Grosset/Kimaszweski  82
-     64     Can Wijk/Cary        def.     Mendoza/Schiltz      84
-     64     Pudney/Kenzlers      def.     Hermans/Jonsson      84
-     64     Winter/Macmillian    def.     Badran/Sreekumar     97
-     64     Blavignat/Bivol      def.     Komada/Sergi         86
-     64     Walcher/Brown        def.     Day/Lloyd-Evans      83
-     64     Crepy/De Negri       def.     Hernandez/Hemmings   98
-     64     Schomburg/Friedland  def.     Lopes Polesi/Marche… 85
-     64     Janse/Hordijk        def.     Kush/Cabo            83
-     64     Gaskin/Murillo       def.     Eldin/Kondou         98(3)
-     64     Malirz/Cizek         def.     Decaluwe/Keane       85
-     64     Oka/Dulganov         def.     Crespo/Makhanya      98(5)
-     64     Grasmuck/Maria       def.     Hernandez Gonzalez/… 81
+      F ((1)) Regalado/Cueto Ramos def. ((3)) Schold/Martinetti    84
+     SF ((1)) Regalado/Cueto Ramos def.       Can Wijk/Cary        81
+     SF ((3)) Schold/Martinetti    def.       Gaskin/Murillo       97
+     QF ((1)) Regalado/Cueto Ramos def. ((6)) Benoit/Waldow        82
+     QF       Can Wijk/Cary        def. ((9)) Brainard/Osap        86
+     QF ((3)) Schold/Martinetti    def. ((7)) Del Granado/Lemken   83
+     QF       Gaskin/Murillo       def. ((2)) Garay/Steen          97
+     16 ((1)) Regalado/Cueto Ramos def. ((9)) Golindano/Stafford   82
+     16 ((6)) Benoit/Waldow        def.       Constantino/Nokic    83
+     16       Can Wijk/Cary        def. ((9)) Jankulovski/Waterbo… 85
+     16 ((9)) Brainard/Osap        def. ((5)) Danielsson/Regner    83
+     16 ((7)) Del Granado/Lemken   def. ((9)) Evenson/Sassi        86
+     16 ((3)) Schold/Martinetti    def. ((9)) Medeiros/Garcia Gil  82
+     16       Gaskin/Murillo       def. ((8)) Atkinson/Alvestrand  83
+     16 ((2)) Garay/Steen          def. ((9)) De Groot/Horne       86
+     32 ((1)) Regalado/Cueto Ramos def.       Cola/Sjokvist        83
+     32 ((9)) Golindano/Stafford   def.       Tatyanin/Holzmann    97
+     32 ((6)) Benoit/Waldow        def.       Selde/Cox            83
+     32       Constantino/Nokic    def. ((9)) Bonacia/Subanovic    82
+     32       Can Wijk/Cary        def. ((4)) Bottino/Cecere       86
+     32 ((9)) Jankulovski/Waterbo… def.       Pudney/Kenzlers      84
+     32 ((5)) Danielsson/Regner    def.       Winter/Macmillian    81
+     32 ((9)) Brainard/Osap        def.       Blavignat/Bivol      84
+     32 ((9)) Evenson/Sassi        def.       Walcher/Brown        83
+     32 ((7)) Del Granado/Lemken   def.       Crepy/De Negri       82
+     32 ((9)) Medeiros/Garcia Gil  def.       Schomburg/Friedland  83
+     32 ((3)) Schold/Martinetti    def.       Janse/Hordijk        80
+     32       Gaskin/Murillo       def. ((9)) Ferreira/Nunez       86
+     32 ((8)) Atkinson/Alvestrand  def.       Malirz/Cizek         83
+     32 ((9)) De Groot/Horne       def.       Oka/Dulganov         83
+     32 ((2)) Garay/Steen          def.       Grasmuck/Maria       82
+     64       Cola/Sjokvist        def.       Bodson/Ernberg       84
+     64       Tatyanin/Holzmann    def.       Stahlbrand/Agudelo   86
+     64       Selde/Cox            def.       Luque/Minguez Ribera 86
+     64       Constantino/Nokic    def.       Grosset/Kimaszweski  82
+     64       Can Wijk/Cary        def.       Mendoza/Schiltz      84
+     64       Pudney/Kenzlers      def.       Hermans/Jonsson      84
+     64       Winter/Macmillian    def.       Badran/Sreekumar     97
+     64       Blavignat/Bivol      def.       Komada/Sergi         86
+     64       Walcher/Brown        def.       Day/Lloyd-Evans      83
+     64       Crepy/De Negri       def.       Hernandez/Hemmings   98
+     64       Schomburg/Friedland  def.       Lopes Polesi/Marche… 85
+     64       Janse/Hordijk        def.       Kush/Cabo            83
+     64       Gaskin/Murillo       def.       Eldin/Kondou         98(3)
+     64       Malirz/Cizek         def.       Decaluwe/Keane       85
+     64       Oka/Dulganov         def.       Crespo/Makhanya      98(5)
+     64       Grasmuck/Maria       def.       Hernandez Gonzalez/… 81
 ~~~
 
 <a name="21-92523"></a>
@@ -356,88 +356,88 @@
 
 <a name="21-73796"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
   ITA Men's All-American Championships
   Dates: Oct 2-10, 2021
   Host: ITA
-══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main Draw
   > Main
-     32 (1) Hilderbrand/Pavel     vs   LL Ciamarra/Harper      Wed @ 14:30
-     32     Boulais/Trotter       vs    Q Rodesch/Goetz        Wed @ 14:30
-     32 (5) Charlton/Vandecaste…  vs    Q Malbasic/Hoeyeraal   Wed @ 14:00
-     32   Q Rotsaert/Fery         vs      Barki/Bosancic       Wed @ 14:00
-     32 (4) Murgett/McClean       vs      Bryde/Croyder        Wed @ 16:00
-     32     Gale/Gaber            vs      Davis/Summers        Wed @ 16:00
-     32 (5) Johns/Sculley         vs      Motl/Slump           Wed @ 14:30
-     32     Dostanic/Frye         vs    Q Siimar/Shelbayh      Wed @ 14:30
-     32   Q Zhang/Heller          vs      Pearson/Di Marco     Wed @ 15:30
-     32   Q Cash/Vocel            vs  (5) Martinez/Han         Wed @ 15:30
-     32     Maldoner/Vidal        vs      Lah/Bass             Wed @ 16:00
-     32     Cernoch/Kiger         vs  (3) Stevenson/Cutting    Wed @ 16:00
-     32     Eriksson Ziverts/Mi…  vs   LL Stewart/Henning      Wed @ 15:00
-     32     Hohmann/Lobak         vs  (5) Martin/McDaniel      Wed @ 15:00
-     32  LL Keremedchiev/Klov-N…  vs    Q Reynolds/Lithen      Wed @ 16:00
-     32   Q Hudd/Mitsui           vs  (2) Rodrigues/Thomson    Wed @ 16:00
+     32  (1) Hilderbrand/Pavel     vs  (LL) Ciamarra/Harper      Wed @ 14:30
+     32      Boulais/Trotter       vs   (Q) Rodesch/Goetz        Wed @ 14:30
+     32  (5) Charlton/Vandecaste…  vs   (Q) Malbasic/Hoeyeraal   Wed @ 14:00
+     32  (Q) Rotsaert/Fery         vs       Barki/Bosancic       Wed @ 14:00
+     32  (4) Murgett/McClean       vs       Bryde/Croyder        Wed @ 16:00
+     32      Gale/Gaber            vs       Davis/Summers        Wed @ 16:00
+     32  (5) Johns/Sculley         vs       Motl/Slump           Wed @ 14:30
+     32      Dostanic/Frye         vs   (Q) Siimar/Shelbayh      Wed @ 14:30
+     32  (Q) Zhang/Heller          vs       Pearson/Di Marco     Wed @ 15:30
+     32  (Q) Cash/Vocel            vs   (5) Martinez/Han         Wed @ 15:30
+     32      Maldoner/Vidal        vs       Lah/Bass             Wed @ 16:00
+     32      Cernoch/Kiger         vs   (3) Stevenson/Cutting    Wed @ 16:00
+     32      Eriksson Ziverts/Mi…  vs  (LL) Stewart/Henning      Wed @ 15:00
+     32      Hohmann/Lobak         vs   (5) Martin/McDaniel      Wed @ 15:00
+     32 (LL) Keremedchiev/Klov-N…  vs   (Q) Reynolds/Lithen      Wed @ 16:00
+     32  (Q) Hudd/Mitsui           vs   (2) Rodrigues/Thomson    Wed @ 16:00
  > Qualifying
   > Main
-     16 (9) Rotsaert/Fery        def.     Stewart/Henning      63 64
-     16     Reynolds/Lithen      def.     Poling/Rodriguez     26 64 [7]
-     16 (9) Siimar/Shelbayh      def.     Hassey/Smith         46 62 [12]
-     16     Malbasic/Hoeyeraal   def.     Graziani/Zhu         75 63
-     16     Zhang/Heller         def. (9) Keremedchiev/Klov-N… 63 64
-     16 (9) Hudd/Mitsui          def.     McKennon/Salle       16 63 [5]
-     16 (7) Rodesch/Goetz        def.     Ciamarra/Harper      62 64
-     16 (8) Cash/Vocel           def.     Fomba/Vives Marcos   63 63
-     32     Stewart/Henning      def.     De Jonge/Hadigian    64 63
-     32 (9) Rotsaert/Fery        def.     Pankin/Tvedt         64 75
-     32     Poling/Rodriguez     def.     Reco/Rousset         63 63
-     32     Reynolds/Lithen      def.     Neuhaus/Dalmasso     64 36 [9]
-     32     Hassey/Smith         def.     Chidekh/Davis        61 62
-     32 (9) Siimar/Shelbayh      def.     Junk/Slavic          63 64
-     32     Malbasic/Hoeyeraal   def. (4) Torre Martin/Stable  76(1) 46 [4]
-     32     Graziani/Zhu         def.     Ornberg/Atherton     63 64
-     32     Zhang/Heller         def.     Jakic/Tonejc         62 63
-     32 (9) Keremedchiev/Klov-N… def.     Zink/Hammond         62 76(1)
-     32     McKennon/Salle       def.     Paroulek/Brumm       63 63
-     32 (9) Hudd/Mitsui          def.     Zahraj/Hoogmartens   67(5) 61 [3]
-     32 (7) Rodesch/Goetz        def.     Neff/Thamma          36 76(4) [8]
-     32     Ciamarra/Harper      def.     Kikuchi/Overbeck     76(4) 63
-     32 (8) Cash/Vocel           def.     Anselmo/Mandlik      62 76(1)
-     32     Fomba/Vives Marcos   def.     Jachuck/Shi          76(5) 67(5) [6]
-     64     Stewart/Henning      def. (1) Jong/Aguilar         64 75
-     64     De Jonge/Hadigian    def.     Siddall/Thelwall Jo… 62 64
-     64     Pankin/Tvedt         def.     Simkin/Tasker        61 46 [3]
-     64 (9) Rotsaert/Fery        def.     Moroni/Thomson       75 61
-     64     Reco/Rousset         def. (2) Monday/Prata         63 46 [6]
-     64     Poling/Rodriguez     def.     Lambling/Story       64 62
-     64     Neuhaus/Dalmasso     def.     Beiler/Hasson        63 76(6)
-     64     Reynolds/Lithen      def. (9) Pourroy/Arcila       62 64
-     64     Chidekh/Davis        def. (3) Capalbo/Busleiman    46 64 [8]
-     64     Hassey/Smith         def.     Kingsley/Tracy       61 64
-     64     Junk/Slavic          def.     Chopra/Dong          64 76(3)
-     64 (9) Siimar/Shelbayh      def.     Tumosa/Straker-Meads 64 67(5) [8]
-     64 (4) Torre Martin/Stable  def.     Valiev/Azoides       46 62 [8]
-     64     Malbasic/Hoeyeraal   def.     Acosta/Cierny        Default
-     64     Graziani/Zhu         def.     Marson/Perego        62 46 [4]
-     64     Ornberg/Atherton     def. (9) Coste/Roberto        61 16 [7]
-     64     Jakic/Tonejc         def. (5) Diallo/Musitelli     76(4) 75
-     64     Zhang/Heller         def.     Bollipalli/Ferguson  76(4) 75
-     64     Zink/Hammond         def.     Marques Da Silva/Th… 76(2) 76(1)
-     64 (9) Keremedchiev/Klov-N… def.     Pratt/Vile           36 63 [10]
-     64     McKennon/Salle       def. (6) Allen/Steinhausen    36 76(4) [8]
-     64     Paroulek/Brumm       def.     Sauer/Bulus          76(4) 61
-     64     Zahraj/Hoogmartens   def.     Abbrat/Ross          63 62
-     64 (9) Hudd/Mitsui          def.     Braswell/McDonald    62 46 [4]
-     64 (7) Rodesch/Goetz        def.     Edge/Rocha           26 64 [10]
-     64     Neff/Thamma          def.     Zeitvogel/Rogers     63 75
-     64     Kikuchi/Overbeck     def.     Schulenburg/Walker   63 62
-     64     Ciamarra/Harper      def. (9) Harrison/Zavala      63 63
-     64 (8) Cash/Vocel           def.     Boyer/Sah            64 63
-     64     Anselmo/Mandlik      def.     Brown/Sokolovskiy    63 46 [6]
-     64     Fomba/Vives Marcos   def.     Yamada/Cronje        76(5) 60
-     64     Jachuck/Shi          def. (9) Schachter/Rollins    46 76(4) [8]
+     16  (9) Rotsaert/Fery        def.      Stewart/Henning      63 64
+     16      Reynolds/Lithen      def.      Poling/Rodriguez     26 64 [7]
+     16  (9) Siimar/Shelbayh      def.      Hassey/Smith         46 62 [12]
+     16      Malbasic/Hoeyeraal   def.      Graziani/Zhu         75 63
+     16      Zhang/Heller         def.  (9) Keremedchiev/Klov-N… 63 64
+     16  (9) Hudd/Mitsui          def.      McKennon/Salle       16 63 [5]
+     16  (7) Rodesch/Goetz        def.      Ciamarra/Harper      62 64
+     16  (8) Cash/Vocel           def.      Fomba/Vives Marcos   63 63
+     32      Stewart/Henning      def.      De Jonge/Hadigian    64 63
+     32  (9) Rotsaert/Fery        def.      Pankin/Tvedt         64 75
+     32      Poling/Rodriguez     def.      Reco/Rousset         63 63
+     32      Reynolds/Lithen      def.      Neuhaus/Dalmasso     64 36 [9]
+     32      Hassey/Smith         def.      Chidekh/Davis        61 62
+     32  (9) Siimar/Shelbayh      def.      Junk/Slavic          63 64
+     32      Malbasic/Hoeyeraal   def.  (4) Torre Martin/Stable  76(1) 46 [4]
+     32      Graziani/Zhu         def.      Ornberg/Atherton     63 64
+     32      Zhang/Heller         def.      Jakic/Tonejc         62 63
+     32  (9) Keremedchiev/Klov-N… def.      Zink/Hammond         62 76(1)
+     32      McKennon/Salle       def.      Paroulek/Brumm       63 63
+     32  (9) Hudd/Mitsui          def.      Zahraj/Hoogmartens   67(5) 61 [3]
+     32  (7) Rodesch/Goetz        def.      Neff/Thamma          36 76(4) [8]
+     32      Ciamarra/Harper      def.      Kikuchi/Overbeck     76(4) 63
+     32  (8) Cash/Vocel           def.      Anselmo/Mandlik      62 76(1)
+     32      Fomba/Vives Marcos   def.      Jachuck/Shi          76(5) 67(5) [6]
+     64      Stewart/Henning      def.  (1) Jong/Aguilar         64 75
+     64      De Jonge/Hadigian    def.      Siddall/Thelwall Jo… 62 64
+     64      Pankin/Tvedt         def.      Simkin/Tasker        61 46 [3]
+     64  (9) Rotsaert/Fery        def.      Moroni/Thomson       75 61
+     64      Reco/Rousset         def.  (2) Monday/Prata         63 46 [6]
+     64      Poling/Rodriguez     def.      Lambling/Story       64 62
+     64      Neuhaus/Dalmasso     def.      Beiler/Hasson        63 76(6)
+     64      Reynolds/Lithen      def.  (9) Pourroy/Arcila       62 64
+     64      Chidekh/Davis        def.  (3) Capalbo/Busleiman    46 64 [8]
+     64      Hassey/Smith         def.      Kingsley/Tracy       61 64
+     64      Junk/Slavic          def.      Chopra/Dong          64 76(3)
+     64  (9) Siimar/Shelbayh      def.      Tumosa/Straker-Meads 64 67(5) [8]
+     64  (4) Torre Martin/Stable  def.      Valiev/Azoides       46 62 [8]
+     64      Malbasic/Hoeyeraal   def.      Acosta/Cierny        Default
+     64      Graziani/Zhu         def.      Marson/Perego        62 46 [4]
+     64      Ornberg/Atherton     def.  (9) Coste/Roberto        61 16 [7]
+     64      Jakic/Tonejc         def.  (5) Diallo/Musitelli     76(4) 75
+     64      Zhang/Heller         def.      Bollipalli/Ferguson  76(4) 75
+     64      Zink/Hammond         def.      Marques Da Silva/Th… 76(2) 76(1)
+     64  (9) Keremedchiev/Klov-N… def.      Pratt/Vile           36 63 [10]
+     64      McKennon/Salle       def.  (6) Allen/Steinhausen    36 76(4) [8]
+     64      Paroulek/Brumm       def.      Sauer/Bulus          76(4) 61
+     64      Zahraj/Hoogmartens   def.      Abbrat/Ross          63 62
+     64  (9) Hudd/Mitsui          def.      Braswell/McDonald    62 46 [4]
+     64  (7) Rodesch/Goetz        def.      Edge/Rocha           26 64 [10]
+     64      Neff/Thamma          def.      Zeitvogel/Rogers     63 75
+     64      Kikuchi/Overbeck     def.      Schulenburg/Walker   63 62
+     64      Ciamarra/Harper      def.  (9) Harrison/Zavala      63 63
+     64  (8) Cash/Vocel           def.      Boyer/Sah            64 63
+     64      Anselmo/Mandlik      def.      Brown/Sokolovskiy    63 46 [6]
+     64      Fomba/Vives Marcos   def.      Yamada/Cronje        76(5) 60
+     64      Jachuck/Shi          def.  (9) Schachter/Rollins    46 76(4) [8]
 ~~~
 
 <a name="21-07548"></a>

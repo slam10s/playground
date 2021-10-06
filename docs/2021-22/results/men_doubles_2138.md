@@ -122,43 +122,43 @@
 
 <a name="21-21828"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   NAIA Men's & Women’s Florida ITA Regional Championships
   Dates: Sep 16-20, 2021
   Host: Keiser University (M)
-════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-      F (2) Barrios/Zick         def. (4) Barbon/Stepanov      46 64 [5]
-     SF (4) Barbon/Stepanov      def.     Pelletti/Pessoa      83
-     SF (2) Barrios/Zick         def.     Navrotchi/Mochizuki  84
-     QF     Pelletti/Pessoa      def. (1) Kilani/Simkiss       85
-     QF (4) Barbon/Stepanov      def.     Nouws/den Hartog     85
-     QF     Navrotchi/Mochizuki  def. (3) Marrero/Orevad       86
-     QF (2) Barrios/Zick         def.     Della Cioppa/Menend… 82
-     16 (1) Kilani/Simkiss       def.     Buffo/Zapata         82
-     16     Pelletti/Pessoa      def.     Glowaki/De Oliveira  84
-     16     Nouws/den Hartog     def.     Tajada/Turley        98(4)
-     16 (4) Barbon/Stepanov      def.     Chiaradia/Figuiere   81
-     16 (3) Marrero/Orevad       def.     Hartmann/Ferreira    83
-     16     Navrotchi/Mochizuki  def.     Binnios/Nicolau Fer… 82
-     16     Della Cioppa/Menend… def.     Safont Martinez/Tab… 85
-     16 (2) Barrios/Zick         def.     Preiswerk/Martinez   86
-     32     Buffo/Zapata         def.     Thireau/Bento        Walkover
-     32     Glowaki/De Oliveira  def.     Belcora/Arroyo Vigl… 85
-     32     Pelletti/Pessoa      def.     Ribas/Giacon         82
-     32     Tajada/Turley        def.     Orihuela/Hofmeister  86
-     32     Nouws/den Hartog     def.     Aguilar Guerrero/Pa… 83
-     32     Chiaradia/Figuiere   def.     Lopez Cruz/Tryakshin 86
-     32 (4) Barbon/Stepanov      def.     Fererr/Landaluce     85
-     32 (3) Marrero/Orevad       def.     Smulski/Torrenegra   82
-     32     Hartmann/Ferreira    def.     Nunez/Mariot         Walkover
-     32     Binnios/Nicolau Fer… def.     Gibbs/Bousquet       Walkover
-     32     Navrotchi/Mochizuki  def.     Pejanovic/Andrews    97
-     32     Della Cioppa/Menend… def.     Grijalva/Amorim      83
-     32     Safont Martinez/Tab… def.     Alias/Garcia         Walkover
-     32     Preiswerk/Martinez   def.     Siri/Stoica          86
+      F ((2)) Barrios/Zick         def. ((4)) Barbon/Stepanov      46 64 [5]
+     SF ((4)) Barbon/Stepanov      def.       Pelletti/Pessoa      83
+     SF ((2)) Barrios/Zick         def.       Navrotchi/Mochizuki  84
+     QF       Pelletti/Pessoa      def. ((1)) Kilani/Simkiss       85
+     QF ((4)) Barbon/Stepanov      def.       Nouws/den Hartog     85
+     QF       Navrotchi/Mochizuki  def. ((3)) Marrero/Orevad       86
+     QF ((2)) Barrios/Zick         def.       Della Cioppa/Menend… 82
+     16 ((1)) Kilani/Simkiss       def.       Buffo/Zapata         82
+     16       Pelletti/Pessoa      def.       Glowaki/De Oliveira  84
+     16       Nouws/den Hartog     def.       Tajada/Turley        98(4)
+     16 ((4)) Barbon/Stepanov      def.       Chiaradia/Figuiere   81
+     16 ((3)) Marrero/Orevad       def.       Hartmann/Ferreira    83
+     16       Navrotchi/Mochizuki  def.       Binnios/Nicolau Fer… 82
+     16       Della Cioppa/Menend… def.       Safont Martinez/Tab… 85
+     16 ((2)) Barrios/Zick         def.       Preiswerk/Martinez   86
+     32       Buffo/Zapata         def.       Thireau/Bento        Walkover
+     32       Glowaki/De Oliveira  def.       Belcora/Arroyo Vigl… 85
+     32       Pelletti/Pessoa      def.       Ribas/Giacon         82
+     32       Tajada/Turley        def.       Orihuela/Hofmeister  86
+     32       Nouws/den Hartog     def.       Aguilar Guerrero/Pa… 83
+     32       Chiaradia/Figuiere   def.       Lopez Cruz/Tryakshin 86
+     32 ((4)) Barbon/Stepanov      def.       Fererr/Landaluce     85
+     32 ((3)) Marrero/Orevad       def.       Smulski/Torrenegra   82
+     32       Hartmann/Ferreira    def.       Nunez/Mariot         Walkover
+     32       Binnios/Nicolau Fer… def.       Gibbs/Bousquet       Walkover
+     32       Navrotchi/Mochizuki  def.       Pejanovic/Andrews    97
+     32       Della Cioppa/Menend… def.       Grijalva/Amorim      83
+     32       Safont Martinez/Tab… def.       Alias/Garcia         Walkover
+     32       Preiswerk/Martinez   def.       Siri/Stoica          86
 ~~~
 
 <a name="21-39721"></a>

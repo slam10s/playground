@@ -32,92 +32,92 @@
 
 <a name="21-03077"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Division I Atlantic Women's Regional Championship
   Dates: Oct 1-4, 2021
   Host: U.S. Naval Academy (W)
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-     QF (1) OGorman/Chekhlystova def. (8) Corpuz/Komarraju     61
-     QF (6) Marinkovikj/Wiesmann def. (3) Tannenbaum/Taggart   76(1)
-     QF (4) Lebedeva/Zuffova     def.     Ho/Mikos             64
-     QF (2) Nielsen/Friedland    def.     Alamo/Lasorda        61
-     16 (1) OGorman/Chekhlystova def.     Honrubia/Svendsen    61
-     16 (8) Corpuz/Komarraju     def.     Bendetti/Coburn      75
-     16 (3) Tannenbaum/Taggart   def.     Ashton/Willy         61
-     16 (6) Marinkovikj/Wiesmann def.     Mitchell/Rose        61
-     16     Ho/Mikos             def.     Hashiguchi/Wirt      63
-     16 (4) Lebedeva/Zuffova     def.     Utrilla Benito/Pessy 63
-     16     Alamo/Lasorda        def. (5) Askarova/Montana     64
-     16 (2) Nielsen/Friedland    def.     Assenmacher/Haliou   60
-     32 (1) OGorman/Chekhlystova def.     Lawson/Pospischill   61
-     32     Honrubia/Svendsen    def.     Etienne/Jankovic     60
-     32 (8) Corpuz/Komarraju     def.     Pegram/Ifederu       60
-     32     Bendetti/Coburn      def.     Weinberg/Hirsch      60
-     32 (3) Tannenbaum/Taggart   def.     Nannery/Crowell      63
-     32     Ashton/Willy         def.     Cardoso/Torrente     75
-     32 (6) Marinkovikj/Wiesmann def.     Barney/Mathur        62
-     32     Mitchell/Rose        def.     La/Yang              75
-     32     Hashiguchi/Wirt      def.     Axelsson/Rothfeld    61
-     32     Ho/Mikos             def. (7) Johns/Moore          75
-     32     Utrilla Benito/Pessy def.     Butcher/Grayson      63
-     32 (4) Lebedeva/Zuffova     def.     Elliott/Weiss        64
-     32     Alamo/Lasorda        def.     Amato/Amato          63
-     32 (5) Askarova/Montana     def.     Smith/Moysiadi       63
-     32     Assenmacher/Haliou   def.     Georgieva/Turner     Walkover
-     32 (2) Nielsen/Friedland    def.     Latoni/Shanahan      61
-     64     Pegram/Ifederu       def.     Placidi/Jones        64
-     64     Cardoso/Torrente     def.     Liang/Policare       61
-     64     Ho/Mikos             def.     Kirk/Nava            61
+     QF ((1)) OGorman/Chekhlystova def. ((8)) Corpuz/Komarraju     61
+     QF ((6)) Marinkovikj/Wiesmann def. ((3)) Tannenbaum/Taggart   76(1)
+     QF ((4)) Lebedeva/Zuffova     def.       Ho/Mikos             64
+     QF ((2)) Nielsen/Friedland    def.       Alamo/Lasorda        61
+     16 ((1)) OGorman/Chekhlystova def.       Honrubia/Svendsen    61
+     16 ((8)) Corpuz/Komarraju     def.       Bendetti/Coburn      75
+     16 ((3)) Tannenbaum/Taggart   def.       Ashton/Willy         61
+     16 ((6)) Marinkovikj/Wiesmann def.       Mitchell/Rose        61
+     16       Ho/Mikos             def.       Hashiguchi/Wirt      63
+     16 ((4)) Lebedeva/Zuffova     def.       Utrilla Benito/Pessy 63
+     16       Alamo/Lasorda        def. ((5)) Askarova/Montana     64
+     16 ((2)) Nielsen/Friedland    def.       Assenmacher/Haliou   60
+     32 ((1)) OGorman/Chekhlystova def.       Lawson/Pospischill   61
+     32       Honrubia/Svendsen    def.       Etienne/Jankovic     60
+     32 ((8)) Corpuz/Komarraju     def.       Pegram/Ifederu       60
+     32       Bendetti/Coburn      def.       Weinberg/Hirsch      60
+     32 ((3)) Tannenbaum/Taggart   def.       Nannery/Crowell      63
+     32       Ashton/Willy         def.       Cardoso/Torrente     75
+     32 ((6)) Marinkovikj/Wiesmann def.       Barney/Mathur        62
+     32       Mitchell/Rose        def.       La/Yang              75
+     32       Hashiguchi/Wirt      def.       Axelsson/Rothfeld    61
+     32       Ho/Mikos             def. ((7)) Johns/Moore          75
+     32       Utrilla Benito/Pessy def.       Butcher/Grayson      63
+     32 ((4)) Lebedeva/Zuffova     def.       Elliott/Weiss        64
+     32       Alamo/Lasorda        def.       Amato/Amato          63
+     32 ((5)) Askarova/Montana     def.       Smith/Moysiadi       63
+     32       Assenmacher/Haliou   def.       Georgieva/Turner     Walkover
+     32 ((2)) Nielsen/Friedland    def.       Latoni/Shanahan      61
+     64       Pegram/Ifederu       def.       Placidi/Jones        64
+     64       Cardoso/Torrente     def.       Liang/Policare       61
+     64       Ho/Mikos             def.       Kirk/Nava            61
 ~~~
 
 <a name="21-54831"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Atlantic Regional Championship
   Dates: Oct 1-4, 2021
   Host: Liberty University (W)
-════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main Draw
   > Main
-     QF (1) Bossi/Chang          def.     Fernald/Manolescu    63
-     QF (5) Davidescu/Manjanna   def. (4) Parra Romero/Ode Mi… 63
-     QF (3) Afanasyeva/Moulin    def. (7) Clark/Andreini       61
-     QF     Hsieh/Nagato         def. (2) Kiefer/ODell         60
-     16 (1) Bossi/Chang          def.     Cheng/Som            63
-     16     Fernald/Manolescu    def. (6) Barad Itzaki/Aksu    76(6)
-     16 (4) Parra Romero/Ode Mi… def.     Fukutoku/Cricchio    63
-     16 (5) Davidescu/Manjanna   def.     Moulin/Voloh         62
-     16 (7) Clark/Andreini       def.     Saraty/Nguyen        62
-     16 (3) Afanasyeva/Moulin    def.     Gurholt/Stange       64
-     16     Hsieh/Nagato         def.     Danailova/Richtrova  62
-     16 (2) Kiefer/ODell         def.     Heiberg/Buendia      64
-     32 (1) Bossi/Chang          def.     Nikolopoulou/Nord    62
-     32     Cheng/Som            def.     Dunbar/Cohen         76(4)
-     32 (6) Barad Itzaki/Aksu    def.     McGrane/Hurrion      64
-     32     Fernald/Manolescu    def.     Karlova/Draskovic    76(5)
-     32 (4) Parra Romero/Ode Mi… def.     Campodonico/Salemyr  75
-     32     Fukutoku/Cricchio    def.     Husted/Radulova      62
-     32 (5) Davidescu/Manjanna   def.     Vanderheyden/Ballow  64
-     32     Moulin/Voloh         def.     Brandow/Falk         64
-     32     Saraty/Nguyen        def.     Stefancic/Van Hanse… 76(8)
-     32 (7) Clark/Andreini       def.     Kovick/Kucharova     76(5)
-     32     Gurholt/Stange       def.     Loudili/Ifidzhen     62
-     32 (3) Afanasyeva/Moulin    def.     Nurgazieva/Saez      60
-     32     Danailova/Richtrova  def.     Alhach/van Meeteren  63
-     32     Hsieh/Nagato         def. (8) Gillar/Clairotte     62
-     32     Heiberg/Buendia      def.     Joliff/Hincu         61
-     32 (2) Kiefer/ODell         def.     Pinto/Cartledge      61
-     64     Dunbar/Cohen         def.     Hederich/Barton      61
+     QF ((1)) Bossi/Chang          def.       Fernald/Manolescu    63
+     QF ((5)) Davidescu/Manjanna   def. ((4)) Parra Romero/Ode Mi… 63
+     QF ((3)) Afanasyeva/Moulin    def. ((7)) Clark/Andreini       61
+     QF       Hsieh/Nagato         def. ((2)) Kiefer/ODell         60
+     16 ((1)) Bossi/Chang          def.       Cheng/Som            63
+     16       Fernald/Manolescu    def. ((6)) Barad Itzaki/Aksu    76(6)
+     16 ((4)) Parra Romero/Ode Mi… def.       Fukutoku/Cricchio    63
+     16 ((5)) Davidescu/Manjanna   def.       Moulin/Voloh         62
+     16 ((7)) Clark/Andreini       def.       Saraty/Nguyen        62
+     16 ((3)) Afanasyeva/Moulin    def.       Gurholt/Stange       64
+     16       Hsieh/Nagato         def.       Danailova/Richtrova  62
+     16 ((2)) Kiefer/ODell         def.       Heiberg/Buendia      64
+     32 ((1)) Bossi/Chang          def.       Nikolopoulou/Nord    62
+     32       Cheng/Som            def.       Dunbar/Cohen         76(4)
+     32 ((6)) Barad Itzaki/Aksu    def.       McGrane/Hurrion      64
+     32       Fernald/Manolescu    def.       Karlova/Draskovic    76(5)
+     32 ((4)) Parra Romero/Ode Mi… def.       Campodonico/Salemyr  75
+     32       Fukutoku/Cricchio    def.       Husted/Radulova      62
+     32 ((5)) Davidescu/Manjanna   def.       Vanderheyden/Ballow  64
+     32       Moulin/Voloh         def.       Brandow/Falk         64
+     32       Saraty/Nguyen        def.       Stefancic/Van Hanse… 76(8)
+     32 ((7)) Clark/Andreini       def.       Kovick/Kucharova     76(5)
+     32       Gurholt/Stange       def.       Loudili/Ifidzhen     62
+     32 ((3)) Afanasyeva/Moulin    def.       Nurgazieva/Saez      60
+     32       Danailova/Richtrova  def.       Alhach/van Meeteren  63
+     32       Hsieh/Nagato         def. ((8)) Gillar/Clairotte     62
+     32       Heiberg/Buendia      def.       Joliff/Hincu         61
+     32 ((2)) Kiefer/ODell         def.       Pinto/Cartledge      61
+     64       Dunbar/Cohen         def.       Hederich/Barton      61
  > Extra Doubles
   > Main
-      F     Alhach/van Meeteren  def.     Loudili/Ifidzhen     62
+      F       Alhach/van Meeteren  def.       Loudili/Ifidzhen     62
  > Extra Doubles 2
   > Main
-      F     Aksu/Cheng           def.     Fukutoku/Cricchio    63
+      F       Aksu/Cheng           def.       Fukutoku/Cricchio    63
 ~~~
 
 <a name="21-09694"></a>
@@ -158,29 +158,29 @@
 
 <a name="21-08096"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   PSAC Individual Tennis Championship
   Dates: Oct 2-4, 2021
   Host: Bloomsburg University (M)
-═══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > PSAC Women's Doubles
   > Main
-      F (1) Kirchtag/Graydon     def. (2) Munday/Stralka       85
-     SF (1) Kirchtag/Graydon     def. (3) Gonzalez Sanchez/Pa… 83
-     SF (2) Munday/Stralka       def. (4) Wallace/Htwar        84
-     QF (1) Kirchtag/Graydon     def.     Negrao De Almeida/Z… 83
-     QF (3) Gonzalez Sanchez/Pa… def.     Shaw-Morris/Heckert  83
-     QF (4) Wallace/Htwar        def.     Ostojic/Jahr         84
-     QF (2) Munday/Stralka       def.     Alexander/Lee        81
-     16 (1) Kirchtag/Graydon     def.     Beer/McClusky        83
-     16     Negrao De Almeida/Z… def.     Frushour/Burner      81
-     16 (3) Gonzalez Sanchez/Pa… def.     Reeves/Wolever       81
-     16     Shaw-Morris/Heckert  def.     Walder/Winters       80
-     16     Ostojic/Jahr         def.     Capoferri/Quackenbu… 83
-     16 (4) Wallace/Htwar        def.     Aughenbaugh/Strouse  80
-     16     Alexander/Lee        def.     Makarski/Maher       82
-     16 (2) Munday/Stralka       def.     Winseck/Duran        82
+      F ((1)) Kirchtag/Graydon     def. ((2)) Munday/Stralka       85
+     SF ((1)) Kirchtag/Graydon     def. ((3)) Gonzalez Sanchez/Pa… 83
+     SF ((2)) Munday/Stralka       def. ((4)) Wallace/Htwar        84
+     QF ((1)) Kirchtag/Graydon     def.       Negrao De Almeida/Z… 83
+     QF ((3)) Gonzalez Sanchez/Pa… def.       Shaw-Morris/Heckert  83
+     QF ((4)) Wallace/Htwar        def.       Ostojic/Jahr         84
+     QF ((2)) Munday/Stralka       def.       Alexander/Lee        81
+     16 ((1)) Kirchtag/Graydon     def.       Beer/McClusky        83
+     16       Negrao De Almeida/Z… def.       Frushour/Burner      81
+     16 ((3)) Gonzalez Sanchez/Pa… def.       Reeves/Wolever       81
+     16       Shaw-Morris/Heckert  def.       Walder/Winters       80
+     16       Ostojic/Jahr         def.       Capoferri/Quackenbu… 83
+     16 ((4)) Wallace/Htwar        def.       Aughenbaugh/Strouse  80
+     16       Alexander/Lee        def.       Makarski/Maher       82
+     16 ((2)) Munday/Stralka       def.       Winseck/Duran        82
 ~~~
 
 <a name="21-68261"></a>
