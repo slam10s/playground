@@ -362,6 +362,24 @@
   Host: ITA
 ══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
+ > Main Draw
+  > Main
+     32  Hilderbrand/Pavel     vs   Ciamarra/Harper      Wed @ 14:30
+     32  Boulais/Trotter       vs   Rodesch/Goetz        Wed @ 14:30
+     32  Charlton/Vandecaste…  vs   Malbasic/Hoeyeraal   Wed @ 14:00
+     32  Rotsaert/Fery         vs   Barki/Bosancic       Wed @ 14:00
+     32  Murgett/McClean       vs   Bryde/Croyder        Wed @ 16:00
+     32  Gale/Gaber            vs   Davis/Summers        Wed @ 16:00
+     32  Johns/Sculley         vs   Motl/Slump           Wed @ 14:30
+     32  Dostanic/Frye         vs   Siimar/Shelbayh      Wed @ 14:30
+     32  Zhang/Heller          vs   Pearson/Di Marco     Wed @ 15:30
+     32  Cash/Vocel            vs   Martinez/Han         Wed @ 15:30
+     32  Maldoner/Vidal        vs   Lah/Bass             Wed @ 16:00
+     32  Cernoch/Kiger         vs   Stevenson/Cutting    Wed @ 16:00
+     32  Eriksson Ziverts/Mi…  vs   Stewart/Henning      Wed @ 15:00
+     32  Hohmann/Lobak         vs   Martin/McDaniel      Wed @ 15:00
+     32  Keremedchiev/Klov-N…  vs   Reynolds/Lithen      Wed @ 16:00
+     32  Hudd/Mitsui           vs   Rodrigues/Thomson    Wed @ 16:00
  > Qualifying
   > Main
      16  Rotsaert/Fery        def.  Stewart/Henning      63 64
