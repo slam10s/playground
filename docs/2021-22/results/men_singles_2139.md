@@ -748,49 +748,49 @@
   > Main
       64  (1) Daniel Rodrigues     def.      Tyler Zink           63 64
       64      Ben Shelton          def.      Martim Prata         64 62
-      64  (9) Ronnie Hohmann       def.      Francois Musitelli   36 63 64
-      64      Arthur Fery          def.      Justin Barki         62 61
-      64  (5) Trent Bryde          def.      Henry Schulenburg    61 26 64
-      64      Alexandre Reco       def.      Emmanuel Coste       64 26 76(2)
+      64  (9) Ronnie Hohmann       def.    Q Francois Musitelli   36 63 64
+      64      Arthur Fery          def.   LL Justin Barki         62 61
+      64  (5) Trent Bryde          def.    Q Henry Schulenburg    61 26 64
+      64      Alexandre Reco       def.   LL Emmanuel Coste       64 26 76(2)
       64  (9) Nikola Slavic         vs       James Davis          Wed @ 11:00
-      64      Jj Tracy              vs       Stefan Hampe         Wed @ 12:30
+      64    Q Jj Tracy              vs       Stefan Hampe         Wed @ 12:30
       64      Francisco Rocha      def.  (3) Luc Fomba            76(4) 64
-      64      Stefan Dostanic      def.      Brian Cernoch        64 60
+      64    Q Stefan Dostanic      def.      Brian Cernoch        64 60
       64      Ryan Goetz           def.  (9) MAtej Vocel          36 62 63
       64      Clement Chidekh      def.      Jonas Eriksson Zive… 63 62
       64  (6) Gabriel Diallo        vs       Nemanja Malesevic    Wed @ 13:00
-      64      Daniel De Jonge       vs       Raphael Lambling     Wed @ 13:00
-      64  (9) Tyler Stice           vs       Filippo Moroni       Wed @ 12:00
-      64      Andres Martin         vs       Tadeas Paroulek      Wed @ 10:30
-      64      Andre Ilagan         def.      Marcus McDaniel      63 60
-      64      Eric Hadigian         vs   (9) Juan Carlos Aguilar  Wed @ 12:00
+      64    Q Daniel De Jonge       vs       Raphael Lambling     Wed @ 13:00
+      64  (9) Tyler Stice           vs     Q Filippo Moroni       Wed @ 12:00
+      64      Andres Martin         vs     Q Tadeas Paroulek      Wed @ 10:30
+      64    Q Andre Ilagan         def.      Marcus McDaniel      63 60
+      64    Q Eric Hadigian         vs   (9) Juan Carlos Aguilar  Wed @ 12:00
       64      Cannon Kingsley       vs       Franco Capalbo       Wed @ 12:00
       64      Kody Pearson          vs   (7) Andres Andrade       Wed @ 11:00
       64      Alex Kotzen           vs       Luca Maldoner        Wed @ 10:00
-      64  (9) Hamish Stewart       def.      Chris Rodesch        64 62
-      64      Joshua Lapadat        vs       Toby Samuel          Wed @ 12:30
-      64      Holden Koons          vs   (4) Finn Reynolds        Wed @ 11:30
+      64  (9) Hamish Stewart       def.    Q Chris Rodesch        64 62
+      64   LL Joshua Lapadat        vs     Q Toby Samuel          Wed @ 12:30
+      64   LL Holden Koons          vs   (4) Finn Reynolds        Wed @ 11:30
       64      Axel Nefve            vs       Mason Beiler         Wed @ 12:00
-      64      Vito Tonejc           vs   (9) Connor Thomson       Wed @ 10:30
-      64      Jacob Bickersteth     vs       Tristan Boyer        Wed @ 11:30
-      64  (8) Philip Henning       def.      Tad McClean          62 62
+      64   LL Vito Tonejc           vs   (9) Connor Thomson       Wed @ 10:30
+      64      Jacob Bickersteth     vs     Q Tristan Boyer        Wed @ 11:30
+      64  (8) Philip Henning       def.    Q Tad McClean          62 62
       64      August Holmgren       vs       Karl Poling          Wed @ 13:30
-      64      Lodewijk Weststrate   vs   (9) Micah Braswell       Wed @ 13:30
-      64      Florian Broska       def.      Trey Hilderbrand     61 63
-      64  (2) Johannus Monday      def.      Tim Zeitvogel        46 63 62
+      64    Q Lodewijk Weststrate   vs   (9) Micah Braswell       Wed @ 13:30
+      64      Florian Broska       def.    Q Trey Hilderbrand     61 63
+      64  (2) Johannus Monday      def.    Q Tim Zeitvogel        46 63 62
  > Qualifying
   > Main
       64      Daniel De Jonge      def.      Yuta Kikuchi         61 75
       64  (2) Toby Samuel          def.      Justin Barki         64 64
       64      Chris Rodesch        def. (17) Vito Tonejc          63 75
-      64      Eric Hadigian        def. (17) Joshua Lapadat       64 64
+      64    Q Eric Hadigian        def. (17) Joshua Lapadat       64 64
       64      Tim Zeitvogel        def.      Geronimo Busleiman   63 46 76(3)
       64      Francois Musitelli   def.      Simon Arca Costas    63 61
       64 (17) Jj Tracy             def.      Max Basing           76(4) 60
       64      Trey Hilderbrand     def.      Blake Croyder        63 36 64
       64      Andre Ilagan         def.      Stijn Slump          62 57 60
       64      Tadeas Paroulek      def.      Gavin Young          64 64
-      64      Filippo Moroni       def.      Harris Walker        64 75
+      64    Q Filippo Moroni       def.      Harris Walker        64 75
       64      Henry Schulenburg    def. (12) Emmanuel Coste       63 64
       64      Tristan Boyer        def.      Bogdan Pavel         64 62
       64      Tad McClean          def.      John Hallquist Lith… 76(5) 64
@@ -801,24 +801,24 @@
      128  (2) Toby Samuel          def.      Nicholas McKinney    63 61
      128      Justin Barki         def.      Vlad Lobak           61 64
      128      Chris Rodesch        def.  (3) Garrett Johns        67(5) 76(6) 64
-     128 (17) Vito Tonejc          def.      Guido Marson         Walkover
-     128      Eric Hadigian        def.  (4) Fabien Salle         75 26 75
-     128 (17) Joshua Lapadat       def.      Welsh Hotard         64 63
+     128 (17) Vito Tonejc          def.    Q Guido Marson         Walkover
+     128    Q Eric Hadigian        def.  (4) Fabien Salle         75 26 75
+     128 (17) Joshua Lapadat       def.    Q Welsh Hotard         64 63
      128      Tim Zeitvogel        def.      Murphy Cassone       61 64
-     128      Geronimo Busleiman   def.      Thomas Brown         76(4) 57 61
+     128      Geronimo Busleiman   def.    Q Thomas Brown         76(4) 57 61
      128      Francois Musitelli   def.      Justin Boulais       64 62
      128      Simon Arca Costas    def.      Filip Malbasic       26 75 75
      128      Max Basing           def.      Connor Di Marco      62 64
-     128 (17) Jj Tracy             def.      Carlos Hassey        16 64 61
+     128 (17) Jj Tracy             def.    Q Carlos Hassey        16 64 61
      128      Blake Croyder        def.  (8) Siem Woldeab         76(4) 75
-     128      Trey Hilderbrand     def.      Carl Emil Overbeck   64 36 64
+     128      Trey Hilderbrand     def.   LL Carl Emil Overbeck   64 36 64
      128      Andre Ilagan         def.      Jacob Brumm          64 62
      128      Stijn Slump          def.      Lui Maxted           61 62
      128      Tadeas Paroulek      def.      Ezequiel Santalla    62 46 63
      128      Gavin Young          def.      Alexander Hoogmarte… 75 64
-     128      Filippo Moroni       def. (11) Noah Schachter       46 64 63
+     128    Q Filippo Moroni       def. (11) Noah Schachter       46 64 63
      128      Harris Walker        def.      Ewen Lumsden         26 61 61
-     128 (12) Emmanuel Coste       def.      Kevin Zhu            63 60
+     128 (12) Emmanuel Coste       def.   LL Kevin Zhu            63 60
      128      Henry Schulenburg    def.      Colton Smith         62 16 63
      128      Bogdan Pavel         def. (13) Cleeve Harper        63 75
      128      Tristan Boyer        def.      Pedro Vives Marcos   76(4) 76(2)
@@ -828,7 +828,7 @@
      128      Holden Koons         def. (17) Pierce Rollins       26 61 64
      128      Rayane Stable        def.      Chris Edge           60 76(1)
      128      Lodewijk Weststrate  def.      Alex Martinez        62 62
-     256  (1) Chase Ferguson       def.      Mark Mandlik         75 16 75
+     256  (1) Chase Ferguson       def.    Q Mark Mandlik         75 16 75
      256      Yuta Kikuchi         def.      Abedallah Shelbayh   63 63
      256      Daniel De Jonge      def.      Kyryll Kryvchun      64 62
      256      Luca Staeheli        def. (17) David Stevenson      26 62 61
@@ -838,45 +838,45 @@
      256      Vlad Lobak           def. (17) Kento Yamada         60 46 76(3)
      256  (3) Garrett Johns        def.      Ilgiz Valiev         61 62
      256      Chris Rodesch        def.      Alex Brown           64 61
-     256      Guido Marson         def.      Matt Hulme           63 36 60
+     256    Q Guido Marson         def.    Q Matt Hulme           63 36 60
      256 (17) Vito Tonejc          def.      Jett Middleton       64 75
      256  (4) Fabien Salle         def.      Quinn Vandecasteele  26 76(7) 75
-     256      Eric Hadigian        def.      Sean Sculley         63 76(5)
-     256      Welsh Hotard         def.      Conor Gannon         75 64
+     256    Q Eric Hadigian        def.      Sean Sculley         63 76(5)
+     256    Q Welsh Hotard         def.    Q Conor Gannon         75 64
      256 (17) Joshua Lapadat       def.      Matt Summers         36 75 61
      256      Tim Zeitvogel        def.  (5) Dimitri Badra        61 36 62
      256      Murphy Cassone       def.      Nathan Han           46 60 64
-     256      Thomas Brown         def.      Carles Anton         36 76(1) 75
+     256    Q Thomas Brown         def.      Carles Anton         36 76(1) 75
      256      Geronimo Busleiman   def. (17) Loris Pourroy        63 36 62
      256      Justin Boulais       def.  (6) Nicolas Rousset      61 61
      256      Francois Musitelli   def.      Andrew Zhang         61 62
-     256      Filip Malbasic       def.      Inigo Torre Martin   63 26 64
+     256      Filip Malbasic       def.    Q Inigo Torre Martin   63 26 64
      256      Simon Arca Costas    def. (17) Emile Hudd           67(3) 64 61
      256      Max Basing           def.  (7) James Story          76(9) 76(5)
      256      Connor Di Marco      def.      Kyle Frankel         63 16 64
-     256      Carlos Hassey        def.      Ronan Jachuck        36 63 63
-     256 (17) Jj Tracy             def.      Justin Schlageter    63 62
-     256  (8) Siem Woldeab         def.      Oscar Pinto Sansano  62 60
+     256    Q Carlos Hassey        def.      Ronan Jachuck        36 63 63
+     256 (17) Jj Tracy             def.    Q Justin Schlageter    63 62
+     256  (8) Siem Woldeab         def.    Q Oscar Pinto Sansano  62 60
      256      Blake Croyder        def.      Thomas Bosancic      62 64
      256      Trey Hilderbrand     def.      Marin Delmas         36 63 63
-     256      Carl Emil Overbeck   def.      Mac Kiger            67(4) 61 75
+     256   LL Carl Emil Overbeck   def.      Mac Kiger            67(4) 61 75
      256      Andre Ilagan         def.  (9) Joshua Goodger       61 64
-     256      Jacob Brumm          def.      Dusan Milanovic      64 36 61
+     256      Jacob Brumm          def.    Q Dusan Milanovic      64 36 61
      256      Stijn Slump          def.      Timothy Sah          75 26 63
      256      Lui Maxted           def. (17) Andrew Fenty         62 64
      256      Ezequiel Santalla    def. (10) Richard Ciamarra     62 75
      256      Tadeas Paroulek      def.      Edoardo Graziani     63 64
-     256      Gavin Young          def.      Max McKennon         64 36 63
+     256      Gavin Young          def.   LL Max McKennon         64 36 63
      256      Alexander Hoogmarte… def. (17) Leyton Cronje        46 61 62
      256 (11) Noah Schachter       def.      Finlay Murgett       64 63
-     256      Filippo Moroni       def.      Athell Bennett       62 61
+     256    Q Filippo Moroni       def.      Athell Bennett       62 61
      256      Ewen Lumsden         def.      Bradley Frye         63 75
      256      Harris Walker        def. (17) Joshua Charlton      75 61
      256 (12) Emmanuel Coste       def.      Oscar Cutting        64 46 64
-     256      Kevin Zhu            def.      Luke Casper          76(3) 64
+     256   LL Kevin Zhu            def.    Q Luke Casper          76(3) 64
      256      Colton Smith         def.      Mark Wallner         61 62
      256      Henry Schulenburg    def. (17) James Trotter        26 61 62
-     256 (13) Cleeve Harper        def.      Francisco Pini       63 62
+     256 (13) Cleeve Harper        def.   LL Francisco Pini       63 62
      256      Bogdan Pavel         def.      Nicola Vidal         62 62
      256      Pedro Vives Marcos   def.      Patrick Maloney      61 46 64
      256      Tristan Boyer        def. (17) Matthis Ross         63 46 63
@@ -885,12 +885,12 @@
      256      John Hallquist Lith… def.      Charles Bertimon     61 60
      256 (17) Alexandre Rotsaert   def.      Callum Gale          64 62
      256 (15) Stefan Dostanic      def.      Liam Krall           76(3) 61
-     256      Shunsuke Mitsui      def.      Simon Junk           60 63
+     256      Shunsuke Mitsui      def.    Q Simon Junk           60 63
      256      Holden Koons         def.      Daniel Siddall       62 62
      256 (17) Pierce Rollins       def.      Pavel Motl           64 62
      256      Chris Edge           def. (16) Magnus Johnson       63 75
      256      Rayane Stable        def.      Adham Gaber          26 60 76(1)
-     256      Lodewijk Weststrate  def.      Gabriel Diaz Freire  76(4) 46 75
+     256      Lodewijk Weststrate  def.    Q Gabriel Diaz Freire  76(4) 46 75
      256      Alex Martinez        def. (17) Rafael Iziquierdo L… 63 26 41 Ret.
  > Qualifying Consolation
   > Main

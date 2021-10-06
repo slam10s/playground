@@ -364,22 +364,22 @@
  Men's Open Doubles
  > Main Draw
   > Main
-     32 (1) Hilderbrand/Pavel     vs      Ciamarra/Harper      Wed @ 14:30
-     32     Boulais/Trotter       vs      Rodesch/Goetz        Wed @ 14:30
-     32 (5) Charlton/Vandecaste…  vs      Malbasic/Hoeyeraal   Wed @ 14:00
-     32     Rotsaert/Fery         vs      Barki/Bosancic       Wed @ 14:00
+     32 (1) Hilderbrand/Pavel     vs   LL Ciamarra/Harper      Wed @ 14:30
+     32     Boulais/Trotter       vs    Q Rodesch/Goetz        Wed @ 14:30
+     32 (5) Charlton/Vandecaste…  vs    Q Malbasic/Hoeyeraal   Wed @ 14:00
+     32   Q Rotsaert/Fery         vs      Barki/Bosancic       Wed @ 14:00
      32 (4) Murgett/McClean       vs      Bryde/Croyder        Wed @ 16:00
      32     Gale/Gaber            vs      Davis/Summers        Wed @ 16:00
      32 (5) Johns/Sculley         vs      Motl/Slump           Wed @ 14:30
-     32     Dostanic/Frye         vs      Siimar/Shelbayh      Wed @ 14:30
-     32     Zhang/Heller          vs      Pearson/Di Marco     Wed @ 15:30
-     32     Cash/Vocel            vs  (5) Martinez/Han         Wed @ 15:30
+     32     Dostanic/Frye         vs    Q Siimar/Shelbayh      Wed @ 14:30
+     32   Q Zhang/Heller          vs      Pearson/Di Marco     Wed @ 15:30
+     32   Q Cash/Vocel            vs  (5) Martinez/Han         Wed @ 15:30
      32     Maldoner/Vidal        vs      Lah/Bass             Wed @ 16:00
      32     Cernoch/Kiger         vs  (3) Stevenson/Cutting    Wed @ 16:00
-     32     Eriksson Ziverts/Mi…  vs      Stewart/Henning      Wed @ 15:00
+     32     Eriksson Ziverts/Mi…  vs   LL Stewart/Henning      Wed @ 15:00
      32     Hohmann/Lobak         vs  (5) Martin/McDaniel      Wed @ 15:00
-     32     Keremedchiev/Klov-N…  vs      Reynolds/Lithen      Wed @ 16:00
-     32     Hudd/Mitsui           vs  (2) Rodrigues/Thomson    Wed @ 16:00
+     32  LL Keremedchiev/Klov-N…  vs    Q Reynolds/Lithen      Wed @ 16:00
+     32   Q Hudd/Mitsui           vs  (2) Rodrigues/Thomson    Wed @ 16:00
  > Qualifying
   > Main
      16 (9) Rotsaert/Fery        def.     Stewart/Henning      63 64
