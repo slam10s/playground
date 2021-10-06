@@ -31,14 +31,14 @@
  Men's Open Doubles
  > Qualifying
   > Main
-     16  Stewart/Henning       vs   Rotsaert/Fery        Tue @ 16:00
-     16  Poling/Rodriguez      vs   Reynolds/Lithen      Tue @ 16:00
-     16  Hassey/Smith          vs   Siimar/Shelbayh      Tue @ 16:00
-     16  Malbasic/Hoeyeraal    vs   graziani/zhu         Tue @ 16:00
-     16  Zhang/Heller          vs   Keremedchiev/Klov-N… Tue @ 16:00
-     16  McKennon/Salle        vs   Hudd/Mitsui          Tue @ 16:00
-     16  Rodesch/Goetz         vs   Ciamarra/Harper      Tue @ 16:00
-     16  Cash/Vocel            vs   Fomba/Vives Marcos   Tue @ 16:00
+     16  Rotsaert/Fery        def.  Stewart/Henning      63 64
+     16  Reynolds/Lithen      def.  Poling/Rodriguez     26 64 [7]
+     16  Siimar/Shelbayh      def.  Hassey/Smith         46 62 [12]
+     16  Malbasic/Hoeyeraal   def.  graziani/zhu         75 63
+     16  Zhang/Heller         def.  Keremedchiev/Klov-N… 63 64
+     16  Hudd/Mitsui          def.  McKennon/Salle       16 63 [5]
+     16  Rodesch/Goetz        def.  Ciamarra/Harper      62 64
+     16  Cash/Vocel           def.  Fomba/Vives Marcos   63 63
      32  Stewart/Henning      def.  De Jonge/Hadigian    64 63
      32  Rotsaert/Fery        def.  Pankin/Tvedt         64 75
      32  Poling/Rodriguez     def.  Reco/Rousset         63 63
@@ -87,6 +87,24 @@
      64  Anselmo/Mandlik      def.  Brown/Sokolovskiy    63 46 [6]
      64  Fomba/Vives Marcos   def.  Yamada/Cronje        76(5) 60
      64  Jachuck/Shi          def.  Schachter/Rollins    46 76(4) [8]
+ > Main Draw
+  > Main
+     32  Hilderbrand/Pavel     vs   Ciamarra/Harper      Wed @ 14:30
+     32  Boulais/Trotter       vs   Rodesch/Goetz        Wed @ 14:30
+     32  Charlton/Vandecaste…  vs   Malbasic/Hoeyeraal   Wed @ 14:00
+     32  Rotsaert/Fery         vs   Barki/Bosancic       Wed @ 14:00
+     32  Murgett/McClean       vs   Bryde/Croyder        Wed @ 16:00
+     32  Gale/Gaber            vs   Davis/Summers        Wed @ 16:00
+     32  Johns/Sculley         vs   Motl/Slump           Wed @ 14:30
+     32  Dostanic/Frye         vs   Siimar/Shelbayh      Wed @ 14:30
+     32  Zhang/Heller          vs   Pearson/Di Marco     Wed @ 15:30
+     32  Cash/Vocel            vs   Martinez/Han         Wed @ 15:30
+     32  Maldoner/Vidal        vs   Lah/Bass             Wed @ 16:00
+     32  Cernoch/Kiger         vs   Stevenson/Cutting    Wed @ 16:00
+     32  Eriksson Ziverts/Mi…  vs   Stewart/Henning      Wed @ 15:00
+     32  Hohmann/Lobak         vs   Martin/McDaniel      Wed @ 15:00
+     32  Keremedchiev/Klov-N…  vs   Reynolds/Lithen      Wed @ 16:00
+     32  Hudd/Mitsui           vs   Rodrigues/Thomson    Wed @ 16:00
 ~~~
 
 <a name="21-08096"></a>

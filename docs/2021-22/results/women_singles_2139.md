@@ -967,6 +967,15 @@
      16  Sasha Dobranos       def.  Anastassiya Sharapo… 63 67(4) [9]
      16  Jordina Font Montero def.  Perri Howard         64 61
      16  Gabrielle Geolier    def.  Eleanor Chapman      64 63
+ > Belmont vs. Murray State
+  > Main
+     16  Marit Kreugel        def.  Peyton Lee           61 46 63
+     16  Jordina Font Montero def.  Lauren Carelli       62 63
+     16  Anastassiya Sharapo… def.  Somer Henry          64 64
+     16  Sarah Bureau         def.  Anastasiya Zholdako… 61 60
+     16  Gabrielle Geolier    def.  Taylor Trondson      63 62
+     16  Paola Silva Campigo… def.  Alyssa Getty         75 64
+     16  Abigail Solomon      def.  Annika Pschorr       46 63 76(3)
 ~~~
 
 <a name="21-42606"></a>
@@ -2881,6 +2890,7 @@
  Women's Open Singles
  > PSAC Women's Singles
   > Main
+      F (1) Karolin Kirchtag     def. (4) Natasha Munday       62 26 [8]
      SF (1) Karolin Kirchtag     def. (6) Kayla Dean           76(5) 36 [9]
      SF (4) Natasha Munday       def. (2) Lois Page            61 61
      QF (1) Karolin Kirchtag     def. (5) Adriana Gonzalez Sa… 46 61 [8]

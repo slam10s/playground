@@ -1314,6 +1314,7 @@
  Women's Open Doubles
  > PSAC Women's Doubles
   > Main
+      F (1) Kirchtag/Graydon     def. (2) Munday/Stralka       85
      SF (1) Kirchtag/Graydon     def. (3) Gonzalez Sanchez/Pa… 83
      SF (2) Munday/Stralka       def. (4) Wallace/Htwar        84
      QF (1) Kirchtag/Graydon     def.     Negrao De Almeida/Z… 83

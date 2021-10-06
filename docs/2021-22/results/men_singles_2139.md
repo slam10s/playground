@@ -1014,7 +1014,7 @@
       64  JJ Tracy             def.  Max Basing           76(4) 60
       64  Trey Hilderbrand     def.  Blake Croyder        63 36 64
       64  Andre Ilagan         def.  Stijn Slump          62 57 60
-      64  Tadeas Paroulek       vs   Gavin Young          Tue @ 14:00
+      64  Tadeas Paroulek      def.  Gavin Young          64 64
       64  Filippo Moroni       def.  Harris Walker        64 75
       64  Henry Schulenburg    def.  Emmanuel Coste       63 64
       64  Tristan Boyer        def.  Bogdan Pavel         64 62
@@ -1146,6 +1146,40 @@
       64  Pavel Motl           def.  Daniel Siddall       63 75
       64  Mark Mandlik         def.  Jett Middleton       62 46 75
       64  Nathan Han           def.  Matt Summers         62 62
+ > Main Draw
+  > Main
+      64  Daniel Rodrigues      vs   Tyler Zink           Wed @ 09:00
+      64  Ben Shelton           vs   Martim Prata         Wed @ 09:00
+      64  Ronnie Hohmann        vs   Francois Musitelli   Wed @ 09:00
+      64  Arthur Fery           vs   Alexander Jong       Wed @ 09:00
+      64  Trent Bryde           vs   Henry Schulenburg    Wed @ 09:00
+      64  Emmanuel Coste        vs   Alexandre Reco       Wed @ 09:00
+      64  Nikola Slavic         vs   James Davis          Wed @ 11:00
+      64  JJ Tracy              vs   Stefan Hampe         Wed @ 12:30
+      64  Luc Fomba             vs   Francisco Rocha      Wed @ 09:00
+      64  Stefan Dostanic       vs   Brian Cernoch        Wed @ 09:00
+      64  MAtej Vocel           vs   Ryan Goetz           Wed @ 09:00
+      64  Clement Chidekh       vs   Jonas Eriksson Zive… Wed @ 09:00
+      64  Gabriel Diallo        vs   Nemanja Malesevic    Wed @ 13:00
+      64  Daniel De Jonge       vs   Raphael Lambling     Wed @ 13:00
+      64  Tyler Stice           vs   Filippo Moroni       Wed @ 12:00
+      64  Andres Martin         vs   Tadeas Paroulek      Wed @ 10:30
+      64  Marcus McDaniel       vs   Andre Ilagan         Wed @ 10:30
+      64  Eric Hadigian         vs   Juan Carlos Aguilar  Wed @ 12:00
+      64  Cannon Kingsley       vs   Franco Capalbo       Wed @ 12:00
+      64  Kody Pearson          vs   Andres Andrade       Wed @ 11:00
+      64  Alex Kotzen           vs   Luca Maldoner        Wed @ 10:00
+      64  Chris Rodesch         vs   Hamish Stewart       Wed @ 10:00
+      64  Joshua Lapadat        vs   Toby Samuel          Wed @ 12:30
+      64  Holden Koons          vs   Finn Reynolds        Wed @ 11:30
+      64  Axel Nefve            vs   Mason Beiler         Wed @ 12:00
+      64  Vito Tonejc           vs   Connor Thomson       Wed @ 10:30
+      64  Jacob Bickersteth     vs   Tristan Boyer        Wed @ 11:30
+      64  Tad McClean           vs   Philip Henning       Wed @ 10:30
+      64  August Holmgren       vs   Karl Poling          Wed @ 13:30
+      64  Lodewijk Weststrate   vs   Micah Braswell       Wed @ 13:30
+      64  Florian Broska        vs   Trey Hilderbrand     Wed @ 09:00
+      64  Tim Zeitvogel         vs   Johannus Monday      Wed @ 09:00
 ~~~
 
 <a name="21-07548"></a>
@@ -1373,6 +1407,11 @@
       F (1) Connor Evenson       def. (2) Sebastian Nunez      57 60 [7]
   > Northwest
       F     Erick Cruz           def.     Brody Millwood       63 61
+ > Extra Matches
+  > Main
+     QF     Francisco Erramuspe  def.     DANNY FLYNN          64 36 [10]
+     QF     Haktan Garayev       def.     SAMUEL BARROW        61 75
+     QF     Nino Portugal        def.     Khalen Wimes         60 60
 ~~~
 
 <a name="21-39463"></a>
@@ -1740,7 +1779,7 @@
       32      Tegan Hartman        def.  (4) Leyton Bohren        Walkover
       32  (7) alexey prokopchuk    def.      Alfonso de Simon     Walkover
      32Q      Paco Wortelmann      def. (15) Jorge Lajes          Walkover
-     32Q      Jasdeep Paintal      def.      Tomas Ruiz           Walkover
+     32Q      Jasdeep Paintal      def.      Tomas Ruiz           60 61
 ~~~
 
 <a name="21-08149"></a>
@@ -1854,6 +1893,7 @@
  Men's Open Singles
  > ITA Mens Singles
   > Main
+       F (1) James Hopper         def. (5) Ansh Shah            62 60
       SF (1) James Hopper         def. (9) Vishwa Aduru         61 63
       SF (5) Ansh Shah            def. (2) Timmy Cianciola      60 62
       QF (1) James Hopper         def.     Rishil Kondapaneni   61 61
