@@ -375,23 +375,6 @@
   Host: ITA
 ═══════════════════════════════════════════════════════════════════════════
  Women's Open Singles
- > Main Draw
-  > Main
-      32 (1) Abigail Forbes        vs      Julia Adams          Wed @ 09:30
-      32     Selin Ovunc           vs      Taisiya Pachkaleva   Wed @ 13:30
-      32 (7) Viktoryia Kanapatsk…  vs      Alana Smith          Wed @ 12:30
-      32     Kelly Chen            vs      Salma Ewing          Wed @ 09:30
-      32     Emmanouela Antonaki  def.     Chloe Beck           61 26 76(3)
-      32 (6) Tatiana Makarova      vs      Lea Ma               Wed @ 09:45
-      32     Victoria Flores       vs      Sarah Hamner         Wed @ 13:15
-      32     Vanessa Wong          vs      Valeriya Zelevka     Wed @ 10:00
-      32     Gina Dittmann         vs  (8) Alexa Noel           Wed @ 10:00
-      32     Ayana Akli            vs      Isabella Pfennig     Wed @ 13:30
-      32     Shiori Fukuda         vs  (3) Georgia Drummy       Wed @ 13:45
-      32     Rebeka Mertena        vs      Victoria Hu          Wed @ 14:00
-      32     Carolyn Campana       vs  (5) Bunyawi Thamchaiwat  Wed @ 12:00
-      32     Meg Kowalski          vs      Eryn Cayetano        Wed @ 13:00
-      32     Laia Conde Monfort    vs  (2) Janice Tjen          Wed @ 12:00
  > Qualifying Draw
   > Qualifying - Main
       16 (1) Alana Smith          def.     Carmen Corley        61 63

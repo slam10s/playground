@@ -38,7 +38,7 @@
       64      Arthur Fery          def. (LL) Justin Barki         62 61
       64  (5) Trent Bryde          def.  (Q) Henry Schulenburg    61 26 64
       64      Alexandre Reco       def. (LL) Emmanuel Coste       64 26 76(2)
-      64  (9) Nikola Slavic         vs       James Davis          Wed @ 11:00
+      64  (9) Nikola Slavic        def.      James Davis          63 64
       64  (Q) Jj Tracy              vs       Stefan Hampe         Wed @ 12:30
       64      Francisco Rocha      def.  (3) Luc Fomba            76(4) 64
       64  (Q) Stefan Dostanic      def.      Brian Cernoch        64 60
@@ -47,17 +47,17 @@
       64  (6) Gabriel Diallo        vs       Nemanja Malesevic    Wed @ 13:00
       64  (Q) Daniel De Jonge       vs       Raphael Lambling     Wed @ 13:00
       64  (9) Tyler Stice           vs   (Q) Filippo Moroni       Wed @ 12:00
-      64      Andres Martin         vs   (Q) Tadeas Paroulek      Wed @ 10:30
+      64      Andres Martin        def.  (Q) Tadeas Paroulek      61 62
       64  (Q) Andre Ilagan         def.      Marcus McDaniel      63 60
       64  (Q) Eric Hadigian         vs   (9) Juan Carlos Aguilar  Wed @ 12:00
-      64      Cannon Kingsley       vs       Franco Capalbo       Wed @ 12:00
-      64      Kody Pearson          vs   (7) Andres Andrade       Wed @ 11:00
-      64      Alex Kotzen           vs       Luca Maldoner        Wed @ 10:00
+      64      Cannon Kingsley      def.      Franco Capalbo       62 62
+      64      Kody Pearson         def.  (7) Andres Andrade       62 76
+      64      Alex Kotzen          def.      Luca Maldoner        57 62 61
       64  (9) Hamish Stewart       def.  (Q) Chris Rodesch        64 62
       64 (LL) Joshua Lapadat        vs   (Q) Toby Samuel          Wed @ 12:30
-      64 (LL) Holden Koons          vs   (4) Finn Reynolds        Wed @ 11:30
-      64      Axel Nefve            vs       Mason Beiler         Wed @ 12:00
-      64 (LL) Vito Tonejc           vs   (9) Connor Thomson       Wed @ 10:30
+      64  (4) Finn Reynolds        def. (LL) Holden Koons         76(4) 63
+      64      Mason Beiler         def.      Axel Nefve           63 75
+      64  (9) Connor Thomson       def. (LL) Vito Tonejc          64 67(3) 62
       64      Jacob Bickersteth     vs   (Q) Tristan Boyer        Wed @ 11:30
       64  (8) Philip Henning       def.  (Q) Tad McClean          62 62
       64      August Holmgren       vs       Karl Poling          Wed @ 13:30
@@ -180,6 +180,7 @@
      256      Alex Martinez        def. (17) Rafael Iziquierdo L… 63 26 41 Ret.
  > Qualifying Consolation
   > Main
+      64      Bradley Frye         def.      Kyle Frankel         64 26 76(3)
       64      Magnus Johnson       def.      Alex Brown           60 62
       64      Mark Wallner         def.      Ilgiz Valiev         46 62 75
       64      Conor Gannon         def.      Ronan Jachuck        76(4) 26 62
@@ -200,7 +201,7 @@
       64      James Trotter        def.      Luke Casper          62 63
       64      Dusan Milanovic      def.      Liam Krall           75 36 63
       64      James Story          def.      Sema Pankin          63 63
-      64      Thomas Bosancic      def.      Athell Bennett       46 76(4) 61
+      64      Thomas Bosancic      def.      Athell Bennett       76(4) 61
       64      Adham Gaber          def.      Johannes Seeman      75 60
       64      Patrick Maloney      def.      Callum Gale          64 63
       64      Pavel Motl           def.      Daniel Siddall       63 75
