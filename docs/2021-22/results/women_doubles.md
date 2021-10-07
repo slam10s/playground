@@ -25,6 +25,7 @@
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847" target="_blank">Wildcat Invite</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">C.L Varner Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE" target="_blank">Lander Women's Invitational</a>  
+- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889" target="_blank">Middlebury Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NortheasternStateUW/Tournaments/Overview/6CDF33CD-A0E5-4CA9-BD9D-2F5B12B0FE50" target="_blank">Rumble by the River</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/CD3EA260-EE7B-4CC4-AEAD-3B2FCD79FEE4" target="_blank">Saint Leo Lion Fall Invitational - Women</a>  
@@ -193,22 +194,22 @@
  Women's Open Doubles
  > Draw
   > Main
-     32 (1) Corley/Corley         vs      Verma/Di Palma       Wed @ 15:00
-     32     Louka/Thompson        vs      Sasnouskaya/Starodu… Wed @ 15:30
-     32 (8) Tran/Sanford          vs      Lamoreaux/Dush       Wed @ 15:00
-     32     Bridges/Babic         vs      Gulihur/Melilo       Wed @ 16:00
-     32 (3) Makarova/Goldsmith    vs      Campana/Campana      Wed @ 16:30
-     32     Antonaki/Racine       vs      Lewis/Pietrowicz     Wed @ 15:00
-     32 (5) Murgett/Oliveira      vs      Tjen/Flores          Wed @ 16:30
-     32     Adams/Dillon          vs      Ansari/Ovunc         Wed @ 16:45
-     32     Bryzgalova/Curnic     vs      Mannix/Noel          Wed @ 16:45
-     32     Daniel/Smith          vs  (7) Fukuda/Pachkaleva    Wed @ 17:30
-     32     Lilien/Freeman        vs      Kadleckova/Naklo     Wed @ 14:30
-     32     Colling/Goldsmith     vs  (4) Kuczer/Adeshina      Wed @ 16:00
-     32     Allen/Hule            vs      Poppe/Conde Monfort  Wed @ 17:30
-     32     Axon/Flach            vs  (6) Brylin/Killingsworth Wed @ 14:30
-     32     Verden-Anderson/Pur…  vs      Hand/Crowley         Wed @ 15:30
-     32     Collard/Chervinsky    vs  (2) Berankova/Beck       Wed @ 17:30
+     32 (1) Corley/Corley         vs      Verma/Di Palma       Thu @ 13:00
+     32     Louka/Thompson        vs      Sasnouskaya/Starodu… Thu @ 13:00
+     32 (8) Tran/Sanford          vs      Lamoreaux/Dush       Thu @ 14:30
+     32     Bridges/Babic         vs      Gulihur/Melilo       Thu @ 14:30
+     32 (3) Makarova/Goldsmith    vs      Campana/Campana      Thu @ 14:30
+     32     Antonaki/Racine       vs      Lewis/Pietrowicz     Thu @ 14:30
+     32 (5) Murgett/Oliveira      vs      Tjen/Flores          Thu @ 14:30
+     32     Adams/Dillon          vs      Ansari/Ovunc         Thu @ 14:30
+     32     Bryzgalova/Curnic     vs      Mannix/Noel          Thu @ 15:30
+     32     Daniel/Smith          vs  (7) Fukuda/Pachkaleva    Thu @ 15:30
+     32     Lilien/Freeman        vs      Kadleckova/Naklo     Thu @ 15:30
+     32     Colling/Goldsmith     vs  (4) Kuczer/Adeshina      Thu @ 13:30
+     32     Allen/Hule            vs      Poppe/Conde Monfort  Thu @ 15:30
+     32     Axon/Flach            vs  (6) Brylin/Killingsworth Thu @ 15:30
+     32     Verden-Anderson/Pur…  vs      Hand/Crowley         Thu @ 15:30
+     32 (2) Berankova/Beck       def.     Collard/Chervinsky   Walkover
 ~~~
 
 Return to the [Top](./women_doubles_2140.md) &#124; [Home Page](../../index.md)
