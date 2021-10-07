@@ -16,11 +16,13 @@
 - 10/1/2021 - [ITA Division I Women's Northeasts Regional Championship](#21-17427) ([Results](#21-17427) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
+- 10/2/2021 - [UH Fall Invitational](#21-25235) ([Results](#21-25235) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHoustonW/Tournaments/Overview/81CEAFCF-07E3-42B0-BDDF-CB7D5F8E881B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Utah Invite](#21-47623) ([Results](#21-47623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahW/Tournaments/Overview/7AF1E32C-8707-429F-A3C2-89B494D4EF50" target="_blank">Draws</a>)  
 - 10/1/2021 - [Wolverine Invitational](#21-66025) ([Results](#21-66025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/6AF18612-0DD9-474B-9A98-4C630E99D501" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
+- 10/1/2021 - [Division III Women's New England ITA Regional Championships](#21-20521) ([Results](#21-20521) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Women's South ITA Regional Championships](#21-21997) ([Results](#21-21997) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SewaneeUOfTheSouthW/Tournaments/Overview/444BCEF3-8673-4922-AB1D-45C355E8DE28" target="_blank">Draws</a>)  
 - 9/30/2021 - [Division III Women's Southwest ITA Regional Championships](#21-36423) ([Results](#21-36423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonW/Tournaments/Overview/39873211-F8A9-40EA-B250-F23B1167F8F3" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
@@ -37,9 +39,7 @@
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Kitty Harrison invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
-- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHoustonW/Tournaments/Overview/81CEAFCF-07E3-42B0-BDDF-CB7D5F8E881B" target="_blank">UH Fall Invitational</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternCarolinaUniversityW/Tournaments/Overview/B2620864-02CA-45C5-97AD-B736DD738210" target="_blank">WCU Fall Invite</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Division III Women's New England ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Junior College Men's and Women's Northern California ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
@@ -866,6 +866,31 @@
      R1  Israel-Lewis/Lora M… def.  Komar/Vaudiau        61
 ~~~
 
+<a name="21-25235"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  UH Fall Invitational
+  Dates: Oct 2-3, 2021
+  Host: University Of Houston (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Day 1 Matches
+  > Main
+     16  Oyama/Vehvilainen def.  Giraldo/Slisane      97
+     16  Adams/Ponomareva  def.  Cortijo Parreno/Ped… 97
+     16  El Jardi/Budin    def.  Dzemeshkevich/Trenc… 98(3)
+     16  Smirnova/Zipoli   def.  Huth/Mavor           86
+     16  Morris/Jakeway    def.  Bowtell/Trevisan     97
+     16  Orav/Smirnova     def.  Kalava/Zhou          85
+ > Day 2 Matches
+  > Main
+     16  Mavor/Morris      def.  Dzemeshkevich/Pedem… 85
+     16  Huth/Jakeway      def.  Trencheva/Cortijo P… 85
+     16  El Jardi/Budin    def.  Giraldo/Slisane      82
+     16  Orav/Smirnova     def.  Adams/Oyama          81
+     16  Smirnova/Zipoli   def.  Ponomareva/Vehvilai… 82
+~~~
+
 <a name="21-47623"></a>
 ~~~
 ════════════════════════════════════════════════════════════════
@@ -1131,6 +1156,70 @@
      16Q     Fleming/Campbell     def.     Patel/Agarwal        Default
      16Q     Levanen/Seaberg      def.     Saunders/Davis       84
      16Q     Van Cott/Bufkin      def.     Edson/Fukushige      Walkover
+~~~
+
+<a name="21-20521"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Division III Women's New England ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: Bowdoin College (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F (2) Christensen/Rigby    def. (9) Gaeth/Yu             64 64
+     SF (9) Gaeth/Yu             def.     Carter/Safar         84
+     SF (2) Christensen/Rigby    def. (9) Raman/Miller         85
+     QF     Carter/Safar         def. (9) Huang/Lu             87(3)
+     QF (9) Gaeth/Yu             def. (4) La Barge/Delman      84
+     QF (9) Raman/Miller         def.     Parlman/Mu           84
+     QF (2) Christensen/Rigby    def.     Parwani/Loui         84
+     16 (9) Huang/Lu             def.     Soffer/Moschella     86
+     16     Carter/Safar         def. (7) Ferrante/Yeung       87(3)
+     16 (9) Gaeth/Yu             def. (5) Ishikawa/Tian        81
+     16 (4) La Barge/Delman      def.     Lendel/Friedman      86
+     16 (9) Raman/Miller         def.     Jin/Goldberg         81
+     16     Parlman/Mu           def. (7) Landau/Karah         83
+     16     Parwani/Loui         def. (9) Remis/Huang          87(6)
+     16 (2) Christensen/Rigby    def. (9) Ekstrand/Orgielewicz Walkover
+     32     Soffer/Moschella     def.     May/Wax              83
+     32 (9) Huang/Lu             def.     Hernandez/Levitz     86
+     32     Carter/Safar         def. (9) Dorr/Cummings        87(7)
+     32 (7) Ferrante/Yeung       def.     Wilson/Nikolishin    82
+     32 (5) Ishikawa/Tian        def.     Buckhout/Yu          86
+     32 (9) Gaeth/Yu             def.     Alviar/Shen          Walkover
+     32     Lendel/Friedman      def. (9) Friedman/Rozin       83
+     32 (4) La Barge/Delman      def.     Shub/Lowy            84
+     32     Jin/Goldberg         def. (3) Pertsemlidis/Liao    87(5)
+     32 (9) Raman/Miller         def.     Goshgarian/Goshgari… Walkover
+     32     Parlman/Mu           def. (9) Cui/Kintiroglou      85
+     32 (7) Landau/Karah         def.     Kava/Suk             84
+     32     Parwani/Loui         def. (8) Fleischman/Mohsen-B… 86
+     32 (9) Remis/Huang          def.     Scully/Falvey        83
+     32 (9) Ekstrand/Orgielewicz def.     Kimball/Hartman      86
+     32 (2) Christensen/Rigby    def.     Teng/Perera          85
+     64     Soffer/Moschella     def.     Shyltsyna/Baker      84
+     64     Hernandez/Levitz     def.     Malz/Manataweewat    81
+     64     Carter/Safar         def.     Van der Reis/Farhat  87(9)
+     64     Wilson/Nikolishin    def.     Hill/MacDonald       82
+     64     Buckhout/Yu          def.     Fernandez/Castelino  85
+     64     Alviar/Shen          def.     Steinberg/Galindo C… 81
+     64     Lendel/Friedman      def.     Guster/Uyeda         83
+     64     Shub/Lowy            def.     Hatfield/Denis       84
+     64     Jin/Goldberg         def.     Aamoum/Hoang         81
+     64     Goshgarian/Goshgari… def.     Kim/Maddex           83
+     64     Parlman/Mu           def.     Kittle/Dougherty     83
+     64     Kava/Suk             def.     Santiago/Aggarwal    87(2)
+     64     Parwani/Loui         def.     Ramras/Owensby       83
+     64     Scully/Falvey        def.     Atwater/Lyon         86
+     64     Kimball/Hartman      def.     Naik/Wang            85
+     64     Teng/Perera          def.     Landau/Riordan       87(1)
+ > Extra Doubles
+  > Main
+      F     Raman/Miller          vs      Gaeth/Yu             
+     SF     Raman/Miller         def.     Alviar/Shen          83
+     SF     Gaeth/Yu             def.     Goshgarian/Goshgari… 81
 ~~~
 
 <a name="21-21997"></a>

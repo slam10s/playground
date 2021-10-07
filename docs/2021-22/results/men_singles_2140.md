@@ -2,10 +2,8 @@
 
 **Tournamets with Matches**  
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
+- 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Division III Men’s Midwest ITA Regional Championships</a>  
 
 **Upcoming Tournaments**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
@@ -24,14 +22,30 @@
 
 <a name="21-73796"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════════
   ITA Men's All-American Championships
   Dates: Oct 2-10, 2021
   Host: ITA
-═════════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main Draw
   > Main
+      32  (1) Daniel Rodrigues      vs       Ben Shelton          Thu @ 10:00
+      32  (9) Ronnie Hohmann        vs       Arthur Fery          Thu @ 10:00
+      32  (5) Trent Bryde           vs       Alexandre Reco       Thu @ 10:30
+      32  (9) Nikola Slavic         vs   (Q) Jj Tracy             Thu @ 10:30
+      32      Francisco Rocha       vs   (Q) Stefan Dostanic      Thu @ 09:00
+      32      Ryan Goetz            vs       Clement Chidekh      Thu @ 09:00
+      32  (6) Gabriel Diallo        vs   (Q) Daniel De Jonge      Thu @ 09:00
+      32  (Q) Filippo Moroni        vs       Andres Martin        Thu @ 09:00
+      32  (Q) Andre Ilagan          vs   (9) Juan Carlos Aguilar  Thu @ 11:30
+      32      Cannon Kingsley       vs       Kody Pearson         Thu @ 11:30
+      32      Alex Kotzen           vs   (9) Hamish Stewart       Thu @ 10:30
+      32 (LL) Joshua Lapadat        vs   (4) Finn Reynolds        Thu @ 10:30
+      32      Mason Beiler          vs   (9) Connor Thomson       Thu @ 11:00
+      32      Jacob Bickersteth     vs   (8) Philip Henning       Thu @ 11:00
+      32      August Holmgren       vs   (9) Micah Braswell       Thu @ 13:00
+      32      Florian Broska        vs   (2) Johannus Monday      Thu @ 13:00
       64  (1) Daniel Rodrigues     def.      Tyler Zink           63 64
       64      Ben Shelton          def.      Martim Prata         64 62
       64  (9) Ronnie Hohmann       def.  (Q) Francois Musitelli   36 63 64
@@ -39,31 +53,48 @@
       64  (5) Trent Bryde          def.  (Q) Henry Schulenburg    61 26 64
       64      Alexandre Reco       def. (LL) Emmanuel Coste       64 26 76(2)
       64  (9) Nikola Slavic        def.      James Davis          63 64
-      64  (Q) Jj Tracy              vs       Stefan Hampe         Wed @ 12:30
+      64  (Q) Jj Tracy             def.      Stefan Hampe         61 64
       64      Francisco Rocha      def.  (3) Luc Fomba            76(4) 64
       64  (Q) Stefan Dostanic      def.      Brian Cernoch        64 60
       64      Ryan Goetz           def.  (9) MAtej Vocel          36 62 63
       64      Clement Chidekh      def.      Jonas Eriksson Zive… 63 62
-      64  (6) Gabriel Diallo        vs       Nemanja Malesevic    Wed @ 13:00
-      64  (Q) Daniel De Jonge       vs       Raphael Lambling     Wed @ 13:00
-      64  (9) Tyler Stice           vs   (Q) Filippo Moroni       Wed @ 12:00
+      64  (6) Gabriel Diallo       def.      Nemanja Malesevic    76(2) 64
+      64  (Q) Daniel De Jonge      def.      Raphael Lambling     36 76(4) 75
+      64  (Q) Filippo Moroni       def.  (9) Tyler Stice          46 62 64
       64      Andres Martin        def.  (Q) Tadeas Paroulek      61 62
       64  (Q) Andre Ilagan         def.      Marcus McDaniel      63 60
-      64  (Q) Eric Hadigian         vs   (9) Juan Carlos Aguilar  Wed @ 12:00
+      64  (9) Juan Carlos Aguilar  def.  (Q) Eric Hadigian        76(5) 62
       64      Cannon Kingsley      def.      Franco Capalbo       62 62
       64      Kody Pearson         def.  (7) Andres Andrade       62 76
       64      Alex Kotzen          def.      Luca Maldoner        57 62 61
       64  (9) Hamish Stewart       def.  (Q) Chris Rodesch        64 62
-      64 (LL) Joshua Lapadat        vs   (Q) Toby Samuel          Wed @ 12:30
+      64 (LL) Joshua Lapadat       def.  (Q) Toby Samuel          76(12) 63
       64  (4) Finn Reynolds        def. (LL) Holden Koons         76(4) 63
       64      Mason Beiler         def.      Axel Nefve           63 75
       64  (9) Connor Thomson       def. (LL) Vito Tonejc          64 67(3) 62
-      64      Jacob Bickersteth     vs   (Q) Tristan Boyer        Wed @ 11:30
+      64      Jacob Bickersteth    def.  (Q) Tristan Boyer        67(4) 75 15 Def.
       64  (8) Philip Henning       def.  (Q) Tad McClean          62 62
-      64      August Holmgren       vs       Karl Poling          Wed @ 13:30
-      64  (Q) Lodewijk Weststrate   vs   (9) Micah Braswell       Wed @ 13:30
+      64      August Holmgren      def.      Karl Poling          75 46 61
+      64  (9) Micah Braswell       def.  (Q) Lodewijk Weststrate  62 64
       64      Florian Broska       def.  (Q) Trey Hilderbrand     61 63
       64  (2) Johannus Monday      def.  (Q) Tim Zeitvogel        46 63 62
+  > Consolation
+     32Q      Tyler Zink            vs       Martim Prata         Thu @ 09:00
+     32Q  (Q) Francois Musitelli    vs  (LL) Justin Barki         Thu @ 09:00
+     32Q  (Q) Henry Schulenburg     vs  (LL) Emmanuel Coste       Thu @ 12:00
+     32Q      James Davis           vs       Stefan Hampe         Thu @ 12:00
+     32Q  (3) Luc Fomba             vs       Brian Cernoch        Thu @ 12:00
+     32Q  (9) MAtej Vocel           vs       Jonas Eriksson Zive… Thu @ 12:00
+     32Q      Nemanja Malesevic     vs       Raphael Lambling     Thu @ 12:30
+     32Q  (9) Tyler Stice           vs   (Q) Tadeas Paroulek      Thu @ 12:30
+     32Q      Marcus McDaniel       vs   (Q) Eric Hadigian        Thu @ 09:00
+     32Q      Franco Capalbo        vs   (7) Andres Andrade       Thu @ 09:00
+     32Q      Luca Maldoner         vs   (Q) Chris Rodesch        Thu @ 09:00
+     32Q  (Q) Toby Samuel           vs  (LL) Holden Koons         Thu @ 09:00
+     32Q      Axel Nefve           def. (LL) Vito Tonejc          Walkover
+     32Q  (Q) Tad McClean          def.  (Q) Tristan Boyer        Walkover
+     32Q      Karl Poling           vs   (Q) Lodewijk Weststrate  Thu @ 09:00
+     32Q  (Q) Trey Hilderbrand      vs   (Q) Tim Zeitvogel        Thu @ 09:00
  > Qualifying
   > Main
       64      Daniel De Jonge      def.      Yuta Kikuchi         61 75
@@ -466,6 +497,272 @@
      128      Sebastian Rodriguez  def.      Melvin Manuel        62 46 76(7)
      128      Blaz Seric           def.      Walker Stearns       64 62
      128      Kaya Gore            def.      Christopher Cahour   67(3) 60 64
+~~~
+
+<a name="21-95358"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  Division III Men’s Midwest ITA Regional Championships
+  Dates: Oct 1-4, 2021
+  Host: Gustavus Adolphus College (M)
+═════════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > ITA Regional Championship
+  > Main
+       F  (5) John Zakowski        def. (10) Cole Lindwall        46 64 [5]
+      SF  (5) John Zakowski        def.      Drew Elofson         64 62
+      SF (10) Cole Lindwall        def.  (3) Neel Raut            63 26 [3]
+      QF  (5) John Zakowski        def.  (1) Nick Aney            63 64
+      QF      Drew Elofson         def. (11) Marco Siviero        46 63 [7]
+      QF  (3) Neel Raut            def. (14) Caleb Fridinger      62 63
+      QF (10) Cole Lindwall        def.  (8) Daniel Fouchier      67(5) 64 [12]
+      16  (1) Nick Aney            def. (17) Josh Christensen     76(5) 16 [8]
+      16  (5) John Zakowski        def. (17) Bowen Mince          26 62 [7]
+      16 (11) Marco Siviero        def.  (4) Nyathi Motlojoa      75 75
+      16      Drew Elofson         def. (17) Jon Lansing          62 64
+      16 (14) Caleb Fridinger      def.      Rafael de Camargo C… 75 75
+      16  (3) Neel Raut            def. (12) Tarm Rojanasoonthon  75 63
+      16  (8) Daniel Fouchier      def.      Karch Knoll          46 63 [3]
+      16 (10) Cole Lindwall        def. (17) Oscar Wikstrom       64 64
+      32  (1) Nick Aney            def.      Bo Wilson            61 64
+      32 (17) Josh Christensen     def. (15) Daniel Moore         62 61
+      32  (5) John Zakowski        def.      Justin Sehlin        63 62
+      32 (17) Bowen Mince          def. (13) Alex Budde           63 16 [7]
+      32  (4) Nyathi Motlojoa      def. (17) Yuv Kataria          61 64
+      32 (11) Marco Siviero        def. (17) Matt Christensen     62 62
+      32      Drew Elofson         def.      Tate Fuller          64 63
+      32 (17) Jon Lansing          def. (16) Ryan Mitchell        67(5) 76(5) [4]
+      32 (14) Caleb Fridinger      def. (17) Myles Krzewinski     61 62
+      32      Rafael de Camargo C… def. (17) Max Loen             75 75
+      32 (12) Tarm Rojanasoonthon  def. (17) Diego Guzman         64 62
+      32  (3) Neel Raut            def. (17) Leo Esztergomi       64 61
+      32      Karch Knoll          def.  (9) Hunter Roseth        63 26 [6]
+      32  (8) Daniel Fouchier      def. (17) Alexander Roti       36 61 [3]
+      32 (10) Cole Lindwall        def.      Federico Fiorda      63 63
+      32 (17) Oscar Wikstrom       def.      Yanozie Amadike      62 63
+      64  (1) Nick Aney            def.      Landon Sather        61 75
+      64      Bo Wilson            def.      Giacomo Lucchesi     60 63
+      64 (15) Daniel Moore         def.      Luke Haddorff        64 63
+      64 (17) Josh Christensen     def.      Henry Bridgers       60 61
+      64  (5) John Zakowski        def.      John Foley           36 63 [7]
+      64      Justin Sehlin        def.      Aiden Klass          62 61
+      64 (13) Alex Budde           def.      Aswath Viswanathan   75 63
+      64 (17) Bowen Mince          def.      Jason Reilly         62 63
+      64  (4) Nyathi Motlojoa      def.      Taona Mhwandagara    75 57 [3]
+      64 (17) Yuv Kataria          def.      Jacob Lukkarila      62 60
+      64 (11) Marco Siviero        def.      Sam Rudenberg        26 62 [3]
+      64 (17) Matt Christensen     def.      Cole Contardi        62 63
+      64      Drew Elofson         def.  (7) Elliot Schneider     62 75
+      64      Tate Fuller          def. (17) Jack Bergmeyer       75 64
+      64 (16) Ryan Mitchell        def.      Chris Mitev          61 63
+      64 (17) Jon Lansing          def.      Sourabh Terakanambi  36 63 [9]
+      64 (17) Myles Krzewinski     def.      Noah Mueller         63 61
+      64 (14) Caleb Fridinger      def.      Noah Wankerl         62 61
+      64 (17) Max Loen             def.      Trey Melvin          63 62
+      64      Rafael de Camargo C… def.      Richard RJ Griffiths 64 62
+      64 (17) Diego Guzman         def.      Kevin Blomquist      61 61
+      64 (12) Tarm Rojanasoonthon  def.      Graham Peterson      60 62
+      64 (17) Leo Esztergomi       def.      Erik Beckers         63 64
+      64  (3) Neel Raut            def.      Cade Davis           61 60
+      64      Karch Knoll          def.      Joe Punnoose         64 62
+      64  (9) Hunter Roseth        def.      Logan Snyder         61 61
+      64 (17) Alexander Roti       def.      Jorge Melo           63 61
+      64  (8) Daniel Fouchier      def.      Tripp Schulte        62 60
+      64      Federico Fiorda      def.      Jonah Gilmore        63 60
+      64 (10) Cole Lindwall        def.      Sean Bochman         63 63
+      64 (17) Oscar Wikstrom       def.      Andre Luiz De Melo … 63 62
+      64      Yanozie Amadike      def.      Aniketh Vipparla     63 60
+     128  (1) Nick Aney            def.      Daniel Perez         60 61
+     128      Landon Sather        def.      Gergo Potz Nagy      63 63
+     128      Bo Wilson            def. (17) Will Walsh           64 63
+     128      Giacomo Lucchesi     def.      Evan Huemoeller      75 46 [7]
+     128 (15) Daniel Moore         def.      Joaquim Fernandes    62 63
+     128      Luke Haddorff        def.      William Stepanski    63 63
+     128 (17) Josh Christensen     def.      Demetri Bush         62 61
+     128      Henry Bridgers       def.      Payton Adkisson      75 61
+     128  (5) John Zakowski        def.      Jordan Doi           61 61
+     128      John Foley           def.      Mark Rosen           60 61
+     128      Justin Sehlin        def. (17) Eli Young            61 62
+     128      Aiden Klass          def.      Tommy Linkenheld     63 60
+     128 (13) Alex Budde           def.      Jordan Oaks          61 63
+     128      Aswath Viswanathan   def.      Nick Marino          63 76(4)
+     128 (17) Bowen Mince          def.      Josh Baldwin         46 61 [4]
+     128      Jason Reilly         def.      Grant Counts         61 62
+     128  (4) Nyathi Motlojoa      def.      Sam Thompson         60 64
+     128      Taona Mhwandagara    def.      Stewart Morrell      61 60
+     128 (17) Yuv Kataria          def.      Jacob Zacharias      60 60
+     128      Jacob Lukkarila      def.      Lorenzo Cazzamali    Walkover
+     128 (11) Marco Siviero        def.      Parker Hearne        62 61
+     128      Sam Rudenberg        def.      Nicolas Welker       61 61
+     128 (17) Matt Christensen     def.      Wil McDowell         64 75
+     128      Cole Contardi        def.      Tim Peters           64 63
+     128  (7) Elliot Schneider     def.      Anton Korolev        76(4) 63
+     128      Drew Elofson         def.      Josh Guillermo       63 61
+     128 (17) Jack Bergmeyer       def.      Cooper Ferruzzi      64 63
+     128      Tate Fuller          def.      Paul Elghouayel      63 60
+     128 (16) Ryan Mitchell        def.      Tanner Finken        60 62
+     128      Chris Mitev          def.      Trevor Smiley        60 60
+     128 (17) Jon Lansing          def.      Lucas Huffman        64 62
+     128      Sourabh Terakanambi  def.      Evan Sadowski        36 63 [6]
+     128      Noah Mueller         def.      Josh Janssen         62 61
+     128 (17) Myles Krzewinski     def.      Riley Versich        60 60
+     128      Noah Wankerl         def.      Nathan Meskell       62 62
+     128 (14) Caleb Fridinger      def.      Wilder Cooke         63 62
+     128      Trey Melvin          def.      Peter Naylor         62 62
+     128 (17) Max Loen             def.      Spencer Skidmore     62 63
+     128      Richard RJ Griffiths def.      Aidan Newberg        60 60
+     128      Rafael de Camargo C… def.  (6) Alex Gray            75 60
+     128      Kevin Blomquist      def.      Hayden Friese        Walkover
+     128 (17) Diego Guzman         def.      Karsten Knutsen      62 67(5) [4]
+     128      Graham Peterson      def.      Eian Coad            60 64
+     128 (12) Tarm Rojanasoonthon  def.      Noah Guillermo       57 61 [5]
+     128      Erik Beckers         def.      Ethan Bruha          61 63
+     128 (17) Leo Esztergomi       def.      Peyton Fischer       75 63
+     128      Cade Davis           def.      Michael Janes        61 16 [9]
+     128  (3) Neel Raut            def.      Alex Moore           60 62
+     128      Karch Knoll          def.      Jonas Ableeda        75 63
+     128      Joe Punnoose         def. (17) Brendan Pietila      36 62 [5]
+     128      Logan Snyder         def.      Brad Dileo           64 62
+     128  (9) Hunter Roseth        def.      Jackson Eells        61 62
+     128      Jorge Melo           def.      Matthew Sullivan     75 75
+     128 (17) Alexander Roti       def.      Ridley Aranda        63 61
+     128      Tripp Schulte        def.      Will Deters          63 62
+     128  (8) Daniel Fouchier      def.      Simon Kennel         61 60
+     128      Jonah Gilmore        def.      Brandon Kurilla      61 60
+     128      Federico Fiorda      def. (17) Luke Westholder      75 63
+     128      Sean Bochman         def.      Sho Tanaka           76(1) 63
+     128 (10) Cole Lindwall        def.      Tim Roback           60 61
+     128      Andre Luiz De Melo … def.      Riley Collins        62 61
+     128 (17) Oscar Wikstrom       def.      Hunter Fischer       60 60
+     128      Aniketh Vipparla     def.      Alec Sargent         62 64
+     128      Yanozie Amadike      def.  (2) Rami Hemaidan        63 76(4)
+ > Midwest Open
+  > Main
+       F      Kole Kolilnski       def.      Colin Chapman        62 64
+      SF      Colin Chapman        def.      Aj Wilkins           64 64
+      SF      Kole Kolilnski       def.      Geoffrey Youngs      62 64
+      QF      Colin Chapman        def.      Tyler Grosz          64 64
+      QF      Aj Wilkins           def.      Victor Simoes        Walkover
+      QF      Geoffrey Youngs      def.      Carlos Franch        63 62
+      QF      Kole Kolilnski       def.      Ryan Fonseca         61 61
+      16      Colin Chapman        def.      Ethan Beckerman      75 60
+      16      Tyler Grosz          def.      Alex Palomar         Walkover
+      16      Aj Wilkins           def.      Jack Geurkink        67(5) 64 [9]
+      16      Victor Simoes        def.      Ethan Hietala        Walkover
+      16      Carlos Franch        def.      Dylan Wiemers        62 76(4)
+      16      Geoffrey Youngs      def.      Lincoln Maher        62 62
+      16      Ryan Fonseca         def.      Pedro Gomes-Menezes  63 63
+      16      Kole Kolilnski       def.      Mason Meyer          61 61
+      32      Ethan Beckerman      def.      Marcos Borobia       64 61
+      32      Colin Chapman        def.      Odin Fouchier        61 63
+      32      Tyler Grosz          def.      Alex Poland          64 61
+      32      Alex Palomar         def.      Nate Withers         63 63
+      32      Aj Wilkins           def.      Luka Shaker-Check    64 62
+      32      Jack Geurkink        def.      Ryan Will            62 64
+      32      Ethan Hietala        def.      Caleb Hamerlinck     60 61
+      32      Victor Simoes        def.      Kaleb Stevens        61 64
+      32      Dylan Wiemers        def.      Ayden Fletcher       62 63
+      32      Carlos Franch        def.      Jeff Miller          63 62
+      32      Geoffrey Youngs      def.      Tyrus Studer         62 61
+      32      Lincoln Maher        def.      Joe Schneider        63 62
+      32      Ryan Fonseca         def.      Thomas Kampmier      63 63
+      32      Pedro Gomes-Menezes  def.      Juan Pablo Rosaldo   67(5) 64 [5]
+      32      Kole Kolilnski       def.      Juan Navarrete       64 64
+      32      Mason Meyer          def.      Alex Unger           64 64
+      64      Marcos Borobia       def.      William Chhim        63 76(4)
+      64      Ethan Beckerman      def.      Brendon Raabolle     61 60
+      64      Colin Chapman        def.      Jerusalem Thao       61 62
+      64      Odin Fouchier        def.      Mike Krasowski       60 63
+      64      Tyler Grosz          def.      Ryan Ackerman        61 61
+      64      Alex Poland          def.      Konnor Barth         62 63
+      64      Nate Withers         def.      Tanner Tschumper     62 63
+      64      Alex Palomar         def.      Asa White            63 62
+      64      Aj Wilkins           def.      Antonio Coelho       62 75
+      64      Luka Shaker-Check    def.      Jacob Anderson       61 61
+      64      Ryan Will            def.      Sean Gelski          60 62
+      64      Jack Geurkink        def.      Steffen Lipski       60 63
+      64      Caleb Hamerlinck     def.      Niklas Kasa          63 62
+      64      Ethan Hietala        def.      Jace Gilbertson      67(4) 61 [2]
+      64      Kaleb Stevens        def.      Jakub Belik          61 75
+      64      Victor Simoes        def.      Aidan Hunter         63 46 [1]
+      64      Ayden Fletcher       def.      Jake Peters          62 76(5)
+      64      Dylan Wiemers        def.      Josh Klement         62 61
+      64      Jeff Miller          def.      Will Fischer         26 62 [8]
+      64      Carlos Franch        def.      Elijah Krause        61 60
+      64      Geoffrey Youngs      def.      Nico Martinez Biali  62 61
+      64      Tyrus Studer         def.      Duke Nguyen          64 64
+      64      Joe Schneider        def.      Jonathan Kannenberg  64 62
+      64      Lincoln Maher        def.      Charles Yung         64 57 [4]
+      64      Thomas Kampmier      def.      Cooper Anderson      64 36 [5]
+      64      Ryan Fonseca         def.      Joseph Haag          60 62
+      64      Juan Pablo Rosaldo   def.      Dominic Warzecha     61 64
+      64      Pedro Gomes-Menezes  def.      Alex Daignault       63 63
+      64      Kole Kolilnski       def.      Heitor Damaso        60 61
+      64      Juan Navarrete       def.      Jake Seitz           62 61
+      64      Alex Unger           def.      Adam Ryerse          Walkover
+      64      Mason Meyer          def.      George Steinke       76(4) 64
+     128      William Chhim        def.      Jacob Alden          61 64
+     128      Marcos Borobia       def.      Reece Patten         63 26 [6]
+     128      Ethan Beckerman      def.      Isaac Hultberg       75 62
+     128      Brendon Raabolle     def.      Eli Henderson        76(4) 63
+     128      Colin Chapman        def.      Darin Rupp           76(4) 63
+     128      Jerusalem Thao       def.      Kipton Jenson        61 62
+     128      Mike Krasowski       def.      Hunter Gerhardt      61 60
+     128      Odin Fouchier        def.      Drew Holmes          61 61
+     128      Ryan Ackerman        def.      Julian Nemers        Walkover
+     128      Tyler Grosz          def.      Izak Roscher         60 62
+     128      Alex Poland          def.      Isaac Velgersdyke    64 76(4)
+     128      Konnor Barth         def.      Connor Fuzzey        16 76(5) [7]
+     128      Tanner Tschumper     def.      Britton Von Ruden    63 62
+     128      Nate Withers         def.      Nile Petersen        63 61
+     128      Asa White            def.      Jace Westerbur       63 60
+     128      Alex Palomar         def.      Jeffrey Dillon       63 62
+     128      Antonio Coelho       def.      Nolan Smiley         Walkover
+     128      Jacob Anderson       def.      Felipe Trejo-Nazar   Walkover
+     128      Luka Shaker-Check    def.      Tate Johanning       62 63
+     128      Sean Gelski          def.      Sebastian Zavala Br… 62 63
+     128      Ryan Will            def.      Luke Wyly            64 36 [9]
+     128      Steffen Lipski       def.      Isaac Bruins         64 46 [5]
+     128      Jack Geurkink        def.      Eli Simonson         62 60
+     128      Caleb Hamerlinck     def.      Shimon Yonekura      63 64
+     128      Niklas Kasa          def.      Logan Voigt          60 64
+     128      Ethan Hietala        def.      Sean Le              61 62
+     128      Jace Gilbertson      def.      Peter Heryla         64 61
+     128      Kaleb Stevens        def.      Ian Aadland          63 76(1)
+     128      Jakub Belik          def.      Nico Greis           46 64 [7]
+     128      Victor Simoes        def.      Collin Hemann        60 62
+     128      Aidan Hunter         def.      Rob Arbuckle         60 62
+     128      Jake Peters          def.      Miles Dempsey        60 61
+     128      Ayden Fletcher       def.      Garrett Janssen      61 60
+     128      Josh Klement         def.      Tucker Stene         61 36 [10]
+     128      Dylan Wiemers        def.      Joel Fremling        62 62
+     128      Jeff Miller          def.      Bret Elison          76(4) 64
+     128      Will Fischer         def.      Karsten Johnson      63 61
+     128      Elijah Krause        def.      Will Miller          75 64
+     128      Carlos Franch        def.      Matt Gilbert         61 63
+     128      Geoffrey Youngs      def.      Ethan Wurtzel        63 62
+     128      Nico Martinez Biali  def.      Sean Martin          63 62
+     128      Tyrus Studer         def.      Luke Smith           75 62
+     128      Duke Nguyen          def.      Anders Bergsten      64 46 [6]
+     128      Jonathan Kannenberg  def.      Matt Besek           60 64
+     128      Joe Schneider        def.      Bode Carter          46 64 [6]
+     128      Lincoln Maher        def.      Josh Marine          64 16 [4]
+     128      Charles Yung         def.      Dylan Determan       60 62
+     128      Thomas Kampmier      def.      Caden Rodning        64 75
+     128      Cooper Anderson      def.      Zach Revenig         61 61
+     128      Joseph Haag          def.      Matthew DenAdel      63 62
+     128      Ryan Fonseca         def.      Ben Anderson         60 60
+     128      Dominic Warzecha     def.      Jack Veber           60 61
+     128      Juan Pablo Rosaldo   def.      Jacob Weddle         75 76(3)
+     128      Pedro Gomes-Menezes  def.      Caue Ribeiro         60 63
+     128      Alex Daignault       def.      Grant Storm          63 62
+     128      Kole Kolilnski       def.      Steven Benoy         64 64
+     128      Heitor Damaso        def.      Sam Soon             63 63
+     128      Jake Seitz           def.      Matthew Bass         75 61
+     128      Juan Navarrete       def.      Peter Quinn          62 60
+     128      Adam Ryerse          def.      Nathan Bilan         60 64
+     128      Alex Unger           def.      Harry Hawbaker       61 64
+     128      George Steinke       def.      Surprise Taylor      62 61
 ~~~
 
 <a name="21-08096"></a>

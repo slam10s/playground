@@ -17,11 +17,13 @@
 - 10/1/2021 - [ITA Division I Women's Northeasts Regional Championship](#21-17427) ([Results](#21-17427) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
+- 10/2/2021 - [UH Fall Invitational](#21-25235) ([Results](#21-25235) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHoustonW/Tournaments/Overview/81CEAFCF-07E3-42B0-BDDF-CB7D5F8E881B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Utah Invite](#21-47623) ([Results](#21-47623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahW/Tournaments/Overview/7AF1E32C-8707-429F-A3C2-89B494D4EF50" target="_blank">Draws</a>)  
 - 10/1/2021 - [Wolverine Invitational](#21-66025) ([Results](#21-66025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/6AF18612-0DD9-474B-9A98-4C630E99D501" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
+- 10/1/2021 - [Division III Women's New England ITA Regional Championships](#21-20521) ([Results](#21-20521) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Women's South ITA Regional Championships](#21-21997) ([Results](#21-21997) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SewaneeUOfTheSouthW/Tournaments/Overview/444BCEF3-8673-4922-AB1D-45C355E8DE28" target="_blank">Draws</a>)  
 - 9/30/2021 - [Division III Women's Southwest ITA Regional Championships](#21-36423) ([Results](#21-36423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonW/Tournaments/Overview/39873211-F8A9-40EA-B250-F23B1167F8F3" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
@@ -37,9 +39,7 @@
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Kitty Harrison invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
-- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHoustonW/Tournaments/Overview/81CEAFCF-07E3-42B0-BDDF-CB7D5F8E881B" target="_blank">UH Fall Invitational</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternCarolinaUniversityW/Tournaments/Overview/B2620864-02CA-45C5-97AD-B736DD738210" target="_blank">WCU Fall Invite</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Division III Women's New England ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Junior College Men's and Women's Northern California ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
@@ -1942,6 +1942,43 @@
      R2  Chacadyah Israel-Le… def.  Hadley Jones         64 36 [8]
 ~~~
 
+<a name="21-25235"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  UH Fall Invitational
+  Dates: Oct 2-3, 2021
+  Host: University Of Houston (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day One Matches
+  > Main
+     32  Lana Mavor           def.  Blanca Cortijo Parr… 61 61
+     32  Azul Pedemonti       def.  Katherine Jakeway    63 75
+     32  Maria Budin          def.  Liisa Vehvilainen    64 62
+     32  Sophia Hummel        def.  Elena Trencheva      62 62
+     32  Laura Slisane        def.  Kexuan Zhou          12 Ret.
+     32  Federica Trevisan    def.  Jasmin Adams         46 60 62
+     32  Diae El Jardi        def.  Manasi Reddy         61 63
+     32  Saara Orav           def.  Saki Oyama           62 46 61
+     32  Drew Morris          def.  Maria Dzemeshkevich  61 36 60
+     32  Anna Bowtell         def.  Likhitha Kalava      63 62
+     32  Gabriela Giraldo     def.  Winslow Huth         62 63
+     32  Alison Zipoli        def.  Maria Ponomareva     60 62
+ > Day Two Matches
+  > Main
+     32  Lana Mavor           def.  Jasmin Adams         62 76(5)
+     32  Katherine Jakeway    def.  Saki Oyama           63 63
+     32  Winslow Huth         def.  Liisa Vehvilainen    61 61
+     32  Sophia Hummel        def.  Drew Morris          61 63
+     32  Alison Zipoli        def.  Maria Dzemeshkevich  75 63
+     32  Anna Bowtell         def.  Laura Slisane        63 76(7)
+     32  Diae El Jardi        def.  Azul Pedemonti       64 62
+     32  Maria Budin          def.  Gabriela Giraldo     63 64
+     32  Saara Orav           def.  Manasi Reddy         61 63
+     32  Blanca Cortijo Parr… def.  Likhitha Kalava      63 63
+     32  Maria Ponomareva     def.  Elena Trencheva      61 60
+~~~
+
 <a name="21-47623"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -2469,6 +2506,132 @@
       QF     Joslin Seaberg       def.     Julie Cutler         62 63
       16     Teresa Huang         def.     Gabriella Tellez     61 61
       16     Grace Wilson         def.     Mathilde Depery      61 61
+~~~
+
+<a name="21-20521"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════
+  Division III Women's New England ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: Bowdoin College (W)
+════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > A Singles Draw
+  > Main
+      F (9) Sahana Raman         def.     Jamilah Karah        62 76(3)
+     SF     Jamilah Karah        def. (9) Kimberly Liao        63 62
+     SF (9) Sahana Raman         def. (8) Claudia Miller       61 61
+     QF (9) Kimberly Liao        def.     Katie Fleischman     60 67(5) [10]
+     QF     Jamilah Karah        def. (5) Tilly Rigby          60 57 [5]
+     QF (9) Sahana Raman         def.     Gena Huang           64 61
+     QF (8) Claudia Miller       def. (2) Caitlyn Ferrante     36 62 [8]
+     16 (9) Kimberly Liao        def. (1) Erica Ekstrand       60 67(5) [10]
+     16     Katie Fleischman     def. (7) Amy Delman           64 64
+     16 (5) Tilly Rigby          def.     Katherine Orgielewi… Walkover
+     16     Jamilah Karah        def. (9) Yuu Ishikawa         26 75 [8]
+     16 (9) Sahana Raman         def. (3) Elle Christensen     76(6) 64
+     16     Gena Huang           def.     Evelyn Safar         64 76(16)
+     16 (8) Claudia Miller       def.     Anna Rozin           61 60
+     16 (2) Caitlyn Ferrante     def.     Ashleigh Parlman     76(2) 62
+     32 (1) Erica Ekstrand       def.     Zoe Kava             76(9) 60
+     32 (9) Kimberly Liao        def.     Olivia Soffer        61 63
+     32     Katie Fleischman     def.     Ana Hatfield         63 62
+     32 (7) Amy Delman           def.     Irene Huang          63 61
+     32 (5) Tilly Rigby          def.     Isabella Hartman     63 62
+     32     Katherine Orgielewi… def.     Gabriella Heaney-Se… 75 64
+     32 (9) Yuu Ishikawa         def.     Nicole Frankel       67(5) 64 [2]
+     32     Jamilah Karah        def.     Ananya Aggarwal      36 64 [7]
+     32 (3) Elle Christensen     def.     Kriti Williams       61 62
+     32 (9) Sahana Raman         def.     Taylor Suozzo        60 60
+     32     Gena Huang           def.     Maria Nikolishin     62 60
+     32     Evelyn Safar         def.     Julia Lendel         63 64
+     32 (8) Claudia Miller       def.     Juliette Moschella   60 60
+     32     Anna Rozin           def. (9) Amy Cui              76(5) 26 [10]
+     32     Ashleigh Parlman     def.     Hannah Buckhout      62 63
+     32 (2) Caitlyn Ferrante     def.     Brinlea La Barge     61 60
+     64 (1) Erica Ekstrand       def.     Susie-Jane Wilson    64 62
+     64     Zoe Kava             def.     Fleming Landau       61 61
+     64     Olivia Soffer        def.     Deliala Friedman     76(5) 64
+     64 (9) Kimberly Liao        def.     Justine Hoover       63 61
+     64     Katie Fleischman     def.     Shweta Cavale Kiran  61 60
+     64     Ana Hatfield         def.     Ashley Felix         76 62
+     64     Irene Huang          def.     Ally Friedman        64 75
+     64 (7) Amy Delman           def.     Michaela Markwart    61 60
+     64 (5) Tilly Rigby          def.     Mia Kintiroglou      63 63
+     64     Isabella Hartman     def.     Jordyn Maddex        61 61
+     64     Gabriella Heaney-Se… def.     Miriam Galindo Cerr… 63 75
+     64     Katherine Orgielewi… def. (9) Venia Yeung          46 75 [9]
+     64 (9) Yuu Ishikawa         def.     Caitlin Cass         61 63
+     64     Nicole Frankel       def.     Lindsay MacDonald    61 60
+     64     Jamilah Karah        def.     Jay Lu               67(3) 61 [10]
+     64     Ananya Aggarwal      def.     Samantha Riordan     64 76(5)
+     64 (3) Elle Christensen     def.     Alexis Acosta        60 61
+     64     Kriti Williams       def.     Josephine Kimball    63 64
+     64     Taylor Suozzo        def.     Emily Hill           26 62 [9]
+     64 (9) Sahana Raman         def.     Ashley Teng          61 46 [5]
+     64     Gena Huang           def. (9) Carly Levitz         62 61
+     64     Maria Nikolishin     def.     Madison West         63 63
+     64     Evelyn Safar         def.     Serim Jin            75 62
+     64     Julia Lendel         def. (6) Sarah Pertsemlidis   64 62
+     64 (8) Claudia Miller       def.     Allison Falvey       61 60
+     64     Juliette Moschella   def.     Lejla Guster         64 64
+     64     Anna Rozin           def.     Kennedi Carter       64 64
+     64 (9) Amy Cui              def.     Kristina Yu          63 61
+     64     Hannah Buckhout      def.     Maddie Suk           64 36 [8]
+     64     Ashleigh Parlman     def.     Jennifer Fan         61 60
+     64     Brinlea La Barge     def.     Annika Chai          61 61
+     64 (2) Caitlyn Ferrante     def.     Bhakti Parwani       63 60
+ > B Singles Draw
+  > Main
+      F     Renna Mohsen-Breen   def.     Elizabeth Yu         62 16 [7]
+     SF     Renna Mohsen-Breen   def.     Anna Lowy            61 64
+     SF     Elizabeth Yu         def.     Sasha Gaeth          Walkover
+     QF     Anna Lowy            def.     Katelyn Hart         Walkover
+     QF     Renna Mohsen-Breen   def.     Maggie Owensby       63 63
+     QF     Elizabeth Yu         def.     Yuka Perera          61 64
+     QF     Sasha Gaeth          def.     Michelle Shub        64 64
+     16     Katelyn Hart         def.     Seraphin Castelino   57 64 [6]
+     16     Anna Lowy            def.     Lindsey Hernandez    63 76(4)
+     16     Renna Mohsen-Breen   def.     Calista Sha          61 62
+     16     Maggie Owensby       def.     Sara Fernandez       62 16 [6]
+     16     Yuka Perera          def.     Laura De La Espriel… 62 63
+     16     Elizabeth Yu         def.     Kaya Amin            63 75
+     16     Sasha Gaeth          def.     Anna Murphy          61 63
+     16     Michelle Shub        def.     Sabrina Loui         64 61
+     32     Seraphin Castelino   def.     Jiayi Zhang          85
+     32     Katelyn Hart         def.     Shanaya Naik         83
+     32     Anna Lowy            def.     Annissa Mu           83
+     32     Lindsey Hernandez    def.     Annissa Aamoum       82
+     32     Calista Sha          def.     Emily Stouch         81
+     32     Renna Mohsen-Breen   def.     Anastasia Sia        85
+     32     Maggie Owensby       def.     Julia DeLuca         83
+     32     Sara Fernandez       def.     Cristiana DeAgazio   85
+     32     Yuka Perera          def.     Caroline Kittle      83
+     32     Laura De La Espriel… def.     Annette Kim          81
+     32     Elizabeth Yu         def.     Caitlin Goldberg     87(3)
+     32     Kaya Amin            def.     Sophie Wax           84
+     32     Sasha Gaeth          def.     Jane Wang            80
+     32     Anna Murphy          def.     Julia Pham           86
+     32     Michelle Shub        def.     Runsi Patro          82
+     32     Sabrina Loui         def.     Anya Ramras          86
+     64     Jiayi Zhang          def.     Drew Williams        85
+     64     Katelyn Hart         def.     Ava Lyon             83
+     64     Anna Lowy            def.     Sami Remis           83
+     64     Lindsey Hernandez    def.     Jane Wang            81
+     64     Emily Stouch         def.     Melinda Alviar       86
+     64     Anastasia Sia        def.     Angelina Shyltsyna   84
+     64     Julia DeLuca         def.     Rebecca Lim          87(2)
+     64     Sara Fernandez       def.     Elizabeth Frekko     80
+     64     Cristiana DeAgazio   def.     Lili Goshgarian      80
+     64     Caroline Kittle      def.     Isabel Santiago      81
+     64     Laura De La Espriel… def.     Brooke Scully        82
+     64     Annette Kim          def.     Clara Goshgarian     86
+     64     Elizabeth Yu         def.     Ella Baker           82
+     64     Sophie Wax           def.     Ella Subramanian     85
+     64     Sasha Gaeth          def.     Sydney Landau        87(1)
+     64     Julia Pham           def.     Vy Hoang             81
+     64     Michelle Shub        def.     Joanna Atwater       84
+     64     Anya Ramras          def.     Michelle Shen        83
 ~~~
 
 <a name="21-21997"></a>

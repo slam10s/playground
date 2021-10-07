@@ -16,8 +16,10 @@
 - 9/30/2021 - [Division II Men’s South Central ITA Regional Championships](#21-08149) ([Results](#21-08149) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/BFA79EEC-3303-4163-86EB-C0E9E19BBADE" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men's Central ITA Regional Championships](#21-43730) ([Results](#21-43730) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/4C90304B-D821-474C-BB23-F898C365EF87" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
+- 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
+- 10/2/2021 - [Panther Classic](#21-52083) ([Results](#21-52083) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/BA2B3B31-CD0C-40C8-96BC-A0F69FEED591" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
@@ -31,12 +33,10 @@
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Hagedorn Hidden Dual</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">PNW Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Division III Men's Northeast ITA Regional Championships</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Division III Men’s Midwest ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonM/Tournaments/Overview/8701EF80-DDC5-4BB0-861B-552EB3F1C862" target="_blank">Division III Men’s Southeast ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Junior College Men's and Women's Northern California ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">NAIA Men’s & Women's Midwest ITA Regional Championships</a>  
-- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/BA2B3B31-CD0C-40C8-96BC-A0F69FEED591" target="_blank">Panther Classic</a>  
 
 <a name="21-20374"></a>
 ~~~
@@ -356,88 +356,105 @@
 
 <a name="21-73796"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
   ITA Men's All-American Championships
   Dates: Oct 2-10, 2021
   Host: ITA
-════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main Draw
   > Main
-     32  (1) Hilderbrand/Pavel     vs  (LL) Ciamarra/Harper      Wed @ 14:30
-     32      Boulais/Trotter       vs   (Q) Rodesch/Goetz        Wed @ 14:30
-     32  (5) Charlton/Vandecaste…  vs   (Q) Malbasic/Hoeyeraal   Wed @ 14:00
-     32  (Q) Rotsaert/Fery         vs       Barki/Bosancic       Wed @ 14:00
-     32  (4) Murgett/McClean       vs       Bryde/Croyder        Wed @ 16:00
-     32      Gale/Gaber            vs       Davis/Summers        Wed @ 16:00
-     32  (5) Johns/Sculley         vs       Motl/Slump           Wed @ 14:30
-     32      Dostanic/Frye         vs   (Q) Siimar/Shelbayh      Wed @ 14:30
-     32  (Q) Zhang/Heller          vs       Pearson/Di Marco     Wed @ 15:30
-     32  (Q) Cash/Vocel            vs   (5) Martinez/Han         Wed @ 15:30
-     32      Maldoner/Vidal        vs       Lah/Bass             Wed @ 16:00
-     32      Cernoch/Kiger         vs   (3) Stevenson/Cutting    Wed @ 16:00
-     32      Eriksson Ziverts/Mi…  vs  (LL) Stewart/Henning      Wed @ 15:00
-     32      Hohmann/Lobak         vs   (5) Martin/McDaniel      Wed @ 15:00
-     32 (LL) Keremedchiev/Klov-N…  vs   (Q) Reynolds/Lithen      Wed @ 16:00
-     32  (Q) Hudd/Mitsui           vs   (2) Rodrigues/Thomson    Wed @ 16:00
+      16 (LL) Ciamarra/Harper       vs       Boulais/Trotter      Thu @ 13:30
+      16  (5) Charlton/Vandecaste…  vs   (Q) Rotsaert/Fery        Thu @ 14:30
+      16  (4) Murgett/McClean       vs       Davis/Summers        Thu @ 16:00
+      16      Motl/Slump            vs       Dostanic/Frye        Thu @ 14:30
+      16  (Q) Zhang/Heller          vs   (Q) Cash/Vocel           Thu @ 16:00
+      16      Lah/Bass              vs       Cernoch/Kiger        Thu @ 16:00
+      16 (LL) Stewart/Henning       vs   (5) Martin/McDaniel      Thu @ 15:00
+      16  (Q) Reynolds/Lithen       vs   (Q) Hudd/Mitsui          Thu @ 14:30
+      32 (LL) Ciamarra/Harper      def.  (1) Hilderbrand/Pavel    76(3) 36 [8]
+      32      Boulais/Trotter      def.  (Q) Rodesch/Goetz        63 62
+      32  (5) Charlton/Vandecaste… def.  (Q) Malbasic/Hoeyeraal   36 62 [6]
+      32  (Q) Rotsaert/Fery        def.      Barki/Bosancic       62 62
+      32  (4) Murgett/McClean      def.      Bryde/Croyder        36 75 [9]
+      32      Davis/Summers        def.      Gale/Gaber           63 16 [6]
+      32      Motl/Slump           def.  (5) Johns/Sculley        75 75
+      32      Dostanic/Frye        def.  (Q) Siimar/Shelbayh      64 64
+      32  (Q) Zhang/Heller         def.      Pearson/Di Marco     76 46 [8]
+      32  (Q) Cash/Vocel           def.  (5) Martinez/Han         61 61
+      32      Lah/Bass             def.      Maldoner/Vidal       75 61
+      32      Cernoch/Kiger        def.  (3) Stevenson/Cutting    75 76(4)
+      32 (LL) Stewart/Henning      def.      Eriksson Ziverts/Mi… 60 62
+      32  (5) Martin/McDaniel      def.      Hohmann/Lobak        62 64
+      32  (Q) Reynolds/Lithen      def. (LL) Keremedchiev/Klov-N… 64 64
+      32  (Q) Hudd/Mitsui          def.  (2) Rodrigues/Thomson    67(3) 76(5) [5]
+  > Consolation
+     16Q  (1) Hilderbrand/Pavel     vs   (Q) Rodesch/Goetz        Thu @ 14:00
+     16Q  (Q) Malbasic/Hoeyeraal    vs       Barki/Bosancic       Thu @ 13:30
+     16Q      Bryde/Croyder         vs       Gale/Gaber           Thu @ 15:30
+     16Q  (5) Johns/Sculley         vs   (Q) Siimar/Shelbayh      Thu @ 14:00
+     16Q      Pearson/Di Marco      vs   (5) Martinez/Han         Thu @ 15:30
+     16Q      Maldoner/Vidal        vs   (3) Stevenson/Cutting    Thu @ 14:30
+     16Q      Eriksson Ziverts/Mi… def.      Hohmann/Lobak        Walkover
+     16Q (LL) Keremedchiev/Klov-N…  vs   (2) Rodrigues/Thomson    Thu @ 15:00
  > Qualifying
   > Main
-     16  (9) Rotsaert/Fery        def.      Stewart/Henning      63 64
-     16      Reynolds/Lithen      def.      Poling/Rodriguez     26 64 [7]
-     16  (9) Siimar/Shelbayh      def.      Hassey/Smith         46 62 [12]
-     16      Malbasic/Hoeyeraal   def.      Graziani/Zhu         75 63
-     16      Zhang/Heller         def.  (9) Keremedchiev/Klov-N… 63 64
-     16  (9) Hudd/Mitsui          def.      McKennon/Salle       16 63 [5]
-     16  (7) Rodesch/Goetz        def.      Ciamarra/Harper      62 64
-     16  (8) Cash/Vocel           def.      Fomba/Vives Marcos   63 63
-     32      Stewart/Henning      def.      De Jonge/Hadigian    64 63
-     32  (9) Rotsaert/Fery        def.      Pankin/Tvedt         64 75
-     32      Poling/Rodriguez     def.      Reco/Rousset         63 63
-     32      Reynolds/Lithen      def.      Neuhaus/Dalmasso     64 36 [9]
-     32      Hassey/Smith         def.      Chidekh/Davis        61 62
-     32  (9) Siimar/Shelbayh      def.      Junk/Slavic          63 64
-     32      Malbasic/Hoeyeraal   def.  (4) Torre Martin/Stable  76(1) 46 [4]
-     32      Graziani/Zhu         def.      Ornberg/Atherton     63 64
-     32      Zhang/Heller         def.      Jakic/Tonejc         62 63
-     32  (9) Keremedchiev/Klov-N… def.      Zink/Hammond         62 76(1)
-     32      McKennon/Salle       def.      Paroulek/Brumm       63 63
-     32  (9) Hudd/Mitsui          def.      Zahraj/Hoogmartens   67(5) 61 [3]
-     32  (7) Rodesch/Goetz        def.      Neff/Thamma          36 76(4) [8]
-     32      Ciamarra/Harper      def.      Kikuchi/Overbeck     76(4) 63
-     32  (8) Cash/Vocel           def.      Anselmo/Mandlik      62 76(1)
-     32      Fomba/Vives Marcos   def.      Jachuck/Shi          76(5) 67(5) [6]
-     64      Stewart/Henning      def.  (1) Jong/Aguilar         64 75
-     64      De Jonge/Hadigian    def.      Siddall/Thelwall Jo… 62 64
-     64      Pankin/Tvedt         def.      Simkin/Tasker        61 46 [3]
-     64  (9) Rotsaert/Fery        def.      Moroni/Thomson       75 61
-     64      Reco/Rousset         def.  (2) Monday/Prata         63 46 [6]
-     64      Poling/Rodriguez     def.      Lambling/Story       64 62
-     64      Neuhaus/Dalmasso     def.      Beiler/Hasson        63 76(6)
-     64      Reynolds/Lithen      def.  (9) Pourroy/Arcila       62 64
-     64      Chidekh/Davis        def.  (3) Capalbo/Busleiman    46 64 [8]
-     64      Hassey/Smith         def.      Kingsley/Tracy       61 64
-     64      Junk/Slavic          def.      Chopra/Dong          64 76(3)
-     64  (9) Siimar/Shelbayh      def.      Tumosa/Straker-Meads 64 67(5) [8]
-     64  (4) Torre Martin/Stable  def.      Valiev/Azoides       46 62 [8]
-     64      Malbasic/Hoeyeraal   def.      Acosta/Cierny        Default
-     64      Graziani/Zhu         def.      Marson/Perego        62 46 [4]
-     64      Ornberg/Atherton     def.  (9) Coste/Roberto        61 16 [7]
-     64      Jakic/Tonejc         def.  (5) Diallo/Musitelli     76(4) 75
-     64      Zhang/Heller         def.      Bollipalli/Ferguson  76(4) 75
-     64      Zink/Hammond         def.      Marques Da Silva/Th… 76(2) 76(1)
-     64  (9) Keremedchiev/Klov-N… def.      Pratt/Vile           36 63 [10]
-     64      McKennon/Salle       def.  (6) Allen/Steinhausen    36 76(4) [8]
-     64      Paroulek/Brumm       def.      Sauer/Bulus          76(4) 61
-     64      Zahraj/Hoogmartens   def.      Abbrat/Ross          63 62
-     64  (9) Hudd/Mitsui          def.      Braswell/McDonald    62 46 [4]
-     64  (7) Rodesch/Goetz        def.      Edge/Rocha           26 64 [10]
-     64      Neff/Thamma          def.      Zeitvogel/Rogers     63 75
-     64      Kikuchi/Overbeck     def.      Schulenburg/Walker   63 62
-     64      Ciamarra/Harper      def.  (9) Harrison/Zavala      63 63
-     64  (8) Cash/Vocel           def.      Boyer/Sah            64 63
-     64      Anselmo/Mandlik      def.      Brown/Sokolovskiy    63 46 [6]
-     64      Fomba/Vives Marcos   def.      Yamada/Cronje        76(5) 60
-     64      Jachuck/Shi          def.  (9) Schachter/Rollins    46 76(4) [8]
+      16  (9) Rotsaert/Fery        def.      Stewart/Henning      63 64
+      16      Reynolds/Lithen      def.      Poling/Rodriguez     26 64 [7]
+      16  (9) Siimar/Shelbayh      def.      Hassey/Smith         46 62 [12]
+      16      Malbasic/Hoeyeraal   def.      Graziani/Zhu         75 63
+      16      Zhang/Heller         def.  (9) Keremedchiev/Klov-N… 63 64
+      16  (9) Hudd/Mitsui          def.      McKennon/Salle       16 63 [5]
+      16  (7) Rodesch/Goetz        def.      Ciamarra/Harper      62 64
+      16  (8) Cash/Vocel           def.      Fomba/Vives Marcos   63 63
+      32      Stewart/Henning      def.      De Jonge/Hadigian    64 63
+      32  (9) Rotsaert/Fery        def.      Pankin/Tvedt         64 75
+      32      Poling/Rodriguez     def.      Reco/Rousset         63 63
+      32      Reynolds/Lithen      def.      Neuhaus/Dalmasso     64 36 [9]
+      32      Hassey/Smith         def.      Chidekh/Davis        61 62
+      32  (9) Siimar/Shelbayh      def.      Junk/Slavic          63 64
+      32      Malbasic/Hoeyeraal   def.  (4) Torre Martin/Stable  76(1) 46 [4]
+      32      Graziani/Zhu         def.      Ornberg/Atherton     63 64
+      32      Zhang/Heller         def.      Jakic/Tonejc         62 63
+      32  (9) Keremedchiev/Klov-N… def.      Zink/Hammond         62 76(1)
+      32      McKennon/Salle       def.      Paroulek/Brumm       63 63
+      32  (9) Hudd/Mitsui          def.      Zahraj/Hoogmartens   67(5) 61 [3]
+      32  (7) Rodesch/Goetz        def.      Neff/Thamma          36 76(4) [8]
+      32      Ciamarra/Harper      def.      Kikuchi/Overbeck     76(4) 63
+      32  (8) Cash/Vocel           def.      Anselmo/Mandlik      62 76(1)
+      32      Fomba/Vives Marcos   def.      Jachuck/Shi          76(5) 67(5) [6]
+      64      Stewart/Henning      def.  (1) Jong/Aguilar         64 75
+      64      De Jonge/Hadigian    def.      Siddall/Thelwall Jo… 62 64
+      64      Pankin/Tvedt         def.      Simkin/Tasker        61 46 [3]
+      64  (9) Rotsaert/Fery        def.      Moroni/Thomson       75 61
+      64      Reco/Rousset         def.  (2) Monday/Prata         63 46 [6]
+      64      Poling/Rodriguez     def.      Lambling/Story       64 62
+      64      Neuhaus/Dalmasso     def.      Beiler/Hasson        63 76(6)
+      64      Reynolds/Lithen      def.  (9) Pourroy/Arcila       62 64
+      64      Chidekh/Davis        def.  (3) Capalbo/Busleiman    46 64 [8]
+      64      Hassey/Smith         def.      Kingsley/Tracy       61 64
+      64      Junk/Slavic          def.      Chopra/Dong          64 76(3)
+      64  (9) Siimar/Shelbayh      def.      Tumosa/Straker-Meads 64 67(5) [8]
+      64  (4) Torre Martin/Stable  def.      Valiev/Azoides       46 62 [8]
+      64      Malbasic/Hoeyeraal   def.      Acosta/Cierny        Default
+      64      Graziani/Zhu         def.      Marson/Perego        62 46 [4]
+      64      Ornberg/Atherton     def.  (9) Coste/Roberto        61 16 [7]
+      64      Jakic/Tonejc         def.  (5) Diallo/Musitelli     76(4) 75
+      64      Zhang/Heller         def.      Bollipalli/Ferguson  76(4) 75
+      64      Zink/Hammond         def.      Marques Da Silva/Th… 76(2) 76(1)
+      64  (9) Keremedchiev/Klov-N… def.      Pratt/Vile           36 63 [10]
+      64      McKennon/Salle       def.  (6) Allen/Steinhausen    36 76(4) [8]
+      64      Paroulek/Brumm       def.      Sauer/Bulus          76(4) 61
+      64      Zahraj/Hoogmartens   def.      Abbrat/Ross          63 62
+      64  (9) Hudd/Mitsui          def.      Braswell/McDonald    62 46 [4]
+      64  (7) Rodesch/Goetz        def.      Edge/Rocha           26 64 [10]
+      64      Neff/Thamma          def.      Zeitvogel/Rogers     63 75
+      64      Kikuchi/Overbeck     def.      Schulenburg/Walker   63 62
+      64      Ciamarra/Harper      def.  (9) Harrison/Zavala      63 63
+      64  (8) Cash/Vocel           def.      Boyer/Sah            64 63
+      64      Anselmo/Mandlik      def.      Brown/Sokolovskiy    63 46 [6]
+      64      Fomba/Vives Marcos   def.      Yamada/Cronje        76(5) 60
+      64      Jachuck/Shi          def.  (9) Schachter/Rollins    46 76(4) [8]
 ~~~
 
 <a name="21-07548"></a>
@@ -921,6 +938,140 @@
      16Q     Lilov/Watson         def.     Gundakaram/Srinivas… 85
 ~~~
 
+<a name="21-95358"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Division III Men’s Midwest ITA Regional Championships
+  Dates: Oct 1-4, 2021
+  Host: Gustavus Adolphus College (M)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > ITA Doubles Championship
+  > Main
+      F (2) Zakowski/Gray        def. (3) Motlojoa/Loen        57 63 [5]
+     SF (3) Motlojoa/Loen        def. (1) Aney/Budde           87(5)
+     SF (2) Zakowski/Gray        def. (5) Terakanambi/Fouchier 87(6)
+     QF (1) Aney/Budde           def. (9) Kataria/Vipparla     83
+     QF (3) Motlojoa/Loen        def. (8) Moore/Amadike        83
+     QF (5) Terakanambi/Fouchier def.     Pietila/Adkisson     86
+     QF (2) Zakowski/Gray        def. (6) Walsh/Rojanasoonthon 83
+     16 (1) Aney/Budde           def. (9) Lindwall/Mitchell    83
+     16 (9) Kataria/Vipparla     def.     Elofson/Haddorff     85
+     16 (3) Motlojoa/Loen        def.     Lansing/Meskell      84
+     16 (8) Moore/Amadike        def. (9) Wikstrom/Bergmeyer   84
+     16 (5) Terakanambi/Fouchier def. (9) Krzewinski/Ferruzzi  84
+     16     Pietila/Adkisson     def.     Luiz De Melo Guedes… 83
+     16 (6) Walsh/Rojanasoonthon def.     Mhwandagara/Christe… 85
+     16 (2) Zakowski/Gray        def. (9) Punnoose/Fridinger   85
+     32 (1) Aney/Budde           def.     Navarrete/Melo       81
+     32 (9) Lindwall/Mitchell    def.     Fuller/Viswanathan   85
+     32     Elofson/Haddorff     def.     Oaks/Peterson        84
+     32 (9) Kataria/Vipparla     def.     Moore/Counts         83
+     32 (3) Motlojoa/Loen        def.     Krause/Thompson      81
+     32     Lansing/Meskell      def.     Bochman/Raut         85
+     32 (8) Moore/Amadike        def.     Poland/Steinke       85
+     32 (9) Wikstrom/Bergmeyer   def.     Knoll/Rudenberg      84
+     32 (9) Krzewinski/Ferruzzi  def.     Beckers/Reilly       83
+     32 (5) Terakanambi/Fouchier def.     Knutsen/Korolev      84
+     32     Luiz De Melo Guedes… def.     Guzman/Siviero       85
+     32     Pietila/Adkisson     def. (4) Hemaidan/Wilson      84
+     32     Mhwandagara/Christe… def.     Sather/Snyder        84
+     32 (6) Walsh/Rojanasoonthon def.     Westholder/Young     85
+     32 (9) Punnoose/Fridinger   def.     Huffman/Eells        81
+     32 (2) Zakowski/Gray        def.     McDowell/Fischer     81
+     64     Navarrete/Melo       def.     Schneider/Coad       83
+     64 (9) Lindwall/Mitchell    def.     Simoes/Kolilnski     80
+     64     Fuller/Viswanathan   def.     Kurilla/Smiley       81
+     64     Elofson/Haddorff     def. (7) Mince/Esztergomi     84
+     64     Oaks/Peterson        def.     Sargent/Doi          84
+     64 (9) Kataria/Vipparla     def.     Marino/Mitev         85
+     64     Moore/Counts         def.     Ryerse/Geurkink      82
+     64     Krause/Thompson      def.     Peters/Naylor        86
+     64     Lansing/Meskell      def. (9) Christensen/Gilbert  81
+     64     Bochman/Raut         def.     Aranda/Guillermo     84
+     64 (8) Moore/Amadike        def.     Janes/Zacharias      84
+     64     Poland/Steinke       def.     Ableeda/Lucchesi     85
+     64 (9) Wikstrom/Bergmeyer   def.     Hearne/Guillermo     82
+     64     Knoll/Rudenberg      def.     Barth/Linkenheld     81
+     64     Beckers/Reilly       def.     Hultberg/Warzecha    81
+     64 (9) Krzewinski/Ferruzzi  def.     Gilmore/Bridgers     85
+     64     Knutsen/Korolev      def.     Collins/Gelski       85
+     64 (5) Terakanambi/Fouchier def.     Baldwin/Wankerl      82
+     64     Luiz De Melo Guedes… def.     Contardi/Maher       86
+     64     Guzman/Siviero       def. (9) Roseth/Grosz         83
+     64     Pietila/Adkisson     def.     Bruha/Roback         87(4)
+     64     Mhwandagara/Christe… def.     Elghouayel/Cooke     85
+     64     Sather/Snyder        def.     Foley/Bush           86
+     64     Westholder/Young     def.     Sullivan/Marine      84
+     64 (6) Walsh/Rojanasoonthon def.     Welker/Schulte       86
+     64     Huffman/Eells        def.     Huemoeller/Janssen   81
+     64 (9) Punnoose/Fridinger   def.     Blomquist/Kampmier   81
+     64     McDowell/Fischer     def.     Sadowski/Newberg     82
+ > Midwest Open Doubles
+  > Main
+      F     Sehlin/Youngs        def.     Wiemers/Fernandes    63 60
+     SF     Wiemers/Fernandes    def.     Hunter/Rosaldo       82
+     SF     Sehlin/Youngs        def.     Fischer/Meyer        82
+     QF     Hunter/Rosaldo       def.     Rosen/Deters         84
+     QF     Wiemers/Fernandes    def.     Borobia/Franch       83
+     QF     Sehlin/Youngs        def.     Roti/Mueller         84
+     QF     Fischer/Meyer        def.     Belik/Anderson       84
+     16     Rosen/Deters         def.     Stepanski/Tanaka     84
+     16     Hunter/Rosaldo       def.     Simonson/Storm       82
+     16     Borobia/Franch       def.     Fouchier/Stevens     86
+     16     Wiemers/Fernandes    def.     Kennel/Klass         Default
+     16     Sehlin/Youngs        def.     Dileo/Fletcher       82
+     16     Roti/Mueller         def.     Griffiths/Wurtzel    85
+     16     Belik/Anderson       def.     Klement/Roscher      82
+     16     Fischer/Meyer        def.     Morrell/Weddle       87(4)
+     32     Stepanski/Tanaka     def.     Alden/DenAdel        84
+     32     Rosen/Deters         def.     Davis/Wilkins        81
+     32     Simonson/Storm       def.     Studer/Velgersdyke   86
+     32     Hunter/Rosaldo       def.     Thao/Bergsten        83
+     32     Fouchier/Stevens     def.     Anderson/Aadland     81
+     32     Borobia/Franch       def.     Wyly/Lukkarila       85
+     32     Kennel/Klass         def.     Smith/Yonekura       82
+     32     Wiemers/Fernandes    def.     Fonseca/Chapman      82
+     32     Dileo/Fletcher       def.     Daignault/Patten     80
+     32     Sehlin/Youngs        def.     Fischer/Will         85
+     32     Roti/Mueller         def.     Rupp/Fremling        83
+     32     Griffiths/Wurtzel    def.     Beckerman/Withers    86
+     32     Klement/Roscher      def.     Skidmore/Yung        86
+     32     Belik/Anderson       def.     Finken/Hamerlinck    85
+     32     Morrell/Weddle       def.     Martinez Biali/Fuzz… 84
+     32     Fischer/Meyer        def.     Holmes/Benoy         85
+     64     Alden/DenAdel        def.     Taylor/Le            86
+     64     Rosen/Deters         def.     Smiley/Raabolle      Walkover
+     64     Davis/Wilkins        def.     Zavala Brito/Heryla  84
+     64     Simonson/Storm       def.     Bruins/Bilan         84
+     64     Studer/Velgersdyke   def.     Krasowski/Perez      Walkover
+     64     Thao/Bergsten        def.     Costa/Johnson        Default
+     64     Hunter/Rosaldo       def.     de Camargo Costa/Fi… Default
+     64     Anderson/Aadland     def.     Miller/Soon          83
+     64     Fouchier/Stevens     def.     Hemann/Revenig       81
+     64     Wyly/Lukkarila       def.     Voigt/Jenson         82
+     64     Borobia/Franch       def.     Besek/Rodning        82
+     64     Smith/Yonekura       def.     Versich/Seitz        84
+     64     Kennel/Klass         def.     White/Lipski         83
+     64     Fonseca/Chapman      def.     Hawbaker/Palomar     83
+     64     Wiemers/Fernandes    def.     Dempsey/Gilbertson   80
+     64     Daignault/Patten     def.     Peters/Martin        82
+     64     Dileo/Fletcher       def.     Coelho/Ribeiro       86
+     64     Fischer/Will         def.     Ackerman/Elison      83
+     64     Sehlin/Youngs        def.     Janssen/Arbuckle     82
+     64     Roti/Mueller         def.     Johanning/Von Ruden  Default
+     64     Rupp/Fremling        def.     Hietala/Quinn        83
+     64     Griffiths/Wurtzel    def.     Dillon/Unger         82
+     64     Beckerman/Withers    def.     Shaker-Check/Chhim   Walkover
+     64     Skidmore/Yung        def.     Kannenberg/Bass      83
+     64     Klement/Roscher      def.     Veber/Haag           87(4)
+     64     Belik/Anderson       def.     Miller/Gomes-Menezes 86
+     64     Finken/Hamerlinck    def.     Nguyen/Westerbur     85
+     64     Martinez Biali/Fuzz… def.     Damaso/Kasa          82
+     64     Morrell/Weddle       def.     Gerhardt/Petersen    82
+     64     Holmes/Benoy         def.     Stene/Tschumper      81
+~~~
+
 <a name="21-84365"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════════════════════
@@ -1003,6 +1154,41 @@
      32     Ha/Thompson       def.     Schroder/Wang        84
      32     Molenkamp/Navarro def.     Hofer/Yanase         86
      32     Pries/Synnott     def.     Barrett/Hammond      83
+~~~
+
+<a name="21-52083"></a>
+~~~
+════════════════════════════════════════════════════════════
+  Panther Classic
+  Dates: Oct 2-3, 2021
+  Host: Middlebury College (M)
+════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles Day 1
+  > Main
+     16  Morris/Ward     def.  Gupta/Selati        81
+     16  Laber/Harris    def.  Baril/Raissi        84
+     16  Epstein/Kim     def.  Gupta/Weitz         84
+     16  Sen/Mileikowsky def.  Levinson/Potter     84
+     16  Hilty/Vilys     def.  Israel/Thomas       83
+     16  Graham/Romig    def.  Pellegrini/Snyman   85
+     16  Mairs/Yuan      def.  Ammendola/Patterson 80
+ > Doubles Day 2 Part 1
+  > Main
+     16  Morris/Ward     def.  Baril/Raissi        85
+     16  Laber/Harris    def.  Potter/Thomas       84
+     16  Vilys/Yuan      def.  Pellegrini/Snyman   87(4)
+     16  Gupta/Selati    def.  Sen/Mileikowsky     84
+     16  Epstein/Hilty   def.  Graham/Romig        85
+     16  Gupta/Weitz     def.  Ammendola/Patterson 82
+ > Doubles Day 2 Part 2
+  > Main
+     16  Baril/Raissi    def.  Gupta/Selati        85
+     16  Laber/Harris    def.  Sen/Mileikowsky     82
+     16  Yuan/Ward       def.  Potter/Thomas       84
+     16  Vilys/Mairs     def.  Ammendola/Patterson 83
+     16  Baril/Snyman    def.  Graham/Romig        82
+     16  Hilty/Kim       def.  Gupta/Weitz         83
 ~~~
 
 <a name="21-08096"></a>
