@@ -378,14 +378,18 @@
  Women's Open Singles
  > Main Draw
   > Main
+      QF     Taisiya Pachkaleva    vs      Salma Ewing          Fri @ 10:30
+      QF (4) Irina Cantos Siemers  vs      Sarah Hamner         Fri @ 10:30
+      QF (8) Alexa Noel            vs  (3) Georgia Drummy       Fri @ 10:30
+      QF     Carolyn Campana       vs      Eryn Cayetano        Fri @ 10:30
       16     Taisiya Pachkaleva   def. (1) Abigail Forbes       63 63
-      16     Alana Smith           vs      Salma Ewing          Thu @ 09:00
-      16 (4) Irina Cantos Siemers  vs      Emmanouela Antonaki  Thu @ 09:00
-      16 (6) Tatiana Makarova      vs      Sarah Hamner         Thu @ 11:00
-      16     Valeriya Zelevka      vs  (8) Alexa Noel           Thu @ 09:00
-      16     Isabella Pfennig      vs  (3) Georgia Drummy       Thu @ 10:30
-      16     Rebeka Mertena        vs      Carolyn Campana      Thu @ 09:00
-      16     Eryn Cayetano         vs  (2) Janice Tjen          Thu @ 11:00
+      16     Salma Ewing          def.     Alana Smith          75 63
+      16 (4) Irina Cantos Siemers def.     Emmanouela Antonaki  64 63
+      16     Sarah Hamner         def. (6) Tatiana Makarova     64 61
+      16 (8) Alexa Noel           def.     Valeriya Zelevka     67(6) 62 61
+      16 (3) Georgia Drummy       def.     Isabella Pfennig     76(8) 67(2) 62
+      16     Carolyn Campana      def.     Rebeka Mertena       63 61
+      16     Eryn Cayetano        def. (2) Janice Tjen          60 63
       32 (1) Abigail Forbes       def.     Julia Adams          61 63
       32     Taisiya Pachkaleva   def.     Selin Ovunc          63 64
       32     Alana Smith          def. (7) Viktoryia Kanapatsk… 63 60
@@ -403,12 +407,13 @@
       32     Eryn Cayetano        def.     Meg Kowalski         62 64
       32 (2) Janice Tjen          def.     Laia Conde Monfort   63 63
   > Consolation
+      QF     Gina Dittmann         vs      Shiori Fukuda        Fri @ 09:00
      16Q     Julia Adams           vs      Selin Ovunc          Thu @ 12:00
      16Q (7) Viktoryia Kanapatsk…  vs      Kelly Chen           Thu @ 11:15
      16Q     Marlee Zein           vs      Chloe Beck           Thu @ 12:15
-     16Q     Lea Ma                vs      Victoria Flores      Thu @ 12:00
-     16Q     Vanessa Wong          vs      Gina Dittmann        Thu @ 10:00
-     16Q     Ayana Akli            vs      Shiori Fukuda        Thu @ 11:00
+     16Q     Victoria Flores      def.     Lea Ma               64 63
+     16Q     Gina Dittmann        def.     Vanessa Wong         63 62
+     16Q     Shiori Fukuda        def.     Ayana Akli           64 63
      16Q     Victoria Hu          def. (5) Bunyawi Thamchaiwat  Walkover
      16Q     Meg Kowalski          vs      Laia Conde Monfort   Thu @ 12:30
  > Qualifying Draw
@@ -476,7 +481,7 @@
      32Q     Evgeniya Levashova   def.     Madeline Lamoreaux   60 62
      32Q     Xinyu Cai            def. (9) Mell Reasco          60 36 62
      32Q (6) Kari Miller          def.     Morgan Coppoc        63 63
-     32Q     Carly Briggs          vs  (8) Bronte Murgett       Thu @ 10:00
+     32Q (8) Bronte Murgett       def.     Carly Briggs         64 46 76(4)
      32Q     Elaine Chervinsky     vs      Lisa Zaar            Thu @ 12:00
      32Q     Shakhnoza Khatamova  def.     Eleni Louka          63 62
      32Q     Shura Poppe           vs  (5) Solymar Colling      Thu @ 10:00

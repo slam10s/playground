@@ -64,7 +64,7 @@
      16Q      Pearson/Di Marco      vs   (5) Martinez/Han         Thu @ 15:30
      16Q      Maldoner/Vidal        vs   (3) Stevenson/Cutting    Thu @ 14:30
      16Q      Eriksson Ziverts/Mi… def.      Hohmann/Lobak        Walkover
-     16Q (LL) Keremedchiev/Klov-N…  vs   (2) Rodrigues/Thomson    Thu @ 15:00
+     16Q (LL) Keremedchiev/Klov-N… def.  (2) Rodrigues/Thomson    Walkover
  > Qualifying
   > Main
       16  (9) Rotsaert/Fery        def.      Stewart/Henning      63 64

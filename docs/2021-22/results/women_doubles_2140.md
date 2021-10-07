@@ -186,30 +186,33 @@
 
 <a name="21-68261"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Women's All-American Championship
   Dates: Oct 4-10, 2021
   Host: ITA
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-     32 (1) Corley/Corley         vs      Verma/Di Palma       Thu @ 13:00
-     32     Louka/Thompson        vs      Sasnouskaya/Starodu… Thu @ 13:00
-     32 (8) Tran/Sanford          vs      Lamoreaux/Dush       Thu @ 14:30
-     32     Bridges/Babic         vs      Gulihur/Melilo       Thu @ 14:30
-     32 (3) Makarova/Goldsmith    vs      Campana/Campana      Thu @ 14:30
-     32     Antonaki/Racine       vs      Lewis/Pietrowicz     Thu @ 14:30
-     32 (5) Murgett/Oliveira      vs      Tjen/Flores          Thu @ 14:30
-     32     Adams/Dillon          vs      Ansari/Ovunc         Thu @ 14:30
-     32     Bryzgalova/Curnic     vs      Mannix/Noel          Thu @ 15:30
-     32     Daniel/Smith          vs  (7) Fukuda/Pachkaleva    Thu @ 15:30
-     32     Lilien/Freeman        vs      Kadleckova/Naklo     Thu @ 15:30
-     32     Colling/Goldsmith     vs  (4) Kuczer/Adeshina      Thu @ 13:30
-     32     Allen/Hule            vs      Poppe/Conde Monfort  Thu @ 15:30
-     32     Axon/Flach            vs  (6) Brylin/Killingsworth Thu @ 15:30
-     32     Verden-Anderson/Pur…  vs      Hand/Crowley         Thu @ 15:30
-     32 (2) Berankova/Beck       def.     Collard/Chervinsky   Walkover
+      16 (1) Corley/Corley         vs      Sasnouskaya/Starodu… Thu @ 16:00
+      32 (1) Corley/Corley        def.     Verma/Di Palma       82
+      32     Sasnouskaya/Starodu… def.     Louka/Thompson       83
+      32 (8) Tran/Sanford          vs      Lamoreaux/Dush       Thu @ 14:30
+      32     Bridges/Babic         vs      Gulihur/Melilo       Thu @ 14:30
+      32 (3) Makarova/Goldsmith    vs      Campana/Campana      Thu @ 14:30
+      32     Antonaki/Racine       vs      Lewis/Pietrowicz     Thu @ 14:30
+      32 (5) Murgett/Oliveira      vs      Tjen/Flores          Thu @ 14:30
+      32     Adams/Dillon          vs      Ansari/Ovunc         Thu @ 14:30
+      32     Bryzgalova/Curnic     vs      Mannix/Noel          Thu @ 15:30
+      32     Daniel/Smith          vs  (7) Fukuda/Pachkaleva    Thu @ 15:30
+      32     Lilien/Freeman        vs      Kadleckova/Naklo     Thu @ 15:30
+      32     Colling/Goldsmith     vs  (4) Kuczer/Adeshina      Thu @ 15:30
+      32     Allen/Hule            vs      Poppe/Conde Monfort  Thu @ 15:30
+      32     Axon/Flach            vs  (6) Brylin/Killingsworth Thu @ 15:30
+      32     Verden-Anderson/Pur…  vs      Hand/Crowley         Thu @ 15:30
+      32 (2) Berankova/Beck       def.     Collard/Chervinsky   Walkover
+  > Consolation
+     16Q     Verma/Di Palma        vs      Louka/Thompson       Thu @ 16:00
 ~~~
 
 Return to the [Top](./women_doubles_2140.md) &#124; [Home Page](../../index.md)

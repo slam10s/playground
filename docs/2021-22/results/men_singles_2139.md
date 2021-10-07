@@ -746,20 +746,20 @@
  Men's Open Singles
  > Main Draw
   > Main
-      32  (1) Daniel Rodrigues      vs       Ben Shelton          Thu @ 10:00
-      32  (9) Ronnie Hohmann        vs       Arthur Fery          Thu @ 10:00
-      32  (5) Trent Bryde           vs       Alexandre Reco       Thu @ 10:30
-      32  (9) Nikola Slavic         vs   (Q) Jj Tracy             Thu @ 10:30
-      32      Francisco Rocha       vs   (Q) Stefan Dostanic      Thu @ 09:00
-      32      Ryan Goetz            vs       Clement Chidekh      Thu @ 09:00
-      32  (6) Gabriel Diallo        vs   (Q) Daniel De Jonge      Thu @ 09:00
-      32  (Q) Filippo Moroni        vs       Andres Martin        Thu @ 09:00
-      32  (Q) Andre Ilagan          vs   (9) Juan Carlos Aguilar  Thu @ 11:30
+      32      Ben Shelton          def.  (1) Daniel Rodrigues     63 20 Ret.
+      32  (9) Ronnie Hohmann       def.      Arthur Fery          63 76(5)
+      32      Alexandre Reco       def.  (5) Trent Bryde          76(4) 60
+      32  (Q) Jj Tracy             def.  (9) Nikola Slavic        63 63
+      32  (Q) Stefan Dostanic      def.      Francisco Rocha      46 63 61
+      32      Clement Chidekh      def.      Ryan Goetz           64 62
+      32  (6) Gabriel Diallo       def.  (Q) Daniel De Jonge      26 63 76(2)
+      32      Andres Martin        def.  (Q) Filippo Moroni       61 62
+      32  (Q) Andre Ilagan         def.  (9) Juan Carlos Aguilar  62 62
       32      Cannon Kingsley       vs       Kody Pearson         Thu @ 11:30
-      32      Alex Kotzen           vs   (9) Hamish Stewart       Thu @ 10:30
-      32 (LL) Joshua Lapadat        vs   (4) Finn Reynolds        Thu @ 10:30
-      32      Mason Beiler          vs   (9) Connor Thomson       Thu @ 11:00
-      32      Jacob Bickersteth     vs   (8) Philip Henning       Thu @ 11:00
+      32      Alex Kotzen          def.  (9) Hamish Stewart       76(3) 63
+      32  (4) Finn Reynolds        def. (LL) Joshua Lapadat       64 26 63
+      32      Mason Beiler         def.  (9) Connor Thomson       16 64 61
+      32      Jacob Bickersteth    def.  (8) Philip Henning       60 26 64
       32      August Holmgren       vs   (9) Micah Braswell       Thu @ 13:00
       32      Florian Broska        vs   (2) Johannus Monday      Thu @ 13:00
       64  (1) Daniel Rodrigues     def.      Tyler Zink           63 64
@@ -795,22 +795,22 @@
       64      Florian Broska       def.  (Q) Trey Hilderbrand     61 63
       64  (2) Johannus Monday      def.  (Q) Tim Zeitvogel        46 63 62
   > Consolation
-     32Q      Tyler Zink            vs       Martim Prata         Thu @ 09:00
-     32Q  (Q) Francois Musitelli    vs  (LL) Justin Barki         Thu @ 09:00
-     32Q  (Q) Henry Schulenburg     vs  (LL) Emmanuel Coste       Thu @ 12:00
+     32Q      Tyler Zink           def.      Martim Prata         75 75
+     32Q (LL) Justin Barki         def.  (Q) Francois Musitelli   52 Ret.
+     32Q  (Q) Henry Schulenburg    def. (LL) Emmanuel Coste       Walkover
      32Q      James Davis           vs       Stefan Hampe         Thu @ 12:00
-     32Q  (3) Luc Fomba             vs       Brian Cernoch        Thu @ 12:00
-     32Q  (9) MAtej Vocel           vs       Jonas Eriksson Zive… Thu @ 12:00
-     32Q      Nemanja Malesevic     vs       Raphael Lambling     Thu @ 12:30
+     32Q  (3) Luc Fomba            def.      Brian Cernoch        62 75
+     32Q  (9) MAtej Vocel          def.      Jonas Eriksson Zive… 64 62
+     32Q      Raphael Lambling     def.      Nemanja Malesevic    Walkover
      32Q  (9) Tyler Stice           vs   (Q) Tadeas Paroulek      Thu @ 12:30
-     32Q      Marcus McDaniel       vs   (Q) Eric Hadigian        Thu @ 09:00
-     32Q      Franco Capalbo        vs   (7) Andres Andrade       Thu @ 09:00
-     32Q      Luca Maldoner         vs   (Q) Chris Rodesch        Thu @ 09:00
-     32Q  (Q) Toby Samuel           vs  (LL) Holden Koons         Thu @ 09:00
+     32Q  (Q) Eric Hadigian        def.      Marcus McDaniel      64 75
+     32Q  (7) Andres Andrade       def.      Franco Capalbo       62 75
+     32Q  (Q) Chris Rodesch        def.      Luca Maldoner        64 62
+     32Q  (Q) Toby Samuel          def. (LL) Holden Koons         62 62
      32Q      Axel Nefve           def. (LL) Vito Tonejc          Walkover
      32Q  (Q) Tad McClean          def.  (Q) Tristan Boyer        Walkover
-     32Q      Karl Poling           vs   (Q) Lodewijk Weststrate  Thu @ 09:00
-     32Q  (Q) Trey Hilderbrand      vs   (Q) Tim Zeitvogel        Thu @ 09:00
+     32Q      Karl Poling          def.  (Q) Lodewijk Weststrate  61 Ret.
+     32Q  (Q) Tim Zeitvogel        def.  (Q) Trey Hilderbrand     62 76(4)
  > Qualifying
   > Main
       64      Daniel De Jonge      def.      Yuta Kikuchi         61 75
