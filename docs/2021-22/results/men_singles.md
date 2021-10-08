@@ -7,19 +7,19 @@
 - 10/7/2021 - [Bulldawg Invitational](#21-11157) ([Results](#21-11157) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Draws</a>)  
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
+- 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
-
-**Upcoming Tournaments**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Loyola Classic</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">C.L Varner Invitational</a>  
+- 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Lander Invitational</a>  
+
+**Upcoming Tournaments**  
+- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
+- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Wallach Invitational 2021</a>  
 
 <a name="21-73796"></a>
@@ -891,11 +891,11 @@
 
 <a name="21-99710"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
   River City Tennis Open
   Dates: Oct 8-10, 2021
   Host: University Of Richmond (M)
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight 1
   > Main
@@ -931,7 +931,7 @@
   > Main
      R2  Alex Warning         vs   Aditya Balsekar      Fri @ 13:45
      R2  Youssef Sadek        vs   Sebastian Quiros     Fri @ 13:45
-     R1  Alex Warning         vs   Youssef Sadek        Fri @ 09:15
+     R1  Alex Warning         vs   Youssef Sadek        
      R1  Aditya Balsekar      vs   Sebastian Quiros     Fri @ 09:15
  > Flight 8
   > Main
@@ -950,7 +950,7 @@
      R2  Joseph Brailovsky    vs   Rithik Sardana       Fri @ 13:45
      R2  Michael Fourticq     vs   Campbell Erwin       Fri @ 13:45
      R1  Joseph Brailovsky    vs   Michael Fourticq     Fri @ 09:15
-     R1  Rithik Sardana       vs   Campbell Erwin       Fri @ 09:15
+     R1  Rithik Sardana      def.  Campbell Erwin       61 63
  > Flight 13
   > Main
      R2  Jake Fishkin         vs   Justin Suarez        Fri @ 12:30
@@ -979,37 +979,37 @@
   > Main
      R2  Herman Jentoft       vs   Anthony Prokurat     Fri @ 12:30
      R2  Tim Zelikovsky       vs   Zac Larke            Fri @ 12:30
-     R1  Herman Jentoft       vs   Tim Zelikovsky       Fri @ 08:00
-     R1  Anthony Prokurat     vs   Zac Larke            Fri @ 08:00
+     R1  Tim Zelikovsky      def.  Herman Jentoft       46 64 [5]
+     R1  Zac Larke           def.  Anthony Prokurat     61 64
  > Flight 18
   > Main
      R2  Ryan Nguyen          vs   Karlis Katlaps       Fri @ 12:30
      R2  Gray Voelzke         vs   Faisal Alrebdi       Fri @ 12:30
-     R1  Ryan Nguyen          vs   Gray Voelzke         Fri @ 08:00
-     R1  Karlis Katlaps       vs   Faisal Alrebdi       Fri @ 08:00
+     R1  Ryan Nguyen         def.  Gray Voelzke         62 46 [10]
+     R1  Karlis Katlaps      def.  Faisal Alrebdi       64 63
  > Flight 19
   > Main
      R2  Erick Rivas          vs   Sasha Panyan         Fri @ 12:30
      R2  Alex Kim             vs   Ernesto Rocabert     Fri @ 12:30
-     R1  Erick Rivas          vs   Alex Kim             Fri @ 08:00
-     R1  Sasha Panyan         vs   Ernesto Rocabert     Fri @ 08:00
+     R1  Alex Kim            def.  Erick Rivas          64 61
+     R1  Sasha Panyan        def.  Ernesto Rocabert     63 62
  > Flight 20
   > Main
      R2  Hayden Postin        vs   Luis Reis            Fri @ 11:00
      R2  Carlos Carvalho      vs   Zach Theodossiou     Fri @ 11:00
-     R1  Hayden Postin        vs   Carlos Carvalho      Fri @ 08:00
-     R1  Luis Reis            vs   Zach Theodossiou     Fri @ 08:00
+     R1  Hayden Postin       def.  Carlos Carvalho      62 46 [4]
+     R1  Luis Reis           def.  Zach Theodossiou     60 62
  > Flight 21
   > Main
      R2  Dustin Ha            vs   Alaister Burke       Fri @ 11:00
      R2  Noah Winton          vs   Chanasorn Nakaurai   Fri @ 11:00
-     R1  Dustin Ha            vs   Noah Winton          Fri @ 08:00
-     R1  Alaister Burke       vs   Chanasorn Nakaurai   Fri @ 08:00
+     R1  Noah Winton         def.  Dustin Ha            62 76(3)
+     R1  Chanasorn Nakaurai  def.  Alaister Burke       26 76(7) [8]
  > Flight 22
   > Main
      R3  William Crane        vs   Harry Yang           Fri @ 15:00
      R2  Michael Pollatos     vs   Harry Yang           Fri @ 11:00
-     R1  Michael Pollatos     vs   William Crane        Fri @ 08:00
+     R1  William Crane       def.  Michael Pollatos     61 62
  > Flight 5
   > Main
      R2  Harrison Brown       vs   Konstantinos Raptis  Fri @ 13:45
@@ -1026,8 +1026,25 @@
   > Main
      R2  Josh Keitelman       vs   Luke Garner          Fri @ 12:30
      R2  Ben Husum            vs   Michael Owen         Fri @ 13:45
-     R1  Josh Keitelman       vs   Ben Husum            Fri @ 08:00
-     R1  Luke Garner          vs   Michael Owen         Fri @ 08:00
+     R1  Josh Keitelman      def.  Ben Husum            64 46 [7]
+     R1  Luke Garner         def.  Michael Owen         64 64
+~~~
+
+<a name="21-27941"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  C.L Varner Invitational
+  Dates: Oct 8-12, 2021
+  Host: Rollins College (M)
+═══════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Men Singles A
+  > Main
+     16  Roy Stepanov    vs   Mortiz Stenzer      Fri @ 16:30
+     16  Arthur Fonseca  vs   Alexandru Bucurescu Fri @ 16:30
+ > Men Singles B
+  > Main
+     16  David Polo      vs   Tyler Glowaki       Fri @ 16:30
 ~~~
 
 Return to the [Top](./men_singles_2140.md) &#124; [Home Page](../../index.md)

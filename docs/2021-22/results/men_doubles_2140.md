@@ -10,16 +10,16 @@
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
-
-**Upcoming Tournaments**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Loyola Classic</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
+- 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Lander Invitational</a>  
+
+**Upcoming Tournaments**  
+- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
+- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Wallach Invitational 2021</a>  
 
 <a name="21-73796"></a>
@@ -323,16 +323,25 @@
  Men's Open Doubles
  > Flight A
   > East
-     16  Hillhouse/Thiergard   vs   Barton/Nunez         Fri @ 08:30
-     16  Robbins/Sarrio        vs   Silagy/Dous Karpens… Fri @ 08:30
-     16  Crespo/Hartenstein    vs   Stefanacci/Maciel    Fri @ 08:30
-     16  Krolo/Huempfner       vs   Hamel/Marques        Fri @ 08:30
+     QF  Oliveira/Goncalves    vs   Barton/Nunez         Sat @ 08:30
+     QF  Damm/Oncins           vs   Silagy/Dous Karpens… Sat @ 08:30
+     QF  Crespo/Hartenstein    vs   Muniz-Hidalgo/Yatsuk Sat @ 08:30
+     QF  Krolo/Huempfner       vs   Nahrung/Rihane       Sat @ 08:30
+     16  Barton/Nunez         def.  Hillhouse/Thiergard  63
+     16  Silagy/Dous Karpens… def.  Robbins/Sarrio       75
+     16  Crespo/Hartenstein   def.  Stefanacci/Maciel    64
+     16  Krolo/Huempfner      def.  Hamel/Marques        75
+  > West
+     SF  Hillhouse/Thiergard   vs   Robbins/Sarrio       Sat @ 09:15
+     SF  Stefanacci/Maciel     vs   Hamel/Marques        Sat @ 09:15
  > Flight B
   > East
      QF  Gomez-Montesa/Tudor…  vs   Laka/Moses           Fri @ 08:30
+     QF  Escandell/Fernandez…  vs   Duarte/Ellis         Sat @ 08:30
+     QF  Gennes/Penzkofer      vs   Lopez/Johnson        Sat @ 08:30
      QF  Carroll/Kotan         vs   Petrovic/Thongoana   Fri @ 08:30
-     16  Mohandoss/Pisane      vs   Duarte/Ellis         Fri @ 08:30
-     16  Gennes/Penzkofer      vs   Jadoun/Stodder       Fri @ 08:30
+     16  Duarte/Ellis         def.  Mohandoss/Pisane     63
+     16  Gennes/Penzkofer     def.  Jadoun/Stodder       76(5)
 ~~~
 
 <a name="21-99710"></a>
@@ -355,6 +364,20 @@
  > Black
   > Main
      R1  Jurist/Zelikovsky  vs   Larke/Limon          Fri @ 16:30
+~~~
+
+<a name="21-27941"></a>
+~~~
+═════════════════════════════════════════════════════════════════
+  C.L Varner Invitational
+  Dates: Oct 8-12, 2021
+  Host: Rollins College (M)
+═════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Men's Doubles
+  > Main
+     16  Della Cioppa/Nicola…  vs   McMurray/Polo   Fri @ 13:00
+     16  Kearns/Fonseca        vs   Glowaki/Binnios Fri @ 13:00
 ~~~
 
 Return to the [Top](./men_doubles_2140.md) &#124; [Home Page](../../index.md)

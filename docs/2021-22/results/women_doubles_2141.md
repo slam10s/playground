@@ -12,4 +12,24 @@
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Viking Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">American Rivers Conference Women's Individual Tournament</a>  
 
+<a name="21-27941"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  C.L Varner Invitational
+  Dates: Oct 8-12, 2021
+  Host: Rollins College (M)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Women Doubles A
+  > East
+     QF  Groves/Wasil          vs      Chavarria/Misdorp    Fri @ 13:00
+     QF  Espinal/Follin-Arbe…  vs      Greco/Renovales      Fri @ 13:00
+     QF  Salerno/Vidgren       vs  (2) Groth/Borg           Fri @ 13:00
+ > Women Doubles B
+  > East
+     QF  Collado Cordon/Yaro…  vs      Bolivar Garces/Robi… Fri @ 13:00
+     QF  Goncharov/Montero     vs      Bryant/Bazilevych    Fri @ 13:00
+     QF  Triska/Reichert       vs      McKay/Vlasova        Fri @ 13:00
+~~~
+
 Return to the [Top](./women_doubles_2141.md) &#124; [Home Page](../../index.md)
