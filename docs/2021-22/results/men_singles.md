@@ -20,6 +20,7 @@
 **Upcoming Tournaments**  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
+- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Wallach Invitational 2021</a>  
 
 <a name="21-73796"></a>

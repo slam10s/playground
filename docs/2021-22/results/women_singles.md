@@ -29,6 +29,8 @@
 
 **Upcoming Tournaments**  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Cincinnati/Xavier Fall Invitational</a>  
+- 10/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SoutheastMissouriStateUnivW/Tournaments/Overview/E0892C7B-1714-4B99-A547-2386D7847CF2" target="_blank">SEMO Invitational</a>  
+- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889" target="_blank">Middlebury Invitational</a>  
 
 <a name="21-03077"></a>
