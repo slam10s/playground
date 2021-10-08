@@ -124,7 +124,7 @@
       64      Anca Craciun         def. (24) Nastasya Semenovski  64 75
       64      Ana Jover            def. (10) Lauren Lemonds       63 62
       64 (29) Justine Leong        def.      Vasavi Ganesan       64 63
-      64  (6) Denise Stoica        def.      Calista Fuller       62 61
+      64  (6) Denise Stoica        def.      Cali Fuller          62 61
       64 (27) Maria Olivia Castedo def.      Florencia Fuentes    63 62
       64 (14) Megan Heuser         def.      Katarina Dukic       63 60
       64 (30) Nicole Stephens      def.      Maru Poppe           57 63 61
@@ -153,7 +153,7 @@
      128      Anca Craciun         def.      Allison McConnell    62 64
      128      Ana Jover            def.      Sabina Brichackova   76(5) 61
      128      Vasavi Ganesan       def.      Christine Gouws      64 64
-     128      Calista Fuller       def.      Tara Damnjanovic     75 64
+     128      Cali Fuller          def.      Tara Damnjanovic     75 64
      128      Florencia Fuentes    def.      Dagmar Zdrubecka     61 60
      128      Maru Poppe           def.      Kiley Rabjohns       36 63 61
      128      Charlotte Gisclon    def.      Kristina Pukhaeva    64 60
@@ -2720,7 +2720,7 @@
       32     Caroline Adams       def.     Sam Falcon          61 63
       32     Eliza McPherron      def.     Imani Vincent       61 60
       32 (6) Natalia Nassar       def.     Hannah Doherty      61 62
-      32     Lauren Yoon          def.     Alice Hall          63 6
+      32     Alice Hall           def.     Lauren Yoon         63 60
       32 (4) Alexa Goetz          def.     Michelle Adan-Pol   61 62
       32     Jessica Fatemi       def.     Abbey Grace Venham  61 63
       32 (8) Ana Cristina Perez   def.     Carolyn Reid        62 60
@@ -2760,12 +2760,12 @@
       64 (2) Emma Smith           def.     Melissa Gish        62 61
   > Consolation
       QF     Lea Letourneau       def.     Marissa Brown       62 63
-      QF     Maddy Trinh          def.     Alyssa McSpadden    46 60 [8]
+      QF     Maddy Trinh          def.     Esme Benjamin       46 60 [8]
       QF     Megan Kidd           def.     Lainey Hill         75 61
       16     Marissa Brown        def.     Sarah Rushing       61 75
       16     Lea Letourneau       def.     Alyssa Merletti     60 60
       16     Maddy Trinh          def.     Caroline Lancaster  64 64
-      16     Alyssa McSpadden     def.     Esme Benjamin       64 63
+      16     Esme Benjamin        def.     Alyssa McSpadden    64 63
       16     Megan Kidd           def.     Izzy Forster        36 64 [8]
       16     Lainey Hill          def.     Emily Holderness    62 63
       16     Jordan Besh          def.     Maggie Moody        75 60

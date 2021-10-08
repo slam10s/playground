@@ -6,6 +6,7 @@
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 - 10/4/2021 - [ITA Women's All-American Championship](#21-68261) ([Results](#21-68261) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">Draws</a>)  
+- 10/8/2021 - [Rumble by the River](#21-16089) ([Results](#21-16089) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NortheasternStateUW/Tournaments/Overview/6CDF33CD-A0E5-4CA9-BD9D-2F5B12B0FE50" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/7737FD94-882F-4257-A700-306375BD09EC" target="_blank">2nd UCA FALL INVITATIONAL TOURNAMENT</a>  
@@ -27,7 +28,6 @@
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE" target="_blank">Lander Women's Invitational</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889" target="_blank">Middlebury Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NortheasternStateUW/Tournaments/Overview/6CDF33CD-A0E5-4CA9-BD9D-2F5B12B0FE50" target="_blank">Rumble by the River</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/CD3EA260-EE7B-4CC4-AEAD-3B2FCD79FEE4" target="_blank">Saint Leo Lion Fall Invitational - Women</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/0D92B574-F815-4CD2-9DB5-9DE635B3C608" target="_blank">Warhawk Fall Invitational</a>  
 
@@ -407,15 +407,18 @@
       32     Eryn Cayetano        def.     Meg Kowalski         62 64
       32 (2) Janice Tjen          def.     Laia Conde Monfort   63 63
   > Consolation
+      QF     Julia Adams           vs      Kelly Chen           Fri @ 09:00
+      QF     Chloe Beck            vs      Victoria Flores      Fri @ 09:00
       QF     Gina Dittmann         vs      Shiori Fukuda        Fri @ 09:00
-     16Q     Julia Adams           vs      Selin Ovunc          Thu @ 12:00
-     16Q (7) Viktoryia Kanapatsk…  vs      Kelly Chen           Thu @ 11:15
-     16Q     Marlee Zein           vs      Chloe Beck           Thu @ 12:15
+      QF     Victoria Hu           vs      Laia Conde Monfort   Fri @ 09:00
+     16Q     Julia Adams          def.     Selin Ovunc          63 64
+     16Q     Kelly Chen           def. (7) Viktoryia Kanapatsk… 36 62 61
+     16Q     Chloe Beck           def.     Marlee Zein          76(2) 76(5)
      16Q     Victoria Flores      def.     Lea Ma               64 63
      16Q     Gina Dittmann        def.     Vanessa Wong         63 62
      16Q     Shiori Fukuda        def.     Ayana Akli           64 63
      16Q     Victoria Hu          def. (5) Bunyawi Thamchaiwat  Walkover
-     16Q     Meg Kowalski          vs      Laia Conde Monfort   Thu @ 12:30
+     16Q     Laia Conde Monfort   def.     Meg Kowalski         63 64
  > Qualifying Draw
   > Qualifying - Main
       16 (1) Alana Smith          def.     Carmen Corley        61 63
@@ -484,7 +487,81 @@
      32Q (8) Bronte Murgett       def.     Carly Briggs         64 46 76(4)
      32Q     Elaine Chervinsky     vs      Lisa Zaar            Thu @ 12:00
      32Q     Shakhnoza Khatamova  def.     Eleni Louka          63 62
-     32Q     Shura Poppe           vs  (5) Solymar Colling      Thu @ 10:00
+     32Q (5) Solymar Colling      def.     Shura Poppe          64 64
+~~~
+
+<a name="21-16089"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  Rumble by the River
+  Dates: Oct 8-10, 2021
+  Host: Northeastern State U. (W)
+═════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > #1 Singles
+  > Main
+     R3  Lea Grinberg         vs   Anda Ghinga          Fri @ 16:00
+     R3  Grace Dodd           vs   Maria Popova         Fri @ 14:30
+     R2  Grace Dodd           vs   Anda Ghinga          Sat @ 10:00
+     R2  Lea Grinberg         vs   Maria Popova         Sat @ 11:30
+     R1  Grace Dodd           vs   Lea Grinberg         Sat @ 13:30
+     R1  Anda Ghinga          vs   Maria Popova         Fri @ 10:00
+ > #2 Singles
+  > Main
+     R3  Aastha Dargude       vs   Hannah Yip           Fri @ 16:00
+     R3  Vera Carvalho        vs   Romane Britt         Fri @ 14:30
+     R2  Vera Carvalho        vs   Hannah Yip           Fri @ 10:00
+     R2  Aastha Dargude       vs   Romane Britt         Sat @ 13:30
+     R1  Vera Carvalho        vs   Aastha Dargude       Sat @ 11:30
+     R1  Hannah Yip           vs   Romane Britt         Sat @ 10:00
+ > #3 Singles
+  > Main
+     R3  Kyndall Quiroz       vs   Emily Carpenter      Sat @ 10:00
+     R3  Kristela Vidnere     vs   Daniela Baez         Sat @ 11:30
+     R2  Kristela Vidnere     vs   Emily Carpenter      Fri @ 14:30
+     R2  Kyndall Quiroz       vs   Daniela Baez         Fri @ 16:00
+     R1  Kristela Vidnere     vs   Kyndall Quiroz       Fri @ 10:00
+     R1  Emily Carpenter      vs   Daniela Baez         Sat @ 13:30
+ > #4 Singles
+  > Main
+     R3  Ethne Dowling        vs   Maria Krite          Fri @ 16:00
+     R3  Melissa Vera         vs   Allison Carpenter    Fri @ 14:30
+     R2  Melissa Vera         vs   Maria Krite          Sat @ 11:30
+     R2  Ethne Dowling        vs   Allison Carpenter    Sat @ 10:00
+     R1  Melissa Vera         vs   Ethne Dowling        Fri @ 10:00
+     R1  Maria Krite          vs   Allison Carpenter    Sat @ 13:30
+ > #5 Singles
+  > Main
+     R3  Belinda Jayaprakash  vs   Lindy Carpenter      Fri @ 14:30
+     R3  Melanie Griffiths    vs   Emilija Visic        Fri @ 16:00
+     R2  Melanie Griffiths    vs   Lindy Carpenter      Sat @ 13:30
+     R2  Belinda Jayaprakash  vs   Emilija Visic        Fri @ 10:00
+     R1  Melanie Griffiths    vs   Belinda Jayaprakash  Sat @ 11:30
+     R1  Lindy Carpenter      vs   Emilija Visic        Sat @ 10:00
+ > #6 Singles
+  > Main
+     R3  Meaghan Butler       vs   Jing Yang            Sat @ 13:30
+     R3  Skylar Minns         vs   Alisha Moldakhmetova Fri @ 10:00
+     R2  Skylar Minns         vs   Jing Yang            Sat @ 10:00
+     R2  Meaghan Butler       vs   Alisha Moldakhmetova Sat @ 11:30
+     R1  Skylar Minns         vs   Meaghan Butler       Fri @ 16:00
+     R1  Jing Yang            vs   Alisha Moldakhmetova Fri @ 14:30
+ > #7 Singles
+  > Main
+     R3  Aubrey Bailey        vs   Maggie Holcomb       Sat @ 11:30
+     R3  Casie Curry          vs   Rachel McCrae        Sat @ 10:00
+     R2  Casie Curry          vs   Maggie Holcomb       Fri @ 16:00
+     R2  Aubrey Bailey        vs   Rachel McCrae        Fri @ 14:30
+     R1  Casie Curry          vs   Aubrey Bailey        Fri @ 10:00
+     R1  Maggie Holcomb       vs   Rachel McCrae        Sat @ 13:30
+ > #8 Singles
+  > Main
+     R3  Kanaha Furutani      vs   Irene Romero         Fri @ 10:00
+     R3  Megan Bell           vs   Ashley Nilsson       Sat @ 13:30
+     R2  Megan Bell           vs   Irene Romero         Sat @ 11:30
+     R2  Kanaha Furutani      vs   Ashley Nilsson       Sat @ 10:00
+     R1  Megan Bell           vs   Kanaha Furutani      Fri @ 16:00
+     R1  Irene Romero         vs   Ashley Nilsson       Fri @ 14:30
 ~~~
 
 Return to the [Top](./women_singles_2140.md) &#124; [Home Page](../../index.md)

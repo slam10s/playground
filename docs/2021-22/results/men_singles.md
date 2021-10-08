@@ -4,17 +4,17 @@
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
+- 10/7/2021 - [Bulldawg Invitational](#21-11157) ([Results](#21-11157) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Draws</a>)  
+- 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
+- 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Bulldawg Invitational</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
 
 **Upcoming Tournaments**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Florida Division I - Bedford Cup, Men 2021</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Loyola Classic</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">River City Tennis Open</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">C.L Varner Invitational</a>  
@@ -32,6 +32,14 @@
  Men's Open Singles
  > Main Draw
   > Main
+      16      Ben Shelton           vs   (9) Ronnie Hohmann       Fri @ 09:00
+      16      Alexandre Reco        vs   (Q) Jj Tracy             Fri @ 09:00
+      16  (Q) Stefan Dostanic       vs       Clement Chidekh      Fri @ 09:00
+      16  (6) Gabriel Diallo        vs       Andres Martin        Fri @ 09:00
+      16  (Q) Andre Ilagan          vs       Cannon Kingsley      Fri @ 09:00
+      16      Alex Kotzen           vs   (4) Finn Reynolds        Fri @ 09:00
+      16      Mason Beiler          vs       Jacob Bickersteth    Fri @ 09:00
+      16      August Holmgren       vs   (2) Johannus Monday      Fri @ 09:00
       32      Ben Shelton          def.  (1) Daniel Rodrigues     63 20 Ret.
       32  (9) Ronnie Hohmann       def.      Arthur Fery          63 76(5)
       32      Alexandre Reco       def.  (5) Trent Bryde          76(4) 60
@@ -41,13 +49,13 @@
       32  (6) Gabriel Diallo       def.  (Q) Daniel De Jonge      26 63 76(2)
       32      Andres Martin        def.  (Q) Filippo Moroni       61 62
       32  (Q) Andre Ilagan         def.  (9) Juan Carlos Aguilar  62 62
-      32      Cannon Kingsley       vs       Kody Pearson         Thu @ 11:30
+      32      Cannon Kingsley      def.      Kody Pearson         36 76(2) 61
       32      Alex Kotzen          def.  (9) Hamish Stewart       76(3) 63
       32  (4) Finn Reynolds        def. (LL) Joshua Lapadat       64 26 63
       32      Mason Beiler         def.  (9) Connor Thomson       16 64 61
       32      Jacob Bickersteth    def.  (8) Philip Henning       60 26 64
-      32      August Holmgren       vs   (9) Micah Braswell       Thu @ 13:00
-      32      Florian Broska        vs   (2) Johannus Monday      Thu @ 13:00
+      32      August Holmgren      def.  (9) Micah Braswell       64 62
+      32  (2) Johannus Monday      def.      Florian Broska       61 76(5)
       64  (1) Daniel Rodrigues     def.      Tyler Zink           63 64
       64      Ben Shelton          def.      Martim Prata         64 62
       64  (9) Ronnie Hohmann       def.  (Q) Francois Musitelli   36 63 64
@@ -81,14 +89,22 @@
       64      Florian Broska       def.  (Q) Trey Hilderbrand     61 63
       64  (2) Johannus Monday      def.  (Q) Tim Zeitvogel        46 63 62
   > Consolation
+      16      Tyler Zink            vs  (LL) Justin Barki         Fri @ 10:00
+      16  (Q) Henry Schulenburg     vs       James Davis          Fri @ 10:00
+      16  (3) Luc Fomba             vs   (9) MAtej Vocel          Fri @ 10:30
+      16      Raphael Lambling      vs   (Q) Tadeas Paroulek      Fri @ 10:30
+      16  (Q) Eric Hadigian         vs   (7) Andres Andrade       Fri @ 11:00
+      16  (Q) Chris Rodesch         vs   (Q) Toby Samuel          Fri @ 10:30
+      16      Axel Nefve            vs   (Q) Tad McClean          Fri @ 11:00
+      16      Karl Poling           vs   (Q) Tim Zeitvogel        Fri @ 11:30
      32Q      Tyler Zink           def.      Martim Prata         75 75
      32Q (LL) Justin Barki         def.  (Q) Francois Musitelli   52 Ret.
      32Q  (Q) Henry Schulenburg    def. (LL) Emmanuel Coste       Walkover
-     32Q      James Davis           vs       Stefan Hampe         Thu @ 12:00
+     32Q      James Davis          def.      Stefan Hampe         46 62 63
      32Q  (3) Luc Fomba            def.      Brian Cernoch        62 75
      32Q  (9) MAtej Vocel          def.      Jonas Eriksson Zive… 64 62
      32Q      Raphael Lambling     def.      Nemanja Malesevic    Walkover
-     32Q  (9) Tyler Stice           vs   (Q) Tadeas Paroulek      Thu @ 12:30
+     32Q  (Q) Tadeas Paroulek      def.  (9) Tyler Stice          61 61
      32Q  (Q) Eric Hadigian        def.      Marcus McDaniel      64 75
      32Q  (7) Andres Andrade       def.      Franco Capalbo       62 75
      32Q  (Q) Chris Rodesch        def.      Luca Maldoner        64 62
@@ -792,6 +808,226 @@
      16 (3) Ruben Acuna      def.     Gonzalo Barcelo      61 63
      16     Frank Yanni      def.     Patel Vishesh        26 62 [10]
      16 (2) Bruno Sabio      def.     Oliver Weisemann     62 62
+~~~
+
+<a name="21-11157"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  Bulldawg Invitational
+  Dates: Oct 7-10, 2021
+  Host: University Of Georgia (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Singles Silver Draw
+  > Main
+     R1     Walker Stearns        vs      John Dransfeld       Fri @ 12:30
+     R1     Ilarion Danilchenko   vs      Iganacio Sandoval    Fri @ 11:00
+ > Singles Magill Draw
+  > East
+     16 (1) Bojan Jankulovski     vs      Mark Wallner         Fri @ 09:00
+     16     Bekhzod Rasamatov     vs      James Story          Fri @ 09:00
+     16 (3) Erik Grevelius        vs      Alejandro Quiles     Fri @ 09:00
+     16     Mikhail Sokolovskiy   vs      Joubert Klopper      Fri @ 09:00
+     16     Dan Martin            vs      Jake Beasley         Fri @ 09:00
+     16     Pablo Schelcher       vs  (4) Miguel Perez Pena    Fri @ 09:00
+     16     Lukas Engelhardt      vs      Thomas Paulsell      Fri @ 09:00
+     16     Ivan Mitric           vs  (2) Jan Galka            Fri @ 09:00
+ > Singles Red Draw
+  > East
+     16 (1) Will Nolan            vs      Coy Simon            Fri @ 09:00
+     16     Michael Ross          vs      Conor Gannon         Fri @ 09:00
+     16 (4) Davide Innocenti      vs      Carlos Guerrero Alv… Fri @ 09:00
+     16     Jakob Cadonau         vs      Brandon McKinney     Fri @ 09:00
+     16     Oren Vasser           vs      Stefanos Savva       Fri @ 10:30
+     16     Jamie Connel          vs  (3) Angel Diaz           Fri @ 10:30
+     16     Andrew Ilie           vs      Britton Johnston     Fri @ 10:30
+     16     Carter Morgan         vs  (2) Siim Troost          Fri @ 10:30
+ > Singles Black Draw
+  > East
+     16 (1) Beau Pelletier        vs      James Roelofse       Fri @ 12:30
+     16     Connor Robb-Wilcox    vs      Richard Trey Mallory Fri @ 11:00
+     16 (4) Franco Aubone         vs      Jackson Ross         Fri @ 11:00
+     16     Mathis Debru          vs      Danil Ozernoy        Fri @ 11:00
+     16     Angel Guerrero        vs      Emil Westling        Fri @ 11:00
+     16     Spencer Gray          vs  (3) Gabriel Hurtado      Fri @ 11:00
+     16     Reece Falck           vs      Hikaru Takeda        Fri @ 11:00
+     16     Abhimanyu Vannemred…  vs  (2) Juan Martin Jalif    Fri @ 11:00
+~~~
+
+<a name="21-80207"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Florida Division I - Bedford Cup, Men 2021
+  Dates: Oct 8-10, 2021
+  Host: Florida State University (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > East
+     32  Breno Marques         vs   Diogo Marques        Fri @ 09:15
+     32  Andreja Petrovic      vs   Kevin Huempfner      Fri @ 09:15
+     32  Matthew Carroll       vs   Munuel Goncalves     Fri @ 09:15
+     32  Ivan Yatsuk           vs   Maks Silagy          Fri @ 09:15
+     32  Gerard Escandell      vs   Rodrigo Crespo       Fri @ 09:15
+     32  Joshua Dous Karpens…  vs   Clement Hamel        Fri @ 09:15
+     32  Alvin Tudorica        vs   Patrick Kotan        Fri @ 09:15
+     32  Nicolas Jadoun        vs   Nilo Duarte          Fri @ 09:15
+     32  Fabian Penzkofer      vs   Richard Thongoana    Fri @ 09:15
+     32  Jorge Nunez           vs   Sergio Gomez-Montesa Fri @ 09:15
+     32  Finn Stodder          vs   Youcef Rihane        Fri @ 09:15
+     32  Guglielmo Stefanacci  vs   Jonas Hartenstein    Fri @ 11:00
+     32  Alvaro Fernandez Ho…  vs   Antonio Muniz-Hidal… Fri @ 11:00
+     32  Dominik Barton        vs   Sven Thiergard       Fri @ 11:00
+     32  Alex Bulte            vs   Carles Sarrio        Fri @ 11:00
+ > Flight B
+  > East
+     16  Max Damm              vs   Joshua Laka          Fri @ 09:15
+     16  Alexandre Hillhouse   vs   Pedro Maciel         Fri @ 09:15
+     16  Sandeep Mohandoss     vs   Bryn Nahrung         Fri @ 09:15
+     16  Joe Ellis             vs   Eric Oncins          Fri @ 09:15
+     16  Dennis Moses          vs   Hunter Robbins       Fri @ 09:15
+     16  Bruno Oliveira        vs   Juan Lopez           Fri @ 08:30
+~~~
+
+<a name="21-99710"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  River City Tennis Open
+  Dates: Oct 8-10, 2021
+  Host: University Of Richmond (M)
+═════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight 1
+  > Main
+     R2  Younes Lalami        vs   Derrick Thompson     Fri @ 15:00
+     R2  Jackson Allen        vs   Dimosthenis Taramon… Fri @ 15:00
+     R1  Younes Lalami        vs   Jackson Allen        Fri @ 11:00
+     R1  Derrick Thompson     vs   Dimosthenis Taramon… Fri @ 09:30
+ > Flight 2
+  > Main
+     R2  Alexander Kiefer     vs   George Davis         Fri @ 15:00
+     R2  Yevhen Sirous        vs   Matisse Bobichon     Fri @ 15:00
+     R1  Alexander Kiefer     vs   Yevhen Sirous        Fri @ 11:00
+     R1  George Davis         vs   Matisse Bobichon     Fri @ 09:30
+ > Flight 3
+  > Main
+     R2  Guilherme Severin    vs   Francois Le Tallec   Fri @ 15:00
+     R2  Joaquim Almeida      vs   Daniel Kliebhan      Fri @ 15:00
+     R1  Guilherme Severin    vs   Joaquim Almeida      Fri @ 08:00
+     R1  Francois Le Tallec   vs   Daniel Kliebhan      Fri @ 11:00
+ > Flight 4
+  > Main
+     R2  Oscar Hernandez      vs   Codie Van Schalkwyk  Fri @ 15:00
+     R2  Tom Leblanc          vs   Finbar Talcott       Fri @ 15:00
+     R1  Oscar Hernandez      vs   Tom Leblanc          Fri @ 09:30
+     R1  Codie Van Schalkwyk  vs   Finbar Talcott       Fri @ 11:00
+ > Flight 6
+  > Main
+     R2  Andres Silva         vs   Finn Garner          Fri @ 13:45
+     R2  Charlie Suh          vs   Joshua Robinson      Fri @ 13:45
+     R1  Andres Silva         vs   Charlie Suh          Fri @ 08:00
+     R1  Finn Garner          vs   Joshua Robinson      Fri @ 08:00
+ > Flight 7
+  > Main
+     R2  Alex Warning         vs   Aditya Balsekar      Fri @ 13:45
+     R2  Youssef Sadek        vs   Sebastian Quiros     Fri @ 13:45
+     R1  Alex Warning         vs   Youssef Sadek        Fri @ 09:15
+     R1  Aditya Balsekar      vs   Sebastian Quiros     Fri @ 09:15
+ > Flight 8
+  > Main
+     R2  Oliver Tobisch       vs   Jack Kelly           Fri @ 14:30
+     R2  Jack McBride         vs   Matias Gaedechens    Fri @ 14:30
+     R1  Oliver Tobisch       vs   Jack McBride         Fri @ 11:00
+     R1  Jack Kelly           vs   Matias Gaedechens    Fri @ 09:15
+ > Flight 9
+  > Main
+     R2  Oliver Nolan         vs   Jefferson Dockter    Fri @ 14:30
+     R2  Daniel Pellerito     vs   John Walsh           Fri @ 15:00
+     R1  Oliver Nolan         vs   Daniel Pellerito     Fri @ 11:00
+     R1  Jefferson Dockter    vs   John Walsh           Fri @ 11:00
+ > Flight 11
+  > Main
+     R2  Joseph Brailovsky    vs   Rithik Sardana       Fri @ 13:45
+     R2  Michael Fourticq     vs   Campbell Erwin       Fri @ 13:45
+     R1  Joseph Brailovsky    vs   Michael Fourticq     Fri @ 09:15
+     R1  Rithik Sardana       vs   Campbell Erwin       Fri @ 09:15
+ > Flight 13
+  > Main
+     R2  Jake Fishkin         vs   Justin Suarez        Fri @ 12:30
+     R2  Jake Fraunfelder     vs   Robert Hagen         Fri @ 12:30
+     R1  Jake Fishkin         vs   Jake Fraunfelder     Fri @ 08:00
+     R1  Justin Suarez        vs   Robert Hagen         Fri @ 08:00
+ > Flight 14
+  > Main
+     R2  Carlos Grande        vs   Eitan Khromchenko    Fri @ 12:30
+     R2  Raphael Mujan        vs   Mathieu Josserand    Fri @ 12:30
+     R1  Carlos Grande        vs   Raphael Mujan        Fri @ 08:00
+     R1  Eitan Khromchenko    vs   Mathieu Josserand    Fri @ 08:00
+ > Flight 15
+  > Main
+     R2  Richard Bell         vs   Rosen Nayadenov      Fri @ 13:45
+     R2  Ryan Jurist          vs   Andre Limon          Fri @ 13:45
+     R1  Richard Bell         vs   Ryan Jurist          Fri @ 09:15
+     R1  Rosen Nayadenov      vs   Andre Limon          Fri @ 09:15
+ > Flight 16
+  > Main
+     R2  Cy McLeod            vs   Matthew Jones        Fri @ 12:30
+     R2  Stefan Petrovic      vs   Ryan Charles         Fri @ 12:30
+     R1  Cy McLeod            vs   Stefan Petrovic      Fri @ 08:00
+     R1  Matthew Jones        vs   Ryan Charles         Fri @ 08:00
+ > Flight 17
+  > Main
+     R2  Herman Jentoft       vs   Anthony Prokurat     Fri @ 12:30
+     R2  Tim Zelikovsky       vs   Zac Larke            Fri @ 12:30
+     R1  Herman Jentoft       vs   Tim Zelikovsky       Fri @ 08:00
+     R1  Anthony Prokurat     vs   Zac Larke            Fri @ 08:00
+ > Flight 18
+  > Main
+     R2  Ryan Nguyen          vs   Karlis Katlaps       Fri @ 12:30
+     R2  Gray Voelzke         vs   Faisal Alrebdi       Fri @ 12:30
+     R1  Ryan Nguyen          vs   Gray Voelzke         Fri @ 08:00
+     R1  Karlis Katlaps       vs   Faisal Alrebdi       Fri @ 08:00
+ > Flight 19
+  > Main
+     R2  Erick Rivas          vs   Sasha Panyan         Fri @ 12:30
+     R2  Alex Kim             vs   Ernesto Rocabert     Fri @ 12:30
+     R1  Erick Rivas          vs   Alex Kim             Fri @ 08:00
+     R1  Sasha Panyan         vs   Ernesto Rocabert     Fri @ 08:00
+ > Flight 20
+  > Main
+     R2  Hayden Postin        vs   Luis Reis            Fri @ 11:00
+     R2  Carlos Carvalho      vs   Zach Theodossiou     Fri @ 11:00
+     R1  Hayden Postin        vs   Carlos Carvalho      Fri @ 08:00
+     R1  Luis Reis            vs   Zach Theodossiou     Fri @ 08:00
+ > Flight 21
+  > Main
+     R2  Dustin Ha            vs   Alaister Burke       Fri @ 11:00
+     R2  Noah Winton          vs   Chanasorn Nakaurai   Fri @ 11:00
+     R1  Dustin Ha            vs   Noah Winton          Fri @ 08:00
+     R1  Alaister Burke       vs   Chanasorn Nakaurai   Fri @ 08:00
+ > Flight 22
+  > Main
+     R3  William Crane        vs   Harry Yang           Fri @ 15:00
+     R2  Michael Pollatos     vs   Harry Yang           Fri @ 11:00
+     R1  Michael Pollatos     vs   William Crane        Fri @ 08:00
+ > Flight 5
+  > Main
+     R2  Harrison Brown       vs   Konstantinos Raptis  Fri @ 13:45
+     R2  Gavin Segraves       vs   Jake Fellows         Fri @ 13:45
+     R1  Harrison Brown       vs   Gavin Segraves       Fri @ 09:30
+     R1  Konstantinos Raptis  vs   Jake Fellows         Fri @ 08:00
+ > Flight 10
+  > Main
+     R2  Chen Ruo             vs   Michael Walser       Fri @ 15:00
+     R2  Guillermo Cagigas    vs   Noah Borges          Fri @ 15:00
+     R1  Chen Ruo             vs   Guillermo Cagigas    Fri @ 09:15
+     R1  Michael Walser       vs   Noah Borges          Fri @ 11:00
+ > Flight 12
+  > Main
+     R2  Josh Keitelman       vs   Luke Garner          Fri @ 12:30
+     R2  Ben Husum            vs   Michael Owen         Fri @ 13:45
+     R1  Josh Keitelman       vs   Ben Husum            Fri @ 08:00
+     R1  Luke Garner          vs   Michael Owen         Fri @ 08:00
 ~~~
 
 Return to the [Top](./men_singles_2140.md) &#124; [Home Page](../../index.md)

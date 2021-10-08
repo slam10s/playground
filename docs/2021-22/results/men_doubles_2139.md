@@ -6,6 +6,8 @@
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 10/1/2021 - [Aggie Invitational](#21-92523) ([Results](#21-92523) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaDavisM/Tournaments/Overview/8C1469E6-3A8C-48A5-A340-2EB9734F03E4" target="_blank">Draws</a>)  
 - 9/30/2021 - [BU Invite](#21-39279) ([Results](#21-39279) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityM/Tournaments/Overview/A2243BD0-B01D-447E-89E6-9F9C5E5F85DA" target="_blank">Draws</a>)  
+- 10/2/2021 - [Davidson College Invite](#21-95483) ([Results](#21-95483) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Draws</a>)  
+- 10/1/2021 - [Hagedorn Hidden Dual](#21-03884) ([Results](#21-03884) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Draws</a>)  
 - 10/1/2021 - [Idaho State Bengal Invitational](#21-23711) ([Results](#21-23711) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Draws</a>)  
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
@@ -28,9 +30,7 @@
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Arizona Wilcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Beeman/Drobac Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
-- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Davidson College Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">EIU Panther Hidden Duals</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Hagedorn Hidden Dual</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">PNW Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Division III Men's Northeast ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonM/Tournaments/Overview/8701EF80-DDC5-4BB0-861B-552EB3F1C862" target="_blank">Division III Men’s Southeast ITA Regional Championships</a>  
@@ -318,6 +318,78 @@
      F  Chang/Takeda         def.  Sajonz/Knutsen   75
 ~~~
 
+<a name="21-95483"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Davidson College Invite
+  Dates: Oct 2-3, 2021
+  Host: Davidson College (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > 1
+  > Main
+     R5  Reid/Thursfield      def.  Kachkarov/Gongora    61
+     R5  Kachkarov/Solares    def.  Putter/Van Wyk       76(5)
+     R5  Bottino/Cecere       def.  Fender/Thursfield    62
+     R3  Kachkarov/Solares    def.  Bottino/Cecere       64
+     R2  Reid/Thursfield      def.  Putter/Van Wyk       63
+     R1  Putter/Van Wyk       def.  Bottino/Cecere       61
+ > 2
+  > Main
+     R5  Lemieux-Monette/Har… def.  Steveker/Ulas Enc    63
+     R4  Pinzon/Gongora       def.  Steveker/Ulas Enc    60
+     R4  Daosaengsawang/Bier… def.  Harris/Lepine        64
+     R3  Daosaengsawang/Bier… def.  Singh/Solares        62
+     R2  Pinzon/Gongora       def.  Harris/Lepine        61
+     R1  Daosaengsawang/Bier… def.  Steveker/Ulas Enc    76(5)
+ > 3
+  > Main
+     R7  Lemieux-Monette/Ens… def.  Serra/Serra          75
+     R7  Spring/Butler        def.  Roussinov/Lynes      61
+     R4  Serra/Serra          def.  Malmon/Lynes         76(5)
+     R4  Wang/Singh           def.  Davy/Pia             62
+     R2  Serra/Serra          def.  Pinzon/Kavarana      64
+     R1  Wang/Singh           def.  Lemieux-Monette/Ens… 63
+ > 4
+  > Main
+     R3  Lovrich/Wang         def.  Ercole/Dacuba        61
+     R1  Bazil/Gosselin       def.  Ercole/Dacuba        64
+ > 4.1
+  > Main
+     R3  Green/Lovrich        def.  Spring/Butler        75
+     R2  Spring/Butler        def.  Gosselin/Johnston    63
+     R2  Kavarana/Green       def.  Bazil/Dacuba         60
+     R1  Enslin/Lepine        def.  Bazil/Gosselin       61
+~~~
+
+<a name="21-03884"></a>
+~~~
+════════════════════════════════════════════════════════
+  Hagedorn Hidden Dual
+  Dates: Oct 1-3, 2021
+  Host: University Of San Diego (M)
+════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Blue
+  > Main
+     QF  Sharrma/Kasday     def.  Terry/Ingles Garre 84
+     QF  Garcia/Conway      def.  Stater/Niranjan    86
+     QF  Sah/Smart          def.  Ros/Herrera Cuesta 86
+     QF  Amiri/Mkrtchian    def.  Krulig/Sallay      85
+ > Red
+  > Main
+     QF  Sharrma/Kasday     def.  Sah/Smart          84
+     QF  Stater/Niranjan    def.  Amiri/Mkrtchian    83
+     QF  Ros/Herrera Cuesta def.  Garcia/Conway      85
+     QF  Terry/Ingles Garre def.  Krulig/Sallay      85
+ > Green
+  > Main
+     QF  Sharrma/Kasday     def.  Ros/Herrera Cuesta 60
+     QF  Krulig/Sallay      def.  Stater/Niranjan    63
+     QF  Terry/Ingles Garre def.  Amiri/Mkrtchian    61
+     QF  Sah/Smart          def.  Garcia/Conway      63
+~~~
+
 <a name="21-23711"></a>
 ~~~
 ════════════════════════════════════════════════════════════════
@@ -364,14 +436,18 @@
  Men's Open Doubles
  > Main Draw
   > Main
-      16 (LL) Ciamarra/Harper       vs       Boulais/Trotter      Thu @ 13:30
-      16  (5) Charlton/Vandecaste…  vs   (Q) Rotsaert/Fery        Thu @ 14:30
-      16  (4) Murgett/McClean       vs       Davis/Summers        Thu @ 16:00
-      16      Motl/Slump            vs       Dostanic/Frye        Thu @ 14:30
-      16  (Q) Zhang/Heller          vs   (Q) Cash/Vocel           Thu @ 16:00
-      16      Lah/Bass              vs       Cernoch/Kiger        Thu @ 16:00
-      16 (LL) Stewart/Henning       vs   (5) Martin/McDaniel      Thu @ 15:00
-      16  (Q) Reynolds/Lithen       vs   (Q) Hudd/Mitsui          Thu @ 14:30
+      QF      Boulais/Trotter       vs   (5) Charlton/Vandecaste… Fri @ 14:30
+      QF      Davis/Summers         vs       Dostanic/Frye        Fri @ 15:00
+      QF  (Q) Cash/Vocel            vs       Lah/Bass             Fri @ 15:00
+      QF (LL) Stewart/Henning       vs   (Q) Hudd/Mitsui          Fri @ 14:30
+      16      Boulais/Trotter      def. (LL) Ciamarra/Harper      62 26 [7]
+      16  (5) Charlton/Vandecaste… def.  (Q) Rotsaert/Fery        61 64
+      16      Davis/Summers        def.  (4) Murgett/McClean      76(5) 62
+      16      Dostanic/Frye        def.      Motl/Slump           63 61
+      16  (Q) Cash/Vocel           def.  (Q) Zhang/Heller         64 62
+      16      Lah/Bass             def.      Cernoch/Kiger        63 62
+      16 (LL) Stewart/Henning      def.  (5) Martin/McDaniel      46 63 [7]
+      16  (Q) Hudd/Mitsui          def.  (Q) Reynolds/Lithen      57 76(5) [9]
       32 (LL) Ciamarra/Harper      def.  (1) Hilderbrand/Pavel    76(3) 36 [8]
       32      Boulais/Trotter      def.  (Q) Rodesch/Goetz        63 62
       32  (5) Charlton/Vandecaste… def.  (Q) Malbasic/Hoeyeraal   36 62 [6]
@@ -389,12 +465,16 @@
       32  (Q) Reynolds/Lithen      def. (LL) Keremedchiev/Klov-N… 64 64
       32  (Q) Hudd/Mitsui          def.  (2) Rodrigues/Thomson    67(3) 76(5) [5]
   > Consolation
-     16Q  (1) Hilderbrand/Pavel     vs   (Q) Rodesch/Goetz        Thu @ 14:00
-     16Q  (Q) Malbasic/Hoeyeraal    vs       Barki/Bosancic       Thu @ 13:30
-     16Q      Bryde/Croyder         vs       Gale/Gaber           Thu @ 15:30
-     16Q  (5) Johns/Sculley         vs   (Q) Siimar/Shelbayh      Thu @ 14:00
-     16Q      Pearson/Di Marco      vs   (5) Martinez/Han         Thu @ 15:30
-     16Q      Maldoner/Vidal        vs   (3) Stevenson/Cutting    Thu @ 14:30
+      QF  (Q) Rodesch/Goetz         vs   (Q) Malbasic/Hoeyeraal   Fri @ 16:00
+      QF      Bryde/Croyder         vs   (5) Johns/Sculley        Fri @ 16:00
+      QF      Pearson/Di Marco      vs   (3) Stevenson/Cutting    Fri @ 15:30
+      QF      Eriksson Ziverts/Mi…  vs  (LL) Keremedchiev/Klov-N… Fri @ 15:30
+     16Q  (Q) Rodesch/Goetz        def.  (1) Hilderbrand/Pavel    64 75
+     16Q  (Q) Malbasic/Hoeyeraal   def.      Barki/Bosancic       46 63 [10]
+     16Q      Bryde/Croyder        def.      Gale/Gaber           Walkover
+     16Q  (5) Johns/Sculley        def.  (Q) Siimar/Shelbayh      76(10) 64
+     16Q      Pearson/Di Marco     def.  (5) Martinez/Han         63 36 [11]
+     16Q  (3) Stevenson/Cutting    def.      Maldoner/Vidal       75 16 [7]
      16Q      Eriksson Ziverts/Mi… def.      Hohmann/Lobak        Walkover
      16Q (LL) Keremedchiev/Klov-N… def.  (2) Rodrigues/Thomson    Walkover
  > Qualifying
@@ -672,52 +752,60 @@
 
 <a name="21-35169"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   Division II Men’s & Women's Central ITA Regional Championships
   Dates: Oct 1-3, 2021
   Host: Univ. Of Central Oklahoma (W)
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main Draw A
   > Main
-      SF (3) Kearney/Oliveira     def.     Perez/Bird          86
-      QF     Perez/Bird           def.     Birgerson/Calloud   97
-      QF (3) Kearney/Oliveira     def. (5) Pjontek/Earle       86
-      16     Perez/Bird           def. (1) Jans/Bah            84
-      16     Birgerson/Calloud    def.     Dornbusch/Damgaard  86
-      16 (5) Pjontek/Earle        def.     Pierola/Reeves      81
-      16 (3) Kearney/Oliveira     def.     Piranomonte/Sanchez 86
-      32     Perez/Bird           def.     Blanchar/Parzajuk   85
-      32     Birgerson/Calloud    def.     Del Rosario/Orduz   84
-      32     Dornbusch/Damgaard   def. (8) Walker/Bellan       86
-      32 (5) Pjontek/Earle        def.     Smid/Naraya         82
-      32     Pierola/Reeves       def.     Nowak/Akoudad       86
-      32     Piranomonte/Sanchez  def.     Gonzalez/Ranamane   83
-      32 (3) Kearney/Oliveira     def.     Shafer/Plachy       82
-      32 (4) Salvan/de Lorenzo    def.     Nickel/Rodrigues    85
-      32     Outor/Marques        def.     Niethammer/Dreher   82
-      32     Breitenmoser/Tennant def.     Brazet/Fallon       82
-      32 (6) Dos Santos/Jurkovic  def.     Schmit/Cortinas     83
-      32 (7) Valkyser/Nikoliuk    def.     Pilotto/Ncube       85
-      32     Dicu/Hammes          def.     Jove/Wood           83
-      32     Kolaric/Penteado     def.     Cowger/Lapoint      85
-      32 (2) Zamurri/Oliva        def.     Docters/Fuerschuss  98(8)
+       F (3) Kearney/Oliveira     def. (6) Dos Santos/Jurkovic  46 76(5) [4]
+      SF (3) Kearney/Oliveira     def.     Perez/Bird           86
+      SF (6) Dos Santos/Jurkovic  def. (7) Valkyser/Nikoliuk    85
+      QF     Perez/Bird           def.     Birgerson/Calloud    97
+      QF (3) Kearney/Oliveira     def. (5) Pjontek/Earle        86
+      QF (6) Dos Santos/Jurkovic  def. (4) Salvan/de Lorenzo    98(4)
+      QF (7) Valkyser/Nikoliuk    def. (2) Zamurri/Oliva        84
+      16     Perez/Bird           def. (1) Jans/Bah             84
+      16     Birgerson/Calloud    def.     Dornbusch/Damgaard   86
+      16 (5) Pjontek/Earle        def.     Pierola/Reeves       81
+      16 (3) Kearney/Oliveira     def.     Piranomonte/Sanchez  86
+      16 (4) Salvan/de Lorenzo    def.     Outor/Marques        83
+      16 (6) Dos Santos/Jurkovic  def.     Breitenmoser/Tennant 83
+      16 (7) Valkyser/Nikoliuk    def.     Dicu/Hammes          84
+      16 (2) Zamurri/Oliva        def.     Kolaric/Penteado     80
+      32     Perez/Bird           def.     Blanchar/Parzajuk    85
+      32     Birgerson/Calloud    def.     Del Rosario/Orduz    84
+      32     Dornbusch/Damgaard   def. (8) Walker/Bellan        86
+      32 (5) Pjontek/Earle        def.     Smid/Naraya          82
+      32     Pierola/Reeves       def.     Nowak/Akoudad        86
+      32     Piranomonte/Sanchez  def.     Gonzalez/Ranamane    83
+      32 (3) Kearney/Oliveira     def.     Shafer/Plachy        82
+      32 (4) Salvan/de Lorenzo    def.     Nickel/Rodrigues     85
+      32     Outor/Marques        def.     Niethammer/Dreher    82
+      32     Breitenmoser/Tennant def.     Brazet/Fallon        82
+      32 (6) Dos Santos/Jurkovic  def.     Schmit/Cortinas      83
+      32 (7) Valkyser/Nikoliuk    def.     Pilotto/Ncube        85
+      32     Dicu/Hammes          def.     Jove/Wood            83
+      32     Kolaric/Penteado     def.     Cowger/Lapoint       85
+      32 (2) Zamurri/Oliva        def.     Docters/Fuerschuss   98(8)
   > Consolation
-       F     Docters/Fuerschuss   def.     Del Rosario/Orduz   62
-      SF     Del Rosario/Orduz    def.     Smid/Naraya         75
-      SF     Docters/Fuerschuss   def.     Schmit/Cortinas     Walkover
-      QF     Del Rosario/Orduz    def.     Blanchar/Parzajuk   64
-      QF     Smid/Naraya          def.     Shafer/Plachy       62
-      QF     Schmit/Cortinas      def.     Niethammer/Dreher   Walkover
-      QF     Docters/Fuerschuss   def.     Pilotto/Ncube       61
-      16     Blanchar/Parzajuk    def. (1) Jans/Bah            Walkover
-     16Q     Del Rosario/Orduz    def. (8) Walker/Bellan       Walkover
-     16Q     Smid/Naraya          def.     Nowak/Akoudad       60
-     16Q     Shafer/Plachy        def.     Gonzalez/Ranamane   62
-     16Q     Niethammer/Dreher    def.     Nickel/Rodrigues    Walkover
-     16Q     Schmit/Cortinas      def.     Brazet/Fallon       Walkover
-     16Q     Pilotto/Ncube        def.     Jove/Wood           61
-     16Q     Docters/Fuerschuss   def.     Cowger/Lapoint      61
+       F     Docters/Fuerschuss   def.     Del Rosario/Orduz    62
+      SF     Del Rosario/Orduz    def.     Smid/Naraya          75
+      SF     Docters/Fuerschuss   def.     Schmit/Cortinas      Walkover
+      QF     Del Rosario/Orduz    def.     Blanchar/Parzajuk    64
+      QF     Smid/Naraya          def.     Shafer/Plachy        62
+      QF     Schmit/Cortinas      def.     Niethammer/Dreher    Walkover
+      QF     Docters/Fuerschuss   def.     Pilotto/Ncube        61
+      16     Blanchar/Parzajuk    def. (1) Jans/Bah             Walkover
+     16Q     Del Rosario/Orduz    def. (8) Walker/Bellan        Walkover
+     16Q     Smid/Naraya          def.     Nowak/Akoudad        60
+     16Q     Shafer/Plachy        def.     Gonzalez/Ranamane    62
+     16Q     Niethammer/Dreher    def.     Nickel/Rodrigues     Walkover
+     16Q     Schmit/Cortinas      def.     Brazet/Fallon        Walkover
+     16Q     Pilotto/Ncube        def.     Jove/Wood            61
+     16Q     Docters/Fuerschuss   def.     Cowger/Lapoint       61
 ~~~
 
 <a name="21-74684"></a>
@@ -811,7 +899,7 @@
       QF     Watanabi/Rodriguez   def.     Carvajalino/Skarya   Default
       QF     Muniz/Andrei         def.     Mckenzie/Capone      Default
       QF     Koth/Soler           def.     Almeida/Batkis       Default
-      QF     Bradshaw/Ford        def.     Garcia-Arrabal/Simo… 64
+      QF     Bradshaw/Ford        def.     Garcia-Arrabal/Simo… 62
      16Q     Watanabi/Rodriguez   def.     Lorente-Zarate/Kumb… 61
      16Q     Mckenzie/Capone      def.     Neumaier/Everett     62
      16Q     Muniz/Andrei         def.     Mere/Lock            64

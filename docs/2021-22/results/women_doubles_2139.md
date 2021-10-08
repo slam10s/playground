@@ -971,7 +971,7 @@
  Women's Open Doubles
  > Main Draw A
   > Main
-       F (3) Canete/Canete        def.     Arce Vieyra/Janciko… 80
+       F (3) Canete/Canete        def.     Arce Vieyra/Janciko… 60 60
       SF     Arce Vieyra/Janciko… def. (4) Abidulina/Boyar      85
       SF (3) Canete/Canete        def.     Chavez/MacGibbon     84
       QF     Arce Vieyra/Janciko… def.     Iglesias Iglesias/G… 85
@@ -1336,6 +1336,7 @@
      16     del Sordo/Ostrander def.     Cline/Rodriguez     82
      16     Johnson/Anderson    def.     Teague/Steed        86
   > Consolation
+      F     Seward/Hoddinghaus  def. (2) Kaome/Hensarling    61 61
      SF     Seward/Hoddinghaus  def.     Chelette/Kent       81
      SF (2) Kaome/Hensarling    def. (3) Rodriguez/Madrid    Walkover
      QF     Seward/Hoddinghaus  def. (4) Vanegas/Tsaura      81
@@ -1343,6 +1344,7 @@
      QF (2) Kaome/Hensarling    def.     Teague/Steed        84
  > Flight B
   > Main
+      F     Salter/Powell       def.     Ross/Smith          60 16 [8]
      SF     Ross/Smith          def.     Ivory/Williams      86
      SF     Salter/Powell       def.     Nealon/Nealon       84
      QF     Ivory/Williams      def.     Endt/James          86

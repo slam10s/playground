@@ -6,7 +6,9 @@
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 10/1/2021 - [Aggie Invitational](#21-92523) ([Results](#21-92523) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaDavisM/Tournaments/Overview/8C1469E6-3A8C-48A5-A340-2EB9734F03E4" target="_blank">Draws</a>)  
 - 9/30/2021 - [BU Invite](#21-39279) ([Results](#21-39279) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityM/Tournaments/Overview/A2243BD0-B01D-447E-89E6-9F9C5E5F85DA" target="_blank">Draws</a>)  
+- 10/2/2021 - [Davidson College Invite](#21-95483) ([Results](#21-95483) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Draws</a>)  
 - 10/1/2021 - [EIU Panther Hidden Duals](#21-91236) ([Results](#21-91236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">Draws</a>)  
+- 10/1/2021 - [Hagedorn Hidden Dual](#21-03884) ([Results](#21-03884) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Draws</a>)  
 - 10/1/2021 - [Idaho State Bengal Invitational](#21-23711) ([Results](#21-23711) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Draws</a>)  
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
@@ -29,8 +31,6 @@
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Arizona Wilcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Beeman/Drobac Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
-- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Davidson College Invite</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Hagedorn Hidden Dual</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">PNW Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Division III Men's Northeast ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonM/Tournaments/Overview/8701EF80-DDC5-4BB0-861B-552EB3F1C862" target="_blank">Division III Men’s Southeast ITA Regional Championships</a>  
@@ -618,6 +618,80 @@
      F  Ben Letzer           def.  Logan Chang      46 75 [4]
 ~~~
 
+<a name="21-95483"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Davidson College Invite
+  Dates: Oct 2-3, 2021
+  Host: Davidson College (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > 6
+  > Main
+     R5  Nicolas Pinzon      def.  Rafa Serra           62 62
+     R5  Uddayvir Singh      def.  John Spring          62 61
+     R4  Nicolas Pinzon      def.  Jan Malmon           64 75
+     R4  John Spring         def.  Rafa Serra           61 64
+     R3  John Spring         def.  Jan Malmon           64 46 [7]
+     R2  Rafa Serra          def.  Lukas Gosselin       46 62 [9]
+ > 8
+  > Main
+     R5  Luca Lovrich        def.  Samuele Pia          62 63
+     R5  Jerry Wang          def.  Euan Lynes           63 61
+     R4  Luca Lovrich        def.  Aidan Davy           61 61
+     R4  Jerry Wang          def.  Filippo Ercole       62 60
+ > 7
+  > Main
+     R7  Uddayvir Singh      def.  Euan Lynes           61 60
+     R7  Jerry Wang          def.  Cathal Butler        61 64
+     R6  Luca Lovrich        def.  Lleyton Dacuba       60 60
+     R6  Nicolas Pinzon      def.  Cathal Butler        63 64
+     R5  Uddayvir Singh      def.  Lleyton Dacuba       61 62
+     R1  Cathal Butler       def.  Zachary Dacuba       63 61
+ > 5
+  > Main
+     R5  Brooks Green        def.  Alex Lepine          62 61
+     R5  Quinn Fender        def.  Jan Malmon           62 64
+     R4  Brooks Green        def.  Sirawit Daosaengsaw… 76(4) 64
+     R3  Alex Lepine         def.  Sirawit Daosaengsaw… 67(4) 64 [0]
+     R2  Alex Lepine         def.  Yoan Roussinov       64 63
+     R1  Brooks Green        def.  Yoan Roussinov       75 76(4)
+ > 4
+  > Main
+     R4  Bruno Serra         def.  Sam Kavarana         46 61 [5]
+     R4  Connor Enslin       def.  Berk Ulas Enc        75 61
+     R3  Sam Kavarana        def.  Berk Ulas Enc        57 76(4) [7]
+     R2  Connor Enslin       def.  Bruno Serra          76(4) 46 [6]
+     R1  Connor Enslin       def.  Sam Kavarana         63 63
+     R1  Bruno Serra         def.  Yoan Roussinov       75 75
+ > 3
+  > Main
+     R7  Victor Putter       def.  Win Steveker         63 46 [10]
+     R6  Victor Putter       def.  Juan Camilo Gongora  46 62 [3]
+     R2  Leo Bierbaum        def.  Juan Camilo Gongora  63 75
+     R2  Harry Thursfield    def.  Edoardo Cecere       63 60
+     R1  Leo Bierbaum        def.  Victor Putter        36 61 [6]
+     R1  Alejandro Solares   def.  Edoardo Cecere       75 62
+ > 1
+  > Main
+     R7  Edoardo Bottino     def.  Chrisjan Van Wyk     63 62
+     R6  Brann Reid          def.  Edoardo Bottino      62 63
+     R6  Max Kachkarov       def.  Win Steveker         75 63
+     R6  Alejandro Solares   def.  Harry Thursfield     26 62 [7]
+     R4  Brann Reid          def.  Chrisjan Van Wyk     62 75
+     R3  Chrisjan Van Wyk    def.  Max Kachkarov        76(5) 76(5)
+ > 2
+  > Main
+     R3  Juan Camilo Gongora def.  Edoardo Bottino      26 63 [7]
+     R2  Leo Bierbaum        def.  Win Steveker         63 75
+     R1  Max Kachkarov       def.  Brann Reid           06 64 [4]
+ > 2.1
+  > Main
+     R3  Harry Thursfield    def.  Sebastian Harris     62 62
+     R2  Sebastian Harris    def.  Edoardo Cecere       26 64 [1]
+     R1  Alejandro Solares   def.  Sebastian Harris     76(4) 57 [2]
+~~~
+
 <a name="21-91236"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════════
@@ -672,6 +746,45 @@
      R1  Pedja Trifunovic     def.  Tyler Carlin         83
      R1  Oliwer Wierzbicki    def.  Max Pilipovic-Kljaj… 86
      R1  Will Ulrich          def.  Andrej Zoranovic     86
+~~~
+
+<a name="21-03884"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Hagedorn Hidden Dual
+  Dates: Oct 1-3, 2021
+  Host: University Of San Diego (M)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Blue
+  > Main
+     16  Matthew Terry        def.  Mike Mkrtchian       63 63
+     16  Raul Garcia          def.  Ali Amiri            63 60
+     16  Sergio Ingles Garre  def.  Thomas Smart         64 60
+     16  Matthew Sah          def.  Harvey Conway        64 26 75
+     16  Alex Stater          def.  Nicolas Herrera Cue… 61 62
+     16  Sacchitt Sharrma     def.  Mattia Ros           63 63
+     16  Blake Kasday         def.  Peter Sallay         75 62
+     16  Nikhil Niranjan      def.  Daniel Krulig        67(4) 75 Ret.
+ > Red
+  > Main
+     16  Matthew Terry        def.  Alex Stater          46 63 75
+     16  Sacchitt Sharrma     def.  Raul Garcia          62 60
+     16  Sergio Ingles Garre  def.  Blake Kasday         Walkover
+     16  Harvey Conway        def.  Nikhil Niranjan      76(4) 64
+     16  Nicolas Herrera Cue… def.  Mike Mkrtchian       62 63
+     16  Ali Amiri            def.  Mattia Ros           36 63 75
+     16  Peter Sallay         def.  Thomas Smart         63 64
+     16  Matthew Sah          def.  Daniel Krulig        26 63 64
+ > Green
+  > Main
+     16  Sacchitt Sharrma     def.  Mike Mkrtchian       67(4) 62 62
+     16  Alex Stater          def.  Ali Amiri            62 62
+     16  Matthew Sah          def.  Nikhil Niranjan      62 64
+     16  Nicolas Herrera Cue… def.  Matthew Terry        62 67(3) 63
+     16  Raul Garcia          def.  Mattia Ros           62 61
+     16  Sergio Ingles Garre  def.  Peter Sallay         61 63
+     16  Daniel Krulig        def.  Harvey Conway        Walkover
 ~~~
 
 <a name="21-23711"></a>
@@ -746,6 +859,14 @@
  Men's Open Singles
  > Main Draw
   > Main
+      16      Ben Shelton           vs   (9) Ronnie Hohmann       Fri @ 09:00
+      16      Alexandre Reco        vs   (Q) Jj Tracy             Fri @ 09:00
+      16  (Q) Stefan Dostanic       vs       Clement Chidekh      Fri @ 09:00
+      16  (6) Gabriel Diallo        vs       Andres Martin        Fri @ 09:00
+      16  (Q) Andre Ilagan          vs       Cannon Kingsley      Fri @ 09:00
+      16      Alex Kotzen           vs   (4) Finn Reynolds        Fri @ 09:00
+      16      Mason Beiler          vs       Jacob Bickersteth    Fri @ 09:00
+      16      August Holmgren       vs   (2) Johannus Monday      Fri @ 09:00
       32      Ben Shelton          def.  (1) Daniel Rodrigues     63 20 Ret.
       32  (9) Ronnie Hohmann       def.      Arthur Fery          63 76(5)
       32      Alexandre Reco       def.  (5) Trent Bryde          76(4) 60
@@ -755,13 +876,13 @@
       32  (6) Gabriel Diallo       def.  (Q) Daniel De Jonge      26 63 76(2)
       32      Andres Martin        def.  (Q) Filippo Moroni       61 62
       32  (Q) Andre Ilagan         def.  (9) Juan Carlos Aguilar  62 62
-      32      Cannon Kingsley       vs       Kody Pearson         Thu @ 11:30
+      32      Cannon Kingsley      def.      Kody Pearson         36 76(2) 61
       32      Alex Kotzen          def.  (9) Hamish Stewart       76(3) 63
       32  (4) Finn Reynolds        def. (LL) Joshua Lapadat       64 26 63
       32      Mason Beiler         def.  (9) Connor Thomson       16 64 61
       32      Jacob Bickersteth    def.  (8) Philip Henning       60 26 64
-      32      August Holmgren       vs   (9) Micah Braswell       Thu @ 13:00
-      32      Florian Broska        vs   (2) Johannus Monday      Thu @ 13:00
+      32      August Holmgren      def.  (9) Micah Braswell       64 62
+      32  (2) Johannus Monday      def.      Florian Broska       61 76(5)
       64  (1) Daniel Rodrigues     def.      Tyler Zink           63 64
       64      Ben Shelton          def.      Martim Prata         64 62
       64  (9) Ronnie Hohmann       def.  (Q) Francois Musitelli   36 63 64
@@ -795,14 +916,22 @@
       64      Florian Broska       def.  (Q) Trey Hilderbrand     61 63
       64  (2) Johannus Monday      def.  (Q) Tim Zeitvogel        46 63 62
   > Consolation
+      16      Tyler Zink            vs  (LL) Justin Barki         Fri @ 10:00
+      16  (Q) Henry Schulenburg     vs       James Davis          Fri @ 10:00
+      16  (3) Luc Fomba             vs   (9) MAtej Vocel          Fri @ 10:30
+      16      Raphael Lambling      vs   (Q) Tadeas Paroulek      Fri @ 10:30
+      16  (Q) Eric Hadigian         vs   (7) Andres Andrade       Fri @ 11:00
+      16  (Q) Chris Rodesch         vs   (Q) Toby Samuel          Fri @ 10:30
+      16      Axel Nefve            vs   (Q) Tad McClean          Fri @ 11:00
+      16      Karl Poling           vs   (Q) Tim Zeitvogel        Fri @ 11:30
      32Q      Tyler Zink           def.      Martim Prata         75 75
      32Q (LL) Justin Barki         def.  (Q) Francois Musitelli   52 Ret.
      32Q  (Q) Henry Schulenburg    def. (LL) Emmanuel Coste       Walkover
-     32Q      James Davis           vs       Stefan Hampe         Thu @ 12:00
+     32Q      James Davis          def.      Stefan Hampe         46 62 63
      32Q  (3) Luc Fomba            def.      Brian Cernoch        62 75
      32Q  (9) MAtej Vocel          def.      Jonas Eriksson Zive… 64 62
      32Q      Raphael Lambling     def.      Nemanja Malesevic    Walkover
-     32Q  (9) Tyler Stice           vs   (Q) Tadeas Paroulek      Thu @ 12:30
+     32Q  (Q) Tadeas Paroulek      def.  (9) Tyler Stice          61 61
      32Q  (Q) Eric Hadigian        def.      Marcus McDaniel      64 75
      32Q  (7) Andres Andrade       def.      Franco Capalbo       62 75
      32Q  (Q) Chris Rodesch        def.      Luca Maldoner        64 62
@@ -2479,6 +2608,7 @@
       QQ     Wallace Brewer       def.     Pedro Molero         85
  > Flight B
   > Main
+       F     Clayborne Fudge      def.     Colin Hartman        16 76(3) 64
       SF     Colin Hartman        def.     Anderson Dulaney     76(6) 16 [8]
       SF     Clayborne Fudge      def.     Jackson Ward         61 60
       QF     Anderson Dulaney     def.     Will McCullough      75 61

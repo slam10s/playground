@@ -4,20 +4,20 @@
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
+- 10/7/2021 - [Bulldawg Invitational](#21-11157) ([Results](#21-11157) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Draws</a>)  
+- 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
+- 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
+- 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Bulldawg Invitational</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
 
 **Upcoming Tournaments**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Florida Division I - Bedford Cup, Men 2021</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Loyola Classic</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">River City Tennis Open</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">C.L Varner Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Lander Invitational</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Wallach Invitational 2021</a>  
@@ -32,14 +32,18 @@
  Men's Open Doubles
  > Main Draw
   > Main
-      16 (LL) Ciamarra/Harper       vs       Boulais/Trotter      Thu @ 13:30
-      16  (5) Charlton/Vandecaste…  vs   (Q) Rotsaert/Fery        Thu @ 14:30
-      16  (4) Murgett/McClean       vs       Davis/Summers        Thu @ 16:00
-      16      Motl/Slump            vs       Dostanic/Frye        Thu @ 14:30
-      16  (Q) Zhang/Heller          vs   (Q) Cash/Vocel           Thu @ 16:00
-      16      Lah/Bass              vs       Cernoch/Kiger        Thu @ 16:00
-      16 (LL) Stewart/Henning       vs   (5) Martin/McDaniel      Thu @ 15:00
-      16  (Q) Reynolds/Lithen       vs   (Q) Hudd/Mitsui          Thu @ 14:30
+      QF      Boulais/Trotter       vs   (5) Charlton/Vandecaste… Fri @ 14:30
+      QF      Davis/Summers         vs       Dostanic/Frye        Fri @ 15:00
+      QF  (Q) Cash/Vocel            vs       Lah/Bass             Fri @ 15:00
+      QF (LL) Stewart/Henning       vs   (Q) Hudd/Mitsui          Fri @ 14:30
+      16      Boulais/Trotter      def. (LL) Ciamarra/Harper      62 26 [7]
+      16  (5) Charlton/Vandecaste… def.  (Q) Rotsaert/Fery        61 64
+      16      Davis/Summers        def.  (4) Murgett/McClean      76(5) 62
+      16      Dostanic/Frye        def.      Motl/Slump           63 61
+      16  (Q) Cash/Vocel           def.  (Q) Zhang/Heller         64 62
+      16      Lah/Bass             def.      Cernoch/Kiger        63 62
+      16 (LL) Stewart/Henning      def.  (5) Martin/McDaniel      46 63 [7]
+      16  (Q) Hudd/Mitsui          def.  (Q) Reynolds/Lithen      57 76(5) [9]
       32 (LL) Ciamarra/Harper      def.  (1) Hilderbrand/Pavel    76(3) 36 [8]
       32      Boulais/Trotter      def.  (Q) Rodesch/Goetz        63 62
       32  (5) Charlton/Vandecaste… def.  (Q) Malbasic/Hoeyeraal   36 62 [6]
@@ -57,12 +61,16 @@
       32  (Q) Reynolds/Lithen      def. (LL) Keremedchiev/Klov-N… 64 64
       32  (Q) Hudd/Mitsui          def.  (2) Rodrigues/Thomson    67(3) 76(5) [5]
   > Consolation
-     16Q  (1) Hilderbrand/Pavel     vs   (Q) Rodesch/Goetz        Thu @ 14:00
-     16Q  (Q) Malbasic/Hoeyeraal    vs       Barki/Bosancic       Thu @ 13:30
-     16Q      Bryde/Croyder         vs       Gale/Gaber           Thu @ 15:30
-     16Q  (5) Johns/Sculley         vs   (Q) Siimar/Shelbayh      Thu @ 14:00
-     16Q      Pearson/Di Marco      vs   (5) Martinez/Han         Thu @ 15:30
-     16Q      Maldoner/Vidal        vs   (3) Stevenson/Cutting    Thu @ 14:30
+      QF  (Q) Rodesch/Goetz         vs   (Q) Malbasic/Hoeyeraal   Fri @ 16:00
+      QF      Bryde/Croyder         vs   (5) Johns/Sculley        Fri @ 16:00
+      QF      Pearson/Di Marco      vs   (3) Stevenson/Cutting    Fri @ 15:30
+      QF      Eriksson Ziverts/Mi…  vs  (LL) Keremedchiev/Klov-N… Fri @ 15:30
+     16Q  (Q) Rodesch/Goetz        def.  (1) Hilderbrand/Pavel    64 75
+     16Q  (Q) Malbasic/Hoeyeraal   def.      Barki/Bosancic       46 63 [10]
+     16Q      Bryde/Croyder        def.      Gale/Gaber           Walkover
+     16Q  (5) Johns/Sculley        def.  (Q) Siimar/Shelbayh      76(10) 64
+     16Q      Pearson/Di Marco     def.  (5) Martinez/Han         63 36 [11]
+     16Q  (3) Stevenson/Cutting    def.      Maldoner/Vidal       75 16 [7]
      16Q      Eriksson Ziverts/Mi… def.      Hohmann/Lobak        Walkover
      16Q (LL) Keremedchiev/Klov-N… def.  (2) Rodrigues/Thomson    Walkover
  > Qualifying
@@ -276,6 +284,77 @@
      QF     Jaunmarti/Clary   def.     Martins/Dorval      83
      QF     Arizpe/Barcelo    def.     Cox/Cramer          82
      QF (2) Yanni/Martinez    def.     Cashin/Weber        81
+~~~
+
+<a name="21-11157"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Bulldawg Invitational
+  Dates: Oct 7-10, 2021
+  Host: University Of Georgia (M)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles Magill Draw
+  > East
+     QF (1) Galka/Nolan           vs      Paulsell/Grevelius Fri @ 14:00
+     QF     Diaz/Wallner          vs      Troost/Ross        Fri @ 14:00
+     QF     Perez Pena/Johnston   vs      Guerrero/Schelcher Fri @ 14:00
+     QF     Beasley/Story         vs  (2) Martin/Danilchenko Fri @ 14:00
+ > Doubles Red Draw
+  > East
+     QF (1) Ross/Gray             vs      Vasser/Jalif       Fri @ 14:30
+     QF     Klopper/Robb-Wilcox   vs      Rasamatov/Ozernoy  Fri @ 14:30
+     QF     Savva/Sokolovskiy     vs      Jankulovski/Aubone Fri @ 14:30
+     QF     Falck/Mallory         vs  (2) Cadonau/Engelhardt Fri @ 14:30
+ > Doubles Black Draw
+  > East
+     QF     Guerrero Alvarez/Ta…  vs      Connel/Mitric      Fri @ 14:30
+     QF     Ilie/Quiles           vs      Simon/Vannemreddy  Fri @ 14:30
+     QF     Dransfeld/Sandoval    vs  (2) Roelofse/Westling  Fri @ 14:30
+~~~
+
+<a name="21-80207"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Florida Division I - Bedford Cup, Men 2021
+  Dates: Oct 8-10, 2021
+  Host: Florida State University (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > East
+     16  Hillhouse/Thiergard   vs   Barton/Nunez         Fri @ 08:30
+     16  Robbins/Sarrio        vs   Silagy/Dous Karpens… Fri @ 08:30
+     16  Crespo/Hartenstein    vs   Stefanacci/Maciel    Fri @ 08:30
+     16  Krolo/Huempfner       vs   Hamel/Marques        Fri @ 08:30
+ > Flight B
+  > East
+     QF  Gomez-Montesa/Tudor…  vs   Laka/Moses           Fri @ 08:30
+     QF  Carroll/Kotan         vs   Petrovic/Thongoana   Fri @ 08:30
+     16  Mohandoss/Pisane      vs   Duarte/Ellis         Fri @ 08:30
+     16  Gennes/Penzkofer      vs   Jadoun/Stodder       Fri @ 08:30
+~~~
+
+<a name="21-99710"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  River City Tennis Open
+  Dates: Oct 8-10, 2021
+  Host: University Of Richmond (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Yellow
+  > Main
+     R1  Sadek/Josserand    vs   Fourticq/Khromchenko Fri @ 16:30
+ > Pink
+  > Main
+     R1  Balsekar/Hagen     vs   Suarez/Prokurat      Fri @ 16:30
+ > Grey
+  > Main
+     R1  Erwin/Warning      vs   Grande/Suh           Fri @ 16:30
+ > Black
+  > Main
+     R1  Jurist/Zelikovsky  vs   Larke/Limon          Fri @ 16:30
 ~~~
 
 Return to the [Top](./men_doubles_2140.md) &#124; [Home Page](../../index.md)
