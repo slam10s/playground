@@ -12,6 +12,7 @@
 - 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
 - 10/1/2021 - [Eagles Invitational](#21-42606) ([Results](#21-42606) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternMichiganUnivW/Tournaments/Overview/47B6E347-F9DC-455F-9E51-1E407EB949E4" target="_blank">Draws</a>)  
 - 10/1/2021 - [Florida Division 1 Bedford Cup, Women](#21-60580) ([Results](#21-60580) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthFloridaW/Tournaments/Overview/C3845735-BCB5-44DE-9B50-9FA2F75B1EE9" target="_blank">Draws</a>)  
+- 10/1/2021 - [HEB Invite](#21-50278) ([Results](#21-50278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityW/Tournaments/Overview/DED0835D-381B-47D9-8471-55474B03566B" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Atlantic Women's Regional Championship](#21-03077) ([Results](#21-03077) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/EB66D8AE-2B72-4A34-AF59-E6C67DA9A6D8" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Northeasts Regional Championship](#21-17427) ([Results](#21-17427) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">Draws</a>)  
@@ -19,6 +20,7 @@
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [UH Fall Invitational](#21-25235) ([Results](#21-25235) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHoustonW/Tournaments/Overview/81CEAFCF-07E3-42B0-BDDF-CB7D5F8E881B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Utah Invite](#21-47623) ([Results](#21-47623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahW/Tournaments/Overview/7AF1E32C-8707-429F-A3C2-89B494D4EF50" target="_blank">Draws</a>)  
+- 10/2/2021 - [WCU Fall Invite](#21-43987) ([Results](#21-43987) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternCarolinaUniversityW/Tournaments/Overview/B2620864-02CA-45C5-97AD-B736DD738210" target="_blank">Draws</a>)  
 - 10/1/2021 - [Wolverine Invitational](#21-66025) ([Results](#21-66025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/6AF18612-0DD9-474B-9A98-4C630E99D501" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
@@ -34,12 +36,11 @@
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Division III Women's Midwest ITA Regional Championships</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Division III Women's Northwest ITA Regional Championships</a>  
 - 9/27/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">BU Invitational</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityW/Tournaments/Overview/DED0835D-381B-47D9-8471-55474B03566B" target="_blank">HEB Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/19C5EAFF-4E4C-4DBD-83F9-4FE76D915740" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Kitty Harrison invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
-- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternCarolinaUniversityW/Tournaments/Overview/B2620864-02CA-45C5-97AD-B736DD738210" target="_blank">WCU Fall Invite</a>  
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Junior College Men's and Women's Northern California ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
@@ -1281,6 +1282,75 @@
   Dates: Oct 1-3, 2021
   Host: Baylor University (W)
 ═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Thursday Flight A
+  > Main
+     16  Renee McBryde        def.  Khim Iglupas         46 63 [8]
+     16  Jeanette Mireles     def.  Parker Fry           62 63
+     16  Salma Ziouti         def.  Ellie Pittman        75 57 [8]
+     16  Isa Di Laura         def.  Kayla Meraz          76(4) 46 [3]
+     16  Mary Grace Armistead def.  Kayal Gownder        76(4) 75
+     16  Belen Nevenhoven     def.  Elise Robbins        75 63
+     16  Kirsten Prelle       def.  Olivia Malm          61 64
+ > Friday Flight A
+  > Main
+     32  Jeanette Mireles     def.  Laia Conde Monfort   61 64
+     32  Valeryia Rozenkova   def.  Renee McBryde        61 76(5)
+     32  Maria Berlanga       def.  Isa Di Laura         64 62
+     32  Lian Benedejcic      def.  Ellie Pittman        61 64
+     32  Ana Paula Naranjo M… def.  Elise Robbins        60 61
+     32  Lily Hutchings       def.  Kayal Gownder        63 61
+     32  Salma Ziouti         def.  Tatum Rice           75 63
+     32  Lenka Stara          def.  Parker Fry           62 36 [5]
+     32  Kirsten Prelle       def.  Kelly Keller         26 76(3) [5]
+     32  Morgan Cross         def.  Mary Grace Armistead 60 61
+     32  Kayla Meraz          def.  Laura Rijkers        46 62 [2]
+     32  Grace ODonnell       def.  Belen Nevenhoven     75 62
+ > Friday Flight B
+  > Main
+     16  Melany Krywoj        def.  Salma Ziouti         61 76(2)
+     16  Isabella Harvision   def.  Kirsten Prelle       62 61
+     16  Paula Baranano       def.  Mary Grace Armistead 60 60
+     16  Parker Fry           def.  Ana Carmen Zamburek  46 61 [7]
+     16  Olivia Malm          def.  Kayla Meraz          64 60
+     16  Brooke Thompson      def.  Belen Nevenhoven     36 63 [4]
+ > Saturday Flight A
+  > Main
+     32  Tatum Rice           def.  Jeanette Mireles     36 63 [6]
+     32  Lenka Stara          def.  Renee McBryde        64 62
+     32  Morgan Cross         def.  Ellie Pittman        64 63
+     32  Isa Di Laura         def.  Grace ODonnell       63 62
+     32  Kayal Gownder        def.  Presley Southerland  64 57 [4]
+     32  Elise Robbins        def.  Claire Slaughter     63 61
+     32  Laia Conde Monfort   def.  Salma Ziouti         62 76(7)
+     32  Parker Fry           def.  Valeryia Rozenkova   62 61
+     32  Maria Berlanga       def.  Kirsten Prelle       57 62 [8]
+     32  Lian Benedejcic      def.  Kayla Meraz          61 61
+     32  Ana Paula Naranjo M… def.  Mary Grace Armistead 64 46 [4]
+     32  Belen Nevenhoven     def.  Lily Hutchings       64 06 [10]
+ > Saturday Flight B
+  > Main
+     16  Tatum Rice           def.  Melany Krywoj        61 36 [10]
+     16  Paula Baranano       def.  Kelly Keller         75 64
+     16  Lenka Stara          def.  Isabella Harvision   63 46 [5]
+     16  Grace ODonnell       def.  Brooke Thompson      62 62
+     16  Morgan Cross         def.  Ana Carmen Zamburek  61 26 [8]
+     16  Olivia Malm          def.  Laura Rijkers        64 75
+ > Sunday Flight A
+  > Main
+     32  Jeanette Mireles     def.  Melany Krywoj        26 63 [8]
+     32  Paula Baranano       def.  Renee McBryde        46 63 [7]
+     32  Ana Carmen Zamburek  def.  Isa Di Laura         76(3) 75
+     32  Olivia Malm          def.  Ellie Pittman        62 75
+     32  Brooke Thompson      def.  Elise Robbins        64 63
+     32  Kayal Gownder        def.  Parker Fry           46 75 [3]
+     32  Kayla Meraz          def.  Claire Slaughter     60 60
+     32  Kelly Keller         def.  Valeryia Rozenkova   60 62
+     32  Laia Conde Monfort   def.  Tatum Rice           62 64
+     32  Morgan Cross         def.  Lian Benedejcic      63 63
+     32  Ana Paula Naranjo M… def.  Laura Rijkers        64 62
+     32  Grace ODonnell       def.  Lily Hutchings       36 64 [6]
+     32  Leonor Oliviera      def.  Presley Southerland  61 61
 ~~~
 
 <a name="21-03077"></a>
@@ -2029,6 +2099,41 @@
      32  Megan Davies     def.  Carolina Millan     64 64
      32  Megan Lombardi   def.  Zeynep Ozturk       61 60
      32  Nadja Straehle   def.  Brooke Demerath     64 60
+~~~
+
+<a name="21-43987"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  WCU Fall Invite
+  Dates: Oct 2-3, 2021
+  Host: Western Carolina University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day 1 Singles
+  > Main
+     32  Kata Foldeak        def.  Juana Zambrano       63 64
+     32  Jacy Smith          def.  Bianca Andersen      62 62
+     32  Anna Uljanov        def.  Evelin Gouveia       64 60
+     32  Antonella Benavides def.  MaryWynn Brannon     60 60
+     32  Miray Konar         def.  Sally Brannon        61 60
+     32  Teodora Ristic      def.  Jess Leeman          61 62
+     32  Manon Delsol        def.  Claudia Sanchez Que… 64 63
+     32  Beth Lacey          def.  Elin Hellberg        63 62
+     32  Maria Jardim        def.  Alexa Wilson         64 63
+     32  Courtney Fyvie      def.  Madison Dennett      64 62
+     32  Elise Semmartin     def.  Valentina De Sousa   46 64 [12]
+ > Day 2 Singles
+  > Main
+     32  Jacy Smith          def.  Jess Leeman          63 16 [5]
+     32  Kata Foldeak        def.  Claudia Sanchez Que… 26 64 [7]
+     32  Anna Uljanov        def.  Alexa Wilson         62 64
+     32  Miray Konar         def.  Madison Dennett      62 62
+     32  Antonella Benavides def.  Valentina De Sousa   46 60 [3]
+     32  Teodora Ristic      def.  Juana Zambrano       75 60
+     32  Manon Delsol        def.  Bianca Andersen      60 60
+     32  Elin Hellberg       def.  Evelin Gouveia       60 60
+     32  Maria Jardim        def.  Sally Brannon        60 61
+     32  MaryWynn Brannon    def.  Katie Watts          75 63
 ~~~
 
 <a name="21-66025"></a>

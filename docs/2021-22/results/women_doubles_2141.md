@@ -14,22 +14,29 @@
 
 <a name="21-27941"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   C.L Varner Invitational
   Dates: Oct 8-12, 2021
   Host: Rollins College (M)
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Women Doubles A
   > East
-     QF  Groves/Wasil          vs      Chavarria/Misdorp    Fri @ 13:00
-     QF  Espinal/Follin-Arbe…  vs      Greco/Renovales      Fri @ 13:00
-     QF  Salerno/Vidgren       vs  (2) Groth/Borg           Fri @ 13:00
+     SF (1) Dovnik/Kozar         def.  Groves/Wasil         63
+     SF (2) Groth/Borg           def.  Espinal/Follin-Arbe… 75
+     QF     Groves/Wasil         def.  Chavarria/Misdorp    64
+     QF     Espinal/Follin-Arbe… def.  Greco/Renovales      61
+     QF (2) Groth/Borg           def.  Salerno/Vidgren      63
+  > West
+     SF     Salerno/Vidgren      def.  Greco/Renovales      62
  > Women Doubles B
   > East
-     QF  Collado Cordon/Yaro…  vs      Bolivar Garces/Robi… Fri @ 13:00
-     QF  Goncharov/Montero     vs      Bryant/Bazilevych    Fri @ 13:00
-     QF  Triska/Reichert       vs      McKay/Vlasova        Fri @ 13:00
+     SF     Goncharov/Montero    def.  McKay/Vlasova        76(6)
+     QF     Collado Cordon/Yaro… def.  Bolivar Garces/Robi… 76(5)
+     QF     Goncharov/Montero    def.  Bryant/Bazilevych    76(6)
+     QF     McKay/Vlasova        def.  Triska/Reichert      60
+  > West
+     SF     Bryant/Bazilevych    def.  Triska/Reichert      60
 ~~~
 
 Return to the [Top](./women_doubles_2141.md) &#124; [Home Page](../../index.md)

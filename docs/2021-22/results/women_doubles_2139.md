@@ -11,6 +11,7 @@
 - 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
 - 10/1/2021 - [Eagles Invitational](#21-42606) ([Results](#21-42606) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternMichiganUnivW/Tournaments/Overview/47B6E347-F9DC-455F-9E51-1E407EB949E4" target="_blank">Draws</a>)  
 - 10/1/2021 - [Florida Division 1 Bedford Cup, Women](#21-60580) ([Results](#21-60580) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthFloridaW/Tournaments/Overview/C3845735-BCB5-44DE-9B50-9FA2F75B1EE9" target="_blank">Draws</a>)  
+- 10/1/2021 - [HEB Invite](#21-50278) ([Results](#21-50278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityW/Tournaments/Overview/DED0835D-381B-47D9-8471-55474B03566B" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Atlantic Women's Regional Championship](#21-03077) ([Results](#21-03077) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/EB66D8AE-2B72-4A34-AF59-E6C67DA9A6D8" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Northeasts Regional Championship](#21-17427) ([Results](#21-17427) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">Draws</a>)  
@@ -18,6 +19,7 @@
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [UH Fall Invitational](#21-25235) ([Results](#21-25235) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHoustonW/Tournaments/Overview/81CEAFCF-07E3-42B0-BDDF-CB7D5F8E881B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Utah Invite](#21-47623) ([Results](#21-47623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahW/Tournaments/Overview/7AF1E32C-8707-429F-A3C2-89B494D4EF50" target="_blank">Draws</a>)  
+- 10/2/2021 - [WCU Fall Invite](#21-43987) ([Results](#21-43987) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternCarolinaUniversityW/Tournaments/Overview/B2620864-02CA-45C5-97AD-B736DD738210" target="_blank">Draws</a>)  
 - 10/1/2021 - [Wolverine Invitational](#21-66025) ([Results](#21-66025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/6AF18612-0DD9-474B-9A98-4C630E99D501" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
@@ -34,12 +36,11 @@
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Division III Women's Northwest ITA Regional Championships</a>  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Division III Women's Southeast ITA Regional Championships</a>  
 - 9/27/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">BU Invitational</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityW/Tournaments/Overview/DED0835D-381B-47D9-8471-55474B03566B" target="_blank">HEB Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/19C5EAFF-4E4C-4DBD-83F9-4FE76D915740" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Kitty Harrison invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
-- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternCarolinaUniversityW/Tournaments/Overview/B2620864-02CA-45C5-97AD-B736DD738210" target="_blank">WCU Fall Invite</a>  
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Junior College Men's and Women's Northern California ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
@@ -556,6 +557,71 @@
      SF     Nash/Oliveira        def.     Mjos/Yaylali         61
 ~~~
 
+<a name="21-50278"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  HEB Invite
+  Dates: Oct 1-3, 2021
+  Host: Baylor University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Thursday Flight A
+  > Main
+     QF  Harvision/Krywoj     def.  Ziouti/Fry           62
+     QF  Baranano/Malm        def.  Iglupas/Meraz        76(3)
+     QF  Armistead/Prelle     def.  Thompson/Zamburek    61
+ > Thursday Flight B
+  > Main
+     QF  McBryde/Di Laura     def.  Prelle/Fry           64
+     QF  Pittman/Mireles      def.  Nevenhoven/Ziouti    62
+     QF  Gownder/Robbins      def.  Iglupas/Armistead    62
+ > Friday Flight A
+  > Main
+     QF  McBryde/Mireles      def.  Cross/Rice           76(6)
+     QF  Rijkers/Stara        def.  Pittman/Robbins      62
+     QF  Gownder/Di Laura     def.  ODonnell/Keller      63
+ > Friday Flight B
+  > Main
+     QF  Berlanga/Rozenkova   def.  Prelle/Meraz         60
+     QF  Naranjo Martinez Ko… def.  Iglupas/Armistead    64
+     QF  Oliviera/Conde Monf… def.  Fry/Nevenhoven       75
+ > Friday Flight C
+  > Main
+     QF  Harvision/Krywoj     def.  Berlanga/Rozenkova   64
+     QF  Naranjo Martinez Ko… def.  Baranano/Malm        62
+     QF  Thompson/Zamburek    def.  Oliviera/Conde Monf… 63
+ > Saturday Flight A
+  > Main
+     QF  Berlanga/Rozenkova   def.  McBryde/Mireles      76(3)
+     QF  Naranjo Martinez Ko… def.  Gownder/Pittman      63
+     QF  Oliviera/Conde Monf… def.  Di Laura/Robbins     64
+ > Saturday Flight B
+  > Main
+     QF  Cross/Rice           def.  Fry/Iglupas          62
+     QF  Rijkers/Stara        def.  Prelle/Nevenhoven    61
+     QF  Ziouti/Meraz         def.  ODonnell/Keller      64
+ > Saturday Flight C
+  > Main
+     QF  Harvision/Krywoj     def.  McBryde/Pittman      75
+     QF  Baranano/Malm        def.  Di Laura/Mireles     62
+     QF  Gownder/Robbins      def.  Thompson/Zamburek    76(3)
+ > Saturday Flight D
+  > Main
+     QF  Prelle/Ziouti        def.  Berlanga/Rozenkova   76(5)
+     QF  Naranjo Martinez Ko… def.  Nevenhoven/Ziouti    64
+     QF  Armistead/Meraz      def.  Oliviera/Conde Monf… 64
+ > Sunday Flight A
+  > Main
+     QF  Cross/Rice           def.  Zamburek/Krywoj      64
+     QF  Rijkers/Stara        def.  Baranano/Malm        63
+     QF  Thompson/Ziouti      def.  ODonnell/Keller      62
+ > Sunday Flight B
+  > Main
+     QF  McBryde/Mireles      def.  Prelle/Iglupas       63
+     QF  Pittman/Di Laura     def.  Fry/Meraz            63
+     QF  Gownder/Robbins      def.  Nevenhoven/Armistead 64
+~~~
+
 <a name="21-03077"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -923,6 +989,40 @@
      16  Ukita/Morett      def.  Chen/Kageyama     87(5)
      16  Huang/Huang       def.  Semenik/Kuo       84
      16  Toriumi/OConnor   def.  Ferreira/Lombardi 87(2)
+~~~
+
+<a name="21-43987"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  WCU Fall Invite
+  Dates: Oct 2-3, 2021
+  Host: Western Carolina University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Doubles Round 1
+  > Main
+     16  Smith/Pezzuco        def.  Ristic/Delsol     64
+     16  Uljanov/Foldeak      def.  Jardim/Hellberg   63
+     16  King/Konar           def.  Fyvie/Semmartin   64
+     16  Piedra/Sanchez Ques… def.  Zambrano/Andersen 62
+     16  Lacey/Leeman         def.  Pabon/Gouveia     61
+     16  Wilson/Dennett       def.  Brannon/Brannon   60
+ > Doubles Round 2
+  > Main
+     16  Piedra/Sanchez Ques… def.  Pezzuco/Konar     64
+     16  Uljanov/Foldeak      def.  Lacey/Leeman      64
+     16  Wilson/De Sousa      def.  King/Benavides    62
+     16  Ristic/Delsol        def.  Zambrano/Andersen 76(4)
+     16  Jardim/Hellberg      def.  Brannon/Brannon   60
+     16  Watts/Roslund        def.  Pabon/Gouveia     62
+ > Doubles Round 3
+  > Main
+     16  Smith/Pezzuco        def.  Zambrano/Andersen 75
+     16  Uljanov/Foldeak      def.  Brannon/Brannon   60
+     16  King/Benavides       def.  Pabon/Gouveia     63
+     16  Piedra/Sanchez Ques… def.  Ristic/Delsol     64
+     16  Lacey/Leeman         def.  Jardim/Hellberg   64
+     16  Wilson/De Sousa      def.  Fyvie/Semmartin   60
 ~~~
 
 <a name="21-66025"></a>

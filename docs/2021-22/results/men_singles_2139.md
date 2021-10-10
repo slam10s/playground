@@ -13,6 +13,7 @@
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/1/2021 - [MSU Bulldog Invitational](#21-39463) ([Results](#21-39463) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77" target="_blank">Draws</a>)  
+- 10/1/2021 - [PNW Invitational](#21-08428) ([Results](#21-08428) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">Draws</a>)  
 - 10/1/2021 - [South Carolina Men's Collegiate Championships](#21-25425) ([Results](#21-25425) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C61DDA49-6047-4361-9048-8658AEA3B344" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
@@ -31,7 +32,7 @@
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Arizona Wilcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Beeman/Drobac Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">PNW Invitational</a>  
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Division III Men's Northeast ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonM/Tournaments/Overview/8701EF80-DDC5-4BB0-861B-552EB3F1C862" target="_blank">Division III Men’s Southeast ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Junior College Men's and Women's Northern California ITA Regional Championships</a>  
@@ -859,14 +860,21 @@
  Men's Open Singles
  > Main Draw
   > Main
-      16      Ben Shelton           vs   (9) Ronnie Hohmann       Fri @ 09:00
-      16      Alexandre Reco        vs   (Q) Jj Tracy             Fri @ 09:00
-      16  (Q) Stefan Dostanic       vs       Clement Chidekh      Fri @ 09:00
-      16  (6) Gabriel Diallo        vs       Andres Martin        Fri @ 09:00
-      16  (Q) Andre Ilagan          vs       Cannon Kingsley      Fri @ 09:00
-      16      Alex Kotzen           vs   (4) Finn Reynolds        Fri @ 09:00
-      16      Mason Beiler          vs       Jacob Bickersteth    Fri @ 09:00
-      16      August Holmgren       vs   (2) Johannus Monday      Fri @ 09:00
+       F      Ben Shelton           vs       August Holmgren      Sun @ 10:00
+      SF      Ben Shelton          def.      Clement Chidekh      63 60
+      SF      August Holmgren      def.  (Q) Andre Ilagan         64 63
+      QF      Ben Shelton          def.  (Q) Jj Tracy             76(7) 75
+      QF      Clement Chidekh      def.  (6) Gabriel Diallo       61 36 64
+      QF  (Q) Andre Ilagan         def.      Alex Kotzen          16 61 62
+      QF      August Holmgren      def.      Mason Beiler         62 64
+      16      Ben Shelton          def.  (9) Ronnie Hohmann       63 62
+      16  (Q) Jj Tracy             def.      Alexandre Reco       76(5) 46 64
+      16      Clement Chidekh      def.  (Q) Stefan Dostanic      46 63 63
+      16  (6) Gabriel Diallo       def.      Andres Martin        76(1) 62
+      16  (Q) Andre Ilagan         def.      Cannon Kingsley      64 62
+      16      Alex Kotzen          def.  (4) Finn Reynolds        63 64
+      16      Mason Beiler         def.      Jacob Bickersteth    64 57 61
+      16      August Holmgren      def.  (2) Johannus Monday      46 76(5) 63
       32      Ben Shelton          def.  (1) Daniel Rodrigues     63 20 Ret.
       32  (9) Ronnie Hohmann       def.      Arthur Fery          63 76(5)
       32      Alexandre Reco       def.  (5) Trent Bryde          76(4) 60
@@ -916,14 +924,21 @@
       64      Florian Broska       def.  (Q) Trey Hilderbrand     61 63
       64  (2) Johannus Monday      def.  (Q) Tim Zeitvogel        46 63 62
   > Consolation
-      16      Tyler Zink            vs  (LL) Justin Barki         Fri @ 10:00
-      16  (Q) Henry Schulenburg     vs       James Davis          Fri @ 10:00
-      16  (3) Luc Fomba             vs   (9) MAtej Vocel          Fri @ 10:30
-      16      Raphael Lambling      vs   (Q) Tadeas Paroulek      Fri @ 10:30
-      16  (Q) Eric Hadigian         vs   (7) Andres Andrade       Fri @ 11:00
-      16  (Q) Chris Rodesch         vs   (Q) Toby Samuel          Fri @ 10:30
-      16      Axel Nefve            vs   (Q) Tad McClean          Fri @ 11:00
-      16      Karl Poling           vs   (Q) Tim Zeitvogel        Fri @ 11:30
+       F  (9) MAtej Vocel           vs   (Q) Chris Rodesch        Sun @ 09:00
+      SF  (9) MAtej Vocel          def.  (Q) Henry Schulenburg    76(3) 61
+      SF  (Q) Chris Rodesch        def.      Karl Poling          16 63 64
+      QF  (Q) Henry Schulenburg    def. (LL) Justin Barki         43 Ret.
+      QF  (9) MAtej Vocel          def.  (Q) Tadeas Paroulek      46 62 64
+      QF  (Q) Chris Rodesch        def.  (7) Andres Andrade       62 64
+      QF      Karl Poling          def.  (Q) Tad McClean          63 60
+      16 (LL) Justin Barki         def.      Tyler Zink           76(5) 62
+      16  (Q) Henry Schulenburg    def.      James Davis          63 61
+      16  (9) MAtej Vocel          def.  (3) Luc Fomba            76 63
+      16  (Q) Tadeas Paroulek      def.      Raphael Lambling     64 61
+      16  (7) Andres Andrade       def.  (Q) Eric Hadigian        60 60
+      16  (Q) Chris Rodesch        def.  (Q) Toby Samuel          62 62
+      16  (Q) Tad McClean          def.      Axel Nefve           62 75
+      16      Karl Poling          def.  (Q) Tim Zeitvogel        64 31 Ret.
      32Q      Tyler Zink           def.      Martim Prata         75 75
      32Q (LL) Justin Barki         def.  (Q) Francois Musitelli   52 Ret.
      32Q  (Q) Henry Schulenburg    def. (LL) Emmanuel Coste       Walkover
@@ -1635,6 +1650,90 @@
      32  Gregor Ramskogler   def.  Patrick Kaukovalta 75 76(2)
      32  Joao Ferreira       def.  Alberto Colas      75 36 61
      32  Davide Tortora      def.  Rudi Christiansen  64 64
+~~~
+
+<a name="21-08428"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  PNW Invitational
+  Dates: Oct 1-3, 2021
+  Host: George Fox University (M)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > A Singles Draw
+  > East
+      F  Francisco Gay        def.  Bruno Casino         62 46 75
+     SF  Francisco Gay        def.  Will Leach           36 63 [5]
+     SF  Bruno Casino         def.  Matteo Masala        62 75
+     QF  Will Leach           def.  Francisco Bascon     67 75 [7]
+     QF  Francisco Gay        def.  Veselin Kiselkov     60 36 [10]
+     QF  Bruno Casino         def.  Luke Lemaitre        64 36 [6]
+     QF  Matteo Masala        def.  Filip Stipic         36 64 [6]
+     16  Francisco Bascon     def.  Quentin Gonzalez     61 36 [8]
+     16  Will Leach           def.  Julian Worn          63 63
+     16  Francisco Gay        def.  Reyn Miyagawa        61 63
+     16  Veselin Kiselkov     def.  Nils Plutat          67(4) 64 [8]
+     16  Bruno Casino         def.  Mason Tran           75 36 [7]
+     16  Luke Lemaitre        def.  Tommy Hsu            63 62
+     16  Matteo Masala        def.  Sam De Vries         62 63
+     16  Filip Stipic         def.  Rox Rogers           46 61 [11]
+  > West
+      F  Mason Tran           def.  Nils Plutat          36 64 [5]
+     SF  Nils Plutat          def.  Julian Worn          Walkover
+     SF  Mason Tran           def.  Rox Rogers           76 36 [6]
+     QF  Julian Worn          def.  Quentin Gonzalez     62 62
+     QF  Nils Plutat          def.  Reyn Miyagawa        64 76(3)
+     QF  Mason Tran           def.  Tommy Hsu            36 61 [5]
+     QF  Rox Rogers           def.  Sam De Vries         76(8) 26 [4]
+  > North
+     SF  Filip Stipic         def.  Luke Lemaitre        64 46 [4]
+  > South
+     SF  Sam De Vries         def.  Quentin Gonzalez     63 63
+     SF  Tommy Hsu            def.  Reyn Miyagawa        62 62
+ > B Draw Singles
+  > East
+      F  Mario Duron          def.  Oliver Richards      64 60
+     SF  Oliver Richards      def.  Oliver Fernandez     64 62
+     SF  Mario Duron          def.  Vivek Ramesh         75 64
+     QF  Oliver Fernandez     def.  Nick Koulisis        63 75
+     QF  Oliver Richards      def.  Alejandro Salvador   63 62
+     QF  Vivek Ramesh         def.  Michael Frank        76(1) 46 [10]
+     QF  Mario Duron          def.  Mats Krause          62 63
+     16  Nick Koulisis        def.  Lars Schmassmann     63 61
+     16  Oliver Richards      def.  Camden Camacho       46 64 [3]
+     16  Alejandro Salvador   def.  Jayden Harrison      64 61
+     16  Michael Frank        def.  Joey Hu              62 62
+     16  Vivek Ramesh         def.  Vahag Pashayan       64 61
+     16  Mats Krause          def.  Koby Murata          67(4) 64 61
+     16  Mario Duron          def.  Ryan Olson           61 63
+  > West
+      F  Joey Hu              def.  Lars Schmassmann     60 46 [8]
+     SF  Lars Schmassmann     def.  Camden Camacho       46 63 [6]
+     SF  Joey Hu              def.  Ryan Olson           46 76(4) [8]
+     QF  Camden Camacho       def.  Jayden Harrison      63 61
+     QF  Joey Hu              def.  Vahag Pashayan       64 76(3)
+     QF  Ryan Olson           def.  Koby Murata          61 20 Ret.
+  > North
+     SF  Michael Frank        def.  Nick Koulisis        75 75
+ > C Singles Draw
+  > East
+      F  Alle Banna           def.  Hunter Fujimori      75 64
+     SF  Hunter Fujimori      def.  Alex Asenov          62 61
+     SF  Alle Banna           def.  Oliver Hall          76(4) 64
+     QF  Alex Asenov          def.  Aidan Rooney         64 63
+     QF  Hunter Fujimori      def.  George Miller        62 75
+     QF  Alle Banna           def.  Joshua Matabuena     62 75
+     QF  Oliver Hall          def.  Jackson Whittaker    63 63
+     16  Aidan Rooney         def.  Andrew Vu            64 63
+     16  Hunter Fujimori      def.  Cooper Rich          62 61
+     16  Joshua Matabuena     def.  Juan Pablo Jaramillo 76(2) 63
+     16  Jackson Whittaker    def.  Matt Weiler          62 60
+  > West
+     SF  Andrew Vu            def.  Cooper Rich          63 61
+     SF  Juan Pablo Jaramillo def.  Matt Weiler          61 76(3)
+  > North
+     SF  George Miller        def.  Aidan Rooney         36 64 [11]
+     SF  Jackson Whittaker    def.  Joshua Matabuena     40 Ret.
 ~~~
 
 <a name="21-25425"></a>

@@ -14,33 +14,48 @@
 
 <a name="21-27941"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   C.L Varner Invitational
   Dates: Oct 8-12, 2021
   Host: Rollins College (M)
-═══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Women Singles A
   > East
-     QF  Natalie Espinal       vs   Kylie Misdorp     Fri @ 14:00
-     QF  Mathilda Vidgren      vs   Georgina Groth    Fri @ 14:00
-     QF  Kayla Greco           vs   Alexandra Borg    Fri @ 14:00
-     QF  Isabella Bolivar Ga…  vs   Nika Kozar        Fri @ 14:00
+     SF  Natalie Espinal      def.  Georgina Groth       75 75
+     SF  Nika Kozar           def.  Kayla Greco          46 75 [5]
+     QF  Natalie Espinal      def.  Kylie Misdorp        62 60
+     QF  Georgina Groth       def.  Mathilda Vidgren     61 62
+     QF  Kayla Greco          def.  Alexandra Borg       Walkover
+     QF  Nika Kozar           def.  Isabella Bolivar Ga… 61 61
+  > West
+     SF  Mathilda Vidgren     def.  Kylie Misdorp        63 67(5) [8]
+     SF  Isabella Bolivar Ga… def.  Alexandra Borg       Walkover
  > Women Singles B
   > East
-     QF  Polina Vlasova        vs   Luisa Renovales   Fri @ 14:00
-     QF  Diane Follin-Arbelet  vs   Florencia Salerno Fri @ 14:00
-     QF  Ericka Chavarria      vs   Kaitlynn Groves   Fri @ 15:30
+     SF  Polina Vlasova       def.  Zala Dovnik          26 64 [7]
+     SF  Diane Follin-Arbelet def.  Kaitlynn Groves      63 63
+     QF  Polina Vlasova       def.  Luisa Renovales      61 61
+     QF  Diane Follin-Arbelet def.  Florencia Salerno    62 63
+     QF  Kaitlynn Groves      def.  Ericka Chavarria     62 60
+  > West
+     SF  Florencia Salerno    def.  Ericka Chavarria     63 76(2)
  > Women Singles C
   > East
-     QF  Celia Montero         vs   Olivia Bryant     Fri @ 15:30
-     QF  Natalia Collado Cor…  vs   Lili Reichert     Fri @ 15:30
-     QF  Eve Wasil             vs   Eva Goncharov     Fri @ 15:30
+     SF  Olivia Bryant        def.  Maria McKay          76(1) Ret.
+     SF  Eva Goncharov        def.  Natalia Collado Cor… 61 61
+     QF  Olivia Bryant        def.  Celia Montero        63 61
+     QF  Natalia Collado Cor… def.  Lili Reichert        36 63 [6]
+     QF  Eva Goncharov        def.  Eve Wasil            60 75
  > Women Singles D
   > East
-     QF  Polina Ligay          vs   Eve Robinson      Fri @ 15:30
-     QF  Erin Yaroshuk         vs   Julia Triska      Fri @ 15:30
-     QF  Karyna Bazilevych     vs   Caitlyn Khan      Fri @ 17:00
+     SF  Polina Ligay         def.  Mille Langaas        76(3) 61
+     SF  Erin Yaroshuk        def.  Caitlyn Khan         64 36 [7]
+     QF  Polina Ligay         def.  Eve Robinson         63 61
+     QF  Erin Yaroshuk        def.  Julia Triska         60 60
+     QF  Caitlyn Khan         def.  Karyna Bazilevych    64 36 [9]
+  > West
+     SF  Karyna Bazilevych    def.  Julia Triska         61 60
 ~~~
 
 Return to the [Top](./women_singles_2141.md) &#124; [Home Page](../../index.md)

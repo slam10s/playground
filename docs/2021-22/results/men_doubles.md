@@ -8,20 +8,17 @@
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
+- 10/8/2021 - [Lander Invitational](#21-99765) ([Results](#21-99765) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Draws</a>)  
+- 10/9/2021 - [Wallach Invitational 2021](#21-27918) ([Results](#21-27918) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Loyola Classic</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Lander Invitational</a>  
-
-**Upcoming Tournaments**  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Wallach Invitational 2021</a>  
 
 <a name="21-73796"></a>
 ~~~
@@ -33,10 +30,13 @@
  Men's Open Doubles
  > Main Draw
   > Main
-      QF      Boulais/Trotter       vs   (5) Charlton/Vandecaste… Fri @ 14:30
-      QF      Davis/Summers         vs       Dostanic/Frye        Fri @ 15:00
-      QF  (Q) Cash/Vocel            vs       Lah/Bass             Fri @ 15:00
-      QF (LL) Stewart/Henning       vs   (Q) Hudd/Mitsui          Fri @ 14:30
+       F      Boulais/Trotter       vs   (Q) Cash/Vocel           Sun @ 12:00
+      SF      Boulais/Trotter      def.      Dostanic/Frye        64 63
+      SF  (Q) Cash/Vocel           def.  (Q) Hudd/Mitsui          62 64
+      QF      Boulais/Trotter      def.  (5) Charlton/Vandecaste… 67(5) 64 [6]
+      QF      Dostanic/Frye        def.      Davis/Summers        61 76(5)
+      QF  (Q) Cash/Vocel           def.      Lah/Bass             64 64
+      QF  (Q) Hudd/Mitsui          def. (LL) Stewart/Henning      62 64
       16      Boulais/Trotter      def. (LL) Ciamarra/Harper      62 26 [7]
       16  (5) Charlton/Vandecaste… def.  (Q) Rotsaert/Fery        61 64
       16      Davis/Summers        def.  (4) Murgett/McClean      76(5) 62
@@ -62,10 +62,13 @@
       32  (Q) Reynolds/Lithen      def. (LL) Keremedchiev/Klov-N… 64 64
       32  (Q) Hudd/Mitsui          def.  (2) Rodrigues/Thomson    67(3) 76(5) [5]
   > Consolation
-      QF  (Q) Rodesch/Goetz         vs   (Q) Malbasic/Hoeyeraal   Fri @ 16:00
-      QF      Bryde/Croyder         vs   (5) Johns/Sculley        Fri @ 16:00
-      QF      Pearson/Di Marco      vs   (3) Stevenson/Cutting    Fri @ 15:30
-      QF      Eriksson Ziverts/Mi…  vs  (LL) Keremedchiev/Klov-N… Fri @ 15:30
+       F  (Q) Rodesch/Goetz         vs  (LL) Keremedchiev/Klov-N… Sun @ 12:00
+      SF  (Q) Rodesch/Goetz        def.  (5) Johns/Sculley        67(5) 76(5) [6]
+      SF (LL) Keremedchiev/Klov-N… def.      Pearson/Di Marco     75 46 [6]
+      QF  (Q) Rodesch/Goetz        def.  (Q) Malbasic/Hoeyeraal   62 62
+      QF  (5) Johns/Sculley        def.      Bryde/Croyder        64 64
+      QF      Pearson/Di Marco     def.  (3) Stevenson/Cutting    62 61
+      QF (LL) Keremedchiev/Klov-N… def.      Eriksson Ziverts/Mi… 36 64 [8]
      16Q  (Q) Rodesch/Goetz        def.  (1) Hilderbrand/Pavel    64 75
      16Q  (Q) Malbasic/Hoeyeraal   def.      Barki/Bosancic       46 63 [10]
      16Q      Bryde/Croyder        def.      Gale/Gaber           Walkover
@@ -270,11 +273,11 @@
 
 <a name="21-08096"></a>
 ~~~
-═══════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   PSAC Individual Tennis Championship
   Dates: Oct 2-4, 2021
   Host: Bloomsburg University (M)
-═══════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > PSAC Men's Doubles
   > Main
@@ -289,96 +292,239 @@
 
 <a name="21-11157"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   Bulldawg Invitational
   Dates: Oct 7-10, 2021
   Host: University Of Georgia (M)
-════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Doubles Magill Draw
   > East
-     QF (1) Galka/Nolan           vs      Paulsell/Grevelius Fri @ 14:00
-     QF     Diaz/Wallner          vs      Troost/Ross        Fri @ 14:00
-     QF     Perez Pena/Johnston   vs      Guerrero/Schelcher Fri @ 14:00
-     QF     Beasley/Story         vs  (2) Martin/Danilchenko Fri @ 14:00
+      F     Ross/Galka           vs  (2) Martin/Danilchenko   Sun @ 09:00
+     SF     Ross/Galka          def.     Diaz/Wallner         87(6)
+     SF (2) Martin/Danilchenko  def.     Perez Pena/Johnston  85
+     QF     Ross/Galka          def.     Paulsell/Grevelius   85
+     QF     Diaz/Wallner        def.     Troost/Ross          85
+     QF     Perez Pena/Johnston def.     Guerrero/Schelcher   85
+     QF (2) Martin/Danilchenko  def.     Beasley/Story        87(5)
+  > West
+      F     Paulsell/Grevelius   vs      Beasley/Story        Sun @ 09:00
+     SF     Paulsell/Grevelius  def.     Troost/Ross          86
+     SF     Beasley/Story       def.     Guerrero/Schelcher   85
+  > 3-4 Playoff
+      F     Diaz/Wallner         vs      Perez Pena/Johnston  Sun @ 09:00
+  > South
+      F     Troost/Ross          vs      Guerrero/Schelcher   Sun @ 09:00
  > Doubles Red Draw
   > East
-     QF (1) Ross/Gray             vs      Vasser/Jalif       Fri @ 14:30
-     QF     Klopper/Robb-Wilcox   vs      Rasamatov/Ozernoy  Fri @ 14:30
-     QF     Savva/Sokolovskiy     vs      Jankulovski/Aubone Fri @ 14:30
-     QF     Falck/Mallory         vs  (2) Cadonau/Engelhardt Fri @ 14:30
+      F     Rasamatov/Innocenti  vs  (2) Cadonau/Engelhardt   Sun @ 09:00
+     SF     Rasamatov/Innocenti def.     Debru/Gray           87(4)
+     SF (2) Cadonau/Engelhardt  def.     Jankulovski/Aubone   86
+     QF     Debru/Gray          def.     Vasser/Jalif         86
+     QF     Rasamatov/Innocenti def.     Klopper/Robb-Wilcox  83
+     QF     Jankulovski/Aubone  def.     Savva/Sokolovskiy    85
+     QF (2) Cadonau/Engelhardt  def.     Falck/Mallory        86
+  > West
+      F     Klopper/Robb-Wilcox  vs      Savva/Sokolovskiy    Sun @ 09:00
+     SF     Klopper/Robb-Wilcox def.     Vasser/Jalif         82
+     SF     Savva/Sokolovskiy   def.     Falck/Mallory        84
+  > 3-4 Playoff
+      F     Debru/Gray           vs      Jankulovski/Aubone   Sun @ 09:00
+  > South
+      F     Vasser/Jalif         vs      Falck/Mallory        Sun @ 09:00
  > Doubles Black Draw
   > East
-     QF     Guerrero Alvarez/Ta…  vs      Connel/Mitric      Fri @ 14:30
-     QF     Ilie/Quiles           vs      Simon/Vannemreddy  Fri @ 14:30
-     QF     Dransfeld/Sandoval    vs  (2) Roelofse/Westling  Fri @ 14:30
+      F     Connel/Mitric        vs  (2) Roelofse/Westling    Sun @ 09:00
+     SF     Connel/Mitric       def. (1) Pelletier/Morgan     Walkover
+     SF (2) Roelofse/Westling   def.     Ilie/Quiles          84
+     QF     Connel/Mitric       def.     Guerrero Alvarez/Ta… 86
+     QF     Ilie/Quiles         def.     Simon/Vannemreddy    Walkover
+     QF (2) Roelofse/Westling   def.     Dransfeld/Sandoval   82
+  > West
+      F     Dransfeld/Sandoval  def.     Guerrero Alvarez/Ta… 85
+     SF     Dransfeld/Sandoval  def.     Simon/Vannemreddy    Walkover
+  > 3-4 Playoff
+      F     Ilie/Quiles         def. (1) Pelletier/Morgan     Walkover
 ~~~
 
 <a name="21-80207"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Florida Division I - Bedford Cup, Men 2021
   Dates: Oct 8-10, 2021
   Host: Florida State University (M)
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight A
   > East
-     QF  Oliveira/Goncalves    vs   Barton/Nunez         Sat @ 08:30
-     QF  Damm/Oncins           vs   Silagy/Dous Karpens… Sat @ 08:30
-     QF  Crespo/Hartenstein    vs   Muniz-Hidalgo/Yatsuk Sat @ 08:30
-     QF  Krolo/Huempfner       vs   Nahrung/Rihane       Sat @ 08:30
+     QF  Barton/Nunez         def.  Oliveira/Goncalves   62
+     QF  Silagy/Dous Karpens… def.  Damm/Oncins          75
+     QF  Crespo/Hartenstein   def.  Muniz-Hidalgo/Yatsuk 61
+     QF  Krolo/Huempfner      def.  Nahrung/Rihane       75
      16  Barton/Nunez         def.  Hillhouse/Thiergard  63
      16  Silagy/Dous Karpens… def.  Robbins/Sarrio       75
      16  Crespo/Hartenstein   def.  Stefanacci/Maciel    64
      16  Krolo/Huempfner      def.  Hamel/Marques        75
-  > West
-     SF  Hillhouse/Thiergard   vs   Robbins/Sarrio       Sat @ 09:15
-     SF  Stefanacci/Maciel     vs   Hamel/Marques        Sat @ 09:15
  > Flight B
   > East
-     QF  Gomez-Montesa/Tudor…  vs   Laka/Moses           Fri @ 08:30
-     QF  Escandell/Fernandez…  vs   Duarte/Ellis         Sat @ 08:30
-     QF  Gennes/Penzkofer      vs   Lopez/Johnson        Sat @ 08:30
-     QF  Carroll/Kotan         vs   Petrovic/Thongoana   Fri @ 08:30
+     QF  Gomez-Montesa/Tudor… def.  Laka/Moses           64
+     QF  Duarte/Ellis         def.  Escandell/Fernandez… 64
+     QF  Lopez/Johnson        def.  Gennes/Penzkofer     64
+     QF  Petrovic/Thongoana   def.  Carroll/Kotan        63
      16  Duarte/Ellis         def.  Mohandoss/Pisane     63
      16  Gennes/Penzkofer     def.  Jadoun/Stodder       76(5)
 ~~~
 
 <a name="21-99710"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════
   River City Tennis Open
   Dates: Oct 8-10, 2021
   Host: University Of Richmond (M)
-═══════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════
  Men's Open Doubles
+ > Green
+  > Main
+     R3  Cagigas/Rocabert   def.  Postin/Nakaurai      61
+     R3  Garner/McBride     def.  Le Tallec/Walser     76(4)
+     R2  Garner/McBride     def.  Cagigas/Rocabert     76(5)
+     R2  Le Tallec/Walser   def.  Postin/Nakaurai      62
+     R1  Garner/McBride     def.  Postin/Nakaurai      76(6)
+     R1  Le Tallec/Walser   def.  Cagigas/Rocabert     63
+ > Orange
+  > Main
+     R3  Hernandez/Petrovic def.  Jones/Robinson       61
+     R3  Davis/Brown        def.  Silva/Taramonlis     64
+     R2  Davis/Brown        def.  Jones/Robinson       62
+     R2  Silva/Taramonlis   def.  Hernandez/Petrovic   60
+     R1  Davis/Brown        def.  Hernandez/Petrovic   64
+     R1  Silva/Taramonlis   def.  Jones/Robinson       63
  > Yellow
   > Main
-     R1  Sadek/Josserand    vs   Fourticq/Khromchenko Fri @ 16:30
+     R3  Raptis/Severin     def.  Fourticq/Khromchenko 62
+     R3  Brailovsky/Ruo     def.  Sadek/Josserand      62
+     R2  Raptis/Severin     def.  Sadek/Josserand      64
+     R2  Brailovsky/Ruo     def.  Fourticq/Khromchenko 63
+     R1  Sadek/Josserand    def.  Fourticq/Khromchenko 62
+     R1  Brailovsky/Ruo     def.  Raptis/Severin       63
  > Pink
   > Main
-     R1  Balsekar/Hagen     vs   Suarez/Prokurat      Fri @ 16:30
+     R3  Pellerito/Talcott  def.  Suarez/Prokurat      61
+     R2  Pellerito/Talcott  def.  Balsekar/Hagen       63
+     R1  Balsekar/Hagen     def.  Suarez/Prokurat      62
+ > Teal
+  > Main
+     R3  Crane/Mujan        def.  Kelly/Quiros         Walkover
+     R2  Crane/Mujan        def.  Nguyen/Kim           63
+     R1  Nguyen/Kim         def.  Kelly/Quiros         Default
  > Grey
   > Main
-     R1  Erwin/Warning      vs   Grande/Suh           Fri @ 16:30
+     R3  Husum/Theodossiou  def.  Grande/Suh           76(8)
+     R2  Erwin/Warning      def.  Husum/Theodossiou    62
+     R2  Grande/Suh         def.  Burke/Tobisch        64
+     R1  Grande/Suh         def.  Erwin/Warning        64
+     R1  Husum/Theodossiou  def.  Burke/Tobisch        Default
+ > Blue
+  > Main
+     R3  Leblanc/Bobichon   def.  Charles/Sardana      63
+     R3  Lalami/Nolan       def.  Thompson/Fishkin     63
+     R2  Thompson/Fishkin   def.  Leblanc/Bobichon     76(8)
+     R2  Lalami/Nolan       def.  Charles/Sardana      63
+     R1  Thompson/Fishkin   def.  Charles/Sardana      76(8)
+     R1  Lalami/Nolan       def.  Leblanc/Bobichon     75
  > Black
   > Main
-     R1  Jurist/Zelikovsky  vs   Larke/Limon          Fri @ 16:30
+     R2  Fellows/Yang       def.  Jurist/Zelikovsky    62
+     R2  Bell/Walsh         def.  Larke/Limon          63
+     R1  Fellows/Yang       def.  Bell/Walsh           75
+     R1  Larke/Limon        def.  Jurist/Zelikovsky    63
+ > White
+  > Main
+     R3  Fraunfelder/Borges def.  Keitelman/Kliebhan   75
+     R1  Fraunfelder/Borges def.  Carvalho/Owen        Walkover
+ > Red
+  > Main
+     R3  Almeida/Voelzke    def.  Jentoft/Rivas        Walkover
+     R3  Panyan/Segraves    def.  Sirous/Van Schalkwyk 61
+     R2  Panyan/Segraves    def.  Jentoft/Rivas        60
+     R2  Almeida/Voelzke    def.  Sirous/Van Schalkwyk 61
+     R1  Panyan/Segraves    def.  Almeida/Voelzke      63
+     R1  Jentoft/Rivas      def.  Sirous/Van Schalkwyk Walkover
+ > Purple
+  > Main
+     R3  Reis/Nayadenov     def.  Ha/Pollatos          64
+     R2  Reis/Nayadenov     def.  McLeod/Garner        64
+     R1  McLeod/Garner      def.  Ha/Pollatos          63
+ > Long vs Vill
+  > Main
+      F  Reis/Nayadenov     def.  Nguyen/Kim           61
 ~~~
 
 <a name="21-27941"></a>
 ~~~
-═════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   C.L Varner Invitational
   Dates: Oct 8-12, 2021
   Host: Rollins College (M)
-═════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Men's Doubles
   > Main
-     16  Della Cioppa/Nicola…  vs   McMurray/Polo   Fri @ 13:00
-     16  Kearns/Fonseca        vs   Glowaki/Binnios Fri @ 13:00
+      F     Brignacca/Comu       def.     De Oliveira/Menende… 75
+     SF     De Oliveira/Menende… def. (1) Golubev/Putrino III  76(1)
+     SF     Brignacca/Comu       def.     Kearns/Fonseca       63
+     QF (1) Golubev/Putrino III  def.     McMurray/Polo        Walkover
+     QF     De Oliveira/Menende… def.     Bucurescu/Stenzer    63
+     QF     Kearns/Fonseca       def. (2) Barbon/Stepanov      63
+     QF     Brignacca/Comu       def.     Martinez/Preiswerk   61
+     16     McMurray/Polo        def.     Della Cioppa/Nicola… 76(5)
+     16     Kearns/Fonseca       def.     Glowaki/Binnios      75
+~~~
+
+<a name="21-99765"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Lander Invitational
+  Dates: Oct 8-9, 2021
+  Host: Lander University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Holyoak Flight
+  > Main
+     R1  Babic/Matos          def.  Komada/Arlot      63
+     R1  De Groot/Horne       def.  Bolle/Isago       75
+ > Simpson Flight
+  > Main
+     R1  Cardoso/Cariov       def.  Sergi/Sorel       62
+     R1  Regner/Sorensen      def.  Davydovskiy/Rubio 75
+ > Teixeira Flight
+  > Main
+     R1  Dominguez Collado/M… def.  Perez/Quereda     62
+     R1  Crepy/De Negri       def.  Robinson/Zavrel   63
+ > Pothoff Flight
+  > Main
+     R3  Baradel/Danielsson   def.  Calicis/Mercer    60
+~~~
+
+<a name="21-27918"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  Wallach Invitational 2021
+  Dates: Oct 9-10, 2021
+  Host: Bates College (M)
+══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > Main
+     QF (1) Ruparel/Chepuri    def.     Jimenez/Portnoy      87(5)
+     QF (4) Pentousis/Gorelik  def.     Bradley/Yang         85
+     QF     Bradley/Breuker    def. (3) Foulkes/Opie         81
+     QF (2) Belandres/Acaroglu def.     Bilicic/DeRose       83
+     16     Jimenez/Portnoy    def.     Barrett/Cohen        82
+     16     Bradley/Yang       def.     Kilborn/Sanchez-Car… 83
+     16 (4) Pentousis/Gorelik  def.     Davis-Kania/Kupferm… 87(4)
+     16     Bradley/Breuker    def.     Schuermann/Henry     87(7)
+     16     Bilicic/DeRose     def.     Forester/Gujarathi   85
 ~~~
 
 Return to the [Top](./men_doubles_2140.md) &#124; [Home Page](../../index.md)

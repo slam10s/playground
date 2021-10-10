@@ -17,19 +17,63 @@
 
 <a name="21-27941"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
   C.L Varner Invitational
   Dates: Oct 8-12, 2021
   Host: Rollins College (M)
-═══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
  Men's Open Singles
- > Men Singles A
+ > Hidden Dual
   > Main
-     16  Roy Stepanov    vs   Mortiz Stenzer      Fri @ 16:30
-     16  Arthur Fonseca  vs   Alexandru Bucurescu Fri @ 16:30
- > Men Singles B
+     F  Victor De Oliveira   def.  Andrea Brignacca     16 31 Ret.
+ > Hidden Dual 2
   > Main
-     16  David Polo      vs   Tyler Glowaki       Fri @ 16:30
+     F  Denis Golubev        def.  Federico Barbon      64 62
+ > Hidden Dual 3
+  > Main
+     F  Efe Comu             def.  Roy Stepanov         64 63
+ > Hidden Dual 4
+  > Main
+     F  Enrique Martinez     def.  Christian Kearns     64 62
+ > Hidden Dual 5
+  > Main
+     F  Diego Menendez Vina  def.  Arthur Fonseca       61 62
+ > Hidden Dual 6
+  > Main
+     F  Christian Della Cio… def.  Alexandru Bucurescu  36 64 [12]
+ > Hidden Dual 7
+  > Main
+     F  Theodore Preiswerk   def.  Mortiz Stenzer       64 63
+ > Hidden Dual 8
+  > Main
+     F  Phillip McMurray     def.  Tyler Glowaki        64 64
+ > Hidden Dual 9
+  > Main
+     F  Nadal Nicolau Ferrer def.  David Polo           62 64
+ > Hidden Dual 10
+  > Main
+     F  Denis Golubev        def.  Victor De Oliveira   64 63
+ > Hidden Dual 11
+  > Main
+     F  Efe Comu             def.  Federico Barbon      63 63
+ > Hidden Dual 12
+  > Main
+     F  Enrique Martinez     def.  Arthur Fonseca       63 64
+ > Hidden Dual 13
+  > Main
+     F  Diego Menendez Vina  def.  Christian Kearns     60 61
+ > Hidden Dual 14
+  > Main
+     F  Christian Della Cio… def.  Mortiz Stenzer       62 61
+ > Hidden Dual 15
+  > Main
+     F  Roy Stepanov         def.  Alexandru Bucurescu  61 62
+ > Hidden Dual 16
+  > Main
+     F  Tyler Glowaki        def.  David Polo           62 63
+ > Hidden Dual 17
+  > Main
+     F  Phillip McMurray     def.  Nadal Nicolau Ferrer 64 61
 ~~~
 
 Return to the [Top](./men_singles_2141.md) &#124; [Home Page](../../index.md)

@@ -17,16 +17,23 @@
 
 <a name="21-27941"></a>
 ~~~
-═════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   C.L Varner Invitational
   Dates: Oct 8-12, 2021
   Host: Rollins College (M)
-═════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Men's Doubles
   > Main
-     16  Della Cioppa/Nicola…  vs   McMurray/Polo   Fri @ 13:00
-     16  Kearns/Fonseca        vs   Glowaki/Binnios Fri @ 13:00
+      F     Brignacca/Comu       def.     De Oliveira/Menende… 75
+     SF     De Oliveira/Menende… def. (1) Golubev/Putrino III  76(1)
+     SF     Brignacca/Comu       def.     Kearns/Fonseca       63
+     QF (1) Golubev/Putrino III  def.     McMurray/Polo        Walkover
+     QF     De Oliveira/Menende… def.     Bucurescu/Stenzer    63
+     QF     Kearns/Fonseca       def. (2) Barbon/Stepanov      63
+     QF     Brignacca/Comu       def.     Martinez/Preiswerk   61
+     16     McMurray/Polo        def.     Della Cioppa/Nicola… 76(5)
+     16     Kearns/Fonseca       def.     Glowaki/Binnios      75
 ~~~
 
 Return to the [Top](./men_doubles_2141.md) &#124; [Home Page](../../index.md)

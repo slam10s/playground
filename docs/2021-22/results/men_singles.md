@@ -8,20 +8,17 @@
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
+- 10/8/2021 - [Lander Invitational](#21-99765) ([Results](#21-99765) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Draws</a>)  
+- 10/9/2021 - [Wallach Invitational 2021](#21-27918) ([Results](#21-27918) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Loyola Classic</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Lander Invitational</a>  
-
-**Upcoming Tournaments**  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Wallach Invitational 2021</a>  
 
 <a name="21-73796"></a>
 ~~~
@@ -33,14 +30,21 @@
  Men's Open Singles
  > Main Draw
   > Main
-      16      Ben Shelton           vs   (9) Ronnie Hohmann       Fri @ 09:00
-      16      Alexandre Reco        vs   (Q) Jj Tracy             Fri @ 09:00
-      16  (Q) Stefan Dostanic       vs       Clement Chidekh      Fri @ 09:00
-      16  (6) Gabriel Diallo        vs       Andres Martin        Fri @ 09:00
-      16  (Q) Andre Ilagan          vs       Cannon Kingsley      Fri @ 09:00
-      16      Alex Kotzen           vs   (4) Finn Reynolds        Fri @ 09:00
-      16      Mason Beiler          vs       Jacob Bickersteth    Fri @ 09:00
-      16      August Holmgren       vs   (2) Johannus Monday      Fri @ 09:00
+       F      Ben Shelton           vs       August Holmgren      Sun @ 10:00
+      SF      Ben Shelton          def.      Clement Chidekh      63 60
+      SF      August Holmgren      def.  (Q) Andre Ilagan         64 63
+      QF      Ben Shelton          def.  (Q) Jj Tracy             76(7) 75
+      QF      Clement Chidekh      def.  (6) Gabriel Diallo       61 36 64
+      QF  (Q) Andre Ilagan         def.      Alex Kotzen          16 61 62
+      QF      August Holmgren      def.      Mason Beiler         62 64
+      16      Ben Shelton          def.  (9) Ronnie Hohmann       63 62
+      16  (Q) Jj Tracy             def.      Alexandre Reco       76(5) 46 64
+      16      Clement Chidekh      def.  (Q) Stefan Dostanic      46 63 63
+      16  (6) Gabriel Diallo       def.      Andres Martin        76(1) 62
+      16  (Q) Andre Ilagan         def.      Cannon Kingsley      64 62
+      16      Alex Kotzen          def.  (4) Finn Reynolds        63 64
+      16      Mason Beiler         def.      Jacob Bickersteth    64 57 61
+      16      August Holmgren      def.  (2) Johannus Monday      46 76(5) 63
       32      Ben Shelton          def.  (1) Daniel Rodrigues     63 20 Ret.
       32  (9) Ronnie Hohmann       def.      Arthur Fery          63 76(5)
       32      Alexandre Reco       def.  (5) Trent Bryde          76(4) 60
@@ -90,14 +94,21 @@
       64      Florian Broska       def.  (Q) Trey Hilderbrand     61 63
       64  (2) Johannus Monday      def.  (Q) Tim Zeitvogel        46 63 62
   > Consolation
-      16      Tyler Zink            vs  (LL) Justin Barki         Fri @ 10:00
-      16  (Q) Henry Schulenburg     vs       James Davis          Fri @ 10:00
-      16  (3) Luc Fomba             vs   (9) MAtej Vocel          Fri @ 10:30
-      16      Raphael Lambling      vs   (Q) Tadeas Paroulek      Fri @ 10:30
-      16  (Q) Eric Hadigian         vs   (7) Andres Andrade       Fri @ 11:00
-      16  (Q) Chris Rodesch         vs   (Q) Toby Samuel          Fri @ 10:30
-      16      Axel Nefve            vs   (Q) Tad McClean          Fri @ 11:00
-      16      Karl Poling           vs   (Q) Tim Zeitvogel        Fri @ 11:30
+       F  (9) MAtej Vocel           vs   (Q) Chris Rodesch        Sun @ 09:00
+      SF  (9) MAtej Vocel          def.  (Q) Henry Schulenburg    76(3) 61
+      SF  (Q) Chris Rodesch        def.      Karl Poling          16 63 64
+      QF  (Q) Henry Schulenburg    def. (LL) Justin Barki         43 Ret.
+      QF  (9) MAtej Vocel          def.  (Q) Tadeas Paroulek      46 62 64
+      QF  (Q) Chris Rodesch        def.  (7) Andres Andrade       62 64
+      QF      Karl Poling          def.  (Q) Tad McClean          63 60
+      16 (LL) Justin Barki         def.      Tyler Zink           76(5) 62
+      16  (Q) Henry Schulenburg    def.      James Davis          63 61
+      16  (9) MAtej Vocel          def.  (3) Luc Fomba            76 63
+      16  (Q) Tadeas Paroulek      def.      Raphael Lambling     64 61
+      16  (7) Andres Andrade       def.  (Q) Eric Hadigian        60 60
+      16  (Q) Chris Rodesch        def.  (Q) Toby Samuel          62 62
+      16  (Q) Tad McClean          def.      Axel Nefve           62 75
+      16      Karl Poling          def.  (Q) Tim Zeitvogel        64 31 Ret.
      32Q      Tyler Zink           def.      Martim Prata         75 75
      32Q (LL) Justin Barki         def.  (Q) Francois Musitelli   52 Ret.
      32Q  (Q) Henry Schulenburg    def. (LL) Emmanuel Coste       Walkover
@@ -786,11 +797,11 @@
 
 <a name="21-08096"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   PSAC Individual Tennis Championship
   Dates: Oct 2-4, 2021
   Host: Bloomsburg University (M)
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > PSAC Men's Singles
   > Main
@@ -813,239 +824,581 @@
 
 <a name="21-11157"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
   Bulldawg Invitational
   Dates: Oct 7-10, 2021
   Host: University Of Georgia (M)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Singles Silver Draw
   > Main
-     R1     Walker Stearns        vs      John Dransfeld       Fri @ 12:30
-     R1     Ilarion Danilchenko   vs      Iganacio Sandoval    Fri @ 11:00
+     R3     Ilarion Danilchenko  def.     John Dransfeld       Walkover
+     R3     Iganacio Sandoval    def.     Walker Stearns       62 76(5)
+     R2     Ilarion Danilchenko  def.     Walker Stearns       46 61 64
+     R2     Iganacio Sandoval    def.     John Dransfeld       Walkover
+     R1     Walker Stearns       def.     John Dransfeld       61 63
+     R1     Ilarion Danilchenko  def.     Iganacio Sandoval    75 61
  > Singles Magill Draw
   > East
-     16 (1) Bojan Jankulovski     vs      Mark Wallner         Fri @ 09:00
-     16     Bekhzod Rasamatov     vs      James Story          Fri @ 09:00
-     16 (3) Erik Grevelius        vs      Alejandro Quiles     Fri @ 09:00
-     16     Mikhail Sokolovskiy   vs      Joubert Klopper      Fri @ 09:00
-     16     Dan Martin            vs      Jake Beasley         Fri @ 09:00
-     16     Pablo Schelcher       vs  (4) Miguel Perez Pena    Fri @ 09:00
-     16     Lukas Engelhardt      vs      Thomas Paulsell      Fri @ 09:00
-     16     Ivan Mitric           vs  (2) Jan Galka            Fri @ 09:00
+      F     James Story           vs      Dan Martin           Sun @ 10:00
+     SF     James Story          def. (3) Erik Grevelius       67(3) 60 75
+     SF     Dan Martin           def.     Thomas Paulsell      76(10) 75
+     QF     James Story          def. (1) Bojan Jankulovski    75 64
+     QF (3) Erik Grevelius       def.     Mikhail Sokolovskiy  46 63 63
+     QF     Dan Martin           def. (4) Miguel Perez Pena    64 60
+     QF     Thomas Paulsell      def. (2) Jan Galka            63 67(8) 76(1)
+     16 (1) Bojan Jankulovski    def.     Mark Wallner         62 16 76(4)
+     16     James Story          def.     Bekhzod Rasamatov    63 75
+     16 (3) Erik Grevelius       def.     Alejandro Quiles     61 63
+     16     Mikhail Sokolovskiy  def.     Joubert Klopper      26 63 75
+     16     Dan Martin           def.     Jake Beasley         63 63
+     16 (4) Miguel Perez Pena    def.     Pablo Schelcher      67(5) 64 76(4)
+     16     Thomas Paulsell      def.     Lukas Engelhardt     61 63
+     16 (2) Jan Galka            def.     Ivan Mitric          46 75 61
+  > West
+      F     Joubert Klopper       vs      Ivan Mitric          Sun @ 10:00
+     SF     Joubert Klopper      def.     Mark Wallner         32 Ret.
+     SF     Ivan Mitric          def.     Jake Beasley         46 62 63
+     QF     Mark Wallner         def.     Bekhzod Rasamatov    46 62 76(6)
+     QF     Joubert Klopper      def.     Alejandro Quiles     62 63
+     QF     Jake Beasley         def.     Pablo Schelcher      64 67(2) 75
+     QF     Ivan Mitric          def.     Lukas Engelhardt     Walkover
+  > North
+      F (1) Bojan Jankulovski     vs  (2) Jan Galka            Sun @ 10:00
+     SF (1) Bojan Jankulovski    def.     Mikhail Sokolovskiy  64 75
+     SF (2) Jan Galka            def. (4) Miguel Perez Pena    61 64
+  > 3-4 Playoff
+      F (3) Erik Grevelius        vs      Thomas Paulsell      Sun @ 10:00
+  > South
+      F     Bekhzod Rasamatov     vs      Pablo Schelcher      Sun @ 10:00
+     SF     Bekhzod Rasamatov    def.     Alejandro Quiles     76(1) 36 75
+     SF     Pablo Schelcher      def.     Lukas Engelhardt     Walkover
+  > Southwest
+      F     Mark Wallner          vs      Jake Beasley         Sun @ 10:00
+  > Northwest
+      F     Mikhail Sokolovskiy   vs  (4) Miguel Perez Pena    Sun @ 10:00
+  > Southeast
+      F     Alejandro Quiles     def.     Lukas Engelhardt     Walkover
  > Singles Red Draw
   > East
-     16 (1) Will Nolan            vs      Coy Simon            Fri @ 09:00
-     16     Michael Ross          vs      Conor Gannon         Fri @ 09:00
-     16 (4) Davide Innocenti      vs      Carlos Guerrero Alv… Fri @ 09:00
-     16     Jakob Cadonau         vs      Brandon McKinney     Fri @ 09:00
-     16     Oren Vasser           vs      Stefanos Savva       Fri @ 10:30
-     16     Jamie Connel          vs  (3) Angel Diaz           Fri @ 10:30
-     16     Andrew Ilie           vs      Britton Johnston     Fri @ 10:30
-     16     Carter Morgan         vs  (2) Siim Troost          Fri @ 10:30
+      F     Coy Simon             vs      Jamie Connel         Sun @ 10:00
+     SF     Coy Simon            def.     Jakob Cadonau        62 26 61
+     SF     Jamie Connel         def.     Britton Johnston     36 76(7) 75
+     QF     Coy Simon            def.     Michael Ross         62 63
+     QF     Jakob Cadonau        def.     Carlos Guerrero Alv… 64 75
+     QF     Jamie Connel         def.     Stefanos Savva       63 63
+     QF     Britton Johnston     def. (2) Siim Troost          76(5) 26 63
+     16     Coy Simon            def. (1) Will Nolan           36 60 63
+     16     Michael Ross         def.     Conor Gannon         75 63
+     16     Carlos Guerrero Alv… def. (4) Davide Innocenti     36 64 63
+     16     Jakob Cadonau        def.     Brandon McKinney     64 64
+     16     Stefanos Savva       def.     Oren Vasser          63 62
+     16     Jamie Connel         def. (3) Angel Diaz           63 64
+     16     Britton Johnston     def.     Andrew Ilie          64 76(1)
+     16 (2) Siim Troost          def.     Carter Morgan        75 64
+  > West
+      F     Conor Gannon          vs  (3) Angel Diaz           Sun @ 10:00
+     SF     Conor Gannon         def. (4) Davide Innocenti     62 61
+     SF (3) Angel Diaz           def.     Andrew Ilie          75 62
+     QF     Conor Gannon         def. (1) Will Nolan           Walkover
+     QF (4) Davide Innocenti     def.     Brandon McKinney     63 64
+     QF (3) Angel Diaz           def.     Oren Vasser          Walkover
+     QF     Andrew Ilie          def.     Carter Morgan        63 57 62
+  > North
+      F     Carlos Guerrero Alv…  vs      Stefanos Savva       Sun @ 11:30
+     SF     Carlos Guerrero Alv… def.     Michael Ross         62 63
+     SF     Stefanos Savva       def. (2) Siim Troost          63 62
+  > 3-4 Playoff
+      F     Jakob Cadonau         vs      Britton Johnston     Sun @ 10:00
+  > South
+      F     Brandon McKinney      vs      Carter Morgan        Sun @ 10:00
+     SF     Brandon McKinney     def. (1) Will Nolan           Walkover
+     SF     Carter Morgan        def.     Oren Vasser          Walkover
+  > Southwest
+      F (4) Davide Innocenti      vs      Andrew Ilie          Sun @ 11:30
+  > Northwest
+      F     Michael Ross          vs  (2) Siim Troost          Sun @ 10:00
+  > Southeast
+      F     Oren Vasser          def. (1) Will Nolan           Walkover
  > Singles Black Draw
   > East
-     16 (1) Beau Pelletier        vs      James Roelofse       Fri @ 12:30
-     16     Connor Robb-Wilcox    vs      Richard Trey Mallory Fri @ 11:00
-     16 (4) Franco Aubone         vs      Jackson Ross         Fri @ 11:00
-     16     Mathis Debru          vs      Danil Ozernoy        Fri @ 11:00
-     16     Angel Guerrero        vs      Emil Westling        Fri @ 11:00
-     16     Spencer Gray          vs  (3) Gabriel Hurtado      Fri @ 11:00
-     16     Reece Falck           vs      Hikaru Takeda        Fri @ 11:00
-     16     Abhimanyu Vannemred…  vs  (2) Juan Martin Jalif    Fri @ 11:00
+      F     Richard Trey Mallory  vs  (2) Juan Martin Jalif    Sun @ 11:30
+     SF     Richard Trey Mallory def.     Mathis Debru         76(4) 62
+     SF (2) Juan Martin Jalif    def. (3) Gabriel Hurtado      36 63 64
+     QF     Richard Trey Mallory def.     James Roelofse       64 64
+     QF     Mathis Debru         def.     Jackson Ross         61 62
+     QF (3) Gabriel Hurtado      def.     Angel Guerrero       64 63
+     QF (2) Juan Martin Jalif    def.     Hikaru Takeda        64 63
+     16     James Roelofse       def. (1) Beau Pelletier       16 65 Ret.
+     16     Richard Trey Mallory def.     Connor Robb-Wilcox   67(4) 62 21 Ret.
+     16     Jackson Ross         def. (4) Franco Aubone        62 36 63
+     16     Mathis Debru         def.     Danil Ozernoy        76(4) 26 76(4)
+     16     Angel Guerrero       def.     Emil Westling        64 63
+     16 (3) Gabriel Hurtado      def.     Spencer Gray         46 63 62
+     16     Hikaru Takeda        def.     Reece Falck          64 60
+     16 (2) Juan Martin Jalif    def.     Abhimanyu Vannemred… 10 Ret.
+  > West
+      F (4) Franco Aubone         vs      Reece Falck          Sun @ 11:30
+     SF (4) Franco Aubone        def.     Connor Robb-Wilcox   Walkover
+     SF     Reece Falck          def.     Emil Westling        63 61
+     QF     Connor Robb-Wilcox   def. (1) Beau Pelletier       Walkover
+     QF (4) Franco Aubone        def.     Danil Ozernoy        60 63
+     QF     Emil Westling        def.     Spencer Gray         64 36 75
+     QF     Reece Falck          def.     Abhimanyu Vannemred… Walkover
+  > North
+      F     Jackson Ross          vs      Angel Guerrero       Sun @ 11:30
+     SF     Jackson Ross         def.     James Roelofse       62 64
+     SF     Angel Guerrero       def.     Hikaru Takeda        75 64
+  > 3-4 Playoff
+      F     Mathis Debru          vs  (3) Gabriel Hurtado      Sun @ 11:30
+  > South
+      F     Danil Ozernoy         vs      Spencer Gray         Sun @ 11:30
+     SF     Danil Ozernoy        def. (1) Beau Pelletier       Walkover
+     SF     Spencer Gray         def.     Abhimanyu Vannemred… Walkover
+  > Southwest
+      F     Emil Westling        def.     Connor Robb-Wilcox   Walkover
+  > Northwest
+      F     Hikaru Takeda        def.     James Roelofse       Walkover
 ~~~
 
 <a name="21-80207"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Florida Division I - Bedford Cup, Men 2021
   Dates: Oct 8-10, 2021
   Host: Florida State University (M)
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > East
-     32  Breno Marques         vs   Diogo Marques        Fri @ 09:15
-     32  Andreja Petrovic      vs   Kevin Huempfner      Fri @ 09:15
-     32  Matthew Carroll       vs   Munuel Goncalves     Fri @ 09:15
-     32  Ivan Yatsuk           vs   Maks Silagy          Fri @ 09:15
-     32  Gerard Escandell      vs   Rodrigo Crespo       Fri @ 09:15
-     32  Joshua Dous Karpens…  vs   Clement Hamel        Fri @ 09:15
-     32  Alvin Tudorica        vs   Patrick Kotan        Fri @ 09:15
-     32  Nicolas Jadoun        vs   Nilo Duarte          Fri @ 09:15
-     32  Fabian Penzkofer      vs   Richard Thongoana    Fri @ 09:15
-     32  Jorge Nunez           vs   Sergio Gomez-Montesa Fri @ 09:15
-     32  Finn Stodder          vs   Youcef Rihane        Fri @ 09:15
-     32  Guglielmo Stefanacci  vs   Jonas Hartenstein    Fri @ 11:00
-     32  Alvaro Fernandez Ho…  vs   Antonio Muniz-Hidal… Fri @ 11:00
-     32  Dominik Barton        vs   Sven Thiergard       Fri @ 11:00
-     32  Alex Bulte            vs   Carles Sarrio        Fri @ 11:00
+      F  Kevin Huempfner       vs   Antonio Muniz-Hidal… Sun @ 10:00
+     SF  Kevin Huempfner      def.  Joshua Dous Karpens… 60 75
+     SF  Antonio Muniz-Hidal… def.  Youcef Rihane        67(5) 41 Ret.
+     QF  Kevin Huempfner      def.  Magnus Johnson       36 64 61
+     QF  Joshua Dous Karpens… def.  Ivan Yatsuk          36 64 63
+     QF  Youcef Rihane        def.  Richard Thongoana    62 67(3) 64
+     QF  Antonio Muniz-Hidal… def.  Carles Sarrio        64 76(2)
+     16  Magnus Johnson       def.  Diogo Marques        63 61
+     16  Kevin Huempfner      def.  Matthew Carroll      63 63
+     16  Ivan Yatsuk          def.  Gerard Escandell     63 36 63
+     16  Joshua Dous Karpens… def.  Patrick Kotan        32 Ret.
+     16  Richard Thongoana    def.  Nicolas Jadoun       63 61
+     16  Youcef Rihane        def.  Jorge Nunez          64 62
+     16  Antonio Muniz-Hidal… def.  Guglielmo Stefanacci 61 63
+     16  Carles Sarrio        def.  Dominik Barton       63 60
+     32  Diogo Marques        def.  Breno Marques        62 76
+     32  Kevin Huempfner      def.  Andreja Petrovic     61 64
+     32  Matthew Carroll      def.  Munuel Goncalves     62 62
+     32  Ivan Yatsuk          def.  Maks Silagy          46 64 63
+     32  Gerard Escandell     def.  Rodrigo Crespo       64 62
+     32  Joshua Dous Karpens… def.  Clement Hamel        62 46 61
+     32  Patrick Kotan        def.  Alvin Tudorica       46 63 75
+     32  Nicolas Jadoun       def.  Nilo Duarte          62 62
+     32  Richard Thongoana    def.  Fabian Penzkofer     64 64
+     32  Jorge Nunez          def.  Sergio Gomez-Montesa 62 75
+     32  Youcef Rihane        def.  Finn Stodder         63 46 75
+     32  Guglielmo Stefanacci def.  Jonas Hartenstein    16 75 64
+     32  Antonio Muniz-Hidal… def.  Alvaro Fernandez Ho… 63 64
+     32  Dominik Barton       def.  Sven Thiergard       63 75
+     32  Carles Sarrio        def.  Alex Bulte           62 67(4) 62
+  > West
+     QF  Nilo Duarte          def.  Finn Stodder         75 60
+     16  Andreja Petrovic     def.  Munuel Goncalves     61 64
+     16  Sven Thiergard       def.  Maks Silagy          64 64
+     16  Clement Hamel        def.  Alvin Tudorica       Walkover
+     16  Nilo Duarte          def.  Fabian Penzkofer     57 63 [6]
+     16  Finn Stodder         def.  Sergio Gomez-Montesa 06 64 [4]
+     16  Alvaro Fernandez Ho… def.  Jonas Hartenstein    64 57 [5]
+     16  Rodrigo Crespo       def.  Alex Bulte           76(2) 63
+  > North
+     QF  Matthew Carroll      def.  Diogo Marques        75 61
+     QF  Gerard Escandell     def.  Patrick Kotan        64 61
+     QF  Nicolas Jadoun       def.  Jorge Nunez          63 62
+     QF  Dominik Barton       def.  Guglielmo Stefanacci 57 64 [9]
+  > Playoff 3-4
+      F  Joshua Dous Karpens…  vs   Youcef Rihane        Sun @ 09:30
+  > South
+     QF  Maks Silagy          def.  Alvin Tudorica       Walkover
  > Flight B
   > East
-     16  Max Damm              vs   Joshua Laka          Fri @ 09:15
-     16  Alexandre Hillhouse   vs   Pedro Maciel         Fri @ 09:15
-     16  Sandeep Mohandoss     vs   Bryn Nahrung         Fri @ 09:15
-     16  Joe Ellis             vs   Eric Oncins          Fri @ 09:15
-     16  Dennis Moses          vs   Hunter Robbins       Fri @ 09:15
-     16  Bruno Oliveira        vs   Juan Lopez           Fri @ 08:30
+     SF  Alexandre Hillhouse  def.  Tim Gennes           76(4) 61
+     SF  Bruno Oliveira       def.  Hunter Robbins       63 60
+     QF  Tim Gennes           def.  Max Damm             60 63
+     QF  Alexandre Hillhouse  def.  Sandeep Mohandoss    60 61
+     QF  Hunter Robbins       def.  Joe Ellis            61 63
+     QF  Bruno Oliveira       def.  Tom Pisane           61 63
+     16  Max Damm             def.  Joshua Laka          63 36 63
+     16  Alexandre Hillhouse  def.  Pedro Maciel         46 63 60
+     16  Sandeep Mohandoss    def.  Bryn Nahrung         63 16 61
+     16  Joe Ellis            def.  Eric Oncins          46 64 22 Ret.
+     16  Hunter Robbins       def.  Dennis Moses         63 60
+     16  Bruno Oliveira       def.  Juan Lopez           62 64
+  > West
+     SF  Juan Lopez           def.  Dennis Moses         60 61
+     QF  Bryn Nahrung         def.  Pedro Maciel         Walkover
+     QF  Dennis Moses         def.  Eric Oncins          Walkover
+  > North
+     SF  Sandeep Mohandoss    def.  Max Damm             Walkover
+     SF  Tom Pisane           def.  Joe Ellis            64 62
+  > 3-4 Playoff
+      F  Tim Gennes            vs   Hunter Robbins       Sun @ 10:00
+  > Northwest
+      F  Max Damm              vs   Joe Ellis            Sun @ 10:00
 ~~~
 
 <a name="21-99710"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   River City Tennis Open
   Dates: Oct 8-10, 2021
   Host: University Of Richmond (M)
-══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight 1
   > Main
-     R2  Younes Lalami        vs   Derrick Thompson     Fri @ 15:00
-     R2  Jackson Allen        vs   Dimosthenis Taramon… Fri @ 15:00
-     R1  Younes Lalami        vs   Jackson Allen        Fri @ 11:00
-     R1  Derrick Thompson     vs   Dimosthenis Taramon… Fri @ 09:30
+     R3  Derrick Thompson     def.  Jackson Allen        76(4) 64
+     R3  Dimosthenis Taramon… def.  Younes Lalami        06 64 [6]
+     R2  Younes Lalami        def.  Derrick Thompson     62 62
+     R2  Dimosthenis Taramon… def.  Jackson Allen        62 76(4)
+     R1  Jackson Allen        def.  Younes Lalami        61 46 [4]
+     R1  Dimosthenis Taramon… def.  Derrick Thompson     63 61
  > Flight 2
   > Main
-     R2  Alexander Kiefer     vs   George Davis         Fri @ 15:00
-     R2  Yevhen Sirous        vs   Matisse Bobichon     Fri @ 15:00
-     R1  Alexander Kiefer     vs   Yevhen Sirous        Fri @ 11:00
-     R1  George Davis         vs   Matisse Bobichon     Fri @ 09:30
+     R3  George Davis         def.  Yevhen Sirous        76(3) 61
+     R3  Alexander Kiefer     def.  Matisse Bobichon     61 63
+     R2  Alexander Kiefer     def.  George Davis         63 76(5)
+     R2  Matisse Bobichon     def.  Yevhen Sirous        26 63 [5]
+     R1  Alexander Kiefer     def.  Yevhen Sirous        60 60
+     R1  George Davis         def.  Matisse Bobichon     67(5) 64 [7]
  > Flight 3
   > Main
-     R2  Guilherme Severin    vs   Francois Le Tallec   Fri @ 15:00
-     R2  Joaquim Almeida      vs   Daniel Kliebhan      Fri @ 15:00
-     R1  Guilherme Severin    vs   Joaquim Almeida      Fri @ 08:00
-     R1  Francois Le Tallec   vs   Daniel Kliebhan      Fri @ 11:00
+     R3  Francois Le Tallec   def.  Joaquim Almeida      61 57 [3]
+     R3  Daniel Kliebhan      def.  Guilherme Severin    63 63
+     R2  Francois Le Tallec   def.  Guilherme Severin    62 62
+     R2  Joaquim Almeida      def.  Daniel Kliebhan      76(4) 16 [8]
+     R1  Joaquim Almeida      def.  Guilherme Severin    63 62
+     R1  Francois Le Tallec   def.  Daniel Kliebhan      63 61
  > Flight 4
   > Main
-     R2  Oscar Hernandez      vs   Codie Van Schalkwyk  Fri @ 15:00
-     R2  Tom Leblanc          vs   Finbar Talcott       Fri @ 15:00
-     R1  Oscar Hernandez      vs   Tom Leblanc          Fri @ 09:30
-     R1  Codie Van Schalkwyk  vs   Finbar Talcott       Fri @ 11:00
+     R3  Tom Leblanc          def.  Codie Van Schalkwyk  60 62
+     R3  Finbar Talcott       def.  Oscar Hernandez      62 62
+     R2  Codie Van Schalkwyk  def.  Oscar Hernandez      57 62 [6]
+     R2  Finbar Talcott       def.  Tom Leblanc          26 64 [6]
+     R1  Oscar Hernandez      def.  Tom Leblanc          62 62
+     R1  Codie Van Schalkwyk  def.  Finbar Talcott       67(7) 63 [9]
  > Flight 6
   > Main
-     R2  Andres Silva         vs   Finn Garner          Fri @ 13:45
-     R2  Charlie Suh          vs   Joshua Robinson      Fri @ 13:45
-     R1  Andres Silva         vs   Charlie Suh          Fri @ 08:00
-     R1  Finn Garner          vs   Joshua Robinson      Fri @ 08:00
+     R3  Finn Garner          def.  Charlie Suh          63 76(2)
+     R3  Andres Silva         def.  Joshua Robinson      75 61
+     R2  Andres Silva         def.  Finn Garner          62 62
+     R2  Joshua Robinson      def.  Charlie Suh          61 75
+     R1  Andres Silva         def.  Charlie Suh          63 61
+     R1  Finn Garner          def.  Joshua Robinson      75 75
  > Flight 7
   > Main
-     R2  Alex Warning         vs   Aditya Balsekar      Fri @ 13:45
-     R2  Youssef Sadek        vs   Sebastian Quiros     Fri @ 13:45
-     R1  Alex Warning         vs   Youssef Sadek        
-     R1  Aditya Balsekar      vs   Sebastian Quiros     Fri @ 09:15
+     R3  Aditya Balsekar      def.  Youssef Sadek        57 62 [7]
+     R3  Sebastian Quiros     def.  Alex Warning         63 61
+     R2  Aditya Balsekar      def.  Alex Warning         62 76(4)
+     R2  Sebastian Quiros     def.  Youssef Sadek        62 64
+     R1  Youssef Sadek        def.  Alex Warning         63 63
+     R1  Sebastian Quiros     def.  Aditya Balsekar      64 62
  > Flight 8
   > Main
-     R2  Oliver Tobisch       vs   Jack Kelly           Fri @ 14:30
-     R2  Jack McBride         vs   Matias Gaedechens    Fri @ 14:30
-     R1  Oliver Tobisch       vs   Jack McBride         Fri @ 11:00
-     R1  Jack Kelly           vs   Matias Gaedechens    Fri @ 09:15
+     R3  Jack McBride         def.  Jack Kelly           Walkover
+     R3  Matias Gaedechens    def.  Oliver Tobisch       64 62
+     R2  Oliver Tobisch       def.  Jack Kelly           57 75 [3] Ret.
+     R2  Matias Gaedechens    def.  Jack McBride         57 64 [2]
+     R1  Jack McBride         def.  Oliver Tobisch       67(2) 76(3) [8]
+     R1  Jack Kelly           def.  Matias Gaedechens    64 63
  > Flight 9
   > Main
-     R2  Oliver Nolan         vs   Jefferson Dockter    Fri @ 14:30
-     R2  Daniel Pellerito     vs   John Walsh           Fri @ 15:00
-     R1  Oliver Nolan         vs   Daniel Pellerito     Fri @ 11:00
-     R1  Jefferson Dockter    vs   John Walsh           Fri @ 11:00
+     R3  Daniel Pellerito     def.  Jefferson Dockter    63 63
+     R3  Oliver Nolan         def.  John Walsh           61 75
+     R2  Oliver Nolan         def.  Jefferson Dockter    64 61
+     R2  Daniel Pellerito     def.  John Walsh           61 64
+     R1  Daniel Pellerito     def.  Oliver Nolan         36 61 [4]
+     R1  John Walsh           def.  Jefferson Dockter    16 63 [6]
  > Flight 11
   > Main
-     R2  Joseph Brailovsky    vs   Rithik Sardana       Fri @ 13:45
-     R2  Michael Fourticq     vs   Campbell Erwin       Fri @ 13:45
-     R1  Joseph Brailovsky    vs   Michael Fourticq     Fri @ 09:15
-     R1  Rithik Sardana      def.  Campbell Erwin       61 63
+     R3  Michael Fourticq     def.  Rithik Sardana       46 76(3) [9]
+     R3  Joseph Brailovsky    def.  Campbell Erwin       Walkover
+     R2  Joseph Brailovsky    def.  Rithik Sardana       75 76(4)
+     R2  Michael Fourticq     def.  Campbell Erwin       64 64
+     R1  Joseph Brailovsky    def.  Michael Fourticq     63 75
+     R1  Rithik Sardana       def.  Campbell Erwin       61 63
  > Flight 13
   > Main
-     R2  Jake Fishkin         vs   Justin Suarez        Fri @ 12:30
-     R2  Jake Fraunfelder     vs   Robert Hagen         Fri @ 12:30
-     R1  Jake Fishkin         vs   Jake Fraunfelder     Fri @ 08:00
-     R1  Justin Suarez        vs   Robert Hagen         Fri @ 08:00
+     R3  Justin Suarez        def.  Jake Fraunfelder     26 75 [8]
+     R3  Jake Fishkin         def.  Robert Hagen         63 64
+     R2  Jake Fishkin         def.  Justin Suarez        62 62
+     R2  Robert Hagen         def.  Jake Fraunfelder     76(9) 60
+     R1  Jake Fishkin         def.  Jake Fraunfelder     75 63
+     R1  Robert Hagen         def.  Justin Suarez        75 60
  > Flight 14
   > Main
-     R2  Carlos Grande        vs   Eitan Khromchenko    Fri @ 12:30
-     R2  Raphael Mujan        vs   Mathieu Josserand    Fri @ 12:30
-     R1  Carlos Grande        vs   Raphael Mujan        Fri @ 08:00
-     R1  Eitan Khromchenko    vs   Mathieu Josserand    Fri @ 08:00
+     R3  Eitan Khromchenko    def.  Raphael Mujan        61 61
+     R3  Mathieu Josserand    def.  Carlos Grande        62 62
+     R2  Eitan Khromchenko    def.  Carlos Grande        64 63
+     R2  Mathieu Josserand    def.  Raphael Mujan        67(5) 64 [8]
+     R1  Raphael Mujan        def.  Carlos Grande        64 64
+     R1  Eitan Khromchenko    def.  Mathieu Josserand    75 36 [8]
  > Flight 15
   > Main
-     R2  Richard Bell         vs   Rosen Nayadenov      Fri @ 13:45
-     R2  Ryan Jurist          vs   Andre Limon          Fri @ 13:45
-     R1  Richard Bell         vs   Ryan Jurist          Fri @ 09:15
-     R1  Rosen Nayadenov      vs   Andre Limon          Fri @ 09:15
+     R3  Rosen Nayadenov      def.  Ryan Jurist          61 62
+     R3  Andre Limon          def.  Richard Bell         46 62 [8]
+     R2  Richard Bell         def.  Rosen Nayadenov      64 61
+     R2  Andre Limon          def.  Ryan Jurist          61 57 [8]
+     R1  Richard Bell         def.  Ryan Jurist          76(5) 75
+     R1  Andre Limon          def.  Rosen Nayadenov      64 62
  > Flight 16
   > Main
-     R2  Cy McLeod            vs   Matthew Jones        Fri @ 12:30
-     R2  Stefan Petrovic      vs   Ryan Charles         Fri @ 12:30
-     R1  Cy McLeod            vs   Stefan Petrovic      Fri @ 08:00
-     R1  Matthew Jones        vs   Ryan Charles         Fri @ 08:00
+     R3  Matthew Jones        def.  Stefan Petrovic      63 36 [9]
+     R3  Cy McLeod            def.  Ryan Charles         63 75
+     R2  Matthew Jones        def.  Cy McLeod            62 63
+     R2  Stefan Petrovic      def.  Ryan Charles         63 61
+     R1  Stefan Petrovic      def.  Cy McLeod            64 61
+     R1  Matthew Jones        def.  Ryan Charles         62 63
  > Flight 17
   > Main
-     R2  Herman Jentoft       vs   Anthony Prokurat     Fri @ 12:30
-     R2  Tim Zelikovsky       vs   Zac Larke            Fri @ 12:30
-     R1  Tim Zelikovsky      def.  Herman Jentoft       46 64 [5]
-     R1  Zac Larke           def.  Anthony Prokurat     61 64
+     R3  Tim Zelikovsky       def.  Anthony Prokurat     63 75
+     R3  Zac Larke            def.  Herman Jentoft       60 61
+     R2  Anthony Prokurat     def.  Herman Jentoft       61 61
+     R2  Zac Larke            def.  Tim Zelikovsky       60 62
+     R1  Tim Zelikovsky       def.  Herman Jentoft       46 64 [5]
+     R1  Zac Larke            def.  Anthony Prokurat     61 64
  > Flight 18
   > Main
-     R2  Ryan Nguyen          vs   Karlis Katlaps       Fri @ 12:30
-     R2  Gray Voelzke         vs   Faisal Alrebdi       Fri @ 12:30
-     R1  Ryan Nguyen         def.  Gray Voelzke         62 46 [10]
-     R1  Karlis Katlaps      def.  Faisal Alrebdi       64 63
+     R3  Karlis Katlaps       def.  Gray Voelzke         75 75
+     R3  Faisal Alrebdi       def.  Ryan Nguyen          61 64
+     R2  Ryan Nguyen          def.  Karlis Katlaps       62 62
+     R2  Gray Voelzke         def.  Faisal Alrebdi       62 62
+     R1  Ryan Nguyen          def.  Gray Voelzke         62 46 [10]
+     R1  Karlis Katlaps       def.  Faisal Alrebdi       64 63
  > Flight 19
   > Main
-     R2  Erick Rivas          vs   Sasha Panyan         Fri @ 12:30
-     R2  Alex Kim             vs   Ernesto Rocabert     Fri @ 12:30
-     R1  Alex Kim            def.  Erick Rivas          64 61
-     R1  Sasha Panyan        def.  Ernesto Rocabert     63 62
+     R3  Sasha Panyan         def.  Alex Kim             61 26 [2]
+     R3  Ernesto Rocabert     def.  Erick Rivas          63 60
+     R2  Sasha Panyan         def.  Erick Rivas          63 61
+     R2  Alex Kim             def.  Ernesto Rocabert     64 06 [7]
+     R1  Alex Kim             def.  Erick Rivas          64 61
+     R1  Sasha Panyan         def.  Ernesto Rocabert     63 62
  > Flight 20
   > Main
-     R2  Hayden Postin        vs   Luis Reis            Fri @ 11:00
-     R2  Carlos Carvalho      vs   Zach Theodossiou     Fri @ 11:00
-     R1  Hayden Postin       def.  Carlos Carvalho      62 46 [4]
-     R1  Luis Reis           def.  Zach Theodossiou     60 62
+     R3  Luis Reis            def.  Carlos Carvalho      76(3) Ret.
+     R3  Hayden Postin        def.  Zach Theodossiou     60 61
+     R2  Hayden Postin        def.  Luis Reis            36 64 [8]
+     R2  Carlos Carvalho      def.  Zach Theodossiou     62 26 [4]
+     R1  Hayden Postin        def.  Carlos Carvalho      62 46 [4]
+     R1  Luis Reis            def.  Zach Theodossiou     60 62
  > Flight 21
   > Main
-     R2  Dustin Ha            vs   Alaister Burke       Fri @ 11:00
-     R2  Noah Winton          vs   Chanasorn Nakaurai   Fri @ 11:00
-     R1  Noah Winton         def.  Dustin Ha            62 76(3)
-     R1  Chanasorn Nakaurai  def.  Alaister Burke       26 76(7) [8]
+     R3  Noah Winton          def.  Alaister Burke       61 67(4) [8]
+     R2  Alaister Burke       def.  Dustin Ha            64 62
+     R2  Noah Winton          def.  Chanasorn Nakaurai   61 61
+     R1  Noah Winton          def.  Dustin Ha            62 76(3)
+     R1  Chanasorn Nakaurai   def.  Alaister Burke       26 76(7) [8]
  > Flight 22
   > Main
-     R3  William Crane        vs   Harry Yang           Fri @ 15:00
-     R2  Michael Pollatos     vs   Harry Yang           Fri @ 11:00
-     R1  William Crane       def.  Michael Pollatos     61 62
+     R3  William Crane        def.  Harry Yang           Walkover
+     R2  Michael Pollatos     def.  Harry Yang           63 63
+     R1  William Crane        def.  Michael Pollatos     61 62
  > Flight 5
   > Main
-     R2  Harrison Brown       vs   Konstantinos Raptis  Fri @ 13:45
-     R2  Gavin Segraves       vs   Jake Fellows         Fri @ 13:45
-     R1  Harrison Brown       vs   Gavin Segraves       Fri @ 09:30
-     R1  Konstantinos Raptis  vs   Jake Fellows         Fri @ 08:00
+     R3  Gavin Segraves       def.  Konstantinos Raptis  64 75
+     R3  Harrison Brown       def.  Jake Fellows         36 76(5) [7]
+     R2  Harrison Brown       def.  Konstantinos Raptis  62 75
+     R2  Jake Fellows         def.  Gavin Segraves       63 64
+     R1  Harrison Brown       def.  Gavin Segraves       64 61
+     R1  Jake Fellows         def.  Konstantinos Raptis  61 63
  > Flight 10
   > Main
-     R2  Chen Ruo             vs   Michael Walser       Fri @ 15:00
-     R2  Guillermo Cagigas    vs   Noah Borges          Fri @ 15:00
-     R1  Chen Ruo             vs   Guillermo Cagigas    Fri @ 09:15
-     R1  Michael Walser       vs   Noah Borges          Fri @ 11:00
+     R3  Guillermo Cagigas    def.  Michael Walser       26 63 [5]
+     R3  Chen Ruo             def.  Noah Borges          64 61
+     R2  Chen Ruo             def.  Michael Walser       63 64
+     R2  Guillermo Cagigas    def.  Noah Borges          46 64 [7]
+     R1  Chen Ruo             def.  Guillermo Cagigas    62 61
+     R1  Michael Walser       def.  Noah Borges          62 61
  > Flight 12
   > Main
-     R2  Josh Keitelman       vs   Luke Garner          Fri @ 12:30
-     R2  Ben Husum            vs   Michael Owen         Fri @ 13:45
-     R1  Josh Keitelman      def.  Ben Husum            64 46 [7]
-     R1  Luke Garner         def.  Michael Owen         64 64
+     R3  Luke Garner          def.  Ben Husum            46 62 [7]
+     R3  Josh Keitelman       def.  Michael Owen         75 64
+     R2  Luke Garner          def.  Josh Keitelman       62 26 [4]
+     R2  Ben Husum            def.  Michael Owen         64 63
+     R1  Josh Keitelman       def.  Ben Husum            64 46 [7]
+     R1  Luke Garner          def.  Michael Owen         64 64
+ > Extra matches Saturday
+  > Main
+     QF  Jack McBride         def.  Michael Pollatos     75 60
+     QF  Chanasorn Nakaurai   def.  Harry Yang           Walkover
+     QF  Dustin Ha            def.  William Crane        75 63
+ > Sunday Singles
+  > Main
+     16  Tim Zelikovsky        vs   Raphael Mujan        Sun @ 08:00
+     16  Carlos Carvalho       vs   Robert Hagen         Sun @ 08:00
+     16  Youssef Sadek         vs   Dimosthenis Taramon… Sun @ 08:00
+     32  Oliver Nolan          vs   Andres Silva         Sun @ 08:00
+     32  Ryan Jurist           vs   Stefan Petrovic      Sun @ 08:00
+     32  Michael Owen          vs   Mathieu Josserand    Sun @ 08:00
+     32  Younes Lalami         vs   Guilherme Severin    Sun @ 08:00
+     32  Karlis Katlaps        vs   Michael Walser       Sun @ 08:00
+     32  Konstantinos Raptis   vs   John Walsh           Sun @ 08:00
+     32  Oscar Hernandez       vs   Yevhen Sirous        Sun @ 08:00
+     32  William Crane         vs   Alaister Burke       Sun @ 08:00
 ~~~
 
 <a name="21-27941"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
   C.L Varner Invitational
   Dates: Oct 8-12, 2021
   Host: Rollins College (M)
-═══════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
  Men's Open Singles
- > Men Singles A
+ > Hidden Dual
   > Main
-     16  Roy Stepanov    vs   Mortiz Stenzer      Fri @ 16:30
-     16  Arthur Fonseca  vs   Alexandru Bucurescu Fri @ 16:30
- > Men Singles B
+     F  Victor De Oliveira   def.  Andrea Brignacca     16 31 Ret.
+ > Hidden Dual 2
   > Main
-     16  David Polo      vs   Tyler Glowaki       Fri @ 16:30
+     F  Denis Golubev        def.  Federico Barbon      64 62
+ > Hidden Dual 3
+  > Main
+     F  Efe Comu             def.  Roy Stepanov         64 63
+ > Hidden Dual 4
+  > Main
+     F  Enrique Martinez     def.  Christian Kearns     64 62
+ > Hidden Dual 5
+  > Main
+     F  Diego Menendez Vina  def.  Arthur Fonseca       61 62
+ > Hidden Dual 6
+  > Main
+     F  Christian Della Cio… def.  Alexandru Bucurescu  36 64 [12]
+ > Hidden Dual 7
+  > Main
+     F  Theodore Preiswerk   def.  Mortiz Stenzer       64 63
+ > Hidden Dual 8
+  > Main
+     F  Phillip McMurray     def.  Tyler Glowaki        64 64
+ > Hidden Dual 9
+  > Main
+     F  Nadal Nicolau Ferrer def.  David Polo           62 64
+ > Hidden Dual 10
+  > Main
+     F  Denis Golubev        def.  Victor De Oliveira   64 63
+ > Hidden Dual 11
+  > Main
+     F  Efe Comu             def.  Federico Barbon      63 63
+ > Hidden Dual 12
+  > Main
+     F  Enrique Martinez     def.  Arthur Fonseca       63 64
+ > Hidden Dual 13
+  > Main
+     F  Diego Menendez Vina  def.  Christian Kearns     60 61
+ > Hidden Dual 14
+  > Main
+     F  Christian Della Cio… def.  Mortiz Stenzer       62 61
+ > Hidden Dual 15
+  > Main
+     F  Roy Stepanov         def.  Alexandru Bucurescu  61 62
+ > Hidden Dual 16
+  > Main
+     F  Tyler Glowaki        def.  David Polo           62 63
+ > Hidden Dual 17
+  > Main
+     F  Phillip McMurray     def.  Nadal Nicolau Ferrer 64 61
+~~~
+
+<a name="21-99765"></a>
+~~~
+════════════════════════════════════════════════════════════════════
+  Lander Invitational
+  Dates: Oct 8-9, 2021
+  Host: Lander University (M)
+════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Nilsson Flight
+  > East
+     QF  Georgije Babic    def.  Jorge Robinson       63 36 [5]
+     QF  Bailey Horne      def.  Quentin Perez        62 61
+     QF  Pedro Cardoso     def.  Herick Isago         63 46 [7]
+     QF  Alexandre Crepy   def.  Jesus Villamizar     64 75
+ > Persson Flight
+  > East
+     QF  Teodor Cariov     def.  Ludvig Danielsson    63 62
+     QF  Artur Davydovskiy def.  Aurelien Arlot       46 75 [4]
+     QF  Matthew De Groot  def.  Tanguy Calicis       63 76(4)
+     QF  Daniel Martens    def.  Lukas Zavrel         61 75
+ > Pristach Flight
+  > East
+     QF  Vance Mercer      def.  Joshua Gwynne        62 62
+     QF  Jack Coleman      def.  Ben Grunert          67(5) 62 [3]
+     QF  Jack Sorel        def.  Alvaro Quereda       62 60
+ > Cabri Flight
+  > East
+     QF  Lucas Bolle       def.  Juan Sebastian Domi… 36 76(9) [9]
+     QF  Thomas De Negri   def.  Masumi Komada        63 36 [10]
+     QF  Javier Matos      def.  Hugo Regner          75 63
+     QF  Ricard Rubio      def.  Enzo Sergi           62 63
+~~~
+
+<a name="21-27918"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Wallach Invitational 2021
+  Dates: Oct 9-10, 2021
+  Host: Bates College (M)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > Main
+     QF (1) Tristan Bradley   def.     Harris Foulkes       63 76(6)
+     QF     Isaac Gorelik     def. (4) Sujit Chepuri        76(4) 62
+     QF (3) Damien Ruparel    def.     Zachary Portnoy      67(3) 75 [5]
+     QF (2) Rishabh Sharda    def.     Nicholas Forester    64 63
+     16 (1) Tristan Bradley   def.     Jake Cohen           75 63
+     16     Harris Foulkes    def.     Leo Kupferman        62 64
+     16     Isaac Gorelik     def.     John Rado            63 76(2)
+     16 (4) Sujit Chepuri     def.     Henry Bilicic        62 63
+     16 (3) Damien Ruparel    def.     Oscar Yang           61 64
+     16     Zachary Portnoy   def.     Cameron Davis-Kania  62 76(3)
+     16     Nicholas Forester def.     Ross DeRose          62 64
+     16 (2) Rishabh Sharda    def.     Joey Barrett         60 64
+ > Flight B
+  > Main
+     QF     Sam Henry         def. (1) Derin Acaroglu       61 62
+     QF     Brendan Jimenez   def.     Ethan Bradley        64 63
+     QF     Ed Opie           def. (3) Paris Pentousis      57 64 [9]
+     QF     Josh Belandres    def.     Max Schuermann       26 63 [5]
+     16     Sam Henry         def.     Elijah Criss         62 60
+     16     Brendan Jimenez   def.     Eduardo Sanchez-Car… 63 62
+     16     Ethan Bradley     def. (4) Alexander Gujarathi  64 64
+     16 (3) Paris Pentousis   def.     Charlie Kilborn      60 60
+     16     Ed Opie           def.     Teddy Koide          60 64
+     16     Josh Belandres    def.     Matthew Danielson    60 76(5)
+     16     Max Schuermann    def. (2) Jack Flores          62 61
+ > Flight C
+  > Main
+     QF (1) Pieter Breuker    def.     James Bogdanovic     75 60
+     QF     Shaw Rhinelander  def. (4) Jack Moldenhauer     36 62 [7]
+     QF     William Turchetta def.     Josh Kaplan          62 62
+     QF (2) Tristan Thiebaut  def.     Alex Archer          60 60
+     16     James Bogdanovic  def.     Ramiro Davila        64 62
+     16     Shaw Rhinelander  def.     Jack Ginter          67(5) 63 [7]
+     16 (4) Jack Moldenhauer  def.     Paul Zhou            62 60
+     16     William Turchetta def. (3) Vuk Vuksanovic       62 60
+     16     Josh Kaplan       def.     Kartik Erodula       62 75
+     16     Alex Archer       def.     Micah Elias          75 75
+     16 (2) Tristan Thiebaut  def.     Geoff Golan          62 63
+ > Flight D
+  > Main
+     QF     Dylan Glickman    def.     Sriram Das           60 62
+     QF (4) Oliver Obeid      def.     Kobe Ellenbogen      63 64
+     QF (3) Corey Marley      def.     Zach Ostrow          63 75
+     QF     James Liam Dun    def. (2) Bud Fisher           61 64
+     16     Dylan Glickman    def. (1) Joseph Wilkanowski   64 61
+     16     Sriram Das        def.     Ben Adey             63 63
+     16     Kobe Ellenbogen   def.     Marcus Carlsson      61 75
+     16     Zach Ostrow       def.     Sujan Garapati       76(5) 64
+     16     James Liam Dun    def.     Julian Hernandez     61 60
 ~~~
 
 Return to the [Top](./men_singles_2140.md) &#124; [Home Page](../../index.md)
