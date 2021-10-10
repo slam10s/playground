@@ -292,15 +292,15 @@
 
 <a name="21-11157"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
   Bulldawg Invitational
   Dates: Oct 7-10, 2021
   Host: University Of Georgia (M)
-═════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Doubles Magill Draw
   > East
-      F     Ross/Galka           vs  (2) Martin/Danilchenko   Sun @ 09:00
+      F     Ross/Galka          def. (2) Martin/Danilchenko   81
      SF     Ross/Galka          def.     Diaz/Wallner         87(6)
      SF (2) Martin/Danilchenko  def.     Perez Pena/Johnston  85
      QF     Ross/Galka          def.     Paulsell/Grevelius   85
@@ -308,16 +308,16 @@
      QF     Perez Pena/Johnston def.     Guerrero/Schelcher   85
      QF (2) Martin/Danilchenko  def.     Beasley/Story        87(5)
   > West
-      F     Paulsell/Grevelius   vs      Beasley/Story        Sun @ 09:00
+      F     Beasley/Story       def.     Paulsell/Grevelius   81
      SF     Paulsell/Grevelius  def.     Troost/Ross          86
      SF     Beasley/Story       def.     Guerrero/Schelcher   85
   > 3-4 Playoff
-      F     Diaz/Wallner         vs      Perez Pena/Johnston  Sun @ 09:00
+      F     Diaz/Wallner        def.     Perez Pena/Johnston  86
   > South
-      F     Troost/Ross          vs      Guerrero/Schelcher   Sun @ 09:00
+      F     Troost/Ross         def.     Guerrero/Schelcher   83
  > Doubles Red Draw
   > East
-      F     Rasamatov/Innocenti  vs  (2) Cadonau/Engelhardt   Sun @ 09:00
+      F (2) Cadonau/Engelhardt  def.     Rasamatov/Innocenti  86
      SF     Rasamatov/Innocenti def.     Debru/Gray           87(4)
      SF (2) Cadonau/Engelhardt  def.     Jankulovski/Aubone   86
      QF     Debru/Gray          def.     Vasser/Jalif         86
@@ -325,16 +325,16 @@
      QF     Jankulovski/Aubone  def.     Savva/Sokolovskiy    85
      QF (2) Cadonau/Engelhardt  def.     Falck/Mallory        86
   > West
-      F     Klopper/Robb-Wilcox  vs      Savva/Sokolovskiy    Sun @ 09:00
+      F     Klopper/Robb-Wilcox def.     Falck/Mallory        84
      SF     Klopper/Robb-Wilcox def.     Vasser/Jalif         82
-     SF     Savva/Sokolovskiy   def.     Falck/Mallory        84
+     SF     Falck/Mallory       def.     Savva/Sokolovskiy    84
   > 3-4 Playoff
-      F     Debru/Gray           vs      Jankulovski/Aubone   Sun @ 09:00
+      F     Jankulovski/Aubone  def.     Debru/Gray           81
   > South
-      F     Vasser/Jalif         vs      Falck/Mallory        Sun @ 09:00
+      F     Savva/Sokolovskiy   def.     Vasser/Jalif         Walkover
  > Doubles Black Draw
   > East
-      F     Connel/Mitric        vs  (2) Roelofse/Westling    Sun @ 09:00
+      F     Connel/Mitric       def. (2) Roelofse/Westling    84
      SF     Connel/Mitric       def. (1) Pelletier/Morgan     Walkover
      SF (2) Roelofse/Westling   def.     Ilie/Quiles          84
      QF     Connel/Mitric       def.     Guerrero Alvarez/Ta… 86
@@ -349,11 +349,11 @@
 
 <a name="21-80207"></a>
 ~~~
-════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
   Florida Division I - Bedford Cup, Men 2021
   Dates: Oct 8-10, 2021
   Host: Florida State University (M)
-════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight A
   > East
@@ -367,12 +367,16 @@
      16  Krolo/Huempfner      def.  Hamel/Marques        75
  > Flight B
   > East
+     SF  Gomez-Montesa/Tudor… def.  Duarte/Ellis         75
+     SF  Petrovic/Thongoana   def.  Lopez/Johnson        76(3)
      QF  Gomez-Montesa/Tudor… def.  Laka/Moses           64
      QF  Duarte/Ellis         def.  Escandell/Fernandez… 64
      QF  Lopez/Johnson        def.  Gennes/Penzkofer     64
      QF  Petrovic/Thongoana   def.  Carroll/Kotan        63
      16  Duarte/Ellis         def.  Mohandoss/Pisane     63
      16  Gennes/Penzkofer     def.  Jadoun/Stodder       76(5)
+  > 3-4 Playoff
+      F  Duarte/Ellis          vs   Lopez/Johnson        Sun @ 08:30
 ~~~
 
 <a name="21-99710"></a>
@@ -516,6 +520,9 @@
  Men's Open Doubles
  > Flight A
   > Main
+      F (1) Ruparel/Chepuri    def.     Bradley/Breuker      85
+     SF (1) Ruparel/Chepuri    def. (4) Pentousis/Gorelik    84
+     SF     Bradley/Breuker    def. (2) Belandres/Acaroglu   85
      QF (1) Ruparel/Chepuri    def.     Jimenez/Portnoy      87(5)
      QF (4) Pentousis/Gorelik  def.     Bradley/Yang         85
      QF     Bradley/Breuker    def. (3) Foulkes/Opie         81
@@ -525,6 +532,21 @@
      16 (4) Pentousis/Gorelik  def.     Davis-Kania/Kupferm… 87(4)
      16     Bradley/Breuker    def.     Schuermann/Henry     87(7)
      16     Bilicic/DeRose     def.     Forester/Gujarathi   85
+ > Flight B
+  > Main
+     SF (1) Sharda/Glickman    def. (3) Flores/Garapati      82
+     SF     Vuksanovic/Marley  def.     Moldenhauer/Obeid    85
+     QF (1) Sharda/Glickman    def.     Danielson/Koide      83
+     QF (3) Flores/Garapati    def.     Bogdanovic/Kaplan    82
+     QF     Vuksanovic/Marley  def. (4) Thiebaut/Biernat     86
+     QF     Moldenhauer/Obeid  def.     Zhou/Archer          84
+     16     Danielson/Koide    def.     Turchetta/Ellenbogen 81
+     16     Bogdanovic/Kaplan  def.     Ginter/Erodula       86
+     16 (3) Flores/Garapati    def.     Davila/Dun           87(1)
+     16 (4) Thiebaut/Biernat   def.     Criss/Desai          85
+     16     Vuksanovic/Marley  def.     Das/Hernandez        80
+     16     Zhou/Archer        def.     Rutledge/Carlsson    86
+     16     Moldenhauer/Obeid  def. (2) Rhinelander/Elias    82
 ~~~
 
 Return to the [Top](./men_doubles_2140.md) &#124; [Home Page](../../index.md)

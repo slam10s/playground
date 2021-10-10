@@ -950,7 +950,7 @@
      SF     Jackson Ross         def.     James Roelofse       62 64
      SF     Angel Guerrero       def.     Hikaru Takeda        75 64
   > 3-4 Playoff
-      F     Mathis Debru          vs  (3) Gabriel Hurtado      Sun @ 11:30
+      F     Mathis Debru         def. (3) Gabriel Hurtado      Walkover
   > South
       F     Danil Ozernoy         vs      Spencer Gray         Sun @ 11:30
      SF     Danil Ozernoy        def. (1) Beau Pelletier       Walkover
@@ -971,7 +971,7 @@
  Men's Open Singles
  > Flight A
   > East
-      F  Kevin Huempfner       vs   Antonio Muniz-Hidal… Sun @ 10:00
+      F  Kevin Huempfner      def.  Antonio Muniz-Hidal… 76(4) 64
      SF  Kevin Huempfner      def.  Joshua Dous Karpens… 60 75
      SF  Antonio Muniz-Hidal… def.  Youcef Rihane        67(5) 41 Ret.
      QF  Kevin Huempfner      def.  Magnus Johnson       36 64 61
@@ -1003,6 +1003,7 @@
      32  Carles Sarrio        def.  Alex Bulte           62 67(4) 62
   > West
      QF  Nilo Duarte          def.  Finn Stodder         75 60
+     QF  Rodrigo Crespo       def.  Alvaro Fernandez Ho… 62 36 [6]
      16  Andreja Petrovic     def.  Munuel Goncalves     61 64
      16  Sven Thiergard       def.  Maks Silagy          64 64
      16  Clement Hamel        def.  Alvin Tudorica       Walkover
@@ -1021,6 +1022,7 @@
      QF  Maks Silagy          def.  Alvin Tudorica       Walkover
  > Flight B
   > East
+      F  Bruno Oliveira       def.  Alexandre Hillhouse  63 75
      SF  Alexandre Hillhouse  def.  Tim Gennes           76(4) 61
      SF  Bruno Oliveira       def.  Hunter Robbins       63 60
      QF  Tim Gennes           def.  Max Damm             60 63
