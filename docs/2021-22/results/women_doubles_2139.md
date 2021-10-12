@@ -9,12 +9,14 @@
 - 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
 - 10/1/2021 - [Barb Chandler Classic](#21-63890) ([Results](#21-63890) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityW/Tournaments/Overview/88302122-9593-4E3B-B392-8D6982533991" target="_blank">Draws</a>)  
 - 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
+- 9/27/2021 - [BU Invitational](#21-87840) ([Results](#21-87840) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">Draws</a>)  
 - 10/1/2021 - [Eagles Invitational](#21-42606) ([Results](#21-42606) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternMichiganUnivW/Tournaments/Overview/47B6E347-F9DC-455F-9E51-1E407EB949E4" target="_blank">Draws</a>)  
 - 10/1/2021 - [Florida Division 1 Bedford Cup, Women](#21-60580) ([Results](#21-60580) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthFloridaW/Tournaments/Overview/C3845735-BCB5-44DE-9B50-9FA2F75B1EE9" target="_blank">Draws</a>)  
 - 10/1/2021 - [HEB Invite](#21-50278) ([Results](#21-50278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityW/Tournaments/Overview/DED0835D-381B-47D9-8471-55474B03566B" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Atlantic Women's Regional Championship](#21-03077) ([Results](#21-03077) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/EB66D8AE-2B72-4A34-AF59-E6C67DA9A6D8" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Northeasts Regional Championship](#21-17427) ([Results](#21-17427) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">Draws</a>)  
+- 9/29/2021 - [Kitty Harrison invitational](#21-98114) ([Results](#21-98114) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [UH Fall Invitational](#21-25235) ([Results](#21-25235) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHoustonW/Tournaments/Overview/81CEAFCF-07E3-42B0-BDDF-CB7D5F8E881B" target="_blank">Draws</a>)  
@@ -35,9 +37,7 @@
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Division III Women's Midwest ITA Regional Championships</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Division III Women's Northwest ITA Regional Championships</a>  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Division III Women's Southeast ITA Regional Championships</a>  
-- 9/27/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">BU Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/19C5EAFF-4E4C-4DBD-83F9-4FE76D915740" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
-- 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Kitty Harrison invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
@@ -519,15 +519,15 @@
      QF     Berry/Boy            def. (2) Leslie/Christians    64
      16     Filip/Schieroni      def.     Umarova/Skrobonja    63
      16 (3) Sharma/Mattel        def.     Hubeaut/Sandy        60
-     16     Bardet/Ferding       def.     Eland/Shumacher      62
+     16     Bardet/Ferding       def.     Eland/Schumacher     62
      16     Bekrar/Kabbaj        def.     Kudelova/MGinnis     64
      16 (4) De Oliveira/Dudeney  def.     Davis/Yardley        61
      16     Berry/Boy            def.     Cohen/Dovgopolyi     62
   > West
       F     Umarova/Skrobonja    def.     Kudelova/MGinnis     63
-     SF     Umarova/Skrobonja    def.     Eland/Shumacher      63
+     SF     Umarova/Skrobonja    def.     Eland/Schumacher     63
      SF     Kudelova/MGinnis     def.     Cohen/Dovgopolyi     62
-     QF     Eland/Shumacher      def.     Hubeaut/Sandy        62
+     QF     Eland/Schumacher     def.     Hubeaut/Sandy        62
      QF     Kudelova/MGinnis     def.     Davis/Yardley        63
   > North
      SF     Filip/Schieroni      def.     Bardet/Ferding       Walkover
@@ -766,6 +766,84 @@
      64     Hack/Jonglertakul    def.     Peus/Benedetto       84
      64     Jackson/Herremans    def.     Ordonez/Breunich     84
      64     Aude/Li              def.     Hickey/Gomez Estrada 84
+~~~
+
+<a name="21-98114"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  Kitty Harrison invitational
+  Dates: Sep 29-30, 2021
+  Host: UNC Chapel Hill (W)
+══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Tar Doubles
+  > East
+      F  Martinelli/Wooten    def.  Briggs/Dudeney       62
+     SF  Briggs/Dudeney       def.  Omirou/Coleman       64
+     SF  Martinelli/Wooten    def.  Crawley/Yarlagadda   75
+     QF  Briggs/Dudeney       def.  Crowley/Hand         64
+     QF  Omirou/Coleman       def.  Carrington/Cubitt    64
+     QF  Crawley/Yarlagadda   def.  Manyoma Velasquez/N… 62
+     QF  Martinelli/Wooten    def.  Babic/Bridges        61
+     16  Crowley/Hand         def.  Patel/McClure        60
+     16  Briggs/Dudeney       def.  Chen/Flach           62
+     16  Carrington/Cubitt    def.  Quiterio/Schech      76(3)
+     16  Omirou/Coleman       def.  Johnson/Viktorovich  61
+     16  Crawley/Yarlagadda   def.  Biran/Yakubovich     62
+     16  Manyoma Velasquez/N… def.  ODell/Munera         Default
+     16  Martinelli/Wooten    def.  Schrage/Sung         61
+     16  Babic/Bridges        def.  Cabezas/Kadleckova   75
+  > West
+      F  Quiterio/Schech      def.  Cabezas/Kadleckova   63
+     SF  Quiterio/Schech      def.  Chen/Flach           62
+     SF  Cabezas/Kadleckova   def.  Biran/Yakubovich     64
+     QF  Chen/Flach           def.  Patel/McClure        Default
+     QF  Quiterio/Schech      def.  Johnson/Viktorovich  61
+     QF  Biran/Yakubovich     def.  ODell/Munera         Default
+     QF  Cabezas/Kadleckova   def.  Schrage/Sung         62
+  > North
+      F  Crowley/Hand         def.  Manyoma Velasquez/N… 63
+     SF  Crowley/Hand         def.  Carrington/Cubitt    76(6)
+     SF  Manyoma Velasquez/N… def.  Babic/Bridges        62
+  > 3-4 Playoff
+      F  Crawley/Yarlagadda   def.  Omirou/Coleman       63
+  > South
+      F  Schrage/Sung         def.  Johnson/Viktorovich  63
+     SF  Johnson/Viktorovich  def.  Patel/McClure        Default
+     SF  Schrage/Sung         def.  ODell/Munera         Default
+  > Southwest
+      F  Chen/Flach           def.  Biran/Yakubovich     63
+ > Heel Doubles
+  > East
+      F  Sasnouskaya/Starodu… def.  Lagarde/Smagina      76(6)
+     SF  Lagarde/Smagina      def.  Sanford/Tran         75
+     SF  Sasnouskaya/Starodu… def.  Ansari/Arseneault    61
+     QF  Sanford/Tran         def.  Hsieh/Naklo          64
+     QF  Lagarde/Smagina      def.  Saric/Alhach         63
+     QF  Ansari/Arseneault    def.  Berankova/Chen       Default
+     QF  Sasnouskaya/Starodu… def.  Harvey/Zink          64
+     16  Hsieh/Naklo          def.  Kiefer/Ziodato       60
+     16  Saric/Alhach         def.  Hand/Shusharina      64
+     16  Lagarde/Smagina      def.  Berlin/Zein          76(5)
+     16  Ansari/Arseneault    def.  De Oliveira/Spee     76(5)
+     16  Harvey/Zink          def.  Geissler/Rabinowitz  62
+     16  Sasnouskaya/Starodu… def.  Ahmad/Nihalani       60
+  > West
+      F  Hand/Shusharina      def.  Geissler/Rabinowitz  64
+     SF  Hand/Shusharina      def.  Kiefer/Ziodato       62
+     SF  Geissler/Rabinowitz  def.  De Oliveira/Spee     64
+     QF  Hand/Shusharina      def.  Berlin/Zein          64
+     QF  Geissler/Rabinowitz  def.  Ahmad/Nihalani       61
+  > North
+      F  Hsieh/Naklo          def.  Harvey/Zink          60
+     SF  Hsieh/Naklo          def.  Saric/Alhach         63
+     SF  Harvey/Zink          def.  Berankova/Chen       Default
+  > 3-4 Playoff
+      F  Sanford/Tran         def.  Ansari/Arseneault    62
+  > South
+      F  Ahmad/Nihalani       def.  Berlin/Zein          63
+  > Southwest
+      F  Kiefer/Ziodato       def.  De Oliveira/Spee     64
 ~~~
 
 <a name="21-07548"></a>

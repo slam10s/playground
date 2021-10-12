@@ -437,7 +437,7 @@
  Men's Open Doubles
  > Main Draw
   > Main
-       F      Boulais/Trotter       vs   (Q) Cash/Vocel           Sun @ 12:00
+       F  (Q) Cash/Vocel           def.      Boulais/Trotter      63 62
       SF      Boulais/Trotter      def.      Dostanic/Frye        64 63
       SF  (Q) Cash/Vocel           def.  (Q) Hudd/Mitsui          62 64
       QF      Boulais/Trotter      def.  (5) Charlton/Vandecaste… 67(5) 64 [6]
@@ -469,7 +469,7 @@
       32  (Q) Reynolds/Lithen      def. (LL) Keremedchiev/Klov-N… 64 64
       32  (Q) Hudd/Mitsui          def.  (2) Rodrigues/Thomson    67(3) 76(5) [5]
   > Consolation
-       F  (Q) Rodesch/Goetz         vs  (LL) Keremedchiev/Klov-N… Sun @ 12:00
+       F  (Q) Rodesch/Goetz        def. (LL) Keremedchiev/Klov-N… 46 76(5) [9]
       SF  (Q) Rodesch/Goetz        def.  (5) Johns/Sculley        67(5) 76(5) [6]
       SF (LL) Keremedchiev/Klov-N… def.      Pearson/Di Marco     75 46 [6]
       QF  (Q) Rodesch/Goetz        def.  (Q) Malbasic/Hoeyeraal   62 62

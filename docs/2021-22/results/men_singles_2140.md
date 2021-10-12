@@ -17,6 +17,7 @@
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Loyola Classic</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Youngstown State Hidden Duals</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 
@@ -30,7 +31,7 @@
  Men's Open Singles
  > Main Draw
   > Main
-       F      Ben Shelton           vs       August Holmgren      Sun @ 10:00
+       F      Ben Shelton          def.      August Holmgren      63 64
       SF      Ben Shelton          def.      Clement Chidekh      63 60
       SF      August Holmgren      def.  (Q) Andre Ilagan         64 63
       QF      Ben Shelton          def.  (Q) Jj Tracy             76(7) 75
@@ -94,7 +95,7 @@
       64      Florian Broska       def.  (Q) Trey Hilderbrand     61 63
       64  (2) Johannus Monday      def.  (Q) Tim Zeitvogel        46 63 62
   > Consolation
-       F  (9) MAtej Vocel           vs   (Q) Chris Rodesch        Sun @ 09:00
+       F  (9) MAtej Vocel          def.  (Q) Chris Rodesch        64 57 75
       SF  (9) MAtej Vocel          def.  (Q) Henry Schulenburg    76(3) 61
       SF  (Q) Chris Rodesch        def.      Karl Poling          16 63 64
       QF  (Q) Henry Schulenburg    def. (LL) Justin Barki         43 Ret.
@@ -840,7 +841,7 @@
      R1     Ilarion Danilchenko  def.     Iganacio Sandoval    75 61
  > Singles Magill Draw
   > East
-      F     James Story           vs      Dan Martin           Sun @ 10:00
+      F     Dan Martin           def.     James Story          64 67(4) 75
      SF     James Story          def. (3) Erik Grevelius       67(3) 60 75
      SF     Dan Martin           def.     Thomas Paulsell      76(10) 75
      QF     James Story          def. (1) Bojan Jankulovski    75 64
@@ -856,7 +857,7 @@
      16     Thomas Paulsell      def.     Lukas Engelhardt     61 63
      16 (2) Jan Galka            def.     Ivan Mitric          46 75 61
   > West
-      F     Joubert Klopper       vs      Ivan Mitric          Sun @ 10:00
+      F     Joubert Klopper      def.     Ivan Mitric          62 63
      SF     Joubert Klopper      def.     Mark Wallner         32 Ret.
      SF     Ivan Mitric          def.     Jake Beasley         46 62 63
      QF     Mark Wallner         def.     Bekhzod Rasamatov    46 62 76(6)
@@ -864,24 +865,24 @@
      QF     Jake Beasley         def.     Pablo Schelcher      64 67(2) 75
      QF     Ivan Mitric          def.     Lukas Engelhardt     Walkover
   > North
-      F (1) Bojan Jankulovski     vs  (2) Jan Galka            Sun @ 10:00
+      F (2) Jan Galka            def. (1) Bojan Jankulovski    61 62
      SF (1) Bojan Jankulovski    def.     Mikhail Sokolovskiy  64 75
      SF (2) Jan Galka            def. (4) Miguel Perez Pena    61 64
   > 3-4 Playoff
-      F (3) Erik Grevelius        vs      Thomas Paulsell      Sun @ 10:00
+      F (3) Erik Grevelius       def.     Thomas Paulsell      36 60 62
   > South
-      F     Bekhzod Rasamatov     vs      Pablo Schelcher      Sun @ 10:00
+      F     Pablo Schelcher      def.     Bekhzod Rasamatov    26 64 76
      SF     Bekhzod Rasamatov    def.     Alejandro Quiles     76(1) 36 75
      SF     Pablo Schelcher      def.     Lukas Engelhardt     Walkover
   > Southwest
-      F     Mark Wallner          vs      Jake Beasley         Sun @ 10:00
+      F     Mark Wallner         def.     Jake Beasley         64 63
   > Northwest
-      F     Mikhail Sokolovskiy   vs  (4) Miguel Perez Pena    Sun @ 10:00
+      F (4) Miguel Perez Pena    def.     Mikhail Sokolovskiy  64 64
   > Southeast
       F     Alejandro Quiles     def.     Lukas Engelhardt     Walkover
  > Singles Red Draw
   > East
-      F     Coy Simon             vs      Jamie Connel         Sun @ 10:00
+      F     Jamie Connel         def.     Coy Simon            64 64
      SF     Coy Simon            def.     Jakob Cadonau        62 26 61
      SF     Jamie Connel         def.     Britton Johnston     36 76(7) 75
      QF     Coy Simon            def.     Michael Ross         62 63
@@ -897,7 +898,7 @@
      16     Britton Johnston     def.     Andrew Ilie          64 76(1)
      16 (2) Siim Troost          def.     Carter Morgan        75 64
   > West
-      F     Conor Gannon          vs  (3) Angel Diaz           Sun @ 10:00
+      F (3) Angel Diaz           def.     Conor Gannon         61 64
      SF     Conor Gannon         def. (4) Davide Innocenti     62 61
      SF (3) Angel Diaz           def.     Andrew Ilie          75 62
      QF     Conor Gannon         def. (1) Will Nolan           Walkover
@@ -905,24 +906,22 @@
      QF (3) Angel Diaz           def.     Oren Vasser          Walkover
      QF     Andrew Ilie          def.     Carter Morgan        63 57 62
   > North
-      F     Carlos Guerrero Alv…  vs      Stefanos Savva       Sun @ 11:30
+      F     Stefanos Savva       def.     Carlos Guerrero Alv… 36 64 60
      SF     Carlos Guerrero Alv… def.     Michael Ross         62 63
      SF     Stefanos Savva       def. (2) Siim Troost          63 62
   > 3-4 Playoff
-      F     Jakob Cadonau         vs      Britton Johnston     Sun @ 10:00
+      F     Jakob Cadonau        def.     Britton Johnston     75 64
   > South
-      F     Brandon McKinney      vs      Carter Morgan        Sun @ 10:00
+      F     Brandon McKinney     def.     Carter Morgan        63 60
      SF     Brandon McKinney     def. (1) Will Nolan           Walkover
      SF     Carter Morgan        def.     Oren Vasser          Walkover
   > Southwest
-      F (4) Davide Innocenti      vs      Andrew Ilie          Sun @ 11:30
-  > Northwest
-      F     Michael Ross          vs  (2) Siim Troost          Sun @ 10:00
+      F (4) Davide Innocenti     def.     Andrew Ilie          63 63
   > Southeast
       F     Oren Vasser          def. (1) Will Nolan           Walkover
  > Singles Black Draw
   > East
-      F     Richard Trey Mallory  vs  (2) Juan Martin Jalif    Sun @ 11:30
+      F     Richard Trey Mallory def. (2) Juan Martin Jalif    36 63 64
      SF     Richard Trey Mallory def.     Mathis Debru         76(4) 62
      SF (2) Juan Martin Jalif    def. (3) Gabriel Hurtado      36 63 64
      QF     Richard Trey Mallory def.     James Roelofse       64 64
@@ -938,7 +937,7 @@
      16     Hikaru Takeda        def.     Reece Falck          64 60
      16 (2) Juan Martin Jalif    def.     Abhimanyu Vannemred… 10 Ret.
   > West
-      F (4) Franco Aubone         vs      Reece Falck          Sun @ 11:30
+      F     Reece Falck          def. (4) Franco Aubone        16 75 76(4)
      SF (4) Franco Aubone        def.     Connor Robb-Wilcox   Walkover
      SF     Reece Falck          def.     Emil Westling        63 61
      QF     Connor Robb-Wilcox   def. (1) Beau Pelletier       Walkover
@@ -946,106 +945,107 @@
      QF     Emil Westling        def.     Spencer Gray         64 36 75
      QF     Reece Falck          def.     Abhimanyu Vannemred… Walkover
   > North
-      F     Jackson Ross          vs      Angel Guerrero       Sun @ 11:30
+      F     Jackson Ross         def.     Angel Guerrero       16 75 76(8)
      SF     Jackson Ross         def.     James Roelofse       62 64
      SF     Angel Guerrero       def.     Hikaru Takeda        75 64
   > 3-4 Playoff
       F     Mathis Debru         def. (3) Gabriel Hurtado      Walkover
   > South
-      F     Danil Ozernoy         vs      Spencer Gray         Sun @ 11:30
+      F     Spencer Gray         def.     Danil Ozernoy        75 64
      SF     Danil Ozernoy        def. (1) Beau Pelletier       Walkover
      SF     Spencer Gray         def.     Abhimanyu Vannemred… Walkover
   > Southwest
       F     Emil Westling        def.     Connor Robb-Wilcox   Walkover
   > Northwest
       F     Hikaru Takeda        def.     James Roelofse       Walkover
+ > Singles Extra Matches
+  > Main
+     SF     Brandon McKinney     def.     Iganacio Sandoval    62 Ret.
+     SF     Ilarion Danilchenko  def.     Hikaru Takeda        46 61 62
 ~~~
 
 <a name="21-80207"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   Florida Division I - Bedford Cup, Men 2021
   Dates: Oct 8-10, 2021
   Host: Florida State University (M)
-════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > East
-      F  Kevin Huempfner      def.  Antonio Muniz-Hidal… 76(4) 64
-     SF  Kevin Huempfner      def.  Joshua Dous Karpens… 60 75
-     SF  Antonio Muniz-Hidal… def.  Youcef Rihane        67(5) 41 Ret.
-     QF  Kevin Huempfner      def.  Magnus Johnson       36 64 61
-     QF  Joshua Dous Karpens… def.  Ivan Yatsuk          36 64 63
-     QF  Youcef Rihane        def.  Richard Thongoana    62 67(3) 64
-     QF  Antonio Muniz-Hidal… def.  Carles Sarrio        64 76(2)
-     16  Magnus Johnson       def.  Diogo Marques        63 61
-     16  Kevin Huempfner      def.  Matthew Carroll      63 63
-     16  Ivan Yatsuk          def.  Gerard Escandell     63 36 63
-     16  Joshua Dous Karpens… def.  Patrick Kotan        32 Ret.
-     16  Richard Thongoana    def.  Nicolas Jadoun       63 61
-     16  Youcef Rihane        def.  Jorge Nunez          64 62
-     16  Antonio Muniz-Hidal… def.  Guglielmo Stefanacci 61 63
-     16  Carles Sarrio        def.  Dominik Barton       63 60
-     32  Diogo Marques        def.  Breno Marques        62 76
-     32  Kevin Huempfner      def.  Andreja Petrovic     61 64
-     32  Matthew Carroll      def.  Munuel Goncalves     62 62
-     32  Ivan Yatsuk          def.  Maks Silagy          46 64 63
-     32  Gerard Escandell     def.  Rodrigo Crespo       64 62
-     32  Joshua Dous Karpens… def.  Clement Hamel        62 46 61
-     32  Patrick Kotan        def.  Alvin Tudorica       46 63 75
-     32  Nicolas Jadoun       def.  Nilo Duarte          62 62
-     32  Richard Thongoana    def.  Fabian Penzkofer     64 64
-     32  Jorge Nunez          def.  Sergio Gomez-Montesa 62 75
-     32  Youcef Rihane        def.  Finn Stodder         63 46 75
-     32  Guglielmo Stefanacci def.  Jonas Hartenstein    16 75 64
-     32  Antonio Muniz-Hidal… def.  Alvaro Fernandez Ho… 63 64
-     32  Dominik Barton       def.  Sven Thiergard       63 75
-     32  Carles Sarrio        def.  Alex Bulte           62 67(4) 62
+      F     Kevin Huempfner      def. (5) Antonio Muniz-Hidal… 76(4) 64
+     SF     Kevin Huempfner      def. (5) Joshua Dous Karpens… 60 75
+     SF (5) Antonio Muniz-Hidal… def.     Youcef Rihane        67(5) 41 Ret.
+     QF     Kevin Huempfner      def. (1) Magnus Johnson       36 64 61
+     QF (5) Joshua Dous Karpens… def. (4) Ivan Yatsuk          36 64 63
+     QF     Youcef Rihane        def. (5) Richard Thongoana    62 67(3) 64
+     QF (5) Antonio Muniz-Hidal… def. (2) Carles Sarrio        64 76(2)
+     16 (1) Magnus Johnson       def.     Diogo Marques        63 61
+     16     Kevin Huempfner      def.     Matthew Carroll      63 63
+     16 (4) Ivan Yatsuk          def.     Gerard Escandell     63 36 63
+     16 (5) Joshua Dous Karpens… def.     Patrick Kotan        32 Ret.
+     16 (5) Richard Thongoana    def.     Nicolas Jadoun       63 61
+     16     Youcef Rihane        def.     Jorge Nunez          64 62
+     16 (5) Antonio Muniz-Hidal… def.     Guglielmo Stefanacci 61 63
+     16 (2) Carles Sarrio        def.     Dominik Barton       63 60
+     32     Diogo Marques        def.     Breno Marques        62 76
+     32     Kevin Huempfner      def. (5) Andreja Petrovic     61 64
+     32     Matthew Carroll      def.     Munuel Goncalves     62 62
+     32 (4) Ivan Yatsuk          def.     Maks Silagy          46 64 63
+     32     Gerard Escandell     def.     Rodrigo Crespo       64 62
+     32 (5) Joshua Dous Karpens… def.     Clement Hamel        62 46 61
+     32     Patrick Kotan        def.     Alvin Tudorica       46 63 75
+     32     Nicolas Jadoun       def.     Nilo Duarte          62 62
+     32 (5) Richard Thongoana    def.     Fabian Penzkofer     64 64
+     32     Jorge Nunez          def.     Sergio Gomez-Montesa 62 75
+     32     Youcef Rihane        def.     Finn Stodder         63 46 75
+     32     Guglielmo Stefanacci def.     Jonas Hartenstein    16 75 64
+     32 (5) Antonio Muniz-Hidal… def.     Alvaro Fernandez Ho… 63 64
+     32     Dominik Barton       def.     Sven Thiergard       63 75
+     32 (2) Carles Sarrio        def.     Alex Bulte           62 67(4) 62
   > West
-     QF  Nilo Duarte          def.  Finn Stodder         75 60
-     QF  Rodrigo Crespo       def.  Alvaro Fernandez Ho… 62 36 [6]
-     16  Andreja Petrovic     def.  Munuel Goncalves     61 64
-     16  Sven Thiergard       def.  Maks Silagy          64 64
-     16  Clement Hamel        def.  Alvin Tudorica       Walkover
-     16  Nilo Duarte          def.  Fabian Penzkofer     57 63 [6]
-     16  Finn Stodder         def.  Sergio Gomez-Montesa 06 64 [4]
-     16  Alvaro Fernandez Ho… def.  Jonas Hartenstein    64 57 [5]
-     16  Rodrigo Crespo       def.  Alex Bulte           76(2) 63
+     QF (5) Andreja Petrovic     def.     Breno Marques        75 62
+     QF     Nilo Duarte          def.     Finn Stodder         75 60
+     QF     Rodrigo Crespo       def.     Alvaro Fernandez Ho… 62 36 [6]
+     16 (5) Andreja Petrovic     def.     Munuel Goncalves     61 64
+     16     Sven Thiergard       def.     Maks Silagy          64 64
+     16     Clement Hamel        def.     Alvin Tudorica       Walkover
+     16     Nilo Duarte          def.     Fabian Penzkofer     57 63 [6]
+     16     Finn Stodder         def.     Sergio Gomez-Montesa 06 64 [4]
+     16     Alvaro Fernandez Ho… def.     Jonas Hartenstein    64 57 [5]
+     16     Rodrigo Crespo       def.     Alex Bulte           76(2) 63
   > North
-     QF  Matthew Carroll      def.  Diogo Marques        75 61
-     QF  Gerard Escandell     def.  Patrick Kotan        64 61
-     QF  Nicolas Jadoun       def.  Jorge Nunez          63 62
-     QF  Dominik Barton       def.  Guglielmo Stefanacci 57 64 [9]
-  > Playoff 3-4
-      F  Joshua Dous Karpens…  vs   Youcef Rihane        Sun @ 09:30
+     QF     Matthew Carroll      def.     Diogo Marques        75 61
+     QF     Gerard Escandell     def.     Patrick Kotan        64 61
+     QF     Nicolas Jadoun       def.     Jorge Nunez          63 62
+     QF     Dominik Barton       def.     Guglielmo Stefanacci 57 64 [9]
   > South
-     QF  Maks Silagy          def.  Alvin Tudorica       Walkover
+     SF     Maks Silagy          def.     Munuel Goncalves     63 36 [8]
+     QF     Maks Silagy          def.     Alvin Tudorica       Walkover
+     QF     Sergio Gomez-Montesa def.     Fabian Penzkofer     61 75
  > Flight B
   > East
-      F  Bruno Oliveira       def.  Alexandre Hillhouse  63 75
-     SF  Alexandre Hillhouse  def.  Tim Gennes           76(4) 61
-     SF  Bruno Oliveira       def.  Hunter Robbins       63 60
-     QF  Tim Gennes           def.  Max Damm             60 63
-     QF  Alexandre Hillhouse  def.  Sandeep Mohandoss    60 61
-     QF  Hunter Robbins       def.  Joe Ellis            61 63
-     QF  Bruno Oliveira       def.  Tom Pisane           61 63
-     16  Max Damm             def.  Joshua Laka          63 36 63
-     16  Alexandre Hillhouse  def.  Pedro Maciel         46 63 60
-     16  Sandeep Mohandoss    def.  Bryn Nahrung         63 16 61
-     16  Joe Ellis            def.  Eric Oncins          46 64 22 Ret.
-     16  Hunter Robbins       def.  Dennis Moses         63 60
-     16  Bruno Oliveira       def.  Juan Lopez           62 64
+      F     Bruno Oliveira       def. (3) Alexandre Hillhouse  63 75
+     SF (3) Alexandre Hillhouse  def. (1) Tim Gennes           76(4) 61
+     SF     Bruno Oliveira       def. (4) Hunter Robbins       63 60
+     QF (1) Tim Gennes           def.     Max Damm             60 63
+     QF (3) Alexandre Hillhouse  def.     Sandeep Mohandoss    60 61
+     QF (4) Hunter Robbins       def.     Joe Ellis            61 63
+     QF     Bruno Oliveira       def. (2) Tom Pisane           61 63
+     16     Max Damm             def.     Joshua Laka          63 36 63
+     16 (3) Alexandre Hillhouse  def.     Pedro Maciel         46 63 60
+     16     Sandeep Mohandoss    def.     Bryn Nahrung         63 16 61
+     16     Joe Ellis            def.     Eric Oncins          46 64 22 Ret.
+     16 (4) Hunter Robbins       def.     Dennis Moses         63 60
+     16     Bruno Oliveira       def.     Juan Lopez           62 64
   > West
-     SF  Juan Lopez           def.  Dennis Moses         60 61
-     QF  Bryn Nahrung         def.  Pedro Maciel         Walkover
-     QF  Dennis Moses         def.  Eric Oncins          Walkover
+     SF     Juan Lopez           def.     Dennis Moses         60 61
+     QF     Bryn Nahrung         def.     Pedro Maciel         Walkover
+     QF     Dennis Moses         def.     Eric Oncins          Walkover
   > North
-     SF  Sandeep Mohandoss    def.  Max Damm             Walkover
-     SF  Tom Pisane           def.  Joe Ellis            64 62
-  > 3-4 Playoff
-      F  Tim Gennes            vs   Hunter Robbins       Sun @ 10:00
-  > Northwest
-      F  Max Damm              vs   Joe Ellis            Sun @ 10:00
+     SF     Sandeep Mohandoss    def.     Max Damm             Walkover
+     SF (2) Tom Pisane           def.     Joe Ellis            64 62
 ~~~
 
 <a name="21-99710"></a>
@@ -1058,194 +1058,181 @@
  Men's Open Singles
  > Flight 1
   > Main
-     R3  Derrick Thompson     def.  Jackson Allen        76(4) 64
-     R3  Dimosthenis Taramon… def.  Younes Lalami        06 64 [6]
-     R2  Younes Lalami        def.  Derrick Thompson     62 62
-     R2  Dimosthenis Taramon… def.  Jackson Allen        62 76(4)
-     R1  Jackson Allen        def.  Younes Lalami        61 46 [4]
-     R1  Dimosthenis Taramon… def.  Derrick Thompson     63 61
+     R3  Derrick Thompson     def.  Jackson Allen       76(4) 64
+     R3  Dimosthenis Taramon… def.  Younes Lalami       06 64 [6]
+     R2  Younes Lalami        def.  Derrick Thompson    62 62
+     R2  Dimosthenis Taramon… def.  Jackson Allen       62 76(4)
+     R1  Jackson Allen        def.  Younes Lalami       61 46 [4]
+     R1  Dimosthenis Taramon… def.  Derrick Thompson    63 61
  > Flight 2
   > Main
-     R3  George Davis         def.  Yevhen Sirous        76(3) 61
-     R3  Alexander Kiefer     def.  Matisse Bobichon     61 63
-     R2  Alexander Kiefer     def.  George Davis         63 76(5)
-     R2  Matisse Bobichon     def.  Yevhen Sirous        26 63 [5]
-     R1  Alexander Kiefer     def.  Yevhen Sirous        60 60
-     R1  George Davis         def.  Matisse Bobichon     67(5) 64 [7]
+     R3  George Davis         def.  Yevhen Sirous       76(3) 61
+     R3  Alexander Kiefer     def.  Matisse Bobichon    61 63
+     R2  Alexander Kiefer     def.  George Davis        63 76(5)
+     R2  Matisse Bobichon     def.  Yevhen Sirous       26 63 [5]
+     R1  Alexander Kiefer     def.  Yevhen Sirous       60 60
+     R1  George Davis         def.  Matisse Bobichon    67(5) 64 [7]
  > Flight 3
   > Main
-     R3  Francois Le Tallec   def.  Joaquim Almeida      61 57 [3]
-     R3  Daniel Kliebhan      def.  Guilherme Severin    63 63
-     R2  Francois Le Tallec   def.  Guilherme Severin    62 62
-     R2  Joaquim Almeida      def.  Daniel Kliebhan      76(4) 16 [8]
-     R1  Joaquim Almeida      def.  Guilherme Severin    63 62
-     R1  Francois Le Tallec   def.  Daniel Kliebhan      63 61
+     R3  Francois Le Tallec   def.  Joaquim Almeida     61 57 [3]
+     R3  Daniel Kliebhan      def.  Guilherme Severin   63 63
+     R2  Francois Le Tallec   def.  Guilherme Severin   62 62
+     R2  Joaquim Almeida      def.  Daniel Kliebhan     76(4) 16 [8]
+     R1  Joaquim Almeida      def.  Guilherme Severin   63 62
+     R1  Francois Le Tallec   def.  Daniel Kliebhan     63 61
  > Flight 4
   > Main
-     R3  Tom Leblanc          def.  Codie Van Schalkwyk  60 62
-     R3  Finbar Talcott       def.  Oscar Hernandez      62 62
-     R2  Codie Van Schalkwyk  def.  Oscar Hernandez      57 62 [6]
-     R2  Finbar Talcott       def.  Tom Leblanc          26 64 [6]
-     R1  Oscar Hernandez      def.  Tom Leblanc          62 62
-     R1  Codie Van Schalkwyk  def.  Finbar Talcott       67(7) 63 [9]
+     R3  Tom Leblanc          def.  Codie Van Schalkwyk 60 62
+     R3  Finbar Talcott       def.  Oscar Hernandez     62 62
+     R2  Codie Van Schalkwyk  def.  Oscar Hernandez     57 62 [6]
+     R2  Finbar Talcott       def.  Tom Leblanc         26 64 [6]
+     R1  Oscar Hernandez      def.  Tom Leblanc         62 62
+     R1  Codie Van Schalkwyk  def.  Finbar Talcott      67(7) 63 [9]
  > Flight 6
   > Main
-     R3  Finn Garner          def.  Charlie Suh          63 76(2)
-     R3  Andres Silva         def.  Joshua Robinson      75 61
-     R2  Andres Silva         def.  Finn Garner          62 62
-     R2  Joshua Robinson      def.  Charlie Suh          61 75
-     R1  Andres Silva         def.  Charlie Suh          63 61
-     R1  Finn Garner          def.  Joshua Robinson      75 75
+     R3  Finn Garner          def.  Charlie Suh         63 76(2)
+     R3  Andres Silva         def.  Joshua Robinson     75 61
+     R2  Andres Silva         def.  Finn Garner         62 62
+     R2  Joshua Robinson      def.  Charlie Suh         61 75
+     R1  Andres Silva         def.  Charlie Suh         63 61
+     R1  Finn Garner          def.  Joshua Robinson     75 75
  > Flight 7
   > Main
-     R3  Aditya Balsekar      def.  Youssef Sadek        57 62 [7]
-     R3  Sebastian Quiros     def.  Alex Warning         63 61
-     R2  Aditya Balsekar      def.  Alex Warning         62 76(4)
-     R2  Sebastian Quiros     def.  Youssef Sadek        62 64
-     R1  Youssef Sadek        def.  Alex Warning         63 63
-     R1  Sebastian Quiros     def.  Aditya Balsekar      64 62
+     R3  Aditya Balsekar      def.  Youssef Sadek       57 62 [7]
+     R3  Sebastian Quiros     def.  Alex Warning        63 61
+     R2  Aditya Balsekar      def.  Alex Warning        62 76(4)
+     R2  Sebastian Quiros     def.  Youssef Sadek       62 64
+     R1  Youssef Sadek        def.  Alex Warning        63 63
+     R1  Sebastian Quiros     def.  Aditya Balsekar     64 62
  > Flight 8
   > Main
-     R3  Jack McBride         def.  Jack Kelly           Walkover
-     R3  Matias Gaedechens    def.  Oliver Tobisch       64 62
-     R2  Oliver Tobisch       def.  Jack Kelly           57 75 [3] Ret.
-     R2  Matias Gaedechens    def.  Jack McBride         57 64 [2]
-     R1  Jack McBride         def.  Oliver Tobisch       67(2) 76(3) [8]
-     R1  Jack Kelly           def.  Matias Gaedechens    64 63
+     R3  Jack McBride         def.  Jack Kelly          Walkover
+     R3  Matias Gaedechens    def.  Oliver Tobisch      64 62
+     R2  Oliver Tobisch       def.  Jack Kelly          57 75 [3] Ret.
+     R2  Matias Gaedechens    def.  Jack McBride        57 64 [2]
+     R1  Jack McBride         def.  Oliver Tobisch      67(2) 76(3) [8]
+     R1  Jack Kelly           def.  Matias Gaedechens   64 63
  > Flight 9
   > Main
-     R3  Daniel Pellerito     def.  Jefferson Dockter    63 63
-     R3  Oliver Nolan         def.  John Walsh           61 75
-     R2  Oliver Nolan         def.  Jefferson Dockter    64 61
-     R2  Daniel Pellerito     def.  John Walsh           61 64
-     R1  Daniel Pellerito     def.  Oliver Nolan         36 61 [4]
-     R1  John Walsh           def.  Jefferson Dockter    16 63 [6]
+     R3  Daniel Pellerito     def.  Jefferson Dockter   63 63
+     R3  Oliver Nolan         def.  John Walsh          61 75
+     R2  Oliver Nolan         def.  Jefferson Dockter   64 61
+     R2  Daniel Pellerito     def.  John Walsh          61 64
+     R1  Daniel Pellerito     def.  Oliver Nolan        36 61 [4]
+     R1  John Walsh           def.  Jefferson Dockter   16 63 [6]
  > Flight 11
   > Main
-     R3  Michael Fourticq     def.  Rithik Sardana       46 76(3) [9]
-     R3  Joseph Brailovsky    def.  Campbell Erwin       Walkover
-     R2  Joseph Brailovsky    def.  Rithik Sardana       75 76(4)
-     R2  Michael Fourticq     def.  Campbell Erwin       64 64
-     R1  Joseph Brailovsky    def.  Michael Fourticq     63 75
-     R1  Rithik Sardana       def.  Campbell Erwin       61 63
+     R3  Michael Fourticq     def.  Rithik Sardana      46 76(3) [9]
+     R3  Joseph Brailovsky    def.  Campbell Erwin      Walkover
+     R2  Joseph Brailovsky    def.  Rithik Sardana      75 76(4)
+     R2  Michael Fourticq     def.  Campbell Erwin      64 64
+     R1  Joseph Brailovsky    def.  Michael Fourticq    63 75
+     R1  Rithik Sardana       def.  Campbell Erwin      61 63
  > Flight 13
   > Main
-     R3  Justin Suarez        def.  Jake Fraunfelder     26 75 [8]
-     R3  Jake Fishkin         def.  Robert Hagen         63 64
-     R2  Jake Fishkin         def.  Justin Suarez        62 62
-     R2  Robert Hagen         def.  Jake Fraunfelder     76(9) 60
-     R1  Jake Fishkin         def.  Jake Fraunfelder     75 63
-     R1  Robert Hagen         def.  Justin Suarez        75 60
+     R3  Justin Suarez        def.  Jake Fraunfelder    26 75 [8]
+     R3  Jake Fishkin         def.  Robert Hagen        63 64
+     R2  Jake Fishkin         def.  Justin Suarez       62 62
+     R2  Robert Hagen         def.  Jake Fraunfelder    76(9) 60
+     R1  Jake Fishkin         def.  Jake Fraunfelder    75 63
+     R1  Robert Hagen         def.  Justin Suarez       75 60
  > Flight 14
   > Main
-     R3  Eitan Khromchenko    def.  Raphael Mujan        61 61
-     R3  Mathieu Josserand    def.  Carlos Grande        62 62
-     R2  Eitan Khromchenko    def.  Carlos Grande        64 63
-     R2  Mathieu Josserand    def.  Raphael Mujan        67(5) 64 [8]
-     R1  Raphael Mujan        def.  Carlos Grande        64 64
-     R1  Eitan Khromchenko    def.  Mathieu Josserand    75 36 [8]
+     R3  Eitan Khromchenko    def.  Raphael Mujan       61 61
+     R3  Mathieu Josserand    def.  Carlos Grande       62 62
+     R2  Eitan Khromchenko    def.  Carlos Grande       64 63
+     R2  Mathieu Josserand    def.  Raphael Mujan       67(5) 64 [8]
+     R1  Raphael Mujan        def.  Carlos Grande       64 64
+     R1  Eitan Khromchenko    def.  Mathieu Josserand   75 36 [8]
  > Flight 15
   > Main
-     R3  Rosen Nayadenov      def.  Ryan Jurist          61 62
-     R3  Andre Limon          def.  Richard Bell         46 62 [8]
-     R2  Richard Bell         def.  Rosen Nayadenov      64 61
-     R2  Andre Limon          def.  Ryan Jurist          61 57 [8]
-     R1  Richard Bell         def.  Ryan Jurist          76(5) 75
-     R1  Andre Limon          def.  Rosen Nayadenov      64 62
+     R3  Rosen Nayadenov      def.  Ryan Jurist         61 62
+     R3  Andre Limon          def.  Richard Bell        46 62 [8]
+     R2  Richard Bell         def.  Rosen Nayadenov     64 61
+     R2  Andre Limon          def.  Ryan Jurist         61 57 [8]
+     R1  Richard Bell         def.  Ryan Jurist         76(5) 75
+     R1  Andre Limon          def.  Rosen Nayadenov     64 62
  > Flight 16
   > Main
-     R3  Matthew Jones        def.  Stefan Petrovic      63 36 [9]
-     R3  Cy McLeod            def.  Ryan Charles         63 75
-     R2  Matthew Jones        def.  Cy McLeod            62 63
-     R2  Stefan Petrovic      def.  Ryan Charles         63 61
-     R1  Stefan Petrovic      def.  Cy McLeod            64 61
-     R1  Matthew Jones        def.  Ryan Charles         62 63
+     R3  Matthew Jones        def.  Stefan Petrovic     63 36 [9]
+     R3  Cy McLeod            def.  Ryan Charles        63 75
+     R2  Matthew Jones        def.  Cy McLeod           62 63
+     R2  Stefan Petrovic      def.  Ryan Charles        63 61
+     R1  Stefan Petrovic      def.  Cy McLeod           64 61
+     R1  Matthew Jones        def.  Ryan Charles        62 63
  > Flight 17
   > Main
-     R3  Tim Zelikovsky       def.  Anthony Prokurat     63 75
-     R3  Zac Larke            def.  Herman Jentoft       60 61
-     R2  Anthony Prokurat     def.  Herman Jentoft       61 61
-     R2  Zac Larke            def.  Tim Zelikovsky       60 62
-     R1  Tim Zelikovsky       def.  Herman Jentoft       46 64 [5]
-     R1  Zac Larke            def.  Anthony Prokurat     61 64
+     R3  Tim Zelikovsky       def.  Anthony Prokurat    63 75
+     R3  Zac Larke            def.  Herman Jentoft      60 61
+     R2  Anthony Prokurat     def.  Herman Jentoft      61 61
+     R2  Zac Larke            def.  Tim Zelikovsky      60 62
+     R1  Tim Zelikovsky       def.  Herman Jentoft      46 64 [5]
+     R1  Zac Larke            def.  Anthony Prokurat    61 64
  > Flight 18
   > Main
-     R3  Karlis Katlaps       def.  Gray Voelzke         75 75
-     R3  Faisal Alrebdi       def.  Ryan Nguyen          61 64
-     R2  Ryan Nguyen          def.  Karlis Katlaps       62 62
-     R2  Gray Voelzke         def.  Faisal Alrebdi       62 62
-     R1  Ryan Nguyen          def.  Gray Voelzke         62 46 [10]
-     R1  Karlis Katlaps       def.  Faisal Alrebdi       64 63
+     R3  Karlis Katlaps       def.  Gray Voelzke        75 75
+     R3  Faisal Alrebdi       def.  Ryan Nguyen         61 64
+     R2  Ryan Nguyen          def.  Karlis Katlaps      62 62
+     R2  Gray Voelzke         def.  Faisal Alrebdi      62 62
+     R1  Ryan Nguyen          def.  Gray Voelzke        62 46 [10]
+     R1  Karlis Katlaps       def.  Faisal Alrebdi      64 63
  > Flight 19
   > Main
-     R3  Sasha Panyan         def.  Alex Kim             61 26 [2]
-     R3  Ernesto Rocabert     def.  Erick Rivas          63 60
-     R2  Sasha Panyan         def.  Erick Rivas          63 61
-     R2  Alex Kim             def.  Ernesto Rocabert     64 06 [7]
-     R1  Alex Kim             def.  Erick Rivas          64 61
-     R1  Sasha Panyan         def.  Ernesto Rocabert     63 62
+     R3  Sasha Panyan         def.  Alex Kim            61 26 [2]
+     R3  Ernesto Rocabert     def.  Erick Rivas         63 60
+     R2  Sasha Panyan         def.  Erick Rivas         63 61
+     R2  Alex Kim             def.  Ernesto Rocabert    64 06 [7]
+     R1  Alex Kim             def.  Erick Rivas         64 61
+     R1  Sasha Panyan         def.  Ernesto Rocabert    63 62
  > Flight 20
   > Main
-     R3  Luis Reis            def.  Carlos Carvalho      76(3) Ret.
-     R3  Hayden Postin        def.  Zach Theodossiou     60 61
-     R2  Hayden Postin        def.  Luis Reis            36 64 [8]
-     R2  Carlos Carvalho      def.  Zach Theodossiou     62 26 [4]
-     R1  Hayden Postin        def.  Carlos Carvalho      62 46 [4]
-     R1  Luis Reis            def.  Zach Theodossiou     60 62
+     R3  Luis Reis            def.  Carlos Carvalho     76(3) Ret.
+     R3  Hayden Postin        def.  Zach Theodossiou    60 61
+     R2  Hayden Postin        def.  Luis Reis           36 64 [8]
+     R2  Carlos Carvalho      def.  Zach Theodossiou    62 26 [4]
+     R1  Hayden Postin        def.  Carlos Carvalho     62 46 [4]
+     R1  Luis Reis            def.  Zach Theodossiou    60 62
  > Flight 21
   > Main
-     R3  Noah Winton          def.  Alaister Burke       61 67(4) [8]
-     R2  Alaister Burke       def.  Dustin Ha            64 62
-     R2  Noah Winton          def.  Chanasorn Nakaurai   61 61
-     R1  Noah Winton          def.  Dustin Ha            62 76(3)
-     R1  Chanasorn Nakaurai   def.  Alaister Burke       26 76(7) [8]
+     R3  Noah Winton          def.  Alaister Burke      61 67(4) [8]
+     R2  Alaister Burke       def.  Dustin Ha           64 62
+     R2  Noah Winton          def.  Chanasorn Nakaurai  61 61
+     R1  Noah Winton          def.  Dustin Ha           62 76(3)
+     R1  Chanasorn Nakaurai   def.  Alaister Burke      26 76(7) [8]
  > Flight 22
   > Main
-     R3  William Crane        def.  Harry Yang           Walkover
-     R2  Michael Pollatos     def.  Harry Yang           63 63
-     R1  William Crane        def.  Michael Pollatos     61 62
+     R3  William Crane        def.  Harry Yang          Walkover
+     R2  Michael Pollatos     def.  Harry Yang          63 63
+     R1  William Crane        def.  Michael Pollatos    61 62
  > Flight 5
   > Main
-     R3  Gavin Segraves       def.  Konstantinos Raptis  64 75
-     R3  Harrison Brown       def.  Jake Fellows         36 76(5) [7]
-     R2  Harrison Brown       def.  Konstantinos Raptis  62 75
-     R2  Jake Fellows         def.  Gavin Segraves       63 64
-     R1  Harrison Brown       def.  Gavin Segraves       64 61
-     R1  Jake Fellows         def.  Konstantinos Raptis  61 63
+     R3  Gavin Segraves       def.  Konstantinos Raptis 64 75
+     R3  Harrison Brown       def.  Jake Fellows        36 76(5) [7]
+     R2  Harrison Brown       def.  Konstantinos Raptis 62 75
+     R2  Jake Fellows         def.  Gavin Segraves      63 64
+     R1  Harrison Brown       def.  Gavin Segraves      64 61
+     R1  Jake Fellows         def.  Konstantinos Raptis 61 63
  > Flight 10
   > Main
-     R3  Guillermo Cagigas    def.  Michael Walser       26 63 [5]
-     R3  Chen Ruo             def.  Noah Borges          64 61
-     R2  Chen Ruo             def.  Michael Walser       63 64
-     R2  Guillermo Cagigas    def.  Noah Borges          46 64 [7]
-     R1  Chen Ruo             def.  Guillermo Cagigas    62 61
-     R1  Michael Walser       def.  Noah Borges          62 61
+     R3  Guillermo Cagigas    def.  Michael Walser      26 63 [5]
+     R3  Chen Ruo             def.  Noah Borges         64 61
+     R2  Chen Ruo             def.  Michael Walser      63 64
+     R2  Guillermo Cagigas    def.  Noah Borges         46 64 [7]
+     R1  Chen Ruo             def.  Guillermo Cagigas   62 61
+     R1  Michael Walser       def.  Noah Borges         62 61
  > Flight 12
   > Main
-     R3  Luke Garner          def.  Ben Husum            46 62 [7]
-     R3  Josh Keitelman       def.  Michael Owen         75 64
-     R2  Luke Garner          def.  Josh Keitelman       62 26 [4]
-     R2  Ben Husum            def.  Michael Owen         64 63
-     R1  Josh Keitelman       def.  Ben Husum            64 46 [7]
-     R1  Luke Garner          def.  Michael Owen         64 64
+     R3  Luke Garner          def.  Ben Husum           46 62 [7]
+     R3  Josh Keitelman       def.  Michael Owen        75 64
+     R2  Luke Garner          def.  Josh Keitelman      62 26 [4]
+     R2  Ben Husum            def.  Michael Owen        64 63
+     R1  Josh Keitelman       def.  Ben Husum           64 46 [7]
+     R1  Luke Garner          def.  Michael Owen        64 64
  > Extra matches Saturday
   > Main
-     QF  Jack McBride         def.  Michael Pollatos     75 60
-     QF  Chanasorn Nakaurai   def.  Harry Yang           Walkover
-     QF  Dustin Ha            def.  William Crane        75 63
- > Sunday Singles
-  > Main
-     16  Tim Zelikovsky        vs   Raphael Mujan        Sun @ 08:00
-     16  Carlos Carvalho       vs   Robert Hagen         Sun @ 08:00
-     16  Youssef Sadek         vs   Dimosthenis Taramon… Sun @ 08:00
-     32  Oliver Nolan          vs   Andres Silva         Sun @ 08:00
-     32  Ryan Jurist           vs   Stefan Petrovic      Sun @ 08:00
-     32  Michael Owen          vs   Mathieu Josserand    Sun @ 08:00
-     32  Younes Lalami         vs   Guilherme Severin    Sun @ 08:00
-     32  Karlis Katlaps        vs   Michael Walser       Sun @ 08:00
-     32  Konstantinos Raptis   vs   John Walsh           Sun @ 08:00
-     32  Oscar Hernandez       vs   Yevhen Sirous        Sun @ 08:00
-     32  William Crane         vs   Alaister Burke       Sun @ 08:00
+     QF  Jack McBride         def.  Michael Pollatos    75 60
+     QF  Chanasorn Nakaurai   def.  Harry Yang          Walkover
+     QF  Dustin Ha            def.  William Crane       75 63
 ~~~
 
 <a name="21-27941"></a>
@@ -1311,35 +1298,73 @@
 
 <a name="21-99765"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   Lander Invitational
   Dates: Oct 8-9, 2021
   Host: Lander University (M)
-════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Nilsson Flight
   > East
-     QF  Georgije Babic    def.  Jorge Robinson       63 36 [5]
-     QF  Bailey Horne      def.  Quentin Perez        62 61
-     QF  Pedro Cardoso     def.  Herick Isago         63 46 [7]
-     QF  Alexandre Crepy   def.  Jesus Villamizar     64 75
+      F  Alexandre Crepy      def.  Bailey Horne         Walkover
+     SF  Bailey Horne         def.  Georgije Babic       57 75 [9]
+     SF  Alexandre Crepy      def.  Pedro Cardoso        36 61 [8]
+     QF  Georgije Babic       def.  Jorge Robinson       63 36 [5]
+     QF  Bailey Horne         def.  Quentin Perez        62 61
+     QF  Pedro Cardoso        def.  Herick Isago         63 46 [7]
+     QF  Alexandre Crepy      def.  Jesus Villamizar     64 75
+  > West
+      F  Herick Isago         def.  Jorge Robinson       46 76(4) [7]
+     SF  Jorge Robinson       def.  Quentin Perez        63 63
+     SF  Herick Isago         def.  Jesus Villamizar     61 76(3)
+  > 3-4 Playoff
+      F  Pedro Cardoso        def.  Georgije Babic       61 64
+  > South
+      F  Jesus Villamizar     def.  Quentin Perez        60 64
  > Persson Flight
   > East
-     QF  Teodor Cariov     def.  Ludvig Danielsson    63 62
-     QF  Artur Davydovskiy def.  Aurelien Arlot       46 75 [4]
-     QF  Matthew De Groot  def.  Tanguy Calicis       63 76(4)
-     QF  Daniel Martens    def.  Lukas Zavrel         61 75
+      F  Teodor Cariov        def.  Matthew De Groot     36 75 [4]
+     SF  Teodor Cariov        def.  Artur Davydovskiy    64 36 [6]
+     SF  Matthew De Groot     def.  Daniel Martens       61 75
+     QF  Teodor Cariov        def.  Ludvig Danielsson    63 62
+     QF  Artur Davydovskiy    def.  Aurelien Arlot       46 75 [4]
+     QF  Matthew De Groot     def.  Tanguy Calicis       63 76(4)
+     QF  Daniel Martens       def.  Lukas Zavrel         61 75
+  > West
+     SF  Aurelien Arlot       def.  Ludvig Danielsson    76(5) 06 [2]
+     SF  Lukas Zavrel         def.  Tanguy Calicis       62 64
+  > 3-4 Playoff
+      F  Daniel Martens       def.  Artur Davydovskiy    76(4) 61
+  > South
+      F  Ludvig Danielsson    def.  Tanguy Calicis       76(6) 61
  > Pristach Flight
   > East
-     QF  Vance Mercer      def.  Joshua Gwynne        62 62
-     QF  Jack Coleman      def.  Ben Grunert          67(5) 62 [3]
-     QF  Jack Sorel        def.  Alvaro Quereda       62 60
+      F  Jack Sorel           def.  Jack Coleman         63 64
+     SF  Jack Coleman         def.  Vance Mercer         36 62 [6]
+     SF  Jack Sorel           def.  William King         64 63
+     QF  Vance Mercer         def.  Joshua Gwynne        62 62
+     QF  Jack Coleman         def.  Ben Grunert          67(5) 62 [3]
+     QF  Jack Sorel           def.  Alvaro Quereda       62 60
+  > West
+      F  Ben Grunert          def.  Alvaro Quereda       75 16 [11]
+     SF  Ben Grunert          def.  Joshua Gwynne        36 Ret.
+  > 3-4 Playoff
+      F  Vance Mercer         def.  William King         63 63
  > Cabri Flight
   > East
-     QF  Lucas Bolle       def.  Juan Sebastian Domi… 36 76(9) [9]
-     QF  Thomas De Negri   def.  Masumi Komada        63 36 [10]
-     QF  Javier Matos      def.  Hugo Regner          75 63
-     QF  Ricard Rubio      def.  Enzo Sergi           62 63
+      F  Javier Matos         def.  Thomas De Negri      75 64
+     SF  Thomas De Negri      def.  Lucas Bolle          63 60
+     SF  Javier Matos         def.  Ricard Rubio         61 62
+     QF  Lucas Bolle          def.  Juan Sebastian Domi… 36 76(9) [9]
+     QF  Thomas De Negri      def.  Masumi Komada        63 36 [10]
+     QF  Javier Matos         def.  Hugo Regner          75 63
+     QF  Ricard Rubio         def.  Enzo Sergi           62 63
+  > West
+      F  Juan Sebastian Domi… def.  Enzo Sergi           63 61
+     SF  Juan Sebastian Domi… def.  Masumi Komada        63 64
+     SF  Enzo Sergi           def.  Hugo Regner          64 06 [8]
+  > 3-4 Playoff
+      F  Ricard Rubio         def.  Lucas Bolle          Walkover
 ~~~
 
 <a name="21-27918"></a>
@@ -1352,6 +1377,9 @@
  Men's Open Singles
  > Flight A
   > Main
+      F (1) Tristan Bradley   def. (2) Rishabh Sharda       62 61
+     SF (1) Tristan Bradley   def.     Isaac Gorelik        76(6) 76(5)
+     SF (2) Rishabh Sharda    def. (3) Damien Ruparel       63 64
      QF (1) Tristan Bradley   def.     Harris Foulkes       63 76(6)
      QF     Isaac Gorelik     def. (4) Sujit Chepuri        76(4) 62
      QF (3) Damien Ruparel    def.     Zachary Portnoy      67(3) 75 [5]
@@ -1366,6 +1394,9 @@
      16 (2) Rishabh Sharda    def.     Joey Barrett         60 64
  > Flight B
   > Main
+      F     Sam Henry         def.     Josh Belandres       64 26 [4]
+     SF     Sam Henry         def.     Brendan Jimenez      36 63 [9]
+     SF     Josh Belandres    def.     Ed Opie              62 63
      QF     Sam Henry         def. (1) Derin Acaroglu       61 62
      QF     Brendan Jimenez   def.     Ethan Bradley        64 63
      QF     Ed Opie           def. (3) Paris Pentousis      57 64 [9]
@@ -1379,6 +1410,9 @@
      16     Max Schuermann    def. (2) Jack Flores          62 61
  > Flight C
   > Main
+      F (1) Pieter Breuker    def.     William Turchetta    62 63
+     SF (1) Pieter Breuker    def.     Shaw Rhinelander     61 63
+     SF     William Turchetta def. (2) Tristan Thiebaut     63 64
      QF (1) Pieter Breuker    def.     James Bogdanovic     75 60
      QF     Shaw Rhinelander  def. (4) Jack Moldenhauer     36 62 [7]
      QF     William Turchetta def.     Josh Kaplan          62 62
@@ -1392,6 +1426,9 @@
      16 (2) Tristan Thiebaut  def.     Geoff Golan          62 63
  > Flight D
   > Main
+      F (3) Corey Marley      def. (4) Oliver Obeid         46 63 [3]
+     SF (4) Oliver Obeid      def.     Dylan Glickman       26 63 [8]
+     SF (3) Corey Marley      def.     James Liam Dun       60 62
      QF     Dylan Glickman    def.     Sriram Das           60 62
      QF (4) Oliver Obeid      def.     Kobe Ellenbogen      63 64
      QF (3) Corey Marley      def.     Zach Ostrow          63 75

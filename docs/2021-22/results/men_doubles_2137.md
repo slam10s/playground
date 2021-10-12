@@ -1,6 +1,7 @@
 <a name="top"></a>[<< Prev](men_doubles_2136.md) &nbsp; **Week #37 - Sep 13-19, 2021** &nbsp; [Next >>](men_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2137.md) &#124; [Women](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2137.md) &#124; [***Doubles***](./men_doubles_2137.md)
 
 **Tournamets with Matches**  
+- 9/17/2021 - [Alabama Four-In-The-Fall](#21-01301) ([Results](#21-01301) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4" target="_blank">Draws</a>)  
 - 9/16/2021 - [Bedford Cup in the Mountains](#21-69307) ([Results](#21-69307) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dale Short Shootout](#21-04953) ([Results](#21-04953) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityM/Tournaments/Overview/8D17D1A4-3D6A-4D99-9858-4808AD3D6EAE" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dartmouth Invitational](#21-10750) ([Results](#21-10750) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeM/Tournaments/Overview/FB53D115-F7C3-43C7-9CAF-0B60D9E55E67" target="_blank">Draws</a>)  
@@ -8,29 +9,66 @@
 - 9/17/2021 - [Jersey Mike's Seahawk Fall Invitational](#21-41355) ([Results](#21-41355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/B5F60616-E79D-49E3-B226-EA1A8F6D19C9" target="_blank">Draws</a>)  
 - 9/18/2021 - [Lehigh Men's Tennis Invite](#21-40280) ([Results](#21-40280) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityM/Tournaments/Overview/DC12F12F-6866-4F1B-A1DE-CB27F27A4E6F" target="_blank">Draws</a>)  
 - 9/17/2021 - [Men's Drake Invite](#21-75794) ([Results](#21-75794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/85AE0B8E-86E0-4EAE-A572-CE5DC0BA3FB7" target="_blank">Draws</a>)  
+- 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
 - 9/17/2021 - [Purdue Fall Invitational](#21-96062) ([Results](#21-96062) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityM/Tournaments/Overview/64471B4A-D6CD-4810-BD4A-167F65AB8D67" target="_blank">Draws</a>)  
 - 9/17/2021 - [The Star Group Binghamton Championships](#21-12886) ([Results](#21-12886) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BinghamtonUniversitySUNYM/Tournaments/Overview/45217160-5C07-4F1E-8FB5-6C5FBC28805F" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Men’s Atlantic ITA Regional Championships](#21-72013) ([Results](#21-72013) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/1612DF81-297F-4862-94B4-0C79FB985493" target="_blank">Draws</a>)  
+- 9/17/2021 - [Division III Men's Northwest ITA Regional Championships](#21-72414) ([Results](#21-72414) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/293CC684-E897-42E1-A5D8-010605E71990" target="_blank">Draws</a>)  
+- 9/19/2021 - [Firebird Challenge](#21-51274) ([Results](#21-51274) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarthageCollegeM/Tournaments/Overview/0360BE02-00EA-4704-B66F-2ED3ACEF18A1" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
+- 9/18/2021 - [Middlebury Invitational 2021](#21-64248) ([Results](#21-64248) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/97C4AA58-56BC-46A0-8287-9B7C41BD76A7" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
 - 9/17/2021 - [NAIA Men's & Women’s South ITA Regional Championships](#21-84466) ([Results](#21-84466) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaGwinnettCollegeM/Tournaments/Overview/AB87DC72-EBD1-473D-908A-61D759A5EEAC" target="_blank">Draws</a>)  
 - 9/18/2021 - [Royal Rumble](#21-26119) ([Results](#21-26119) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/67714FC2-D877-4289-8C05-BF5579870039" target="_blank">Draws</a>)  
 - 9/17/2021 - [Trinity Invitational](#21-44752) ([Results](#21-44752) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TrinityUniversityM/Tournaments/Overview/CC4630A5-B838-48AE-83FD-363FF44D005F" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4" target="_blank">Alabama Four-In-The-Fall</a>  
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/5CE93068-0A51-4941-853B-FC0571C04451" target="_blank">Auburn Fall Invite</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOklahomaM/Tournaments/Overview/C4392CA9-3D72-477E-9550-4FE92C5723E8" target="_blank">Lakes Tennis Club Invite</a>  
-- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Milwaukee Tennis Classic</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityM/Tournaments/Overview/D4F405A0-9744-41D5-B40A-884B0F1AADEF" target="_blank">OSU Invitational</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
 - 9/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">BAC Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/293CC684-E897-42E1-A5D8-010605E71990" target="_blank">Division III Men's Northwest ITA Regional Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
-- 9/19/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CarthageCollegeM/Tournaments/Overview/0360BE02-00EA-4704-B66F-2ED3ACEF18A1" target="_blank">Firebird Challenge</a>  
-- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/97C4AA58-56BC-46A0-8287-9B7C41BD76A7" target="_blank">Middlebury Invitational 2021</a>  
 - 9/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SwarthmoreCollegeM/Tournaments/Overview/EBF37285-C88B-4F3E-B6EA-6C0DE013DBB8" target="_blank">Swat Men's Tennis Invite</a>  
+
+<a name="21-01301"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Alabama Four-In-The-Fall
+  Dates: Sep 17-19, 2021
+  Host: University of Alabama (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Friday
+  > Main
+     32  Aguiard/Planinsek    def.  Stevenson/Taylor    62
+     32  Kaukovalta/Samofalov def.  Cutting/Fanlo       63
+     32  Ferreira/Martin      def.  Alemany/Rock        60
+     32  Poling/Rodriguez     def.  Diaz Freire/Graca   64
+     32  Lobak/Watson         def.  Bosancic/Bosancic   76(4)
+     32  Koch/Bobo            def.  Duo/Smith           63
+     32  Ambrosio/Cubitt      def.  Astreinidis/Mahoney 63
+ > Saturday
+  > Main
+     32  Diaz Freire/Graca    def.  Aguiard/Planinsek   64
+     32  Kaukovalta/Samofalov def.  Lobak/Watson        61
+     32  Koch/Bobo            def.  Ferreira/Martin     63
+     32  Ambrosio/Cubitt      def.  Christiansen/Foster 64
+     32  Poling/Rodriguez     def.  Cutting/Fanlo       75
+     32  Stevenson/Rock       def.  Bosancic/Bosancic   64
+     32  Duo/Smith            def.  Taylor/Edgar        64
+ > Sunday
+  > Main
+     32  Poling/Rodriguez     def.  Aguiard/Planinsek   63
+     32  Kaukovalta/Samofalov def.  Bosancic/Bosancic   62
+     32  Duo/Smith            def.  Ferreira/Martin     64
+     32  Christiansen/Foster  def.  Astreinidis/Kam     61
+     32  Stevenson/Cutting    def.  Lobak/Watson        75
+     32  Koch/Bobo            def.  Taylor/Fanlo        64
+     32  Ambrosio/Cubitt      def.  Edgar/Alemany       61
+~~~
 
 <a name="21-69307"></a>
 ~~~
@@ -360,6 +398,33 @@
      R1  Quintana/Mylavarapu  def.  Jauch/Balthazor      87(4)
 ~~~
 
+<a name="21-02376"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Milwaukee Tennis Classic
+  Dates: Sep 18-20, 2021
+  Host: ITA
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+      F     De Jonge/Carlsson H… def.     Schulenburg/Walker   62
+     SF     De Jonge/Carlsson H… def.     Jachuck/Shi          63
+     SF     Schulenburg/Walker   def. (2) Bertimon/Stable      76(6)
+     QF     Jachuck/Shi          def. (1) Hohmann/Kozlov       63
+     QF     De Jonge/Carlsson H… def. (3) Heck/Stuart          Walkover
+     QF     Schulenburg/Walker   def.     Hoeyeraal/Lagaev     64
+     QF (2) Bertimon/Stable      def.     Norfeldt/Mareschal-… 64
+     16 (1) Hohmann/Kozlov       def.     Weststrate/Makk      64
+     16     Jachuck/Shi          def.     Tonejc/Jakic         75
+     16 (3) Heck/Stuart          def.     Segraves/Panyan      62
+     16     De Jonge/Carlsson H… def.     Vashistha/Fu         61
+     16     Schulenburg/Walker   def.     Soha/Parts           63
+     16     Hoeyeraal/Lagaev     def. (4) Hasson/Mandlik       62
+     16     Norfeldt/Mareschal-… def.     San Andres/Drogovic  75
+     16 (2) Bertimon/Stable      def.     Gates/Lair           62
+~~~
+
 <a name="21-96062"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════
@@ -409,7 +474,7 @@
   > Main
      16  Pawlowicz/Verma      def.  Semerak/Bhatia       63
      16  Townes/Smith         def.  Weekes/Pergel        60
-     16  Bodavula/Hatton      def.  Kanektar/Perez Ramos 63
+     16  Bodavula/Hatton      def.  Kanetkar/Perez Ramos 63
      16  Huarte/Zhang         def.  Carvalho/Mueller     60
      16  Galan/Snaiders       def.  Selati/Gupta         61
      16  Tang/Wibler          def.  Levinson/Potter      76(4)
@@ -419,7 +484,7 @@
      16  Weekes/Pergel        def.  Huarte/Zhang         76(5)
      16  Semerak/Bhatia       def.  Galan/Snaiders       61
      16  Tang/Wibler          def.  Townes/Smith         62
-     16  Kanektar/Perez Ramos def.  Levinson/Potter      76(6)
+     16  Kanetkar/Perez Ramos def.  Levinson/Potter      76(6)
      16  Selati/Gupta         def.  Carvalho/Mueller     62
  > Green 3
   > Main
@@ -427,7 +492,7 @@
      16  Tang/Wibler          def.  Weekes/Pergel        61
      16  Galan/Snaiders       def.  Bodavula/Hatton      63
      16  Semerak/Bhatia       def.  Levinson/Potter      61
-     16  Kanektar/Perez Ramos def.  Carvalho/Mueller     63
+     16  Kanetkar/Perez Ramos def.  Carvalho/Mueller     63
      16  Townes/Smith         def.  Selati/Gupta         63
  > Green 4
   > Main
@@ -547,6 +612,99 @@
      16  Martins/Hawthorne    def.  Anderson/Valencia    62
 ~~~
 
+<a name="21-72414"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Division III Men's Northwest ITA Regional Championships
+  Dates: Sep 17-20, 2021
+  Host: George Fox University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+       F  Leach/Lemaitre     def.  Gonzalez/Rooney    67(4) 61 61
+      SF  Leach/Lemaitre     def.  Hu/Murata          85
+      SF  Gonzalez/Rooney    def.  Miyagawa/Tran      85
+      QF  Leach/Lemaitre     def.  Carter/Strawn      82
+      QF  Hu/Murata          def.  Camacho/Olson      81
+      QF  Gonzalez/Rooney    def.  Pashayan/Rogers    85
+      QF  Miyagawa/Tran      def.  Banna/Fujimori     84
+      16  Leach/Lemaitre     def.  Rich/Weiler        81
+      16  Carter/Strawn      def.  Beckman/Boxall     86
+      16  Camacho/Olson      def.  Yuan/Raffo         81
+      16  Hu/Murata          def.  Smolskis/Del Barco 81
+      16  Pashayan/Rogers    def.  Thomas/Savitt      82
+      16  Gonzalez/Rooney    def.  Hausler/Chio       82
+      16  Banna/Fujimori     def.  Stone/Peev         85
+      16  Miyagawa/Tran      def.  Matabuena/Katayama 82
+      32  Leach/Lemaitre     def.  Williams/Chan      81
+      32  Rich/Weiler        def.  Nigbur/Kabacy      Walkover
+      32  Beckman/Boxall     def.  Campbell/Stone     85
+      32  Carter/Strawn      def.  Dos Santos/Pallock 81
+      32  Camacho/Olson      def.  Violette/Romey     82
+      32  Yuan/Raffo         def.  Gabelman/Stone     85
+      32  Smolskis/Del Barco def.  Megiveron/Kropp    87(3)
+      32  Hu/Murata          def.  Wurzer/Viarengo    85
+      32  Pashayan/Rogers    def.  Baker/Sethi        81
+      32  Thomas/Savitt      def.  Young/Worth        83
+      32  Hausler/Chio       def.  Hutley/Dunn        86
+      32  Gonzalez/Rooney    def.  Pulido/Buck        82
+      32  Banna/Fujimori     def.  Freer/Chopra       86
+      32  Stone/Peev         def.  Greco/Tjelle       81
+      32  Matabuena/Katayama def.  Milner/Oloughlin   83
+      32  Miyagawa/Tran      def.  Richter/Grass      81
+  > Consolation
+       F  Wurzer/Viarengo    def.  Baker/Sethi        87(5)
+      SF  Wurzer/Viarengo    def.  Campbell/Stone     Walkover
+      SF  Baker/Sethi        def.  Freer/Chopra       87(6)
+      QF  Campbell/Stone     def.  Williams/Chan      Walkover
+      QF  Wurzer/Viarengo    def.  Gabelman/Stone     85
+      QF  Baker/Sethi        def.  Pulido/Buck        87(4)
+      QF  Freer/Chopra       def.  Milner/Oloughlin   83
+     16Q  Williams/Chan      def.  Nigbur/Kabacy      Walkover
+     16Q  Campbell/Stone     def.  Dos Santos/Pallock 84
+     16Q  Gabelman/Stone     def.  Violette/Romey     86
+     16Q  Wurzer/Viarengo    def.  Megiveron/Kropp    80
+     16Q  Baker/Sethi        def.  Young/Worth        82
+     16Q  Pulido/Buck        def.  Hutley/Dunn        86
+     16Q  Freer/Chopra       def.  Greco/Tjelle       84
+     16Q  Milner/Oloughlin   def.  Richter/Grass      86
+~~~
+
+<a name="21-51274"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Firebird Challenge
+  Dates: Sep 19-19, 2021
+  Host: Carthage College (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles 1st Rd
+  > Main
+     32  Amadike/Moore        def.  Shishlov/Borque      83
+     32  Zakowski/Gray        def.  Vilarroig Martinez/… 80
+     32  Krzewinski/Ferruzzi  def.  Lindwall/Mitchell    85
+     32  Pietila/Adkisson     def.  Gonzalez Fernandez/… 87(4)
+     32  Welker/Schulte       def.  Housman/Ngo          81
+     32  Sengphommachanh/Red  def.  Guillermo/Hearne     85
+     32  Marino/Friese        def.  Guillermo/Wankerl    87(5)
+     32  Gonzales/Urraca Moz… def.  Lowe/Mitev           87(4)
+     32  Fawaz/Lauer          def.  Kozmer/Mautone       85
+     32  Aranda/Baldwin       def.  Blomquist/Mears      84
+ > Doubles 2nd Rd
+  > Main
+     32  Zakowski/Gray        def.  Amadike/Moore        83
+     32  Vilarroig Martinez/… def.  Shishlov/Borque      82
+     32  Pietila/Adkisson     def.  Krzewinski/Ferruzzi  87(5)
+     32  Lindwall/Mitchell    def.  Gonzalez Fernandez/… Walkover
+     32  Welker/Schulte       def.  Sengphommachanh/Red  87(5)
+     32  Guillermo/Hearne     def.  Housman/Ngo          84
+     32  Marino/Friese        def.  Gonzales/Urraca Moz… 83
+     32  Lowe/Mitev           def.  Guillermo/Wankerl    86
+     32  Fawaz/Lauer          def.  Aranda/Baldwin       87(6)
+     32  Kozmer/Mautone       def.  Blomquist/Mears      86
+~~~
+
 <a name="21-76336"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -594,6 +752,60 @@
      QQ     Ayala/Thompson       def.     Nyugen/Tennant       75
      QQ     Bornemeier/Martin    def.     Mulder/Schorg        63
      QQ     Pacheco/Rodriguez B… def.     DeLeo/Swaney         64
+~~~
+
+<a name="21-64248"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Middlebury Invitational 2021
+  Dates: Sep 18-19, 2021
+  Host: Middlebury College (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > Main
+      F (3) Morris/Ward          def. (1) Chen/Tzeng           85
+     SF (1) Chen/Tzeng           def. (4) Barrett/Cohen        85
+     SF (3) Morris/Ward          def. (2) Belandres/Acaroglu   83
+     QF (1) Chen/Tzeng           def.     Drover-Mattinen/Saf… 80
+     QF (4) Barrett/Cohen        def.     Tegtmeier/Fox        83
+     QF (3) Morris/Ward          def.     Portnoy/Jimenez      87(8)
+     QF (2) Belandres/Acaroglu   def.     Harris/Laber         87(5)
+     16 (1) Chen/Tzeng           def.     Thiebaut/Williamson  86
+     16     Drover-Mattinen/Saf… def.     Gorelik/Pentousis    85
+     16     Tegtmeier/Fox        def.     Koide/Gujarathi      84
+     16 (4) Barrett/Cohen        def.     Mairs/Yuan           83
+     16 (3) Morris/Ward          def.     Henry/Schuermann     83
+     16     Portnoy/Jimenez      def.     Desai/Forester       83
+     16     Harris/Laber         def.     Kauppila/Walters     83
+     16 (2) Belandres/Acaroglu   def.     Visnevskij/Krishnan  86
+ > Flight B
+  > Main
+      F (1) Sharda/Glickman      def. (3) Hilty/Epstein        84
+     SF (1) Sharda/Glickman      def.     Biernat/Rado         84
+     SF (3) Hilty/Epstein        def.     Cohen/Kulturel       Walkover
+     QF (1) Sharda/Glickman      def.     Lohrbach/McMillan    82
+     QF     Biernat/Rado         def. (4) Hayden/Vuksanovic    86
+     QF (3) Hilty/Epstein        def.     Gutierrez/Macintosh  81
+     QF     Cohen/Kulturel       def.     Liang/Nijhawan       82
+     16 (1) Sharda/Glickman      def.     Kaplan/Hernandez     81
+     16     Lohrbach/McMillan    def.     Criss/Danielson      83
+     16 (4) Hayden/Vuksanovic    def.     Kim/Vilys            87(1)
+     16 (3) Hilty/Epstein        def.     Davila/Archer        83
+     16     Gutierrez/Macintosh  def.     Bogdanovic/Das       86
+     16     Liang/Nijhawan       def.     Zhou/Dun             84
+     16     Cohen/Kulturel       def. (2) Yohannes/Burnham     85
+ > Backdraw
+  > Main
+     64     Portnoy/Thiebaut     def.     Koide/Gujarathi      83
+     64     Desai/Forester       def.     Henry/Schuermann     85
+     64     Harris/Mairs         def.     Moldenhauer/Vuksano… 85
+     64     Tegtmeier/Kauppila   def.     Gutierrez/Macintosh  86
+     64     Krishnan/McMillan    def.     Kaplan/Hernandez     82
+     64     Bogdanovic/Das       def.     Criss/Danielson      83
+ > Backdraw 2
+  > Main
+      F     Portnoy/Biernat      def.     Pentousis/Acaroglu   87(4)
 ~~~
 
 <a name="21-21828"></a>

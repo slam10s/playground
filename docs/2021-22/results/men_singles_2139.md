@@ -860,7 +860,7 @@
  Men's Open Singles
  > Main Draw
   > Main
-       F      Ben Shelton           vs       August Holmgren      Sun @ 10:00
+       F      Ben Shelton          def.      August Holmgren      63 64
       SF      Ben Shelton          def.      Clement Chidekh      63 60
       SF      August Holmgren      def.  (Q) Andre Ilagan         64 63
       QF      Ben Shelton          def.  (Q) Jj Tracy             76(7) 75
@@ -924,7 +924,7 @@
       64      Florian Broska       def.  (Q) Trey Hilderbrand     61 63
       64  (2) Johannus Monday      def.  (Q) Tim Zeitvogel        46 63 62
   > Consolation
-       F  (9) MAtej Vocel           vs   (Q) Chris Rodesch        Sun @ 09:00
+       F  (9) MAtej Vocel          def.  (Q) Chris Rodesch        64 57 75
       SF  (9) MAtej Vocel          def.  (Q) Henry Schulenburg    76(3) 61
       SF  (Q) Chris Rodesch        def.      Karl Poling          16 63 64
       QF  (Q) Henry Schulenburg    def. (LL) Justin Barki         43 Ret.

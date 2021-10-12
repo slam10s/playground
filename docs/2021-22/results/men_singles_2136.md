@@ -1,9 +1,12 @@
 <a name="top"></a>[<< Prev](men_singles_2135.md) &nbsp; **Week #36 - Sep 6-12, 2021** &nbsp; [Next >>](men_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2136.md) &#124; [Women](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2136.md) &#124; [Doubles](./men_doubles_2136.md)
 
 **Tournamets with Matches**  
+- 9/10/2021 - [2021 Dar Walters Classic](#21-19264) ([Results](#21-19264) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">Draws</a>)  
 - 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
+- 9/10/2021 - [Knoxville Showdown](#21-83681) ([Results](#21-83681) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/85DF336A-C5C2-4C22-AC59-717D6414EA8A" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
 - 9/10/2021 - [Orange Lawn Fall Invitational](#21-93144) ([Results](#21-93144) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Draws</a>)  
+- 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
 - 9/11/2021 - [St. Lawrence University Fall Classic](#21-93996) ([Results](#21-93996) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/3699D952-856D-4724-8FE8-12BD2237BE35" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
@@ -11,13 +14,100 @@
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/B00BE0B9-F219-49D7-880F-72F7FA07C012" target="_blank">2021 𝗖𝗢𝗡𝗧𝗘𝗡𝗗𝗘𝗥 𝗖𝗥𝗢𝗦𝗦𝗙𝗜𝗧 𝗜𝗦𝗟𝗔𝗡𝗗𝗘𝗥 𝗢𝗣𝗘𝗡</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">2021 Dar Walters Classic</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VillanovaUniversityM/Tournaments/Overview/831641B3-DB8F-4BD7-8D82-8308402A7AF5" target="_blank">10th Annual Villanova Invitation</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/B00BE0B9-F219-49D7-880F-72F7FA07C012" target="_blank">2021 Contender Crossfit Islander Open</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Battle of the Beach</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">River Forrest Collegiate Invitational</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">UNCG Fall Invitational</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Warhawk Fall Invitational</a>  
+
+<a name="21-19264"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  2021 Dar Walters Classic
+  Dates: Sep 10-12, 2021
+  Host: Boise State University (M)
+═════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > 1
+  > Main
+     R7  Simon Arca Costas   def.  Bodin Zarkovic      61 63
+     R7  Jack Ninteman       def.  Jacob Huppin        62 63
+     R6  Luka Soskic         def.  Arjun Kersten       26 61 64
+     R4  Joaquin Espinoza    def.  Johnny Mascagni     62 46 [9]
+     R2  Arjun Kersten       def.  Jacob Huppin        60 61
+     R2  Simon Arca Costas   def.  Johnny Mascagni     63 62
+     R2  Luka Soskic         def.  Jack Ninteman       63 62
+     R2  Bodin Zarkovic      def.  Joaquin Espinoza    62 62
+ > 2
+  > Main
+     R7  Matteo Masala       def.  Nick Vroman         62 76(3)
+     R6  Mario Duron         def.  Justin Waldman      16 76(5) 62
+     R5  Nick Vroman         def.  Caden Moortgat      26 62 [7]
+     R5  Ed Pudney           def.  Jan Lucca Marquardt 26 64 63
+     R4  Oisin Shaffrey      def.  Matteo Masala       63 46 [9]
+     R3  Ed Pudney           def.  Mario Duron         64 63
+     R1  Jan Lucca Marquardt def.  Justin Waldman      76(4) 76(6)
+     R1  Oisin Shaffrey      def.  Caden Moortgat      76 64
+ > 3
+  > Main
+     R6  Marcos Zelver       def.  Gabriel Chavez      26 76(4) [2]
+     R3  Michael Bott        def.  Pontus Hallgren     76(1) 63
+     R3  Kyryll Kryvchun     def.  Gustav Thielgaard   61 75
+     R2  Michael Bott        def.  Gabriel Chavez      61 76(3)
+     R2  Marcos Zelver       def.  Pontus Hallgren     64 64
+     R2  Roko Savin          def.  Kyryll Kryvchun     76(4) 64
+     R2  Gustav Thielgaard   def.  Jamieson Nathan     26 64 76(3)
+     R1  Jamieson Nathan     def.  Roko Savin          75 46 [9]
+ > 4
+  > Main
+     R5  Robert Baylon       def.  Francisco Gay       61 64
+     R5  Jordan Azuma        def.  Kyle Garner         46 62 62
+     R3  Bruno Casino        def.  Josh Watkins        62 61
+     R2  Sam Baldwin         def.  Ryo Minakata        63 62
+     R1  Robert Baylon       def.  Ryo Minakata        61 26 63
+     R1  Bruno Casino        def.  Jordan Azuma        62 76(4)
+     R1  Francisco Gay       def.  Sam Baldwin         76(4) 62
+     R1  Kyle Garner         def.  Josh Watkins        63 62
+ > 5
+  > Main
+     R5  Kyryll Kryvchun     def.  Robert Baylon       63 36 62
+     R5  Michael Bott        def.  Jordan Azuma        75 63
+     R4  Robert Baylon       def.  Oisin Shaffrey      64 63
+     R3  Ed Pudney           def.  Luka Soskic         62 64
+     R2  Luka Soskic         def.  Michael Bott        75 63
+     R2  Simon Arca Costas   def.  Oisin Shaffrey      61 61
+     R1  Ed Pudney           def.  Jordan Azuma        61 60
+     R1  Simon Arca Costas   def.  Kyryll Kryvchun     06 75 64
+ > 6
+  > Main
+     R7  Bruno Casino        def.  Justin Waldman      64 60
+     R5  Nick Vroman         def.  Marcos Zelver       64 60
+     R3  Johnny Mascagni     def.  Jamieson Nathan     57 63 [12]
+     R3  Nick Vroman         def.  Francisco Gay       26 63 [2]
+     R2  Arjun Kersten       def.  Marcos Zelver       60 57 [6]
+ > 7
+  > Main
+     R7  Caden Moortgat      def.  Joaquin Espinoza    64 64
+     R7  Gabriel Chavez      def.  Josh Watkins        61 62
+     R6  Jan Lucca Marquardt def.  Jacob Huppin        63 64
+     R5  Jan Lucca Marquardt def.  Gabriel Chavez      60 63
+     R3  Roko Savin          def.  Sam Baldwin         75 61
+     R1  Roko Savin          def.  Caden Moortgat      75 62
+ > 8
+  > Main
+     R6  Kyle Garner         def.  Pontus Hallgren     64 76(5)
+     R4  Bodin Zarkovic      def.  Gustav Thielgaard   75 63
+     R4  Jack Ninteman       def.  Pontus Hallgren     64 76(5)
+     R3  Gustav Thielgaard   def.  Ryo Minakata        75 63
+     R2  Mario Duron         def.  Jack Ninteman       62 06 [4]
+     R2  Bodin Zarkovic      def.  Matteo Masala       61 64
+ > 9
+  > Main
+     R1  Arjun Kersten       def.  Josh Watkins        61 62
+     R1  Kyle Garner         def.  Joaquin Espinoza    64 75
+     R1  Johnny Mascagni     def.  Sam Baldwin         64 63
+~~~
 
 <a name="21-36446"></a>
 ~~~
@@ -75,6 +165,66 @@
      32  Fons Van Sambeek   def.  Bryan Triana       76(1) 64
      32  Quinn Synder       def.  Joseph Schrader    61 64
      32  Cooper White       def.  Collin Shick       62 62
+~~~
+
+<a name="21-83681"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Knoxville Showdown
+  Dates: Sep 10-12, 2021
+  Host: Univ. Of Tennessee, Knoxville (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > UK vs CU, UT vs PU
+  > Main
+     64  Alex Kotzen          def.  Gabriel Diallo       62 63
+     64  Francois Musitelli   def.  Alex Finkelstein     63 Ret.
+     64  Joshua Lapadat       def.  Hugo Hashimoto       76(1) 57 63
+     64  Jj Mercer            def.  Ishaan Ravichander   61 63
+     64  Yasha Zemel          def.  Austen Huang         76(3) 61
+     64  Roko Horvat          def.  Alexandre LeBlanc    62 63
+     64  Jonathan Sorbo       def.  Theo Winegar         76(3) 36 63
+     64  Ying-Ze Chen         def.  Jayden Templeman     26 75 62
+     64  Corrado Summaria     def.  Ben Gollin           62 76(3)
+     64  Robert Shelton       def.  Henry Ruger          62 46 63
+     64  Daniel De Jonge      def.  Johannus Monday      57 63 60
+     64  Andrew Rogers        def.  Shunsuke Mitsui      61 64
+     64  Emile Hudd           def.  Tim Zeitvogel        61 64
+     64  Mark Wallner         def.  Pietro Fellin        26 63 75
+     64  Eric Hadigian        def.  Conor Gannon         75 64
+     64  Linus Carlsson Hall… def.  Angel Diaz           76(4) 61
+ > UT vs CU, PU vs UK
+  > Main
+     64  Johannus Monday      def.  Alex Kotzen          57 76(4) 75
+     64  Shunsuke Mitsui      def.  Roko Horvat          76(5) 61
+     64  Emile Hudd           def.  Hugo Hashimoto       64 62
+     64  Mark Wallner         def.  Theo Winegar         63 63
+     64  Austen Huang         def.  Conor Gannon         62 26 64
+     64  Angel Diaz           def.  Henry Ruger          63 36 64
+     64  Daniel De Jonge      def.  Francois Musitelli   76(2) 64
+     64  Andrew Rogers        def.  Joshua Lapadat       46 76(4) 64
+     64  Jj Mercer            def.  Tim Zeitvogel        76(10) 61
+     64  Alexandre LeBlanc    def.  Linus Carlsson Hall… 63 62
+     64  Yasha Zemel          def.  Eric Hadigian        64 75
+     64  Corrado Summaria     def.  Jonathan Sorbo       75 64
+     64  Pietro Fellin        def.  Ying-Ze Chen         61 64
+     64  Enrique Luque Rico   def.  Ishaan Ravichander   61 62
+ > PU vs CU, UT vs CU, PU vs UT
+  > Main
+     64  Daniel De Jonge      def.  Alex Kotzen          57 61 63
+     64  Hugo Hashimoto       def.  Andrew Rogers        63 75
+     64  Tim Zeitvogel        def.  Henry Ruger          67(4) 62 63
+     64  Pietro Fellin        def.  Austen Huang         60 75
+     64  Eric Hadigian        def.  Theo Winegar         64 61
+     64  Linus Carlsson Hall… def.  Jayden Templeman     63 62
+     64  Enrique Luque Rico   def.  Shunsuke Mitsui      63 16 64
+     64  Mark Wallner         def.  Ben Gollin           62 63
+     64  Angel Diaz           def.  Corrado Summaria     61 63
+     64  Roko Horvat          def.  Conor Gannon         76(2) 16 64
+ > UT vs CU
+  > Main
+     SF  Jayden Templeman     def.  Angel Diaz           64 46 [8]
+     SF  Conor Gannon         def.  Ben Gollin           67(5) 64 [9]
 ~~~
 
 <a name="21-94373"></a>
@@ -214,14 +364,14 @@
      16  Justin Barki         def.  Finn Macnamara       63 64
      16  Santiago Galan       def.  Filippos Astreinidis 64 63
      16  Simon Wibler         def.  Bill Duo             06 63 76(8)
-     16  Alan Kam             def.  Rex Tang             64 62
+     16  Alan Kam             def.  Cheng Tang           64 62
      16  Jason Hildebrandt    def.  Theo Dean            63 64
      16  Shervin Dehmoubed    def.  Zach Smith           36 75 76(10)
  > Day 2
   > Main
      16  Bill Duo             def.  Robby Shymansky      46 63 [5]
      16  Zachery Lim          def.  Simon Wibler         64 64
-     16  Rex Tang             def.  Tal Goodman          63 16 76(3)
+     16  Cheng Tang           def.  Tal Goodman          63 16 76(3)
      16  Jason Hildebrandt    def.  Finn Macnamara       63 62
      16  Zach Smith           def.  Santiago Galan       46 62 64
      16  Justin Barki         def.  Theo Dean            62 62
@@ -234,13 +384,116 @@
      16  Jason Hildebrandt    def.  Justin Barki         46 63 [7]
      16  Zach Smith           def.  Filippos Astreinidis 26 61 60
      16  Simon Wibler         def.  Robby Shymansky      62 26 62
-     16  Rex Tang             def.  Renaud Lefevre       76(3) 36 [8]
+     16  Cheng Tang           def.  Renaud Lefevre       76(3) 36 [8]
  > Extra Match 1
   > Main
       F  Bill Duo             def.  Renaud Lefevre       63 62
  > Extra Match 2
   > Main
       F  Bill Duo             def.  Tal Goodman          63 61
+~~~
+
+<a name="21-95655"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  UNCG Fall Invitational
+  Dates: Sep 10-12, 2021
+  Host: UNC Greensboro (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Draw
+  > Main
+     64  Brann Reid           def.  Alex Zuckerman       76(4) 64
+     64  Leo Bierbaum         def.  Hugh Knapp           75 46 [8]
+     64  Harry Thursfield     def.  Cooper Wyett         60 41 Ret.
+     64  Quinn Fender         def.  Michael Gwynn        63 60
+     64  Sirawit Daosaengsaw… def.  David Flisberg       60 64
+     64  Callum Theaker       def.  Rafa Serra           64 76(4)
+     64  Christopher Johns    def.  Ryan Mudre           63 46 [7]
+     64  Hampus Johansson     def.  Bo Nash              61 64
+     64  Pol Otin             def.  Dimosthenis Taramon… 67(2) 64 [3]
+     64  Guilherme Severin    def.  Tomas Balazi         67(4) 63 [7]
+     64  Damien Nezar         def.  Andres Silva         64 62
+     64  Konstantinos Raptis  def.  Benjamin Maes        61 63
+     64  Aditya Balsekar      def.  Robin Angles         76(4) 76(7)
+     64  Leon Petko           def.  Karlis Katlaps       64 64
+     64  Noe MacQuart         def.  William Crane        64 64
+     64  Ted Williams         def.  Robert Hagen         64 63
+     64  Tomas Rodriguez      def.  Carlos Vicente       63 64
+     64  Evzen Holis          def.  Kerim Hyatt          62 64
+     64  Elias Grubert        def.  Simon Labbe          63 75
+     64  Rafael Tosetto       def.  Jeffrey Dewald       60 26 [8]
+     64  Andre Rodeia         def.  Jordan McClure       63 61
+     64  Mika Berghaus        def.  Jacob Marshall       64 60
+     64  Jun Sasagawa         def.  Quinten Nevenhoven   63 63
+ > R2
+  > Main
+     64  Brann Reid           def.  Tomas Rodriguez      64 67(4) [1]
+     64  Kerim Hyatt          def.  Leo Bierbaum         63 62
+     64  Harry Thursfield     def.  Simon Labbe          61 62
+     64  Jeffrey Dewald       def.  Quinn Fender         63 62
+     64  Sirawit Daosaengsaw… def.  Jacob Marshall       64 62
+     64  Jordan McClure       def.  Rafa Serra           61 63
+     64  Ryan Mudre           def.  Robert Hagen         63 63
+     64  Alex Zuckerman       def.  Pol Otin             63 62
+     64  Hugh Knapp           def.  Tomas Balazi         64 75
+     64  Damien Nezar         def.  Callum Theaker       62 62
+     64  Benjamin Maes        def.  Christopher Johns    62 62
+     64  David Flisberg       def.  Robin Angles         64 67(4) [8]
+     64  Leon Petko           def.  Michael Gwynn        63 76(8)
+     64  Noe MacQuart         def.  Hampus Johansson     63 63
+     64  Dimosthenis Taramon… def.  Mika Berghaus        60 36 [8]
+     64  Andre Rodeia         def.  Guilherme Severin    36 62 [7]
+     64  Andres Silva         def.  Carlos Vicente       62 62
+     64  Aditya Balsekar      def.  Elias Grubert        62 62
+     64  Evzen Holis          def.  Karlis Katlaps       75 62
+     64  Rafael Tosetto       def.  William Crane        61 62
+     64  Konstantinos Raptis  def.  Jun Sasagawa         64 63
+ > R3
+  > Main
+     64  Dimosthenis Taramon… def.  Alex Zuckerman       63 61
+     64  Guilherme Severin    def.  Hugh Knapp           62 60
+     64  Andres Silva         def.  Callum Theaker       64 62
+     64  Konstantinos Raptis  def.  Christopher Johns    62 61
+     64  Aditya Balsekar      def.  David Flisberg       61 76(6)
+     64  Karlis Katlaps       def.  Michael Gwynn        46 64 [3]
+     64  William Crane        def.  Hampus Johansson     63 60
+     64  Tomas Rodriguez      def.  Damien Nezar         64 36 [8]
+     64  Pol Otin             def.  Kerim Hyatt          64 67(6) [7]
+     64  Tomas Balazi         def.  Jeffrey Dewald       75 60
+     64  Benjamin Maes        def.  Jordan McClure       63 63
+     64  Noe MacQuart         def.  Jacob Marshall       63 62
+     64  Leon Petko           def.  Quinten Nevenhoven   61 64
+     64  Robin Angles         def.  Ryan Mudre           62 64
+     64  Ted Williams         def.  Bo Nash              63 63
+     64  Elias Grubert        def.  Brann Reid           62 26 [8]
+     64  Rafael Tosetto       def.  Leo Bierbaum         62 76(3)
+     64  Harry Thursfield     def.  Evzen Holis          75 75
+     64  Andre Rodeia         def.  Quinn Fender         67(4) 62 [6]
+     64  Mika Berghaus        def.  Sirawit Daosaengsaw… 62 63
+     64  Jun Sasagawa         def.  Bruno Serra          63 61
+     64  Rafa Serra           def.  Carlos Vicente       26 64 [1]
+ > R4
+  > Main
+     64  Rafael Tosetto       def.  Pol Otin             63 20 Ret.
+     64  Evzen Holis          def.  Damien Nezar         16 75 [6]
+     64  Mika Berghaus        def.  Benjamin Maes        63 75
+     64  Noe MacQuart         def.  Andre Rodeia         64 75
+     64  Ted Williams         def.  Elias Grubert        63 64
+     64  Kerim Hyatt          def.  Alex Zuckerman       36 62 [5]
+     64  Hugh Knapp           def.  Jordan McClure       63 63
+     64  Cooper Wyett         def.  Jacob Marshall       75 60
+     64  Ryan Mudre           def.  David Flisberg       61 61
+     64  Callum Theaker       def.  Bo Nash              26 64 [4]
+     64  Hampus Johansson     def.  Quinten Nevenhoven   16 31 Ret.
+     64  Robert Hagen         def.  Christopher Johns    62 60
+     64  Dimosthenis Taramon… def.  Brann Reid           57 62 [3]
+     64  Guilherme Severin    def.  Harry Thursfield     64 63
+     64  Andres Silva         def.  Leo Bierbaum         26 64 [13]
+     64  Konstantinos Raptis  def.  Quinn Fender         76(4) 61
+     64  Aditya Balsekar      def.  Sirawit Daosaengsaw… 61 Ret.
+     64  Rafa Serra           def.  Karlis Katlaps       76(5) 26 [5]
+     64  Bruno Serra          def.  William Crane        63 63
 ~~~
 
 <a name="21-17243"></a>

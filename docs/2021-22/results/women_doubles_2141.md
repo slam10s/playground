@@ -11,32 +11,42 @@
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">ITA Division I Women's Texas Regional Championship</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Viking Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">American Rivers Conference Women's Individual Tournament</a>  
+- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">ITA Cup</a>  
 
 <a name="21-27941"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
   C.L Varner Invitational
   Dates: Oct 8-12, 2021
   Host: Rollins College (M)
-══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Women Doubles A
   > East
-     SF (1) Dovnik/Kozar         def.  Groves/Wasil         63
-     SF (2) Groth/Borg           def.  Espinal/Follin-Arbe… 75
-     QF     Groves/Wasil         def.  Chavarria/Misdorp    64
-     QF     Espinal/Follin-Arbe… def.  Greco/Renovales      61
-     QF (2) Groth/Borg           def.  Salerno/Vidgren      63
+      F (2) Groth/Borg           def. (1) Dovnik/Kozar         63
+     SF (1) Dovnik/Kozar         def.     Groves/Wasil         63
+     SF (2) Groth/Borg           def.     Espinal/Follin-Arbe… 75
+     QF     Groves/Wasil         def.     Chavarria/Misdorp    64
+     QF     Espinal/Follin-Arbe… def.     Greco/Renovales      61
+     QF (2) Groth/Borg           def.     Salerno/Vidgren      63
   > West
-     SF     Salerno/Vidgren      def.  Greco/Renovales      62
+      F     Salerno/Vidgren      def.     Chavarria/Misdorp    63
+     SF     Salerno/Vidgren      def.     Greco/Renovales      62
+  > 3-4 Playoff
+      F     Espinal/Follin-Arbe… def.     Groves/Wasil         61
  > Women Doubles B
   > East
-     SF     Goncharov/Montero    def.  McKay/Vlasova        76(6)
-     QF     Collado Cordon/Yaro… def.  Bolivar Garces/Robi… 76(5)
-     QF     Goncharov/Montero    def.  Bryant/Bazilevych    76(6)
-     QF     McKay/Vlasova        def.  Triska/Reichert      60
+      F     Goncharov/Montero    def.     Collado Cordon/Yaro… 63
+     SF     Collado Cordon/Yaro… def.     Khan/Langaas         76(2)
+     SF     Goncharov/Montero    def.     McKay/Vlasova        76(6)
+     QF     Collado Cordon/Yaro… def.     Bolivar Garces/Robi… 76(5)
+     QF     Goncharov/Montero    def.     Bryant/Bazilevych    76(6)
+     QF     McKay/Vlasova        def.     Triska/Reichert      60
   > West
-     SF     Bryant/Bazilevych    def.  Triska/Reichert      60
+      F     Bolivar Garces/Robi… def.     Bryant/Bazilevych    76(6)
+     SF     Bryant/Bazilevych    def.     Triska/Reichert      60
+  > 3-4 Playoff
+      F     McKay/Vlasova        def.     Khan/Langaas         63
 ~~~
 
 Return to the [Top](./women_doubles_2141.md) &#124; [Home Page](../../index.md)

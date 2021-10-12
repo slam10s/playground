@@ -17,6 +17,7 @@
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Loyola Classic</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Youngstown State Hidden Duals</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 
@@ -30,7 +31,7 @@
  Men's Open Doubles
  > Main Draw
   > Main
-       F      Boulais/Trotter       vs   (Q) Cash/Vocel           Sun @ 12:00
+       F  (Q) Cash/Vocel           def.      Boulais/Trotter      63 62
       SF      Boulais/Trotter      def.      Dostanic/Frye        64 63
       SF  (Q) Cash/Vocel           def.  (Q) Hudd/Mitsui          62 64
       QF      Boulais/Trotter      def.  (5) Charlton/Vandecaste… 67(5) 64 [6]
@@ -62,7 +63,7 @@
       32  (Q) Reynolds/Lithen      def. (LL) Keremedchiev/Klov-N… 64 64
       32  (Q) Hudd/Mitsui          def.  (2) Rodrigues/Thomson    67(3) 76(5) [5]
   > Consolation
-       F  (Q) Rodesch/Goetz         vs  (LL) Keremedchiev/Klov-N… Sun @ 12:00
+       F  (Q) Rodesch/Goetz        def. (LL) Keremedchiev/Klov-N… 46 76(5) [9]
       SF  (Q) Rodesch/Goetz        def.  (5) Johns/Sculley        67(5) 76(5) [6]
       SF (LL) Keremedchiev/Klov-N… def.      Pearson/Di Marco     75 46 [6]
       QF  (Q) Rodesch/Goetz        def.  (Q) Malbasic/Hoeyeraal   62 62
@@ -345,38 +346,43 @@
      SF     Dransfeld/Sandoval  def.     Simon/Vannemreddy    Walkover
   > 3-4 Playoff
       F     Ilie/Quiles         def. (1) Pelletier/Morgan     Walkover
+ > Doubles Extra Matches
+  > Main
+      F     Savva/Sokolovskiy   def.     Guerrero Alvarez/Ta… 84
 ~~~
 
 <a name="21-80207"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
   Florida Division I - Bedford Cup, Men 2021
   Dates: Oct 8-10, 2021
   Host: Florida State University (M)
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight A
   > East
-     QF  Barton/Nunez         def.  Oliveira/Goncalves   62
-     QF  Silagy/Dous Karpens… def.  Damm/Oncins          75
-     QF  Crespo/Hartenstein   def.  Muniz-Hidalgo/Yatsuk 61
-     QF  Krolo/Huempfner      def.  Nahrung/Rihane       75
-     16  Barton/Nunez         def.  Hillhouse/Thiergard  63
-     16  Silagy/Dous Karpens… def.  Robbins/Sarrio       75
-     16  Crespo/Hartenstein   def.  Stefanacci/Maciel    64
-     16  Krolo/Huempfner      def.  Hamel/Marques        75
+      F     Silagy/Dous Karpens… def.     Crespo/Hartenstein   76(7)
+     SF     Silagy/Dous Karpens… def.     Barton/Nunez         75
+     SF     Crespo/Hartenstein   def.     Krolo/Huempfner      76(5)
+     QF     Barton/Nunez         def. (1) Oliveira/Goncalves   62
+     QF     Silagy/Dous Karpens… def.     Damm/Oncins          75
+     QF     Crespo/Hartenstein   def.     Muniz-Hidalgo/Yatsuk 61
+     QF     Krolo/Huempfner      def. (2) Nahrung/Rihane       75
+     16     Barton/Nunez         def.     Hillhouse/Thiergard  63
+     16     Silagy/Dous Karpens… def.     Robbins/Sarrio       75
+     16     Crespo/Hartenstein   def.     Stefanacci/Maciel    64
+     16     Krolo/Huempfner      def.     Hamel/Marques        75
  > Flight B
   > East
-     SF  Gomez-Montesa/Tudor… def.  Duarte/Ellis         75
-     SF  Petrovic/Thongoana   def.  Lopez/Johnson        76(3)
-     QF  Gomez-Montesa/Tudor… def.  Laka/Moses           64
-     QF  Duarte/Ellis         def.  Escandell/Fernandez… 64
-     QF  Lopez/Johnson        def.  Gennes/Penzkofer     64
-     QF  Petrovic/Thongoana   def.  Carroll/Kotan        63
-     16  Duarte/Ellis         def.  Mohandoss/Pisane     63
-     16  Gennes/Penzkofer     def.  Jadoun/Stodder       76(5)
-  > 3-4 Playoff
-      F  Duarte/Ellis          vs   Lopez/Johnson        Sun @ 08:30
+      F (1) Gomez-Montesa/Tudor… def. (2) Petrovic/Thongoana   75
+     SF (1) Gomez-Montesa/Tudor… def.     Duarte/Ellis         75
+     SF (2) Petrovic/Thongoana   def.     Lopez/Johnson        76(3)
+     QF (1) Gomez-Montesa/Tudor… def.     Laka/Moses           64
+     QF     Duarte/Ellis         def. (4) Escandell/Fernandez… 64
+     QF     Lopez/Johnson        def.     Gennes/Penzkofer     64
+     QF (2) Petrovic/Thongoana   def.     Carroll/Kotan        63
+     16     Duarte/Ellis         def.     Mohandoss/Pisane     63
+     16     Gennes/Penzkofer     def.     Jadoun/Stodder       76(5)
 ~~~
 
 <a name="21-99710"></a>
@@ -462,6 +468,9 @@
  > Long vs Vill
   > Main
       F  Reis/Nayadenov     def.  Nguyen/Kim           61
+ > GM vs Rad
+  > Main
+      F  Crane/Mujan        def.  Ha/Pollatos          64
 ~~~
 
 <a name="21-27941"></a>
@@ -487,27 +496,44 @@
 
 <a name="21-99765"></a>
 ~~~
-════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   Lander Invitational
   Dates: Oct 8-9, 2021
   Host: Lander University (M)
-════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Holyoak Flight
   > Main
-     R1  Babic/Matos          def.  Komada/Arlot      63
-     R1  De Groot/Horne       def.  Bolle/Isago       75
+     R3  Babic/Matos          def.  Bolle/Isago          63
+     R3  De Groot/Horne       def.  Komada/Arlot         75
+     R2  Komada/Arlot         def.  Bolle/Isago          Walkover
+     R2  Babic/Matos          def.  De Groot/Horne       75
+     R1  Babic/Matos          def.  Komada/Arlot         63
+     R1  De Groot/Horne       def.  Bolle/Isago          75
  > Simpson Flight
   > Main
-     R1  Cardoso/Cariov       def.  Sergi/Sorel       62
-     R1  Regner/Sorensen      def.  Davydovskiy/Rubio 75
+     R3  Regner/Sorensen      def.  Sergi/Sorel          64
+     R3  Cardoso/Cariov       def.  Davydovskiy/Rubio    61
+     R2  Regner/Sorensen      def.  Cardoso/Cariov       61
+     R2  Sergi/Sorel          def.  Davydovskiy/Rubio    76(5)
+     R1  Cardoso/Cariov       def.  Sergi/Sorel          62
+     R1  Regner/Sorensen      def.  Davydovskiy/Rubio    75
  > Teixeira Flight
   > Main
-     R1  Dominguez Collado/M… def.  Perez/Quereda     62
-     R1  Crepy/De Negri       def.  Robinson/Zavrel   63
+     R3  Crepy/De Negri       def.  Perez/Quereda        Walkover
+     R3  Dominguez Collado/M… def.  Robinson/Zavrel      Walkover
+     R2  Crepy/De Negri       def.  Dominguez Collado/M… 63
+     R2  Perez/Quereda        def.  Robinson/Zavrel      63
+     R1  Dominguez Collado/M… def.  Perez/Quereda        62
+     R1  Crepy/De Negri       def.  Robinson/Zavrel      63
  > Pothoff Flight
   > Main
-     R3  Baradel/Danielsson   def.  Calicis/Mercer    60
+     R3  Coleman/King         def.  Grunert/Villamizar   75
+     R3  Baradel/Danielsson   def.  Calicis/Mercer       60
+     R2  Baradel/Danielsson   def.  Coleman/King         63
+     R2  Grunert/Villamizar   def.  Calicis/Mercer       Walkover
+     R1  Baradel/Danielsson   def.  Grunert/Villamizar   63
+     R1  Coleman/King         def.  Calicis/Mercer       64
 ~~~
 
 <a name="21-27918"></a>
@@ -534,6 +560,7 @@
      16     Bilicic/DeRose     def.     Forester/Gujarathi   85
  > Flight B
   > Main
+      F     Vuksanovic/Marley  def. (1) Sharda/Glickman      83
      SF (1) Sharda/Glickman    def. (3) Flores/Garapati      82
      SF     Vuksanovic/Marley  def.     Moldenhauer/Obeid    85
      QF (1) Sharda/Glickman    def.     Danielson/Koide      83

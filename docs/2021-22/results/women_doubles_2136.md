@@ -1,24 +1,84 @@
 <a name="top"></a>[<< Prev](women_doubles_2135.md) &nbsp; **Week #36 - Sep 6-12, 2021** &nbsp; [Next >>](women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2136.md) &#124; [***Women***](./women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2136.md) &#124; [***Doubles***](./women_doubles_2136.md)
 
 **Tournamets with Matches**  
+- 9/5/2021 - [Mary Hosking Invitational Tournament](#21-02759) ([Results](#21-02759) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7" target="_blank">Draws</a>)  
 - 9/10/2021 - [Bill and Sandra Moore Invitational](#21-34233) ([Results](#21-34233) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/91B59866-0B48-4129-8FAE-B1A88BCD7896" target="_blank">Draws</a>)  
 - 9/11/2021 - [Liberty Invite](#21-48654) ([Results](#21-48654) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/D66E087D-3234-4CE1-8D12-9CFE3EF5F621" target="_blank">Draws</a>)  
 - 9/10/2021 - [SIUE Cougar Invite](#21-66962) ([Results](#21-66962) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernIllinoisUniversityEdwardsvilleW/Tournaments/Overview/49CD19F7-C361-46C8-9A0D-85DA79B24973" target="_blank">Draws</a>)  
+- 9/10/2021 - [Warhawk Invite](#21-43648) ([Results](#21-43648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfLouisianaMonroeW/Tournaments/Overview/54708D1F-C66A-43B0-AD2A-D851EE9A1A35" target="_blank">Draws</a>)  
 - 9/10/2021 - [Women's Drake Invite](#21-32364) ([Results](#21-32364) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/51EAC500-8BA9-4BA4-A244-CED3E726C5FE" target="_blank">Draws</a>)  
 - 9/10/2021 - [Angelo State SlamFest](#21-31047) ([Results](#21-31047) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AngeloStateUniversityW/Tournaments/Overview/AF7EE133-54BC-4F7C-A60D-0E1A114F1191" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
+- 9/11/2021 - [University of Findlay/Findlay YMCA East Fall Invite](#21-72676) ([Results](#21-72676) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7" target="_blank">Mary Hosking Invitational Tournament</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiW/Tournaments/Overview/88D2417A-460B-408A-9E50-7C7E5EE7478F" target="_blank">2021 𝗖𝗢𝗡𝗧𝗘𝗡𝗗𝗘𝗥 𝗖𝗥𝗢𝗦𝗦𝗙𝗜𝗧 𝗜𝗦𝗟𝗔𝗡𝗗𝗘𝗥 𝗢𝗣𝗘𝗡</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfLouisianaMonroeW/Tournaments/Overview/54708D1F-C66A-43B0-AD2A-D851EE9A1A35" target="_blank">Warhawk Invite</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiW/Tournaments/Overview/88D2417A-460B-408A-9E50-7C7E5EE7478F" target="_blank">2021 Contender Crossfit Islander Open</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>  
-- 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">University of Findlay/Findlay YMCA East Fall Invite</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Wallach Invitational</a>  
+
+<a name="21-02759"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Mary Hosking Invitational Tournament
+  Dates: Sep 5-6, 2021
+  Host: William Smith College (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > Main
+      F  Apsey/Holtzman       def.  Libby/Ruiz Vega      84
+     SF  Libby/Ruiz Vega      def.  Bonomo/Camacho       83
+     SF  Apsey/Holtzman       def.  Elliot/Goings-Perrot 80
+     QF  Bonomo/Camacho       def.  Davis/Chelnick       87(1)
+     QF  Libby/Ruiz Vega      def.  Cutler/Pratt         86
+     QF  Elliot/Goings-Perrot def.  Galle/Tobin          85
+     QF  Apsey/Holtzman       def.  Sullivan/Styliades   80
+     16  Bonomo/Camacho       def.  Schulz/Klomp         81
+     16  Davis/Chelnick       def.  Murray/Wade          83
+     16  Libby/Ruiz Vega      def.  Gamble/Avery         81
+     16  Cutler/Pratt         def.  Bulkeley/Carr        81
+     16  Elliot/Goings-Perrot def.  Rodriguez/Shenk      84
+     16  Galle/Tobin          def.  Kim/Waysack          84
+     16  Sullivan/Styliades   def.  Pullen/Guzman        80
+     16  Apsey/Holtzman       def.  Donohue/Drozd        81
+  > Consolation
+      F  Donohue/Drozd        def.  Gamble/Avery         86
+     SF  Gamble/Avery         def.  Murray/Wade          85
+     SF  Donohue/Drozd        def.  Rodriguez/Shenk      Walkover
+     QQ  Murray/Wade          def.  Schulz/Klomp         84
+     QQ  Gamble/Avery         def.  Bulkeley/Carr        80
+     QQ  Rodriguez/Shenk      def.  Kim/Waysack          87(6)
+     QQ  Donohue/Drozd        def.  Pullen/Guzman        87(4)
+ > Flight B
+  > Main
+      F  Caplan/Dadoly        def.  Macey/Harris         86
+     SF  Macey/Harris         def.  Cicero/Roberts       83
+     SF  Caplan/Dadoly        def.  Glidden/Turtledove   86
+     QF  Cicero/Roberts       def.  Wisniewski/Kelly     82
+     QF  Macey/Harris         def.  Mandalapu/Dron       84
+     QF  Caplan/Dadoly        def.  Morgans/Morrow       82
+     QF  Glidden/Turtledove   def.  Herz/Sposito         83
+     16  Cicero/Roberts       def.  Fine/Pida            82
+     16  Wisniewski/Kelly     def.  Breitweiser/Spath    80
+     16  Mandalapu/Dron       def.  Wolfe/Kohberger      82
+     16  Macey/Harris         def.  Krol/Seiler          83
+     16  Caplan/Dadoly        def.  Auble/Smolowitz      83
+     16  Morgans/Morrow       def.  Burns/Klee           87(4)
+     16  Herz/Sposito         def.  Keegan/Hecht         80
+     16  Glidden/Turtledove   def.  Johnson/Rockwood     81
+  > Consolation
+      F  Krol/Seiler          def.  Auble/Smolowitz      87(4)
+     SF  Krol/Seiler          def.  Fine/Pida            86
+     SF  Auble/Smolowitz      def.  Johnson/Rockwood     82
+     QQ  Fine/Pida            def.  Breitweiser/Spath    82
+     QQ  Krol/Seiler          def.  Wolfe/Kohberger      87(8)
+     QQ  Auble/Smolowitz      def.  Burns/Klee           81
+     QQ  Johnson/Rockwood     def.  Keegan/Hecht         81
+~~~
 
 <a name="21-34233"></a>
 ~~~
@@ -149,6 +209,47 @@
      16  Hailey/Andrade       def.  Castellanos/Rybka    75
      16  Perlwitz/Lojpur      def.  Jacobson/Grice       60
      16  Kancherla/Carbonell  def.  Kovacs/Marjanovic    76(3)
+~~~
+
+<a name="21-43648"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  Warhawk Invite
+  Dates: Sep 10-11, 2021
+  Host: Univ. Of Louisiana, Monroe (W)
+══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight 1
+  > Main
+      F  Rice/Zukic         def.  Insani/Bierma        63
+     SF  Insani/Bierma      def.  Surcey/Roper         76(6)
+     SF  Rice/Zukic         def.  Grigoriu/Hernandez   63
+     QF  Insani/Bierma      def.  Ule/Cerda            63
+     QF  Surcey/Roper       def.  Badwy/Pereira        62
+     QF  Grigoriu/Hernandez def.  Hayduk/Waddles       64
+     QF  Rice/Zukic         def.  Fabre/Frigout        62
+  > Consolation
+      F  Badwy/Pereira      def.  Fabre/Frigout        62
+     SQ  Badwy/Pereira      def.  Ule/Cerda            64
+     SQ  Fabre/Frigout      def.  Hayduk/Waddles       62
+  > Playoff 3-4
+      F  Surcey/Roper       def.  Grigoriu/Hernandez   64
+ > Flight 2
+  > Main
+      F  Garbino/Gomez      def.  Kanarskaya/Oborina   64
+     SF  Kanarskaya/Oborina def.  Kauders/Furness      64
+     SF  Garbino/Gomez      def.  Brody/Vdovychenko    61
+     QF  Kauders/Furness    def.  Sleptsova/Humbert    61
+     QF  Brody/Vdovychenko  def.  Csordas/Burdett      64
+     QF  Garbino/Gomez      def.  Kouchnareva/Bleicher 62
+  > Consolation
+      F  Csordas/Burdett    def.  Sleptsova/Humbert    61
+     SQ  Csordas/Burdett    def.  Kouchnareva/Bleicher 61
+  > Playoff 3-4
+      F  Kauders/Furness    def.  Brody/Vdovychenko    61
+ > Flight 3
+  > Main
+      F  Hayduk/Waddles     def.  Ule/Cerda            63
 ~~~
 
 <a name="21-32364"></a>
@@ -331,6 +432,40 @@
       F  Munoz/Navarro-Cavaz… def.  Castleberry/Omeire   62
      SF  Castleberry/Omeire   def.  Gardner/Hoffman      60
      SF  Munoz/Navarro-Cavaz… def.  Nutt/Garcia          60
+~~~
+
+<a name="21-72676"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  University of Findlay/Findlay YMCA East Fall Invite
+  Dates: Sep 11-12, 2021
+  Host: University Of Findlay (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+     32  Karg/Silveira        def.  Resor/Hadler         63
+     32  Tsadari/Iglesias     def.  Arquette/Krygier     64
+     32  Neuman/Vetter        def.  Pereyra/Brito        62
+     32  Barrett/Avram        def.  Liong/Komar          76(3)
+     32  Cazacu/Ruyssen       def.  Foster/Peace         63
+     32  Shetty/Lepinay       def.  Mandair/Douglas      64
+ > Sunday Morning 10:30 am
+  > Main
+     32  Arquette/Krygier     def.  Liong/Cazacu         75
+     32  Ruyssen/Komar        def.  Resor/Hadler         62
+     32  Mandair/Douglas      def.  Brito/Nieto Soto     76(5)
+     32  Karg/Silveira        def.  Barrett/Avram        64
+     32  Shetty/Lepinay       def.  Tsadari/Iglesias     63
+     32  Neuman/Poppe         def.  Matich-Reynolds/Fos… 62
+ > Sunday 11:15 AM
+  > Main
+     32  Lepinay/Barrett      def.  Arquette/Krygier     63
+     32  Resor/Hadler         def.  Avram/Foster         75
+     32  Matich-Reynolds/Pea… def.  Pereyra/Nieto Soto   62
+     32  Karg/Silveira        def.  Ruyssen/Komar        62
+     32  Tsadari/Iglesias     def.  Mandair/Douglas      61
+     32  Neuman/Vetter        def.  Jewell/Laynes        63
 ~~~
 
 <a name="21-24367"></a>
