@@ -7,6 +7,8 @@
 - 10/7/2021 - [Bulldawg Invitational](#21-11157) ([Results](#21-11157) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Draws</a>)  
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
+- 10/9/2021 - [WMU Vredevelt Invite](#21-70570) ([Results](#21-70570) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">Draws</a>)  
+- 10/8/2021 - [Youngstown State Hidden Duals](#21-93245) ([Results](#21-93245) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Invitational](#21-99765) ([Results](#21-99765) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Draws</a>)  
 - 10/9/2021 - [Wallach Invitational 2021](#21-27918) ([Results](#21-27918) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Draws</a>)  
@@ -16,8 +18,6 @@
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Loyola Classic</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Youngstown State Hidden Duals</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 
@@ -1233,6 +1233,128 @@
      QF  Jack McBride         def.  Michael Pollatos    75 60
      QF  Chanasorn Nakaurai   def.  Harry Yang          Walkover
      QF  Dustin Ha            def.  William Crane       75 63
+~~~
+
+<a name="21-70570"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  WMU Vredevelt Invite
+  Dates: Oct 9-10, 2021
+  Host: Western Michigan University (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Round 1 Singles
+  > Main
+     32  Peter Kuszynski      def.  Kade Mindry          62 63
+     32  Arjun Honnappa       def.  Jakov Suler          64 64
+     32  Fynn Lohse           def.  Nick Williams        63 63
+     32  Anton Arzhankin      def.  Javier Sanchez Prad… 60 63
+     32  Pedro Alvarez        def.  Benjamin George      64 26 [7]
+     32  Jackson Boone        def.  Borja Miralles       36 63 [7]
+     32  Brogan Pierce        def.  Hugo Chatras         75 64
+     32  Ferdinand Schlueter  def.  Jesus Perez Plaza    61 63
+     32  Yu Zhang             def.  Thomas Brennan       64 62
+     32  Brian Bilsey         def.  Mikael Erler         75 63
+     32  JuandeDios Abboud    def.  Jakub Zamorski       64 63
+     32  Austin Staiger       def.  Maximiliano Sandova… 75 62
+     32  Michael Dickson      def.  Jarreau Campbell     62 62
+     32  Alvaro Huete         def.  Jack Winkler         67(4) 63 [5]
+     32  Reed Crocker         def.  Michael Karr         26 61 [5]
+ > Round 2 Singles
+  > Main
+     32  Fynn Lohse           def.  Pedro Alvarez        76(5) 61
+     32  Brogan Pierce        def.  Austin Staiger       61 76(5)
+     32  JuandeDios Abboud    def.  Ferdinand Schlueter  26 76(5) [8]
+     32  Jackson Boone        def.  Michael Dickson      57 64 [9]
+     32  Yu Zhang             def.  Peter Kuszynski      62 46 [6]
+     32  Arjun Honnappa       def.  Brian Bilsey         64 57 [4]
+     32  Benjamin George      def.  Jarreau Campbell     63 60
+     32  Anton Arzhankin      def.  Alvaro Huete         64 67(6) [5]
+     32  Reed Crocker         def.  Javier Sanchez Prad… 61 62
+     32  Drew Michael         def.  Hugo Chatras         64 62
+     32  Mikael Erler         def.  Thomas Brennan       36 76(5) [5]
+     32  Michael Karr         def.  Maximiliano Sandova… 75 76(1)
+     32  Kade Mindry          def.  Nick Williams        62 76(4)
+     32  Jakub Zamorski       def.  Jack Winkler         36 64 [3]
+ > Round 3 Singles
+  > Main
+     32  Yu Zhang             def.  Arjun Honnappa       63 75
+     32  Brogan Pierce        def.  Brian Bilsey         76(6) 76(4)
+     32  Ferdinand Schlueter  def.  Austin Staiger       62 75
+     32  Jackson Boone        def.  JuandeDios Abboud    62 63
+     32  Alvaro Huete         def.  Peter Kuszynski      64 46 [2]
+     32  Thomas Brennan       def.  Fynn Lohse           62 36 [7]
+     32  Mikael Erler         def.  Benjamin George      26 75 [11]
+     32  Anton Arzhankin      def.  Kade Mindry          63 64
+     32  Hugo Chatras         def.  Javier Sanchez Prad… 67(3) 76(6) [7]
+     32  Michael Karr         def.  Jesus Perez Plaza    61 63
+     32  Pedro Alvarez        def.  Nick Williams        64 Ret.
+     32  Maximiliano Sandova… def.  Jarreau Campbell     75 46 [1]
+     32  Michael Dickson      def.  Jack Winkler         75 63
+     32  Drew Michael         def.  Reed Crocker         75 64
+~~~
+
+<a name="21-93245"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Youngstown State Hidden Duals
+  Dates: Oct 8-9, 2021
+  Host: Youngstown State Univ. (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight 1
+  > Main
+     R7  Alex Mascioli        def.  Michael Pawlowicz   76(4) 62
+     R6  Erik Gran            def.  Alex Mascioli       16 63 [8]
+     R3  Stijn Paardekooper   def.  Erik Gran           61 63
+     R2  Stijn Paardekooper   def.  Kaipo Marshall      76(2) 64
+     R2  Erik Gran            def.  Michael Pawlowicz   76(7) 60
+     R1  Stijn Paardekooper   def.  Michael Pawlowicz   61 63
+ > Flight 2
+  > Main
+     R5  Dan Pergel           def.  Javi Pla            36 76(2) [5]
+     R4  Javi Pla             def.  Marco Rivolo        76(4) 62
+     R2  Jin Dassanayake      def.  Marco Rivolo        61 64
+     R2  Kaipo Marshall       def.  Dan Pergel          64 62
+     R1  Dan Pergel           def.  Marco Rivolo        36 23 Ret.
+     R1  Nathan Favier        def.  Kaipo Marshall      75 62
+ > Flight 3
+  > Main
+     R7  Nathan Favier        def.  Shourya Verma       67(4) 62 [5]
+     R6  Shourya Verma        def.  Jean Marrero        63 64
+     R3  Shourya Verma        def.  Jin Dassanayake     63 62
+     R3  David Alvarez Moreno def.  Jean Marrero        63 57 [4]
+     R1  Clement Mainguy      def.  Jin Dassanayake     61 61
+     R1  Jean Marrero         def.  William Everett     63 64
+ > Flight 4
+  > Main
+     R6  Javi Pla             def.  Liam Wickwire       64 62
+     R6  David Alvarez Moreno def.  William Schneideman 63 64
+     R5  Tamirlan Teberikov   def.  Anshumat Srivastava 64 67(4) [4]
+     R2  Kyle Weekes          def.  William Schneideman 61 61
+     R1  Liam Wickwire        def.  William Schneideman 76(4) 64
+     R1  Clement Mainguy      def.  Kyle Weekes         63 62
+ > Flight 7
+  > Main
+     R3  Nathan Favier        def.  Luke Rieman         60 60
+     R3  Asier Pena Ibanez    def.  Courage Crawford    61 64
+     R1  Luke Rieman          def.  Courage Crawford    63 62
+ > Flight 6
+  > Main
+     R7  Charalampos Fouzas   def.  Bode Vance          63 61
+     R7  Adi Ben Ari          def.  Luke Young          16 75 [7]
+     R6  Charalampos Fouzas   def.  Adi Ben Ari         60 61
+     R3  Luke Young           def.  Bode Vance          63 63
+     R2  Clement Mainguy      def.  Luke Young          62 61
+     R1  Bode Vance           def.  Courage Crawford    63 60
+ > Flight 5
+  > Main
+     R5  William Everett      def.  Anshumat Srivastava 64 16 [7]
+     R4  Norka Sanchez        def.  Joey Matthews       61 76(4)
+     R2  Norka Sanchez        def.  Asier Pena Ibanez   63 64
+     R1  Anshumat Srivastava  def.  Norka Sanchez       62 64
+     R1  Adi Ben Ari          def.  Liam Wickwire       64 61
+     R1  Charalampos Fouzas   def.  Bode Vance          63 61
 ~~~
 
 <a name="21-27941"></a>

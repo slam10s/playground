@@ -7,6 +7,8 @@
 - 10/7/2021 - [Bulldawg Invitational](#21-11157) ([Results](#21-11157) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Draws</a>)  
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
+- 10/9/2021 - [WMU Vredevelt Invite](#21-70570) ([Results](#21-70570) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">Draws</a>)  
+- 10/8/2021 - [Youngstown State Hidden Duals](#21-93245) ([Results](#21-93245) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Invitational](#21-99765) ([Results](#21-99765) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Draws</a>)  
 - 10/9/2021 - [Wallach Invitational 2021](#21-27918) ([Results](#21-27918) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Draws</a>)  
@@ -16,8 +18,6 @@
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Loyola Classic</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">WMU Vredevelt Invite</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Youngstown State Hidden Duals</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 
@@ -473,6 +473,80 @@
       F  Crane/Mujan        def.  Ha/Pollatos          64
 ~~~
 
+<a name="21-70570"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  WMU Vredevelt Invite
+  Dates: Oct 9-10, 2021
+  Host: Western Michigan University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Round 1 Doubles
+  > Main
+     16  Sandoval Dominguez/… def.  Karr/Miralles        63
+     16  Alvarez/Sanchez Pra… def.  Huete/Michael        75
+     16  Crocker/Winkler      def.  Suler/Perez Plaza    76(5)
+     16  Williams/Campbell    def.  Brennan/Dickson      63
+     16  Arzhankin/Kuszynski  def.  Zhang/Bilsey         64
+     16  Schlueter/Lohse      def.  Erler/Abboud         75
+     16  George/Pierce        def.  Staiger/Chatras      64
+ > Round 2 Doubles
+  > Main
+     16  Sandoval Dominguez/… def.  Honnappa/Boone       64
+     16  Williams/Campbell    def.  Arzhankin/Kuszynski  75
+     16  Zhang/Bilsey         def.  Karr/Miralles        62
+     16  Alvarez/Sanchez Pra… def.  Brennan/Dickson      64
+     16  Crocker/Winkler      def.  Huete/Michael        64
+     16  Schlueter/Lohse      def.  Staiger/Chatras      75
+     16  George/Pierce        def.  Erler/Abboud         76(5)
+ > Round 3 Doubles
+  > Main
+     16  Williams/Campbell    def.  Sandoval Dominguez/… 61
+     16  Brennan/Dickson      def.  Zhang/Bilsey         75
+     16  Suler/Perez Plaza    def.  Erler/Abboud         75
+     16  Crocker/Winkler      def.  Schlueter/Lohse      64
+     16  Alvarez/Sanchez Pra… def.  George/Pierce        75
+     16  Arzhankin/Kuszynski  def.  Huete/Michael        63
+     16  Honnappa/Boone       def.  Staiger/Chatras      75
+~~~
+
+<a name="21-93245"></a>
+~~~
+═════════════════════════════════════════════════════════════════
+  Youngstown State Hidden Duals
+  Dates: Oct 8-9, 2021
+  Host: Youngstown State Univ. (M)
+═════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight 1
+  > Main
+     R3  Pawlowicz/Verma      def.  Paardekooper/Rivolo  64
+     R3  Fouzas/Gran          def.  Marshall/Dassanayake 63
+     R2  Fouzas/Gran          def.  Pawlowicz/Verma      63
+     R2  Paardekooper/Rivolo  def.  Marshall/Dassanayake 64
+     R1  Paardekooper/Rivolo  def.  Fouzas/Gran          76(10)
+     R1  Marshall/Dassanayake def.  Pawlowicz/Verma      64
+ > Flight 2
+  > Main
+     R4  Everett/Alvarez Mor… def.  Pergel/Srivastava    62
+     R3  Pergel/Srivastava    def.  Marrero/Schneideman  63
+     R2  Matthews/Wickwire    def.  Everett/Alvarez Mor… 63
+     R2  Marrero/Schneideman  def.  Vance/Teberikov      61
+     R1  Matthews/Wickwire    def.  Pergel/Srivastava    62
+     R1  Pena Ibanez/Alvarez… def.  Marrero/Schneideman  61
+ > Flight 3
+  > Main
+     R5  Favier/Mainguy       def.  Vance/Teberikov      63
+     R5  Matthews/Wickwire    def.  Sanchez/Rieman       75
+     R4  Weekes/Crawford      def.  Sanchez/Rieman       63
+     R3  Favier/Mainguy       def.  Young/Sanchez        64
+     R2  Favier/Mainguy       def.  Weekes/Crawford      62
+     R1  Vance/Teberikov      def.  Weekes/Crawford      62
+ > Flight 4
+  > Main
+      F  Pla/Everett          def.  Nguyen/Rieman        64
+~~~
+
 <a name="21-27941"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -523,7 +597,7 @@
      R3  Crepy/De Negri       def.  Perez/Quereda        Walkover
      R3  Dominguez Collado/M… def.  Robinson/Zavrel      Walkover
      R2  Crepy/De Negri       def.  Dominguez Collado/M… 63
-     R2  Perez/Quereda        def.  Robinson/Zavrel      63
+     R2  Robinson/Zavrel      def.  Perez/Quereda        63
      R1  Dominguez Collado/M… def.  Perez/Quereda        62
      R1  Crepy/De Negri       def.  Robinson/Zavrel      63
  > Pothoff Flight

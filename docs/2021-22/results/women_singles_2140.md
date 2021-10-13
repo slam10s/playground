@@ -7,10 +7,12 @@
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 - 10/4/2021 - [2nd UCA FALL INVITATIONAL TOURNAMENT](#21-12073) ([Results](#21-12073) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/7737FD94-882F-4257-A700-306375BD09EC" target="_blank">Draws</a>)  
 - 10/4/2021 - [ITA Women's All-American Championship](#21-68261) ([Results](#21-68261) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">Draws</a>)  
+- 10/8/2021 - [Jimmy Powell Invitational](#21-66349) ([Results](#21-66349) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Draws</a>)  
 - 10/8/2021 - [Long Beach State Fall Tournament](#21-66132) ([Results](#21-66132) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Draws</a>)  
 - 10/8/2021 - [MVC Individual Championships](#21-95059) ([Results](#21-95059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">Draws</a>)  
 - 10/8/2021 - [Navy Blue and Gold Invitational](#21-53408) ([Results](#21-53408) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C" target="_blank">Draws</a>)  
 - 10/8/2021 - [SMU Red and Blue Invite](#21-78857) ([Results](#21-78857) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/4628479A-19D9-4AD2-91AA-D180971411D5" target="_blank">Draws</a>)  
+- 10/8/2021 - [USC Women of Troy Invitational](#21-75174) ([Results](#21-75174) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F" target="_blank">Draws</a>)  
 - 10/8/2021 - [Wildcat Invite](#21-77667) ([Results](#21-77667) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Women's Invitational](#21-77230) ([Results](#21-77230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE" target="_blank">Draws</a>)  
@@ -22,10 +24,8 @@
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Cincinnati/Xavier Fall Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Georgia Southern Fall Shootout</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Jimmy Powell Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">June Stewart</a>  
 - 10/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SoutheastMissouriStateUnivW/Tournaments/Overview/E0892C7B-1714-4B99-A547-2386D7847CF2" target="_blank">SEMO Invitational</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F" target="_blank">USC Women of Troy Invitational</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889" target="_blank">Middlebury Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
@@ -568,6 +568,52 @@
      32Q (5) Solymar Colling      def.     Shura Poppe          64 64
 ~~~
 
+<a name="21-66349"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Jimmy Powell Invitational
+  Dates: Oct 8-9, 2021
+  Host: Elon University (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Blue
+  > Main
+     R5  Raegan Mitchell      def.  Valentina Urelli     63 67(10) [4]
+     R4  Erika Barquero       def.  Victoire de Samucew… 64 16 [7]
+     R2  Paola Landin         def.  Juliana Craft        62 63
+     R2  Megan Hopton         def.  Olivia Gallagher     60 63
+     R2  Anna Babayan         def.  Eugenia Camacho Fer… 60 63
+     R1  Ariana Chan Baratau  def.  Mathilde Tranberg    75 61
+ > Red
+  > Main
+     R4  Carly Cohen          def.  Ariana Chan Baratau  64 61
+     R3  Sarah Allen          def.  Mccollough Perry     75 61
+     R3  Marta Buendia        def.  Juliana Craft        57 62 [4]
+     R2  Eugenia Camacho Fer… def.  Isabella Weatherhead 64 26 [10]
+     R2  Raegan Mitchell      def.  Sara Salemyr         61 63
+     R1  Erika Barquero       def.  Emily Dunbar         63 61
+ > Green
+  > Main
+     R6  Isabella Weatherhead def.  Sarah Allen          62 62
+     R5  Lizette Reding       def.  Carly Cohen          61 36 [8]
+     R2  Alison ODea          def.  Mccollough Perry     61 61
+     R2  Valentina Urelli     def.  Shauna Galvin        63 61
+     R2  Victoria Saldh       def.  Sara Salemyr         64 61
+     R2  Olivia Archer        def.  Polina Shitikova     76(4) Ret.
+     R1  Sibel Tanik          def.  Emily Dunbar         62 61
+     R1  Julie Ball           def.  Marta Buendia        61 64
+ > Purple
+  > Main
+     R7  Megan Hopton         def.  Victoria Saldh       63 63
+     R6  Alison ODea          def.  Valentina Urelli     62 67(4) [4]
+     R5  Anna Babayan         def.  Shauna Galvin        62 62
+     R4  Mathilde Tranberg    def.  Lizette Reding       62 06 [8]
+     R2  Sarah Allen          def.  Mccollough Perry     64 61
+     R2  Sibel Tanik          def.  Victoire de Samucew… 76(3) 62
+     R1  Jesse Hollins        def.  Olivia Archer        62 75
+     R1  Paola Landin         def.  Julie Ball           64 36 [5]
+~~~
+
 <a name="21-66132"></a>
 ~~~
 ═════════════════════════════════════════════════════════════════════════
@@ -880,11 +926,11 @@
 
 <a name="21-78857"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   SMU Red and Blue Invite
   Dates: Oct 8-10, 2021
   Host: Southern Methodist Univ. (W)
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Draw
   > East
@@ -915,6 +961,125 @@
      64  Sophia Kermet        def.  Sophie Omoworare     64 75
      64  Mei Ishimura         def.  Taylor Parkinson     62 62
      64  Patricia Apisah      def.  Paulina Engback      63 63
+ > Day 2
+  > Main
+     64  Karine-Marion Job    def.  Lexi Keberle         63 62
+     64  Avelina Sayfetdinova def.  Yu Chen              64 64
+     64  Kailey Evans         def.  Mariana Manyoma Vel… 62 63
+     64  Maria Titova         def.  Jackie Nylander      64 60
+     64  Claudia Bartolome    def.  Ana Carmen Zamburek  63 75
+     64  Tiffany Lagarde      def.  Hadley Doyle         62 67(11) [4]
+     64  Bojana Marinkov      def.  Julia Deming         62 64
+     64  Metka Komac          def.  Tjasa Klevisar       64 63
+     64  Olivia Peet          def.  Rozalie Dohnalova    63 63
+     64  Aleksandra Zlatarova def.  Lauren Anzalotta     36 64 [10]
+     64  Fuka Nonoyama        def.  Dinara Alloyarova    75 63
+     64  Nastasya Semenovski  def.  Anastasia Astakhova  64 64
+     64  Brandelyn Fulgenzi   def.  Chunxi Xin           61 62
+     64  Destinee Martins     def.  Olivia Malm          75 64
+     64  Brooke Thompson      def.  Anna Turco           Walkover
+     64  Charmaine Seah       def.  Jaeun Lee            64 64
+     64  Jasmin Starr         def.  Tomi Main            76(4) 36 [5]
+     64  Lexie Weir           def.  Abigail Wild         16 75 [10]
+     64  Ayu Ishibashi        def.  Sumomo Hamanaga      62 61
+     64  Mia Larrain          def.  Yada Vasupongchai    63 63
+     64  Maja Gledic          def.  Camryn Stepp         46 63 [8]
+     64  Alina Mukhortova     def.  Mariella Minetti     61 60
+     64  Eva Beyebach         def.  Lauren Fulgenzi      Walkover
+     64  Sofia Franco Salcedo def.  Keegan McCain        75 64
+     64  Sophie Omoworare     def.  Taylor Parkinson     62 62
+     64  Mei Ishimura         def.  Patricia Apisah      26 64 [9]
+     64  Sophia Kermet        def.  Paulina Engback      64 64
+ > Day 3
+  > Main
+     64  Yu Chen              def.  Lexi Keberle         62 63
+     64  Mariana Manyoma Vel… def.  Jackie Nylander      64 63
+     64  Claudia Bartolome    def.  Tiffany Lagarde      61 60
+     64  Ana Carmen Zamburek  def.  Hadley Doyle         62 63
+     64  Bojana Marinkov      def.  Tjasa Klevisar       61 64
+     64  Metka Komac          def.  Julia Deming         61 16 [5]
+     64  Karine-Marion Job    def.  Avelina Sayfetdinova 75 67(3) [1]
+     64  Olivia Peet          def.  Aleksandra Zlatarova 63 46 [6]
+     64  Patricia Apisah      def.  Nastasya Semenovski  63 36 [9]
+     64  Lauren Anzalotta     def.  Rozalie Dohnalova    64 76(3)
+     64  Fuka Nonoyama        def.  Anastasia Astakhova  63 26 [7]
+     64  Anna Turco           def.  Jaeun Lee            61 62
+     64  Olivia Malm          def.  Chunxi Xin           64 75
+     64  Destinee Martins     def.  Brandelyn Fulgenzi   64 75
+     64  Charmaine Seah       def.  Brooke Thompson      64 36 [5]
+     64  Lexie Weir           def.  Jasmin Starr         76(4) 36 [8]
+     64  Mia Larrain          def.  Ayu Ishibashi        16 62 [6]
+     64  Abigail Wild         def.  Yada Vasupongchai    64 57 [8]
+     64  Sumomo Hamanaga      def.  Tomi Main            62 46 [5]
+     64  Alina Mukhortova     def.  Maja Gledic          61 60
+     64  Mariella Minetti     def.  Camryn Stepp         16 75 [7]
+     64  Sofia Franco Salcedo def.  Eva Beyebach         61 75
+     64  Mei Ishimura         def.  Sophia Kermet        62 63
+     64  Taylor Parkinson     def.  Paulina Engback      75 76(4)
+     64  Maria Titova         def.  Kailey Evans         64 62
+~~~
+
+<a name="21-75174"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  USC Women of Troy Invitational
+  Dates: Oct 8-10, 2021
+  Host: University Of Southern California (W)
+══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Friday Matches
+  > Main
+     64  Gabrielle Lee        def.  Jolene Coetzee       62 62
+     64  Vanesa Nikolovova    def.  Ana Isabel Fraile T… 36 63 62
+     64  Magdalena Hedrzak    def.  Skia Kung            60 60
+     64  Snow Han             def.  Veronica Miroshnich… 46 61 75
+     64  Sloane Morra         def.  Stefania Rogozinska… 63 57 64
+     64  Eva Marie Voracek    def.  Leyden Games         36 63 64
+     64  Wiktoria Rutowska    def.  McKenna Koenig       46 63 61
+     64  Camille Kiss         def.  Jordyn McBride       64 36 63
+     64  Abigail Desiatnikov  def.  Amelia Honer         76(5) 61
+     64  Victoria Kalaitzis   def.  Filippa Bruu-Syvers… 60 75
+     64  Claudia De Las Heras def.  Priscila Janikian    62 62
+     64  Taylor Johnson       def.  Kayla Wilkins        61 62
+     64  Alexandra Vagramov   def.  Midori Castillo      26 63 75
+     64  Elise Wagle          def.  Alexa Ryngler        63 63
+     64  Ava Catanzarite      def.  Belen Nevenhoven     61 62
+ > Saturday Matches
+  > Main
+     64  Victoria Kalaitzis   def.  Isabelle Lee         36 64 64
+     64  Abigail Desiatnikov  def.  Gabrielle Lee        62 60
+     64  Jordyn McBride       def.  McKenna Koenig       75 76(3)
+     64  Claudia De Las Heras def.  Skia Kung            63 64
+     64  Snow Han             def.  Vanessa Ong          63 64
+     64  Sloane Morra         def.  Taylor Johnson       16 62 76(4)
+     64  Alexandra Vagramov   def.  Leyden Games         62 60
+     64  Elise Wagle          def.  Grace Piper          64 62
+     64  Camille Kiss         def.  Jolene Coetzee       62 62
+     64  Amelia Honer         def.  Ana Isabel Fraile T… 61 61
+     64  Filippa Bruu-Syvers… def.  Magdalena Hedrzak    64 64
+     64  Veronica Miroshnich… def.  Alexa Ryngler        61 36 61
+     64  Eva Marie Voracek    def.  Kayla Wilkins        60 76
+     64  Stefania Rogozinska… def.  Midori Castillo      62 67 62
+     64  Wiktoria Rutowska    def.  Belen Nevenhoven     62 60
+ > Sunday Matches
+  > Main
+     64  Snow Han             def.  Midori Castillo      61 64
+     64  Alexa Ryngler        def.  Leyden Games         62 64
+     64  Isabelle Lee         def.  Kayla Wilkins        62 63
+     64  Grace Piper          def.  Belen Nevenhoven     61 60
+     64  Stefania Rogozinska… def.  Ana Isabel Fraile T… 75 26 [7]
+     64  Wiktoria Rutowska    def.  Magdalena Hedrzak    62 36 [7]
+     64  Jolene Coetzee       def.  Skia Kung            60 60
+     64  Alexandra Vagramov   def.  Jordyn McBride       64 36 64
+     64  Vanessa Ong          def.  Claudia De Las Heras 63 61
+     64  Elise Wagle          def.  Victoria Kalaitzis   57 75 [6]
+     64  Camille Kiss         def.  Eva Marie Voracek    64 63
+     64  Veronica Miroshnich… def.  Amelia Honer         64 62
+     64  Filippa Bruu-Syvers… def.  Gabrielle Lee        61 62
+     64  McKenna Koenig       def.  Priscila Janikian    64 61
+ > Extra Matches
+  > Main
+      F  Priscila Janikian    def.  Skia Kung            61 61
 ~~~
 
 <a name="21-77667"></a>
@@ -930,7 +1095,7 @@
      64  Emma Jackson       def.  Nicole Stephens     64 62
      64  Elizabeth Coleman  def.  Ayshe Can           63 63
      64  Eliza Omirou       def.  Carrie Beckman      64 60
-     64  Yashna Yellayi     def.  Margaryta Bilokin   64 46 62
+     64  Yashna Yellayi     def.  Margaryta Bilokin   46 64 62
      64  Samantha Gillas    def.  Elisabeth Desmarais 62 63
      64  Michelle Bacalla   def.  Elizabeth Ferdman   64 62
      64  Lauren Lemonds     def.  Cali Fuller         63 62
@@ -979,7 +1144,7 @@
      64  Ayshe Can          def.  Carrie Beckman      63 64
      64  Nibedita Ghosh     def.  Emilija Kojcic      61 62
      64  Maeve Koscielski   def.  Nicole Hopman       63 62
-     64  Margaryta Bilokin  def.  Justine Leong       64 57 63
+     64  Margaryta Bilokin  def.  Justine Leong       46 75 63
      64  Ema Lazic          def.  Eliza Omirou        75 64
      64  Hannah McColgan    def.  Lauren Lemonds      63 62
      64  Kiley Rabjohns     def.  Charlotte Gisclon   61 Ret.
@@ -1147,7 +1312,7 @@
       F (2) Lea Mocher           def.     Brooke Benefield    61 60
  > Draw 6
   > Main
-     R3     Savoie Srodulski      vs      Gracie Pall         
+     R3     Savoie Srodulski     def.     Gracie Pall         61 60
      R3     Catalina Santanders  def.     Rebekka Braziel     60 62
      R2     Catalina Santanders  def.     Gracie Pall         60 60
      R2     Savoie Srodulski     def.     Rebekka Braziel     63 61
@@ -1227,6 +1392,24 @@
      R2  Ashley Nilsson       def.  Kanaha Furutani      60 60
      R1  Megan Bell           def.  Kanaha Furutani      62 60
      R1  Ashley Nilsson       def.  Irene Romero         60 61
+ > #3 Singles - Alt
+  > Main
+      F  Daniela Baez         def.  Melissa Vera         60 61
+ > #4 Singles - Alt
+  > Main
+      F  Belinda Jayaprakash  def.  Maria Krite          61 63
+ > #5 Singles - Alt
+  > Main
+      F  Melanie Griffiths    def.  Alisha Moldakhmetova 36 63 [8]
+ > #6 Singles - Alt
+  > Main
+      F  Meaghan Butler       def.  Aubrey Bailey        61 60
+ > #7 Singles - Alt
+  > Main
+      F  Maggie Holcomb       def.  Irene Romero         61 75
+ > #8 Singles - Alt
+  > Main
+      F  Isabella Major       def.  Ashley Nilsson       76(3) 75
 ~~~
 
 <a name="21-18906"></a>

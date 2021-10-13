@@ -6,9 +6,12 @@
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 - 10/4/2021 - [ITA Women's All-American Championship](#21-68261) ([Results](#21-68261) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">Draws</a>)  
+- 10/8/2021 - [Jimmy Powell Invitational](#21-66349) ([Results](#21-66349) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Draws</a>)  
 - 10/8/2021 - [Long Beach State Fall Tournament](#21-66132) ([Results](#21-66132) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Draws</a>)  
 - 10/8/2021 - [MVC Individual Championships](#21-95059) ([Results](#21-95059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">Draws</a>)  
 - 10/8/2021 - [Navy Blue and Gold Invitational](#21-53408) ([Results](#21-53408) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C" target="_blank">Draws</a>)  
+- 10/8/2021 - [SMU Red and Blue Invite](#21-78857) ([Results](#21-78857) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/4628479A-19D9-4AD2-91AA-D180971411D5" target="_blank">Draws</a>)  
+- 10/8/2021 - [USC Women of Troy Invitational](#21-75174) ([Results](#21-75174) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F" target="_blank">Draws</a>)  
 - 10/8/2021 - [Wildcat Invite](#21-77667) ([Results](#21-77667) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Women's Invitational](#21-77230) ([Results](#21-77230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE" target="_blank">Draws</a>)  
@@ -20,11 +23,8 @@
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Cincinnati/Xavier Fall Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Georgia Southern Fall Shootout</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Jimmy Powell Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">June Stewart</a>  
 - 10/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SoutheastMissouriStateUnivW/Tournaments/Overview/E0892C7B-1714-4B99-A547-2386D7847CF2" target="_blank">SEMO Invitational</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/4628479A-19D9-4AD2-91AA-D180971411D5" target="_blank">SMU Red and Blue Invite</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F" target="_blank">USC Women of Troy Invitational</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889" target="_blank">Middlebury Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
@@ -243,6 +243,49 @@
      16Q     Verden-Anderson/Pur… def.     Collard/Chervinsky   Walkover
 ~~~
 
+<a name="21-66349"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Jimmy Powell Invitational
+  Dates: Oct 8-9, 2021
+  Host: Elon University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Blue
+  > Main
+     R3  Urelli/Babayan       def.  ODea/Saldh           84
+     R3  Reding/Tanik         def.  Hollins/Hopton       84
+     R3  Weatherhead/Tranberg def.  Allen/Galvin         85
+     R3  de Samucewicz/Landin def.  Ball/Archer          80
+ > Green
+  > Main
+     R7  Weatherhead/Tranberg def.  ODea/Saldh           82
+     R6  Heiberg/Buendia      def.  Ball/Archer          87(4)
+     R5  Allen/Galvin         def.  Cohen/Shitikova      83
+     R2  Reding/Tanik         def.  Salemyr/Dunbar       87(3)
+ > Gold
+  > Main
+     R3  Reding/Tanik         def.  Barquero/Chan Barat… 83
+     R3  Craft/Mitchell       def.  Ball/Archer          85
+     R3  ODea/Saldh           def.  Gallagher/Perry      81
+ > Silver
+  > Main
+     R7  Urelli/Babayan       def.  Cohen/Shitikova      84
+     R7  Hollins/Hopton       def.  Heiberg/Buendia      83
+     R5  Weatherhead/Tranberg def.  Allen/Galvin         84
+     R2  de Samucewicz/Landin def.  Salemyr/Dunbar       86
+ > Black
+  > Main
+     R3  Heiberg/Buendia      def.  Craft/Mitchell       87(4)
+     R3  Cohen/Shitikova      def.  Gallagher/Perry      84
+     R3  Salemyr/Dunbar       def.  Barquero/Chan Barat… 86
+ > White
+  > Main
+     R5  Urelli/Babayan       def.  Gallagher/Perry      86
+     R4  de Samucewicz/Landin def.  Barquero/Chan Barat… 86
+     R1  Hollins/Hopton       def.  Craft/Mitchell       83
+~~~
+
 <a name="21-66132"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════
@@ -394,6 +437,72 @@
      QF     O Donovan/Kempinski  def.     Gibbs/Splett         84
 ~~~
 
+<a name="21-78857"></a>
+~~~
+═══════════════════════════════════════════════════════════
+  SMU Red and Blue Invite
+  Dates: Oct 8-10, 2021
+  Host: Southern Methodist Univ. (W)
+═══════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+     32  Bartolome/Keberle    def.  Starr/McCain         75
+     32  Turco/Job            def.  Malm/Zamburek        64
+     32  Deming/Titova        def.  Chen/Astakhova       63
+     32  Xin/Nonoyama         def.  Evans/Sayfetdinova   62
+     32  Nylander/Doyle       def.  Ishimura/Vasupongch… 75
+     32  Zlatarova/Weir       def.  Thompson/Pinto       63
+     32  Lagarde/Manyoma Vel… def.  Minetti/Dohnalova    64
+     32  Komac/Main           def.  Semenovski/Larrain   61
+     32  Lee/Gledic           def.  Marinkov/Peet        64
+     32  Omoworare/Beyebach   def.  Klevisar/Ishibashi   63
+     32  Seah/Mukhortova      def.  Fulgenzi/Fulgenzi    60
+     32  Wild/Apisah          def.  Franco Salcedo/Park… 64
+     32  Stepp/Alloyarova     def.  Hamanaga/Engback     61
+~~~
+
+<a name="21-75174"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  USC Women of Troy Invitational
+  Dates: Oct 8-10, 2021
+  Host: University Of Southern California (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Friday Doubles
+  > Main
+     16  Rutowska/Tcherkes-Z… def.  Coetzee/Fraile Tobo… 63
+     16  Lee/Lee              def.  Hedrzak/Turchak      63
+     16  Miroshnichenko/Vora… def.  Han/Willson          64
+     16  Koenig/Piper         def.  Rogozinska-Dzik/Nik… 75
+     16  McBride/Desiatnikov  def.  Honer/Kiss           63
+     16  Bruu-Syversen/Janik… def.  De Las Heras/Kalait… 62
+     16  Johnson/Wagle        def.  Wilkins/Nevenhoven   63
+     16  Catanzarite/Vagramov def.  Ryngler/Castillo     64
+ > Saturday Doubles
+  > Main
+     16  McBride/Desiatnikov  def.  Lee/Lee              62
+     16  Rutowska/Tcherkes-Z… def.  De Las Heras/Kalait… 64
+     16  Ong/Johnson          def.  Han/Willson          62
+     16  Wagle/Vagramov       def.  Morra/Piper          62
+     16  Coetzee/Fraile Tobo… def.  Honer/Kiss           64
+     16  Bruu-Syversen/Janik… def.  Repina/Hedrzak       63
+     16  Miroshnichenko/Vora… def.  Wilkins/Castillo     64
+ > Sunday Doubles
+  > Main
+     16  Willson/Piper        def.  Ryngler/Wilkins      64
+     16  Lee/Lee              def.  Castillo/Nevenhoven  63
+     16  Miroshnichenko/Rogo… def.  Coetzee/Fraile Tobo… 63
+     16  Repina/Hedrzak       def.  Voracek/Tcherkes-Za… 76(4)
+     16  Vagramov/Ong         def.  McBride/Desiatnikov  63
+     16  Rutowska/Tcherkes-Z… def.  Honer/Kiss           64
+     16  Han/Games            def.  Bruu-Syversen/Janik… 60
+ > Extra Matches
+  > Main
+      F  Rutowska/Tcherkes-Z… def.  Nevenhoven/Ryngler   75
+~~~
+
 <a name="21-77667"></a>
 ~~~
 ══════════════════════════════════════════════════════════════
@@ -536,12 +645,12 @@
  Women's Open Doubles
  > #4 Doubles
   > Main
-     R3  McCrae/Nilsson       vs   Griffiths/Butler    
+     R3  McCrae/Nilsson      def.  Griffiths/Butler    62
      R3  Furutani/Minns      def.  Bailey/Romero       61
-     R2  Griffiths/Butler    def.  Furutani/Minns      62
+     R2  Furutani/Minns      def.  Griffiths/Butler    62
      R2  McCrae/Nilsson      def.  Bailey/Romero       61
      R1  Furutani/Minns      def.  McCrae/Nilsson      75
-     R1  Griffiths/Butler     vs   Bailey/Romero       
+     R1  Griffiths/Butler    def.  Bailey/Romero       62
  > #3 Doubles
   > Main
      R3  Major/Bell          def.  Carpenter/Yang      63
