@@ -1,7 +1,7 @@
 <a name="top"></a>[<< Prev](women_doubles_2142.md) &nbsp; **Week #43 - Oct 25-31, 2021** &nbsp; [Next >>](women_doubles_2144.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2143.md) &#124; [***Women***](./women_doubles_2143.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2143.md) &#124; [***Doubles***](./women_doubles_2143.md)
 
-**Tournaments without Matches**  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">ITA Division I Women's Southeast Regional Championship</a>  
+**Tournamets with Matches**  
+- 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 
 **Upcoming Tournaments**  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityW/Tournaments/Overview/61F146C9-753C-4458-9E95-EE269C0BB692" target="_blank">ITA Division I Carolina Women's Regional Championship</a>  
@@ -18,5 +18,22 @@
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Rice Invite</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Shark Bite Invite</a>  
+
+<a name="21-46458"></a>
+~~~
+══════════════════════════════════════════════════════════════
+  ITA Division I Women's Southeast Regional Championship
+  Dates: Oct 14-27, 2021
+  Host: University Of Central Florida (W)
+══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Qualifying Draw
+  > Main
+     QF (1) Dudeney/Berlin   def.     Aldrich/Frediani   80
+     QF     Lee/Taddia       def. (4) Schieroni/Filip    84
+     QF (3) Khodan/Tahan     def.     Matthews/Sommer    87(4)
+     QF (2) Clayton/Ma       def.     Di Francesco/Cohen 87(4)
+     16     Aldrich/Frediani def.     Porter/Salinas     86
+~~~
 
 Return to the [Top](./women_doubles_2143.md) &#124; [Home Page](../../index.md)

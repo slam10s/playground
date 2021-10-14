@@ -15,6 +15,7 @@
 - 10/13/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">ITA Division I Men's Texas Regional Championship</a>  
 
 **Upcoming Tournaments**  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Bulldog Cup</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Louisville Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">San Diego State Fall Invite</a>  
@@ -111,6 +112,31 @@
      16Q  Gould/Johnson      vs   Ali/Bell             Thu @ 09:00
 ~~~
 
+<a name="21-10002"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  ITA Division I Men's Northwest Regional Championship
+  Dates: Oct 13-17, 2021
+  Host: University Of Oregon (M)
+═══════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+     16  Matsushita/Vandecas… def.  Richards/Jesser     85
+     16  Yoshida/Hibi         def.  Torocsik/Pulliam    87(2)
+     16  Penzlin/Tvedt        def.  De Vries/Fernandez  81
+     16  Hollingworth/Trkulja def.  Frank/Worn          83
+     16  Oberg/Brown          def.  Shugar/Klov-Nilsson 86
+     16  Lin/Yamaguchi        def.  Andersson/Roider    83
+     16  Hann/Gomez Galvan    def.  Plutat/Hsu          86
+     16  Pankin/Neos          def.  Dillon/Thomas       83
+     32  Richards/Jesser      def.  Hall/Givens-Jensen  87(2)
+     32  Yoshida/Hibi         def.  Paz/Mueller         81
+     32  Frank/Worn           def.  Balce/Sarlvik       85
+     32  Andersson/Roider     def.  Kiselkov/Stipic     84
+     32  Dillon/Thomas        def.  Harrison/Krause     86
+~~~
+
 <a name="21-00186"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════
@@ -141,14 +167,19 @@
      16  Barbon/Stepanov       vs   Czepielewski/Bonacia Thu @ 15:30
  > Division II
   > East
-     16  Cueto Ramos/Regalado  vs   Fernandez/Bianchi    Thu @ 14:00
-     16  Akinpetide/Jankovic   vs   Westwick/Martinez R… Thu @ 14:00
-     16  Mack/Carvalho         vs   Cimpeanu/Barstow     Thu @ 14:00
-     16  Bulmer/van Antwerpen  vs   Bohren/Velicki       Thu @ 14:00
-     16  Torres/Berling        vs   Schold/Martinetti    Thu @ 14:00
+     QF  Cueto Ramos/Regalado  vs   Westwick/Martinez R… Fri @ 14:00
+     QF  Mack/Carvalho         vs   Bohren/Velicki       Fri @ 13:30
+     16  Cueto Ramos/Regalado def.  Fernandez/Bianchi    75 62
+     16  Westwick/Martinez R… def.  Akinpetide/Jankovic  60 61
+     16  Mack/Carvalho        def.  Cimpeanu/Barstow     75 64
+     16  Bohren/Velicki       def.  Bulmer/van Antwerpen 76(4) 64
+     16  Schold/Martinetti    def.  Torres/Berling       64 63
      16  Jarry/Miller          vs   Giesberts/Dagostine  Thu @ 14:30
-     16  Giuliato/Forcano      vs   Dos Santos/Jurkovic  Thu @ 14:00
+     16  Dos Santos/Jurkovic  def.  Giuliato/Forcano     64 64
      16  Bedwan/Rieme          vs   Oliveira/Kearney     Thu @ 14:30
+  > West
+     QF  Fernandez/Bianchi     vs   Akinpetide/Jankovic  Fri @ 14:00
+     QF  Cimpeanu/Barstow      vs   Bulmer/van Antwerpen Fri @ 14:00
  > Junior College
   > East
      QF  Tsai/Cantero          vs   Parada/Toloza        Thu @ 16:00
