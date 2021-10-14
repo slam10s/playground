@@ -6,6 +6,7 @@
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 - 10/4/2021 - [2nd UCA FALL INVITATIONAL TOURNAMENT](#21-12073) ([Results](#21-12073) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/7737FD94-882F-4257-A700-306375BD09EC" target="_blank">Draws</a>)  
+- 10/9/2021 - [Cincinnati/Xavier Fall Invitational](#21-24398) ([Results](#21-24398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Draws</a>)  
 - 10/4/2021 - [ITA Women's All-American Championship](#21-68261) ([Results](#21-68261) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">Draws</a>)  
 - 10/8/2021 - [Jimmy Powell Invitational](#21-66349) ([Results](#21-66349) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Draws</a>)  
 - 10/8/2021 - [Long Beach State Fall Tournament](#21-66132) ([Results](#21-66132) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Draws</a>)  
@@ -21,7 +22,6 @@
 
 **Tournaments without Matches**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCCharlotteW/Tournaments/Overview/928AA6BE-846A-430B-89FA-222F70E8CCBB" target="_blank">49er Invite</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Cincinnati/Xavier Fall Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Georgia Southern Fall Shootout</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">June Stewart</a>  
@@ -437,6 +437,57 @@
      R1  Teona Velkoska      def.  Honoka Nakanishi     75 75
      R1  Lera Valeeva        def.  Kate Miley           62 61
      R1  Manuela Barriga     def.  Yasmine Humbert      46 75 [8]
+~~~
+
+<a name="21-24398"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  Cincinnati/Xavier Fall Invitational
+  Dates: Oct 9-10, 2021
+  Host: University Of Cincinnati (W)
+═════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Round 1
+  > Main
+     32  Anna Smith          def.  Emilia Valentinsson 64 61
+     32  Blessing Nwaozuzu   def.  Maria Koo           61 76(8)
+     32  Sylvia Gray         def.  Natalie Moyer       64 64
+     32  Sara Zalukar        def.  Kolie Allen         64 76(6)
+     32  Lina Ali            def.  Ekaterina Tikhonko  16 76(3) [5]
+     32  Mayu Ushio          def.  Dani Schoenly       75 61
+     32  Kelli Niehaus       def.  Mila Mejic          64 26 [4]
+     32  Sofia Bruno         def.  Ananya Kothakota    61 16 [3]
+     32  Hayley Hirsch       def.  Lexi Kubas          64 60
+     32  Daniela Rosenberger def.  Sanjana Reddy       36 75 [2]
+     32  Xiaowei Hu          def.  Laura Grau          63 60
+     32  Makensie Long       def.  Maja Kozerski       67(3) 63 [4]
+ > Round 2 Singles
+  > Main
+     32  Blessing Nwaozuzu   def.  Xiaowei Hu          61 67(5) [7]
+     32  Natalie Moyer       def.  Madison Devillez    60 62
+     32  Anna Smith          def.  Lina Ali            64 60
+     32  Mila Mejic          def.  Ekaterina Tikhonko  36 62 [4]
+     32  Laura Grau          def.  Maja Kozerski       62 61
+     32  Hayley Hirsch       def.  Sylvia Gray         62 63
+     32  Sanjana Reddy       def.  Ananya Kothakota    60 61
+     32  Kelli Niehaus       def.  Sara Zalukar        64 26 [6]
+     32  Mayu Ushio          def.  Sofia Bruno         63 26 [8]
+     32  Maria Koo           def.  Emilia Valentinsson 63 46 [4]
+     32  Daniela Rosenberger def.  Makensie Long       61 61
+ > Round 3 singles
+  > Main
+     32  Kolie Allen         def.  Kelli Niehaus       26 61 [4]
+     32  Sylvia Gray         def.  Sofia Bruno         76(5) 76(3)
+     32  Laura Grau          def.  Hayley Hirsch       61 62
+     32  Sanjana Reddy       def.  Madison Devillez    61 64
+     32  Ekaterina Tikhonko  def.  Dani Schoenly       76(3) 62
+     32  Lina Ali            def.  Emilia Valentinsson 76(5) 46 [7]
+     32  Anna Smith          def.  Sara Zalukar        63 62
+     32  Blessing Nwaozuzu   def.  Mayu Ushio          62 60
+     32  Natalie Moyer       def.  Makensie Long       64 62
+     32  Xiaowei Hu          def.  Maria Koo           62 16 [8]
+     32  Daniela Rosenberger def.  Lexi Kubas          62 36 [9]
+     32  Mila Mejic          def.  Ananya Kothakota    62 64
 ~~~
 
 <a name="21-68261"></a>
