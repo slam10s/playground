@@ -83,33 +83,37 @@
 
 <a name="21-05800"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: Saint Mary's College/CA (M)
-════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Doubles
   > Main
-      16  Reckow/Watt        vs   Benn/Dudockin        Thu @ 09:00
-      16  Silva/Voros        vs   Morgan/Torres        Thu @ 09:00
-      16  Chang/Overbeck     vs   McCaig/Puttergill    Thu @ 09:00
-      16  Keki/Maior         vs   Ramos/Rincon         Thu @ 09:00
-      16  Brinkman/Necz      vs   Garpered/Giraldez    Thu @ 09:00
-      16  Coupu/Zisswiller   vs   Chaudhary/Kopczynski Thu @ 09:00
-      16  Aksenoks/Wong      vs   Davis/Volgin         Thu @ 09:00
-      16  Batalla/N Tcha     vs   Huynh/Ricklis        Thu @ 09:00
-      32  Benn/Dudockin     def.  Stratakos/Matta      84
-      32  Silva/Voros       def.  Gould/Johnson        84
-      32  Morgan/Torres     def.  Ali/Bell             87(4)
-      32  McCaig/Puttergill def.  Campi/Marchand       87(4)
-      32  Ramos/Rincon      def.  Cmager/Hinojosa      87(3)
-      32  Brinkman/Necz     def.  Alam/Saini           84
-      32  Coupu/Zisswiller  def.  Magnaudet/Wright     86
-      32  Aksenoks/Wong     def.  Bell/Shah            Walkover
-      32  Batalla/N Tcha    def.  Divkovic/Potts       Walkover
+      QF  Reckow/Watt           vs   Morgan/Torres        Fri @ 09:00
+      QF  Chang/Overbeck        vs   Keki/Maior           Fri @ 09:00
+      QF  Brinkman/Necz         vs   Chaudhary/Kopczynski Fri @ 09:00
+      QF  Davis/Volgin          vs   Huynh/Ricklis        Fri @ 09:00
+      16  Reckow/Watt          def.  Benn/Dudockin        86
+      16  Morgan/Torres        def.  Silva/Voros          86
+      16  Chang/Overbeck       def.  McCaig/Puttergill    84
+      16  Keki/Maior           def.  Ramos/Rincon         82
+      16  Brinkman/Necz        def.  Garpered/Giraldez    84
+      16  Chaudhary/Kopczynski def.  Coupu/Zisswiller     82
+      16  Davis/Volgin         def.  Aksenoks/Wong        85
+      16  Huynh/Ricklis        def.  Batalla/N Tcha       Walkover
+      32  Benn/Dudockin        def.  Stratakos/Matta      84
+      32  Silva/Voros          def.  Gould/Johnson        84
+      32  Morgan/Torres        def.  Ali/Bell             87(4)
+      32  McCaig/Puttergill    def.  Campi/Marchand       87(4)
+      32  Ramos/Rincon         def.  Cmager/Hinojosa      87(3)
+      32  Brinkman/Necz        def.  Alam/Saini           84
+      32  Coupu/Zisswiller     def.  Magnaudet/Wright     86
+      32  Aksenoks/Wong        def.  Bell/Shah            Walkover
+      32  Batalla/N Tcha       def.  Divkovic/Potts       Walkover
   > Consolation
-     16Q  Gould/Johnson      vs   Ali/Bell             Thu @ 09:00
+     16Q  Gould/Johnson         vs   Ali/Bell             Thu @ 09:00
 ~~~
 
 <a name="21-10002"></a>
@@ -139,53 +143,80 @@
 
 <a name="21-00186"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Cup
   Dates: Oct 14-17, 2021
   Host: ITA
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Division III
   > East
-     16  Leach/Lemaitre        vs   Aney/Budde           Thu @ 17:00
-     16  Esses/Raina           vs   Tecce/Leese          Thu @ 16:30
-     16  Harris/Laber          vs   Comadena/Kelley      Thu @ 16:30
-     16  Motlojoa/Loen         vs   Martin/Arimilli      Thu @ 16:30
-     16  Gray/Zakowski         vs   Frelinghuysen/Kandel Thu @ 17:00
-     16  Portnoy/Jimenez       vs   Watson/Hutchison     Thu @ 17:00
-     16  Dean/Suarez           vs   Ramireddy/Li         Thu @ 16:30
-     16  Settles/Nguyen        vs   Hopper/Powell        Thu @ 17:00
+     QF  Aney/Budde            vs   Esses/Raina          Fri @ 12:30
+     QF  Harris/Laber          vs   Martin/Arimilli      Fri @ 12:30
+     QF  Frelinghuysen/Kandel  vs   Watson/Hutchison     Fri @ 13:00
+     QF  Ramireddy/Li          vs   Settles/Nguyen       Fri @ 13:00
+     16  Aney/Budde           def.  Leach/Lemaitre       46 76(5) [8]
+     16  Esses/Raina          def.  Tecce/Leese          63 63
+     16  Harris/Laber         def.  Comadena/Kelley      64 46 [4]
+     16  Martin/Arimilli      def.  Motlojoa/Loen        64 62
+     16  Frelinghuysen/Kandel def.  Gray/Zakowski        63 64
+     16  Watson/Hutchison     def.  Portnoy/Jimenez      64 61
+     16  Ramireddy/Li         def.  Dean/Suarez          63 36 [3]
+     16  Settles/Nguyen       def.  Hopper/Powell        75 61
+  > West
+     QF  Leach/Lemaitre        vs   Tecce/Leese          Fri @ 12:30
+     QF  Comadena/Kelley       vs   Motlojoa/Loen        Fri @ 12:30
+     QF  Gray/Zakowski         vs   Portnoy/Jimenez      Fri @ 12:30
+     QF  Dean/Suarez           vs   Hopper/Powell        Fri @ 12:30
  > Naia
   > East
-     16  Klimov/Bresson        vs   Pessoa/Pelletti      Thu @ 15:00
-     16  Caratini/Tamagnone    vs   Omarkhanov/Salazar   Thu @ 15:00
-     16  Dugo/Gurmendi         vs   Little/Braham        Thu @ 15:00
-     16  Carrizo/Sprovieri     vs   Barrios/Zick         Thu @ 15:00
-     16  Turnquest/Rocco       vs   Beltran/Komel        Thu @ 15:00
-     16  Fernandez/Gallegos    vs   Nienhaus/Papa        Thu @ 15:00
-     16  Subert/Cooke          vs   Ramirez/Bain         Thu @ 15:30
-     16  Barbon/Stepanov       vs   Czepielewski/Bonacia Thu @ 15:30
+     QF  Klimov/Bresson        vs   Caratini/Tamagnone   Fri @ 15:00
+     QF  Dugo/Gurmendi         vs   Barrios/Zick         Fri @ 15:00
+     QF  Turnquest/Rocco       vs   Nienhaus/Papa        Fri @ 15:00
+     QF  Ramirez/Bain          vs   Czepielewski/Bonacia Fri @ 15:00
+     16  Klimov/Bresson       def.  Pessoa/Pelletti      63 61
+     16  Caratini/Tamagnone   def.  Omarkhanov/Salazar   63 64
+     16  Dugo/Gurmendi        def.  Little/Braham        64 64
+     16  Barrios/Zick         def.  Carrizo/Sprovieri    61 36 [7]
+     16  Turnquest/Rocco      def.  Beltran/Komel        61 61
+     16  Nienhaus/Papa        def.  Fernandez/Gallegos   62 62
+     16  Ramirez/Bain         def.  Subert/Cooke         64 64
+     16  Czepielewski/Bonacia def.  Barbon/Stepanov      64 16 [6]
+  > West
+     QF  Pessoa/Pelletti       vs   Omarkhanov/Salazar   Fri @ 15:00
+     QF  Little/Braham         vs   Carrizo/Sprovieri    Fri @ 15:00
+     QF  Beltran/Komel         vs   Fernandez/Gallegos   Fri @ 15:00
+     QF  Subert/Cooke          vs   Barbon/Stepanov      Fri @ 15:00
  > Division II
   > East
      QF  Cueto Ramos/Regalado  vs   Westwick/Martinez R… Fri @ 14:00
      QF  Mack/Carvalho         vs   Bohren/Velicki       Fri @ 13:30
+     QF  Schold/Martinetti     vs   Giesberts/Dagostine  Fri @ 13:30
+     QF  Dos Santos/Jurkovic   vs   Bedwan/Rieme         Fri @ 14:00
      16  Cueto Ramos/Regalado def.  Fernandez/Bianchi    75 62
      16  Westwick/Martinez R… def.  Akinpetide/Jankovic  60 61
      16  Mack/Carvalho        def.  Cimpeanu/Barstow     75 64
      16  Bohren/Velicki       def.  Bulmer/van Antwerpen 76(4) 64
      16  Schold/Martinetti    def.  Torres/Berling       64 63
-     16  Jarry/Miller          vs   Giesberts/Dagostine  Thu @ 14:30
+     16  Giesberts/Dagostine  def.  Jarry/Miller         64 76(6)
      16  Dos Santos/Jurkovic  def.  Giuliato/Forcano     64 64
-     16  Bedwan/Rieme          vs   Oliveira/Kearney     Thu @ 14:30
+     16  Bedwan/Rieme         def.  Oliveira/Kearney     62 63
   > West
      QF  Fernandez/Bianchi     vs   Akinpetide/Jankovic  Fri @ 14:00
      QF  Cimpeanu/Barstow      vs   Bulmer/van Antwerpen Fri @ 14:00
+     QF  Torres/Berling        vs   Jarry/Miller         Fri @ 14:00
+     QF  Giuliato/Forcano      vs   Oliveira/Kearney     Fri @ 14:00
  > Junior College
   > East
-     QF  Tsai/Cantero          vs   Parada/Toloza        Thu @ 16:00
-     QF  Bruno/Hirano          vs   Saint Martin/Shearer Thu @ 15:30
-     QF  Nader/Vanecek         vs   Mosvold/Dalisay      Thu @ 16:00
-     QF  Ching/Shteyn          vs   Fisicaro/Krolo       Thu @ 15:30
+     SF  Tsai/Cantero          vs   Saint Martin/Shearer Fri @ 15:30
+     SF  Mosvold/Dalisay       vs   Fisicaro/Krolo       Fri @ 15:30
+     QF  Tsai/Cantero         def.  Parada/Toloza        63 64
+     QF  Saint Martin/Shearer def.  Bruno/Hirano         46 76 [7]
+     QF  Mosvold/Dalisay      def.  Nader/Vanecek        62 75
+     QF  Fisicaro/Krolo       def.  Ching/Shteyn         61 63
+  > West
+     SF  Parada/Toloza         vs   Bruno/Hirano         Fri @ 15:30
+     SF  Nader/Vanecek         vs   Ching/Shteyn         Fri @ 15:30
 ~~~
 
 Return to the [Top](./men_doubles_2141.md) &#124; [Home Page](../../index.md)

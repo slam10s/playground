@@ -21,17 +21,18 @@
 
 <a name="21-46458"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
   ITA Division I Women's Southeast Regional Championship
   Dates: Oct 14-27, 2021
   Host: University Of Central Florida (W)
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Qualifying Draw
   > Main
-     16     Francesca Franci    def. (8) Alee Clayton      76(4) 64
+     16 (8) Alee Clayton        def.     Francesca Franci  76(4) 64
      16 (5) Kate Sharabura      def.     Nada Dimovska     63 61
      16     Ji Youn Lee         def. (4) Greta Schieroni   53 Ret.
+     16 (3) Gia Cohen           def.     Mai Nirundorn     62 46 [7]
      16     Noa Cohen           def. (6) Katerina Filip    62 26 [10]
      16 (7) Rosie Garcia Gross  def.     Anique Kattenberg 62 61
      16     Sierra Berry        def. (2) Maya Tahan        63 62
@@ -39,7 +40,7 @@
      32     Francesca Franci    def.     Haleigh Porter    61 64
      32     Nada Dimovska       def.     Cheri Darley      46 62 [4]
      32     Ji Youn Lee         def.     Luise Reisel      64 62
-     32     Mai Nirundorn        vs      Carina Sommer     Thu @ 10:00
+     32     Mai Nirundorn       def.     Carina Sommer     61 63
      32     Noa Cohen           def.     Paula Hijos       61 60
      32     Anique Kattenberg   def.     Valentina Taddia  62 16 [10]
 ~~~
