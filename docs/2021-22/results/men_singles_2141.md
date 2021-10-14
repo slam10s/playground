@@ -9,11 +9,13 @@
 - 10/13/2021 - [ITA Division I Men's Texas Regional Championship](#21-59010) ([Results](#21-59010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 
-**Upcoming Tournaments**  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
+**Tournaments without Matches**  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">ITA Division I Men's Atlantic Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
+
+**Upcoming Tournaments**  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Louisville Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">San Diego State Fall Invite</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">UTC-Steve Baras Invitational</a>  
@@ -192,57 +194,67 @@
 
 <a name="21-05800"></a>
 ~~~
-═════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: Saint Mary's College/CA (M)
-═════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
-      32  Philip Hjorth      vs   James Bell        Thu @ 11:00
-      32  Nil Giraldez       vs   Satchel Benn      Thu @ 11:00
-      32  James Watt         vs   Rudolfs Aksenoks  Thu @ 11:00
-      32  Matheo Coupu       vs   Stevie Gould      Thu @ 11:00
-      32  Nitzan Ricklis     vs   Boris Reckow      Thu @ 11:00
-      32  Ryan Torres        vs   Patrick Wong      Thu @ 11:00
-      32  Aryan Chaudhary    vs   Delmas N Tcha     Thu @ 12:30
-      32  Arthur Neuhaus     vs   Jan Silva         Thu @ 12:30
-      32  Ambroise Marchand  vs   Andrei Volgin     Thu @ 12:30
-      32  Ran Amar           vs   Phuc Huynh        Thu @ 11:00
-      64  James Bell        def.  Karlo Divkovic    62 64
-      64  Nil Giraldez      def.  Ryan Morgan       63 64
-      64  Satchel Benn      def.  Manroop Saini     62 60
-      64  Rudolfs Aksenoks  def.  Nick Cmager       63 16 61
-      64  Matheo Coupu      def.  Lucas Magnaudet   76(4) 63
-      64  Stevie Gould      def.  Dean Stratakos    61 64
-      64  Boris Reckow      def.  Ryan Ali          64 64
-      64  Ryan Torres       def.  Benjamin Campi    64 62
-      64  Patrick Wong      def.  Liam Puttergill   61 62
-      64  Aryan Chaudhary   def.  Noah Gampel       Walkover
-      64  Delmas N Tcha     def.  David Woodland    62 46 63
-      64  Arthur Neuhaus    def.  Coby McCaig       61 60
-      64  Jan Silva         def.  Coleton Hootman   62 63
-      64  Ambroise Marchand def.  Caelan Potts      Walkover
-      64  Andrei Volgin     def.  Matthew Rodriguez Walkover
-      64  Ran Amar          def.  Michael Wright    46 64 75
-      64  Mitchell Davis     vs   Ori Maior         Wed @ 12:45
-      64  Loris Zisswiller  def.  Alex Chang        Walkover
-      64  Felipe Rincon      vs   Alex Lee          Wed @ 13:15
-      64  Santiago Hinojosa  vs   Mitchell Johnson  Wed @ 13:15
-      64  Peter Alam         vs   Carlos Ramos      Wed @ 13:15
-      64  Daniel Dudockin    vs   Andras Necz       Wed @ 13:45
-      64  Anders Matta       vs   Mate Voros        Wed @ 13:45
-      64  Brett Brinkman     vs   Johan Garpered    Wed @ 13:45
-      64  Juan Batalla       vs   Tomas Kopczynski  Wed @ 14:15
-      64  Russell Henderson  vs   Jakob Ortiveros   Wed @ 14:15
+      32  Philip Hjorth      vs   James Bell         Thu @ 11:00
+      32  Nil Giraldez       vs   Satchel Benn       Thu @ 11:00
+      32  James Watt         vs   Rudolfs Aksenoks   Thu @ 11:00
+      32  Matheo Coupu       vs   Stevie Gould       Thu @ 11:00
+      32  Nitzan Ricklis     vs   Boris Reckow       Thu @ 11:00
+      32  Ryan Torres        vs   Patrick Wong       Thu @ 11:00
+      32  Aryan Chaudhary    vs   Delmas N Tcha      Thu @ 12:30
+      32  Arthur Neuhaus     vs   Jan Silva          Thu @ 12:30
+      32  Ambroise Marchand  vs   Andrei Volgin      Thu @ 12:30
+      32  Ran Amar           vs   Phuc Huynh         Thu @ 11:00
+      32  Ori Maior          vs   Loris Zisswiller   Thu @ 13:00
+      32  Alex Lee           vs   Guillaume Dalmasso Thu @ 11:00
+      32  Santiago Hinojosa  vs   Carlos Ramos       Thu @ 13:00
+      32  Andras Necz        vs   Mate Voros         Thu @ 13:00
+      32  Brett Brinkman     vs   Tomas Kopczynski   Thu @ 13:00
+      32  Russell Henderson  vs   Carl Emil Overbeck Thu @ 11:00
+      64  James Bell        def.  Karlo Divkovic     62 64
+      64  Nil Giraldez      def.  Ryan Morgan        63 64
+      64  Satchel Benn      def.  Manroop Saini      62 60
+      64  Rudolfs Aksenoks  def.  Nick Cmager        63 16 61
+      64  Matheo Coupu      def.  Lucas Magnaudet    76(4) 63
+      64  Stevie Gould      def.  Dean Stratakos     61 64
+      64  Boris Reckow      def.  Ryan Ali           64 64
+      64  Ryan Torres       def.  Benjamin Campi     64 62
+      64  Patrick Wong      def.  Liam Puttergill    61 62
+      64  Aryan Chaudhary   def.  Noah Gampel        Walkover
+      64  Delmas N Tcha     def.  David Woodland     62 46 63
+      64  Arthur Neuhaus    def.  Coby McCaig        61 60
+      64  Jan Silva         def.  Coleton Hootman    62 63
+      64  Ambroise Marchand def.  Caelan Potts       Walkover
+      64  Andrei Volgin     def.  Matthew Rodriguez  Walkover
+      64  Ran Amar          def.  Michael Wright     46 64 75
+      64  Ori Maior         def.  Mitchell Davis     46 61 64
+      64  Loris Zisswiller  def.  Alex Chang         Walkover
+      64  Alex Lee          def.  Felipe Rincon      62 62
+      64  Santiago Hinojosa def.  Mitchell Johnson   76(1) 36 64
+      64  Carlos Ramos      def.  Peter Alam         36 63 63
+      64  Andras Necz       def.  Daniel Dudockin    62 64
+      64  Mate Voros        def.  Anders Matta       75 64
+      64  Brett Brinkman    def.  Johan Garpered     62 62
+      64  Tomas Kopczynski  def.  Juan Batalla       61 62
+      64  Russell Henderson def.  Jakob Ortiveros    61 62
   > Consolation
-     32Q  Ryan Morgan        vs   Manroop Saini     Thu @ 13:30
-     32Q  Lucas Magnaudet    vs   Dean Stratakos    Thu @ 13:30
-     32Q  Benjamin Campi     vs   Liam Puttergill   Thu @ 13:30
-     32Q  Noah Gampel        vs   David Woodland    Thu @ 14:00
-     32Q  Coby McCaig        vs   Coleton Hootman   Thu @ 14:00
-     32Q  Caelan Potts       vs   Matthew Rodriguez Thu @ 14:00
+     32Q  Ryan Morgan        vs   Manroop Saini      Thu @ 13:30
+     32Q  Lucas Magnaudet    vs   Dean Stratakos     Thu @ 13:30
+     32Q  Benjamin Campi     vs   Liam Puttergill    Thu @ 13:30
+     32Q  Noah Gampel        vs   David Woodland     Thu @ 14:00
+     32Q  Coby McCaig        vs   Coleton Hootman    Thu @ 14:00
+     32Q  Caelan Potts       vs   Matthew Rodriguez  Thu @ 14:00
+     32Q  Mitchell Davis     vs   Alex Chang         Thu @ 14:30
+     32Q  Mitchell Johnson   vs   Peter Alam         Thu @ 14:30
+     32Q  Daniel Dudockin    vs   Anders Matta       Thu @ 14:30
+     32Q  Johan Garpered     vs   Juan Batalla       Thu @ 14:30
 ~~~
 
 <a name="21-10002"></a>
@@ -259,13 +271,16 @@
      32  Veselin Kiselkov     def.  Leo Hibi             26 62 63
      32  Luke Vandecasteele   def.  Filip Stipic         63 46 62
      32  Issa Yoshida         def.  Will Jesser          61 60
+     32  Han-Chih Lin         def.  Oliver Fernandez     60 61
      32  Tom Hann             def.  Avi Shugar           57 64 60
      32  Jack Pulliam         def.  Leon Roider          16 61 76(3)
      32  Julien Penzlin       def.  Steven Paz           63 62
      32  Nedim Suko           def.  Sam De Vries         62 64
      32  Nikolas Tvedt        def.  Pablo Gomez Galvan   63 36 62
      32  Eleftherios Neos     def.  Julian Worn          60 76(5)
+     32  Oliver Andersson     def.  Adam Torocsik        63 64
      32  Ryoma Matsushita     def.  Oliver Richards      60 61
+     32  Arthus de la Basset… def.  Nicklas Oberg        63 64
      32  Rikuto Yamaguchi     def.  Oscar Brown          76(1) 64
      32  Matthew Hollingworth def.  Mats Krause          62 62
      64  Nima Movassaghi      def.  Juan Pablo Jaramillo 62 62
