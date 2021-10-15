@@ -7,20 +7,20 @@
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-05800) ([Results](#21-05800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Texas Regional Championship](#21-59010) ([Results](#21-59010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">Draws</a>)  
+- 10/15/2021 - [Louisville Invitational](#21-27355) ([Results](#21-27355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
+- 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Bulldog Cup</a>  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">ITA Division I Men's Atlantic Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
-
-**Upcoming Tournaments**  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Bulldog Cup</a>  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Louisville Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">San Diego State Fall Invite</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">UTC-Steve Baras Invitational</a>  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Saint Leo Lion Fall Invitational - Men</a>  
+
+**Upcoming Tournaments**  
 - 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Wesleyan Invitational</a>  
 
 <a name="21-27941"></a>
@@ -143,80 +143,129 @@
 
 <a name="21-23395"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Regional Championship
   Dates: Oct 14-17, 2021
   Host: U.S. Naval Academy (M)
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main
   > Main
-      64  Miko Eala           vs   Justin Cadeau        Thu @ 13:30
-      64  Sergiu Medesan      vs   Joshua Robinson      Thu @ 16:30
-      64  James Wilkinson     vs   Michael Fourticq     Thu @ 13:30
-      64  Niles Rachal        vs   Derrick Thompson     Thu @ 15:00
-      64  Inigo Torre Martin  vs   Daniel Dunac         Thu @ 13:30
-      64  Adhvyte Sharma      vs   Rithik Sardana       Thu @ 16:30
-      64  Pascal Wagemaker    vs   Harrison Janes       Thu @ 15:00
-      64  Nassim Fenjiro      vs   Gavin Segraves       Thu @ 15:00
-      64  Rayane Stable       vs   Ryan Charles         Thu @ 15:00
-      64  Nickolas Frisk      vs   Andrew Rozanov       Thu @ 16:30
-      64  Finn Garner         vs   Alex Mascioli        Thu @ 15:00
-      64  Anthony Prokurat    vs   Bora Sengul          Thu @ 15:00
-      64  Bar Botzer          vs   Jin Dassanayake      Thu @ 15:00
-      64  Sam Bossem          vs   Thibault Frumholz    Thu @ 15:00
-      64  Eshan Kanetkar      vs   Joaquim Almeida      Thu @ 13:30
-      64  Nathan Perrone      vs   Alexander Karman     Thu @ 15:00
-      64  Luis Molina         vs   Scott Bickel         Thu @ 16:30
-      64  Will Pak            vs   Charl Morgan         Thu @ 13:30
-      64  Alexander Kiefer    vs   Cy McLeod            Thu @ 13:30
-      64  Ryan Boland         vs   Charlie Suh          Thu @ 13:30
-      64  Mikeal Carpenter    vs   Eitan Khromchenko    Thu @ 16:30
-      64  Conners OBrien      vs   Loren Byers          Thu @ 13:30
-      64  Malik Bhatnagar     vs   Matt Cardano         Thu @ 16:30
-      64  Dustin Ha           vs   Alp Sentay           Thu @ 16:30
-      64  Louis Gorregues     vs   Chikaya Sato         Thu @ 15:00
-      64  Kaipo Marshall      vs   Matisse Bobichon     Thu @ 13:30
-      64  Luke Garner         vs   Leo Raquin           Thu @ 13:30
-     128  Justin Cadeau      def.  Akira Morgenstern    62 75
-     128  Sergiu Medesan     def.  Skyler Gates         64 64
-     128  Joshua Robinson    def.  Andres Ballesteros   60 61
-     128  Michael Fourticq   def.  Momin Khan           63 61
-     128  Niles Rachal       def.  Andrei Paduraru      63 63
-     128  Daniel Dunac       def.  Edik Pribitkin       46 76(5) 63
-     128  Adhvyte Sharma     def.  Vansh Kapoor         63 61
-     128  Rithik Sardana     def.  Christian Pumpelly   75 64
-     128  Harrison Janes     def.  Rami Alkhafaji       63 61
-     128  Nassim Fenjiro     def.  Justin Suarez        75 60
-     128  Ryan Charles       def.  Elliot Stevens       64 46 62
-     128  Nickolas Frisk     def.  George Cavo          62 62
-     128  Andrew Rozanov     def.  Eric Liu             63 60
-     128  Alex Mascioli      def.  Rhajzon Rankins      62 61
-     128  Anthony Prokurat   def.  Erick Rivas          63 64
-     128  Jin Dassanayake    def.  Matthew Jones        60 76(5)
-     128  Sasha Panyan       def.  Martial Kawunde      61 61
-     128  Gustavo Rotundo     vs   Jake Fellows         Thu @ 12:00
-     128  Thibault Frumholz  def.  Romani Mayers        61 63
-     128  Eshan Kanetkar     def.  Jan Kjellberg        76(6) 63
-     128  Alexander Karman   def.  Alex Kim             62 62
-     128  Nihit Rawal         vs   Oliver Davey         Thu @ 12:00
-     128  Michael Pollatos    vs   Jake Fishkin         Thu @ 12:00
-     128  Scott Bickel       def.  Noah Winton          63 62
-     128  Will Pak           def.  Hayden Postin        75 67(5) 61
-     128  Cy McLeod          def.  Tamirlan Teberikov   75 75
-     128  Ryan Boland        def.  Ondrej Ctverak       Walkover
-     128  Eitan Khromchenko  def.  Giovanni Abriola     60 64
-     128  Conners OBrien     def.  Herman Jentoft       76(3) 60
-     128  Matt Cardano       def.  Marcel Dawson        61 63
-     128  Dustin Ha          def.  Ryan Nguyen          76(3) 64
-     128  Alp Sentay         def.  Sam Vagner           60 61
-     128  Chikaya Sato       def.  Jarrett Karnibad     61 62
-     128  Kaipo Marshall     def.  Nicholas Nguyen      76(6) 61
-     128  Filipos Zachiotis   vs   Sebastian Lopez      Thu @ 10:30
-     128  Jack McBride        vs   Alexander MacNeil    Thu @ 12:00
-     128  Colin Corsini       vs   Guilherme Valdoleir… Thu @ 12:00
-     128  Chanasorn Nakaurai  vs   Alejandro Rodriguez… Thu @ 10:30
-     128  Luke Garner        def.  Luka Markovic        36 63 62
+      32  James Wilkinson       vs   Derrick Thompson     Fri @ 09:00
+      32  Inigo Torre Martin    vs   Adhvyte Sharma       Fri @ 09:00
+      32  Rayane Stable         vs   Nickolas Frisk       Fri @ 09:00
+      32  Finn Garner           vs   Bora Sengul          Fri @ 09:00
+      32  Bar Botzer            vs   Jake Fellows         Fri @ 09:00
+      32  Sam Bossem            vs   Joaquim Almeida      Fri @ 09:00
+      32  Nathan Perrone        vs   Jake Fishkin         Fri @ 09:00
+      32  Luis Molina           vs   Charl Morgan         Fri @ 09:00
+      32  Alexander Kiefer      vs   Charlie Suh          Fri @ 09:00
+      32  Mikeal Carpenter      vs   Loren Byers          Fri @ 09:00
+      32  Malik Bhatnagar       vs   Alp Sentay           Fri @ 09:00
+      64  Miko Eala            def.  Justin Cadeau        67(4) 62 60
+      64  Joshua Robinson      def.  Sergiu Medesan       75 62
+      64  James Wilkinson      def.  Michael Fourticq     62 64
+      64  Derrick Thompson     def.  Niles Rachal         76(4) 64
+      64  Inigo Torre Martin   def.  Daniel Dunac         62 61
+      64  Adhvyte Sharma       def.  Rithik Sardana       63 62
+      64  Harrison Janes       def.  Pascal Wagemaker     63 63
+      64  Gavin Segraves       def.  Nassim Fenjiro       61 63
+      64  Rayane Stable        def.  Ryan Charles         60 61
+      64  Nickolas Frisk       def.  Andrew Rozanov       64 60
+      64  Finn Garner          def.  Alex Mascioli        64 64
+      64  Bora Sengul          def.  Anthony Prokurat     63 63
+      64  Bar Botzer           def.  Jin Dassanayake      61 61
+      64  Jake Fellows         def.  Sasha Panyan         61 62
+      64  Sam Bossem           def.  Thibault Frumholz    75 36 62
+      64  Joaquim Almeida      def.  Eshan Kanetkar       60 62
+      64  Nathan Perrone       def.  Alexander Karman     60 61
+      64  Jake Fishkin         def.  Nihit Rawal          60 61
+      64  Luis Molina          def.  Scott Bickel         62 64
+      64  Charl Morgan         def.  Will Pak             62 63
+      64  Alexander Kiefer     def.  Cy McLeod            61 61
+      64  Charlie Suh          def.  Ryan Boland          62 60
+      64  Mikeal Carpenter     def.  Eitan Khromchenko    63 60
+      64  Loren Byers          def.  Conners OBrien       61 75
+      64  Malik Bhatnagar      def.  Matt Cardano         61 75
+      64  Alp Sentay           def.  Dustin Ha            60 Ret.
+      64  Chikaya Sato         def.  Louis Gorregues      76(4) 61
+      64  Kaipo Marshall       def.  Matisse Bobichon     76(6) 67(1) 61
+      64  Jackson Allen        def.  Filipos Zachiotis    63 62
+      64  Guilherme Valdoleir… def.  Jack McBride         76(4) 31 Ret.
+      64  Kieran Foster        def.  Alejandro Rodriguez… 60 46 63
+      64  Leo Raquin           def.  Luke Garner          67(5) 61 61
+     128  Justin Cadeau        def.  Akira Morgenstern    62 75
+     128  Sergiu Medesan       def.  Skyler Gates         64 64
+     128  Joshua Robinson      def.  Andres Ballesteros   60 61
+     128  Michael Fourticq     def.  Momin Khan           63 61
+     128  Niles Rachal         def.  Andrei Paduraru      63 63
+     128  Daniel Dunac         def.  Edik Pribitkin       46 76(5) 63
+     128  Adhvyte Sharma       def.  Vansh Kapoor         63 61
+     128  Rithik Sardana       def.  Christian Pumpelly   75 64
+     128  Harrison Janes       def.  Rami Alkhafaji       63 61
+     128  Nassim Fenjiro       def.  Justin Suarez        75 60
+     128  Ryan Charles         def.  Elliot Stevens       64 46 62
+     128  Nickolas Frisk       def.  George Cavo          62 62
+     128  Andrew Rozanov       def.  Eric Liu             63 60
+     128  Alex Mascioli        def.  Rhajzon Rankins      62 61
+     128  Anthony Prokurat     def.  Erick Rivas          63 64
+     128  Jin Dassanayake      def.  Matthew Jones        60 76(5)
+     128  Sasha Panyan         def.  Martial Kawunde      61 61
+     128  Jake Fellows         def.  Gustavo Rotundo      61 61
+     128  Thibault Frumholz    def.  Romani Mayers        61 63
+     128  Eshan Kanetkar       def.  Jan Kjellberg        76(6) 63
+     128  Alexander Karman     def.  Alex Kim             62 62
+     128  Nihit Rawal          def.  Oliver Davey         61 62
+     128  Jake Fishkin         def.  Michael Pollatos     61 62
+     128  Scott Bickel         def.  Noah Winton          63 62
+     128  Will Pak             def.  Hayden Postin        75 67(5) 61
+     128  Cy McLeod            def.  Tamirlan Teberikov   75 75
+     128  Ryan Boland          def.  Ondrej Ctverak       Walkover
+     128  Eitan Khromchenko    def.  Giovanni Abriola     60 64
+     128  Conners OBrien       def.  Herman Jentoft       76(3) 60
+     128  Matt Cardano         def.  Marcel Dawson        61 63
+     128  Dustin Ha            def.  Ryan Nguyen          76(3) 64
+     128  Alp Sentay           def.  Sam Vagner           60 61
+     128  Chikaya Sato         def.  Jarrett Karnibad     61 62
+     128  Kaipo Marshall       def.  Nicholas Nguyen      76(6) 61
+     128  Filipos Zachiotis    def.  Sebastian Lopez      64 62
+     128  Jack McBride         def.  Alexander MacNeil    63 64
+     128  Guilherme Valdoleir… def.  Colin Corsini        61 62
+     128  Alejandro Rodriguez… def.  Chanasorn Nakaurai   57 63 62
+     128  Luke Garner          def.  Luka Markovic        36 63 62
+ > Consolation Matches
+  > Main
+      32  Skyler Gates          vs   Alex Kim             Fri @ 15:00
+      32  Elliot Stevens        vs   Tamirlan Teberikov   Fri @ 15:00
+      32  Sebastian Lopez       vs   Ryan Boland          Fri @ 15:00
+      64  Skyler Gates         def.  Vansh Kapoor         75 60
+      64  Alex Kim             def.  Akira Morgenstern    61 06 [4]
+      64  Elliot Stevens       def.  Rami Alkhafaji       62 61
+      64  Tamirlan Teberikov   def.  Matthew Jones        62 63
+      64  Sebastian Lopez      def.  Christian Pumpelly   60 63
+      64  Ryan Boland          def.  Michael Pollatos     63 61
+      64  Jarrett Karnibad     def.  Romani Mayers        61 20 Ret.
+      64  Justin Suarez        def.  Edik Pribitkin       63 36 [7]
+      64  Marcel Dawson        def.  Andres Ballesteros   36 64 [6]
+      64  Momin Khan           def.  Jan Kjellberg        64 63
+      64  Giovanni Abriola     def.  Martial Kawunde      62 60
+      64  Alexander MacNeil    def.  Colin Corsini        76(6) 60
+      64  Andrei Paduraru      def.  Noah Winton          60 60
+      64  Hayden Postin        def.  Nicholas Nguyen      63 76(5)
+      64  George Cavo          def.  Eric Liu             60 63
+      64  Luka Markovic        def.  Erick Rivas          61 61
+      64  Ryan Nguyen          def.  Oliver Davey         62 62
+ > Friday Extra Matches
+  > Main
+      64  Justin Cadeau         vs   Sergiu Medesan       Fri @ 15:00
+      64  Louis Gorregues       vs   Matisse Bobichon     Fri @ 15:00
+      64  Pascal Wagemaker      vs   Nassim Fenjiro       Fri @ 15:00
+      64  Ryan Charles          vs   Andrew Rozanov       Fri @ 15:00
+      64  Alex Mascioli         vs   Anthony Prokurat     Fri @ 15:00
+      64  Niles Rachal          vs   Michael Fourticq     Fri @ 15:00
+      64  Filipos Zachiotis     vs   Matt Cardano         Fri @ 15:00
+      64  Daniel Dunac          vs   Rithik Sardana       Fri @ 15:00
+      64  Nihit Rawal           vs   Alexander Karman     Fri @ 15:00
 ~~~
 
 <a name="21-05800"></a>
@@ -282,17 +331,18 @@
   > Consolation
       16  Karlo Divkovic      vs   Ryan Morgan        Fri @ 12:30
       16  Nick Cmager         vs   Lucas Magnaudet    Fri @ 12:30
-      16  Ryan Ali            vs   Benjamin Campi     Fri @ 12:30
+      16  Ryan Ali            vs   Liam Puttergill    Fri @ 12:30
       16  David Woodland      vs   Coby McCaig        Fri @ 12:30
       16  Felipe Rincon      def.  Loris Zisswiller   Walkover
-      16  Mitchell Johnson    vs   Daniel Dudockin    Fri @ 12:30
-      32  Carl Emil Overbeck  vs   Jakob Ortiveros    Thu @ 15:00
+      16  Peter Alam          vs   Daniel Dudockin    Fri @ 12:30
+      16  Carl Emil Overbeck  vs   Johan Garpered     Fri @ 12:30
+      32  Carl Emil Overbeck def.  Jakob Ortiveros    61 60
      32Q  Ryan Morgan        def.  Manroop Saini      60 62
      32Q  Lucas Magnaudet    def.  Dean Stratakos     36 64 [2]
-     32Q  Benjamin Campi     def.  Liam Puttergill    57 63 [7]
+     32Q  Liam Puttergill    def.  Benjamin Campi     75 36 [7]
      32Q  David Woodland     def.  Noah Gampel        Walkover
      32Q  Coby McCaig        def.  Coleton Hootman    75 06 [8]
-     32Q  Mitchell Johnson   def.  Peter Alam         36 62 [9]
+     32Q  Peter Alam         def.  Mitchell Johnson   36 62 [9]
      32Q  Daniel Dudockin    def.  Anders Matta       60 62
      32Q  Johan Garpered     def.  Juan Batalla       Walkover
 ~~~
@@ -308,6 +358,7 @@
  > Draw
   > Main
      16  Sasha Trkulja        def.  Veselin Kiselkov     75 63
+     16  Luke Vandecasteele   def.  Issa Yoshida         64 26 75
      16  Han-Chih Lin         def.  Tom Hann             62 75
      16  Julien Penzlin       def.  Jack Pulliam         62 61
      16  Nedim Suko           def.  Nikolas Tvedt        63 67(4) 76(3)
@@ -343,78 +394,100 @@
      64  Arthus de la Basset… def.  Jayden Harrison      60 61
      64  Oscar Brown          def.  Nils Plutat          62 64
   > Consolation
+     16  Drew Dillon          def.  Juan Pablo Jaramillo 61 61
      16  Jeremy Mueller       def.  Will Jesser          75 62
+     16  Michael Frank        def.  Brady Thomas         63 62
+     16  Leon Roider          def.  Lars Schmassmann     61 60
      16  Pablo Gomez Galvan   def.  Manuel Balce         64 63
+     16  Erik Sarlvik         def.  Andrew Vu            60 62
+     16  Nicklas Oberg        def.  Oliver Richards      Walkover
+     16  Nils Plutat          def.  Mats Krause          36 75 [3]
      32  Leon Roider          def.  Tommy Hsu            76(6) 61
      32  Nicklas Oberg        def.  Jayden Harrison      62 61
 ~~~
 
 <a name="21-59010"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Texas Regional Championship
   Dates: Oct 13-17, 2021
   Host: Texas A&M University (M)
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Singles Main
   > Main
-     64     Dario Kmet            vs       Pascal Lorieul       Fri @ 09:00
-     64     Joao Ceolin           vs       Luke Casper          Fri @ 09:00
-     64     Dylan Heap            vs       Miguel Cabrera       Fri @ 09:00
-     64     Liam Krall            vs       Daniel Sancho Arbizu Fri @ 09:00
-     64 (4) Alexander Jong        vs       Mykhailo Kvantaliani Fri @ 09:00
-     64     Adam Neff             vs       Stefan Storch        Fri @ 09:00
-     64 (5) Micah Braswell        vs       Tomas Reche          Fri @ 09:45
-     64     Lui Maxted            vs       Daniel Linkuns-Moro… Fri @ 10:00
-     64     Julian Steinhausen    vs       Raphael Perot        Fri @ 10:00
-     64     Ivan Smith            vs   (6) Tadeas Paroulek      Fri @ 10:00
-     64     Kyohei Yamanaka       vs       Jake Finn Bass       Fri @ 10:00
-     64     Jorge Juarez          vs   (3) Luc Fomba            Fri @ 10:30
-     64     Carlo Izurieta        vs       Matthis Ross         Fri @ 11:00
-     64     Rahul Dhokia          vs       Sebastian Rodriguez  Fri @ 11:00
-     64     Trinity Grear         vs  (15) Demetris Azoides     Fri @ 11:00
-     64     Juan Jose Rodriguez…  vs       Kenner Taylor        Fri @ 11:00
+     64  (1) Adrian Boitan         vs       Emir Sendogan        Fri @ 09:45
+     64      Dario Kmet            vs       Pascal Lorieul       Fri @ 09:00
+     64 (16) Juan Carlos Aguilar   vs       Evin McDonald        Fri @ 09:00
+     64      Joao Ceolin           vs       Luke Casper          Fri @ 09:00
+     64  (8) Richard Ciamarra      vs       Huntley Allen        Fri @ 09:00
+     64      Dylan Heap            vs       Miguel Cabrera       Fri @ 09:00
+     64  (9) Noah Schachter        vs       Tyler Stewart        Fri @ 09:00
+     64      Liam Krall            vs       Daniel Sancho Arbizu Fri @ 09:00
+     64  (4) Alexander Jong        vs       Mykhailo Kvantaliani Fri @ 09:00
+     64      Alan Sau              vs       Nevin Arimilli       Fri @ 09:00
+     64 (13) Olle Wallin           vs       Ethan Muza           Fri @ 09:00
+     64      Adam Neff             vs       Stefan Storch        Fri @ 09:00
+     64  (5) Micah Braswell        vs       Tomas Reche          Fri @ 09:45
+     64      Jacob Brumm           vs       Guillermo Castaneda  Fri @ 09:45
+     64 (12) Pierce Rollins        vs       Reed Collier         Fri @ 09:00
+     64      Lui Maxted            vs       Daniel Linkuns-Moro… Fri @ 10:00
+     64      Julian Steinhausen    vs       Raphael Perot        Fri @ 10:00
+     64      Savan Chhabra         vs  (11) Siem Woldeab         Fri @ 10:00
+     64      Louis Cloud           vs       Ilgiz Valiev         Fri @ 10:00
+     64      Ivan Smith            vs   (6) Tadeas Paroulek      Fri @ 10:00
+     64      Kyohei Yamanaka       vs       Jake Finn Bass       Fri @ 10:00
+     64      Ivan Thamma           vs  (14) Giulio Perego        Fri @ 10:30
+     64      Austin Abbrat         vs       Franco Ribero        Fri @ 10:30
+     64      Jorge Juarez          vs   (3) Luc Fomba            Fri @ 10:30
+     64      Carlo Izurieta        vs       Matthis Ross         Fri @ 11:00
+     64      Matthieu Peres        vs  (10) Cleeve Harper        Fri @ 11:00
+     64      Rahul Dhokia          vs       Sebastian Rodriguez  Fri @ 11:00
+     64      Nathan Schwartz       vs   (7) Sven Lah             Fri @ 11:00
+     64      Anish Sriniketh       vs       Caleb Chakravarthi   Fri @ 11:00
+     64      Trinity Grear         vs  (15) Demetris Azoides     Fri @ 11:00
+     64      Juan Jose Rodriguez…  vs       Kenner Taylor        Fri @ 11:00
+     64      Jordi Redelijk        vs   (2) Pedro Vives Marcos   Fri @ 11:00
  > Singles Qualifiers
   > Main
-     32     Evin McDonald         vs       Miguel Alonso        Thu @ 16:30
-     32     Nevin Arimilli       def.      Arnau Miralles Lopez 62 63
-     32     Anish Sriniketh       vs       Joao Sasso           Thu @ 16:30
-     32     Reed Collier         def.      Riley Tran-Vilkman   61 64
-     32     Ivan Thamma          def.      Justin Braverman     64 62
-     32     Austin Abbrat        def.      Warren Fulgenzi      61 46 64
-     32     Louis Cloud          def.      Adam Oscislawski     64 64
-     32     Francisco Vittar      vs       Savan Chhabra        Thu @ 16:30
-     32     Ethan Muza           def.      Ryuya Ata            61 62
-     32     Matthieu Peres       def.      Benjamin McDonald    60 63
-     32     Emir Sendogan         vs       Javier Gonzalez      Thu @ 17:00
-     32     Nathan Schwartz       vs       Campbell Salmon      Thu @ 17:00
-     32     Guillermo Castaneda  def.      Te Kani Williams     61 63
-     32     Wes Barnett           vs       Tyler Stewart        Thu @ 17:00
-     32     Max Amling            vs       Huntley Allen        Thu @ 17:00
-     32     Jordi Redelijk        vs       Garrett Skelly       Thu @ 17:00
-     64     Miguel Alonso        def.      Marwin Kralemann     36 76 75
-     64     Arnau Miralles Lopez def.      Daichi Akiyoshi      36 61 75
-     64     Joao Sasso           def.      Alex Stafford        46 63 63
-     64     Riley Tran-Vilkman   def.      Filippo Salsini      46 63 60
-     64     Justin Braverman     def.      Ricardo Alban        60 62
-     64     Warren Fulgenzi      def.      Oswaldo Cano Sosa    63 63
-     64     Adam Oscislawski     def.      Pietro Perego        64 36 61
-     64     Savan Chhabra        def.      Noah DeLuna          61 60
-     64     Ryuya Ata            def.      Callaway Clark       64 76(1)
-     64     Benjamin McDonald    def.      Solano Caffarena     Walkover
-     64     Matthieu Peres       def.      Takeyasu Sekiguchi   62 61
-     64     Emir Sendogan        def.      Jose Maria Rastrojo  62 62
-     64     Javier Gonzalez      def.      John Zisette         75 75
-     64     Nathan Schwartz      def.      Cesar Barranquero    61 76(5)
-     64     Campbell Salmon      def.      Kyle Sillman         61 61
-     64     Guillermo Castaneda  def.      Eli Susser           62 61
-     64     Wes Barnett          def.      Sam Whitehead        62 75
-     64     Tyler Stewart        def.      Eddie Ross           61 10 Ret.
-     64     Max Amling           def.      Maxim Groysman       75 76(2)
-     64     Huntley Allen        def.      Alberto Mello        60 61
-     64     Jordi Redelijk       def.      Christopher Lawrance 75 61
-     64     Garrett Skelly       def.      Ryan Flanagan        61 63
+     32      Evin McDonald        def.      Miguel Alonso        61 61
+     32      Nevin Arimilli       def.      Arnau Miralles Lopez 62 63
+     32      Anish Sriniketh      def.      Joao Sasso           76(4) 26 64
+     32      Reed Collier         def.      Riley Tran-Vilkman   61 64
+     32      Ivan Thamma          def.      Justin Braverman     64 62
+     32      Austin Abbrat        def.      Warren Fulgenzi      61 46 64
+     32      Louis Cloud          def.      Adam Oscislawski     64 64
+     32      Savan Chhabra        def.      Francisco Vittar     63 46 64
+     32      Ethan Muza           def.      Ryuya Ata            61 62
+     32      Matthieu Peres       def.      Benjamin McDonald    60 63
+     32      Emir Sendogan        def.      Javier Gonzalez      75 46 62
+     32      Nathan Schwartz      def.      Campbell Salmon      61 62
+     32      Guillermo Castaneda  def.      Te Kani Williams     61 63
+     32      Tyler Stewart        def.      Wes Barnett          63 75
+     32      Huntley Allen        def.      Max Amling           61 60
+     32      Jordi Redelijk       def.      Garrett Skelly       76(3) 63
+     64      Miguel Alonso        def.      Marwin Kralemann     36 76 75
+     64      Arnau Miralles Lopez def.      Daichi Akiyoshi      36 61 75
+     64      Joao Sasso           def.      Alex Stafford        46 63 63
+     64      Riley Tran-Vilkman   def.      Filippo Salsini      46 63 60
+     64      Justin Braverman     def.      Ricardo Alban        60 62
+     64      Warren Fulgenzi      def.      Oswaldo Cano Sosa    63 63
+     64      Adam Oscislawski     def.      Pietro Perego        64 36 61
+     64      Savan Chhabra        def.      Noah DeLuna          61 60
+     64      Ryuya Ata            def.      Callaway Clark       64 76(1)
+     64      Benjamin McDonald    def.      Solano Caffarena     Walkover
+     64      Matthieu Peres       def.      Takeyasu Sekiguchi   62 61
+     64      Emir Sendogan        def.      Jose Maria Rastrojo  62 62
+     64      Javier Gonzalez      def.      John Zisette         75 75
+     64      Nathan Schwartz      def.      Cesar Barranquero    61 76(5)
+     64      Campbell Salmon      def.      Kyle Sillman         61 61
+     64      Guillermo Castaneda  def.      Eli Susser           62 61
+     64      Wes Barnett          def.      Sam Whitehead        62 75
+     64      Tyler Stewart        def.      Eddie Ross           61 10 Ret.
+     64      Max Amling           def.      Maxim Groysman       75 76(2)
+     64      Huntley Allen        def.      Alberto Mello        60 61
+     64      Jordi Redelijk       def.      Christopher Lawrance 75 61
+     64      Garrett Skelly       def.      Ryan Flanagan        61 63
 ~~~
 
 <a name="21-00186"></a>
@@ -503,6 +576,46 @@
   > West
      SF  Ravi Nelson          vs   Emilio Vila         Fri @ 10:30
      SF  Tomas Nader          vs   Cheng En Tsai       Fri @ 10:30
+~~~
+
+<a name="21-98443"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Saint Leo Lion Fall Invitational - Men
+  Dates: Oct 15-17, 2021
+  Host: Saint Leo University (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > East
+     QF  Bruno Faletto         vs   Bernardo Tajada      Fri @ 12:45
+     QF  Ramiro Rincon         vs   Victor De Oliveira   Fri @ 12:45
+     QF  Santino Morel         vs   Raul Safont Martinez Fri @ 12:45
+     QF  Enrique Martinez      vs   Vincent Thiel        Fri @ 12:45
+ > Flight B
+  > East
+     QF  Nicolas Bacella       vs   Filipe Gil           Fri @ 12:45
+     QF  Christian Della Cio…  vs   Jacob Turley         Fri @ 12:45
+     QF  Thomas Andrews        vs   Lluc Camps           Fri @ 12:45
+     QF  Diego Menendez Vina   vs   Ghali Mensour        Fri @ 12:45
+ > Flight C
+  > East
+     QF  Willem van den Akker  vs   Tyler Glowaki        Fri @ 14:30
+     QF  Lucas Ribas           vs   Richard Freemann     Fri @ 14:30
+     QF  Jaewoo Choi           vs   Theodore Preiswerk   Fri @ 14:30
+     QF  Juan Patino Pabon     vs   Luis Iriarte         Fri @ 14:30
+ > Flight D
+  > East
+     QF  Miguel Ferreira       vs   Bernardo Gandara     Fri @ 14:30
+     QF  Corentin Venot        vs   William Priddy       Fri @ 14:30
+ > Flight E
+  > Main
+     R3  Yosue Noa             vs   Miguel Binnios       Sat @ 12:30
+     R3  Jose Moreno           vs   Jake Edwards         Sat @ 12:30
+     R2  Jose Moreno           vs   Miguel Binnios       Sun @ 12:30
+     R2  Yosue Noa             vs   Jake Edwards         Sun @ 12:30
+     R1  Jose Moreno           vs   Yosue Noa            Fri @ 14:30
+     R1  Miguel Binnios        vs   Jake Edwards         Fri @ 14:30
 ~~~
 
 Return to the [Top](./men_singles_2141.md) &#124; [Home Page](../../index.md)

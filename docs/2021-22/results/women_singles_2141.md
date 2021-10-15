@@ -11,12 +11,12 @@
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/B1C9ACB5-0D08-48E0-980C-75F2F818B28F" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">ITA Division I Women's Southern Regional Championship</a>  
-
-**Upcoming Tournaments**  
-- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Brown Classic</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Martha Thorn Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Viking Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">American Rivers Conference Women's Individual Tournament</a>  
+
+**Upcoming Tournaments**  
+- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Brown Classic</a>  
 
 <a name="21-27941"></a>
 ~~~
@@ -191,8 +191,8 @@
       64      Victoria Smirnova     vs       Kailey Evans         Fri @ 12:00
       64      Liz Chileno           vs       Maryjoe Crisologo    Fri @ 12:00
       64      Lexi Keberle          vs       Hana Kvapilova       Fri @ 12:00
-      64 (16) Allura Zamarripa      vs       Maryjoe Crisologo    Fri @ 12:00
-      64      Diae El Jardi         vs       Tomi Main            Fri @ 12:00
+      64 (16) Allura Zamarripa      vs       Diae El Jardi        Fri @ 12:00
+      64      Jasmin Adams          vs       Tomi Main            Fri @ 12:00
       64      Carla Pons            vs       Laura Slisane        Fri @ 12:00
       64      Lauren Fulgenzi       vs   (2) Melany Krywoj        Fri @ 12:00
 ~~~

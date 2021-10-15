@@ -131,8 +131,8 @@
       64      Victoria Smirnova     vs       Kailey Evans         Fri @ 12:00
       64      Liz Chileno           vs       Maryjoe Crisologo    Fri @ 12:00
       64      Lexi Keberle          vs       Hana Kvapilova       Fri @ 12:00
-      64 (16) Allura Zamarripa      vs       Maryjoe Crisologo    Fri @ 12:00
-      64      Diae El Jardi         vs       Tomi Main            Fri @ 12:00
+      64 (16) Allura Zamarripa      vs       Diae El Jardi        Fri @ 12:00
+      64      Jasmin Adams          vs       Tomi Main            Fri @ 12:00
       64      Carla Pons            vs       Laura Slisane        Fri @ 12:00
       64      Lauren Fulgenzi       vs   (2) Melany Krywoj        Fri @ 12:00
 ~~~

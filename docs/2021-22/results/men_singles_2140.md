@@ -11,6 +11,7 @@
 - 10/9/2021 - [WMU Vredevelt Invite](#21-70570) ([Results](#21-70570) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">Draws</a>)  
 - 10/8/2021 - [Youngstown State Hidden Duals](#21-93245) ([Results](#21-93245) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
+- 10/8/2021 - [Crusader Shootout](#21-83735) ([Results](#21-83735) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Invitational](#21-99765) ([Results](#21-99765) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Draws</a>)  
 - 10/9/2021 - [Wallach Invitational 2021](#21-27918) ([Results](#21-27918) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Draws</a>)  
 
@@ -18,7 +19,6 @@
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 
 <a name="21-73796"></a>
@@ -1466,6 +1466,65 @@
  > Hidden Dual 17
   > Main
      F  Phillip McMurray     def.  Nadal Nicolau Ferrer 64 61
+~~~
+
+<a name="21-83735"></a>
+~~~
+════════════════════════════════════════════════════════════════════
+  Crusader Shootout
+  Dates: Oct 8-9, 2021
+  Host: Belmont Abbey College (M)
+════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > BAC vs NCW
+  > Main
+     R1  Andres Golindano  def.  Tshepo Mosarwa   63 62
+     R1  Andrea Fanzaga    def.  Matthew Orozco   62 63
+     R1  Gabriel Martin    def.  Matan Amitay     62 64
+     R1  Alex Turner       def.  Nicolo Iacoboni  63 63
+     R1  Vittorio Noli     def.  Julian Gonzalez  75 63
+     R1  Valentin Morelli  def.  Marco Garofalo   62 62
+     R1  Joaquin Micheloni def.  Thomas Roberts   62 46 [5]
+ > BAC vs NCW (2)
+  > Main
+     R2  Alessandro Iriu   def.  Pedro Knippling  64 75
+     R2  Alex Crabtree     def.  Davide Simonini  64 16 [7]
+ > BAC vs HSC
+  > Main
+     R1  Charlie Stamps    def.  John Kendrick    62 63
+     R1  Henry Singleton   def.  Dean Zoglio      61 64
+     R1  Taylor Fox        def.  Matt Morant      61 60
+     R1  Charles Adams     def.  Michael Hess     64 64
+     R1  Joseph Phelan     def.  Andrew Winans    16 60 [8]
+     R1  Nick Beaudoin     def.  Jaden Johnson    64 61
+ > HSC vs NCW
+  > Main
+     R1  Tshepo Mosarwa    def.  Barrett Foster   63 64
+     R1  Nicolo Iacoboni   def.  Tyler Brice      61 61
+     R1  Vittorio Noli     def.  Patrick Conde    62 60
+     R1  Matan Amitay      def.  Matt Kendrick    61 60
+     R1  Valentin Morelli  def.  John Kendrick    61 62
+     R1  Joaquin Micheloni def.  Pierce Gembroys  60 60
+ > NCW/BAC vs HSC
+  > Main
+     R1  Alessandro Iriu   def.  Taylor Fox       62 64
+     R1  Davide Simonini   def.  Charles Adams    62 60
+     R1  Nick Beaudoin     def.  Michael Hess     46 63 [8]
+     R1  Frank Borden      def.  Matt Morant      63 61
+     R1  Henry Singleton   def.  Joseph Phelan    63 62
+ > BAC vs NCW/HSC
+  > Main
+     R1  Vittorio Noli     def.  Pedro Knippling  61 61
+     R1  Andres Golindano  def.  Matan Amitay     63 76(2)
+     R1  Gabriel Martin    def.  Valentin Morelli 61 61
+     R1  Joaquin Micheloni def.  Matthew Orozco   62 64
+     R1  Julian Gonzalez   def.  Davide Simonini  36 62 [3]
+     R1  Alex Turner       def.  Barrett Foster   63 61
+ > BAC vs HSC
+  > Main
+     R5  Charles Adams     def.  Joseph Phelan    64 26 [6]
+     R3  Pedro Knippling   def.  Andrew Winans    61 60
+     R3  Thomas Roberts    def.  Tyler Brice      63 57 [9]
 ~~~
 
 <a name="21-99765"></a>

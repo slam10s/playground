@@ -6,21 +6,21 @@
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-23395) ([Results](#21-23395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-05800) ([Results](#21-05800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
+- 10/15/2021 - [Louisville Invitational](#21-27355) ([Results](#21-27355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
+- 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Bulldog Cup</a>  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">ITA Division I Men's Atlantic Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
 - 10/13/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">ITA Division I Men's Texas Regional Championship</a>  
-
-**Upcoming Tournaments**  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Bulldog Cup</a>  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Louisville Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">San Diego State Fall Invite</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">UTC-Steve Baras Invitational</a>  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Saint Leo Lion Fall Invitational - Men</a>  
+
+**Upcoming Tournaments**  
 - 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Wesleyan Invitational</a>  
 
 <a name="21-27941"></a>
@@ -81,39 +81,59 @@
      SF  Garcia-Nieto/Uribe  def.  Marshall/Mudre      62
 ~~~
 
+<a name="21-23395"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  ITA Division I Men's Atlantic Regional Championship
+  Dates: Oct 14-17, 2021
+  Host: U.S. Naval Academy (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Main
+  > Main
+     64  Bickel/Yang           vs   Dunac/Cadeau         Fri @ 23:45
+     64  Jones/Robinson        vs   Kawunde/Rankins      Fri @ 12:30
+     64  Pribitkin/Cardano     vs   Kjellberg/Garner     Fri @ 11:00
+     64  Alkhafaji/Pollatos    vs   Kapoor/Haddou        Fri @ 11:00
+     64  Marshall/Dassanayake  vs   Prokurat/Suarez      Fri @ 12:30
+     64  Lopez/Rachal          vs   Vagner/OBrien        Fri @ 11:00
+     64  Sato/Janes            vs   Khromchenko/Fourticq Fri @ 12:30
+     64  Davey/Corsini         vs   Wagemaker/Valdoleir… Fri @ 12:30
+     64  Fellows/Foster        vs   Pak/Nguyen           Fri @ 12:30
+     64  Sentay/Frisk          vs   Boland/Rotundo       Fri @ 12:30
+~~~
+
 <a name="21-05800"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: Saint Mary's College/CA (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Doubles
   > Main
-      QF  Reckow/Watt           vs   Morgan/Torres        Fri @ 09:00
-      QF  Chang/Overbeck        vs   Keki/Maior           Fri @ 09:00
-      QF  Brinkman/Necz         vs   Chaudhary/Kopczynski Fri @ 09:00
-      QF  Davis/Volgin          vs   Huynh/Ricklis        Fri @ 09:00
-      16  Reckow/Watt          def.  Benn/Dudockin        86
-      16  Morgan/Torres        def.  Silva/Voros          86
-      16  Chang/Overbeck       def.  McCaig/Puttergill    84
-      16  Keki/Maior           def.  Ramos/Rincon         82
-      16  Brinkman/Necz        def.  Garpered/Giraldez    84
-      16  Chaudhary/Kopczynski def.  Coupu/Zisswiller     82
-      16  Davis/Volgin         def.  Aksenoks/Wong        85
-      16  Huynh/Ricklis        def.  Batalla/N Tcha       Walkover
-      32  Benn/Dudockin        def.  Stratakos/Matta      84
-      32  Silva/Voros          def.  Gould/Johnson        84
-      32  Morgan/Torres        def.  Ali/Bell             87(4)
-      32  McCaig/Puttergill    def.  Campi/Marchand       87(4)
-      32  Ramos/Rincon         def.  Cmager/Hinojosa      87(3)
-      32  Brinkman/Necz        def.  Alam/Saini           84
-      32  Coupu/Zisswiller     def.  Magnaudet/Wright     86
-      32  Aksenoks/Wong        def.  Bell/Shah            Walkover
-      32  Batalla/N Tcha       def.  Divkovic/Potts       Walkover
-  > Consolation
-     16Q  Gould/Johnson         vs   Ali/Bell             Thu @ 09:00
+     QF  Reckow/Watt           vs   Morgan/Torres        Fri @ 09:00
+     QF  Chang/Overbeck        vs   Keki/Maior           Fri @ 09:00
+     QF  Brinkman/Necz         vs   Chaudhary/Kopczynski Fri @ 09:00
+     QF  Davis/Volgin          vs   Huynh/Ricklis        Fri @ 09:00
+     16  Reckow/Watt          def.  Benn/Dudockin        86
+     16  Morgan/Torres        def.  Silva/Voros          86
+     16  Chang/Overbeck       def.  McCaig/Puttergill    84
+     16  Keki/Maior           def.  Ramos/Rincon         82
+     16  Brinkman/Necz        def.  Garpered/Giraldez    84
+     16  Chaudhary/Kopczynski def.  Coupu/Zisswiller     82
+     16  Davis/Volgin         def.  Aksenoks/Wong        85
+     16  Huynh/Ricklis        def.  Batalla/N Tcha       Walkover
+     32  Benn/Dudockin        def.  Stratakos/Matta      84
+     32  Silva/Voros          def.  Gould/Johnson        84
+     32  Morgan/Torres        def.  Ali/Bell             87(4)
+     32  McCaig/Puttergill    def.  Campi/Marchand       87(4)
+     32  Ramos/Rincon         def.  Cmager/Hinojosa      87(3)
+     32  Brinkman/Necz        def.  Alam/Saini           84
+     32  Coupu/Zisswiller     def.  Magnaudet/Wright     86
+     32  Aksenoks/Wong        def.  Bell/Shah            Walkover
+     32  Batalla/N Tcha       def.  Divkovic/Potts       Walkover
 ~~~
 
 <a name="21-10002"></a>
@@ -139,6 +159,34 @@
      32  Frank/Worn           def.  Balce/Sarlvik       85
      32  Andersson/Roider     def.  Kiselkov/Stipic     84
      32  Dillon/Thomas        def.  Harrison/Krause     86
+~~~
+
+<a name="21-27355"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Louisville Invitational
+  Dates: Oct 15-17, 2021
+  Host: University Of Louisville (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles A
+  > East
+     QF  Tiraspolsky/Andre    vs   Dudek/Cossu        Fri @ 09:00
+     QF  LeBlanc/Mercer       vs   Zabala/Lombisano   Fri @ 09:00
+     QF  Vukovic/Haskins      vs   Galic/Shoults      Fri @ 09:00
+     QF  Galus/Wozniak        vs   Fung/Wesbrooks     Fri @ 09:00
+ > Doubles B
+  > East
+     QF  Sorbo/Zemel          vs   Batchelor/Reynolds Fri @ 09:00
+     QF  Brancatelli/Suzanne  vs   Saylor/Fletchall   Fri @ 09:00
+     QF  Tang/Howard-Tripp    vs   Kovac/Szczesny     Fri @ 09:00
+     QF  Bennett/Sachdev      vs   Khamis/Lamas       Fri @ 09:00
+ > Doubles Round Robin
+  > Main
+     R4  Kostov/Ecarma        vs   Sornlaksup/Meluta  Fri @ 09:45
+     R4  Singh/Rogers         vs   Welch/Morgan       Fri @ 09:45
+     R1  Singh/Rogers         vs   Kostov/Ecarma      Fri @ 09:00
+     R1  Sornlaksup/Meluta    vs   Berglund/Staff     Fri @ 09:00
 ~~~
 
 <a name="21-00186"></a>
@@ -217,6 +265,28 @@
   > West
      SF  Parada/Toloza         vs   Bruno/Hirano         Fri @ 15:30
      SF  Nader/Vanecek         vs   Ching/Shteyn         Fri @ 15:30
+~~~
+
+<a name="21-98443"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Saint Leo Lion Fall Invitational - Men
+  Dates: Oct 15-17, 2021
+  Host: Saint Leo University (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > East
+     QF  Thiel/Mensour         vs   Gil/Freemann         
+     QF  De Oliveira/Menende…  vs   Tajada/Turley        Fri @ 12:00
+     QF  Morel/Choi            vs   Patino Pabon/Safont… Fri @ 12:00
+     QF  Preiswerk/Martinez    vs   Faletto/van den Akk… Fri @ 12:00
+ > Flight B
+  > East
+     QF  Bacella/Iriarte       vs   Glowaki/Binnios      Fri @ 12:00
+     QF  Andrews/Ribas         vs   Rincon/Camps         Fri @ 12:00
+     QF  Della Cioppa/Moreno   vs   Torrenegra/Noa       Fri @ 12:00
+     QF  Ferreira/Edwards      vs   Gandara/Vieira       Fri @ 12:00
 ~~~
 
 Return to the [Top](./men_doubles_2141.md) &#124; [Home Page](../../index.md)

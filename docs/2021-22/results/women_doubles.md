@@ -11,12 +11,12 @@
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/B1C9ACB5-0D08-48E0-980C-75F2F818B28F" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">ITA Division I Women's Southern Regional Championship</a>  
-
-**Upcoming Tournaments**  
-- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Brown Classic</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Martha Thorn Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Viking Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">American Rivers Conference Women's Individual Tournament</a>  
+
+**Upcoming Tournaments**  
+- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Brown Classic</a>  
 
 <a name="21-27941"></a>
 ~~~
@@ -130,18 +130,20 @@
  > Division III
   > East
      QF  Cornwall/Zheng        vs   Gaeth/Yu             Fri @ 13:00
+     QF  Guo/Mikos             vs   Zhou/Markey          Fri @ 13:00
      QF  Givone/Zhou           vs   Goetz/Li             Fri @ 13:30
      QF  Fordham/Plakk         vs   Rigby/Christensen    Fri @ 13:30
      16  Cornwall/Zheng       def.  Fatemi/Cartledge     62 36 [9]
      16  Gaeth/Yu             def.  Castellanos Caldero… 64 63
      16  Guo/Mikos            def.  Lee/Juan             64 61
-     16  Beshentseva/Vazquez   vs   Zhou/Markey          Thu @ 17:30
+     16  Zhou/Markey          def.  Beshentseva/Vazquez  64 61
      16  Givone/Zhou          def.  Landells/Roarty      36 62 [5]
      16  Goetz/Li             def.  Franta/Henderson     61 60
      16  Fordham/Plakk        def.  Ziehm/Kesterson      61 63
      16  Rigby/Christensen    def.  Bruno/Lee            60 61
   > West
      QF  Fatemi/Cartledge      vs   Castellanos Caldero… Fri @ 13:00
+     QF  Lee/Juan              vs   Beshentseva/Vazquez  Fri @ 13:00
      QF  Landells/Roarty       vs   Franta/Henderson     Fri @ 13:30
      QF  Ziehm/Kesterson       vs   Bruno/Lee            Fri @ 13:30
  > Naia
