@@ -196,7 +196,7 @@
       64      Malin Falk           def.      Sabina Richtrova     63 64
       64  (8) Maria Juliana Parra… def.      Melissa Ifidzhen     61 61
       64      Lisa Fukutoku        def.      Gabrielle Clairotte  60 63
-      64 (14) Hope Moulin          def.      Pei Ju Hsieh         60 26 62
+      64 (14) Hope Moulin          def.      Penny Hsieh          60 26 62
       64      Emily Dunbar         def.      Annie Clark          60 62
       64      Dariya Radulova      def.      Nicole Kiefer        76(1) 64
       64 (11) Momoko Nagato        def.      Briee Joliff         61 60
@@ -232,7 +232,7 @@
      128      Andrea Campodonico   def.      Elisa van Meeteren   64 63
      128      Madi Ballow          def.      Kirsten Husted       36 61 [7]
      128      Chhinda Som          def.      Melissa Ifidzhen     63 75
-     128      Pei Ju Hsieh         def.      Gabrielle Clairotte  46 63 [7]
+     128      Penny Hsieh          def.      Gabrielle Clairotte  46 63 [7]
      128      Annie Clark          def.      Briee Joliff         63 61
      128      Eloise Saraty        def.      Emma Nurgazieva      63 61
      128      Erika Cheng          def.      Natalia Nikolopoulou 75 26 [5]

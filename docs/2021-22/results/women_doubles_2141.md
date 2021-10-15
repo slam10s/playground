@@ -4,6 +4,7 @@
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
+- 10/15/2021 - [Martha Thorn Invitational](#21-82907) ([Results](#21-82907) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
@@ -11,7 +12,6 @@
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/B1C9ACB5-0D08-48E0-980C-75F2F818B28F" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">ITA Division I Women's Southern Regional Championship</a>  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Martha Thorn Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Viking Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">American Rivers Conference Women's Individual Tournament</a>  
 
@@ -62,13 +62,31 @@
   Host: University Of Central Florida (W)
 ═══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
+ > Main Draw 1
+  > Main
+     32 (1) Hule/Allen           def.     Kudelova/MGinnis   87(2)
+     32     Khodan/Tahan         def.     Oliveira/Yardley   84
+     32     Kowalski/Nirundorn   def.     Dean/Muzik         87(3)
+     32     Tillitt/Courville    def. (7) Briggs/Zein        82
+     32 (5) Pfennig/Boch-Collins def.     Kentish/Smith      82
+     32     Dudeney/Berlin       def.     Cohen/Garcia Gross 84
+     32     Mattel/Sharma        def.     Ferding/Norin      82
+     32 (4) Hertel/Grant         def.     Boy/Berry          83
+     32 (3) Coppoc/Reasco        def.     Lee/Taddia         83
+     32     Arkadianou/Jacobs    def.     Gabriel/Darley     84
+     32     Kattenberg/Leslie    def.     Sharabura/Lee      84
+     32     Umarova/Kabbaj       def. (6) Shelton/Spee       82
+     32 (8) Bilchev/Hrastar      def.     Hubeaut/Sandy      83
+     32     Achong/Richardson    def.     Carney/Alvarez     84
+     32     Zeleva/Levashova     def.     Heimen/Hijos       84
+     32 (2) Gulihur/Melilo       def.     Clayton/Ma         86
  > Qualifying Draw
   > Main
-     QF (1) Dudeney/Berlin   def.     Aldrich/Frediani   80
-     QF     Lee/Taddia       def. (4) Schieroni/Filip    84
-     QF (3) Khodan/Tahan     def.     Matthews/Sommer    87(4)
-     QF (2) Clayton/Ma       def.     Di Francesco/Cohen 87(4)
-     16     Aldrich/Frediani def.     Porter/Salinas     86
+     QF (1) Dudeney/Berlin       def.     Aldrich/Frediani   80
+     QF     Lee/Taddia           def. (4) Schieroni/Filip    84
+     QF (3) Khodan/Tahan         def.     Matthews/Sommer    87(4)
+     QF (2) Clayton/Ma           def.     Di Francesco/Cohen 87(4)
+     16     Aldrich/Frediani     def.     Porter/Salinas     86
 ~~~
 
 <a name="21-76092"></a>
@@ -98,6 +116,26 @@
      64      Kalava/Hummel         vs       Omoworare/Beyebach   Fri @ 09:00
      64      Morris/Mavor          vs       Marcinkevica/Makant… Fri @ 09:00
      64      Horiguchi/Dumitrescu  vs       Kvapilova/Israel-Le… Fri @ 09:00
+~~~
+
+<a name="21-82907"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Martha Thorn Invitational
+  Dates: Oct 15-17, 2021
+  Host: West Virginia University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > WVU v JMU
+  > Main
+     QF  Bossi/Chang          def.  Afanasyeva/Moulin 64
+     QF  Los Arcos/Voloh      def.  Hsieh/Nagato      76(4)
+     QF  Moulin/Nord          def.  Kovick/Kucharova  64
+ > Louisville v PSU
+  > Main
+     QF  OGorman/Chekhlystova def.  Sawyer/Simova     76(5)
+     QF  Friedland/Lasorda    def.  Richardson/Chaika 60
+     QF  Hirsch/Ryan          def.  Callwood/Verma    76(4)
 ~~~
 
 <a name="21-00186"></a>
@@ -161,7 +199,6 @@
      16  Teodoro De Oliveira… def.  Zavala/Lindeboom     61 63
      16  Quiceno/Petit        def.  Siska/Koplova        62 75
   > West
-     QF  Gilich/Fernandez      vs   Muhammad/Clarke      Fri @ 14:30
      QF  Carpenter/Vasquez     vs   Rinaldi/Weiland      Fri @ 15:30
      QF  Novati/Pinto          vs   Guerrero/Isaac       Fri @ 14:30
      QF  Zavala/Lindeboom      vs   Siska/Koplova        Fri @ 14:30

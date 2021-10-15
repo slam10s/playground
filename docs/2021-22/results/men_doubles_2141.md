@@ -6,6 +6,7 @@
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-23395) ([Results](#21-23395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-05800) ([Results](#21-05800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
+- 10/15/2021 - [Louisville Invitational](#21-27355) ([Results](#21-27355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
 
@@ -16,7 +17,6 @@
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
 - 10/13/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">ITA Division I Men's Texas Regional Championship</a>  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Louisville Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">San Diego State Fall Invite</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">UTC-Steve Baras Invitational</a>  
 
@@ -168,6 +168,25 @@
   Dates: Oct 15-17, 2021
   Host: University Of Louisville (M)
 ═════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles A
+  > East
+     QF  Tiraspolsky/Andre    def.  Dudek/Cossu         63
+     QF  LeBlanc/Mercer       def.  Zabala/Lombisano    76(4)
+     QF  Vukovic/Haskins      def.  Galic/Shoults       61
+     QF  Wesbrooks/Howard-Tr… def.  Galus/Wozniak       62
+ > Doubles B
+  > East
+     QF  Batchelor/Reynolds   def.  Sorbo/Zemel         62
+     QF  Saylor/Fletchall     def.  Brancatelli/Suzanne 64
+     QF  Tang/Mizrahi          vs   Kovac/Szczesny      Fri @ 09:00
+     QF  Bennett/Sachdev       vs   Khamis/Lamas        Fri @ 09:00
+ > Doubles Round Robin
+  > Main
+     R4  Kostov/Ecarma         vs   Sornlaksup/Meluta   Fri @ 09:45
+     R4  Basavareddy/Rogers    vs   Welch/Morgan        Fri @ 09:45
+     R1  Basavareddy/Rogers    vs   Kostov/Ecarma       Fri @ 09:00
+     R1  Sornlaksup/Meluta     vs   Berglund/Staff      Fri @ 09:00
 ~~~
 
 <a name="21-00186"></a>
@@ -214,7 +233,6 @@
   > West
      QF  Pessoa/Pelletti       vs   Omarkhanov/Salazar   Fri @ 15:00
      QF  Little/Braham         vs   Carrizo/Sprovieri    Fri @ 15:00
-     QF  Beltran/Komel         vs   Fernandez/Gallegos   Fri @ 15:00
      QF  Subert/Cooke          vs   Barbon/Stepanov      Fri @ 15:00
  > Division II
   > East

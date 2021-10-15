@@ -22,19 +22,37 @@
 
 <a name="21-46458"></a>
 ~~~
-══════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   ITA Division I Women's Southeast Regional Championship
   Dates: Oct 14-27, 2021
   Host: University Of Central Florida (W)
-══════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Women's Open Doubles
+ > Main Draw 1
+  > Main
+     32 (1) Hule/Allen           def.     Kudelova/MGinnis   87(2)
+     32     Khodan/Tahan         def.     Oliveira/Yardley   84
+     32     Kowalski/Nirundorn   def.     Dean/Muzik         87(3)
+     32     Tillitt/Courville    def. (7) Briggs/Zein        82
+     32 (5) Pfennig/Boch-Collins def.     Kentish/Smith      82
+     32     Dudeney/Berlin       def.     Cohen/Garcia Gross 84
+     32     Mattel/Sharma        def.     Ferding/Norin      82
+     32 (4) Hertel/Grant         def.     Boy/Berry          83
+     32 (3) Coppoc/Reasco        def.     Lee/Taddia         83
+     32     Arkadianou/Jacobs    def.     Gabriel/Darley     84
+     32     Kattenberg/Leslie    def.     Sharabura/Lee      84
+     32     Umarova/Kabbaj       def. (6) Shelton/Spee       82
+     32 (8) Bilchev/Hrastar      def.     Hubeaut/Sandy      83
+     32     Achong/Richardson    def.     Carney/Alvarez     84
+     32     Zeleva/Levashova     def.     Heimen/Hijos       84
+     32 (2) Gulihur/Melilo       def.     Clayton/Ma         86
  > Qualifying Draw
   > Main
-     QF (1) Dudeney/Berlin   def.     Aldrich/Frediani   80
-     QF     Lee/Taddia       def. (4) Schieroni/Filip    84
-     QF (3) Khodan/Tahan     def.     Matthews/Sommer    87(4)
-     QF (2) Clayton/Ma       def.     Di Francesco/Cohen 87(4)
-     16     Aldrich/Frediani def.     Porter/Salinas     86
+     QF (1) Dudeney/Berlin       def.     Aldrich/Frediani   80
+     QF     Lee/Taddia           def. (4) Schieroni/Filip    84
+     QF (3) Khodan/Tahan         def.     Matthews/Sommer    87(4)
+     QF (2) Clayton/Ma           def.     Di Francesco/Cohen 87(4)
+     16     Aldrich/Frediani     def.     Porter/Salinas     86
 ~~~
 
 <a name="21-76092"></a>

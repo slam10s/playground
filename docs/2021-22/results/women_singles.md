@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Women's Northeast Regional Championship](#21-91243) ([Results](#21-91243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
@@ -9,7 +10,6 @@
 **Tournaments without Matches**  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">ITA Division I Women's Mountain Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/B1C9ACB5-0D08-48E0-980C-75F2F818B28F" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">ITA Division I Women's Southern Regional Championship</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Martha Thorn Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Viking Invitational</a>  
@@ -239,12 +239,13 @@
      16  Maria Garcia        def.  Isabella Dunlap      64 46 62
      16  Mae Canete          def.  Luisa Hrda           75 62
   > West
+     QF  Sofia Ragona         vs   Ashley Penshorn      Fri @ 09:00
      QF  Karolin Kirchtag     vs   Taylor Leslie        Fri @ 09:00
      QF  Raquel Amaro         vs   Natalie Kallmunzero… Fri @ 09:00
      QF  Isabella Dunlap      vs   Luisa Hrda           Fri @ 09:00
  > Division III
   > East
-     SF  Sahana Raman         vs   Carol Plakk          Fri @ 09:00
+     SF  Sahana Raman        def.  Carol Plakk          Walkover
      SF  Nina Ye              vs   Eliza McPherron      Fri @ 09:00
      QF  Sahana Raman        def.  Mary Hose            75 62
      QF  Carol Plakk         def.  Angie Zhou           57 63 75
@@ -266,10 +267,10 @@
      QF  Suzuka Nishino      def.  Jamilah Karah        63 57 63
      QF  Crystal Zhou        def.  Miranda Yuan         63 62
   > North
-     SF  Mary Hose            vs   Angie Zhou           Fri @ 09:00
-     SF  Dakota Fordham       vs   Gabi Moss            Fri @ 09:00
+     SF  Angie Zhou          def.  Mary Hose            60 61
+     SF  Dakota Fordham      def.  Gabi Moss            60 62
   > South
-     SF  Angel Le             vs   Sabrina Tang         Fri @ 09:00
+     SF  Angel Le             vs   Sabrina Tang         
      SF  Jamilah Karah        vs   Miranda Yuan         Fri @ 09:00
  > Junior College
   > East

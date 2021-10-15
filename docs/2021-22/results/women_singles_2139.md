@@ -1165,7 +1165,7 @@
      QF (2) Alicia Dudeney       def.     Marie Mattel         61 61
      16 (1) Emma Shelton         def.     Ida Ferding          62 61
      16     Kamila Umarova       def.     Nadja Bay Christians 60 63
-     16     Bente Spee           def. (3) Andreea Velcea       75 60
+     16     Bente Spee           def. (3) Andreeea Velcea      75 60
      16     Jaleesa Leslie       def.     Greta Schieroni      64 62
      16     Yasmine Kabbaj       def.     Martina Kudelova     64 76(2)
      16 (4) Nandini Sharma       def.     Amelie Boy           62 64
@@ -1176,7 +1176,7 @@
      32     Nadja Bay Christians def.     Summer Yardley       62 62
      32     Bente Spee           def.     Sean Lodzki          62 61
      32     Jaleesa Leslie       def.     Fanny Norin          76(2) 63
-     32     Greta Schieroni      def.     Grace Schumacher     64 76(5)
+     32     Greta Schieroni      def.     Grace Shumacher      64 76(5)
      32     Martina Kudelova     def.     Sydney Berlin        64 36 [6]
      32     Yasmine Kabbaj       def.     Emma Bardet          61 62
      32     Amelie Boy           def.     Emily De Oliveira    75 64
@@ -1184,23 +1184,23 @@
      32     Annabelle Davis      def.     Noa Cohen            61 46 [4]
      32     Alexandria Mjos      def.     Diarra Thomas        61 61
   > West
-      F     Andjela Skrobonja    def.     Grace Schumacher     61 60
-     SF     Grace Schumacher     def.     Summer Yardley       64 61
+      F     Andjela Skrobonja    def.     Grace Shumacher      61 60
+     SF     Grace Shumacher      def.     Summer Yardley       64 61
      SF     Andjela Skrobonja    def.     Sydney Berlin        26 63 [5]
      QF     Summer Yardley       def.     Emily De Oliveira    76(5) 64
-     QF     Grace Schumacher     def.     Aylen Hubeaut        64 62
+     QF     Grace Shumacher      def.     Aylen Hubeaut        64 62
      QF     Sydney Berlin        def.     Sean Lodzki          61 60
      QF     Andjela Skrobonja    def.     Diarra Thomas        60 60
      16     Summer Yardley       def.     Katerina Filip       61 63
-     16     Grace Schumacher     def.     Fanny Norin          64 75
+     16     Grace Shumacher      def.     Fanny Norin          64 75
      16     Sydney Berlin        def.     Emma Bardet          76(6) 63
      16     Andjela Skrobonja    def.     Noa Cohen            63 61
   > North
-      F (3) Andreea Velcea       def.     Martina Kudelova     36 76(5) [5]
-     SF (3) Andreea Velcea       def.     Nadja Bay Christians Walkover
+      F (3) Andreeea Velcea      def.     Martina Kudelova     36 76(5) [5]
+     SF (3) Andreeea Velcea      def.     Nadja Bay Christians Walkover
      SF     Martina Kudelova     def.     Annabelle Davis      75 62
      QF     Nadja Bay Christians def.     Ida Ferding          Walkover
-     QF (3) Andreea Velcea       def.     Greta Schieroni      62 61
+     QF (3) Andreeea Velcea      def.     Greta Schieroni      62 61
      QF     Martina Kudelova     def.     Amelie Boy           63 63
      QF     Annabelle Davis      def.     Alexandria Mjos      61 61
   > Northeast
@@ -1538,7 +1538,7 @@
       64      Malin Falk           def.      Sabina Richtrova     63 64
       64  (8) Maria Juliana Parra… def.      Melissa Ifidzhen     61 61
       64      Lisa Fukutoku        def.      Gabrielle Clairotte  60 63
-      64 (14) Hope Moulin          def.      Pei Ju Hsieh         60 26 62
+      64 (14) Hope Moulin          def.      Penny Hsieh          60 26 62
       64      Emily Dunbar         def.      Annie Clark          60 62
       64      Dariya Radulova      def.      Nicole Kiefer        76(1) 64
       64 (11) Momoko Nagato        def.      Briee Joliff         61 60
@@ -1574,7 +1574,7 @@
      128      Andrea Campodonico   def.      Elisa van Meeteren   64 63
      128      Madi Ballow          def.      Kirsten Husted       36 61 [7]
      128      Chhinda Som          def.      Melissa Ifidzhen     63 75
-     128      Pei Ju Hsieh         def.      Gabrielle Clairotte  46 63 [7]
+     128      Penny Hsieh          def.      Gabrielle Clairotte  46 63 [7]
      128      Annie Clark          def.      Briee Joliff         63 61
      128      Eloise Saraty        def.      Emma Nurgazieva      63 61
      128      Erika Cheng          def.      Natalia Nikolopoulou 75 26 [5]
