@@ -209,102 +209,105 @@
 
 <a name="21-00186"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Cup
   Dates: Oct 14-17, 2021
   Host: ITA
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Division II
   > East
-     SF  Moosbacher/Farfan     vs   Kozar/Dovnik         Sat @ 13:30
-     SF  Canete/Canete         vs   Franco/Garza         Sat @ 13:30
-     QF  Moosbacher/Farfan    def.  Jorge/Lippert        60 60
-     QF  Kozar/Dovnik         def.  Gonzalez Ramirez/Ov… 62 64
-     QF  Canete/Canete        def.  Ragona/Shiau         61 63
-     QF  Franco/Garza         def.  Espinal/Nosievici    61 Ret.
-     16  Moosbacher/Farfan    def.  Novikova/Dunlap      06 76(8) [5]
-     16  Jorge/Lippert        def.  Jancikova/Arce Viey… 61 61
-     16  Gonzalez Ramirez/Ov… def.  Munday/Stralka       62 62
-     16  Kozar/Dovnik         def.  Stephenson/Waller    64 63
-     16  Canete/Canete        def.  Guler/Irrinki        60 61
-     16  Ragona/Shiau         def.  Borg/Groth           16 76(7) [8]
-     16  Franco/Garza         def.  Chamoun/Spice        63 46 [8]
-     16  Espinal/Nosievici    def.  Graydon/Kirchtag     63 61
+     SF     Moosbacher/Farfan     vs      Kozar/Dovnik         Sat @ 13:30
+     SF     Canete/Canete         vs      Franco/Garza         Sat @ 13:30
+     QF     Moosbacher/Farfan    def.     Jorge/Lippert        60 60
+     QF     Kozar/Dovnik         def. (4) Gonzalez Ramirez/Ov… 62 64
+     QF     Canete/Canete        def.     Ragona/Shiau         61 63
+     QF     Franco/Garza         def. (2) Espinal/Nosievici    61 Ret.
+     16     Moosbacher/Farfan    def. (1) Novikova/Dunlap      06 76(8) [5]
+     16     Jorge/Lippert        def.     Jancikova/Arce Viey… 61 61
+     16 (4) Gonzalez Ramirez/Ov… def.     Munday/Stralka       62 62
+     16     Kozar/Dovnik         def.     Stephenson/Waller    64 63
+     16     Canete/Canete        def.     Guler/Irrinki        60 61
+     16     Ragona/Shiau         def. (3) Borg/Groth           16 76(7) [8]
+     16     Franco/Garza         def.     Chamoun/Spice        63 46 [8]
+     16 (2) Espinal/Nosievici    def.     Graydon/Kirchtag     63 61
   > West
-     SF  Novikova/Dunlap       vs   Stephenson/Waller    Sat @ 12:30
-     QF  Novikova/Dunlap      def.  Jancikova/Arce Viey… 63 62
-     QF  Stephenson/Waller    def.  Munday/Stralka       61 63
-     QF  Borg/Groth           def.  Guler/Irrinki        63 06 [6]
-     QF  Chamoun/Spice         vs   Graydon/Kirchtag     
+     SF (1) Novikova/Dunlap       vs      Stephenson/Waller    Sat @ 12:30
+     QF (1) Novikova/Dunlap      def.     Jancikova/Arce Viey… 63 62
+     QF     Stephenson/Waller    def.     Munday/Stralka       61 63
+     QF (3) Borg/Groth           def.     Guler/Irrinki        63 06 [6]
+     QF     Chamoun/Spice         vs      Graydon/Kirchtag     
   > North
-     SF  Jorge/Lippert         vs   Gonzalez Ramirez/Ov… Sat @ 12:30
-     SF  Ragona/Shiau          vs   Espinal/Nosievici    Sat @ 12:30
+     SF     Jorge/Lippert         vs  (4) Gonzalez Ramirez/Ov… Sat @ 12:30
+     SF     Ragona/Shiau          vs  (2) Espinal/Nosievici    Sat @ 12:30
   > South
-     SF  Jancikova/Arce Viey…  vs   Munday/Stralka       Sat @ 12:30
+     SF     Jancikova/Arce Viey…  vs      Munday/Stralka       Sat @ 12:30
  > Division III
   > East
-     SF  Gaeth/Yu              vs   Guo/Mikos            Fri @ 17:00
-     SF  Givone/Zhou           vs   Fordham/Plakk        Fri @ 17:00
-     QF  Gaeth/Yu             def.  Cornwall/Zheng       63 64
-     QF  Guo/Mikos            def.  Zhou/Markey          61 63
-     QF  Givone/Zhou          def.  Goetz/Li             64 62
-     QF  Fordham/Plakk        def.  Rigby/Christensen    26 75 [8]
-     16  Cornwall/Zheng       def.  Fatemi/Cartledge     62 36 [9]
-     16  Gaeth/Yu             def.  Castellanos Caldero… 64 63
-     16  Guo/Mikos            def.  Lee/Juan             64 61
-     16  Zhou/Markey          def.  Beshentseva/Vazquez  64 61
-     16  Givone/Zhou          def.  Landells/Roarty      36 62 [5]
-     16  Goetz/Li             def.  Franta/Henderson     61 60
-     16  Fordham/Plakk        def.  Ziehm/Kesterson      61 63
-     16  Rigby/Christensen    def.  Bruno/Lee            60 61
+     SF     Gaeth/Yu              vs  (4) Guo/Mikos            Fri @ 17:00
+     SF     Givone/Zhou           vs      Fordham/Plakk        Fri @ 17:00
+     QF     Gaeth/Yu             def. (1) Cornwall/Zheng       63 64
+     QF (4) Guo/Mikos            def.     Zhou/Markey          61 63
+     QF     Givone/Zhou          def. (3) Goetz/Li             64 62
+     QF     Fordham/Plakk        def. (2) Rigby/Christensen    26 75 [8]
+     16 (1) Cornwall/Zheng       def.     Fatemi/Cartledge     62 36 [9]
+     16     Gaeth/Yu             def.     Castellanos Caldero… 64 63
+     16 (4) Guo/Mikos            def.     Lee/Juan             64 61
+     16     Zhou/Markey          def.     Beshentseva/Vazquez  64 61
+     16     Givone/Zhou          def.     Landells/Roarty      36 62 [5]
+     16 (3) Goetz/Li             def.     Franta/Henderson     61 60
+     16     Fordham/Plakk        def.     Ziehm/Kesterson      61 63
+     16 (2) Rigby/Christensen    def.     Bruno/Lee            60 61
   > West
-     SF  Fatemi/Cartledge      vs   Lee/Juan             Fri @ 16:30
-     SF  Franta/Henderson      vs   Ziehm/Kesterson      Fri @ 17:00
-     QF  Fatemi/Cartledge     def.  Castellanos Caldero… 63 62
-     QF  Lee/Juan             def.  Beshentseva/Vazquez  63 64
-     QF  Franta/Henderson     def.  Landells/Roarty      75 62
-     QF  Ziehm/Kesterson      def.  Bruno/Lee            62 60
+     SF     Fatemi/Cartledge      vs      Lee/Juan             Fri @ 16:30
+     SF     Ziehm/Kesterson      def.     Franta/Henderson     60 60
+     QF     Fatemi/Cartledge     def.     Castellanos Caldero… 63 62
+     QF     Lee/Juan             def.     Beshentseva/Vazquez  63 64
+     QF     Franta/Henderson     def.     Landells/Roarty      75 62
+     QF     Ziehm/Kesterson      def.     Bruno/Lee            62 60
   > North
-     SF  Cornwall/Zheng        vs   Zhou/Markey          
-     SF  Goetz/Li              vs   Rigby/Christensen    Fri @ 17:00
+     SF (1) Cornwall/Zheng        vs      Zhou/Markey          
+     SF (3) Goetz/Li              vs  (2) Rigby/Christensen    Fri @ 17:00
   > South
-     SF  Castellanos Caldero…  vs   Beshentseva/Vazquez  Fri @ 17:00
-     SF  Landells/Roarty       vs   Bruno/Lee            Fri @ 17:00
+     SF     Castellanos Caldero…  vs      Beshentseva/Vazquez  Fri @ 17:00
+     SF     Landells/Roarty       vs      Bruno/Lee            Fri @ 17:00
  > Naia
   > East
-     SF  Genovese/Fernandez    vs   Pichler/Lysykh       Sat @ 15:30
-     SF  Vidanovic/Coopersmi…  vs   Quiceno/Petit        Sat @ 15:30
-     QF  Genovese/Fernandez   def.  Piccoliori/Puig Llo… 62 63
-     QF  Pichler/Lysykh       def.  Golz/Bemisderfer     26 63 [4]
-     QF  Vidanovic/Coopersmi… def.  Mendez/Dveksler      75 61
-     QF  Quiceno/Petit        def.  Teodoro De Oliveira… 61 63
-     16  Genovese/Fernandez   def.  Gilich/Fernandez     62 61
-     16  Piccoliori/Puig Llo… def.  Muhammad/Clarke      46 63 [6]
-     16  Pichler/Lysykh       def.  Carpenter/Vasquez    63 61
-     16  Golz/Bemisderfer     def.  Rinaldi/Weiland      61 64
-     16  Mendez/Dveksler      def.  Novati/Pinto         76(4) 62
-     16  Vidanovic/Coopersmi… def.  Guerrero/Isaac       61 62
-     16  Teodoro De Oliveira… def.  Zavala/Lindeboom     61 63
-     16  Quiceno/Petit        def.  Siska/Koplova        62 75
+     SF (1) Genovese/Fernandez    vs  (4) Pichler/Lysykh       Sat @ 15:30
+     SF (3) Vidanovic/Coopersmi…  vs  (2) Quiceno/Petit        Sat @ 15:30
+     QF (1) Genovese/Fernandez   def.     Piccoliori/Puig Llo… 62 63
+     QF (4) Pichler/Lysykh       def.     Golz/Bemisderfer     26 63 [4]
+     QF (3) Vidanovic/Coopersmi… def.     Mendez/Dveksler      75 61
+     QF (2) Quiceno/Petit        def.     Teodoro De Oliveira… 61 63
+     16 (1) Genovese/Fernandez   def.     Gilich/Fernandez     62 61
+     16     Piccoliori/Puig Llo… def.     Muhammad/Clarke      46 63 [6]
+     16 (4) Pichler/Lysykh       def.     Carpenter/Vasquez    63 61
+     16     Golz/Bemisderfer     def.     Rinaldi/Weiland      61 64
+     16     Mendez/Dveksler      def.     Novati/Pinto         76(4) 62
+     16 (3) Vidanovic/Coopersmi… def.     Guerrero/Isaac       61 62
+     16     Teodoro De Oliveira… def.     Zavala/Lindeboom     61 63
+     16 (2) Quiceno/Petit        def.     Siska/Koplova        62 75
   > West
-     QF  Carpenter/Vasquez    def.  Rinaldi/Weiland      67(3) 61 [6]
-     QF  Novati/Pinto         def.  Guerrero/Isaac       36 76(4) [1]
-     QF  Zavala/Lindeboom      vs   Siska/Koplova        
+     QF     Carpenter/Vasquez    def.     Rinaldi/Weiland      67(3) 61 [6]
+     QF     Novati/Pinto         def.     Guerrero/Isaac       36 76(4) [1]
+     QF     Zavala/Lindeboom      vs      Siska/Koplova        
   > North
-     SF  Piccoliori/Puig Llo…  vs   Golz/Bemisderfer     Sat @ 15:00
-     SF  Mendez/Dveksler       vs   Teodoro De Oliveira… Sat @ 15:00
+     SF     Piccoliori/Puig Llo…  vs      Golz/Bemisderfer     Sat @ 15:00
+     SF     Mendez/Dveksler       vs      Teodoro De Oliveira… Sat @ 15:00
  > Junior College
   > East
-     SF  Martins/Anzalotta     vs   Carvalho-Landell/Ga… Fri @ 16:00
-     SF  Wild/Apisah           vs   McKenzie/Cherfus     Fri @ 16:00
-     QF  Martins/Anzalotta    def.  Vossen/Proktor       60 60
-     QF  Carvalho-Landell/Ga… def.  Hernandez/Zungu      26 64 [8]
-     QF  Wild/Apisah          def.  Beukes/Chen          62 63
-     QF  McKenzie/Cherfus     def.  Warham/De Mata       62 62
+     SF (1) Martins/Anzalotta     vs      Carvalho-Landell/Ga… Fri @ 16:00
+     SF (2) McKenzie/Cherfus     def. (3) Wild/Apisah          63 76
+     QF (1) Martins/Anzalotta    def.     Vossen/Proktor       60 60
+     QF     Carvalho-Landell/Ga… def. (4) Hernandez/Zungu      26 64 [8]
+     QF (3) Wild/Apisah          def.     Beukes/Chen          62 63
+     QF (2) McKenzie/Cherfus     def.     Warham/De Mata       62 62
   > West
-     SF  Hernandez/Zungu      def.  Vossen/Proktor       61 60
-     SF  Beukes/Chen           vs   Warham/De Mata       Fri @ 16:00
+      F (4) Hernandez/Zungu       vs      Beukes/Chen          Sat @ 14:00
+     SF (4) Hernandez/Zungu      def.     Vossen/Proktor       61 60
+     SF     Beukes/Chen          def.     Warham/De Mata       76(3) 62
+  > South
+      F     Vossen/Proktor        vs      Warham/De Mata       Sat @ 14:00
 ~~~
 
 Return to the [Top](./women_doubles_2141.md) &#124; [Home Page](../../index.md)

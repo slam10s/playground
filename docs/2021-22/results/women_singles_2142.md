@@ -102,6 +102,7 @@
      32      Lahari Yelamanchili   vs  (13) Yu Fujioka           Sat @ 13:00
      32      Alexandra Mikhailuk   vs   (5) Safiya Carrington    Sat @ 13:00
      32      Alexis Lopez          vs  (16) Tamara Racine        Sat @ 13:00
+     32      Michelle Ncube        vs       Mia Rabinowitz       Sat @ 15:00
      64  (1) Emmanouela Antonaki  def.      Lucie Raquin         63 76(6)
      64      Nina Geissler        def.      Otoha Aoki           64 62
      64 (14) Ludmila Kareisova    def.      Tjasa Klevisar       63 76(5)
@@ -125,12 +126,12 @@
      64      Alexis Lopez         def.      Adela Wasserbauerova 64 26 75
      64 (16) Tamara Racine        def.      Kelsey Mize          46 60 63
      64      Luminita Tutunaru     vs       Anne Marie Hiser     Fri @ 15:00
-     64      Tanisha Kashyap       vs   (3) Carolyn Ansari       Fri @ 15:00
-     64      Michelle Ncube        vs       Ebru Zeynep Yazgan   Fri @ 15:00
-     64      Mia Rabinowitz        vs   (9) Magda Adaloglou      Fri @ 15:00
+     64  (3) Carolyn Ansari       def.      Tanisha Kashyap      61 75
+     64      Michelle Ncube       def.      Ebru Zeynep Yazgan   75 60
+     64      Mia Rabinowitz       def.  (9) Magda Adaloglou      64 64
      64      Madalina Grigoriu     vs       Rozalie Dohnalova    Fri @ 15:30
      64      Rachel Krzyzak        vs   (8) Ariana Arseneault    Fri @ 15:30
-     64      Petra Sedlackova      vs       Brianna Gomez        Fri @ 15:30
+     64      Petra Sedlackova     def.      Brianna Gomez        61 62
      64      Mackenzie White       vs  (12) Mackenzie Clark      Fri @ 15:30
      64      Lara van der Merwe    vs       Samanth Nanere       Fri @ 15:30
      64      Leonie Schuknecht     vs   (2) Sabina Machalova     Fri @ 15:30
@@ -148,12 +149,21 @@
      64      Thitirat Kanaphuet   def.      Jimena Garbino       61 75
  > Consolation - Friday
   > Main
-     64      Adelaide Lavery       vs       Sofia Zaprianov      Fri @ 12:00
-     64      Charlotte Russell     vs       Clara Tardivel       Fri @ 12:00
-     64      Milka Pasanen         vs       Oleksandra Balaba    Fri @ 12:00
-     64      Carla Urchoeguia      vs       Ilana Tetruashvili   Fri @ 12:00
-     64      Ally Hayduk           vs       Viktorie Wojcikova   Fri @ 12:00
-     64      Jimena Garbino        vs       Caraline Scheufler   Fri @ 12:00
+     64      Sofia Zaprianov      def.      Adelaide Lavery      76(4) 76(6)
+     64      Charlotte Russell    def.      Clara Tardivel       64 60
+     64      Oleksandra Balaba    def.      Milka Pasanen        60 64
+     64      Carla Urchoeguia     def.      Ilana Tetruashvili   60 61
+     64      Viktorie Wojcikova   def.      Ally Hayduk          16 75 [5]
+     64      Caraline Scheufler   def.      Jimena Garbino       64 67(3) [9]
+     64      Kristina Kukaras     def.      Natalia Mora Ballo   63 75
+     64      Veronica Rodriguez   def.      Shaye Longwell       62 63
+     64      Daniela Hernandez    def.      Alexia Romero        64 75
+     64      Giovanna Pereira     def.      Ella Tuomela         62 16 [5]
+     64      Jiayun Zhu           def.      Anna Syrova          36 62 [4]
+     64      Olga Bienzobas       def.      Andrea Widing        62 62
+     64      Thitirat Kanaphuet   def.      Aizat Zholdakayeva   61 63
+     64      Ansley Cheshire      def.      Matilde Mulatero     63 46 [4]
+     64      Ayu Ishibashi        def.      Yukina Abe           60 60
  > Qualifier
   > Main
      16      Mariella Minetti     def.      Ana Rodrigues        61 63
@@ -268,6 +278,8 @@
       16  (9) Alicia Herrero Lina…  vs   (7) Jackie Nylander      Sat @ 10:30
       16      Liisa Vehvilainen     vs  (14) Malaika Rapolu       Sat @ 10:30
       16 (11) Mary Stoiana          vs   (3) Charlotte Chavatipon Sat @ 10:30
+      16 (10) Hadley Doyle          vs   (5) Kylie Collns         Sat @ 10:30
+      16      Jasmin Adams          vs   (2) Melany Krywoj        Sat @ 10:30
       32  (1) Tatiana Makarova     def.      Nicole Petchey       64 64
       32      Bojana Marinkov      def. (15) Alison Zipoli        63 57 [8]
       32  (9) Alicia Herrero Lina… def.      Aleksandra Zlatarova 76(3) 62
@@ -279,11 +291,11 @@
       32  (4) Margarita Skriabina  def.      Tara Gorinsek        61 61
       32      Lana Mavor            vs  (13) Gianna Pielet        Fri @ 15:00
       32 (10) Hadley Doyle         def.      Cristina Tiglea      63 60
-      32      Ana Carmen Zamburek   vs   (5) Kylie Collns         Fri @ 15:00
+      32  (5) Kylie Collns         def.      Ana Carmen Zamburek  63 62
       32  (8) Jayci Goldsmith       vs       Kailey Evans         Fri @ 15:00
-      32      Liz Chileno           vs       Hana Kvapilova       Fri @ 15:00
-      32      Diae El Jardi         vs       Jasmin Adams         Fri @ 15:00
-      32      Laura Slisane         vs   (2) Melany Krywoj        Fri @ 15:00
+      32      Hana Kvapilova       def.      Liz Chileno          63 63
+      32      Jasmin Adams         def.      Diae El Jardi        63 26 [7]
+      32  (2) Melany Krywoj        def.      Laura Slisane        61 63
       64  (1) Tatiana Makarova     def.      Azul Pedemonti       62 61
       64      Nicole Petchey       def.      Bella Zamarripa      64 63
       64      Bojana Marinkov      def.      Momoka Horiguchi     64 64
@@ -322,6 +334,9 @@
       16      Katherine Jakeway     vs       Olivia Peet          Sat @ 10:30
       16      Anastasia Smirnova    vs       Sarina Reinertsen    Sat @ 10:30
       16      Lucy Furness          vs       Saara Orav           Sat @ 10:30
+      16      Gabriela Giraldo      vs       Ana Paula Jimenez    Sat @ 10:30
+      16      Victoria Smirnova     vs       Maryjoe Crisologo    Sat @ 10:30
+      16      Tomi Main             vs       Lauren Fulgenzi      Sat @ 10:30
      32Q      Bella Zamarripa      def.      Azul Pedemonti       75 36 [7]
      32Q      Camille Townsend     def.      Momoka Horiguchi     64 46 [2]
      32Q      Nyah Kauders         def.      Ioana Dumitrescu     63 60
@@ -332,12 +347,12 @@
      32Q      Sarina Reinertsen    def.      Megan Basson         63 62
      32Q      Lucy Furness         def.      Stevie Kennedy       Walkover
      32Q      Saara Orav           def.      Emma Aucagne         Walkover
-     32Q      Maria Ponomareva      vs       Gabriela Giraldo     Fri @ 15:00
+     32Q      Gabriela Giraldo     def.      Maria Ponomareva     64 60
      32Q      Ana Paula Jimenez    def.      Deniza Marcinkevica  61 61
-     32Q      Lucie Devier          vs       Victoria Smirnova    Fri @ 15:00
+     32Q      Victoria Smirnova    def.      Lucie Devier         64 57 [9]
      32Q      Maryjoe Crisologo    def.      Lexi Keberle         Walkover
      32Q      Tomi Main            def. (16) Allura Zamarripa     Walkover
-     32Q      Carla Pons            vs       Lauren Fulgenzi      Fri @ 15:00
+     32Q      Lauren Fulgenzi      def.      Carla Pons           46 64 [7]
 ~~~
 
 Return to the [Top](./women_singles_2142.md) &#124; [Home Page](../../index.md)

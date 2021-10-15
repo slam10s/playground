@@ -165,6 +165,7 @@
      32      Lahari Yelamanchili   vs  (13) Yu Fujioka           Sat @ 13:00
      32      Alexandra Mikhailuk   vs   (5) Safiya Carrington    Sat @ 13:00
      32      Alexis Lopez          vs  (16) Tamara Racine        Sat @ 13:00
+     32      Michelle Ncube        vs       Mia Rabinowitz       Sat @ 15:00
      64  (1) Emmanouela Antonaki  def.      Lucie Raquin         63 76(6)
      64      Nina Geissler        def.      Otoha Aoki           64 62
      64 (14) Ludmila Kareisova    def.      Tjasa Klevisar       63 76(5)
@@ -188,12 +189,12 @@
      64      Alexis Lopez         def.      Adela Wasserbauerova 64 26 75
      64 (16) Tamara Racine        def.      Kelsey Mize          46 60 63
      64      Luminita Tutunaru     vs       Anne Marie Hiser     Fri @ 15:00
-     64      Tanisha Kashyap       vs   (3) Carolyn Ansari       Fri @ 15:00
-     64      Michelle Ncube        vs       Ebru Zeynep Yazgan   Fri @ 15:00
-     64      Mia Rabinowitz        vs   (9) Magda Adaloglou      Fri @ 15:00
+     64  (3) Carolyn Ansari       def.      Tanisha Kashyap      61 75
+     64      Michelle Ncube       def.      Ebru Zeynep Yazgan   75 60
+     64      Mia Rabinowitz       def.  (9) Magda Adaloglou      64 64
      64      Madalina Grigoriu     vs       Rozalie Dohnalova    Fri @ 15:30
      64      Rachel Krzyzak        vs   (8) Ariana Arseneault    Fri @ 15:30
-     64      Petra Sedlackova      vs       Brianna Gomez        Fri @ 15:30
+     64      Petra Sedlackova     def.      Brianna Gomez        61 62
      64      Mackenzie White       vs  (12) Mackenzie Clark      Fri @ 15:30
      64      Lara van der Merwe    vs       Samanth Nanere       Fri @ 15:30
      64      Leonie Schuknecht     vs   (2) Sabina Machalova     Fri @ 15:30
@@ -211,12 +212,21 @@
      64      Thitirat Kanaphuet   def.      Jimena Garbino       61 75
  > Consolation - Friday
   > Main
-     64      Adelaide Lavery       vs       Sofia Zaprianov      Fri @ 12:00
-     64      Charlotte Russell     vs       Clara Tardivel       Fri @ 12:00
-     64      Milka Pasanen         vs       Oleksandra Balaba    Fri @ 12:00
-     64      Carla Urchoeguia      vs       Ilana Tetruashvili   Fri @ 12:00
-     64      Ally Hayduk           vs       Viktorie Wojcikova   Fri @ 12:00
-     64      Jimena Garbino        vs       Caraline Scheufler   Fri @ 12:00
+     64      Sofia Zaprianov      def.      Adelaide Lavery      76(4) 76(6)
+     64      Charlotte Russell    def.      Clara Tardivel       64 60
+     64      Oleksandra Balaba    def.      Milka Pasanen        60 64
+     64      Carla Urchoeguia     def.      Ilana Tetruashvili   60 61
+     64      Viktorie Wojcikova   def.      Ally Hayduk          16 75 [5]
+     64      Caraline Scheufler   def.      Jimena Garbino       64 67(3) [9]
+     64      Kristina Kukaras     def.      Natalia Mora Ballo   63 75
+     64      Veronica Rodriguez   def.      Shaye Longwell       62 63
+     64      Daniela Hernandez    def.      Alexia Romero        64 75
+     64      Giovanna Pereira     def.      Ella Tuomela         62 16 [5]
+     64      Jiayun Zhu           def.      Anna Syrova          36 62 [4]
+     64      Olga Bienzobas       def.      Andrea Widing        62 62
+     64      Thitirat Kanaphuet   def.      Aizat Zholdakayeva   61 63
+     64      Ansley Cheshire      def.      Matilde Mulatero     63 46 [4]
+     64      Ayu Ishibashi        def.      Yukina Abe           60 60
  > Qualifier
   > Main
      16      Mariella Minetti     def.      Ana Rodrigues        61 63
@@ -331,6 +341,8 @@
       16  (9) Alicia Herrero Lina…  vs   (7) Jackie Nylander      Sat @ 10:30
       16      Liisa Vehvilainen     vs  (14) Malaika Rapolu       Sat @ 10:30
       16 (11) Mary Stoiana          vs   (3) Charlotte Chavatipon Sat @ 10:30
+      16 (10) Hadley Doyle          vs   (5) Kylie Collns         Sat @ 10:30
+      16      Jasmin Adams          vs   (2) Melany Krywoj        Sat @ 10:30
       32  (1) Tatiana Makarova     def.      Nicole Petchey       64 64
       32      Bojana Marinkov      def. (15) Alison Zipoli        63 57 [8]
       32  (9) Alicia Herrero Lina… def.      Aleksandra Zlatarova 76(3) 62
@@ -342,11 +354,11 @@
       32  (4) Margarita Skriabina  def.      Tara Gorinsek        61 61
       32      Lana Mavor            vs  (13) Gianna Pielet        Fri @ 15:00
       32 (10) Hadley Doyle         def.      Cristina Tiglea      63 60
-      32      Ana Carmen Zamburek   vs   (5) Kylie Collns         Fri @ 15:00
+      32  (5) Kylie Collns         def.      Ana Carmen Zamburek  63 62
       32  (8) Jayci Goldsmith       vs       Kailey Evans         Fri @ 15:00
-      32      Liz Chileno           vs       Hana Kvapilova       Fri @ 15:00
-      32      Diae El Jardi         vs       Jasmin Adams         Fri @ 15:00
-      32      Laura Slisane         vs   (2) Melany Krywoj        Fri @ 15:00
+      32      Hana Kvapilova       def.      Liz Chileno          63 63
+      32      Jasmin Adams         def.      Diae El Jardi        63 26 [7]
+      32  (2) Melany Krywoj        def.      Laura Slisane        61 63
       64  (1) Tatiana Makarova     def.      Azul Pedemonti       62 61
       64      Nicole Petchey       def.      Bella Zamarripa      64 63
       64      Bojana Marinkov      def.      Momoka Horiguchi     64 64
@@ -385,6 +397,9 @@
       16      Katherine Jakeway     vs       Olivia Peet          Sat @ 10:30
       16      Anastasia Smirnova    vs       Sarina Reinertsen    Sat @ 10:30
       16      Lucy Furness          vs       Saara Orav           Sat @ 10:30
+      16      Gabriela Giraldo      vs       Ana Paula Jimenez    Sat @ 10:30
+      16      Victoria Smirnova     vs       Maryjoe Crisologo    Sat @ 10:30
+      16      Tomi Main             vs       Lauren Fulgenzi      Sat @ 10:30
      32Q      Bella Zamarripa      def.      Azul Pedemonti       75 36 [7]
      32Q      Camille Townsend     def.      Momoka Horiguchi     64 46 [2]
      32Q      Nyah Kauders         def.      Ioana Dumitrescu     63 60
@@ -395,12 +410,12 @@
      32Q      Sarina Reinertsen    def.      Megan Basson         63 62
      32Q      Lucy Furness         def.      Stevie Kennedy       Walkover
      32Q      Saara Orav           def.      Emma Aucagne         Walkover
-     32Q      Maria Ponomareva      vs       Gabriela Giraldo     Fri @ 15:00
+     32Q      Gabriela Giraldo     def.      Maria Ponomareva     64 60
      32Q      Ana Paula Jimenez    def.      Deniza Marcinkevica  61 61
-     32Q      Lucie Devier          vs       Victoria Smirnova    Fri @ 15:00
+     32Q      Victoria Smirnova    def.      Lucie Devier         64 57 [9]
      32Q      Maryjoe Crisologo    def.      Lexi Keberle         Walkover
      32Q      Tomi Main            def. (16) Allura Zamarripa     Walkover
-     32Q      Carla Pons            vs       Lauren Fulgenzi      Fri @ 15:00
+     32Q      Lauren Fulgenzi      def.      Carla Pons           46 64 [7]
 ~~~
 
 <a name="21-82907"></a>
@@ -435,216 +450,216 @@
 
 <a name="21-35590"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
   American Rivers Conference Women's Individual Tournament
   Dates: Oct 15-16, 2021
   Host: ITA
-═════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Flight A
   > Main
-     QF  Bronwyn Metcalf      def.  Madison Schultz      36 75 [5]
-     QF  Renata Martinez      def.  Anna Wanek           62 64
-     QF  Shelby Cook          def.  Emily King           63 64
-     QF  Meadow LaDuke        def.  Brooke Sailer        63 76(4)
-     16  Madison Schultz      def.  Isabel Schwabe       76(7) 75
-     16  Bronwyn Metcalf      def.  Nicole Lange         61 64
-     16  Anna Wanek           def.  Jania Carter-Johnson 61 60
-     16  Renata Martinez      def.  Natalia Smith        64 62
-     16  Emily King           def.  Sofia Sackett        63 64
-     16  Shelby Cook          def.  Lauren Diiulio       61 62
-     16  Meadow LaDuke        def.  Kylie Dunning        62 46 [11]
-     16  Brooke Sailer        def.  Ana Olimpio          61 62
-     32  Isabel Schwabe       def.  Bruna Costa          60 64
-     32  Bronwyn Metcalf      def.  Eliza Sundermann     57 62 [2]
-     32  Nicole Lange         def.  Kiley Nolan          Walkover
-     32  Jania Carter-Johnson def.  Montserrat Ramirez … 46 64 [9]
-     32  Renata Martinez      def.  Natalie Kaiser       60 60
-     32  Sofia Sackett        def.  Alyssa Lewton        61 63
-     32  Emily King           def.  Riley O Donnell      63 61
-     32  Lauren Diiulio       def.  Emma Lassen          76(6) 76(4)
-     32  Kylie Dunning        def.  Claudia Bilkey       63 61
-     32  Meadow LaDuke        def.  Lexi Hastings        67(5) 60 [5]
-     32  Ana Olimpio          def.  Maddie Hartley       64 62
+     QF (7) Bronwyn Metcalf      def. (1) Madison Schultz      36 75 [5]
+     QF     Renata Martinez      def. (4) Anna Wanek           62 64
+     QF (3) Shelby Cook          def. (6) Emily King           63 64
+     QF (8) Meadow LaDuke        def. (2) Brooke Sailer        63 76(4)
+     16 (1) Madison Schultz      def.     Isabel Schwabe       76(7) 75
+     16 (7) Bronwyn Metcalf      def.     Nicole Lange         61 64
+     16 (4) Anna Wanek           def.     Jania Carter-Johnson 61 60
+     16     Renata Martinez      def. (5) Natalia Smith        64 62
+     16 (6) Emily King           def.     Sofia Sackett        63 64
+     16 (3) Shelby Cook          def.     Lauren Diiulio       61 62
+     16 (8) Meadow LaDuke        def.     Kylie Dunning        62 46 [11]
+     16 (2) Brooke Sailer        def.     Ana Olimpio          61 62
+     32     Isabel Schwabe       def.     Bruna Costa          60 64
+     32 (7) Bronwyn Metcalf      def.     Eliza Sundermann     57 62 [2]
+     32     Nicole Lange         def.     Kiley Nolan          Walkover
+     32     Jania Carter-Johnson def.     Montserrat Ramirez … 46 64 [9]
+     32     Renata Martinez      def.     Natalie Kaiser       60 60
+     32     Sofia Sackett        def.     Alyssa Lewton        61 63
+     32 (6) Emily King           def.     Riley O Donnell      63 61
+     32     Lauren Diiulio       def.     Emma Lassen          76(6) 76(4)
+     32     Kylie Dunning        def.     Claudia Bilkey       63 61
+     32 (8) Meadow LaDuke        def.     Lexi Hastings        67(5) 60 [5]
+     32     Ana Olimpio          def.     Maddie Hartley       64 62
  > Flight B
   > Main
-     QF  Sara Backus          def.  Chihiro Ono          62 06 [4]
-     QF  Sydney Clausen       def.  Alexis McGinnis      63 62
-     QF  Clair Moore          def.  Katie Larson         62 62
-     QF  Jalen DenHartog      def.  Georgia Nissen       63 75
-     16  Chihiro Ono          def.  Ella Ford            75 61
-     16  Sara Backus          def.  Cassandra Magee      62 62
-     16  Alexis McGinnis      def.  Megan Grimm          63 63
-     16  Sydney Clausen       def.  Jaden Fuqua          63 64
-     16  Katie Larson         def.  Kennedi Wright       64 63
-     16  Clair Moore          def.  Gabby Flynn          61 64
-     16  Georgia Nissen       def.  Donni Kinghorn       62 60
-     16  Jalen DenHartog      def.  Crystal Craft        26 64 [9]
-     32  Chihiro Ono          def.  Brianna Lindstrom    86
-     32  Sara Backus          def.  Michaela Pinto       83
-     32  Cassandra Magee      def.  Bella Tranquilino    83
-     32  Alexis McGinnis      def.  Sarah Schirm         84
-     32  Sydney Clausen       def.  Alyssa Stevenson     82
-     32  Jaden Fuqua          def.  Kailey Jay-Kissler   81
-     32  Kennedi Wright       def.  Lauren Colon         84
-     32  Katie Larson         def.  Emily Rubbelke       82
-     32  Gabby Flynn          def.  Angelina Guevara     83
-     32  Clair Moore          def.  Addi Duranski        85
-     32  Donni Kinghorn       def.  Luna van Tol         86
-     32  Georgia Nissen       def.  Janie Lapray         86
-     32  Jalen DenHartog      def.  Alli Kreider         85
-     32  Crystal Craft        def.  Dorothy Deans        82
+     QF (7) Sara Backus          def.     Chihiro Ono          62 06 [4]
+     QF     Sydney Clausen       def. (4) Alexis McGinnis      63 62
+     QF (3) Clair Moore          def. (6) Katie Larson         62 62
+     QF     Jalen DenHartog      def. (8) Georgia Nissen       63 75
+     16     Chihiro Ono          def. (1) Ella Ford            75 61
+     16 (7) Sara Backus          def.     Cassandra Magee      62 62
+     16 (4) Alexis McGinnis      def.     Megan Grimm          63 63
+     16     Sydney Clausen       def.     Jaden Fuqua          63 64
+     16 (6) Katie Larson         def.     Kennedi Wright       64 63
+     16 (3) Clair Moore          def.     Gabby Flynn          61 64
+     16 (8) Georgia Nissen       def.     Donni Kinghorn       62 60
+     16     Jalen DenHartog      def. (2) Crystal Craft        26 64 [9]
+     32     Chihiro Ono          def.     Brianna Lindstrom    86
+     32 (7) Sara Backus          def.     Michaela Pinto       83
+     32     Cassandra Magee      def.     Bella Tranquilino    83
+     32 (4) Alexis McGinnis      def.     Sarah Schirm         84
+     32     Sydney Clausen       def. (5) Alyssa Stevenson     82
+     32     Jaden Fuqua          def.     Kailey Jay-Kissler   81
+     32     Kennedi Wright       def.     Lauren Colon         84
+     32 (6) Katie Larson         def.     Emily Rubbelke       82
+     32     Gabby Flynn          def.     Angelina Guevara     83
+     32 (3) Clair Moore          def.     Addi Duranski        85
+     32     Donni Kinghorn       def.     Luna van Tol         86
+     32 (8) Georgia Nissen       def.     Janie Lapray         86
+     32     Jalen DenHartog      def.     Alli Kreider         85
+     32 (2) Crystal Craft        def.     Dorothy Deans        82
  > Flight C
   > Main
-     QF  Jennifer Larson      def.  Alex Oestreich       82
-     QF  Sydney Stout         def.  Lexie Bruns          81
-     QF  Linnea Wolle         def.  Natalie Neff         85
-     QF  Macy Scharff         def.  Madison Sampson -br… 81
-     16  Jennifer Larson      def.  Solvei Christophers… 83
-     16  Alex Oestreich       def.  Ashlyn Brant         84
-     16  Sydney Stout         def.  Jessica Lambo        84
-     16  Lexie Bruns          def.  Carley Rubenking     87(6)
-     16  Linnea Wolle         def.  Karsyn Stalzer       85
-     16  Natalie Neff         def.  Maddie Holle         81
-     16  Macy Scharff         def.  Maura Kapala         82
-     16  Madison Sampson -br… def.  Natalie Peterson     86
-     32  Jennifer Larson      def.  Anna Schewe          82
-     32  Solvei Christophers… def.  Susi Phung           84
-     32  Alex Oestreich       def.  Raina Fagans         81
-     32  Ashlyn Brant         def.  Madison McGaffin     81
-     32  Sydney Stout         def.  Kalina Schubert      81
-     32  Jessica Lambo        def.  Brittany Ramirez     81
-     32  Lexie Bruns          def.  Jackie Wells         81
-     32  Carley Rubenking     def.  Jordyn Cory          87(6)
-     32  Linnea Wolle         def.  Patient Jabbah       84
-     32  Karsyn Stalzer       def.  Molly Monson         87(3)
-     32  Maddie Holle         def.  Abigail Mau          82
-     32  Natalie Neff         def.  Gracie O Donnell     86
-     32  Macy Scharff         def.  Nicole Cerio         82
-     32  Maura Kapala         def.  Regina Kadima        80
-     32  Natalie Peterson     def.  Bailey Sinnwell      85
-     32  Madison Sampson -br… def.  Abigail King         80
-     64  Jennifer Larson      def.  Reese Gottman        82
-     64  Raina Fagans         def.  Santa Roman          81
-     64  Sydney Stout         def.  Ava Johnson          81
-     64  Jackie Wells         def.  Laramie OSullivan    84
-     64  Maddie Holle         def.  Gabrielle Kardell    85
-     64  Nicole Cerio         def.  Amy Whitcomb         82
-     64  Natalie Peterson     def.  Abbie DenAdel        86
+     QF     Jennifer Larson      def.     Alex Oestreich       82
+     QF     Sydney Stout         def.     Lexie Bruns          81
+     QF     Linnea Wolle         def.     Natalie Neff         85
+     QF     Macy Scharff         def.     Madison Sampson -br… 81
+     16     Jennifer Larson      def.     Solvei Christophers… 83
+     16     Alex Oestreich       def.     Ashlyn Brant         84
+     16     Sydney Stout         def.     Jessica Lambo        84
+     16     Lexie Bruns          def.     Carley Rubenking     87(6)
+     16     Linnea Wolle         def.     Karsyn Stalzer       85
+     16     Natalie Neff         def.     Maddie Holle         81
+     16     Macy Scharff         def.     Maura Kapala         82
+     16     Madison Sampson -br… def.     Natalie Peterson     86
+     32     Jennifer Larson      def.     Anna Schewe          82
+     32     Solvei Christophers… def.     Susi Phung           84
+     32     Alex Oestreich       def.     Raina Fagans         81
+     32     Ashlyn Brant         def.     Madison McGaffin     81
+     32     Sydney Stout         def.     Kalina Schubert      81
+     32     Jessica Lambo        def.     Brittany Ramirez     81
+     32     Lexie Bruns          def.     Jackie Wells         81
+     32     Carley Rubenking     def.     Jordyn Cory          87(6)
+     32     Linnea Wolle         def.     Patient Jabbah       84
+     32     Karsyn Stalzer       def.     Molly Monson         87(3)
+     32     Maddie Holle         def.     Abigail Mau          82
+     32     Natalie Neff         def.     Gracie O Donnell     86
+     32     Macy Scharff         def.     Nicole Cerio         82
+     32     Maura Kapala         def.     Regina Kadima        80
+     32     Natalie Peterson     def.     Bailey Sinnwell      85
+     32     Madison Sampson -br… def.     Abigail King         80
+     64     Jennifer Larson      def.     Reese Gottman        82
+     64     Raina Fagans         def.     Santa Roman          81
+     64     Sydney Stout         def.     Ava Johnson          81
+     64     Jackie Wells         def.     Laramie OSullivan    84
+     64     Maddie Holle         def.     Gabrielle Kardell    85
+     64     Nicole Cerio         def.     Amy Whitcomb         82
+     64     Natalie Peterson     def.     Abbie DenAdel        86
 ~~~
 
 <a name="21-00186"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
   ITA Cup
   Dates: Oct 14-17, 2021
   Host: ITA
-═════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Naia
   > East
-     SF  Nicole Coopersmith    vs   Eva Siska            Sat @ 11:00
-     SF  Selina Pichler        vs   Stephanie Petit      Sat @ 11:00
-     QF  Nicole Coopersmith   def.  Iryna Lysykh         62 62
-     QF  Eva Siska            def.  Tsvetanka Trifonova  62 61
-     QF  Selina Pichler       def.  Teodora Jovic        62 63
-     QF  Stephanie Petit      def.  Angela Rinaldi       63 61
-     16  Nicole Coopersmith   def.  Valerie Quiceno      63 60
-     16  Iryna Lysykh         def.  Aisha Niyonkuru      76(6) 64
-     16  Eva Siska            def.  Ana Zavala           64 61
-     16  Tsvetanka Trifonova  def.  Renee Acena          62 61
-     16  Selina Pichler       def.  Vanja Vidanovic      61 61
-     16  Teodora Jovic        def.  Yue Yu               63 64
-     16  Angela Rinaldi       def.  Maddie Bemisderfer   46 63 76(7)
-     16  Stephanie Petit      def.  Kyra Akinnibi        61 76(3)
+     SF (1) Nicole Coopersmith    vs  (4) Eva Siska            Sat @ 11:00
+     SF     Selina Pichler        vs  (2) Stephanie Petit      Sat @ 11:00
+     QF (1) Nicole Coopersmith   def.     Iryna Lysykh         62 62
+     QF (4) Eva Siska            def.     Tsvetanka Trifonova  62 61
+     QF     Selina Pichler       def. (3) Teodora Jovic        62 63
+     QF (2) Stephanie Petit      def.     Angela Rinaldi       63 61
+     16 (1) Nicole Coopersmith   def.     Valerie Quiceno      63 60
+     16     Iryna Lysykh         def.     Aisha Niyonkuru      76(6) 64
+     16 (4) Eva Siska            def.     Ana Zavala           64 61
+     16     Tsvetanka Trifonova  def.     Renee Acena          62 61
+     16     Selina Pichler       def.     Vanja Vidanovic      61 61
+     16 (3) Teodora Jovic        def.     Yue Yu               63 64
+     16     Angela Rinaldi       def.     Maddie Bemisderfer   46 63 76(7)
+     16 (2) Stephanie Petit      def.     Kyra Akinnibi        61 76(3)
   > West
-     SF  Valerie Quiceno       vs   Ana Zavala           Sat @ 09:00
-     SF  Yue Yu                vs   Maddie Bemisderfer   Sat @ 09:00
-     QF  Valerie Quiceno      def.  Aisha Niyonkuru      63 61
-     QF  Ana Zavala           def.  Renee Acena          64 76(2)
-     QF  Yue Yu               def.  Vanja Vidanovic      61 75
-     QF  Maddie Bemisderfer   def.  Aurora Novati        64 63
+     SF     Valerie Quiceno       vs      Ana Zavala           Sat @ 09:00
+     SF     Yue Yu                vs      Maddie Bemisderfer   Sat @ 09:00
+     QF     Valerie Quiceno      def.     Aisha Niyonkuru      63 61
+     QF     Ana Zavala           def.     Renee Acena          64 76(2)
+     QF     Yue Yu               def.     Vanja Vidanovic      61 75
+     QF     Maddie Bemisderfer   def.     Aurora Novati        64 63
   > North
-     SF  Iryna Lysykh          vs   Tsvetanka Trifonova  Sat @ 10:00
-     SF  Teodora Jovic         vs   Angela Rinaldi       Sat @ 10:00
+     SF     Iryna Lysykh          vs      Tsvetanka Trifonova  Sat @ 10:00
+     SF (3) Teodora Jovic         vs      Angela Rinaldi       Sat @ 10:00
   > South
-     SF  Aisha Niyonkuru       vs   Renee Acena          Sat @ 10:30
-     SF  Vanja Vidanovic       vs   Aurora Novati        Sat @ 10:30
+     SF     Aisha Niyonkuru       vs      Renee Acena          Sat @ 10:30
+     SF     Vanja Vidanovic       vs      Aurora Novati        Sat @ 10:30
  > Division II
   > East
-     SF  Deniz Khazan          vs   Ana Carla Resende    Sat @ 09:00
-     SF  Eleonora Liga         vs   Mae Canete           Sat @ 09:00
-     QF  Deniz Khazan         def.  Christine Canete     63 63
-     QF  Ana Carla Resende    def.  Anna Novikova        64 61
-     QF  Eleonora Liga        def.  Adel Abidulina       64 46 76(5)
-     QF  Mae Canete           def.  Maria Garcia         60 61
-     16  Deniz Khazan         def.  Natalie Espinal      75 75
-     16  Christine Canete     def.  Ashley Penshorn      75 63
-     16  Anna Novikova        def.  Karolin Kirchtag     61 62
-     16  Ana Carla Resende    def.  Taylor Leslie        75 61
-     16  Eleonora Liga        def.  Raquel Amaro         62 46 61
-     16  Adel Abidulina       def.  Natalie Kallmunzero… 62 62
-     16  Maria Garcia         def.  Isabella Dunlap      64 46 62
-     16  Mae Canete           def.  Luisa Hrda           75 62
+     SF (1) Deniz Khazan          vs      Ana Carla Resende    Sat @ 09:00
+     SF     Eleonora Liga         vs  (2) Mae Canete           Sat @ 09:00
+     QF (1) Deniz Khazan         def.     Christine Canete     63 63
+     QF     Ana Carla Resende    def. (4) Anna Novikova        64 61
+     QF     Eleonora Liga        def. (3) Adel Abidulina       64 46 76(5)
+     QF (2) Mae Canete           def.     Maria Garcia         60 61
+     16 (1) Deniz Khazan         def.     Natalie Espinal      75 75
+     16     Christine Canete     def.     Ashley Penshorn      75 63
+     16 (4) Anna Novikova        def.     Karolin Kirchtag     61 62
+     16     Ana Carla Resende    def.     Taylor Leslie        75 61
+     16     Eleonora Liga        def.     Raquel Amaro         62 46 61
+     16 (3) Adel Abidulina       def.     Natalie Kallmunzero… 62 62
+     16     Maria Garcia         def.     Isabella Dunlap      64 46 62
+     16 (2) Mae Canete           def.     Luisa Hrda           75 62
   > West
-     SF  Ashley Penshorn       vs   Karolin Kirchtag     Sat @ 09:00
-     SF  Natalie Kallmunzero…  vs   Luisa Hrda           Sat @ 09:00
-     QF  Ashley Penshorn      def.  Sofia Ragona         46 63 63
-     QF  Karolin Kirchtag     def.  Taylor Leslie        75 64
-     QF  Natalie Kallmunzero… def.  Raquel Amaro         62 61
-     QF  Luisa Hrda           def.  Isabella Dunlap      26 64 62
+     SF     Ashley Penshorn       vs      Karolin Kirchtag     Sat @ 09:00
+     SF     Natalie Kallmunzero…  vs      Luisa Hrda           Sat @ 09:00
+     QF     Ashley Penshorn      def.     Sofia Ragona         46 63 63
+     QF     Karolin Kirchtag     def.     Taylor Leslie        75 64
+     QF     Natalie Kallmunzero… def.     Raquel Amaro         62 61
+     QF     Luisa Hrda           def.     Isabella Dunlap      26 64 62
   > North
-     SF  Christine Canete      vs   Anna Novikova        Sat @ 09:00
-     SF  Adel Abidulina        vs   Maria Garcia         Sat @ 09:00
+     SF     Christine Canete      vs  (4) Anna Novikova        Sat @ 09:00
+     SF (3) Adel Abidulina        vs      Maria Garcia         Sat @ 09:00
   > South
-     SF  Sofia Ragona          vs   Taylor Leslie        Sat @ 09:00
+     SF     Sofia Ragona          vs      Taylor Leslie        Sat @ 09:00
  > Division III
   > East
-      F  Sahana Raman          vs   Eliza McPherron      Sat @ 11:00
-     SF  Sahana Raman         def.  Carol Plakk          Walkover
-     SF  Eliza McPherron      def.  Nina Ye              62 36 63
-     QF  Sahana Raman         def.  Mary Hose            75 62
-     QF  Carol Plakk          def.  Angie Zhou           57 63 75
-     QF  Nina Ye              def.  Dakota Fordham       63 36 61
-     QF  Eliza McPherron      def.  Gabi Moss            46 61 60
-     16  Sahana Raman         def.  Kristal Dule         46 62 62
-     16  Mary Hose            def.  Angel Le             63 36 62
-     16  Angie Zhou           def.  Sylwia Mikos         63 62
-     16  Carol Plakk          def.  Sabrina Tang         61 62
-     16  Nina Ye              def.  Suzuka Nishino       75 63
-     16  Dakota Fordham       def.  Jamilah Karah        62 63
-     16  Gabi Moss            def.  Miranda Yuan         75 62
-     16  Eliza McPherron      def.  Crystal Zhou         76 60
+      F (1) Sahana Raman          vs  (2) Eliza McPherron      Sat @ 11:00
+     SF (1) Sahana Raman         def.     Carol Plakk          Walkover
+     SF (2) Eliza McPherron      def.     Nina Ye              62 36 63
+     QF (1) Sahana Raman         def.     Mary Hose            75 62
+     QF     Carol Plakk          def.     Angie Zhou           57 63 75
+     QF     Nina Ye              def. (3) Dakota Fordham       63 36 61
+     QF (2) Eliza McPherron      def.     Gabi Moss            46 61 60
+     16 (1) Sahana Raman         def.     Kristal Dule         46 62 62
+     16     Mary Hose            def.     Angel Le             63 36 62
+     16     Angie Zhou           def. (4) Sylwia Mikos         63 62
+     16     Carol Plakk          def.     Sabrina Tang         61 62
+     16     Nina Ye              def.     Suzuka Nishino       75 63
+     16 (3) Dakota Fordham       def.     Jamilah Karah        62 63
+     16     Gabi Moss            def.     Miranda Yuan         75 62
+     16 (2) Eliza McPherron      def.     Crystal Zhou         76 60
   > West
-     SF  Kristal Dule         def.  Sylwia Mikos         76(6) 36 64
-     SF  Suzuka Nishino       def.  Crystal Zhou         63 63
-     QF  Kristal Dule         def.  Angel Le             16 64 40 Ret.
-     QF  Sylwia Mikos         def.  Sabrina Tang         60 63
-     QF  Suzuka Nishino       def.  Jamilah Karah        63 57 63
-     QF  Crystal Zhou         def.  Miranda Yuan         63 62
+     SF     Kristal Dule         def. (4) Sylwia Mikos         76(6) 36 64
+     SF     Suzuka Nishino       def.     Crystal Zhou         63 63
+     QF     Kristal Dule         def.     Angel Le             16 64 40 Ret.
+     QF (4) Sylwia Mikos         def.     Sabrina Tang         60 63
+     QF     Suzuka Nishino       def.     Jamilah Karah        63 57 63
+     QF     Crystal Zhou         def.     Miranda Yuan         63 62
   > North
-     SF  Angie Zhou           def.  Mary Hose            60 61
-     SF  Dakota Fordham       def.  Gabi Moss            60 62
+     SF     Angie Zhou           def.     Mary Hose            60 61
+     SF (3) Dakota Fordham       def.     Gabi Moss            60 62
   > South
-     SF  Angel Le              vs   Sabrina Tang         
-     SF  Miranda Yuan         def.  Jamilah Karah        62 46 61
+     SF     Angel Le              vs      Sabrina Tang         
+     SF     Miranda Yuan         def.     Jamilah Karah        62 46 61
  > Junior College
   > East
-      F  Lauren Anzalotta      vs   Justine Lespes       Sat @ 11:00
-     SF  Lauren Anzalotta     def.  Naomi McKenzie       62 63
-     SF  Justine Lespes       def.  Destinee Martins     76(5) 46 76(4)
-     QF  Lauren Anzalotta     def.  Ana Julissa De Mata  63 62
-     QF  Naomi McKenzie       def.  Bailey Greenwell     61 61
-     QF  Justine Lespes       def.  Jou Chen Chen        62 62
-     QF  Destinee Martins     def.  Valeriia Cherfus     62 61
+      F (1) Lauren Anzalotta      vs  (3) Justine Lespes       Sat @ 11:00
+     SF (1) Lauren Anzalotta     def. (4) Naomi McKenzie       62 63
+     SF (3) Justine Lespes       def. (2) Destinee Martins     76(5) 46 76(4)
+     QF (1) Lauren Anzalotta     def.     Ana Julissa De Mata  63 62
+     QF (4) Naomi McKenzie       def.     Bailey Greenwell     61 61
+     QF (3) Justine Lespes       def.     Jou Chen Chen        62 62
+     QF (2) Destinee Martins     def.     Valeriia Cherfus     62 61
   > West
-      F  Ana Julissa De Mata   vs   Valeriia Cherfus     Sat @ 10:30
-     SF  Ana Julissa De Mata  def.  Bailey Greenwell     61 63
-     SF  Valeriia Cherfus     def.  Jou Chen Chen        63 63
+      F     Ana Julissa De Mata   vs      Valeriia Cherfus     Sat @ 10:30
+     SF     Ana Julissa De Mata  def.     Bailey Greenwell     61 63
+     SF     Valeriia Cherfus     def.     Jou Chen Chen        63 63
   > 3-4 Playoff
-      F  Naomi McKenzie        vs   Destinee Martins     Sat @ 10:30
+      F (4) Naomi McKenzie        vs  (2) Destinee Martins     Sat @ 10:30
   > South
-      F  Bailey Greenwell      vs   Jou Chen Chen        Sat @ 10:30
+      F     Bailey Greenwell      vs      Jou Chen Chen        Sat @ 10:30
 ~~~
 
 Return to the [Top](./women_singles_2141.md) &#124; [Home Page](../../index.md)

@@ -100,24 +100,26 @@
 
 <a name="21-23395"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Regional Championship
   Dates: Oct 14-17, 2021
   Host: U.S. Naval Academy (M)
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main
   > Main
-     32  Torre Martin/Stable   vs   Bickel/Yang          Fri @ 13:00
+     32  Torre Martin/Stable  def.  Bickel/Yang          83
      32  Byers/Bossem         def.  Jones/Robinson       82
      32  Molina/Wilkinson     def.  Kjellberg/Garner     82
      32  Allen/Kiefer         def.  Kapoor/Haddou        81
+     32  Bhatnagar/Sengul     def.  Prokurat/Suarez      83
      32  Delmas/Gorregues     def.  Lopez/Rachal         80
+     32  Charles/Sardana      def.  Gates/Cavo           84
      32  Sharma/Rozanov       def.  Segraves/Garner      Walkover
      32  Thompson/Panyan      def.  Bailey/Dawson        86
-     32  Khromchenko/Fourticq  vs   Wagemaker/Valdoleir… Fri @ 14:00
+     32  Wagemaker/Valdoleir… def.  Khromchenko/Fourticq 83
      32  Rawal/Carpenter      def.  Perrone/Fenjiro      86
-     32  Fellows/Foster        vs   Frumholz/Raquin      Fri @ 14:00
+     32  Frumholz/Raquin      def.  Fellows/Foster       86
      32  Bobichon/Almeida     def.  Pumpelly/McLeod      85
      32  Sentay/Frisk         def.  Paduraru/Karman      87(4)
      32  Dabek/Fishkin        def.  Rodriguez-Vidal/Teb… 85
@@ -127,9 +129,10 @@
      64  Byers/Bossem         def.  Liu/Ballesteros      82
      64  Kjellberg/Garner     def.  Pribitkin/Cardano    84
      64  Kapoor/Haddou        def.  Alkhafaji/Pollatos   82
-     64  Marshall/Dassanayake  vs   Prokurat/Suarez      Fri @ 12:30
+     64  Prokurat/Suarez      def.  Marshall/Dassanayake 84
      64  Lopez/Rachal         def.  Vagner/OBrien        83
      64  Delmas/Gorregues     def.  Ha/Postin            81
+     64  Gates/Cavo           def.  Kanetkar/MacNeil     87(3)
      64  Sharma/Rozanov       def.  Stevens/Abriola      84
      64  Bailey/Dawson        def.  Khan/Rivas           80
      64  Khromchenko/Fourticq def.  Sato/Janes           87(4)
@@ -169,66 +172,66 @@
 
 <a name="21-05800"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: Saint Mary's College/CA (M)
-════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Doubles
   > Main
-     SF  Morgan/Torres         vs   Keki/Maior        Sat @ 09:00
-     SF  Chaudhary/Kopczynski  vs   Huynh/Ricklis     Sat @ 09:00
-     QF  Morgan/Torres        def.  Reckow/Watt       67(4) 64 [3]
-     QF  Keki/Maior           def.  Chang/Overbeck    16 64 [8]
-     QF  Chaudhary/Kopczynski def.  Brinkman/Necz     46 63 [7]
-     QF  Huynh/Ricklis        def.  Davis/Volgin      57 64 [7]
-     16  Reckow/Watt          def.  Benn/Dudockin     86
-     16  Morgan/Torres        def.  Silva/Voros       86
-     16  Chang/Overbeck       def.  McCaig/Puttergill 84
-     16  Keki/Maior           def.  Ramos/Rincon      82
-     16  Brinkman/Necz        def.  Garpered/Giraldez 84
-     16  Chaudhary/Kopczynski def.  Coupu/Zisswiller  82
-     16  Davis/Volgin         def.  Aksenoks/Wong     85
-     16  Huynh/Ricklis        def.  Batalla/N Tcha    Walkover
-     32  Benn/Dudockin        def.  Stratakos/Matta   84
-     32  Silva/Voros          def.  Gould/Johnson     84
-     32  Morgan/Torres        def.  Ali/Bell          87(4)
-     32  McCaig/Puttergill    def.  Campi/Marchand    87(4)
-     32  Ramos/Rincon         def.  Cmager/Hinojosa   87(3)
-     32  Brinkman/Necz        def.  Alam/Saini        84
-     32  Coupu/Zisswiller     def.  Magnaudet/Wright  86
-     32  Aksenoks/Wong        def.  Bell/Shah         Walkover
-     32  Batalla/N Tcha       def.  Divkovic/Potts    Walkover
+     SF     Morgan/Torres         vs  (7) Keki/Maior        Sat @ 09:00
+     SF (3) Chaudhary/Kopczynski  vs  (2) Huynh/Ricklis     Sat @ 09:00
+     QF     Morgan/Torres        def. (1) Reckow/Watt       67(4) 64 [3]
+     QF (7) Keki/Maior           def. (4) Chang/Overbeck    16 64 [8]
+     QF (3) Chaudhary/Kopczynski def.     Brinkman/Necz     46 63 [7]
+     QF (2) Huynh/Ricklis        def. (5) Davis/Volgin      57 64 [7]
+     16 (1) Reckow/Watt          def.     Benn/Dudockin     86
+     16     Morgan/Torres        def.     Silva/Voros       86
+     16 (4) Chang/Overbeck       def.     McCaig/Puttergill 84
+     16 (7) Keki/Maior           def.     Ramos/Rincon      82
+     16     Brinkman/Necz        def. (6) Garpered/Giraldez 84
+     16 (3) Chaudhary/Kopczynski def.     Coupu/Zisswiller  82
+     16 (5) Davis/Volgin         def.     Aksenoks/Wong     85
+     16 (2) Huynh/Ricklis        def.     Batalla/N Tcha    Walkover
+     32     Benn/Dudockin        def.     Stratakos/Matta   84
+     32     Silva/Voros          def. (8) Gould/Johnson     84
+     32     Morgan/Torres        def.     Ali/Bell          87(4)
+     32     McCaig/Puttergill    def.     Campi/Marchand    87(4)
+     32     Ramos/Rincon         def.     Cmager/Hinojosa   87(3)
+     32     Brinkman/Necz        def.     Alam/Saini        84
+     32     Coupu/Zisswiller     def.     Magnaudet/Wright  86
+     32     Aksenoks/Wong        def.     Bell/Shah         Walkover
+     32     Batalla/N Tcha       def.     Divkovic/Potts    Walkover
 ~~~
 
 <a name="21-10002"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: University Of Oregon (M)
-════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-     QF  Yoshida/Hibi         def.  Matsushita/Vandecas… 64 76(5)
-     QF  Hollingworth/Trkulja def.  Penzlin/Tvedt        61 63
-     QF  Oberg/Brown          def.  Lin/Yamaguchi        26 62 [4]
-     QF  Pankin/Neos          def.  Hann/Gomez Galvan    61 62
-     16  Matsushita/Vandecas… def.  Richards/Jesser      85
-     16  Yoshida/Hibi         def.  Torocsik/Pulliam     87(2)
-     16  Penzlin/Tvedt        def.  De Vries/Fernandez   81
-     16  Hollingworth/Trkulja def.  Frank/Worn           83
-     16  Oberg/Brown          def.  Shugar/Klov-Nilsson  86
-     16  Lin/Yamaguchi        def.  Andersson/Roider     83
-     16  Hann/Gomez Galvan    def.  Plutat/Hsu           86
-     16  Pankin/Neos          def.  Dillon/Thomas        83
-     32  Richards/Jesser      def.  Hall/Givens-Jensen   87(2)
-     32  Yoshida/Hibi         def.  Paz/Mueller          81
-     32  Frank/Worn           def.  Balce/Sarlvik        85
-     32  Andersson/Roider     def.  Kiselkov/Stipic      84
-     32  Dillon/Thomas        def.  Harrison/Krause      86
+     QF     Yoshida/Hibi         def. (1) Matsushita/Vandecas… 64 76(5)
+     QF (3) Hollingworth/Trkulja def.     Penzlin/Tvedt        61 63
+     QF     Oberg/Brown          def.     Lin/Yamaguchi        26 62 [4]
+     QF (2) Pankin/Neos          def.     Hann/Gomez Galvan    61 62
+     16 (1) Matsushita/Vandecas… def.     Richards/Jesser      85
+     16     Yoshida/Hibi         def.     Torocsik/Pulliam     87(2)
+     16     Penzlin/Tvedt        def.     De Vries/Fernandez   81
+     16 (3) Hollingworth/Trkulja def.     Frank/Worn           83
+     16     Oberg/Brown          def.     Shugar/Klov-Nilsson  86
+     16     Lin/Yamaguchi        def.     Andersson/Roider     83
+     16     Hann/Gomez Galvan    def.     Plutat/Hsu           86
+     16 (2) Pankin/Neos          def.     Dillon/Thomas        83
+     32     Richards/Jesser      def.     Hall/Givens-Jensen   87(2)
+     32     Yoshida/Hibi         def.     Paz/Mueller          81
+     32     Frank/Worn           def.     Balce/Sarlvik        85
+     32     Andersson/Roider     def.     Kiselkov/Stipic      84
+     32     Dillon/Thomas        def.     Harrison/Krause      86
 ~~~
 
 <a name="21-59010"></a>
@@ -244,7 +247,6 @@
      64  Groysman/Alonso       vs   Williams/Lawrance    Fri @ 16:00
      64  Sasso/Fulgenzi        vs   Muza/Braverman       Fri @ 16:00
      64  Clark/Redelijk        vs   Salmon/Barnett       Fri @ 16:00
-     64  Grear/Sendogan        vs   Susser/Ross          Fri @ 16:00
      64  Rastrojo/Kmet         vs   Amling/Salsini       Fri @ 16:00
      64  Dhokia/Sriniketh      vs   Kvantaliani/Whitehe… Fri @ 16:00
      64  Zisette/Sillman       vs   Linkuns-Morozov/Ste… Fri @ 16:00
@@ -254,7 +256,7 @@
      64  Izurieta/Mello        vs   Rodriguez Garceran/… Fri @ 16:00
      64  Kralemann/Kermet      vs   Alban/Akiyoshi       Fri @ 16:00
      64  Schwartz/Lorieul      vs   Skelly/Gonzalez      Fri @ 17:00
-     64  Cloud/Stafford        vs   Ata/Yamanaka         Fri @ 17:00
+     64  Susser/Stafford       vs   Ata/Yamanaka         Fri @ 17:00
 ~~~
 
 <a name="21-27355"></a>
@@ -319,113 +321,116 @@
 
 <a name="21-00186"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   ITA Cup
   Dates: Oct 14-17, 2021
   Host: ITA
-════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Division III
   > East
-     SF  Esses/Raina           vs   Martin/Arimilli      Fri @ 16:00
-     SF  Frelinghuysen/Kandel  vs   Settles/Nguyen       Fri @ 16:00
-     QF  Esses/Raina          def.  Aney/Budde           76(4) 75
-     QF  Martin/Arimilli      def.  Harris/Laber         62 64
-     QF  Frelinghuysen/Kandel def.  Watson/Hutchison     76(4) 62
-     QF  Settles/Nguyen       def.  Ramireddy/Li         64 64
-     16  Aney/Budde           def.  Leach/Lemaitre       46 76(5) [8]
-     16  Esses/Raina          def.  Tecce/Leese          63 63
-     16  Harris/Laber         def.  Comadena/Kelley      64 46 [4]
-     16  Martin/Arimilli      def.  Motlojoa/Loen        64 62
-     16  Frelinghuysen/Kandel def.  Gray/Zakowski        63 64
-     16  Watson/Hutchison     def.  Portnoy/Jimenez      64 61
-     16  Ramireddy/Li         def.  Dean/Suarez          63 36 [3]
-     16  Settles/Nguyen       def.  Hopper/Powell        75 61
+     SF     Esses/Raina           vs      Martin/Arimilli      Fri @ 16:00
+     SF     Frelinghuysen/Kandel  vs      Settles/Nguyen       Fri @ 16:00
+     QF     Esses/Raina          def.     Aney/Budde           76(4) 75
+     QF     Martin/Arimilli      def. (4) Harris/Laber         62 64
+     QF     Frelinghuysen/Kandel def. (3) Watson/Hutchison     76(4) 62
+     QF     Settles/Nguyen       def.     Ramireddy/Li         64 64
+     16     Aney/Budde           def. (1) Leach/Lemaitre       46 76(5) [8]
+     16     Esses/Raina          def.     Tecce/Leese          63 63
+     16 (4) Harris/Laber         def.     Comadena/Kelley      64 46 [4]
+     16     Martin/Arimilli      def.     Motlojoa/Loen        64 62
+     16     Frelinghuysen/Kandel def.     Gray/Zakowski        63 64
+     16 (3) Watson/Hutchison     def.     Portnoy/Jimenez      64 61
+     16     Ramireddy/Li         def.     Dean/Suarez          63 36 [3]
+     16     Settles/Nguyen       def. (2) Hopper/Powell        75 61
   > West
-     SF  Leach/Lemaitre        vs   Motlojoa/Loen        Fri @ 16:00
-     SF  Hopper/Powell        def.  Portnoy/Jimenez      63 61
-     QF  Leach/Lemaitre       def.  Tecce/Leese          62 63
-     QF  Motlojoa/Loen        def.  Comadena/Kelley      63 67(10) [6]
-     QF  Portnoy/Jimenez      def.  Gray/Zakowski        62 76(5)
-     QF  Hopper/Powell        def.  Dean/Suarez          64 75
+     SF (1) Leach/Lemaitre        vs      Motlojoa/Loen        Fri @ 16:00
+     SF (2) Hopper/Powell        def.     Portnoy/Jimenez      63 61
+     QF (1) Leach/Lemaitre       def.     Tecce/Leese          62 63
+     QF     Motlojoa/Loen        def.     Comadena/Kelley      63 67(10) [6]
+     QF     Portnoy/Jimenez      def.     Gray/Zakowski        62 76(5)
+     QF (2) Hopper/Powell        def.     Dean/Suarez          64 75
   > North
-     SF  Aney/Budde            vs   Harris/Laber         Fri @ 16:30
-     SF  Watson/Hutchison      vs   Ramireddy/Li         Fri @ 16:30
+     SF (4) Harris/Laber         def.     Aney/Budde           62 64
+     SF (3) Watson/Hutchison     def.     Ramireddy/Li         64 75
   > South
-     SF  Tecce/Leese           vs   Comadena/Kelley      Fri @ 16:30
-     SF  Gray/Zakowski         vs   Dean/Suarez          Fri @ 16:30
+     SF     Comadena/Kelley      def.     Tecce/Leese          64 62
+     SF     Gray/Zakowski         vs      Dean/Suarez          Fri @ 16:30
  > Naia
   > East
-     SF  Caratini/Tamagnone    vs   Dugo/Gurmendi        Sat @ 15:30
-     SF  Nienhaus/Papa         vs   Ramirez/Bain         Sat @ 15:30
-     QF  Caratini/Tamagnone   def.  Klimov/Bresson       64 60
-     QF  Dugo/Gurmendi        def.  Barrios/Zick         76(6) 64
-     QF  Nienhaus/Papa        def.  Turnquest/Rocco      62 63
-     QF  Ramirez/Bain         def.  Czepielewski/Bonacia 62 46 [2]
-     16  Klimov/Bresson       def.  Pessoa/Pelletti      63 61
-     16  Caratini/Tamagnone   def.  Omarkhanov/Salazar   63 64
-     16  Dugo/Gurmendi        def.  Little/Braham        64 64
-     16  Barrios/Zick         def.  Carrizo/Sprovieri    61 36 [7]
-     16  Turnquest/Rocco      def.  Beltran/Komel        61 61
-     16  Nienhaus/Papa        def.  Fernandez/Gallegos   62 62
-     16  Ramirez/Bain         def.  Subert/Cooke         64 64
-     16  Czepielewski/Bonacia def.  Barbon/Stepanov      64 16 [6]
+     SF     Caratini/Tamagnone    vs  (4) Dugo/Gurmendi        Sat @ 15:30
+     SF (3) Nienhaus/Papa         vs      Ramirez/Bain         Sat @ 15:30
+     QF     Caratini/Tamagnone   def. (1) Klimov/Bresson       64 60
+     QF (4) Dugo/Gurmendi        def.     Barrios/Zick         76(6) 64
+     QF (3) Nienhaus/Papa        def.     Turnquest/Rocco      62 63
+     QF     Ramirez/Bain         def. (2) Czepielewski/Bonacia 62 46 [2]
+     16 (1) Klimov/Bresson       def.     Pessoa/Pelletti      63 61
+     16     Caratini/Tamagnone   def.     Omarkhanov/Salazar   63 64
+     16 (4) Dugo/Gurmendi        def.     Little/Braham        64 64
+     16     Barrios/Zick         def.     Carrizo/Sprovieri    61 36 [7]
+     16     Turnquest/Rocco      def.     Beltran/Komel        61 61
+     16 (3) Nienhaus/Papa        def.     Fernandez/Gallegos   62 62
+     16     Ramirez/Bain         def.     Subert/Cooke         64 64
+     16 (2) Czepielewski/Bonacia def.     Barbon/Stepanov      64 16 [6]
   > West
-     SF  Omarkhanov/Salazar    vs   Carrizo/Sprovieri    Sat @ 15:00
-     SF  Beltran/Komel         vs   Barbon/Stepanov      Sat @ 15:00
-     QF  Omarkhanov/Salazar   def.  Pessoa/Pelletti      64 64
-     QF  Carrizo/Sprovieri    def.  Little/Braham        63 67(3) [5]
-     QF  Beltran/Komel        def.  Fernandez/Gallegos   Walkover
-     QF  Barbon/Stepanov      def.  Subert/Cooke         62 62
+     SF     Omarkhanov/Salazar    vs      Carrizo/Sprovieri    Sat @ 15:00
+     SF     Beltran/Komel         vs      Barbon/Stepanov      Sat @ 15:00
+     QF     Omarkhanov/Salazar   def.     Pessoa/Pelletti      64 64
+     QF     Carrizo/Sprovieri    def.     Little/Braham        63 67(3) [5]
+     QF     Beltran/Komel        def.     Fernandez/Gallegos   Walkover
+     QF     Barbon/Stepanov      def.     Subert/Cooke         62 62
   > North
-     SF  Klimov/Bresson        vs   Barrios/Zick         Sat @ 15:00
-     SF  Turnquest/Rocco       vs   Czepielewski/Bonacia Sat @ 15:00
+     SF (1) Klimov/Bresson        vs      Barrios/Zick         Sat @ 15:00
+     SF     Turnquest/Rocco       vs  (2) Czepielewski/Bonacia Sat @ 15:00
   > South
-     SF  Pessoa/Pelletti       vs   Little/Braham        Sat @ 15:00
-     SF  Fernandez/Gallegos    vs   Subert/Cooke         Sat @ 15:00
+     SF     Pessoa/Pelletti       vs      Little/Braham        Sat @ 15:00
+     SF     Fernandez/Gallegos    vs      Subert/Cooke         Sat @ 15:00
  > Division II
   > East
-     SF  Cueto Ramos/Regalado  vs   Mack/Carvalho        Sat @ 13:30
-     SF  Schold/Martinetti     vs   Dos Santos/Jurkovic  Sat @ 13:30
-     QF  Cueto Ramos/Regalado def.  Westwick/Martinez R… 64 76(3)
-     QF  Mack/Carvalho        def.  Bohren/Velicki       64 64
-     QF  Schold/Martinetti    def.  Giesberts/Dagostine  57 61 [5]
-     QF  Dos Santos/Jurkovic  def.  Bedwan/Rieme         36 76(3) [9]
-     16  Cueto Ramos/Regalado def.  Fernandez/Bianchi    75 62
-     16  Westwick/Martinez R… def.  Akinpetide/Jankovic  60 61
-     16  Mack/Carvalho        def.  Cimpeanu/Barstow     75 64
-     16  Bohren/Velicki       def.  Bulmer/van Antwerpen 76(4) 64
-     16  Schold/Martinetti    def.  Torres/Berling       64 63
-     16  Giesberts/Dagostine  def.  Jarry/Miller         64 76(6)
-     16  Dos Santos/Jurkovic  def.  Giuliato/Forcano     64 64
-     16  Bedwan/Rieme         def.  Oliveira/Kearney     62 63
+     SF (1) Cueto Ramos/Regalado  vs  (4) Mack/Carvalho        Sat @ 13:30
+     SF     Schold/Martinetti     vs      Dos Santos/Jurkovic  Sat @ 13:30
+     QF (1) Cueto Ramos/Regalado def.     Westwick/Martinez R… 64 76(3)
+     QF (4) Mack/Carvalho        def.     Bohren/Velicki       64 64
+     QF     Schold/Martinetti    def. (3) Giesberts/Dagostine  57 61 [5]
+     QF     Dos Santos/Jurkovic  def.     Bedwan/Rieme         36 76(3) [9]
+     16 (1) Cueto Ramos/Regalado def.     Fernandez/Bianchi    75 62
+     16     Westwick/Martinez R… def.     Akinpetide/Jankovic  60 61
+     16 (4) Mack/Carvalho        def.     Cimpeanu/Barstow     75 64
+     16     Bohren/Velicki       def.     Bulmer/van Antwerpen 76(4) 64
+     16     Schold/Martinetti    def.     Torres/Berling       64 63
+     16 (3) Giesberts/Dagostine  def.     Jarry/Miller         64 76(6)
+     16     Dos Santos/Jurkovic  def.     Giuliato/Forcano     64 64
+     16     Bedwan/Rieme         def. (2) Oliveira/Kearney     62 63
   > West
-     SF  Fernandez/Bianchi     vs   Bulmer/van Antwerpen Sat @ 12:30
-     SF  Torres/Berling        vs   Giuliato/Forcano     Sat @ 12:30
-     QF  Fernandez/Bianchi    def.  Akinpetide/Jankovic  63 64
-     QF  Bulmer/van Antwerpen def.  Cimpeanu/Barstow     63 67(5) [8]
-     QF  Torres/Berling       def.  Jarry/Miller         64 46 [4]
-     QF  Giuliato/Forcano     def.  Oliveira/Kearney     61 63
+     SF     Fernandez/Bianchi     vs      Bulmer/van Antwerpen Sat @ 12:30
+     SF     Torres/Berling        vs      Giuliato/Forcano     Sat @ 12:30
+     QF     Fernandez/Bianchi    def.     Akinpetide/Jankovic  63 64
+     QF     Bulmer/van Antwerpen def.     Cimpeanu/Barstow     63 67(5) [8]
+     QF     Torres/Berling       def.     Jarry/Miller         64 46 [4]
+     QF     Giuliato/Forcano     def. (2) Oliveira/Kearney     61 63
   > North
-     SF  Westwick/Martinez R…  vs   Bohren/Velicki       Sat @ 12:30
-     SF  Giesberts/Dagostine   vs   Bedwan/Rieme         Sat @ 12:30
+     SF     Westwick/Martinez R…  vs      Bohren/Velicki       Sat @ 12:30
+     SF (3) Giesberts/Dagostine   vs      Bedwan/Rieme         Sat @ 12:30
   > South
-     SF  Akinpetide/Jankovic   vs   Cimpeanu/Barstow     Sat @ 12:30
-     SF  Jarry/Miller          vs   Oliveira/Kearney     Sat @ 12:30
+     SF     Akinpetide/Jankovic   vs      Cimpeanu/Barstow     Sat @ 12:30
+     SF     Jarry/Miller          vs  (2) Oliveira/Kearney     Sat @ 12:30
  > Junior College
   > East
-     SF  Tsai/Cantero         def.  Saint Martin/Shearer 64 76(2)
-     SF  Mosvold/Dalisay       vs   Fisicaro/Krolo       Fri @ 15:30
-     QF  Tsai/Cantero         def.  Parada/Toloza        63 64
-     QF  Saint Martin/Shearer def.  Bruno/Hirano         46 76 [7]
-     QF  Mosvold/Dalisay      def.  Nader/Vanecek        62 75
-     QF  Fisicaro/Krolo       def.  Ching/Shteyn         61 63
+      F (1) Tsai/Cantero          vs  (3) Mosvold/Dalisay      Sat @ 14:30
+     SF (1) Tsai/Cantero         def.     Saint Martin/Shearer 64 76(2)
+     SF (3) Mosvold/Dalisay      def. (2) Fisicaro/Krolo       64 76(1)
+     QF (1) Tsai/Cantero         def.     Parada/Toloza        63 64
+     QF     Saint Martin/Shearer def. (4) Bruno/Hirano         46 76 [7]
+     QF (3) Mosvold/Dalisay      def.     Nader/Vanecek        62 75
+     QF (2) Fisicaro/Krolo       def.     Ching/Shteyn         61 63
   > West
-      F  Bruno/Hirano          vs   Nader/Vanecek        Sat @ 14:00
-     SF  Bruno/Hirano         def.  Parada/Toloza        61 75
-     SF  Nader/Vanecek        def.  Ching/Shteyn         64 75
+      F (4) Bruno/Hirano          vs      Nader/Vanecek        Sat @ 14:00
+     SF (4) Bruno/Hirano         def.     Parada/Toloza        61 75
+     SF     Nader/Vanecek        def.     Ching/Shteyn         64 75
+  > 3-4 Playoff
+      F     Saint Martin/Shearer  vs  (2) Fisicaro/Krolo       Sat @ 14:00
   > South
-      F  Parada/Toloza         vs   Ching/Shteyn         Sat @ 14:00
+      F     Parada/Toloza         vs      Ching/Shteyn         Sat @ 14:00
 ~~~
 
 <a name="21-98443"></a>
