@@ -320,7 +320,7 @@
   > Main
      64      Raphael Mujan        def.      Ryan Bernstine      76(5) 75
      64      Andres Silva         def.      Rosen Nayadenov     36 63 63
-     64      Mathieu Josserand     vs       Ernesto Rocabert    Fri @ 15:30
+     64      Ernesto Rocabert     def.      Mathieu Josserand   64 61
      64      Sean Joseph          def.      Stefan Petrovic     Walkover
      64      Guillermo Cagigas    def.      Manfredi Vergine    64 60
      64      Luis Reis             vs       Omar El Kadi        Fri @ 16:30
@@ -580,58 +580,63 @@
 
 <a name="21-27355"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   Louisville Invitational
   Dates: Oct 15-17, 2021
   Host: University Of Louisville (M)
-════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw A
   > East
-     QF  Yasha Zemel        vs   Luka Vukovic         Sat @ 10:00
-     QF  Pawit Sornlaksup   vs   Patrick Fletchall    Sat @ 10:00
-     QF  Carson Haskins     vs   Josh Howard-Tripp    Sat @ 10:00
-     QF  Michael Andre      vs   Yusuf Khamis         Sat @ 10:00
-     16  Yasha Zemel       def.  Marko Galic          64 64
-     16  Luka Vukovic      def.  Gabriele Brancatelli 64 62
-     16  Pawit Sornlaksup  def.  Matthew Fung         61 16 [6]
-     16  Patrick Fletchall def.  Athell Bennett       36 63 [4]
-     16  Carson Haskins    def.  Rohan Sachdev        61 60
-     16  Josh Howard-Tripp def.  Juan Sebastian Zaba… 75 61
-     16  Michael Andre     def.  Jj Mercer            Walkover
-     16  Yusuf Khamis      def.  Piotr Galus          61 64
+     QF  Yasha Zemel           vs   Luka Vukovic         Sat @ 10:00
+     QF  Pawit Sornlaksup      vs   Patrick Fletchall    Sat @ 10:00
+     QF  Carson Haskins        vs   Josh Howard-Tripp    Sat @ 10:00
+     QF  Michael Andre         vs   Yusuf Khamis         Sat @ 10:00
+     16  Yasha Zemel          def.  Marko Galic          64 64
+     16  Luka Vukovic         def.  Gabriele Brancatelli 64 62
+     16  Pawit Sornlaksup     def.  Matthew Fung         61 16 [6]
+     16  Patrick Fletchall    def.  Athell Bennett       36 63 [4]
+     16  Carson Haskins       def.  Rohan Sachdev        61 60
+     16  Josh Howard-Tripp    def.  Juan Sebastian Zaba… 75 61
+     16  Michael Andre        def.  Jj Mercer            Walkover
+     16  Yusuf Khamis         def.  Piotr Galus          61 64
   > West
-     QF  Marko Galic        vs   Gabriele Brancatelli Sat @ 11:30
-     QF  Matthew Fung       vs   Athell Bennett       Sat @ 11:30
-     QF  Rohan Sachdev      vs   Juan Sebastian Zaba… Sat @ 11:30
-     QF  Jj Mercer          vs   Piotr Galus          Sat @ 11:30
+     QF  Marko Galic           vs   Gabriele Brancatelli Sat @ 11:30
+     QF  Matthew Fung          vs   Athell Bennett       Sat @ 11:30
+     QF  Rohan Sachdev         vs   Juan Sebastian Zaba… Sat @ 11:30
+     QF  Jj Mercer             vs   Piotr Galus          Sat @ 11:30
  > Draw B
   > East
-     QF  Jonathan Sorbo     vs   Julen Morgan         Sat @ 10:00
-     QF  David Mizrahi      vs   Tomasz Dudek         Sat @ 10:00
-     QF  Ilya Tiraspolsky   vs   Francisco Lamas      Sat @ 10:00
-     QF  Alexandre LeBlanc  vs   Alex Wesbrooks       Sat @ 10:00
-     16  Jonathan Sorbo    def.  Jack Batchelor       61 62
-     16  Julen Morgan      def.  Cole Shoults         67(4) 63 [7]
-     16  David Mizrahi     def.  Simeon Kostov        62 76(4)
-     16  Tomasz Dudek      def.  Vikash Singh         63 61
-     16  Ilya Tiraspolsky  def.  Paul Reynolds        64 60
-     16  Francisco Lamas   def.  Milledge Cossu       75 61
-     16  Alexandre LeBlanc def.  Adam Kovac           62 36 [7]
-     16  Alex Wesbrooks    def.  Jagger Saylor        62 61
+     QF  Jonathan Sorbo        vs   Julen Morgan         Sat @ 10:00
+     QF  David Mizrahi         vs   Tomasz Dudek         Sat @ 10:00
+     QF  Ilya Tiraspolsky      vs   Francisco Lamas      Sat @ 10:00
+     QF  Alexandre LeBlanc     vs   Alex Wesbrooks       Sat @ 10:00
+     16  Jonathan Sorbo       def.  Jack Batchelor       61 62
+     16  Julen Morgan         def.  Cole Shoults         67(4) 63 [7]
+     16  David Mizrahi        def.  Simeon Kostov        62 76(4)
+     16  Tomasz Dudek         def.  Vikash Singh         63 61
+     16  Ilya Tiraspolsky     def.  Paul Reynolds        64 60
+     16  Francisco Lamas      def.  Milledge Cossu       75 61
+     16  Alexandre LeBlanc    def.  Adam Kovac           62 36 [7]
+     16  Alex Wesbrooks       def.  Jagger Saylor        62 61
   > West
-     QF  Jack Batchelor     vs   Cole Shoults         Sat @ 11:30
-     QF  Simeon Kostov      vs   Vikash Singh         Sat @ 11:30
-     QF  Paul Reynolds      vs   Milledge Cossu       Sat @ 11:30
-     QF  Adam Kovac         vs   Jagger Saylor        Sat @ 11:30
+     QF  Jack Batchelor        vs   Cole Shoults         Sat @ 11:30
+     QF  Simeon Kostov         vs   Vikash Singh         Sat @ 11:30
+     QF  Paul Reynolds         vs   Milledge Cossu       Sat @ 11:30
+     QF  Adam Kovac            vs   Jagger Saylor        Sat @ 11:30
  > Draw C
   > East
-     QF  Wojciech Szczesny  vs   Xavier Ecarma        Sat @ 10:00
-     QF  Andre Suzanne      vs   Kyle Tang            Sat @ 10:00
-     16  Xavier Ecarma     def.  Juan Lombisano       64 63
-     16  Kyle Tang         def.  Vlad Meluta          60 60
+     QF  Michal Wozniak        vs   Mac Rogers           Sat @ 10:00
+     QF  Nishanth Basavareddy  vs   Sebastian Welch      Sat @ 10:00
+     QF  Wojciech Szczesny     vs   Xavier Ecarma        Sat @ 10:00
+     QF  Andre Suzanne         vs   Kyle Tang            Sat @ 10:00
+     16  Mac Rogers           def.  Emil Berglund        62 64
+     16  Sebastian Welch      def.  Michael Staff        75 64
+     16  Xavier Ecarma        def.  Juan Lombisano       64 63
+     16  Kyle Tang            def.  Vlad Meluta          60 60
   > West
-     SF  Juan Lombisano     vs   Vlad Meluta          Sat @ 11:30
+     SF  Emil Berglund         vs   Michael Staff        Sat @ 11:30
+     SF  Juan Lombisano        vs   Vlad Meluta          Sat @ 11:30
 ~~~
 
 <a name="21-41868"></a>

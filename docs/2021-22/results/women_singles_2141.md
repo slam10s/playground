@@ -182,7 +182,7 @@
      64      Alexandra Mikhailuk  def.      Madeline Meredith    26 64 61
      64  (5) Safiya Carrington    def.      Kasia Pitak          64 62
      64      Adela Wasserbauerova  vs       Alexis Lopez         Fri @ 14:00
-     64      Kelsey Mize           vs  (16) Tamara Racine        Fri @ 14:00
+     64 (16) Tamara Racine        def.      Kelsey Mize          46 60 63
      64      Luminita Tutunaru     vs       Anne Marie Hiser     Fri @ 15:00
      64      Tanisha Kashyap       vs   (3) Carolyn Ansari       Fri @ 15:00
      64      Michelle Ncube        vs       Ebru Zeynep Yazgan   Fri @ 15:00

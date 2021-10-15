@@ -81,6 +81,19 @@
      SF  Garcia-Nieto/Uribe  def.  Marshall/Mudre      62
 ~~~
 
+<a name="21-69055"></a>
+~~~
+═══════════════════════════════════════════════════════
+  Bulldog Cup
+  Dates: Oct 15-17, 2021
+  Host: Drake University (M)
+═══════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles Round 1 (Friday)
+  > Main
+     16  Johansson/Schifris def.  Malinen/Spolidorio 86
+~~~
+
 <a name="21-23395"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════
