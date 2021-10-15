@@ -153,15 +153,17 @@
  Women's Open Singles
  > Main
   > Main
+     32  (1) Emmanouela Antonaki   vs       Nina Geissler        Sat @ 13:00
+     32 (14) Ludmila Kareisova     vs       Adeline Flach        Sat @ 13:00
      32  (7) Georgie Axon          vs       Chloe Cirotte        Sat @ 13:00
      32  (4) Tiphanie Fiquet       vs       Marta Falceto        Sat @ 13:00
      32      Reka Zadori           vs       Anna Parkhomenko     Sat @ 13:00
      32 (15) Nikola Kohoutova      vs       Maggie Cubitt        Sat @ 13:00
      32      Lahari Yelamanchili   vs  (13) Yu Fujioka           Sat @ 13:00
-     64  (1) Emmanouela Antonaki   vs       Lucie Raquin         Fri @ 14:00
+     64  (1) Emmanouela Antonaki  def.      Lucie Raquin         63 76(6)
      64      Nina Geissler        def.      Otoha Aoki           64 62
      64 (14) Ludmila Kareisova    def.      Tjasa Klevisar       63 76(5)
-     64      Vanessa Mellynchuk    vs       Adeline Flach        Fri @ 14:00
+     64      Adeline Flach        def.      Vanessa Mellynchuk   36 60 62
      64  (7) Georgie Axon         def.      Anaelle Leclerq-Fic… 64 63
      64      Chloe Cirotte        def.      Aina Domingo Bernab… 61 64
      64 (10) Ena Babic             vs       Lily Walther         Fri @ 14:00
@@ -320,6 +322,7 @@
      32Q      Elena Trencheva      def.      Emma Honore          46 75 [6]
  > Women's Main Draw
   > Main
+      16 (11) Mary Stoiana          vs   (3) Charlotte Chavatipon Sat @ 10:30
       32  (1) Tatiana Makarova     def.      Nicole Petchey       64 64
       32      Bojana Marinkov       vs  (15) Alison Zipoli        Fri @ 13:30
       32      Aleksandra Zlatarova  vs   (9) Alicia Herrero Lina… Fri @ 13:30
@@ -327,7 +330,7 @@
       32  (6) Federica Trevisan     vs       Liisa Vehvilainen    Fri @ 13:30
       32 (14) Malaika Rapolu       def.      Paula Baranano       67(4) 61 [6]
       32 (11) Mary Stoiana         def.      Metka Komac          61 63
-      32      Claudia Bartolome     vs   (3) Charlotte Chavatipon Fri @ 13:30
+      32  (3) Charlotte Chavatipon def.      Claudia Bartolome    62 61
       32  (4) Margarita Skriabina   vs       Tara Gorinsek        Fri @ 15:00
       32      Lana Mavor            vs  (13) Gianna Pielet        Fri @ 15:00
       32      Cristina Tiglea       vs  (10) Hadley Doyle         Fri @ 15:00
@@ -369,11 +372,12 @@
       64      Laura Slisane        def.      Carla Pons           64 64
       64  (2) Melany Krywoj        def.      Lauren Fulgenzi      60 60
   > Consolation
+      16      Bella Zamarripa       vs       Camille Townsend     Sat @ 10:30
       16      Nyah Kauders          vs       Maria Dzemeshkevich  Sat @ 10:30
       16      Katherine Jakeway     vs       Olivia Peet          Sat @ 10:30
       16      Anastasia Smirnova    vs       Sarina Reinertsen    Sat @ 10:30
       16      Lucy Furness          vs       Saara Orav           Sat @ 10:30
-     32Q      Azul Pedemonti        vs       Bella Zamarripa      Fri @ 13:30
+     32Q      Bella Zamarripa      def.      Azul Pedemonti       75 36 [7]
      32Q      Camille Townsend     def.      Momoka Horiguchi     64 46 [2]
      32Q      Nyah Kauders         def.      Ioana Dumitrescu     63 60
      32Q      Maria Dzemeshkevich  def.      Blanca Cortijo Parr… 61 16 [4]

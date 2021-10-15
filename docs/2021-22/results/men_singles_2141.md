@@ -152,16 +152,18 @@
  > Main
   > Main
       32  James Wilkinson       vs   Derrick Thompson     Fri @ 09:00
-      32  Inigo Torre Martin    vs   Adhvyte Sharma       Fri @ 09:00
-      32  Rayane Stable         vs   Nickolas Frisk       Fri @ 09:00
+      32  Inigo Torre Martin   def.  Adhvyte Sharma       62 75
+      32  Rayane Stable        def.  Nickolas Frisk       64 61
       32  Finn Garner           vs   Bora Sengul          Fri @ 09:00
       32  Bar Botzer            vs   Jake Fellows         Fri @ 09:00
-      32  Sam Bossem            vs   Joaquim Almeida      Fri @ 09:00
+      32  Joaquim Almeida      def.  Sam Bossem           46 75 62
       32  Nathan Perrone        vs   Jake Fishkin         Fri @ 09:00
       32  Luis Molina           vs   Charl Morgan         Fri @ 09:00
       32  Alexander Kiefer      vs   Charlie Suh          Fri @ 09:00
       32  Mikeal Carpenter      vs   Loren Byers          Fri @ 09:00
       32  Malik Bhatnagar       vs   Alp Sentay           Fri @ 09:00
+      32  Guilherme Valdoleir… def.  Jackson Allen        46 75 63
+      32  Leo Raquin           def.  Kieran Foster        75 75
       64  Miko Eala            def.  Justin Cadeau        67(4) 62 60
       64  Joshua Robinson      def.  Sergiu Medesan       75 62
       64  James Wilkinson      def.  Michael Fourticq     62 64
@@ -313,15 +315,15 @@
      64      Oscar Hernandez      def.      Guillermo Cagigas   63 61
      64      Aditya Balsekar      def.      Luis Reis           36 64 62
      64      Chen Ruo             def.      Omar El Kadi        61 63
- > Back Draw
+ > Back Draw Day 1
   > Main
      64      Raphael Mujan        def.      Ryan Bernstine      76(5) 75
-     64      Andres Silva          vs       Rosen Nayadenov     Fri @ 15:00
+     64      Andres Silva         def.      Rosen Nayadenov     36 63 63
      64      Mathieu Josserand     vs       Ernesto Rocabert    Fri @ 15:30
      64      Sean Joseph          def.      Stefan Petrovic     Walkover
      64      Guillermo Cagigas    def.      Manfredi Vergine    64 60
      64      Luis Reis             vs       Omar El Kadi        Fri @ 16:30
-     64      Oliver Tobisch        vs       Youssef Sadek       Fri @ 15:00
+     64      Youssef Sadek        def.      Oliver Tobisch      75 61
      64      Josh Wilson          def.      George Davis        62 63
 ~~~
 
@@ -818,7 +820,7 @@
      R2  Jose Moreno           vs   Miguel Binnios       Sun @ 12:30
      R2  Yosue Noa             vs   Jake Edwards         Sun @ 12:30
      R1  Yosue Noa            def.  Jose Moreno          36 63 [9]
-     R1  Miguel Binnios        vs   Jake Edwards         Fri @ 14:30
+     R1  Miguel Binnios       def.  Jake Edwards         64 76(5)
 ~~~
 
 Return to the [Top](./men_singles_2141.md) &#124; [Home Page](../../index.md)

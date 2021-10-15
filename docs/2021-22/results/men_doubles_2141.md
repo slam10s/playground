@@ -10,6 +10,7 @@
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Texas Regional Championship](#21-59010) ([Results](#21-59010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">Draws</a>)  
 - 10/15/2021 - [Louisville Invitational](#21-27355) ([Results](#21-27355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Draws</a>)  
+- 10/15/2021 - [UTC-Steve Baras Invitational](#21-41868) ([Results](#21-41868) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
 
@@ -18,7 +19,6 @@
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">San Diego State Fall Invite</a>  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">UTC-Steve Baras Invitational</a>  
 
 **Upcoming Tournaments**  
 - 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Wesleyan Invitational</a>  
@@ -278,6 +278,21 @@
      R1  Sornlaksup/Meluta    def.  Berglund/Staff       64
 ~~~
 
+<a name="21-41868"></a>
+~~~
+══════════════════════════════════════════════════════════
+  UTC-Steve Baras Invitational
+  Dates: Oct 15-17, 2021
+  Host: Univ. Of Tennessee, Chattanooga (M)
+══════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Utc/ttu
+  > Main
+     QF  Hyatt/Labbe      def.  Vicente/Tosetto    76(4)
+     QF  Marshall/Mudre   def.  Holis/Sasagawa     63
+     QF  Berghaus/Grubert def.  McClure/Nevenhoven 64
+~~~
+
 <a name="21-00186"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════════
@@ -320,7 +335,7 @@
      QF  Klimov/Bresson        vs   Caratini/Tamagnone   Fri @ 15:00
      QF  Dugo/Gurmendi         vs   Barrios/Zick         Fri @ 15:00
      QF  Turnquest/Rocco       vs   Nienhaus/Papa        Fri @ 15:00
-     QF  Ramirez/Bain          vs   Czepielewski/Bonacia Fri @ 15:00
+     QF  Ramirez/Bain         def.  Czepielewski/Bonacia 62 46 [2]
      16  Klimov/Bresson       def.  Pessoa/Pelletti      63 61
      16  Caratini/Tamagnone   def.  Omarkhanov/Salazar   63 64
      16  Dugo/Gurmendi        def.  Little/Braham        64 64
@@ -331,11 +346,12 @@
      16  Czepielewski/Bonacia def.  Barbon/Stepanov      64 16 [6]
   > West
      QF  Pessoa/Pelletti       vs   Omarkhanov/Salazar   Fri @ 15:00
-     QF  Little/Braham         vs   Carrizo/Sprovieri    Fri @ 15:00
+     QF  Carrizo/Sprovieri    def.  Little/Braham        63 67(3) [5]
      QF  Barbon/Stepanov      def.  Subert/Cooke         62 62
  > Division II
   > East
-     QF  Cueto Ramos/Regalado  vs   Westwick/Martinez R… Fri @ 14:00
+     SF  Cueto Ramos/Regalado  vs   Mack/Carvalho        Sat @ 13:30
+     QF  Cueto Ramos/Regalado def.  Westwick/Martinez R… 64 76(3)
      QF  Mack/Carvalho        def.  Bohren/Velicki       64 64
      QF  Schold/Martinetti    def.  Giesberts/Dagostine  57 61 [5]
      QF  Dos Santos/Jurkovic   vs   Bedwan/Rieme         Fri @ 14:00
@@ -354,6 +370,8 @@
      QF  Bulmer/van Antwerpen def.  Cimpeanu/Barstow     63 67(5) [8]
      QF  Torres/Berling       def.  Jarry/Miller         64 46 [4]
      QF  Giuliato/Forcano     def.  Oliveira/Kearney     61 63
+  > North
+     SF  Westwick/Martinez R…  vs   Bohren/Velicki       Sat @ 12:30
   > South
      SF  Akinpetide/Jankovic   vs   Cimpeanu/Barstow     Sat @ 12:30
      SF  Jarry/Miller          vs   Oliveira/Kearney     Sat @ 12:30
@@ -366,7 +384,7 @@
      QF  Mosvold/Dalisay      def.  Nader/Vanecek        62 75
      QF  Fisicaro/Krolo       def.  Ching/Shteyn         61 63
   > West
-     SF  Parada/Toloza         vs   Bruno/Hirano         Fri @ 15:30
+     SF  Bruno/Hirano         def.  Parada/Toloza        61 75
      SF  Nader/Vanecek         vs   Ching/Shteyn         Fri @ 15:30
 ~~~
 

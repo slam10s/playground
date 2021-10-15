@@ -275,7 +275,7 @@
      QF  Genovese/Fernandez   def.  Piccoliori/Puig Llo… 62 63
      QF  Pichler/Lysykh        vs   Golz/Bemisderfer     Fri @ 15:30
      QF  Mendez/Dveksler       vs   Vidanovic/Coopersmi… Fri @ 15:30
-     QF  Teodoro De Oliveira…  vs   Quiceno/Petit        Fri @ 15:30
+     QF  Quiceno/Petit        def.  Teodoro De Oliveira… 61 63
      16  Genovese/Fernandez   def.  Gilich/Fernandez     62 61
      16  Piccoliori/Puig Llo… def.  Muhammad/Clarke      46 63 [6]
      16  Pichler/Lysykh       def.  Carpenter/Vasquez    63 61
@@ -286,7 +286,7 @@
      16  Quiceno/Petit        def.  Siska/Koplova        62 75
   > West
      QF  Carpenter/Vasquez     vs   Rinaldi/Weiland      Fri @ 15:30
-     QF  Novati/Pinto          vs   Guerrero/Isaac       Fri @ 14:30
+     QF  Novati/Pinto         def.  Guerrero/Isaac       36 76(4) [1]
      QF  Zavala/Lindeboom      vs   Siska/Koplova        
  > Junior College
   > East
