@@ -31,6 +31,8 @@
   > Main
      32  (1) Meg Kowalski        def.     Grace Shumacher     62 60
      32 (12) Petra Hule          def.     Mahak Jain          26 63 75
+     32 (16) Mell Reasco         def.     Bente Spee          75 63
+     32  (2) Isabella Pfennig    def.     Yasmine Kabbaj      63 75
      64  (1) Meg Kowalski        def.     Angel Carney        64 62
      64      Grace Shumacher     def.     Ji Youn Lee         63 61
      64      Eden Richardson     def.     Jaleesa Leslie      61 57 41 Ret.

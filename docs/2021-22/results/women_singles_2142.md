@@ -30,6 +30,8 @@
   > Main
      32  (1) Meg Kowalski        def.     Grace Shumacher     62 60
      32 (12) Petra Hule          def.     Mahak Jain          26 63 75
+     32 (16) Mell Reasco         def.     Bente Spee          75 63
+     32  (2) Isabella Pfennig    def.     Yasmine Kabbaj      63 75
      64  (1) Meg Kowalski        def.     Angel Carney        64 62
      64      Grace Shumacher     def.     Ji Youn Lee         63 61
      64      Eden Richardson     def.     Jaleesa Leslie      61 57 41 Ret.
@@ -93,18 +95,20 @@
      32  (1) Emmanouela Antonaki   vs       Nina Geissler        Sat @ 13:00
      32 (14) Ludmila Kareisova     vs       Adeline Flach        Sat @ 13:00
      32  (7) Georgie Axon          vs       Chloe Cirotte        Sat @ 13:00
+     32 (10) Ena Babic             vs       Ola Pitak            Sat @ 13:00
      32  (4) Tiphanie Fiquet       vs       Marta Falceto        Sat @ 13:00
      32      Reka Zadori           vs       Anna Parkhomenko     Sat @ 13:00
      32 (15) Nikola Kohoutova      vs       Maggie Cubitt        Sat @ 13:00
      32      Lahari Yelamanchili   vs  (13) Yu Fujioka           Sat @ 13:00
      32      Alexandra Mikhailuk   vs   (5) Safiya Carrington    Sat @ 13:00
+     32      Alexis Lopez          vs  (16) Tamara Racine        Sat @ 13:00
      64  (1) Emmanouela Antonaki  def.      Lucie Raquin         63 76(6)
      64      Nina Geissler        def.      Otoha Aoki           64 62
      64 (14) Ludmila Kareisova    def.      Tjasa Klevisar       63 76(5)
      64      Adeline Flach        def.      Vanessa Mellynchuk   36 60 62
      64  (7) Georgie Axon         def.      Anaelle Leclerq-Fic… 64 63
      64      Chloe Cirotte        def.      Aina Domingo Bernab… 61 64
-     64 (10) Ena Babic             vs       Lily Walther         Fri @ 14:00
+     64 (10) Ena Babic            def.      Lily Walther         46 64 60
      64      Ola Pitak            def.      Delien Klienhans     61 61
      64  (4) Tiphanie Fiquet      def.      Anastasiia Khokhlova 62 61
      64      Marta Falceto        def.      Anastasia Astakhova  64 64
@@ -118,7 +122,7 @@
      64 (13) Yu Fujioka           def.      Carolina Bulatovic   64 62
      64      Alexandra Mikhailuk  def.      Madeline Meredith    26 64 61
      64  (5) Safiya Carrington    def.      Kasia Pitak          64 62
-     64      Adela Wasserbauerova  vs       Alexis Lopez         Fri @ 14:00
+     64      Alexis Lopez         def.      Adela Wasserbauerova 64 26 75
      64 (16) Tamara Racine        def.      Kelsey Mize          46 60 63
      64      Luminita Tutunaru     vs       Anne Marie Hiser     Fri @ 15:00
      64      Tanisha Kashyap       vs   (3) Carolyn Ansari       Fri @ 15:00
@@ -262,18 +266,19 @@
   > Main
       16  (1) Tatiana Makarova      vs       Bojana Marinkov      Sat @ 10:30
       16  (9) Alicia Herrero Lina…  vs   (7) Jackie Nylander      Sat @ 10:30
+      16      Liisa Vehvilainen     vs  (14) Malaika Rapolu       Sat @ 10:30
       16 (11) Mary Stoiana          vs   (3) Charlotte Chavatipon Sat @ 10:30
       32  (1) Tatiana Makarova     def.      Nicole Petchey       64 64
       32      Bojana Marinkov      def. (15) Alison Zipoli        63 57 [8]
       32  (9) Alicia Herrero Lina… def.      Aleksandra Zlatarova 76(3) 62
       32  (7) Jackie Nylander      def.      Avelina Sayfetdinova 64 46 [9]
-      32  (6) Federica Trevisan     vs       Liisa Vehvilainen    Fri @ 13:30
+      32      Liisa Vehvilainen    def.  (6) Federica Trevisan    75 76(2)
       32 (14) Malaika Rapolu       def.      Paula Baranano       67(4) 61 [6]
       32 (11) Mary Stoiana         def.      Metka Komac          61 63
       32  (3) Charlotte Chavatipon def.      Claudia Bartolome    62 61
-      32  (4) Margarita Skriabina   vs       Tara Gorinsek        Fri @ 15:00
+      32  (4) Margarita Skriabina  def.      Tara Gorinsek        61 61
       32      Lana Mavor            vs  (13) Gianna Pielet        Fri @ 15:00
-      32      Cristina Tiglea       vs  (10) Hadley Doyle         Fri @ 15:00
+      32 (10) Hadley Doyle         def.      Cristina Tiglea      63 60
       32      Ana Carmen Zamburek   vs   (5) Kylie Collns         Fri @ 15:00
       32  (8) Jayci Goldsmith       vs       Kailey Evans         Fri @ 15:00
       32      Liz Chileno           vs       Hana Kvapilova       Fri @ 15:00
@@ -328,7 +333,7 @@
      32Q      Lucy Furness         def.      Stevie Kennedy       Walkover
      32Q      Saara Orav           def.      Emma Aucagne         Walkover
      32Q      Maria Ponomareva      vs       Gabriela Giraldo     Fri @ 15:00
-     32Q      Ana Paula Jimenez     vs       Deniza Marcinkevica  Fri @ 15:00
+     32Q      Ana Paula Jimenez    def.      Deniza Marcinkevica  61 61
      32Q      Lucie Devier          vs       Victoria Smirnova    Fri @ 15:00
      32Q      Maryjoe Crisologo    def.      Lexi Keberle         Walkover
      32Q      Tomi Main            def. (16) Allura Zamarripa     Walkover

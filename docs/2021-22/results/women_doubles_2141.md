@@ -65,6 +65,7 @@
  Women's Open Doubles
  > Main Draw 1
   > Main
+     16 (2) Gulihur/Melilo       def.     Zeleva/Levashova   Default
      32 (1) Hule/Allen           def.     Kudelova/MGinnis   87(2)
      32     Khodan/Tahan         def.     Oliveira/Yardley   84
      32     Kowalski/Nirundorn   def.     Dean/Muzik         87(3)
@@ -272,9 +273,10 @@
      SF  Landells/Roarty       vs   Bruno/Lee            Fri @ 17:00
  > Naia
   > East
+     SF  Genovese/Fernandez    vs   Pichler/Lysykh       Sat @ 15:30
      SF  Vidanovic/Coopersmi…  vs   Quiceno/Petit        Sat @ 15:30
      QF  Genovese/Fernandez   def.  Piccoliori/Puig Llo… 62 63
-     QF  Pichler/Lysykh        vs   Golz/Bemisderfer     Fri @ 15:30
+     QF  Pichler/Lysykh       def.  Golz/Bemisderfer     26 63 [4]
      QF  Vidanovic/Coopersmi… def.  Mendez/Dveksler      75 61
      QF  Quiceno/Petit        def.  Teodoro De Oliveira… 61 63
      16  Genovese/Fernandez   def.  Gilich/Fernandez     62 61
@@ -286,10 +288,11 @@
      16  Teodoro De Oliveira… def.  Zavala/Lindeboom     61 63
      16  Quiceno/Petit        def.  Siska/Koplova        62 75
   > West
-     QF  Carpenter/Vasquez     vs   Rinaldi/Weiland      Fri @ 15:30
+     QF  Carpenter/Vasquez    def.  Rinaldi/Weiland      67(3) 61 [6]
      QF  Novati/Pinto         def.  Guerrero/Isaac       36 76(4) [1]
      QF  Zavala/Lindeboom      vs   Siska/Koplova        
   > North
+     SF  Piccoliori/Puig Llo…  vs   Golz/Bemisderfer     Sat @ 15:00
      SF  Mendez/Dveksler       vs   Teodoro De Oliveira… Sat @ 15:00
  > Junior College
   > East
@@ -300,7 +303,7 @@
      QF  Wild/Apisah          def.  Beukes/Chen          62 63
      QF  McKenzie/Cherfus     def.  Warham/De Mata       62 62
   > West
-     SF  Vossen/Proktor        vs   Hernandez/Zungu      Fri @ 16:00
+     SF  Hernandez/Zungu      def.  Vossen/Proktor       61 60
      SF  Beukes/Chen           vs   Warham/De Mata       Fri @ 16:00
 ~~~
 

@@ -20,14 +20,15 @@
 
 <a name="21-46458"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
   ITA Division I Women's Southeast Regional Championship
   Dates: Oct 14-27, 2021
   Host: University Of Central Florida (W)
-══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main Draw 1
   > Main
+     16 (2) Gulihur/Melilo       def.     Zeleva/Levashova   Default
      32 (1) Hule/Allen           def.     Kudelova/MGinnis   87(2)
      32     Khodan/Tahan         def.     Oliveira/Yardley   84
      32     Kowalski/Nirundorn   def.     Dean/Muzik         87(3)

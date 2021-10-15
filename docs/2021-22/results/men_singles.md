@@ -273,59 +273,61 @@
 
 <a name="21-08423"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Regional Championship
   Dates: Oct 14-17, 2021
   Host: Liberty University (M)
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
-     16  (1) Yevhen Sirous         vs  (16) Daniel Pellerito    Sat @ 11:00
-     16      Finbar Talcott        vs  (12) Deji Thomas-Smith   Sat @ 11:00
-     16  (3) Holden Koons          vs  (14) Christiaan Worst    Sat @ 11:00
-     32  (1) Yevhen Sirous        def.      Mario Pena          62 61
-     32 (16) Daniel Pellerito     def.      Jourdan Kast        62 61
-     32      Finbar Talcott       def.  (8) Carlo Donato        61 76(1)
-     32 (12) Deji Thomas-Smith    def.      Michael Walser      62 61
-     32  (3) Holden Koons         def.      Robert Hagen        61 62
-     32 (14) Christiaan Worst     def.      Scott Sculley       26 64 Ret.
-     32  (5) Luca Maldoner         vs       Matt Harper         Fri @ 15:00
-     32  (9) Dimosthenis Taramon…  vs       Harrison Brown      Fri @ 15:00
-     32      Oliver Nolan          vs  (11) Thando Longwe-Smit  Fri @ 15:15
-     32      Alex Ix               vs   (6) Guilherme Severin   Fri @ 15:30
-     32      Konstantinos Raptis   vs  (13) Sebastian Quiros    Fri @ 15:00
-     32      Michael Shepheard    def.  (4) Codie Van Schalkwyk 36 63 62
-     32      Joseph Brailovsky     vs  (10) Frank Thompson      Fri @ 15:30
-     32      Oscar Hernandez       vs   (7) Nicola Vidal        Fri @ 16:00
-     32      Aditya Balsekar       vs  (15) William Karpinski   Fri @ 16:45
-     32  (2) Alvaro Ariza         def.      Chen Ruo            67(4) 60 63
-     64      Mario Pena           def.      Raphael Mujan       60 64
-     64      Jourdan Kast         def.      Ryan Bernstine      75 61
-     64      Finbar Talcott       def.      Andres Silva        62 26 64
-     64      Michael Walser       def.      Rosen Nayadenov     61 62
-     64      Robert Hagen         def.      Oliver Tobisch      63 62
-     64      Scott Sculley        def.      Ernesto Rocabert    64 16 63
-     64      Matt Harper          def.      Zion Heaven         64 64
-     64      Harrison Brown       def.      Youssef Sadek       62 75
-     64      Oliver Nolan         def.      Sean Joseph         36 60 62
-     64      Alex Ix              def.      Mathieu Josserand   75 75
-     64      Konstantinos Raptis  def.      Stefan Petrovic     61 61
-     64      Michael Shepheard    def.      Goncalo Ferreira    Walkover
-     64      Joseph Brailovsky    def.      Manfredi Vergine    61 63
-     64      Oscar Hernandez      def.      Guillermo Cagigas   63 61
-     64      Aditya Balsekar      def.      Luis Reis           36 64 62
-     64      Chen Ruo             def.      Omar El Kadi        61 63
+     16  (1) Yevhen Sirous         vs  (16) Daniel Pellerito     Sat @ 11:00
+     16      Finbar Talcott        vs  (12) Deji Thomas-Smith    Sat @ 11:00
+     16  (3) Holden Koons          vs  (14) Christiaan Worst     Sat @ 11:00
+     16  (5) Luca Maldoner         vs   (9) Dimosthenis Taramon… Sat @ 11:00
+     16 (13) Sebastian Quiros      vs       Michael Shepheard    Sat @ 11:00
+     32  (1) Yevhen Sirous        def.      Mario Pena           62 61
+     32 (16) Daniel Pellerito     def.      Jourdan Kast         62 61
+     32      Finbar Talcott       def.  (8) Carlo Donato         61 76(1)
+     32 (12) Deji Thomas-Smith    def.      Michael Walser       62 61
+     32  (3) Holden Koons         def.      Robert Hagen         61 62
+     32 (14) Christiaan Worst     def.      Scott Sculley        26 64 Ret.
+     32  (5) Luca Maldoner        def.      Matt Harper          75 63
+     32  (9) Dimosthenis Taramon… def.      Harrison Brown       63 63
+     32      Oliver Nolan          vs  (11) Thando Longwe-Smit   Fri @ 15:15
+     32  (6) Guilherme Severin    def.      Alex Ix              75 75
+     32 (13) Sebastian Quiros     def.      Konstantinos Raptis  75 36 62
+     32      Michael Shepheard    def.  (4) Codie Van Schalkwyk  36 63 62
+     32      Joseph Brailovsky     vs  (10) Frank Thompson       Fri @ 15:30
+     32  (7) Nicola Vidal         def.      Oscar Hernandez      62 60
+     32      Aditya Balsekar       vs  (15) William Karpinski    Fri @ 16:45
+     32  (2) Alvaro Ariza         def.      Chen Ruo             67(4) 60 63
+     64      Mario Pena           def.      Raphael Mujan        60 64
+     64      Jourdan Kast         def.      Ryan Bernstine       75 61
+     64      Finbar Talcott       def.      Andres Silva         62 26 64
+     64      Michael Walser       def.      Rosen Nayadenov      61 62
+     64      Robert Hagen         def.      Oliver Tobisch       63 62
+     64      Scott Sculley        def.      Ernesto Rocabert     64 16 63
+     64      Matt Harper          def.      Zion Heaven          64 64
+     64      Harrison Brown       def.      Youssef Sadek        62 75
+     64      Oliver Nolan         def.      Sean Joseph          36 60 62
+     64      Alex Ix              def.      Mathieu Josserand    75 75
+     64      Konstantinos Raptis  def.      Stefan Petrovic      61 61
+     64      Michael Shepheard    def.      Goncalo Ferreira     Walkover
+     64      Joseph Brailovsky    def.      Manfredi Vergine     61 63
+     64      Oscar Hernandez      def.      Guillermo Cagigas    63 61
+     64      Aditya Balsekar      def.      Luis Reis            36 64 62
+     64      Chen Ruo             def.      Omar El Kadi         61 63
  > Back Draw Day 1
   > Main
-     64      Raphael Mujan        def.      Ryan Bernstine      76(5) 75
-     64      Andres Silva         def.      Rosen Nayadenov     36 63 63
-     64      Ernesto Rocabert     def.      Mathieu Josserand   64 61
-     64      Sean Joseph          def.      Stefan Petrovic     Walkover
-     64      Guillermo Cagigas    def.      Manfredi Vergine    64 60
-     64      Luis Reis             vs       Omar El Kadi        Fri @ 16:30
-     64      Youssef Sadek        def.      Oliver Tobisch      75 61
-     64      Josh Wilson          def.      George Davis        62 63
+     64      Raphael Mujan        def.      Ryan Bernstine       76(5) 75
+     64      Andres Silva         def.      Rosen Nayadenov      36 63 63
+     64      Ernesto Rocabert     def.      Mathieu Josserand    64 61
+     64      Sean Joseph          def.      Stefan Petrovic      Walkover
+     64      Guillermo Cagigas    def.      Manfredi Vergine     64 60
+     64      Omar El Kadi         def.      Luis Reis            63 61
+     64      Youssef Sadek        def.      Oliver Tobisch       75 61
+     64      Josh Wilson          def.      George Davis         62 63
 ~~~
 
 <a name="21-05800"></a>
@@ -338,11 +340,13 @@
  Men's Open Singles
  > Draw
   > Main
-      16  Philip Hjorth       vs   Nil Giraldez       Fri @ 11:00
-      16  James Watt          vs   Matheo Coupu       Fri @ 11:00
-      16  Nitzan Ricklis      vs   Patrick Wong       Fri @ 11:00
-      16  Aryan Chaudhary     vs   Arthur Neuhaus     Fri @ 11:00
-      16  Ambroise Marchand   vs   Phuc Huynh         Fri @ 11:00
+      QF  Philip Hjorth       vs   James Watt         Sat @ 11:00
+      QF  Nitzan Ricklis      vs   Aryan Chaudhary    Sat @ 11:00
+      16  Philip Hjorth      def.  Nil Giraldez       63 64
+      16  James Watt         def.  Matheo Coupu       76(7) 16 63
+      16  Nitzan Ricklis     def.  Patrick Wong       76(5) 62
+      16  Aryan Chaudhary    def.  Arthur Neuhaus     62 63
+      16  Phuc Huynh         def.  Ambroise Marchand  46 75 63
       16  Ori Maior           vs   Guillaume Dalmasso Fri @ 11:00
       16  Carlos Ramos        vs   Mate Voros         Fri @ 11:00
       16  Tomas Kopczynski    vs   Russell Henderson  Fri @ 11:00
