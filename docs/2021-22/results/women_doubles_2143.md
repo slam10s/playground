@@ -32,7 +32,7 @@
      32 (1) Hule/Allen           def.     Kudelova/MGinnis   87(2)
      32     Khodan/Tahan         def.     Oliveira/Yardley   84
      32     Kowalski/Nirundorn   def.     Dean/Muzik         87(3)
-     32     Tillitt/Courville    def. (7) Briggs/Zein        82
+     32 (7) Briggs/Zein          def.     Tillitt/Courville  82
      32 (5) Pfennig/Boch-Collins def.     Kentish/Smith      82
      32     Dudeney/Berlin       def.     Cohen/Garcia Gross 84
      32     Mattel/Sharma        def.     Ferding/Norin      82

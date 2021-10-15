@@ -624,7 +624,7 @@
  > Saturday Doubles
   > Main
      16  Grant/Hertel         def.  Job/Linares          61
-     16  Hiser/Bencheikh      def.  Machalova/Leclercq-… 60
+     16  Hiser/Bencheikh      def.  Machalova/Leclerq-F… 60
      16  Kowalski/Nirundorn   def.  Alloyarova/Ukita     62
      16  Coppoc/Reasco        def.  Dekkers/Gheorghita   64
      16  Sedlackova/Parkhome… def.  Mize/Pool            63
@@ -636,7 +636,7 @@
      16  Hiser/Bencheikh      def.  Alloyarova/Turco     64
      16  Job/Linares          def.  Sedlackova/Parkhome… 62
      16  Coppoc/Reasco        def.  Mize/Pool            61
-     16  Kowalski/Ma          def.  Leclercq-Ficher/Gab… 63
+     16  Kowalski/Ma          def.  Leclerq-Ficher/Gabr… 63
      16  Grant/Hertel         def.  Machalova/Kareisova  60
      16  Clayton/Nirundorn    def.  Kareisova/Zadori     64
 ~~~

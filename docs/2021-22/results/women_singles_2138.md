@@ -1192,7 +1192,7 @@
      32  Kelsey Mize          def.  Manami Ukita         62 60
      32  Anna Turco           def.  Sydney Oerfice       61 61
      32  Dinara Alloyarova    def.  Eesha Gudiseva       61 63
-     32  Anaelle Leclercq-Fi… def.  Alee Clayton         64 26 61
+     32  Anaelle Leclerq-Fic… def.  Alee Clayton         64 26 61
      32  Mell Reasco          def.  Rachel Krzyzak       46 61 62
      32  Loudmilla Bencheikh  def.  Karine-Marion Job    61 63
      32  Tiphanie Fiquet      def.  Lea Ma               63 61
@@ -1210,7 +1210,7 @@
      32  Elysia Pool          def.  Ioana Gheorghita     67(2) 63 76(4)
      32  Ludmila Kareisova    def.  Florentine Dekkers   46 64 63
      32  Rachel Krzyzak       def.  Maria Linares        36 41 Ret.
-     32  Dinara Alloyarova    def.  Anaelle Leclercq-Fi… 64 63
+     32  Dinara Alloyarova    def.  Anaelle Leclerq-Fic… 64 63
      32  Karine-Marion Job    def.  Kelsey Mize          64 76(2)
      32  Reka Zadori          def.  Manami Ukita         62 60
      32  Lea Ma               def.  Loudmilla Bencheikh  75 62
@@ -1232,7 +1232,7 @@
      32  Rosanna Maffei       def.  Mai Nirundorn        63 36 64
      32  Loudmilla Bencheikh  def.  Sabina Machalova     64 63
      32  Petra Sedlackova     def.  Rachel Krzyzak       76(5) 57 63
-     32  Anaelle Leclercq-Fi… def.  Ansley Cheshire      62 62
+     32  Anaelle Leclerq-Fic… def.  Ansley Cheshire      62 62
 ~~~
 
 <a name="21-47703"></a>

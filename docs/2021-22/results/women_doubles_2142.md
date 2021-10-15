@@ -2,10 +2,8 @@
 
 **Tournamets with Matches**  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">ITA Division I Women's Southern Regional Championship</a>  
 
 **Upcoming Tournaments**  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityW/Tournaments/Overview/61F146C9-753C-4458-9E95-EE269C0BB692" target="_blank">ITA Division I Carolina Women's Regional Championship</a>  
@@ -33,7 +31,7 @@
      32 (1) Hule/Allen           def.     Kudelova/MGinnis   87(2)
      32     Khodan/Tahan         def.     Oliveira/Yardley   84
      32     Kowalski/Nirundorn   def.     Dean/Muzik         87(3)
-     32     Tillitt/Courville    def. (7) Briggs/Zein        82
+     32 (7) Briggs/Zein          def.     Tillitt/Courville  82
      32 (5) Pfennig/Boch-Collins def.     Kentish/Smith      82
      32     Dudeney/Berlin       def.     Cohen/Garcia Gross 84
      32     Mattel/Sharma        def.     Ferding/Norin      82
@@ -55,6 +53,51 @@
      16     Aldrich/Frediani     def.     Porter/Salinas     86
 ~~~
 
+<a name="21-32447"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════
+  ITA Division I Women's Southern Regional Championship
+  Dates: Oct 14-19, 2021
+  Host: University Of Alabama (W)
+════════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Main
+  > Main
+     32  (1) Flach/Axon            vs       Klevisar/Minetti     Sat @ 09:00
+     32 (12) Raquin/Urchoeguia     vs       Kohoutova/Tutunaru   Sat @ 09:00
+     32  (7) Leclerq-Ficher/Pool   vs       Mellynchuk/Ferreira… Sat @ 09:00
+     32 (15) Pitak/Pitak           vs       Medik/Burton         Sat @ 09:00
+     32  (3) Adaloglou/Cirotte     vs       Schuknecht/Tetruash… Sat @ 09:00
+     32 (11) White/Clarke          vs       Mize/Kareisova       Sat @ 09:00
+     32  (5) Babic/Geissler        vs       Parkhomenko/Sedlack… Sat @ 09:00
+     32 (14) Khokhlova/Widing      vs       Russell/Yelamanchili Sat @ 09:00
+     32      Dohnalova/Wojcikova   vs  (10) Garbino/Hernandez    Sat @ 09:00
+     32      Wasserbauerova/White  vs   (8) Cubitt/Carrington    Sat @ 09:00
+     32      Hiser/Bencheikh       vs  (16) Lopez/Zaprianov      Sat @ 09:00
+     32      Elliott/Ncube         vs   (4) Fiquet/Machalova     Sat @ 09:00
+     32      Rabinowitz/Bridges    vs  (13) Tardivel/Yazgan      Sat @ 09:45
+     32      Zadori/Gabrielsen     vs   (6) Meredith/Arseneault  Sat @ 09:45
+     32      Szczygielska/Ishiba…  vs   (9) Borland/Lavery       Sat @ 09:45
+     32      Gomez/Pereira         vs   (2) Antonaki/Racine      Sat @ 09:45
+     64      Klevisar/Minetti     def.      Walther/Theis        82
+     64      Kohoutova/Tutunaru   def.      Mikhailuk/Falceto    84
+     64      Mellynchuk/Ferreira… def.      Grigoriu/Balaba      87(3)
+     64 (15) Pitak/Pitak          def.      Bulatovic/Mosse      87(2)
+     64      Medik/Burton         def.      Song/Hayduk          82
+     64      Schuknecht/Tetruash… def.      Nanere/Jablonski     87(6)
+     64      Mize/Kareisova       def.      Konstantinova/Rodri… 82
+     64      Parkhomenko/Sedlack… def.      Domingo Bernabeu/Mo… 81
+     64      Russell/Yelamanchili def.      Taknishi/Pasanen     82
+     64      Dohnalova/Wojcikova  def.      Jones/Prato          87(3)
+     64      Wasserbauerova/White def.      Ansari/Astakhova     87(6)
+     64      Hiser/Bencheikh      def.      Aoki/van der Merwe   83
+     64 (16) Lopez/Zaprianov      def.      Rodrigues/Romero     84
+     64      Rabinowitz/Bridges   def.      Syrova/Kaya          80
+     64      Zadori/Gabrielsen    def.      Mulatero/Mora Ballo  85
+     64      Szczygielska/Ishiba… def.      Fujioka/Klienhans    84
+     64      Gomez/Pereira        def.      Smith/Ratkic         85
+~~~
+
 <a name="21-76092"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════════════
@@ -65,23 +108,35 @@
  Women's Open Doubles
  > Draw
   > Main
+     32  (1) Makarova/Goldsmith    vs       Peet/Stepp           Sat @ 09:00
      32      Vutukuru/Basson       vs  (16) Cortijo Parreno/Tre… Sat @ 09:00
+     32      Fulgenzi/Fulgenzi     vs   (9) Smirnova/Zipoli      Sat @ 09:00
+     32      Reinertsen/Jimenez    vs   (7) Keberle/Bartolome    Sat @ 09:00
+     32  (5) Chavatipon/Collns     vs       Zlatarova/Weir       Sat @ 09:00
+     32 (11) Skriabina/Tiglea      vs       Vehvilainen/Oyama    Sat @ 09:00
      32 (14) Orav/Smirnova         vs       Kortikere/Cusano     Sat @ 09:00
+     32      Gorinsek/Chileno      vs   (3) Nylander/Doyle       Sat @ 09:00
+     32      Adams/Devier         def.  (4) Zamarripa/Zamarripa  Walkover
      32      Huth/Jakeway          vs  (13) Komac/Main           Sat @ 09:00
+     32      Pons/Novikova         vs  (10) Baranano/Zamburek    Sat @ 09:00
      32      McCain/Starr          vs   (6) Pielet/Stoiana       Sat @ 09:00
-     64      Townsend/Shumeika     vs       Peet/Stepp           Fri @ 09:00
-     64      Fulgenzi/Fulgenzi     vs       Zhou/Ponomareva      Fri @ 09:00
-     64      Reinertsen/Jimenez    vs       Fortuno/Chan         Fri @ 09:00
-     64      Zlatarova/Weir        vs       Guerrero/Mocciola    Fri @ 09:00
-     64      Malazonia/McCutcheon  vs       Vehvilainen/Oyama    Fri @ 09:00
-     64      Slisane/Giraldo       vs       Gorinsek/Chileno     Fri @ 09:00
-     64      Stewart/Crisologo     vs       Adams/Devier         Fri @ 09:00
-     64      Kauders/Cerda         vs       Pons/Novikova        Fri @ 09:00
+     32  (8) Evans/Sayfetdinova    vs       Honore/Aucagne       Sat @ 09:00
+     32 (12) El Jardi/Trevisan     vs       Kalava/Hummel        Sat @ 09:00
+     32 (15) Dzemeshkevich/Pedem…  vs       Morris/Mavor         Sat @ 09:00
+     32      Kvapilova/Israel-Le…  vs   (2) Herrero Linana/Kryw… Sat @ 09:00
+     64      Peet/Stepp           def.      Townsend/Shumeika    85
+     64      Fulgenzi/Fulgenzi    def.      Zhou/Ponomareva      82
+     64      Reinertsen/Jimenez   def.      Fortuno/Chan         83
+     64      Zlatarova/Weir       def.      Guerrero/Mocciola    84
+     64      Vehvilainen/Oyama    def.      Malazonia/McCutcheon 83
+     64      Gorinsek/Chileno     def.      Slisane/Giraldo      86
+     64      Adams/Devier         def.      Stewart/Crisologo    84
+     64      Pons/Novikova        def.      Kauders/Cerda        82
      64      McCain/Starr         def.      Zivkovic/Damera      Walkover
-     64      Chobanyan/Kaszas      vs       Honore/Aucagne       Fri @ 09:00
-     64      Kalava/Hummel         vs       Omoworare/Beyebach   Fri @ 09:00
-     64      Morris/Mavor          vs       Marcinkevica/Makant… Fri @ 09:00
-     64      Horiguchi/Dumitrescu  vs       Kvapilova/Israel-Le… Fri @ 09:00
+     64      Honore/Aucagne       def.      Chobanyan/Kaszas     84
+     64      Kalava/Hummel        def.      Omoworare/Beyebach   83
+     64      Morris/Mavor         def.      Marcinkevica/Makant… 85
+     64      Kvapilova/Israel-Le… def.      Horiguchi/Dumitrescu 82
 ~~~
 
 Return to the [Top](./women_doubles_2142.md) &#124; [Home Page](../../index.md)
