@@ -93,8 +93,8 @@
   > Main
      32  Torre Martin/Stable   vs   Bickel/Yang          Fri @ 13:00
      32  Byers/Bossem         def.  Jones/Robinson       82
-     32  Molina/Wilkinson      vs   Kjellberg/Garner     Fri @ 12:30
-     32  Kapoor/Haddou         vs   Allen/Kiefer         Fri @ 12:30
+     32  Molina/Wilkinson     def.  Kjellberg/Garner     82
+     32  Allen/Kiefer         def.  Kapoor/Haddou        81
      32  Delmas/Gorregues     def.  Lopez/Rachal         80
      32  Sharma/Rozanov       def.  Segraves/Garner      Walkover
      32  Thompson/Panyan      def.  Bailey/Dawson        86
@@ -280,17 +280,22 @@
 
 <a name="21-41868"></a>
 ~~~
-══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
   UTC-Steve Baras Invitational
   Dates: Oct 15-17, 2021
   Host: Univ. Of Tennessee, Chattanooga (M)
-══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
  Men's Open Doubles
  > Utc/ttu
   > Main
-     QF  Hyatt/Labbe      def.  Vicente/Tosetto    76(4)
-     QF  Marshall/Mudre   def.  Holis/Sasagawa     63
-     QF  Berghaus/Grubert def.  McClure/Nevenhoven 64
+     QF  Hyatt/Labbe       def.  Vicente/Tosetto    76(4)
+     QF  Marshall/Mudre    def.  Holis/Sasagawa     63
+     QF  Berghaus/Grubert  def.  McClure/Nevenhoven 64
+ > Utc/una
+  > Main
+     QF  Matarredona/Perez def.  Hyatt/Labbe        76(5)
+     QF  Mudre/McClure     def.  Zhang/Diniz        75
+     QF  Nevenhoven/Nash   def.  Bixby/Tolbert      76(4)
 ~~~
 
 <a name="21-00186"></a>
@@ -345,9 +350,13 @@
      16  Ramirez/Bain         def.  Subert/Cooke         64 64
      16  Czepielewski/Bonacia def.  Barbon/Stepanov      64 16 [6]
   > West
+     SF  Beltran/Komel         vs   Barbon/Stepanov      Sat @ 15:00
      QF  Pessoa/Pelletti       vs   Omarkhanov/Salazar   Fri @ 15:00
      QF  Carrizo/Sprovieri    def.  Little/Braham        63 67(3) [5]
+     QF  Beltran/Komel        def.  Fernandez/Gallegos   Walkover
      QF  Barbon/Stepanov      def.  Subert/Cooke         62 62
+  > South
+     SF  Fernandez/Gallegos    vs   Subert/Cooke         Sat @ 15:00
  > Division II
   > East
      SF  Cueto Ramos/Regalado  vs   Mack/Carvalho        Sat @ 13:30

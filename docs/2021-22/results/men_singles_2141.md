@@ -283,12 +283,13 @@
   > Main
      16  (1) Yevhen Sirous         vs  (16) Daniel Pellerito    Sat @ 11:00
      16      Finbar Talcott        vs  (12) Deji Thomas-Smith   Sat @ 11:00
+     16  (3) Holden Koons          vs  (14) Christiaan Worst    Sat @ 11:00
      32  (1) Yevhen Sirous        def.      Mario Pena          62 61
      32 (16) Daniel Pellerito     def.      Jourdan Kast        62 61
      32      Finbar Talcott       def.  (8) Carlo Donato        61 76(1)
      32 (12) Deji Thomas-Smith    def.      Michael Walser      62 61
      32  (3) Holden Koons         def.      Robert Hagen        61 62
-     32 (14) Christiaan Worst      vs       Scott Sculley       Fri @ 15:30
+     32 (14) Christiaan Worst     def.      Scott Sculley       26 64 Ret.
      32  (5) Luca Maldoner         vs       Matt Harper         Fri @ 15:00
      32  (9) Dimosthenis Taramon…  vs       Harrison Brown      Fri @ 15:00
      32      Oliver Nolan          vs  (11) Thando Longwe-Smit  Fri @ 15:15
@@ -625,8 +626,12 @@
      QF  Adam Kovac         vs   Jagger Saylor        Sat @ 11:30
  > Draw C
   > East
+     QF  Wojciech Szczesny  vs   Xavier Ecarma        Sat @ 10:00
      QF  Andre Suzanne      vs   Kyle Tang            Sat @ 10:00
+     16  Xavier Ecarma     def.  Juan Lombisano       64 63
      16  Kyle Tang         def.  Vlad Meluta          60 60
+  > West
+     SF  Juan Lombisano     vs   Vlad Meluta          Sat @ 11:30
 ~~~
 
 <a name="21-41868"></a>

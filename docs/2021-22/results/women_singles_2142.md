@@ -97,6 +97,7 @@
      32      Reka Zadori           vs       Anna Parkhomenko     Sat @ 13:00
      32 (15) Nikola Kohoutova      vs       Maggie Cubitt        Sat @ 13:00
      32      Lahari Yelamanchili   vs  (13) Yu Fujioka           Sat @ 13:00
+     32      Alexandra Mikhailuk   vs   (5) Safiya Carrington    Sat @ 13:00
      64  (1) Emmanouela Antonaki  def.      Lucie Raquin         63 76(6)
      64      Nina Geissler        def.      Otoha Aoki           64 62
      64 (14) Ludmila Kareisova    def.      Tjasa Klevisar       63 76(5)
@@ -115,7 +116,7 @@
      64      Maggie Cubitt        def.      Mikaela Konstantino… 62 60
      64      Lahari Yelamanchili  def.      Lillian Gabrielsen   63 64
      64 (13) Yu Fujioka           def.      Carolina Bulatovic   64 62
-     64      Madeline Meredith     vs       Alexandra Mikhailuk  Fri @ 13:30
+     64      Alexandra Mikhailuk  def.      Madeline Meredith    26 64 61
      64  (5) Safiya Carrington    def.      Kasia Pitak          64 62
      64      Adela Wasserbauerova  vs       Alexis Lopez         Fri @ 14:00
      64      Kelsey Mize           vs  (16) Tamara Racine        Fri @ 14:00
@@ -259,10 +260,12 @@
      32Q      Elena Trencheva      def.      Emma Honore          46 75 [6]
  > Women's Main Draw
   > Main
+      16  (1) Tatiana Makarova      vs       Bojana Marinkov      Sat @ 10:30
+      16  (9) Alicia Herrero Lina…  vs   (7) Jackie Nylander      Sat @ 10:30
       16 (11) Mary Stoiana          vs   (3) Charlotte Chavatipon Sat @ 10:30
       32  (1) Tatiana Makarova     def.      Nicole Petchey       64 64
-      32      Bojana Marinkov       vs  (15) Alison Zipoli        Fri @ 13:30
-      32      Aleksandra Zlatarova  vs   (9) Alicia Herrero Lina… Fri @ 13:30
+      32      Bojana Marinkov      def. (15) Alison Zipoli        63 57 [8]
+      32  (9) Alicia Herrero Lina… def.      Aleksandra Zlatarova 76(3) 62
       32  (7) Jackie Nylander      def.      Avelina Sayfetdinova 64 46 [9]
       32  (6) Federica Trevisan     vs       Liisa Vehvilainen    Fri @ 13:30
       32 (14) Malaika Rapolu       def.      Paula Baranano       67(4) 61 [6]

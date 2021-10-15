@@ -265,16 +265,17 @@
      QF  Franta/Henderson     def.  Landells/Roarty      75 62
      QF  Ziehm/Kesterson      def.  Bruno/Lee            62 60
   > North
-     SF  Cornwall/Zheng        vs   Zhou/Markey          Fri @ 16:30
+     SF  Cornwall/Zheng        vs   Zhou/Markey          
      SF  Goetz/Li              vs   Rigby/Christensen    Fri @ 17:00
   > South
      SF  Castellanos Caldero…  vs   Beshentseva/Vazquez  Fri @ 17:00
      SF  Landells/Roarty       vs   Bruno/Lee            Fri @ 17:00
  > Naia
   > East
+     SF  Vidanovic/Coopersmi…  vs   Quiceno/Petit        Sat @ 15:30
      QF  Genovese/Fernandez   def.  Piccoliori/Puig Llo… 62 63
      QF  Pichler/Lysykh        vs   Golz/Bemisderfer     Fri @ 15:30
-     QF  Mendez/Dveksler       vs   Vidanovic/Coopersmi… Fri @ 15:30
+     QF  Vidanovic/Coopersmi… def.  Mendez/Dveksler      75 61
      QF  Quiceno/Petit        def.  Teodoro De Oliveira… 61 63
      16  Genovese/Fernandez   def.  Gilich/Fernandez     62 61
      16  Piccoliori/Puig Llo… def.  Muhammad/Clarke      46 63 [6]
@@ -288,6 +289,8 @@
      QF  Carpenter/Vasquez     vs   Rinaldi/Weiland      Fri @ 15:30
      QF  Novati/Pinto         def.  Guerrero/Isaac       36 76(4) [1]
      QF  Zavala/Lindeboom      vs   Siska/Koplova        
+  > North
+     SF  Mendez/Dveksler       vs   Teodoro De Oliveira… Sat @ 15:00
  > Junior College
   > East
      SF  Martins/Anzalotta     vs   Carvalho-Landell/Ga… Fri @ 16:00
