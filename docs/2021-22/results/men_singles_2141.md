@@ -7,7 +7,6 @@
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-05800) ([Results](#21-05800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Texas Regional Championship](#21-59010) ([Results](#21-59010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">Draws</a>)  
-- 10/15/2021 - [Louisville Invitational](#21-27355) ([Results](#21-27355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
 
@@ -17,6 +16,7 @@
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">ITA Division I Men's Atlantic Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Louisville Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">San Diego State Fall Invite</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">UTC-Steve Baras Invitational</a>  
 
