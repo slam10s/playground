@@ -12,6 +12,7 @@
 - 10/8/2021 - [Long Beach State Fall Tournament](#21-66132) ([Results](#21-66132) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Draws</a>)  
 - 10/8/2021 - [MVC Individual Championships](#21-95059) ([Results](#21-95059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">Draws</a>)  
 - 10/8/2021 - [Navy Blue and Gold Invitational](#21-53408) ([Results](#21-53408) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C" target="_blank">Draws</a>)  
+- 10/10/2021 - [SEMO Invitational](#21-50227) ([Results](#21-50227) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheastMissouriStateUnivW/Tournaments/Overview/E0892C7B-1714-4B99-A547-2386D7847CF2" target="_blank">Draws</a>)  
 - 10/8/2021 - [SMU Red and Blue Invite](#21-78857) ([Results](#21-78857) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/4628479A-19D9-4AD2-91AA-D180971411D5" target="_blank">Draws</a>)  
 - 10/8/2021 - [USC Women of Troy Invitational](#21-75174) ([Results](#21-75174) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F" target="_blank">Draws</a>)  
 - 10/8/2021 - [Wildcat Invite](#21-77667) ([Results](#21-77667) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847" target="_blank">Draws</a>)  
@@ -25,7 +26,6 @@
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Georgia Southern Fall Shootout</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">June Stewart</a>  
-- 10/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SoutheastMissouriStateUnivW/Tournaments/Overview/E0892C7B-1714-4B99-A547-2386D7847CF2" target="_blank">SEMO Invitational</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889" target="_blank">Middlebury Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
@@ -973,6 +973,67 @@
  > Extra Match
   > Main
       F     Minorka Miranda      def.     Emily Tannenbaum     62 75
+~~~
+
+<a name="21-50227"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  SEMO Invitational
+  Dates: Oct 10-10, 2021
+  Host: Southeast Missouri State Univ. (W)
+══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Blue
+  > Main
+     R3  Amelia Campbell     def.  Mya Spencer          61 76(4)
+     R2  Daniela Hlacikova   def.  Mya Spencer          36 63 [8]
+     R1  Daniela Hlacikova    vs   Amelia Campbell      
+ > Pink
+  > Main
+     R1  Kate Sexton         def.  Jillian Niedzialows… 86
+ > Extra Match
+  > Main
+      F  Kate Sexton         def.  Teona Velkoska       63 76(8)
+ > Orange
+  > Main
+     R3  Mariona Perez       def.  Aziza Aubin          63 62
+     R2  Mariona Perez       def.  Vivian Lai           36 64 [5]
+     R1  Vivian Lai          def.  Aziza Aubin          62 61
+ > Red
+  > Main
+     R3  Elizabeth Mintusova def.  Sina Albersmeier     63 64
+     R3  Romana Tarajova     def.  Jule Steif           63 61
+     R2  Romana Tarajova     def.  Elizabeth Mintusova  60 61
+     R2  Sina Albersmeier     vs   Jule Steif           
+     R1  Romana Tarajova      vs   Sina Albersmeier     
+     R1  Elizabeth Mintusova  vs   Jule Steif           
+ > Green
+  > Main
+     R3  Jule Steif           vs   Ksenia Shikanova     
+     R3  Lia Espinal          vs   Jessica Stefan       
+     R2  Ksenia Shikanova    def.  Lia Espinal          62 62
+     R2  Jessica Stefan      def.  Jule Steif           63 64
+     R1  Lia Espinal          vs   Jule Steif           
+     R1  Ksenia Shikanova    def.  Jessica Stefan       75 62
+ > Purple
+  > Main
+     R3  Lizzie Barloe        vs   Mizuki Sakurai       
+     R3  Lera Valeeva         vs   Norhan Hesham        
+     R2  Lera Valeeva        def.  Mizuki Sakurai       76(4) 26 [6]
+     R2  Lizzie Barloe        vs   Norhan Hesham        
+     R1  Lera Valeeva        def.  Lizzie Barloe        63 63
+     R1  Norhan Hesham       def.  Mizuki Sakurai       61 63
+ > Yellow
+  > Main
+     R3  Ariadna Ondo        def.  Manuela Barriga      61 75
+     R3  Nawal Cheema         vs   Norhan Hesham        
+     R2  Nawal Cheema         vs   Manuela Barriga      
+     R2  Ariadna Ondo         vs   Norhan Hesham        
+     R1  Ariadna Ondo        def.  Nawal Cheema         60 62
+     R1  Norhan Hesham       def.  Manuela Barriga      60 61
+ > Extra Match
+  > Main
+      F  Lia Espinal         def.  Lizzie Barloe        62 61
 ~~~
 
 <a name="21-78857"></a>
