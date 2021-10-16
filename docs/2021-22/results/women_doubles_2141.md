@@ -6,18 +6,16 @@
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
 - 10/15/2021 - [Martha Thorn Invitational](#21-82907) ([Results](#21-82907) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Draws</a>)  
+- 10/16/2021 - [2021 Midwest Conference Women's Tennis Individual Tournament](#21-17879) ([Results](#21-17879) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
+- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Brown Classic</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">ITA Division I Women's Mountain Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/B1C9ACB5-0D08-48E0-980C-75F2F818B28F" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Viking Invitational</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">American Rivers Conference Women's Individual Tournament</a>  
-
-**Upcoming Tournaments**  
-- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Brown Classic</a>  
-- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">2021 Midwest Conference Women's Tennis Individual Tournament</a>  
 
 <a name="21-27941"></a>
 ~~~
@@ -205,6 +203,10 @@
      QF  Afanasyeva/Moulin    def.  Sawyer/Simova     75
      QF  Los Arcos/Voloh      def.  Richardson/Chaika 62
      QF  Callwood/Verma       def.  Moulin/Nord       63
+ > WVU v Louisville
+  > Main
+     QF  Bossi/Chang          def.  Sawyer/Simova     64
+     QF  Kovick/Kucharova     def.  Richardson/Chaika 64
 ~~~
 
 <a name="21-00186"></a>
@@ -233,19 +235,22 @@
      16 (2) Espinal/Nosievici    def.     Graydon/Kirchtag     63 61
   > West
      SF (1) Novikova/Dunlap       vs      Stephenson/Waller    Sat @ 12:30
+     SF (3) Borg/Groth            vs      Chamoun/Spice        Sat @ 12:30
      QF (1) Novikova/Dunlap      def.     Jancikova/Arce Viey… 63 62
      QF     Stephenson/Waller    def.     Munday/Stralka       61 63
      QF (3) Borg/Groth           def.     Guler/Irrinki        63 06 [6]
-     QF     Chamoun/Spice         vs      Graydon/Kirchtag     
+     QF     Chamoun/Spice        def.     Graydon/Kirchtag     64 63
   > North
      SF     Jorge/Lippert         vs  (4) Gonzalez Ramirez/Ov… Sat @ 12:30
      SF     Ragona/Shiau          vs  (2) Espinal/Nosievici    Sat @ 12:30
   > South
      SF     Jancikova/Arce Viey…  vs      Munday/Stralka       Sat @ 12:30
+     SF     Guler/Irrinki         vs      Graydon/Kirchtag     Sat @ 12:30
  > Division III
   > East
-     SF     Gaeth/Yu              vs  (4) Guo/Mikos            Fri @ 17:00
-     SF     Givone/Zhou           vs      Fordham/Plakk        Fri @ 17:00
+      F (4) Guo/Mikos             vs      Fordham/Plakk        Sat @ 11:30
+     SF (4) Guo/Mikos            def.     Gaeth/Yu             46 76(4) [7]
+     SF     Fordham/Plakk        def.     Givone/Zhou          63 64
      QF     Gaeth/Yu             def. (1) Cornwall/Zheng       63 64
      QF (4) Guo/Mikos            def.     Zhou/Markey          61 63
      QF     Givone/Zhou          def. (3) Goetz/Li             64 62
@@ -259,18 +264,17 @@
      16     Fordham/Plakk        def.     Ziehm/Kesterson      61 63
      16 (2) Rigby/Christensen    def.     Bruno/Lee            60 61
   > West
-     SF     Fatemi/Cartledge      vs      Lee/Juan             Fri @ 16:30
+     SF     Lee/Juan             def.     Fatemi/Cartledge     63 64
      SF     Ziehm/Kesterson      def.     Franta/Henderson     60 60
      QF     Fatemi/Cartledge     def.     Castellanos Caldero… 63 62
      QF     Lee/Juan             def.     Beshentseva/Vazquez  63 64
      QF     Franta/Henderson     def.     Landells/Roarty      75 62
      QF     Ziehm/Kesterson      def.     Bruno/Lee            62 60
   > North
-     SF (1) Cornwall/Zheng        vs      Zhou/Markey          
-     SF (3) Goetz/Li              vs  (2) Rigby/Christensen    Fri @ 17:00
+     SF (2) Rigby/Christensen    def. (3) Goetz/Li             63 75
   > South
-     SF     Castellanos Caldero…  vs      Beshentseva/Vazquez  Fri @ 17:00
-     SF     Landells/Roarty       vs      Bruno/Lee            Fri @ 17:00
+     SF     Castellanos Caldero… def.     Beshentseva/Vazquez  16 61 [9]
+     SF     Landells/Roarty      def.     Bruno/Lee            60 62
  > Naia
   > East
      SF (1) Genovese/Fernandez    vs  (4) Pichler/Lysykh       Sat @ 15:30
@@ -288,16 +292,21 @@
      16     Teodoro De Oliveira… def.     Zavala/Lindeboom     61 63
      16 (2) Quiceno/Petit        def.     Siska/Koplova        62 75
   > West
+     SF     Muhammad/Clarke       vs      Carpenter/Vasquez    Sat @ 15:00
+     QF     Muhammad/Clarke      def.     Gilich/Fernandez     Walkover
      QF     Carpenter/Vasquez    def.     Rinaldi/Weiland      67(3) 61 [6]
      QF     Novati/Pinto         def.     Guerrero/Isaac       36 76(4) [1]
      QF     Zavala/Lindeboom      vs      Siska/Koplova        
   > North
      SF     Piccoliori/Puig Llo…  vs      Golz/Bemisderfer     Sat @ 15:00
      SF     Mendez/Dveksler       vs      Teodoro De Oliveira… Sat @ 15:00
+  > South
+     SF     Gilich/Fernandez      vs      Rinaldi/Weiland      Sat @ 15:00
  > Junior College
   > East
-     SF (1) Martins/Anzalotta     vs      Carvalho-Landell/Ga… Fri @ 16:00
-     SF (2) McKenzie/Cherfus     def. (3) Wild/Apisah          63 76
+      F (1) Martins/Anzalotta     vs  (3) Wild/Apisah          Sat @ 14:30
+     SF (1) Martins/Anzalotta    def.     Carvalho-Landell/Ga… 62 61
+     SF (3) Wild/Apisah          def. (2) McKenzie/Cherfus     63 76
      QF (1) Martins/Anzalotta    def.     Vossen/Proktor       60 60
      QF     Carvalho-Landell/Ga… def. (4) Hernandez/Zungu      26 64 [8]
      QF (3) Wild/Apisah          def.     Beukes/Chen          62 63
@@ -305,7 +314,9 @@
   > West
       F (4) Hernandez/Zungu       vs      Beukes/Chen          Sat @ 14:00
      SF (4) Hernandez/Zungu      def.     Vossen/Proktor       61 60
-     SF     Beukes/Chen          def.     Warham/De Mata       76(3) 62
+     SF     Beukes/Chen          def.     Warham/De Mata       76(5) 62
+  > 3-4 Playoff
+      F     Carvalho-Landell/Ga…  vs  (2) McKenzie/Cherfus     Sat @ 14:00
   > South
       F     Vossen/Proktor        vs      Warham/De Mata       Sat @ 14:00
 ~~~

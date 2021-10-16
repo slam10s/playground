@@ -19,8 +19,6 @@
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">San Diego State Fall Invite</a>  
-
-**Upcoming Tournaments**  
 - 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Wesleyan Invitational</a>  
 
 <a name="21-27941"></a>
@@ -83,11 +81,11 @@
 
 <a name="21-69055"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
   Bulldog Cup
   Dates: Oct 15-17, 2021
   Host: Drake University (M)
-═══════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Doubles Round 1 (Friday)
   > Main
@@ -96,18 +94,34 @@
      16  Fragistas/Sonesson … def.  Koschtojan/Vollbach 85
      16  Clegg/Sardo          def.  Moser/Iaquinto      87(5)
      16  Valentinsson/Ortega  def.  Grueber/Richardson  81
+ > Doubles Round 2 (Saturday)
+  > Main
+     16  Johansson/Schifris    vs   Richards/Lin        Sat @ 10:00
+     16  Clegg/Sardo           vs   Grueber/Richardson  Sat @ 10:00
+     16  Valentinsson/Ortega   vs   Moser/Iaquinto      Sat @ 10:00
+     16  Fragistas/Sonesson …  vs   Malinen/Spolidorio  Sat @ 10:00
+     16  Koschtojan/Vollbach   vs   Bolin/Matic         Sat @ 10:00
+ > Doubles Round 3 (Sunday)
+  > Main
+     16  Johansson/Schifris    vs   Moser/Iaquinto      Sun @ 09:00
+     16  Grueber/Richardson    vs   Malinen/Spolidorio  Sun @ 09:00
+     16  Clegg/Sardo           vs   Koschtojan/Vollbach Sun @ 09:00
+     16  Richards/Lin          vs   Valentinsson/Ortega Sun @ 09:00
 ~~~
 
 <a name="21-23395"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Regional Championship
   Dates: Oct 14-17, 2021
   Host: U.S. Naval Academy (M)
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main
   > Main
+     16  Bhatnagar/Sengul      vs   Delmas/Gorregues     Sat @ 13:00
+     16  Charles/Sardana       vs   Sharma/Rozanov       Sat @ 10:00
+     16  Rawal/Carpenter       vs   Frumholz/Raquin      Sat @ 13:00
      32  Torre Martin/Stable  def.  Bickel/Yang          83
      32  Byers/Bossem         def.  Jones/Robinson       82
      32  Molina/Wilkinson     def.  Kjellberg/Garner     82
@@ -155,14 +169,14 @@
  Men's Open Doubles
  > Main Draw Doubles
   > Main
-     16 (1) Donato/Ix             vs      Reis/Nayadenov       Sat @ 09:00
-     16     Raptis/Severin        vs      Karpinski/Koons      Sat @ 09:00
-     16 (3) Davis/Brown           vs      Van Schalkwyk/Walser Sat @ 09:00
-     16     Shepheard/Thompson    vs      Hernandez/Sadek      Sat @ 09:00
-     16     Sirous/Tobisch        vs      El Kadi/Longwe-Smit  Sat @ 09:00
-     16     Pellerito/Talcott     vs  (4) Ariza/Maia           Sat @ 09:00
-     16     Brailovsky/Ruo        vs      Silva/Taramonlis     Sat @ 09:00
-     16     Bernstine/Harper      vs  (2) Marques Da Silva/Wi… Sat @ 09:00
+     16 (1) Donato/Ix             vs      Reis/Nayadenov       Sat @ 10:00
+     16     Raptis/Severin        vs      Karpinski/Koons      Sat @ 10:00
+     16 (3) Davis/Brown           vs      Van Schalkwyk/Walser Sat @ 10:00
+     16     Shepheard/Thompson    vs      Hernandez/Sadek      Sat @ 10:00
+     16     Sirous/Tobisch        vs      El Kadi/Longwe-Smit  Sat @ 10:00
+     16     Pellerito/Talcott     vs  (4) Ariza/Maia           Sat @ 10:00
+     16     Brailovsky/Ruo        vs      Silva/Taramonlis     Sat @ 10:00
+     16     Bernstine/Harper      vs  (2) Marques Da Silva/Wi… Sat @ 10:00
      32     Reis/Nayadenov       def.     Quiros/Joseph        86
      32     Van Schalkwyk/Walser def.     Balsekar/Hagen       84
      32     Hernandez/Sadek      def.     Heaven/Ferreira      Walkover
@@ -207,14 +221,16 @@
 
 <a name="21-10002"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: University Of Oregon (M)
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
+     SF     Yoshida/Hibi          vs  (3) Hollingworth/Trkulja Sat @ 10:00
+     SF     Oberg/Brown           vs  (2) Pankin/Neos          Sat @ 10:00
      QF     Yoshida/Hibi         def. (1) Matsushita/Vandecas… 64 76(5)
      QF (3) Hollingworth/Trkulja def.     Penzlin/Tvedt        61 63
      QF     Oberg/Brown          def.     Lin/Yamaguchi        26 62 [4]
@@ -236,36 +252,52 @@
 
 <a name="21-59010"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Texas Regional Championship
   Dates: Oct 13-17, 2021
   Host: Texas A&M University (M)
-══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-     64  Groysman/Alonso       vs   Williams/Lawrance    Fri @ 16:00
-     64  Sasso/Fulgenzi        vs   Muza/Braverman       Fri @ 16:00
-     64  Clark/Redelijk        vs   Salmon/Barnett       Fri @ 16:00
-     64  Rastrojo/Kmet         vs   Amling/Salsini       Fri @ 16:00
-     64  Dhokia/Sriniketh      vs   Kvantaliani/Whitehe… Fri @ 16:00
-     64  Zisette/Sillman       vs   Linkuns-Morozov/Ste… Fri @ 16:00
-     64  Chhabra/Tran-Vilkman  vs   Storch/Ross          Fri @ 16:00
-     64  Castaneda/Peres       vs   Heap/Valenty         Fri @ 16:00
-     64  McDonald/Cano Sosa    vs   Smith/Reche          Fri @ 16:00
-     64  Izurieta/Mello        vs   Rodriguez Garceran/… Fri @ 16:00
-     64  Kralemann/Kermet      vs   Alban/Akiyoshi       Fri @ 16:00
-     64  Schwartz/Lorieul      vs   Skelly/Gonzalez      Fri @ 17:00
-     64  Susser/Stafford       vs   Ata/Yamanaka         Fri @ 17:00
+     32 (1) Aguilar/Fomba         vs      Groysman/Alonso      Sat @ 09:00
+     32     McDonald/Arimilli    def.     Sau/Cabrera          Walkover
+     32 (8) Valiev/Azoides        vs      Muza/Braverman       Sat @ 09:00
+     32     Rollins/Perot         vs      Salmon/Barnett       Sat @ 09:00
+     32 (4) Paroulek/Brumm        vs      Grear/Sendogan       Sat @ 09:00
+     32     Neff/Thamma           vs      Rastrojo/Kmet        Sat @ 09:00
+     32 (5) Harper/Ciamarra       vs      Dhokia/Sriniketh     Sat @ 09:00
+     32     Ceolin/Rodriguez      vs      Linkuns-Morozov/Ste… Sat @ 09:00
+     32     Storch/Ross           vs      Chakravarthi/Krall   Sat @ 09:00
+     32     Heap/Valenty          vs  (6) Vives Marcos/Maxted  Sat @ 09:00
+     32     Collier/Ribero        vs      Taylor/Perego        Sat @ 09:00
+     32     Smith/Reche           vs  (3) Braswell/Woldeab     Sat @ 09:00
+     32     Izurieta/Mello        vs      Steinhausen/Allen    Sat @ 10:00
+     32     Alban/Akiyoshi        vs  (7) Schachter/Abbrat     Sat @ 09:00
+     32     Skelly/Gonzalez       vs      Wallin/Vittar        Sat @ 10:00
+     32     Ata/Yamanaka          vs  (2) Bass/Lah             Sat @ 10:00
+     64     Groysman/Alonso      def.     Williams/Lawrance    83
+     64     Muza/Braverman       def.     Sasso/Fulgenzi       86
+     64     Salmon/Barnett       def.     Clark/Redelijk       83
+     64     Rastrojo/Kmet        def.     Amling/Salsini       86
+     64     Dhokia/Sriniketh     def.     Kvantaliani/Whitehe… 85
+     64     Linkuns-Morozov/Ste… def.     Zisette/Sillman      87(1)
+     64     Storch/Ross          def.     Chhabra/Tran-Vilkman 86
+     64     Heap/Valenty         def.     Castaneda/Peres      86
+     64     Smith/Reche          def.     McDonald/Cano Sosa   85
+     64     Izurieta/Mello       def.     Rodriguez Garceran/… 85
+     64     Alban/Akiyoshi       def.     Kralemann/Kermet     83
+     64     Skelly/Gonzalez      def.     Schwartz/Lorieul     Walkover
+     64     Ata/Yamanaka         def.     Susser/Stafford      82
 ~~~
 
 <a name="21-27355"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════
   Louisville Invitational
   Dates: Oct 15-17, 2021
   Host: University Of Louisville (M)
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Doubles A
   > East
@@ -291,8 +323,6 @@
      SF  Tang/Mizrahi         def.  Bennett/Sachdev      61
  > Doubles Round Robin
   > Main
-     R4  Kostov/Ecarma         vs   Sornlaksup/Meluta    Fri @ 09:45
-     R4  Basavareddy/Rogers    vs   Welch/Morgan         Fri @ 09:45
      R3  Welch/Morgan         def.  Kostov/Ecarma        64
      R2  Sornlaksup/Meluta    def.  Basavareddy/Rogers   63
      R1  Basavareddy/Rogers   def.  Kostov/Ecarma        63
@@ -301,22 +331,27 @@
 
 <a name="21-41868"></a>
 ~~~
-═══════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════
   UTC-Steve Baras Invitational
   Dates: Oct 15-17, 2021
   Host: Univ. Of Tennessee, Chattanooga (M)
-═══════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Utc/ttu
   > Main
-     QF  Hyatt/Labbe       def.  Vicente/Tosetto    76(4)
-     QF  Marshall/Mudre    def.  Holis/Sasagawa     63
-     QF  Berghaus/Grubert  def.  McClure/Nevenhoven 64
+     QF  Hyatt/Labbe          def.  Vicente/Tosetto    76(4)
+     QF  Marshall/Mudre       def.  Holis/Sasagawa     63
+     QF  Berghaus/Grubert     def.  McClure/Nevenhoven 64
  > Utc/una
   > Main
-     QF  Matarredona/Perez def.  Hyatt/Labbe        76(5)
-     QF  Mudre/McClure     def.  Zhang/Diniz        75
-     QF  Nevenhoven/Nash   def.  Bixby/Tolbert      76(4)
+     QF  Matarredona/Perez    def.  Hyatt/Labbe        76(5)
+     QF  Mudre/McClure        def.  Zhang/Diniz        75
+     QF  Nevenhoven/Nash      def.  Bixby/Tolbert      76(4)
+ > Gsu/bel
+  > Main
+     16  Aaldering/Dun        def.  Toledo/Cruz        64
+     16  Castillo/Del Castil… def.  Luis/Castro        76(3)
+     16  Miyamoto/Kelly       def.  Amacher/Suk        61
 ~~~
 
 <a name="21-00186"></a>
@@ -329,8 +364,9 @@
  Men's Open Doubles
  > Division III
   > East
-     SF     Esses/Raina           vs      Martin/Arimilli      Fri @ 16:00
-     SF     Frelinghuysen/Kandel  vs      Settles/Nguyen       Fri @ 16:00
+      F     Martin/Arimilli       vs      Frelinghuysen/Kandel Sat @ 11:30
+     SF     Martin/Arimilli      def.     Esses/Raina          63 62
+     SF     Frelinghuysen/Kandel def.     Settles/Nguyen       63 75
      QF     Esses/Raina          def.     Aney/Budde           76(4) 75
      QF     Martin/Arimilli      def. (4) Harris/Laber         62 64
      QF     Frelinghuysen/Kandel def. (3) Watson/Hutchison     76(4) 62
@@ -344,7 +380,7 @@
      16     Ramireddy/Li         def.     Dean/Suarez          63 36 [3]
      16     Settles/Nguyen       def. (2) Hopper/Powell        75 61
   > West
-     SF (1) Leach/Lemaitre        vs      Motlojoa/Loen        Fri @ 16:00
+     SF (1) Leach/Lemaitre       def.     Motlojoa/Loen        63 76(6)
      SF (2) Hopper/Powell        def.     Portnoy/Jimenez      63 61
      QF (1) Leach/Lemaitre       def.     Tecce/Leese          62 63
      QF     Motlojoa/Loen        def.     Comadena/Kelley      63 67(10) [6]
@@ -355,7 +391,7 @@
      SF (3) Watson/Hutchison     def.     Ramireddy/Li         64 75
   > South
      SF     Comadena/Kelley      def.     Tecce/Leese          64 62
-     SF     Gray/Zakowski         vs      Dean/Suarez          Fri @ 16:30
+     SF     Dean/Suarez          def.     Gray/Zakowski        75 63
  > Naia
   > East
      SF     Caratini/Tamagnone    vs  (4) Dugo/Gurmendi        Sat @ 15:30
