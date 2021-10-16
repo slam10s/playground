@@ -161,38 +161,35 @@
      32  Zach Grueber         def.  Christopher Knutson  62 57 [3]
  > Singles Round 2 (Saturday)
   > Main
-     32  Jeremy Schifris       vs   Kristopher Ortega    Sat @ 11:00
-     32  Oliver Johansson      vs   Antonio Matteo Iaqu… Sat @ 11:00
-     32  Armin Koschtojan      vs   Zach Grueber         Sat @ 11:00
-     32  Christopher Knutson   vs   Jaydn Richardson     Sat @ 11:00
-     32  Matija Matic          vs   Mikko Malinen        Sat @ 11:00
-     32  Matt Clegg            vs   Mikael Vollbach      Sat @ 11:00
-     32  Gabriel Sardo         vs   Jona Gitschel        Sat @ 12:30
-     32  Olle Sonesson Lidho…  vs   Jackie Lin           Sat @ 12:30
-     32  Markus Bolin          vs   Alex Richards        Sat @ 12:30
-     32  Evan Fragistas        vs   Victor Spolidorio    Sat @ 12:30
+     32  Jeremy Schifris      def.  Kristopher Ortega    63 64
+     32  Oliver Johansson     def.  Antonio Matteo Iaqu… 64 62
+     32  Zach Grueber         def.  Armin Koschtojan     64 36 [8]
+     32  Matija Matic         def.  Mikko Malinen        61 64
+     32  Matt Clegg           def.  Mikael Vollbach      75 76(5)
+     32  Gabriel Sardo        def.  Jona Gitschel        64 75
+     32  Jackie Lin           def.  Olle Sonesson Lidho… 34 Ret.
+     32  Markus Bolin         def.  Alex Richards        62 60
+     32  Evan Fragistas       def.  Victor Spolidorio    60 64
  > Singles Round 3 (Saturday)
   > Main
-     32  Oliver Johansson      vs   Alex Richards        Sat @ 15:00
-     32  Evan Fragistas        vs   Oliver Valentinsson  Sat @ 15:00
-     32  Olle Sonesson Lidho…  vs   Victor Spolidorio    Sat @ 15:00
-     32  Markus Bolin          vs   Mikael Vollbach      Sat @ 15:00
-     32  Jaydn Richardson      vs   Antonio Matteo Iaqu… Sat @ 15:00
-     32  Gabriel Sardo         vs   Christopher Knutson  Sat @ 15:00
-     32  Mikko Malinen         vs   Jackie Lin           Sat @ 16:30
-     32  Kristopher Ortega     vs   Sven Moser           Sat @ 16:30
-     32  Jona Gitschel         vs   Armin Koschtojan     Sat @ 16:30
-     32  Matija Matic          vs   Zach Grueber         Sat @ 04:30
+     32  Oliver Johansson      vs   Victor Spolidorio    Sat @ 16:30
+     32  Evan Fragistas       def.  Oliver Valentinsson  62 46 [9]
+     32  Markus Bolin         def.  Mikael Vollbach      62 61
+     32  Antonio Matteo Iaqu… def.  Jaydn Richardson     61 64
+     32  Jeremy Schifris      def.  Jona Gitschel        60 61
+     32  Jackie Lin           def.  Mikko Malinen        63 63
+     32  Armin Koschtojan     def.  Gabriel Sardo        64 64
+     32  Kristopher Ortega    def.  Sven Moser           64 62
+     32  Matija Matic         def.  Zach Grueber         64 62
  > Singles Round 4 (Sunday)
   > Main
      32  Matt Clegg            vs   Zach Grueber         Sun @ 10:00
-     32  Jeremy Schifris       vs   Alex Richards        Sun @ 10:00
+     32  Kristopher Ortega     vs   Alex Richards        Sun @ 10:00
      32  Gabriel Sardo         vs   Sven Moser           Sun @ 10:00
      32  Mikko Malinen         vs   Antonio Matteo Iaqu… Sun @ 10:00
      32  Jaydn Richardson      vs   Jona Gitschel        Sun @ 10:00
      32  Matija Matic          vs   Oliver Valentinsson  Sun @ 10:00
      32  Evan Fragistas        vs   Jackie Lin           Sun @ 11:30
-     32  Olle Sonesson Lidho…  vs   Armin Koschtojan     Sun @ 11:30
      32  Markus Bolin          vs   Victor Spolidorio    Sun @ 11:30
      32  Oliver Johansson      vs   Mikael Vollbach      Sun @ 11:30
 ~~~
@@ -207,14 +204,14 @@
  Men's Open Singles
  > Main
   > Main
-      16  Miko Eala             vs   James Wilkinson      Sat @ 10:00
-      16  Inigo Torre Martin    vs   Gavin Segraves       Sat @ 10:00
-      16  Rayane Stable         vs   Bora Sengul          Sat @ 10:00
-      16  Bar Botzer            vs   Joaquim Almeida      Sat @ 10:00
-      16  Nathan Perrone        vs   Charl Morgan         Sat @ 10:00
-      16  Alexander Kiefer      vs   Mikeal Carpenter     Sat @ 10:00
-      16  Malik Bhatnagar       vs   Chikaya Sato         Sat @ 10:00
-      16  Guilherme Valdoleir…  vs   Leo Raquin           Sat @ 10:00
+      16  Miko Eala            def.  James Wilkinson      63 62
+      16  Inigo Torre Martin   def.  Gavin Segraves       62 62
+      16  Bora Sengul          def.  Rayane Stable        64 06 75
+      16  Bar Botzer           def.  Joaquim Almeida      75 62
+      16  Charl Morgan         def.  Nathan Perrone       75 36 61
+      16  Alexander Kiefer     def.  Mikeal Carpenter     63 46 62
+      16  Chikaya Sato         def.  Malik Bhatnagar      75 Ret.
+      16  Leo Raquin           def.  Guilherme Valdoleir… 62 61
       32  Miko Eala            def.  Joshua Robinson      63 61
       32  James Wilkinson      def.  Derrick Thompson     76(3) 26 61
       32  Inigo Torre Martin   def.  Adhvyte Sharma       62 75
@@ -324,27 +321,33 @@
       64  Ryan Nguyen          def.  Oliver Davey         62 62
  > Friday Extra Matches
   > Main
+      64  Ryan Charles         def.  Will Pak             63 62
+      64  Matisse Bobichon     def.  Louis Gorregues      76(3) 46 [5]
+      64  Alex Mascioli        def.  Anthony Prokurat     36 60 [8]
+      64  Sasha Panyan         def.  Jin Dassanayake      64 62
       64  Thibault Frumholz    def.  Eshan Kanetkar       Walkover
+      64  Luke Garner          def.  Alejandro Rodriguez… 64 61
+      64  Cy McLeod            def.  Noah Winton          30 Ret.
 ~~~
 
 <a name="21-08423"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Regional Championship
   Dates: Oct 14-17, 2021
   Host: Liberty University (M)
-══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
-     16  (1) Yevhen Sirous         vs  (16) Daniel Pellerito     Sat @ 08:30
+     16  (1) Yevhen Sirous        def. (16) Daniel Pellerito     64 61
      16 (12) Deji Thomas-Smith    def.      Finbar Talcott       61 63
-     16  (3) Holden Koons          vs  (14) Christiaan Worst     Sat @ 08:30
-     16  (5) Luca Maldoner         vs   (9) Dimosthenis Taramon… Sat @ 08:30
-     16      Oliver Nolan          vs   (6) Guilherme Severin    Sat @ 08:30
-     16 (13) Sebastian Quiros      vs       Michael Shepheard    Sat @ 08:30
-     16 (10) Frank Thompson        vs   (7) Nicola Vidal         Sat @ 08:30
-     16      Aditya Balsekar       vs   (2) Alvaro Ariza         Sat @ 08:30
+     16  (3) Holden Koons         def. (14) Christiaan Worst     75 75
+     16  (5) Luca Maldoner        def.  (9) Dimosthenis Taramon… 67(5) 76(7) 64
+     16  (6) Guilherme Severin    def.      Oliver Nolan         62 64
+     16      Michael Shepheard    def. (13) Sebastian Quiros     57 63 61
+     16  (7) Nicola Vidal         def. (10) Frank Thompson       60 76(4)
+     16  (2) Alvaro Ariza         def.      Aditya Balsekar      63 75
      32  (1) Yevhen Sirous        def.      Mario Pena           62 61
      32 (16) Daniel Pellerito     def.      Jourdan Kast         62 61
      32      Finbar Talcott       def.  (8) Carlo Donato         61 76(1)
@@ -379,8 +382,8 @@
      64      Chen Ruo             def.      Omar El Kadi         61 63
  > Back Draw Day 1
   > Main
-     32      Ernesto Rocabert      vs       Sean Joseph          Sat @ 09:30
-     32      Guillermo Cagigas     vs       Omar El Kadi         Sat @ 08:30
+     32      Sean Joseph          def.      Ernesto Rocabert     64 40 Ret.
+     32      Guillermo Cagigas    def.      Omar El Kadi         36 63 33 Ret.
      64      Raphael Mujan        def.      Ryan Bernstine       76(5) 75
      64      Andres Silva         def.      Rosen Nayadenov      36 63 63
      64      Ernesto Rocabert     def.      Mathieu Josserand    64 61
@@ -392,14 +395,14 @@
  > Back Draw Day 2
   > Main
      64      Rosen Nayadenov      def.      Ryan Bernstine       63 63
-     64      Mathieu Josserand     vs       Oliver Tobisch       Sat @ 08:30
-     64      Manfredi Vergine      vs       Luis Reis            Sat @ 08:30
-     64      Mario Pena            vs       Jourdan Kast         Sat @ 09:30
-     64      Carlo Donato          vs       Michael Walser       Sat @ 08:30
+     64      Oliver Tobisch       def.      Mathieu Josserand    61 61
+     64      Manfredi Vergine     def.      Luis Reis            75 57 62
+     64      Jourdan Kast         def.      Mario Pena           57 64 62
+     64      Carlo Donato         def.      Michael Walser       64 76(5)
      64      William Karpinski    def.      Matt Harper          64 62
-     64      Thando Longwe-Smit    vs       Andres Silva         Sat @ 08:30
+     64      Thando Longwe-Smit   def.      Andres Silva         63 64
      64      Codie Van Schalkwyk  def.      Konstantinos Raptis  62 63
-     64      Robert Hagen          vs       Oscar Hernandez      Sat @ 08:30
+     64      Oscar Hernandez      def.      Robert Hagen         63 64
      64      Youssef Sadek        def.      Raphael Mujan        64 60
 ~~~
 
@@ -499,8 +502,8 @@
  Men's Open Singles
  > Draw
   > Main
-     SF     Sasha Trkulja         vs  (4) Julien Penzlin       Sat @ 13:00
-     SF (3) Nedim Suko            vs      Arthus de la Basset… Sat @ 13:00
+     SF     Sasha Trkulja        def. (4) Julien Penzlin       63 62
+     SF     Arthus de la Basset… def. (3) Nedim Suko           67(6) 64 64
      QF     Sasha Trkulja        def.     Luke Vandecasteele   75 63
      QF (4) Julien Penzlin       def.     Han-Chih Lin         64 26 61
      QF (3) Nedim Suko           def.     Oliver Andersson     67(7) 62 64
@@ -564,14 +567,18 @@
  Men's Open Singles
  > Singles Main
   > Main
-     16  (1) Adrian Boitan         vs  (16) Juan Carlos Aguilar  Sat @ 11:30
-     16  (8) Richard Ciamarra      vs   (9) Noah Schachter       Sat @ 11:30
-     16  (4) Alexander Jong        vs       Adam Neff            Sat @ 11:30
-     16  (5) Micah Braswell        vs       Lui Maxted           Sat @ 11:30
-     16      Raphael Perot         vs   (6) Tadeas Paroulek      Sat @ 11:30
-     16      Jake Finn Bass        vs   (3) Luc Fomba            Sat @ 11:30
-     16      Matthis Ross          vs   (7) Sven Lah             Sat @ 11:30
-     16      Caleb Chakravarthi    vs   (2) Pedro Vives Marcos   Sat @ 11:30
+     QF (16) Juan Carlos Aguilar   vs   (9) Noah Schachter       Sun @ 13:00
+     QF  (4) Alexander Jong        vs   (5) Micah Braswell       Sun @ 13:00
+     QF      Raphael Perot         vs   (3) Luc Fomba            Sun @ 13:00
+     QF  (7) Sven Lah              vs   (2) Pedro Vives Marcos   Sun @ 13:00
+     16 (16) Juan Carlos Aguilar  def.  (1) Adrian Boitan        64 64
+     16  (9) Noah Schachter       def.  (8) Richard Ciamarra     76(4) 62
+     16  (4) Alexander Jong       def.      Adam Neff            61 75
+     16  (5) Micah Braswell       def.      Lui Maxted           60 61
+     16      Raphael Perot        def.  (6) Tadeas Paroulek      46 61 63
+     16  (3) Luc Fomba            def.      Jake Finn Bass       75 75
+     16  (7) Sven Lah             def.      Matthis Ross         76(3) 63
+     16  (2) Pedro Vives Marcos   def.      Caleb Chakravarthi   62 57 61
      32  (1) Adrian Boitan        def.      Dario Kmet           63 61
      32 (16) Juan Carlos Aguilar  def.      Joao Ceolin          46 63 64
      32  (8) Richard Ciamarra     def.      Miguel Cabrera       62 64
@@ -621,14 +628,19 @@
      64      Kenner Taylor        def.      Juan Jose Rodriguez… 63 75
      64  (2) Pedro Vives Marcos   def.      Jordi Redelijk       75 60
   > Consolation
-     16      Emir Sendogan         vs       Evin McDonald        Sat @ 14:30
-     16      Dylan Heap            vs       Liam Krall           Sat @ 14:30
-     16      Mykhailo Kvantaliani  vs  (13) Olle Wallin          Sat @ 14:30
-     16      Tomas Reche           vs       Daniel Linkuns-Moro… Sat @ 14:30
-     16      Julian Steinhausen    vs       Ivan Smith           Sat @ 14:30
-     16      Ivan Thamma           vs       Franco Ribero        Sat @ 14:30
-     16      Carlo Izurieta        vs       Sebastian Rodriguez  Sat @ 14:30
-     16      Anish Sriniketh       vs       Jordi Redelijk       Sat @ 14:30
+     SF      Ivan Thamma          def.      Jordi Redelijk       Walkover
+     QF      Evin McDonald         vs       Liam Krall           Sun @ 09:00
+     QF      Daniel Linkuns-Moro… def.      Mykhailo Kvantaliani Walkover
+     QF      Ivan Thamma          def.      Julian Steinhausen   Walkover
+     QF      Jordi Redelijk       def.      Sebastian Rodriguez  Walkover
+     16      Evin McDonald        def.      Emir Sendogan        63 61
+     16      Liam Krall           def.      Dylan Heap           63 63
+     16      Mykhailo Kvantaliani def. (13) Olle Wallin          Walkover
+     16      Daniel Linkuns-Moro… def.      Tomas Reche          75 62
+     16      Julian Steinhausen   def.      Ivan Smith           63 64
+     16      Ivan Thamma          def.      Franco Ribero        63 63
+     16      Sebastian Rodriguez  def.      Carlo Izurieta       63 76(4)
+     16      Jordi Redelijk       def.      Anish Sriniketh      62 64
      32      Emir Sendogan        def.      Pascal Lorieul       Walkover
      32      Evin McDonald        def.      Luke Casper          64 62
      32      Dylan Heap           def.      Huntley Allen        61 75
@@ -697,10 +709,12 @@
  Men's Open Singles
  > Draw A
   > East
-     QF  Yasha Zemel           vs   Luka Vukovic         Sat @ 10:00
-     QF  Pawit Sornlaksup      vs   Patrick Fletchall    Sat @ 10:00
-     QF  Carson Haskins        vs   Josh Howard-Tripp    Sat @ 10:00
-     QF  Michael Andre         vs   Yusuf Khamis         Sat @ 11:30
+     SF  Yasha Zemel          def.  Pawit Sornlaksup     16 62 63
+     SF  Michael Andre        def.  Josh Howard-Tripp    76(6) Ret.
+     QF  Yasha Zemel          def.  Luka Vukovic         76(7) 61
+     QF  Pawit Sornlaksup     def.  Patrick Fletchall    64 62
+     QF  Josh Howard-Tripp    def.  Carson Haskins       63 76(4)
+     QF  Michael Andre        def.  Yusuf Khamis         61 64
      16  Yasha Zemel          def.  Marko Galic          64 64
      16  Luka Vukovic         def.  Gabriele Brancatelli 64 62
      16  Pawit Sornlaksup     def.  Matthew Fung         61 16 [6]
@@ -710,16 +724,23 @@
      16  Michael Andre        def.  Jj Mercer            Walkover
      16  Yusuf Khamis         def.  Piotr Galus          61 64
   > West
-     QF  Marko Galic           vs   Gabriele Brancatelli Sat @ 11:30
-     QF  Matthew Fung          vs   Athell Bennett       Sat @ 11:30
-     QF  Rohan Sachdev         vs   Juan Sebastian Zaba… Sat @ 11:30
-     QF  Jj Mercer             vs   Piotr Galus          Sat @ 11:30
+     SF  Juan Sebastian Zaba… def.  Piotr Galus          57 75 [5]
+     QF  Gabriele Brancatelli def.  Marko Galic          63 63
+     QF  Athell Bennett       def.  Matthew Fung         62 60
+     QF  Juan Sebastian Zaba… def.  Rohan Sachdev        16 75 [2]
+     QF  Piotr Galus          def.  Jj Mercer            Walkover
+  > North
+     SF  Luka Vukovic         def.  Yusuf Khamis         61 64
+  > South
+     SF  Rohan Sachdev        def.  Marko Galic          46 63 [7]
  > Draw B
   > East
-     QF  Jonathan Sorbo        vs   Julen Morgan         Sat @ 10:00
-     QF  David Mizrahi         vs   Tomasz Dudek         Sat @ 10:00
-     QF  Ilya Tiraspolsky      vs   Francisco Lamas      Sat @ 10:00
-     QF  Alexandre LeBlanc     vs   Alex Wesbrooks       Sat @ 10:00
+     SF  Tomasz Dudek         def.  Jonathan Sorbo       61 63
+     SF  Ilya Tiraspolsky     def.  Alex Wesbrooks       62 63
+     QF  Jonathan Sorbo       def.  Julen Morgan         61 Ret.
+     QF  Tomasz Dudek         def.  David Mizrahi        62 67(5) 64
+     QF  Ilya Tiraspolsky     def.  Francisco Lamas      60 61
+     QF  Alex Wesbrooks       def.  Alexandre LeBlanc    63 64
      16  Jonathan Sorbo       def.  Jack Batchelor       61 62
      16  Julen Morgan         def.  Cole Shoults         67(4) 63 [7]
      16  David Mizrahi        def.  Simeon Kostov        62 76(4)
@@ -729,71 +750,116 @@
      16  Alexandre LeBlanc    def.  Adam Kovac           62 36 [7]
      16  Alex Wesbrooks       def.  Jagger Saylor        62 61
   > West
-     QF  Jack Batchelor        vs   Cole Shoults         Sat @ 11:30
-     QF  Simeon Kostov         vs   Vikash Singh         Sat @ 11:30
-     QF  Paul Reynolds         vs   Milledge Cossu       Sat @ 11:30
-     QF  Adam Kovac            vs   Jagger Saylor        Sat @ 11:30
+     SF  Vikash Singh         def.  Cole Shoults         63 61
+     SF  Adam Kovac           def.  Paul Reynolds        61 63
+     QF  Cole Shoults         def.  Jack Batchelor       62 64
+     QF  Vikash Singh         def.  Simeon Kostov        61 62
+     QF  Paul Reynolds        def.  Milledge Cossu       64 Ret.
+     QF  Adam Kovac           def.  Jagger Saylor        76 61
+  > North
+     SF  David Mizrahi        def.  Julen Morgan         Walkover
+     SF  Alexandre LeBlanc    def.  Francisco Lamas      75 62
+  > South
+     SF  Simeon Kostov        def.  Jagger Saylor        67(6) 62 [7]
+     SF  Jack Batchelor       def.  Milledge Cossu       Walkover
  > Draw C
   > East
-     QF  Michal Wozniak        vs   Mac Rogers           Sat @ 10:00
-     QF  Nishanth Basavareddy  vs   Sebastian Welch      Sat @ 10:00
-     QF  Wojciech Szczesny     vs   Xavier Ecarma        Sat @ 10:00
-     QF  Andre Suzanne         vs   Kyle Tang            Sat @ 10:00
+     SF  Michal Wozniak        vs   Sebastian Welch      Sat @ 13:00
+     SF  Wojciech Szczesny     vs   Kyle Tang            Sat @ 13:00
+     QF  Michal Wozniak       def.  Mac Rogers           62 61
+     QF  Sebastian Welch      def.  Nishanth Basavareddy 62 63
+     QF  Wojciech Szczesny    def.  Xavier Ecarma        46 75 64
+     QF  Kyle Tang            def.  Andre Suzanne        75 64
      16  Mac Rogers           def.  Emil Berglund        62 64
      16  Sebastian Welch      def.  Michael Staff        75 64
      16  Xavier Ecarma        def.  Juan Lombisano       64 63
      16  Kyle Tang            def.  Vlad Meluta          60 60
   > West
-     SF  Emil Berglund         vs   Michael Staff        Sat @ 11:30
-     SF  Juan Lombisano        vs   Vlad Meluta          Sat @ 11:30
+     SF  Emil Berglund        def.  Vlad Meluta          62 57 [7]
+     SF  Juan Lombisano       def.  Michael Staff        64 64
+  > North
+     SF  Xavier Ecarma        def.  Mac Rogers           64 61
+     SF  Nishanth Basavareddy def.  Andre Suzanne        75 61
+  > Southwest
+      F  Michael Staff        def.  Vlad Meluta          64 75
+ > Draw C (Alternate)
+  > Main
+     SF  Sebastian Welch      def.  Wojciech Szczesny    64 46 64
+     SF  Kyle Tang            def.  Michal Wozniak       61 61
 ~~~
 
 <a name="21-41868"></a>
 ~~~
-═════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
   UTC-Steve Baras Invitational
   Dates: Oct 15-17, 2021
   Host: Univ. Of Tennessee, Chattanooga (M)
-═════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Utc/ttu
   > Main
-     64  Elias Grubert      def.  Tomas Rodriguez  64 63
-     64  Simon Labbe        def.  Carlos Vicente   67(4) 63 [6]
-     64  Jordan McClure     def.  Mika Berghaus    60 61
-     64  Rafael Tosetto     def.  Kerim Hyatt      62 26 [4]
-     64  Evzen Holis        def.  Peyton Gatti     64 76(4)
-     64  Jun Sasagawa       def.  Ryan Mudre       76(4) 26 [9]
+     64  Elias Grubert        def.  Tomas Rodriguez    64 63
+     64  Simon Labbe          def.  Carlos Vicente     67(4) 63 [6]
+     64  Jordan McClure       def.  Mika Berghaus      60 61
+     64  Rafael Tosetto       def.  Kerim Hyatt        62 26 [4]
+     64  Evzen Holis          def.  Peyton Gatti       64 76(4)
+     64  Jun Sasagawa         def.  Ryan Mudre         76(4) 26 [9]
  > Utc/una
   > Main
-     16  Carlos Matarredona def.  Simon Labbe      76(5) 64
-     16  Fernando Perez     def.  Jacob Marshall   63 Ret.
-     16  Jordan McClure     def.  Chris Zhang      16 61 [8]
-     16  Guilherme Diniz    def.  Ryan Mudre       75 16 [10]
-     16  Quinten Nevenhoven def.  Jamie Bixby      16 61 [4]
-     16  Sam Tolbert        def.  Bo Nash          26 62 [5]
+     16  Carlos Matarredona   def.  Simon Labbe        76(5) 64
+     16  Fernando Perez       def.  Jacob Marshall     63 Ret.
+     16  Jordan McClure       def.  Chris Zhang        16 61 [8]
+     16  Guilherme Diniz      def.  Ryan Mudre         75 16 [10]
+     16  Quinten Nevenhoven   def.  Jamie Bixby        16 61 [4]
+     16  Sam Tolbert          def.  Bo Nash            26 62 [5]
  > Bel/gaso
   > Main
-     16  Arthur Toledo      def.  Pol Del Castillo 63 63
-     16  Ian Cruz           def.  Tao Castillo     63 36 [12]
-     16  Tomas Luis         def.  Valentin Dun     46 63 [4]
-     16  Diego Castro       def.  Jaap Aaldering   62 64
-     16  Taisei Miyamoto    def.  Alex Amacher     62 76(1)
-     16  Alfred Wallin      def.  Alex Suk         64 61
+     16  Arthur Toledo        def.  Pol Del Castillo   63 63
+     16  Ian Cruz             def.  Tao Castillo       63 36 [12]
+     16  Tomas Luis           def.  Valentin Dun       46 63 [4]
+     16  Diego Castro         def.  Jaap Aaldering     62 64
+     16  Taisei Miyamoto      def.  Alex Amacher       62 76(1)
+     16  Alfred Wallin        def.  Alex Suk           64 61
+ > Utc/apsu
+  > Main
+     64  Frederic Schlossmann def.  Tomas Rodriguez    63 57 [9]
+     64  Kerim Hyatt          def.  Anton Damberg      60 61
+     64  Peyton Gatti         def.  Gabriel Nolasco    62 63
+     64  Jordan McClure       def.  Giovanni Becchis   61 62
+     64  Ryan Mudre           def.  Tom Bolton         76(2) 61
+     64  Hogan Stoker         def.  Quinten Nevenhoven 64 64
+     64  Lachlan Laner        def.  Bo Nash            63 64
+ > Ttu/bel
+  > Main
+     16  Evzen Holis          def.  Diego Castro       64 63
+     16  Mika Berghaus        def.  Ian Cruz           64 62
+     16  Alfred Wallin        def.  Jun Sasagawa       16 76(4) [6]
+     16  Arthur Toledo        def.  Elias Grubert      57 60 [10]
+     16  Tomas Luis           def.  Rafael Tosetto     67(4) 64 [4]
+     16  Taisei Miyamoto      def.  Carlos Vicente     62 62
+ > Gaso/una
+  > Main
+     16  Chris Zhang          def.  Alex Amacher       61 60
+     16  Jaap Aaldering       def.  Sam Tolbert        63 60
+     16  Alex Suk             def.  Jamie Bixby        76(1) 62
+     16  Tao Castillo         def.  Guilherme Diniz    61 63
+     16  Valentin Dun         def.  Carlos Matarredona 62 62
+     16  Fernando Perez       def.  Pol Del Castillo   64 46 [8]
 ~~~
 
 <a name="21-00186"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Cup
   Dates: Oct 14-17, 2021
   Host: ITA
-═════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Division II
   > East
-     SF (1) Alvaro Regalado     vs  (4) Andrea Zamurri      Sat @ 09:00
-     SF     Alex Martinez Roca  vs      Joaquin Benoit      Sat @ 09:00
+      F (1) Alvaro Regalado     vs      Joaquin Benoit      Sun @ 09:00
+     SF (1) Alvaro Regalado    def. (4) Andrea Zamurri      63 64
+     SF     Joaquin Benoit     def.     Alex Martinez Roca  63 46 62
      QF (1) Alvaro Regalado    def.     Ryan Nuno           57 61 61
      QF (4) Andrea Zamurri     def.     Sander Jans         36 62 62
      QF     Alex Martinez Roca def.     Brennan Cimpeanu    61 63
@@ -807,21 +873,21 @@
      16     Joaquin Benoit     def.     Joaquin Bianchi     62 63
      16     Francisco Oliveira def. (2) Alejandro Ibanez    63 63
   > West
-     SF     Sebastian Herrera   vs      Gonzalo Fernandez   Sat @ 09:00
-     SF     Franco Oliva        vs      Joaquin Bianchi     Sat @ 09:00
+     SF     Gonzalo Fernandez  def.     Sebastian Herrera   64 63
+     SF     Joaquin Bianchi    def.     Franco Oliva        76(2) 62
      QF     Sebastian Herrera  def.     Tom Jarry           63 64
      QF     Gonzalo Fernandez  def.     Daniel Llorente     36 63 62
      QF     Franco Oliva       def. (3) Marko Nikoliuk      57 64 62
      QF     Joaquin Bianchi    def.     Jonathan Berling    63 61
   > North
-     SF     Ryan Nuno           vs      Sander Jans         Sat @ 09:00
-     SF     Brennan Cimpeanu    vs      Francisco Oliveira  Sat @ 09:00
+     SF     Ryan Nuno          def.     Sander Jans         62 64
+     SF     Francisco Oliveira def.     Brennan Cimpeanu    76(8) 63
   > South
-     SF     Tom Jarry           vs      Daniel Llorente     Sat @ 09:00
-     SF (3) Marko Nikoliuk      vs      Jonathan Berling    Sat @ 09:00
+     SF     Daniel Llorente    def.     Tom Jarry           61 76(6)
+     SF (3) Marko Nikoliuk      vs      Jonathan Berling    
  > Division III
   > East
-      F     Stan Morris         vs  (3) Chase Cohen         Sat @ 11:30
+      F     Stan Morris        def. (3) Chase Cohen         62 36 61
      SF     Stan Morris        def.     Jhonny Acosta       64 64
      SF (3) Chase Cohen        def.     Jordan Theron       16 75 62
      QF     Jhonny Acosta      def. (1) James Hopper        57 64 00 Ret.
@@ -853,8 +919,9 @@
      SF     Ethan Carroll      def.     Cole Lindwall       64 61
  > Naia
   > East
-     SF     Agustin Tamagnone   vs  (4) Daniil Klimov       Sat @ 11:00
-     SF     Francisco Faria     vs      Jeremias Rocco      Sat @ 11:00
+      F     Agustin Tamagnone   vs      Francisco Faria     Sun @ 09:00
+     SF     Agustin Tamagnone  def. (4) Daniil Klimov       67(4) 64 76(5)
+     SF     Francisco Faria    def.     Jeremias Rocco      64 Ret.
      QF     Agustin Tamagnone  def. (1) Luke Simkiss        61 64
      QF (4) Daniil Klimov      def.     Chris Papa          57 64 75
      QF     Francisco Faria    def.     Yassir Kilani       64 63
@@ -868,7 +935,7 @@
      16     Jeremias Rocco     def.     Nick Nienhaus       64 36 62
      16 (2) Alex Gurmendi      def.     Gabriel Ortiz       64 57 64
   > West
-      F     Leo Sprovieri       vs      Nick Nienhaus       Sat @ 09:00
+      F     Leo Sprovieri      def.     Nick Nienhaus       64 64
      SF     Leo Sprovieri      def.     Martin Carrizo      Walkover
      SF     Nick Nienhaus      def. (3) Leo Bresson         Walkover
      QF     Leo Sprovieri      def.     Jan Silhavy         62 61
@@ -876,14 +943,14 @@
      QF (3) Leo Bresson        def.     Thomas Zych         Walkover
      QF     Nick Nienhaus      def.     Gabriel Ortiz       Walkover
   > North
-     SF (1) Luke Simkiss        vs      Chris Papa          Sat @ 09:00
-     SF     Yassir Kilani       vs  (2) Alex Gurmendi       Sat @ 09:00
+     SF (1) Luke Simkiss       def.     Chris Papa          62 64
+     SF     Yassir Kilani      def. (2) Alex Gurmendi       Walkover
   > South
-     SF     Jan Silhavy         vs      Daniel Czepielewski Sat @ 09:00
-     SF     Thomas Zych         vs      Bruno Pessoa        Sat @ 09:00
+     SF     Jan Silhavy        def.     Daniel Czepielewski Walkover
+     SF     Thomas Zych        def.     Bruno Pessoa        Walkover
  > Junior College
   > East
-      F (4) Boruch Skierkier    vs  (2) Takeshi Taco        Sat @ 11:00
+      F (2) Takeshi Taco       def. (4) Boruch Skierkier    63 76(1)
      SF (4) Boruch Skierkier   def. (1) Gaston Cantero      61 36 52 Ret.
      SF (2) Takeshi Taco       def. (3) Diego Dalisay       63 63
      QF (1) Gaston Cantero     def.     Ravi Nelson         64 62
@@ -891,13 +958,13 @@
      QF (3) Diego Dalisay      def.     Tomas Nader         62 62
      QF (2) Takeshi Taco       def.     Cheng En Tsai       62 61
   > West
-      F     Ravi Nelson         vs      Cheng En Tsai       Sat @ 10:30
+      F     Cheng En Tsai      def.     Ravi Nelson         61 62
      SF     Ravi Nelson        def.     Emilio Vila         64 75
      SF     Cheng En Tsai      def.     Tomas Nader         63 63
   > 3-4 Playoff
-      F (1) Gaston Cantero      vs  (3) Diego Dalisay       Sat @ 10:30
+      F (1) Gaston Cantero     def. (3) Diego Dalisay       50 Ret.
   > South
-      F     Emilio Vila         vs      Tomas Nader         Sat @ 10:30
+      F     Emilio Vila        def.     Tomas Nader         62 61
 ~~~
 
 <a name="21-98443"></a>
@@ -910,49 +977,70 @@
  Men's Open Singles
  > Flight A
   > East
-     SF  Bruno Faletto         vs   Ramiro Rincon        Sat @ 10:45
-     SF  Santino Morel         vs   Vincent Thiel        Sat @ 10:45
+      F  Bruno Faletto         vs   Vincent Thiel        Sun @ 10:45
+     SF  Bruno Faletto        def.  Ramiro Rincon        63 62
+     SF  Vincent Thiel        def.  Santino Morel        62 62
      QF  Bruno Faletto        def.  Bernardo Tajada      60 64
      QF  Ramiro Rincon        def.  Victor De Oliveira   75 06 [6]
      QF  Santino Morel        def.  Raul Safont Martinez 64 75
      QF  Vincent Thiel        def.  Enrique Martinez     62 61
   > West
-     SF  Bernardo Tajada       vs   Victor De Oliveira   Sat @ 10:45
-     SF  Raul Safont Martinez  vs   Enrique Martinez     Sat @ 10:45
+      F  Victor De Oliveira    vs   Raul Safont Martinez Sun @ 10:45
+     SF  Victor De Oliveira   def.  Bernardo Tajada      64 63
+     SF  Raul Safont Martinez def.  Enrique Martinez     46 75 [5]
+  > 3-4 Playoff
+      F  Ramiro Rincon         vs   Santino Morel        Sun @ 10:45
+  > South
+      F  Bernardo Tajada       vs   Enrique Martinez     Sun @ 10:45
  > Flight B
   > East
-     SF  Nicolas Bacella       vs   Christian Della Cio… Sat @ 10:45
-     SF  Lluc Camps            vs   Ghali Mensour        Sat @ 10:45
+      F  Nicolas Bacella       vs   Lluc Camps           Sun @ 10:45
+     SF  Nicolas Bacella      def.  Christian Della Cio… 60 61
+     SF  Lluc Camps           def.  Ghali Mensour        63 63
      QF  Nicolas Bacella      def.  Filipe Gil           61 61
      QF  Christian Della Cio… def.  Jacob Turley         75 75
      QF  Lluc Camps           def.  Thomas Andrews       62 64
      QF  Ghali Mensour        def.  Diego Menendez Vina  61 57 [9]
   > West
-     SF  Filipe Gil            vs   Jacob Turley         Sat @ 10:45
-     SF  Thomas Andrews        vs   Diego Menendez Vina  Sat @ 10:45
+      F  Jacob Turley          vs   Diego Menendez Vina  Sun @ 10:45
+     SF  Jacob Turley         def.  Filipe Gil           06 63 [8]
+     SF  Diego Menendez Vina  def.  Thomas Andrews       46 63 [7]
+  > 3-4 Playoff
+      F  Christian Della Cio…  vs   Ghali Mensour        Sun @ 10:45
+  > South
+      F  Filipe Gil            vs   Thomas Andrews       Sun @ 10:45
  > Flight C
   > East
-     SF  Willem van den Akker  vs   Lucas Ribas          Sat @ 12:30
-     SF  Jaewoo Choi           vs   Luis Iriarte         Sat @ 12:30
+      F  Lucas Ribas           vs   Luis Iriarte         Sun @ 12:30
+     SF  Lucas Ribas          def.  Willem van den Akker 75 63
+     SF  Luis Iriarte         def.  Jaewoo Choi          62 60
      QF  Willem van den Akker def.  Tyler Glowaki        61 61
      QF  Lucas Ribas          def.  Richard Freemann     60 63
      QF  Jaewoo Choi          def.  Theodore Preiswerk   61 63
      QF  Luis Iriarte         def.  Juan Patino Pabon    61 60
   > West
-     SF  Tyler Glowaki         vs   Richard Freemann     Sat @ 12:30
-     SF  Theodore Preiswerk    vs   Juan Patino Pabon    Sat @ 12:30
+      F  Richard Freemann      vs   Juan Patino Pabon    Sun @ 12:30
+     SF  Richard Freemann     def.  Tyler Glowaki        76(1) 64
+     SF  Juan Patino Pabon    def.  Theodore Preiswerk   62 64
+  > 3-4 Playoff
+      F  Willem van den Akker  vs   Jaewoo Choi          Sun @ 12:30
+  > South
+      F  Tyler Glowaki         vs   Theodore Preiswerk   Sun @ 12:30
  > Flight D
   > East
-     SF  Kayne Trustfull       vs   Bernardo Gandara     Sat @ 12:30
-     SF  Miguel Torrenegra     vs   Corentin Venot       Sat @ 12:30
+      F  Kayne Trustfull       vs   Corentin Venot       Sun @ 12:30
+     SF  Kayne Trustfull      def.  Bernardo Gandara     61 61
+     SF  Corentin Venot       def.  Miguel Torrenegra    61 61
      QF  Bernardo Gandara     def.  Miguel Ferreira      60 62
      QF  Corentin Venot       def.  William Priddy       62 63
   > West
-      F  Miguel Ferreira       vs   William Priddy       Sun @ 12:30
+      F  William Priddy       def.  Miguel Ferreira      61 61
+  > 3-4 Playoff
+      F  Bernardo Gandara      vs   Miguel Torrenegra    Sun @ 12:30
  > Flight E
   > Main
-     R3  Yosue Noa             vs   Miguel Binnios       Sat @ 12:30
-     R3  Jose Moreno           vs   Jake Edwards         Sat @ 12:30
+     R3  Yosue Noa            def.  Miguel Binnios       61 63
+     R3  Jose Moreno          def.  Jake Edwards         62 62
      R2  Jose Moreno           vs   Miguel Binnios       Sun @ 12:30
      R2  Yosue Noa             vs   Jake Edwards         Sun @ 12:30
      R1  Yosue Noa            def.  Jose Moreno          36 63 [9]

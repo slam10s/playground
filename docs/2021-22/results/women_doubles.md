@@ -55,38 +55,58 @@
 
 <a name="21-46458"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Southeast Regional Championship
   Dates: Oct 14-27, 2021
   Host: University Of Central Florida (W)
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main Draw 1
   > Main
-     16 (2) Gulihur/Melilo       def.     Zeleva/Levashova   Default
-     32 (1) Hule/Allen           def.     Kudelova/MGinnis   87(2)
-     32     Khodan/Tahan         def.     Oliveira/Yardley   84
-     32     Kowalski/Nirundorn   def.     Dean/Muzik         87(3)
-     32 (7) Briggs/Zein          def.     Tillitt/Courville  82
-     32 (5) Pfennig/Boch-Collins def.     Kentish/Smith      82
-     32     Dudeney/Berlin       def.     Cohen/Garcia Gross 84
-     32     Mattel/Sharma        def.     Ferding/Norin      82
-     32 (4) Hertel/Grant         def.     Boy/Berry          83
-     32 (3) Coppoc/Reasco        def.     Lee/Taddia         83
-     32     Arkadianou/Jacobs    def.     Gabriel/Darley     84
-     32     Kattenberg/Leslie    def.     Sharabura/Lee      84
-     32     Umarova/Kabbaj       def. (6) Shelton/Spee       82
-     32 (8) Bilchev/Hrastar      def.     Hubeaut/Sandy      83
-     32     Achong/Richardson    def.     Carney/Alvarez     84
-     32     Zeleva/Levashova     def.     Heimen/Hijos       84
-     32 (2) Gulihur/Melilo       def.     Clayton/Ma         86
+      QF (7) Briggs/Zein          def.     Khodan/Tahan         84
+      QF     Dudeney/Berlin       def.     Mattel/Sharma        85
+      QF (3) Coppoc/Reasco        def.     Umarova/Kabbaj       86
+      QF (2) Gulihur/Melilo       def.     Achong/Richardson    86
+      16     Khodan/Tahan         def. (1) Hule/Allen           85
+      16 (7) Briggs/Zein          def.     Kowalski/Nirundorn   82
+      16     Dudeney/Berlin       def. (5) Pfennig/Boch-Collins 85
+      16     Mattel/Sharma        def. (4) Hertel/Grant         87(5)
+      16 (3) Coppoc/Reasco        def.     Arkadianou/Jacobs    84
+      16     Umarova/Kabbaj       def.     Kattenberg/Leslie    83
+      16     Achong/Richardson    def. (8) Bilchev/Hrastar      86
+      16 (2) Gulihur/Melilo       def.     Zeleva/Levashova     Default
+      32 (1) Hule/Allen           def.     Kudelova/MGinnis     87(2)
+      32     Khodan/Tahan         def.     Oliveira/Yardley     84
+      32     Kowalski/Nirundorn   def.     Dean/Muzik           87(3)
+      32 (7) Briggs/Zein          def.     Tillitt/Courville    82
+      32 (5) Pfennig/Boch-Collins def.     Kentish/Smith        82
+      32     Dudeney/Berlin       def.     Cohen/Garcia Gross   84
+      32     Mattel/Sharma        def.     Ferding/Norin        82
+      32 (4) Hertel/Grant         def.     Boy/Berry            83
+      32 (3) Coppoc/Reasco        def.     Lee/Taddia           83
+      32     Arkadianou/Jacobs    def.     Gabriel/Darley       84
+      32     Kattenberg/Leslie    def.     Sharabura/Lee        84
+      32     Umarova/Kabbaj       def. (6) Shelton/Spee         82
+      32 (8) Bilchev/Hrastar      def.     Hubeaut/Sandy        83
+      32     Achong/Richardson    def.     Carney/Alvarez       84
+      32     Zeleva/Levashova     def.     Heimen/Hijos         84
+      32 (2) Gulihur/Melilo       def.     Clayton/Ma           86
+  > Consolation
+     16Q     Oliveira/Yardley     def.     Kudelova/MGinnis     87(3)
+     16Q     Dean/Muzik           def.     Tillitt/Courville    82
+     16Q     Cohen/Garcia Gross   def.     Kentish/Smith        81
+     16Q     Ferding/Norin        def.     Boy/Berry            85
+     16Q     Gabriel/Darley       def.     Lee/Taddia           84
+     16Q     Sharabura/Lee        def. (6) Shelton/Spee         82
+     16Q     Carney/Alvarez       def.     Hubeaut/Sandy        86
+     16Q     Clayton/Ma           def.     Heimen/Hijos         81
  > Qualifying Draw
   > Main
-     QF (1) Dudeney/Berlin       def.     Aldrich/Frediani   80
-     QF     Lee/Taddia           def. (4) Schieroni/Filip    84
-     QF (3) Khodan/Tahan         def.     Matthews/Sommer    87(4)
-     QF (2) Clayton/Ma           def.     Di Francesco/Cohen 87(4)
-     16     Aldrich/Frediani     def.     Porter/Salinas     86
+      QF (1) Dudeney/Berlin       def.     Aldrich/Frediani     80
+      QF     Lee/Taddia           def. (4) Schieroni/Filip      84
+      QF (3) Khodan/Tahan         def.     Matthews/Sommer      87(4)
+      QF (2) Clayton/Ma           def.     Di Francesco/Cohen   87(4)
+      16     Aldrich/Frediani     def.     Porter/Salinas       86
 ~~~
 
 <a name="21-32447"></a>
@@ -99,22 +119,34 @@
  Women's Open Doubles
  > Main
   > Main
-     32  (1) Flach/Axon            vs       Klevisar/Minetti     Sat @ 09:00
-     32 (12) Raquin/Urchoeguia     vs       Kohoutova/Tutunaru   Sat @ 09:00
-     32  (7) Leclerq-Ficher/Pool   vs       Mellynchuk/Ferreira… Sat @ 09:00
-     32 (15) Pitak/Pitak           vs       Medik/Burton         Sat @ 09:00
-     32  (3) Adaloglou/Cirotte     vs       Schuknecht/Tetruash… Sat @ 09:00
-     32 (11) White/Clarke          vs       Mize/Kareisova       Sat @ 09:00
-     32  (5) Babic/Geissler        vs       Parkhomenko/Sedlack… Sat @ 09:00
-     32 (14) Khokhlova/Widing      vs       Russell/Yelamanchili Sat @ 09:00
-     32      Dohnalova/Wojcikova   vs  (10) Garbino/Hernandez    Sat @ 09:00
-     32      Wasserbauerova/White  vs   (8) Cubitt/Carrington    Sat @ 09:00
-     32      Hiser/Bencheikh       vs  (16) Lopez/Zaprianov      Sat @ 09:00
-     32      Elliott/Ncube         vs   (4) Fiquet/Machalova     Sat @ 09:00
-     32      Rabinowitz/Bridges    vs  (13) Tardivel/Yazgan      Sat @ 09:45
-     32      Zadori/Gabrielsen     vs   (6) Meredith/Arseneault  Sat @ 09:45
-     32      Szczygielska/Ishiba…  vs   (9) Borland/Lavery       Sat @ 09:45
-     32      Gomez/Pereira         vs   (2) Antonaki/Racine      Sat @ 09:45
+     QF      Kohoutova/Tutunaru    vs   (7) Leclerq-Ficher/Pool  Sun @ 09:00
+     QF      Mize/Kareisova        vs       Parkhomenko/Sedlack… Sun @ 09:00
+     QF  (8) Cubitt/Carrington     vs       Hiser/Bencheikh      Sun @ 09:00
+     QF      Zadori/Gabrielsen     vs   (2) Antonaki/Racine      Sun @ 09:00
+     16      Kohoutova/Tutunaru   def.  (1) Flach/Axon           83
+     16  (7) Leclerq-Ficher/Pool  def.      Medik/Burton         84
+     16      Mize/Kareisova       def.  (3) Adaloglou/Cirotte    86
+     16      Parkhomenko/Sedlack… def. (14) Khokhlova/Widing     83
+     16  (8) Cubitt/Carrington    def.      Dohnalova/Wojcikova  82
+     16      Hiser/Bencheikh      def.  (4) Fiquet/Machalova     83
+     16      Zadori/Gabrielsen    def.      Rabinowitz/Bridges   83
+     16  (2) Antonaki/Racine      def.  (9) Borland/Lavery       83
+     32  (1) Flach/Axon           def.      Klevisar/Minetti     85
+     32      Kohoutova/Tutunaru   def. (12) Raquin/Urchoeguia    81
+     32  (7) Leclerq-Ficher/Pool  def.      Mellynchuk/Ferreira… 85
+     32      Medik/Burton         def. (15) Pitak/Pitak          85
+     32  (3) Adaloglou/Cirotte    def.      Schuknecht/Tetruash… 80
+     32      Mize/Kareisova       def. (11) White/Clarke         86
+     32      Parkhomenko/Sedlack… def.  (5) Babic/Geissler       84
+     32 (14) Khokhlova/Widing     def.      Russell/Yelamanchili 87(3)
+     32      Dohnalova/Wojcikova  def. (10) Garbino/Hernandez    83
+     32  (8) Cubitt/Carrington    def.      Wasserbauerova/White 81
+     32      Hiser/Bencheikh      def. (16) Lopez/Zaprianov      82
+     32  (4) Fiquet/Machalova     def.      Elliott/Ncube        84
+     32      Rabinowitz/Bridges   def. (13) Tardivel/Yazgan      83
+     32      Zadori/Gabrielsen    def.  (6) Meredith/Arseneault  85
+     32  (9) Borland/Lavery       def.      Szczygielska/Ishiba… 84
+     32  (2) Antonaki/Racine      def.      Gomez/Pereira        80
      64      Klevisar/Minetti     def.      Walther/Theis        82
      64      Kohoutova/Tutunaru   def.      Mikhailuk/Falceto    84
      64      Mellynchuk/Ferreira… def.      Grigoriu/Balaba      87(3)
@@ -144,22 +176,30 @@
  Women's Open Doubles
  > Draw
   > Main
-     32  (1) Makarova/Goldsmith    vs       Peet/Stepp           Sat @ 09:00
-     32      Vutukuru/Basson       vs  (16) Cortijo Parreno/Tre… Sat @ 09:00
-     32      Fulgenzi/Fulgenzi     vs   (9) Smirnova/Zipoli      Sat @ 09:00
-     32      Reinertsen/Jimenez    vs   (7) Keberle/Bartolome    Sat @ 09:00
-     32  (5) Chavatipon/Collns     vs       Zlatarova/Weir       Sat @ 09:00
-     32 (11) Skriabina/Tiglea      vs       Vehvilainen/Oyama    Sat @ 09:00
-     32 (14) Orav/Smirnova         vs       Kortikere/Cusano     Sat @ 09:00
-     32      Gorinsek/Chileno      vs   (3) Nylander/Doyle       Sat @ 09:00
+     16  (1) Makarova/Goldsmith    vs  (16) Cortijo Parreno/Tre… Sun @ 09:00
+     16      Fulgenzi/Fulgenzi     vs   (7) Keberle/Bartolome    Sun @ 09:00
+     16  (5) Chavatipon/Collns     vs  (11) Skriabina/Tiglea     Sun @ 09:00
+     16 (14) Orav/Smirnova         vs       Gorinsek/Chileno     Sun @ 09:00
+     16      Adams/Devier          vs  (13) Komac/Main           Sun @ 09:00
+     16 (10) Baranano/Zamburek     vs   (6) Pielet/Stoiana       Sun @ 09:00
+     16  (8) Evans/Sayfetdinova    vs  (12) El Jardi/Trevisan    Sun @ 09:00
+     16 (15) Dzemeshkevich/Pedem…  vs   (2) Herrero Linana/Kryw… Sun @ 09:00
+     32  (1) Makarova/Goldsmith   def.      Peet/Stepp           83
+     32 (16) Cortijo Parreno/Tre… def.      Vutukuru/Basson      82
+     32      Fulgenzi/Fulgenzi    def.  (9) Smirnova/Zipoli      86
+     32  (7) Keberle/Bartolome    def.      Reinertsen/Jimenez   83
+     32  (5) Chavatipon/Collns    def.      Zlatarova/Weir       83
+     32 (11) Skriabina/Tiglea     def.      Vehvilainen/Oyama    81
+     32 (14) Orav/Smirnova        def.      Kortikere/Cusano     80
+     32      Gorinsek/Chileno     def.  (3) Nylander/Doyle       85
      32      Adams/Devier         def.  (4) Zamarripa/Zamarripa  Walkover
-     32      Huth/Jakeway          vs  (13) Komac/Main           Sat @ 09:00
-     32      Pons/Novikova         vs  (10) Baranano/Zamburek    Sat @ 09:00
-     32      McCain/Starr          vs   (6) Pielet/Stoiana       Sat @ 09:00
-     32  (8) Evans/Sayfetdinova    vs       Honore/Aucagne       Sat @ 09:00
-     32 (12) El Jardi/Trevisan     vs       Kalava/Hummel        Sat @ 09:00
-     32 (15) Dzemeshkevich/Pedem…  vs       Morris/Mavor         Sat @ 09:00
-     32      Kvapilova/Israel-Le…  vs   (2) Herrero Linana/Kryw… Sat @ 09:00
+     32 (13) Komac/Main           def.      Huth/Jakeway         86
+     32 (10) Baranano/Zamburek    def.      Pons/Novikova        87(6)
+     32  (6) Pielet/Stoiana       def.      McCain/Starr         83
+     32  (8) Evans/Sayfetdinova   def.      Honore/Aucagne       82
+     32 (12) El Jardi/Trevisan    def.      Kalava/Hummel        80
+     32 (15) Dzemeshkevich/Pedem… def.      Morris/Mavor         86
+     32  (2) Herrero Linana/Kryw… def.      Kvapilova/Israel-Le… 84
      64      Peet/Stepp           def.      Townsend/Shumeika    85
      64      Fulgenzi/Fulgenzi    def.      Zhou/Ponomareva      82
      64      Reinertsen/Jimenez   def.      Fortuno/Chan         83
@@ -207,6 +247,50 @@
   > Main
      QF  Bossi/Chang          def.  Sawyer/Simova     64
      QF  Kovick/Kucharova     def.  Richardson/Chaika 64
+     QF  Bovolskaia/Nagato    def.  Callwood/Verma    62
+ > JMU v PSU
+  > Main
+     QF  OGorman/Chekhlystova def.  Afanasyeva/Moulin 61
+     QF  Ryan/Friedland       def.  Los Arcos/Voloh   62
+     QF  Moulin/Nord          def.  Hirsch/Lasorda    61
+~~~
+
+<a name="21-17879"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  2021 Midwest Conference Women's Tennis Individual Tournament
+  Dates: Oct 16-17, 2021
+  Host: Cornell College (W)
+═══════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > #1 Doubles
+  > Main
+     SF (1) Tang/Agusti          def. (5) Maag/Roth        82
+     SF (3) Connor/Koppa         def. (2) Campos/Lopez     87(1)
+     QF (5) Maag/Roth            def. (4) Dragon/Fievet    84
+     QF (3) Connor/Koppa         def. (6) Ryback/Endrizzi  81
+     QF (2) Campos/Lopez         def. (7) Henson/Hammond   80
+  > Consolation
+      F (4) Dragon/Fievet        def. (6) Ryback/Endrizzi  84
+     SQ (6) Ryback/Endrizzi      def. (7) Henson/Hammond   84
+ > #2 Doubles
+  > Main
+     SF (1) Manchanda/De Los Re… def. (4) Johnson/Mink     81
+     SF (2) Bugnacki/Liete       def. (3) Aturaliya/Lamb   81
+     QF (4) Johnson/Mink         def. (5) Polyak/Weber     87(4)
+     QF (3) Aturaliya/Lamb       def. (6) Haloftis/Lueke   81
+     QF (2) Bugnacki/Liete       def. (7) Laughlin/Shimmin 81
+  > Consolation
+     SQ (6) Haloftis/Lueke       def. (7) Laughlin/Shimmin 81
+ > #3 Doubles
+  > Main
+     SF (1) Giannakou/Jarvis     def. (5) Prescott/Criveau 81
+     SF (2) Wegrecki/Hinojosa    def. (3) Fisher/Angemi    80
+     QF (5) Prescott/Criveau     def. (4) Wilke/Ziebell    82
+     QF (3) Fisher/Angemi        def. (6) Jacobson/Seu     80
+     QF (2) Wegrecki/Hinojosa    def. (7) Mheidze/Perez    80
+  > Consolation
+     SQ (7) Mheidze/Perez        def. (6) Jacobson/Seu     84
 ~~~
 
 <a name="21-00186"></a>
@@ -219,8 +303,9 @@
  Women's Open Doubles
  > Division II
   > East
-     SF     Moosbacher/Farfan     vs      Kozar/Dovnik         Sat @ 13:30
-     SF     Canete/Canete         vs      Franco/Garza         Sat @ 13:30
+      F     Moosbacher/Farfan     vs      Canete/Canete        Sun @ 10:30
+     SF     Moosbacher/Farfan    def.     Kozar/Dovnik         46 60 [10]
+     SF     Canete/Canete        def.     Franco/Garza         63 64
      QF     Moosbacher/Farfan    def.     Jorge/Lippert        60 60
      QF     Kozar/Dovnik         def. (4) Gonzalez Ramirez/Ov… 62 64
      QF     Canete/Canete        def.     Ragona/Shiau         61 63
@@ -234,21 +319,20 @@
      16     Franco/Garza         def.     Chamoun/Spice        63 46 [8]
      16 (2) Espinal/Nosievici    def.     Graydon/Kirchtag     63 61
   > West
-     SF (1) Novikova/Dunlap       vs      Stephenson/Waller    Sat @ 12:30
-     SF (3) Borg/Groth            vs      Chamoun/Spice        Sat @ 12:30
+     SF (1) Novikova/Dunlap      def.     Stephenson/Waller    63 60
+     SF (3) Borg/Groth           def.     Chamoun/Spice        62 64
      QF (1) Novikova/Dunlap      def.     Jancikova/Arce Viey… 63 62
      QF     Stephenson/Waller    def.     Munday/Stralka       61 63
      QF (3) Borg/Groth           def.     Guler/Irrinki        63 06 [6]
      QF     Chamoun/Spice        def.     Graydon/Kirchtag     64 63
   > North
-     SF     Jorge/Lippert         vs  (4) Gonzalez Ramirez/Ov… Sat @ 12:30
-     SF     Ragona/Shiau          vs  (2) Espinal/Nosievici    Sat @ 12:30
+     SF     Jorge/Lippert        def. (4) Gonzalez Ramirez/Ov… 61 63
   > South
-     SF     Jancikova/Arce Viey…  vs      Munday/Stralka       Sat @ 12:30
-     SF     Guler/Irrinki         vs      Graydon/Kirchtag     Sat @ 12:30
+     SF     Munday/Stralka       def.     Jancikova/Arce Viey… 62 76(3)
+     SF     Guler/Irrinki         vs      Graydon/Kirchtag     
  > Division III
   > East
-      F (4) Guo/Mikos             vs      Fordham/Plakk        Sat @ 11:30
+      F     Fordham/Plakk        def. (4) Guo/Mikos            75 67(5) 63
      SF (4) Guo/Mikos            def.     Gaeth/Yu             46 76(4) [7]
      SF     Fordham/Plakk        def.     Givone/Zhou          63 64
      QF     Gaeth/Yu             def. (1) Cornwall/Zheng       63 64
@@ -277,8 +361,9 @@
      SF     Landells/Roarty      def.     Bruno/Lee            60 62
  > Naia
   > East
-     SF (1) Genovese/Fernandez    vs  (4) Pichler/Lysykh       Sat @ 15:30
-     SF (3) Vidanovic/Coopersmi…  vs  (2) Quiceno/Petit        Sat @ 15:30
+      F (1) Genovese/Fernandez    vs  (3) Vidanovic/Coopersmi… Sun @ 10:30
+     SF (1) Genovese/Fernandez   def. (4) Pichler/Lysykh       75 63
+     SF (3) Vidanovic/Coopersmi… def. (2) Quiceno/Petit        75 64
      QF (1) Genovese/Fernandez   def.     Piccoliori/Puig Llo… 62 63
      QF (4) Pichler/Lysykh       def.     Golz/Bemisderfer     26 63 [4]
      QF (3) Vidanovic/Coopersmi… def.     Mendez/Dveksler      75 61
@@ -292,33 +377,33 @@
      16     Teodoro De Oliveira… def.     Zavala/Lindeboom     61 63
      16 (2) Quiceno/Petit        def.     Siska/Koplova        62 75
   > West
-     SF     Muhammad/Clarke       vs      Carpenter/Vasquez    Sat @ 15:00
+     SF     Carpenter/Vasquez    def.     Muhammad/Clarke      Walkover
      QF     Muhammad/Clarke      def.     Gilich/Fernandez     Walkover
      QF     Carpenter/Vasquez    def.     Rinaldi/Weiland      67(3) 61 [6]
      QF     Novati/Pinto         def.     Guerrero/Isaac       36 76(4) [1]
      QF     Zavala/Lindeboom      vs      Siska/Koplova        
   > North
-     SF     Piccoliori/Puig Llo…  vs      Golz/Bemisderfer     Sat @ 15:00
-     SF     Mendez/Dveksler       vs      Teodoro De Oliveira… Sat @ 15:00
+     SF     Piccoliori/Puig Llo… def.     Golz/Bemisderfer     46 76(9) [9]
+     SF     Teodoro De Oliveira… def.     Mendez/Dveksler      75 36 [10]
   > South
-     SF     Gilich/Fernandez      vs      Rinaldi/Weiland      Sat @ 15:00
+     SF     Rinaldi/Weiland      def.     Gilich/Fernandez     Walkover
  > Junior College
   > East
-      F (1) Martins/Anzalotta     vs  (3) Wild/Apisah          Sat @ 14:30
+      F (1) Martins/Anzalotta    def. (2) McKenzie/Cherfus     62 26 64
      SF (1) Martins/Anzalotta    def.     Carvalho-Landell/Ga… 62 61
-     SF (3) Wild/Apisah          def. (2) McKenzie/Cherfus     63 76
+     SF (2) McKenzie/Cherfus     def. (3) Wild/Apisah          63 76
      QF (1) Martins/Anzalotta    def.     Vossen/Proktor       60 60
      QF     Carvalho-Landell/Ga… def. (4) Hernandez/Zungu      26 64 [8]
      QF (3) Wild/Apisah          def.     Beukes/Chen          62 63
      QF (2) McKenzie/Cherfus     def.     Warham/De Mata       62 62
   > West
-      F (4) Hernandez/Zungu       vs      Beukes/Chen          Sat @ 14:00
+      F (4) Hernandez/Zungu      def.     Beukes/Chen          62 60
      SF (4) Hernandez/Zungu      def.     Vossen/Proktor       61 60
      SF     Beukes/Chen          def.     Warham/De Mata       76(5) 62
   > 3-4 Playoff
-      F     Carvalho-Landell/Ga…  vs  (2) McKenzie/Cherfus     Sat @ 14:00
+      F (3) Wild/Apisah          def.     Carvalho-Landell/Ga… 76(4) 63
   > South
-      F     Vossen/Proktor        vs      Warham/De Mata       Sat @ 14:00
+      F     Warham/De Mata       def.     Vossen/Proktor       61 62
 ~~~
 
 Return to the [Top](./women_doubles_2141.md) &#124; [Home Page](../../index.md)

@@ -116,6 +116,14 @@
  Women's Open Singles
  > Main Draw
   > Main
+     16  (1) Meg Kowalski        def. (13) Kylie Bilchev       26 64 61
+     16  (9) Evgeniya Levashova  def.  (5) Carly Briggs        62 61
+     16 (12) Petra Hule          def.  (8) Morgan Coppoc       62 64
+     16      Marie Mattel        def. (14) Alicia Dudeney      76(5) 61
+     16 (16) Mell Reasco         def.      Andreeea Velcea     63 75
+     16      Catherine Gulihur   def.      Daevenia Achong     64 63
+     16 (10) Emma Shelton        def.  (7) Ava Hrastar         63 63
+     16 (15) Ania Hertel         def.  (2) Isabella Pfennig    46 61 62
      32  (1) Meg Kowalski        def.      Grace Shumacher     62 60
      32 (13) Kylie Bilchev       def.      Eden Richardson     62 67(4) 76(6)
      32  (5) Carly Briggs        def.      Vic Allen           61 67(1) 60
@@ -192,21 +200,30 @@
  Women's Open Singles
  > Main
   > Main
-     32  (1) Emmanouela Antonaki   vs       Nina Geissler        Sat @ 13:00
-     32 (14) Ludmila Kareisova     vs       Adeline Flach        Sat @ 13:00
-     32  (7) Georgie Axon          vs       Chloe Cirotte        Sat @ 13:00
-     32 (10) Ena Babic             vs       Ola Pitak            Sat @ 13:00
-     32  (4) Tiphanie Fiquet       vs       Marta Falceto        Sat @ 13:00
-     32 (11) Loudmilla Bencheikh   vs       Elysia Pool          Sat @ 13:00
-     32      Reka Zadori           vs       Anna Parkhomenko     Sat @ 13:00
-     32 (15) Nikola Kohoutova      vs       Maggie Cubitt        Sat @ 13:00
-     32      Lahari Yelamanchili   vs  (13) Yu Fujioka           Sat @ 13:00
-     32      Alexandra Mikhailuk   vs   (5) Safiya Carrington    Sat @ 13:00
-     32      Alexis Lopez          vs  (16) Tamara Racine        Sat @ 13:00
-     32      Michelle Ncube        vs       Mia Rabinowitz       Sat @ 15:00
-     32      Rozalie Dohnalova     vs   (8) Ariana Arseneault    Sat @ 15:00
-     32      Petra Sedlackova      vs  (12) Mackenzie Clark      Sat @ 15:00
-     32      Lara van der Merwe    vs   (2) Sabina Machalova     Sat @ 15:00
+     16  (1) Emmanouela Antonaki   vs       Adeline Flach        Sun @ 10:30
+     16  (7) Georgie Axon          vs  (10) Ena Babic            Sun @ 10:30
+     16  (4) Tiphanie Fiquet       vs  (11) Loudmilla Bencheikh  Sun @ 10:30
+     16      Reka Zadori           vs       Maggie Cubitt        Sun @ 10:30
+     16      Lahari Yelamanchili   vs   (5) Safiya Carrington    Sun @ 10:30
+     16 (16) Tamara Racine         vs   (3) Carolyn Ansari       Sun @ 10:30
+     16      Mia Rabinowitz        vs   (8) Ariana Arseneault    Sun @ 10:30
+     16      Petra Sedlackova      vs   (2) Sabina Machalova     Sun @ 10:30
+     32  (1) Emmanouela Antonaki  def.      Nina Geissler        36 64 63
+     32      Adeline Flach        def. (14) Ludmila Kareisova    64 62
+     32  (7) Georgie Axon         def.      Chloe Cirotte        60 36 60
+     32 (10) Ena Babic            def.      Ola Pitak            62 75
+     32  (4) Tiphanie Fiquet      def.      Marta Falceto        60 64
+     32 (11) Loudmilla Bencheikh  def.      Elysia Pool          60 61
+     32      Reka Zadori          def.      Anna Parkhomenko     26 60 63
+     32      Maggie Cubitt        def. (15) Nikola Kohoutova     64 63
+     32      Lahari Yelamanchili  def. (13) Yu Fujioka           63 75
+     32  (5) Safiya Carrington    def.      Alexandra Mikhailuk  75 26 75
+     32 (16) Tamara Racine        def.      Alexis Lopez         57 62 60
+     32  (3) Carolyn Ansari       def.      Anne Marie Hiser     16 64 64
+     32      Mia Rabinowitz       def.      Michelle Ncube       62 63
+     32  (8) Ariana Arseneault    def.      Rozalie Dohnalova    75 36 60
+     32      Petra Sedlackova     def. (12) Mackenzie Clark      76(4) 62
+     32  (2) Sabina Machalova     def.      Lara van der Merwe   62 61
      64  (1) Emmanouela Antonaki  def.      Lucie Raquin         63 76(6)
      64      Nina Geissler        def.      Otoha Aoki           64 62
      64 (14) Ludmila Kareisova    def.      Tjasa Klevisar       63 76(5)
@@ -379,14 +396,20 @@
      32Q      Elena Trencheva      def.      Emma Honore          46 75 [6]
  > Women's Main Draw
   > Main
-      16  (1) Tatiana Makarova      vs       Bojana Marinkov      Sat @ 10:30
-      16  (9) Alicia Herrero Lina…  vs   (7) Jackie Nylander      Sat @ 10:30
-      16      Liisa Vehvilainen     vs  (14) Malaika Rapolu       Sat @ 10:30
-      16 (11) Mary Stoiana          vs   (3) Charlotte Chavatipon Sat @ 10:30
-      16  (4) Margarita Skriabina   vs       Lana Mavor           Sat @ 10:30
-      16 (10) Hadley Doyle          vs   (5) Kylie Collns         Sat @ 10:30
-      16  (8) Jayci Goldsmith       vs       Hana Kvapilova       Sat @ 10:30
-      16      Jasmin Adams          vs   (2) Melany Krywoj        Sat @ 10:30
+      SF  (9) Alicia Herrero Lina…  vs  (14) Malaika Rapolu       Sun @ 10:30
+      SF  (5) Kylie Collns          vs   (2) Melany Krywoj        Sun @ 10:30
+      QF  (9) Alicia Herrero Lina… def.  (1) Tatiana Makarova     64 26 [4]
+      QF (14) Malaika Rapolu       def. (11) Mary Stoiana         46 75 [2]
+      QF  (5) Kylie Collns         def.  (4) Margarita Skriabina  63 46 [7]
+      QF  (2) Melany Krywoj        def.  (8) Jayci Goldsmith      64 63
+      16  (1) Tatiana Makarova     def.      Bojana Marinkov      62 61
+      16  (9) Alicia Herrero Lina… def.  (7) Jackie Nylander      76(4) 63
+      16 (14) Malaika Rapolu       def.      Liisa Vehvilainen    76(1) 63
+      16 (11) Mary Stoiana         def.  (3) Charlotte Chavatipon 61 75
+      16  (4) Margarita Skriabina  def.      Lana Mavor           60 61
+      16  (5) Kylie Collns         def. (10) Hadley Doyle         63 62
+      16  (8) Jayci Goldsmith      def.      Hana Kvapilova       61 36 [6]
+      16  (2) Melany Krywoj        def.      Jasmin Adams         62 60
       32  (1) Tatiana Makarova     def.      Nicole Petchey       64 64
       32      Bojana Marinkov      def. (15) Alison Zipoli        63 57 [8]
       32  (9) Alicia Herrero Lina… def.      Aleksandra Zlatarova 76(3) 62
@@ -436,14 +459,20 @@
       64      Laura Slisane        def.      Carla Pons           64 64
       64  (2) Melany Krywoj        def.      Lauren Fulgenzi      60 60
   > Consolation
-      16      Bella Zamarripa       vs       Camille Townsend     Sat @ 10:30
-      16      Nyah Kauders          vs       Maria Dzemeshkevich  Sat @ 10:30
-      16      Katherine Jakeway     vs       Olivia Peet          Sat @ 10:30
-      16      Anastasia Smirnova    vs       Sarina Reinertsen    Sat @ 10:30
-      16      Lucy Furness          vs       Saara Orav           Sat @ 10:30
-      16      Gabriela Giraldo      vs       Ana Paula Jimenez    Sat @ 10:30
-      16      Victoria Smirnova     vs       Maryjoe Crisologo    Sat @ 10:30
-      16      Tomi Main             vs       Lauren Fulgenzi      Sat @ 10:30
+      SF      Bella Zamarripa       vs       Olivia Peet          Sun @ 10:30
+      SF      Gabriela Giraldo      vs       Maryjoe Crisologo    Sun @ 10:30
+      QF      Bella Zamarripa      def.      Maria Dzemeshkevich  61 64
+      QF      Olivia Peet          def.      Anastasia Smirnova   76(8) 75
+      QF      Gabriela Giraldo     def.      Saara Orav           26 75 [6]
+      QF      Maryjoe Crisologo    def.      Tomi Main            62 61
+      16      Bella Zamarripa      def.      Camille Townsend     76(5) 64
+      16      Maria Dzemeshkevich  def.      Nyah Kauders         64 63
+      16      Olivia Peet          def.      Katherine Jakeway    64 63
+      16      Anastasia Smirnova   def.      Sarina Reinertsen    61 64
+      16      Saara Orav           def.      Lucy Furness         16 63 [9]
+      16      Gabriela Giraldo     def.      Ana Paula Jimenez    75 36 [7]
+      16      Maryjoe Crisologo    def.      Victoria Smirnova    Walkover
+      16      Tomi Main            def.      Lauren Fulgenzi      Walkover
      32Q      Bella Zamarripa      def.      Azul Pedemonti       75 36 [7]
      32Q      Camille Townsend     def.      Momoka Horiguchi     64 46 [2]
      32Q      Nyah Kauders         def.      Ioana Dumitrescu     63 60
@@ -472,24 +501,43 @@
  Women's Open Singles
  > WVU v Louisville
   > Main
-     16  Rhea Verma          def.  Ting-Pei Chang       26 62 [7]
-     16  Kendall Kovick      def.  Chelsea Sawyer       46 76 [9]
-     16  Tatiana Simova      def.  Camilla Bossi        26 76 [3]
-     16  Dina Chaika         def.  Anastaiia Bovolskaia 64 63
-     16  Momoko Nagato       def.  Tyra Richardson      61 63
-     16  Michaela Kucharova  def.  Joy Callwood         64 60
+     16  Rhea Verma           def.  Ting-Pei Chang       26 62 [7]
+     16  Kendall Kovick       def.  Chelsea Sawyer       46 76 [9]
+     16  Tatiana Simova       def.  Camilla Bossi        26 76 [3]
+     16  Dina Chaika          def.  Anastaiia Bovolskaia 64 63
+     16  Momoko Nagato        def.  Tyra Richardson      61 63
+     16  Michaela Kucharova   def.  Joy Callwood         64 60
  > JMU v PSU
   > Main
-     16  Sofiya Chekhlystova def.  Daria Afanasyeva     76 61
-     16  Kylie Moulin        def.  Gabby OGorman        26 63 [8]
-     16  Karly Friedland     def.  Daniela Voloh        64 63
-     16  Deanna Lasorda      def.  Hope Moulin          62 64
-     16  Amanda Nord         def.  Olivia Ryan          63 60
-     16  Michelle Los Arcos  def.  Sydney Weinberg      62 63
-     16  Gracey Hirsch       def.  Shannon McCarthy     64 75
+     16  Sofiya Chekhlystova  def.  Daria Afanasyeva     76 61
+     16  Kylie Moulin         def.  Gabby OGorman        26 63 [8]
+     16  Karly Friedland      def.  Daniela Voloh        64 63
+     16  Deanna Lasorda       def.  Hope Moulin          62 64
+     16  Amanda Nord          def.  Olivia Ryan          63 60
+     16  Michelle Los Arcos   def.  Sydney Weinberg      62 63
+     16  Gracey Hirsch        def.  Shannon McCarthy     64 75
  > Extra Matches Day 1
   > Main
-      F  Penny Hsieh         def.  Alexandra Prudente   76(4) 63
+      F  Penny Hsieh          def.  Alexandra Prudente   76(4) 63
+ > PSU v Louisville
+  > Main
+     16  Sofiya Chekhlystova  def.  Chelsea Sawyer       61 62
+     16  Gabby OGorman        def.  Rhea Verma           31 Ret.
+     16  Dina Chaika          def.  Karly Friedland      63 64
+     16  Deanna Lasorda       def.  Tatiana Simova       63 76(4)
+     16  Tyra Richardson      def.  Gracey Hirsch        75 62
+     16  Sydney Weinberg      def.  Joy Callwood         36 63 [9]
+ > WVU v JMU
+  > Main
+     16  Daria Afanasyeva     def.  Ting-Pei Chang       63 26 [5]
+     16  Daniela Voloh        def.  Kendall Kovick       46 63 [8]
+     16  Kylie Moulin         def.  Camilla Bossi        64 36 [6]
+     16  Anastaiia Bovolskaia def.  Amanda Nord          62 57 [6]
+     16  Momoko Nagato        def.  Hope Moulin          76 60
+     16  Michaela Kucharova   def.  Michelle Los Arcos   62 64
+ > Extra Matches Day 2
+  > Main
+      F  Gabby OGorman        def.  Alexandra Prudente   63 61
 ~~~
 
 <a name="21-35590"></a>
@@ -502,6 +550,7 @@
  Women's Open Singles
  > Flight A
   > Main
+       F     Renata Martinez      def. (3) Shelby Cook          57 75 [8]
       SF     Renata Martinez      def. (7) Bronwyn Metcalf      62 61
       SF (3) Shelby Cook          def. (8) Meadow LaDuke        64 61
       QF (7) Bronwyn Metcalf      def. (1) Madison Schultz      36 75 [5]
@@ -542,6 +591,7 @@
      16Q     Lexi Hastings        def.     Claudia Bilkey       82
  > Flight B
   > Main
+       F (3) Clair Moore          def. (7) Sara Backus          82
       SF (7) Sara Backus          def.     Sydney Clausen       63 62
       SF (3) Clair Moore          def.     Jalen DenHartog      62 64
       QF (7) Sara Backus          def.     Chihiro Ono          62 06 [4]
@@ -586,6 +636,7 @@
      16Q     Dorothy Deans        def.     Alli Kreider         85
  > Flight C
   > Main
+       F     Macy Scharff         def.     Sydney Stout         64 61
       SF     Sydney Stout         def.     Jennifer Larson      63 61
       SF     Macy Scharff         def.     Linnea Wolle         67(6) 64 [0]
       QF     Jennifer Larson      def.     Alex Oestreich       82
@@ -623,6 +674,15 @@
       64     Maddie Holle         def.     Gabrielle Kardell    85
       64     Nicole Cerio         def.     Amy Whitcomb         82
       64     Natalie Peterson     def.     Abbie DenAdel        86
+ > C-Singles Third Place
+  > Main
+       F     Linnea Wolle         def.     Jennifer Larson      63 64
+ > B-Singles Third Place
+  > Main
+       F     Jalen DenHartog      def.     Sydney Clausen       63 57 [9]
+ > A-Singles Third Place
+  > Main
+       F     Bronwyn Metcalf      def.     Meadow LaDuke        63 62
 ~~~
 
 <a name="21-00186"></a>
@@ -635,8 +695,9 @@
  Women's Open Singles
  > Naia
   > East
-     SF (1) Nicole Coopersmith    vs  (4) Eva Siska            Sat @ 11:00
-     SF     Selina Pichler        vs  (2) Stephanie Petit      Sat @ 11:00
+      F (1) Nicole Coopersmith    vs  (2) Stephanie Petit      Sun @ 09:00
+     SF (1) Nicole Coopersmith   def. (4) Eva Siska            62 36 61
+     SF (2) Stephanie Petit      def.     Selina Pichler       63 62
      QF (1) Nicole Coopersmith   def.     Iryna Lysykh         62 62
      QF (4) Eva Siska            def.     Tsvetanka Trifonova  62 61
      QF     Selina Pichler       def. (3) Teodora Jovic        62 63
@@ -650,22 +711,23 @@
      16     Angela Rinaldi       def.     Maddie Bemisderfer   46 63 76(7)
      16 (2) Stephanie Petit      def.     Kyra Akinnibi        61 76(3)
   > West
-     SF     Valerie Quiceno       vs      Ana Zavala           Sat @ 09:00
-     SF     Yue Yu                vs      Maddie Bemisderfer   Sat @ 09:00
+     SF     Valerie Quiceno      def.     Ana Zavala           62 62
+     SF     Yue Yu               def.     Maddie Bemisderfer   62 63
      QF     Valerie Quiceno      def.     Aisha Niyonkuru      63 61
      QF     Ana Zavala           def.     Renee Acena          64 76(2)
      QF     Yue Yu               def.     Vanja Vidanovic      61 75
      QF     Maddie Bemisderfer   def.     Aurora Novati        64 63
   > North
-     SF     Iryna Lysykh          vs      Tsvetanka Trifonova  Sat @ 10:00
-     SF (3) Teodora Jovic         vs      Angela Rinaldi       Sat @ 10:00
+     SF     Iryna Lysykh         def.     Tsvetanka Trifonova  61 63
+     SF (3) Teodora Jovic        def.     Angela Rinaldi       62 63
   > South
-     SF     Aisha Niyonkuru       vs      Renee Acena          Sat @ 10:30
-     SF     Vanja Vidanovic       vs      Aurora Novati        Sat @ 10:30
+     SF     Aisha Niyonkuru      def.     Renee Acena          62 63
+     SF     Vanja Vidanovic      def.     Aurora Novati        63 62
  > Division II
   > East
-     SF (1) Deniz Khazan          vs      Ana Carla Resende    Sat @ 09:00
-     SF     Eleonora Liga         vs  (2) Mae Canete           Sat @ 09:00
+      F (1) Deniz Khazan          vs  (2) Mae Canete           Sun @ 09:00
+     SF (1) Deniz Khazan         def.     Ana Carla Resende    61 62
+     SF (2) Mae Canete           def.     Eleonora Liga        61 46 62
      QF (1) Deniz Khazan         def.     Christine Canete     63 63
      QF     Ana Carla Resende    def. (4) Anna Novikova        64 61
      QF     Eleonora Liga        def. (3) Adel Abidulina       64 46 76(5)
@@ -679,20 +741,20 @@
      16     Maria Garcia         def.     Isabella Dunlap      64 46 62
      16 (2) Mae Canete           def.     Luisa Hrda           75 62
   > West
-     SF     Ashley Penshorn       vs      Karolin Kirchtag     Sat @ 09:00
-     SF     Natalie Kallmunzero…  vs      Luisa Hrda           Sat @ 09:00
+     SF     Ashley Penshorn      def.     Karolin Kirchtag     64 60
+     SF     Luisa Hrda           def.     Natalie Kallmunzero… 75 64
      QF     Ashley Penshorn      def.     Sofia Ragona         46 63 63
      QF     Karolin Kirchtag     def.     Taylor Leslie        75 64
      QF     Natalie Kallmunzero… def.     Raquel Amaro         62 61
      QF     Luisa Hrda           def.     Isabella Dunlap      26 64 62
   > North
-     SF     Christine Canete      vs  (4) Anna Novikova        Sat @ 09:00
-     SF (3) Adel Abidulina        vs      Maria Garcia         Sat @ 09:00
+     SF     Christine Canete     def. (4) Anna Novikova        46 60 62
+     SF (3) Adel Abidulina       def.     Maria Garcia         64 62
   > South
-     SF     Sofia Ragona          vs      Taylor Leslie        Sat @ 09:00
+     SF     Sofia Ragona         def.     Taylor Leslie        62 76(3)
  > Division III
   > East
-      F (1) Sahana Raman          vs  (2) Eliza McPherron      Sat @ 11:00
+      F (2) Eliza McPherron      def. (1) Sahana Raman         36 75 62
      SF (1) Sahana Raman         def.     Carol Plakk          Walkover
      SF (2) Eliza McPherron      def.     Nina Ye              62 36 63
      QF (1) Sahana Raman         def.     Mary Hose            75 62
@@ -722,7 +784,7 @@
      SF     Miranda Yuan         def.     Jamilah Karah        62 46 61
  > Junior College
   > East
-      F (1) Lauren Anzalotta      vs  (3) Justine Lespes       Sat @ 11:00
+      F (1) Lauren Anzalotta     def. (3) Justine Lespes       63 61
      SF (1) Lauren Anzalotta     def. (4) Naomi McKenzie       62 63
      SF (3) Justine Lespes       def. (2) Destinee Martins     76(5) 46 76(4)
      QF (1) Lauren Anzalotta     def.     Ana Julissa De Mata  63 62
@@ -730,13 +792,13 @@
      QF (3) Justine Lespes       def.     Jou Chen Chen        62 62
      QF (2) Destinee Martins     def.     Valeriia Cherfus     62 61
   > West
-      F     Ana Julissa De Mata   vs      Valeriia Cherfus     Sat @ 10:30
+      F     Valeriia Cherfus     def.     Ana Julissa De Mata  46 61 62
      SF     Ana Julissa De Mata  def.     Bailey Greenwell     61 63
      SF     Valeriia Cherfus     def.     Jou Chen Chen        63 63
   > 3-4 Playoff
-      F (4) Naomi McKenzie        vs  (2) Destinee Martins     Sat @ 10:30
+      F (2) Destinee Martins     def. (4) Naomi McKenzie       61 61
   > South
-      F     Bailey Greenwell      vs      Jou Chen Chen        Sat @ 10:30
+      F     Jou Chen Chen        def.     Bailey Greenwell     61 62
 ~~~
 
 Return to the [Top](./women_singles_2141.md) &#124; [Home Page](../../index.md)

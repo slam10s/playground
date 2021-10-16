@@ -21,38 +21,58 @@
 
 <a name="21-46458"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Division I Women's Southeast Regional Championship
   Dates: Oct 14-27, 2021
   Host: University Of Central Florida (W)
-════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main Draw 1
   > Main
-     16 (2) Gulihur/Melilo       def.     Zeleva/Levashova   Default
-     32 (1) Hule/Allen           def.     Kudelova/MGinnis   87(2)
-     32     Khodan/Tahan         def.     Oliveira/Yardley   84
-     32     Kowalski/Nirundorn   def.     Dean/Muzik         87(3)
-     32 (7) Briggs/Zein          def.     Tillitt/Courville  82
-     32 (5) Pfennig/Boch-Collins def.     Kentish/Smith      82
-     32     Dudeney/Berlin       def.     Cohen/Garcia Gross 84
-     32     Mattel/Sharma        def.     Ferding/Norin      82
-     32 (4) Hertel/Grant         def.     Boy/Berry          83
-     32 (3) Coppoc/Reasco        def.     Lee/Taddia         83
-     32     Arkadianou/Jacobs    def.     Gabriel/Darley     84
-     32     Kattenberg/Leslie    def.     Sharabura/Lee      84
-     32     Umarova/Kabbaj       def. (6) Shelton/Spee       82
-     32 (8) Bilchev/Hrastar      def.     Hubeaut/Sandy      83
-     32     Achong/Richardson    def.     Carney/Alvarez     84
-     32     Zeleva/Levashova     def.     Heimen/Hijos       84
-     32 (2) Gulihur/Melilo       def.     Clayton/Ma         86
+      QF (7) Briggs/Zein          def.     Khodan/Tahan         84
+      QF     Dudeney/Berlin       def.     Mattel/Sharma        85
+      QF (3) Coppoc/Reasco        def.     Umarova/Kabbaj       86
+      QF (2) Gulihur/Melilo       def.     Achong/Richardson    86
+      16     Khodan/Tahan         def. (1) Hule/Allen           85
+      16 (7) Briggs/Zein          def.     Kowalski/Nirundorn   82
+      16     Dudeney/Berlin       def. (5) Pfennig/Boch-Collins 85
+      16     Mattel/Sharma        def. (4) Hertel/Grant         87(5)
+      16 (3) Coppoc/Reasco        def.     Arkadianou/Jacobs    84
+      16     Umarova/Kabbaj       def.     Kattenberg/Leslie    83
+      16     Achong/Richardson    def. (8) Bilchev/Hrastar      86
+      16 (2) Gulihur/Melilo       def.     Zeleva/Levashova     Default
+      32 (1) Hule/Allen           def.     Kudelova/MGinnis     87(2)
+      32     Khodan/Tahan         def.     Oliveira/Yardley     84
+      32     Kowalski/Nirundorn   def.     Dean/Muzik           87(3)
+      32 (7) Briggs/Zein          def.     Tillitt/Courville    82
+      32 (5) Pfennig/Boch-Collins def.     Kentish/Smith        82
+      32     Dudeney/Berlin       def.     Cohen/Garcia Gross   84
+      32     Mattel/Sharma        def.     Ferding/Norin        82
+      32 (4) Hertel/Grant         def.     Boy/Berry            83
+      32 (3) Coppoc/Reasco        def.     Lee/Taddia           83
+      32     Arkadianou/Jacobs    def.     Gabriel/Darley       84
+      32     Kattenberg/Leslie    def.     Sharabura/Lee        84
+      32     Umarova/Kabbaj       def. (6) Shelton/Spee         82
+      32 (8) Bilchev/Hrastar      def.     Hubeaut/Sandy        83
+      32     Achong/Richardson    def.     Carney/Alvarez       84
+      32     Zeleva/Levashova     def.     Heimen/Hijos         84
+      32 (2) Gulihur/Melilo       def.     Clayton/Ma           86
+  > Consolation
+     16Q     Oliveira/Yardley     def.     Kudelova/MGinnis     87(3)
+     16Q     Dean/Muzik           def.     Tillitt/Courville    82
+     16Q     Cohen/Garcia Gross   def.     Kentish/Smith        81
+     16Q     Ferding/Norin        def.     Boy/Berry            85
+     16Q     Gabriel/Darley       def.     Lee/Taddia           84
+     16Q     Sharabura/Lee        def. (6) Shelton/Spee         82
+     16Q     Carney/Alvarez       def.     Hubeaut/Sandy        86
+     16Q     Clayton/Ma           def.     Heimen/Hijos         81
  > Qualifying Draw
   > Main
-     QF (1) Dudeney/Berlin       def.     Aldrich/Frediani   80
-     QF     Lee/Taddia           def. (4) Schieroni/Filip    84
-     QF (3) Khodan/Tahan         def.     Matthews/Sommer    87(4)
-     QF (2) Clayton/Ma           def.     Di Francesco/Cohen 87(4)
-     16     Aldrich/Frediani     def.     Porter/Salinas     86
+      QF (1) Dudeney/Berlin       def.     Aldrich/Frediani     80
+      QF     Lee/Taddia           def. (4) Schieroni/Filip      84
+      QF (3) Khodan/Tahan         def.     Matthews/Sommer      87(4)
+      QF (2) Clayton/Ma           def.     Di Francesco/Cohen   87(4)
+      16     Aldrich/Frediani     def.     Porter/Salinas       86
 ~~~
 
 Return to the [Top](./women_doubles_2143.md) &#124; [Home Page](../../index.md)

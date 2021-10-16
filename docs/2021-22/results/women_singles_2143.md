@@ -29,6 +29,14 @@
  Women's Open Singles
  > Main Draw
   > Main
+     16  (1) Meg Kowalski        def. (13) Kylie Bilchev       26 64 61
+     16  (9) Evgeniya Levashova  def.  (5) Carly Briggs        62 61
+     16 (12) Petra Hule          def.  (8) Morgan Coppoc       62 64
+     16      Marie Mattel        def. (14) Alicia Dudeney      76(5) 61
+     16 (16) Mell Reasco         def.      Andreeea Velcea     63 75
+     16      Catherine Gulihur   def.      Daevenia Achong     64 63
+     16 (10) Emma Shelton        def.  (7) Ava Hrastar         63 63
+     16 (15) Ania Hertel         def.  (2) Isabella Pfennig    46 61 62
      32  (1) Meg Kowalski        def.      Grace Shumacher     62 60
      32 (13) Kylie Bilchev       def.      Eden Richardson     62 67(4) 76(6)
      32  (5) Carly Briggs        def.      Vic Allen           61 67(1) 60
