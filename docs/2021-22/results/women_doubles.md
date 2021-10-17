@@ -7,6 +7,7 @@
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
 - 10/15/2021 - [Martha Thorn Invitational](#21-82907) ([Results](#21-82907) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Draws</a>)  
 - 10/16/2021 - [2021 Midwest Conference Women's Tennis Individual Tournament](#21-17879) ([Results](#21-17879) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">Draws</a>)  
+- 10/15/2021 - [American Rivers Conference Women's Individual Tournament](#21-35590) ([Results](#21-35590) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
@@ -15,7 +16,6 @@
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/B1C9ACB5-0D08-48E0-980C-75F2F818B28F" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Viking Invitational</a>  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">American Rivers Conference Women's Individual Tournament</a>  
 
 <a name="21-27941"></a>
 ~~~
@@ -265,32 +265,103 @@
  Women's Open Doubles
  > #1 Doubles
   > Main
-     SF (1) Tang/Agusti          def. (5) Maag/Roth        82
-     SF (3) Connor/Koppa         def. (2) Campos/Lopez     87(1)
-     QF (5) Maag/Roth            def. (4) Dragon/Fievet    84
-     QF (3) Connor/Koppa         def. (6) Ryback/Endrizzi  81
-     QF (2) Campos/Lopez         def. (7) Henson/Hammond   80
+      F (1) Tang/Agusti          def. (3) Connor/Koppa      82
+     SF (1) Tang/Agusti          def. (5) Maag/Roth         82
+     SF (3) Connor/Koppa         def. (2) Campos/Lopez      87(1)
+     QF (5) Maag/Roth            def. (4) Dragon/Fievet     84
+     QF (3) Connor/Koppa         def. (6) Ryback/Endrizzi   81
+     QF (2) Campos/Lopez         def. (7) Henson/Hammond    80
   > Consolation
-      F (4) Dragon/Fievet        def. (6) Ryback/Endrizzi  84
-     SQ (6) Ryback/Endrizzi      def. (7) Henson/Hammond   84
+      F (4) Dragon/Fievet        def. (6) Ryback/Endrizzi   84
+     SQ (6) Ryback/Endrizzi      def. (7) Henson/Hammond    84
  > #2 Doubles
   > Main
-     SF (1) Manchanda/De Los Re… def. (4) Johnson/Mink     81
-     SF (2) Bugnacki/Liete       def. (3) Aturaliya/Lamb   81
-     QF (4) Johnson/Mink         def. (5) Polyak/Weber     87(4)
-     QF (3) Aturaliya/Lamb       def. (6) Haloftis/Lueke   81
-     QF (2) Bugnacki/Liete       def. (7) Laughlin/Shimmin 81
+      F (1) Manchanda/De Los Re… def. (2) Bugnacki/Liete    84
+     SF (1) Manchanda/De Los Re… def. (4) Johnson/Mink      81
+     SF (2) Bugnacki/Liete       def. (3) Aturaliya/Lamb    81
+     QF (4) Johnson/Mink         def. (5) Polyak/Weber      87(4)
+     QF (3) Aturaliya/Lamb       def. (6) Haloftis/Lueke    81
+     QF (2) Bugnacki/Liete       def. (7) Laughlin/Shimmin  81
   > Consolation
-     SQ (6) Haloftis/Lueke       def. (7) Laughlin/Shimmin 81
+      F (5) Polyak/Weber         def. (6) Haloftis/Lueke    87(1)
+     SQ (6) Haloftis/Lueke       def. (7) Laughlin/Shimmin  81
  > #3 Doubles
   > Main
-     SF (1) Giannakou/Jarvis     def. (5) Prescott/Criveau 81
-     SF (2) Wegrecki/Hinojosa    def. (3) Fisher/Angemi    80
-     QF (5) Prescott/Criveau     def. (4) Wilke/Ziebell    82
-     QF (3) Fisher/Angemi        def. (6) Jacobson/Seu     80
-     QF (2) Wegrecki/Hinojosa    def. (7) Mheidze/Perez    80
+      F (1) Giannakou/Jarvis     def. (2) Wegrecki/Hinojosa 80
+     SF (1) Giannakou/Jarvis     def. (5) Prescott/Criveau  81
+     SF (2) Wegrecki/Hinojosa    def. (3) Fisher/Angemi     80
+     QF (5) Prescott/Criveau     def. (4) Wilke/Ziebell     82
+     QF (3) Fisher/Angemi        def. (6) Jacobson/Seu      80
+     QF (2) Wegrecki/Hinojosa    def. (7) Mheidze/Perez     80
   > Consolation
-     SQ (7) Mheidze/Perez        def. (6) Jacobson/Seu     84
+      F (4) Wilke/Ziebell        def. (7) Mheidze/Perez     82
+     SQ (7) Mheidze/Perez        def. (6) Jacobson/Seu      84
+~~~
+
+<a name="21-35590"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  American Rivers Conference Women's Individual Tournament
+  Dates: Oct 15-16, 2021
+  Host: ITA
+═══════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > Main
+      F (4) Hartley/Lewton       def.     Martinez/Hastings    83
+     SF (4) Hartley/Lewton       def. (1) Wanek/King           86
+     SF     Martinez/Hastings    def.     Cook/Smith           83
+     QF (1) Wanek/King           def.     Costa/O Donnell      80
+     QF (4) Hartley/Lewton       def.     Carter-Johnson/Lass… 80
+     QF     Martinez/Hastings    def. (3) Kaiser/LaDuke        84
+     QF     Cook/Smith           def.     Rubbelke/Dunning     84
+     16     Costa/O Donnell      def.     Sundermann/Lapray    87(1)
+     16 (4) Hartley/Lewton       def.     Olimpio/Sackett      83
+     16     Carter-Johnson/Lass… def.     Diiulio/Schwabe      85
+     16     Martinez/Hastings    def.     Ford/Sailer          84
+     16     Rubbelke/Dunning     def.     Bilkey/Schultz       81
+ > Flight B
+  > Main
+      F (3) Deans/Backus         def.     Tranquilino/Grubb    84
+     SF     Tranquilino/Grubb    def. (1) Duranski/Jay-Kissler 84
+     SF (3) Deans/Backus         def. (2) Larson/Metcalf       84
+     QF (1) Duranski/Jay-Kissler def.     Sinnwell/O Donnell   83
+     QF     Tranquilino/Grubb    def.     DenHartog/Neff       84
+     QF (3) Deans/Backus         def.     Scharff/Kreider      85
+     QF (2) Larson/Metcalf       def.     Grimm/van Tol        87(5)
+     16 (1) Duranski/Jay-Kissler def.     Lambo/Wolle          86
+     16     Sinnwell/O Donnell   def. (7) Oestreich/Moore      85
+     16     DenHartog/Neff       def.     Colon/Kadima         81
+     16     Tranquilino/Grubb    def.     Pinto/Fuqua          85
+     16     Scharff/Kreider      def. (6) Nissen/Ono           86
+     16 (3) Deans/Backus         def.     Bruns/Kardell        81
+     16     Grimm/van Tol        def. (8) Wright/Kinghorn      80
+     16 (2) Larson/Metcalf       def.     Stout/Flynn          85
+     32 (1) Duranski/Jay-Kissler def.     Roman/Schewe         80
+     32     Lambo/Wolle          def.     Phung/McGaffin       83
+     32 (7) Oestreich/Moore      def.     Stevenson/Jabbah     80
+     32     Sinnwell/O Donnell   def.     OSullivan/Stalzer    81
+     32     DenHartog/Neff       def. (4) Lange/McGinnis       84
+     32     Colon/Kadima         def.     Schubert/Ramirez     82
+     32     Pinto/Fuqua          def. (5) Larson/Schirm        80
+     32     Tranquilino/Grubb    def.     Nolan/Ramirez Mainou Walkover
+     32     Scharff/Kreider      def.     Cerio/Johnson        80
+     32 (6) Nissen/Ono           def.     Magee/Clausen        83
+     32     Bruns/Kardell        def.     Guevara/Fagans       85
+     32 (3) Deans/Backus         def.     Cory/Gottman         82
+     32     Grimm/van Tol        def.     Lindstrom/Holle      82
+     32 (8) Wright/Kinghorn      def.     Mau/Whitcomb         80
+     32     Stout/Flynn          def.     Wells/Monson         82
+     32 (2) Larson/Metcalf       def.     Craft/Rubenking      82
+     64     Lambo/Wolle          def.     Brant/DenAdel        83
+     64     Pinto/Fuqua          def.     Sampson -brown/Kapa… 85
+     64     Stout/Flynn          def.     Christopherson/Pete… 83
+ > A-Doubles Third Place
+  > Main
+      F     Cook/Smith           def.     Wanek/King           86
+ > B-Doubles Third Place
+  > Main
+      F     Duranski/Jay-Kissler def.     Larson/Metcalf       85
 ~~~
 
 <a name="21-00186"></a>

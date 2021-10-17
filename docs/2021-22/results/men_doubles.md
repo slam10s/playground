@@ -98,7 +98,6 @@
   > Main
      16  Johansson/Schifris   def.  Richards/Lin        87(4)
      16  Clegg/Sardo          def.  Grueber/Richardson  81
-     16  Valentinsson/Ortega   vs   Moser/Iaquinto      Sat @ 10:00
      16  Fragistas/Sonesson … def.  Malinen/Spolidorio  86
      16  Koschtojan/Vollbach  def.  Bolin/Matic         85
  > Doubles Round 3 (Sunday)
@@ -202,37 +201,38 @@
 
 <a name="21-05800"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: Saint Mary's College/CA (M)
-════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Doubles
   > Main
-     SF     Morgan/Torres         vs  (7) Keki/Maior        Sat @ 09:00
-     SF (3) Chaudhary/Kopczynski  vs  (2) Huynh/Ricklis     Sat @ 09:00
-     QF     Morgan/Torres        def. (1) Reckow/Watt       67(4) 64 [3]
-     QF (7) Keki/Maior           def. (4) Chang/Overbeck    16 64 [8]
-     QF (3) Chaudhary/Kopczynski def.     Brinkman/Necz     46 63 [7]
-     QF (2) Huynh/Ricklis        def. (5) Davis/Volgin      57 64 [7]
-     16 (1) Reckow/Watt          def.     Benn/Dudockin     86
-     16     Morgan/Torres        def.     Silva/Voros       86
-     16 (4) Chang/Overbeck       def.     McCaig/Puttergill 84
-     16 (7) Keki/Maior           def.     Ramos/Rincon      82
-     16     Brinkman/Necz        def. (6) Garpered/Giraldez 84
-     16 (3) Chaudhary/Kopczynski def.     Coupu/Zisswiller  82
-     16 (5) Davis/Volgin         def.     Aksenoks/Wong     85
-     16 (2) Huynh/Ricklis        def.     Batalla/N Tcha    Walkover
-     32     Benn/Dudockin        def.     Stratakos/Matta   84
-     32     Silva/Voros          def. (8) Gould/Johnson     84
-     32     Morgan/Torres        def.     Ali/Bell          87(4)
-     32     McCaig/Puttergill    def.     Campi/Marchand    87(4)
-     32     Ramos/Rincon         def.     Cmager/Hinojosa   87(3)
-     32     Brinkman/Necz        def.     Alam/Saini        84
-     32     Coupu/Zisswiller     def.     Magnaudet/Wright  86
-     32     Aksenoks/Wong        def.     Bell/Shah         Walkover
-     32     Batalla/N Tcha       def.     Divkovic/Potts    Walkover
+      F     Morgan/Torres         vs  (3) Chaudhary/Kopczynski Sun @ 09:00
+     SF     Morgan/Torres        def. (7) Keki/Maior           64 16 [8]
+     SF (3) Chaudhary/Kopczynski def. (2) Huynh/Ricklis        61 64
+     QF     Morgan/Torres        def. (1) Reckow/Watt          67(4) 64 [3]
+     QF (7) Keki/Maior           def. (4) Chang/Overbeck       16 64 [8]
+     QF (3) Chaudhary/Kopczynski def.     Brinkman/Necz        46 63 [7]
+     QF (2) Huynh/Ricklis        def. (5) Davis/Volgin         57 64 [7]
+     16 (1) Reckow/Watt          def.     Benn/Dudockin        86
+     16     Morgan/Torres        def.     Silva/Voros          86
+     16 (4) Chang/Overbeck       def.     McCaig/Puttergill    84
+     16 (7) Keki/Maior           def.     Ramos/Rincon         82
+     16     Brinkman/Necz        def. (6) Garpered/Giraldez    84
+     16 (3) Chaudhary/Kopczynski def.     Coupu/Zisswiller     82
+     16 (5) Davis/Volgin         def.     Aksenoks/Wong        85
+     16 (2) Huynh/Ricklis        def.     Batalla/N Tcha       Walkover
+     32     Benn/Dudockin        def.     Stratakos/Matta      84
+     32     Silva/Voros          def. (8) Gould/Johnson        84
+     32     Morgan/Torres        def.     Ali/Bell             87(4)
+     32     McCaig/Puttergill    def.     Campi/Marchand       87(4)
+     32     Ramos/Rincon         def.     Cmager/Hinojosa      87(3)
+     32     Brinkman/Necz        def.     Alam/Saini           84
+     32     Coupu/Zisswiller     def.     Magnaudet/Wright     86
+     32     Aksenoks/Wong        def.     Bell/Shah            Walkover
+     32     Batalla/N Tcha       def.     Divkovic/Potts       Walkover
 ~~~
 
 <a name="21-10002"></a>
@@ -482,7 +482,6 @@
      16     Bedwan/Rieme         def. (2) Oliveira/Kearney     62 63
   > West
      SF     Fernandez/Bianchi    def.     Bulmer/van Antwerpen 76(4) 36 [5]
-     SF     Torres/Berling        vs      Giuliato/Forcano     Sat @ 12:30
      QF     Fernandez/Bianchi    def.     Akinpetide/Jankovic  63 64
      QF     Bulmer/van Antwerpen def.     Cimpeanu/Barstow     63 67(5) [8]
      QF     Torres/Berling       def.     Jarry/Miller         64 46 [4]

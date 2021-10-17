@@ -172,7 +172,6 @@
      32  Evan Fragistas       def.  Victor Spolidorio    60 64
  > Singles Round 3 (Saturday)
   > Main
-     32  Oliver Johansson      vs   Victor Spolidorio    Sat @ 16:30
      32  Evan Fragistas       def.  Oliver Valentinsson  62 46 [9]
      32  Markus Bolin         def.  Mikael Vollbach      62 61
      32  Antonio Matteo Iaqu… def.  Jaydn Richardson     61 64
@@ -416,10 +415,13 @@
  Men's Open Singles
  > Draw
   > Main
-      QF  (1) Philip Hjorth       vs   (5) James Watt         Sat @ 11:00
-      QF  (3) Nitzan Ricklis      vs   (8) Aryan Chaudhary    Sat @ 11:00
-      QF  (6) Phuc Huynh          vs   (4) Guillaume Dalmasso Sat @ 11:00
-      QF  (7) Mate Voros          vs  (14) Tomas Kopczynski   Sat @ 11:00
+       F  (8) Aryan Chaudhary     vs   (4) Guillaume Dalmasso Sun @ 11:00
+      SF  (8) Aryan Chaudhary    def.  (5) James Watt         64 57 76(6)
+      SF  (4) Guillaume Dalmasso def. (14) Tomas Kopczynski   36 64 64
+      QF  (5) James Watt         def.  (1) Philip Hjorth      76(5) 26 75
+      QF  (8) Aryan Chaudhary    def.  (3) Nitzan Ricklis     46 62 64
+      QF  (4) Guillaume Dalmasso def.  (6) Phuc Huynh         63 67(5) 63
+      QF (14) Tomas Kopczynski   def.  (7) Mate Voros         Walkover
       16  (1) Philip Hjorth      def. (12) Nil Giraldez       63 64
       16  (5) James Watt         def.  (9) Matheo Coupu       76(7) 16 63
       16  (3) Nitzan Ricklis     def.      Patrick Wong       76(5) 62
@@ -471,13 +473,18 @@
       64 (14) Tomas Kopczynski   def.      Juan Batalla       61 62
       64      Russell Henderson  def.      Jakob Ortiveros    61 62
   > Consolation
-      QF      Karlo Divkovic      vs       Lucas Magnaudet    Sat @ 11:00
-      QF      Ryan Ali            vs       David Woodland     Sat @ 11:00
-      QF  (2) Carl Emil Overbeck  vs       Daniel Dudockin    Sat @ 11:00
+       F  (2) Carl Emil Overbeck  vs       Ryan Ali           Sun @ 11:00
+      SF      Ryan Ali           def.      Lucas Magnaudet    75 46 [6]
+      SF  (2) Carl Emil Overbeck def.      Felipe Rincon      62 62
+      QF      Lucas Magnaudet    def.      Karlo Divkovic     64 36 [6]
+      QF      Ryan Ali           def.      David Woodland     62 76(5)
+      QF      Felipe Rincon      def. (15) Andrei Volgin      Walkover
+      QF  (2) Carl Emil Overbeck def.      Daniel Dudockin    Walkover
       16      Karlo Divkovic     def.      Ryan Morgan        Walkover
       16      Lucas Magnaudet    def.      Nick Cmager        64 64
       16      Ryan Ali           def.      Liam Puttergill    63 75
       16      David Woodland     def.      Coby McCaig        63 67(4) [7]
+      16 (15) Andrei Volgin      def.      Michael Wright     Walkover
       16      Felipe Rincon      def.      Loris Zisswiller   Walkover
       16      Daniel Dudockin    def.      Peter Alam         63 62
       16  (2) Carl Emil Overbeck def.      Johan Garpered     76(3) 63
@@ -764,8 +771,6 @@
      SF  Jack Batchelor       def.  Milledge Cossu       Walkover
  > Draw C
   > East
-     SF  Michal Wozniak        vs   Sebastian Welch      Sat @ 13:00
-     SF  Wojciech Szczesny     vs   Kyle Tang            Sat @ 13:00
      QF  Michal Wozniak       def.  Mac Rogers           62 61
      QF  Sebastian Welch      def.  Nishanth Basavareddy 62 63
      QF  Wojciech Szczesny    def.  Xavier Ecarma        46 75 64
