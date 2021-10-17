@@ -29,6 +29,8 @@
  Women's Open Doubles
  > Main Draw 1
   > Main
+      SF (7) Briggs/Zein          def.     Dudeney/Berlin       62 63
+      SF (2) Gulihur/Melilo       def. (3) Coppoc/Reasco        62 64
       QF (7) Briggs/Zein          def.     Khodan/Tahan         84
       QF     Dudeney/Berlin       def.     Mattel/Sharma        85
       QF (3) Coppoc/Reasco        def.     Umarova/Kabbaj       86

@@ -28,6 +28,10 @@
  Women's Open Singles
  > Main Draw
   > Main
+     QF  (9) Evgeniya Levashova  def.  (1) Meg Kowalski        64 57 61
+     QF (12) Petra Hule          def.      Marie Mattel        64 67(3) 75
+     QF (16) Mell Reasco         def.      Catherine Gulihur   Walkover
+     QF (15) Ania Hertel         def. (10) Emma Shelton        61 16 61
      16  (1) Meg Kowalski        def. (13) Kylie Bilchev       26 64 61
      16  (9) Evgeniya Levashova  def.  (5) Carly Briggs        62 61
      16 (12) Petra Hule          def.  (8) Morgan Coppoc       62 64
@@ -112,14 +116,18 @@
  Women's Open Singles
  > Main
   > Main
-     16  (1) Emmanouela Antonaki   vs       Adeline Flach        Sun @ 10:30
-     16  (7) Georgie Axon          vs  (10) Ena Babic            Sun @ 10:30
-     16  (4) Tiphanie Fiquet       vs  (11) Loudmilla Bencheikh  Sun @ 10:30
-     16      Reka Zadori           vs       Maggie Cubitt        Sun @ 10:30
-     16      Lahari Yelamanchili   vs   (5) Safiya Carrington    Sun @ 10:30
-     16 (16) Tamara Racine         vs   (3) Carolyn Ansari       Sun @ 10:30
-     16      Mia Rabinowitz        vs   (8) Ariana Arseneault    Sun @ 10:30
-     16      Petra Sedlackova      vs   (2) Sabina Machalova     Sun @ 10:30
+     QF  (1) Emmanouela Antonaki   vs  (10) Ena Babic            Sun @ 14:00
+     QF  (4) Tiphanie Fiquet       vs       Reka Zadori          Sun @ 14:00
+     QF  (5) Safiya Carrington     vs  (16) Tamara Racine        Sun @ 14:00
+     QF  (8) Ariana Arseneault     vs       Petra Sedlackova     Sun @ 14:00
+     16  (1) Emmanouela Antonaki  def.      Adeline Flach        75 75
+     16 (10) Ena Babic            def.  (7) Georgie Axon         62 46 76(5)
+     16  (4) Tiphanie Fiquet      def. (11) Loudmilla Bencheikh  62 57 61
+     16      Reka Zadori          def.      Maggie Cubitt        63 63
+     16  (5) Safiya Carrington    def.      Lahari Yelamanchili  61 62
+     16 (16) Tamara Racine        def.  (3) Carolyn Ansari       63 63
+     16  (8) Ariana Arseneault    def.      Mia Rabinowitz       75 63
+     16      Petra Sedlackova     def.  (2) Sabina Machalova     57 64 62
      32  (1) Emmanouela Antonaki  def.      Nina Geissler        36 64 63
      32      Adeline Flach        def. (14) Ludmila Kareisova    64 62
      32  (7) Georgie Axon         def.      Chloe Cirotte        60 36 60
@@ -308,8 +316,9 @@
      32Q      Elena Trencheva      def.      Emma Honore          46 75 [6]
  > Women's Main Draw
   > Main
-      SF  (9) Alicia Herrero Lina…  vs  (14) Malaika Rapolu       Sun @ 10:30
-      SF  (5) Kylie Collns          vs   (2) Melany Krywoj        Sun @ 10:30
+       F  (9) Alicia Herrero Lina…  vs   (5) Kylie Collns         Mon @ 09:00
+      SF  (9) Alicia Herrero Lina… def. (14) Malaika Rapolu       63 75
+      SF  (5) Kylie Collns         def.  (2) Melany Krywoj        62 62
       QF  (9) Alicia Herrero Lina… def.  (1) Tatiana Makarova     64 26 [4]
       QF (14) Malaika Rapolu       def. (11) Mary Stoiana         46 75 [2]
       QF  (5) Kylie Collns         def.  (4) Margarita Skriabina  63 46 [7]
@@ -371,8 +380,9 @@
       64      Laura Slisane        def.      Carla Pons           64 64
       64  (2) Melany Krywoj        def.      Lauren Fulgenzi      60 60
   > Consolation
-      SF      Bella Zamarripa       vs       Olivia Peet          Sun @ 10:30
-      SF      Gabriela Giraldo      vs       Maryjoe Crisologo    Sun @ 10:30
+       F      Gabriela Giraldo     def.      Bella Zamarripa      Walkover
+      SF      Bella Zamarripa      def.      Olivia Peet          64 60
+      SF      Gabriela Giraldo     def.      Maryjoe Crisologo    63 61
       QF      Bella Zamarripa      def.      Maria Dzemeshkevich  61 64
       QF      Olivia Peet          def.      Anastasia Smirnova   76(8) 75
       QF      Gabriela Giraldo     def.      Saara Orav           26 75 [6]

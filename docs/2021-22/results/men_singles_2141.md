@@ -141,11 +141,11 @@
 
 <a name="21-69055"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
   Bulldog Cup
   Dates: Oct 15-17, 2021
   Host: Drake University (M)
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Singles Round 1 (Friday)
   > Main
@@ -172,6 +172,7 @@
      32  Evan Fragistas       def.  Victor Spolidorio    60 64
  > Singles Round 3 (Saturday)
   > Main
+     32  Oliver Johansson     def.  Victor Spolidorio    64 62
      32  Evan Fragistas       def.  Oliver Valentinsson  62 46 [9]
      32  Markus Bolin         def.  Mikael Vollbach      62 61
      32  Antonio Matteo Iaqu… def.  Jaydn Richardson     61 64
@@ -182,15 +183,12 @@
      32  Matija Matic         def.  Zach Grueber         64 62
  > Singles Round 4 (Sunday)
   > Main
-     32  Matt Clegg            vs   Zach Grueber         Sun @ 10:00
-     32  Kristopher Ortega     vs   Alex Richards        Sun @ 10:00
-     32  Gabriel Sardo         vs   Sven Moser           Sun @ 10:00
-     32  Mikko Malinen         vs   Antonio Matteo Iaqu… Sun @ 10:00
-     32  Jaydn Richardson      vs   Jona Gitschel        Sun @ 10:00
-     32  Matija Matic          vs   Oliver Valentinsson  Sun @ 10:00
-     32  Evan Fragistas        vs   Jackie Lin           Sun @ 11:30
-     32  Markus Bolin          vs   Victor Spolidorio    Sun @ 11:30
-     32  Oliver Johansson      vs   Mikael Vollbach      Sun @ 11:30
+     32  Kristopher Ortega    def.  Alex Richards        64 63
+     32  Sven Moser           def.  Gabriel Sardo        36 75 [7]
+     32  Mikko Malinen        def.  Jaydn Richardson     62 62
+     32  Jackie Lin           def.  Armin Koschtojan     60 75
+     32  Markus Bolin         def.  Victor Spolidorio    51 Ret.
+     32  Oliver Johansson     def.  Oliver Valentinsson  63 64
 ~~~
 
 <a name="21-23395"></a>
@@ -318,15 +316,6 @@
       64  George Cavo          def.  Eric Liu             60 63
       64  Luka Markovic        def.  Erick Rivas          61 61
       64  Ryan Nguyen          def.  Oliver Davey         62 62
- > Friday Extra Matches
-  > Main
-      64  Ryan Charles         def.  Will Pak             63 62
-      64  Matisse Bobichon     def.  Louis Gorregues      76(3) 46 [5]
-      64  Alex Mascioli        def.  Anthony Prokurat     36 60 [8]
-      64  Sasha Panyan         def.  Jin Dassanayake      64 62
-      64  Thibault Frumholz    def.  Eshan Kanetkar       Walkover
-      64  Luke Garner          def.  Alejandro Rodriguez… 64 61
-      64  Cy McLeod            def.  Noah Winton          30 Ret.
 ~~~
 
 <a name="21-08423"></a>
@@ -576,7 +565,7 @@
   > Main
      QF (16) Juan Carlos Aguilar   vs   (9) Noah Schachter       Sun @ 13:00
      QF  (4) Alexander Jong        vs   (5) Micah Braswell       Sun @ 13:00
-     QF      Raphael Perot         vs   (3) Luc Fomba            Sun @ 13:00
+     QF  (3) Luc Fomba            def.      Raphael Perot        62 64
      QF  (7) Sven Lah              vs   (2) Pedro Vives Marcos   Sun @ 13:00
      16 (16) Juan Carlos Aguilar  def.  (1) Adrian Boitan        64 64
      16  (9) Noah Schachter       def.  (8) Richard Ciamarra     76(4) 62
@@ -635,8 +624,10 @@
      64      Kenner Taylor        def.      Juan Jose Rodriguez… 63 75
      64  (2) Pedro Vives Marcos   def.      Jordi Redelijk       75 60
   > Consolation
+      F      Daniel Linkuns-Moro… def.      Ivan Thamma          Walkover
+     SF      Daniel Linkuns-Moro… def.      Evin McDonald        64 62
      SF      Ivan Thamma          def.      Jordi Redelijk       Walkover
-     QF      Evin McDonald         vs       Liam Krall           Sun @ 09:00
+     QF      Evin McDonald        def.      Liam Krall           62 60
      QF      Daniel Linkuns-Moro… def.      Mykhailo Kvantaliani Walkover
      QF      Ivan Thamma          def.      Julian Steinhausen   Walkover
      QF      Jordi Redelijk       def.      Sebastian Rodriguez  Walkover
@@ -795,61 +786,85 @@
 
 <a name="21-41868"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   UTC-Steve Baras Invitational
   Dates: Oct 15-17, 2021
   Host: Univ. Of Tennessee, Chattanooga (M)
-═════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Utc/ttu
   > Main
-     64  Elias Grubert        def.  Tomas Rodriguez    64 63
-     64  Simon Labbe          def.  Carlos Vicente     67(4) 63 [6]
-     64  Jordan McClure       def.  Mika Berghaus      60 61
-     64  Rafael Tosetto       def.  Kerim Hyatt        62 26 [4]
-     64  Evzen Holis          def.  Peyton Gatti       64 76(4)
-     64  Jun Sasagawa         def.  Ryan Mudre         76(4) 26 [9]
+     64  Elias Grubert        def.  Tomas Rodriguez      64 63
+     64  Simon Labbe          def.  Carlos Vicente       67(4) 63 [6]
+     64  Jordan McClure       def.  Mika Berghaus        60 61
+     64  Rafael Tosetto       def.  Kerim Hyatt          62 26 [4]
+     64  Evzen Holis          def.  Peyton Gatti         64 76(4)
+     64  Jun Sasagawa         def.  Ryan Mudre           76(4) 26 [9]
  > Utc/una
   > Main
-     16  Carlos Matarredona   def.  Simon Labbe        76(5) 64
-     16  Fernando Perez       def.  Jacob Marshall     63 Ret.
-     16  Jordan McClure       def.  Chris Zhang        16 61 [8]
-     16  Guilherme Diniz      def.  Ryan Mudre         75 16 [10]
-     16  Quinten Nevenhoven   def.  Jamie Bixby        16 61 [4]
-     16  Sam Tolbert          def.  Bo Nash            26 62 [5]
+     16  Carlos Matarredona   def.  Simon Labbe          76(5) 64
+     16  Fernando Perez       def.  Jacob Marshall       63 Ret.
+     16  Jordan McClure       def.  Chris Zhang          16 61 [8]
+     16  Guilherme Diniz      def.  Ryan Mudre           75 16 [10]
+     16  Quinten Nevenhoven   def.  Jamie Bixby          16 61 [4]
+     16  Sam Tolbert          def.  Bo Nash              26 62 [5]
  > Bel/gaso
   > Main
-     16  Arthur Toledo        def.  Pol Del Castillo   63 63
-     16  Ian Cruz             def.  Tao Castillo       63 36 [12]
-     16  Tomas Luis           def.  Valentin Dun       46 63 [4]
-     16  Diego Castro         def.  Jaap Aaldering     62 64
-     16  Taisei Miyamoto      def.  Alex Amacher       62 76(1)
-     16  Alfred Wallin        def.  Alex Suk           64 61
+     16  Arthur Toledo        def.  Pol Del Castillo     63 63
+     16  Ian Cruz             def.  Tao Castillo         63 36 [12]
+     16  Tomas Luis           def.  Valentin Dun         46 63 [4]
+     16  Diego Castro         def.  Jaap Aaldering       62 64
+     16  Taisei Miyamoto      def.  Alex Amacher         62 76(1)
+     16  Alfred Wallin        def.  Alex Suk             64 61
  > Utc/apsu
   > Main
-     64  Frederic Schlossmann def.  Tomas Rodriguez    63 57 [9]
-     64  Kerim Hyatt          def.  Anton Damberg      60 61
-     64  Peyton Gatti         def.  Gabriel Nolasco    62 63
-     64  Jordan McClure       def.  Giovanni Becchis   61 62
-     64  Ryan Mudre           def.  Tom Bolton         76(2) 61
-     64  Hogan Stoker         def.  Quinten Nevenhoven 64 64
-     64  Lachlan Laner        def.  Bo Nash            63 64
+     64  Frederic Schlossmann def.  Tomas Rodriguez      63 57 [9]
+     64  Kerim Hyatt          def.  Anton Damberg        60 61
+     64  Peyton Gatti         def.  Gabriel Nolasco      62 63
+     64  Jordan McClure       def.  Giovanni Becchis     61 62
+     64  Ryan Mudre           def.  Tom Bolton           76(2) 61
+     64  Hogan Stoker         def.  Quinten Nevenhoven   64 64
+     64  Lachlan Laner        def.  Bo Nash              63 64
  > Ttu/bel
   > Main
-     16  Evzen Holis          def.  Diego Castro       64 63
-     16  Mika Berghaus        def.  Ian Cruz           64 62
-     16  Alfred Wallin        def.  Jun Sasagawa       16 76(4) [6]
-     16  Arthur Toledo        def.  Elias Grubert      57 60 [10]
-     16  Tomas Luis           def.  Rafael Tosetto     67(4) 64 [4]
-     16  Taisei Miyamoto      def.  Carlos Vicente     62 62
+     16  Evzen Holis          def.  Diego Castro         64 63
+     16  Mika Berghaus        def.  Ian Cruz             64 62
+     16  Alfred Wallin        def.  Jun Sasagawa         16 76(4) [6]
+     16  Arthur Toledo        def.  Elias Grubert        57 60 [10]
+     16  Tomas Luis           def.  Rafael Tosetto       67(4) 64 [4]
+     16  Taisei Miyamoto      def.  Carlos Vicente       62 62
  > Gaso/una
   > Main
-     16  Chris Zhang          def.  Alex Amacher       61 60
-     16  Jaap Aaldering       def.  Sam Tolbert        63 60
-     16  Alex Suk             def.  Jamie Bixby        76(1) 62
-     16  Tao Castillo         def.  Guilherme Diniz    61 63
-     16  Valentin Dun         def.  Carlos Matarredona 62 62
-     16  Fernando Perez       def.  Pol Del Castillo   64 46 [8]
+     16  Chris Zhang          def.  Alex Amacher         61 60
+     16  Jaap Aaldering       def.  Sam Tolbert          63 60
+     16  Alex Suk             def.  Jamie Bixby          76(1) 62
+     16  Tao Castillo         def.  Guilherme Diniz      61 63
+     16  Valentin Dun         def.  Carlos Matarredona   62 62
+     16  Fernando Perez       def.  Pol Del Castillo     64 46 [8]
+ > Utc/bel
+  > Main
+     16  Tomas Rodriguez      def.  Tomas Luis           26 62 [10]
+     16  Arthur Toledo        def.  Kerim Hyatt          64 62
+     16  Simon Labbe          def.  Taisei Miyamoto      62 63
+     16  Peyton Gatti         def.  Diego Castro         62 67(4) [8]
+     16  Alfred Wallin        def.  Jordan McClure       64 46 [4]
+     16  Ryan Mudre           def.  Grant Kelly          64 63
+ > Una/apsu
+  > Main
+     16  Fernando Perez       def.  Frederic Schlossmann 62 62
+     16  Carlos Matarredona   def.  Anton Damberg        63 63
+     16  Guilherme Diniz      def.  Tom Bolton           46 62 [6]
+     16  Chris Zhang          def.  Giovanni Becchis     64 61
+     16  Lachlan Laner        def.  Jamie Bixby          62 76(7)
+     16  Hogan Stoker         def.  Sam Tolbert          63 75
+ > Ttu/gaso
+  > Main
+     16  Rafael Tosetto       def.  Alex Amacher         62 60
+     16  Jun Sasagawa         def.  Jaap Aaldering       60 61
+     16  Carlos Vicente       def.  Valentin Dun         61 64
+     16  Mika Berghaus        def.  Tao Castillo         75 61
+     16  Pol Del Castillo     def.  Evzen Holis          46 64 [5]
+     16  Elias Grubert        def.  Alex Suk             62 61
 ~~~
 
 <a name="21-00186"></a>
@@ -862,7 +877,7 @@
  Men's Open Singles
  > Division II
   > East
-      F (1) Alvaro Regalado     vs      Joaquin Benoit      Sun @ 09:00
+      F (1) Alvaro Regalado    def.     Joaquin Benoit      62 62
      SF (1) Alvaro Regalado    def. (4) Andrea Zamurri      63 64
      SF     Joaquin Benoit     def.     Alex Martinez Roca  63 46 62
      QF (1) Alvaro Regalado    def.     Ryan Nuno           57 61 61
@@ -892,7 +907,7 @@
      SF (3) Marko Nikoliuk      vs      Jonathan Berling    
  > Division III
   > East
-      F     Stan Morris        def. (3) Chase Cohen         62 36 61
+      F     Stan Morris        def. (3) Chase Cohen         26 63 61
      SF     Stan Morris        def.     Jhonny Acosta       64 64
      SF (3) Chase Cohen        def.     Jordan Theron       16 75 62
      QF     Jhonny Acosta      def. (1) James Hopper        57 64 00 Ret.
@@ -924,7 +939,7 @@
      SF     Ethan Carroll      def.     Cole Lindwall       64 61
  > Naia
   > East
-      F     Agustin Tamagnone   vs      Francisco Faria     Sun @ 09:00
+      F     Agustin Tamagnone  def.     Francisco Faria     64 46 75
      SF     Agustin Tamagnone  def. (4) Daniil Klimov       67(4) 64 76(5)
      SF     Francisco Faria    def.     Jeremias Rocco      64 Ret.
      QF     Agustin Tamagnone  def. (1) Luke Simkiss        61 64
@@ -974,15 +989,15 @@
 
 <a name="21-98443"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
   Saint Leo Lion Fall Invitational - Men
   Dates: Oct 15-17, 2021
   Host: Saint Leo University (M)
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > East
-      F  Bruno Faletto         vs   Vincent Thiel        Sun @ 10:45
+      F  Bruno Faletto        def.  Vincent Thiel        64 63
      SF  Bruno Faletto        def.  Ramiro Rincon        63 62
      SF  Vincent Thiel        def.  Santino Morel        62 62
      QF  Bruno Faletto        def.  Bernardo Tajada      60 64
@@ -990,16 +1005,16 @@
      QF  Santino Morel        def.  Raul Safont Martinez 64 75
      QF  Vincent Thiel        def.  Enrique Martinez     62 61
   > West
-      F  Victor De Oliveira    vs   Raul Safont Martinez Sun @ 10:45
+      F  Raul Safont Martinez def.  Victor De Oliveira   76(5) Ret.
      SF  Victor De Oliveira   def.  Bernardo Tajada      64 63
      SF  Raul Safont Martinez def.  Enrique Martinez     46 75 [5]
   > 3-4 Playoff
-      F  Ramiro Rincon         vs   Santino Morel        Sun @ 10:45
+      F  Santino Morel        def.  Ramiro Rincon        64 46 [7]
   > South
-      F  Bernardo Tajada       vs   Enrique Martinez     Sun @ 10:45
+      F  Bernardo Tajada      def.  Enrique Martinez     64 63
  > Flight B
   > East
-      F  Nicolas Bacella       vs   Lluc Camps           Sun @ 10:45
+      F  Nicolas Bacella      def.  Lluc Camps           62 60
      SF  Nicolas Bacella      def.  Christian Della Cio… 60 61
      SF  Lluc Camps           def.  Ghali Mensour        63 63
      QF  Nicolas Bacella      def.  Filipe Gil           61 61
@@ -1007,16 +1022,16 @@
      QF  Lluc Camps           def.  Thomas Andrews       62 64
      QF  Ghali Mensour        def.  Diego Menendez Vina  61 57 [9]
   > West
-      F  Jacob Turley          vs   Diego Menendez Vina  Sun @ 10:45
+      F  Jacob Turley         def.  Diego Menendez Vina  Walkover
      SF  Jacob Turley         def.  Filipe Gil           06 63 [8]
      SF  Diego Menendez Vina  def.  Thomas Andrews       46 63 [7]
   > 3-4 Playoff
-      F  Christian Della Cio…  vs   Ghali Mensour        Sun @ 10:45
+      F  Ghali Mensour        def.  Christian Della Cio… 62 62
   > South
-      F  Filipe Gil            vs   Thomas Andrews       Sun @ 10:45
+      F  Thomas Andrews       def.  Filipe Gil           63 61
  > Flight C
   > East
-      F  Lucas Ribas           vs   Luis Iriarte         Sun @ 12:30
+      F  Luis Iriarte         def.  Lucas Ribas          61 62
      SF  Lucas Ribas          def.  Willem van den Akker 75 63
      SF  Luis Iriarte         def.  Jaewoo Choi          62 60
      QF  Willem van den Akker def.  Tyler Glowaki        61 61
@@ -1024,32 +1039,35 @@
      QF  Jaewoo Choi          def.  Theodore Preiswerk   61 63
      QF  Luis Iriarte         def.  Juan Patino Pabon    61 60
   > West
-      F  Richard Freemann      vs   Juan Patino Pabon    Sun @ 12:30
      SF  Richard Freemann     def.  Tyler Glowaki        76(1) 64
      SF  Juan Patino Pabon    def.  Theodore Preiswerk   62 64
   > 3-4 Playoff
-      F  Willem van den Akker  vs   Jaewoo Choi          Sun @ 12:30
-  > South
-      F  Tyler Glowaki         vs   Theodore Preiswerk   Sun @ 12:30
+      F  Willem van den Akker def.  Jaewoo Choi          46 60 [7]
  > Flight D
   > East
-      F  Kayne Trustfull       vs   Corentin Venot       Sun @ 12:30
+      F  Corentin Venot       def.  Kayne Trustfull      46 63 [7]
      SF  Kayne Trustfull      def.  Bernardo Gandara     61 61
      SF  Corentin Venot       def.  Miguel Torrenegra    61 61
      QF  Bernardo Gandara     def.  Miguel Ferreira      60 62
      QF  Corentin Venot       def.  William Priddy       62 63
   > West
       F  William Priddy       def.  Miguel Ferreira      61 61
-  > 3-4 Playoff
-      F  Bernardo Gandara      vs   Miguel Torrenegra    Sun @ 12:30
  > Flight E
   > Main
      R3  Yosue Noa            def.  Miguel Binnios       61 63
      R3  Jose Moreno          def.  Jake Edwards         62 62
-     R2  Jose Moreno           vs   Miguel Binnios       Sun @ 12:30
-     R2  Yosue Noa             vs   Jake Edwards         Sun @ 12:30
+     R2  Jose Moreno          def.  Miguel Binnios       60 63
+     R2  Yosue Noa            def.  Jake Edwards         61 63
      R1  Yosue Noa            def.  Jose Moreno          36 63 [9]
      R1  Miguel Binnios       def.  Jake Edwards         64 76(5)
+ > Extra Matches - Sunday
+  > Main
+     QF  Tyler Glowaki        def.  Juan Patino Pabon    62 36 [8]
+     QF  William Priddy       def.  Bernardo Gandara     63 75
+     QF  Miguel Torrenegra    def.  Miguel Ferreira      75 63
+ > Extra Matches
+  > Main
+      F  Jacob Turley         def.  Richard Freemann     76(4) 62
 ~~~
 
 Return to the [Top](./men_singles_2141.md) &#124; [Home Page](../../index.md)

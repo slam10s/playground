@@ -29,6 +29,10 @@
  Women's Open Singles
  > Main Draw
   > Main
+     QF  (9) Evgeniya Levashova  def.  (1) Meg Kowalski        64 57 61
+     QF (12) Petra Hule          def.      Marie Mattel        64 67(3) 75
+     QF (16) Mell Reasco         def.      Catherine Gulihur   Walkover
+     QF (15) Ania Hertel         def. (10) Emma Shelton        61 16 61
      16  (1) Meg Kowalski        def. (13) Kylie Bilchev       26 64 61
      16  (9) Evgeniya Levashova  def.  (5) Carly Briggs        62 61
      16 (12) Petra Hule          def.  (8) Morgan Coppoc       62 64

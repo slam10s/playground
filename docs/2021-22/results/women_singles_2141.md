@@ -89,6 +89,14 @@
  Women's Open Singles
  > Round of 32
   > Main
+     QF  Victoria Hu          def.  Sabine Rutlauka   62 46 64
+     QF  Daria Frayman        def.  Chelsea Kung      64 75
+     16  Victoria Hu          def.  Kaitlin Tan       76(2) 61
+     16  Sabine Rutlauka      def.  Sasha Wood        36 63 61
+     16  Jessie Gong          def.  Lorie Lemongo     63 75
+     16  Brianna Shvets       def.  Lan Mi            75 62
+     16  Chelsea Kung         def.  Maxi Duncan       64 36 63
+     16  Daria Frayman        def.  Mouna Bouzgarrou  61 64
      32  Victoria Hu          def.  Iveta Daujotaite  63 63
      32  Kaitlin Tan          def.  Natasha Irani     62 63
      32  Sabine Rutlauka      def.  Michelle Sorokko  75 61
@@ -116,6 +124,10 @@
  Women's Open Singles
  > Main Draw
   > Main
+     QF  (9) Evgeniya Levashova  def.  (1) Meg Kowalski        64 57 61
+     QF (12) Petra Hule          def.      Marie Mattel        64 67(3) 75
+     QF (16) Mell Reasco         def.      Catherine Gulihur   Walkover
+     QF (15) Ania Hertel         def. (10) Emma Shelton        61 16 61
      16  (1) Meg Kowalski        def. (13) Kylie Bilchev       26 64 61
      16  (9) Evgeniya Levashova  def.  (5) Carly Briggs        62 61
      16 (12) Petra Hule          def.  (8) Morgan Coppoc       62 64
@@ -200,14 +212,18 @@
  Women's Open Singles
  > Main
   > Main
-     16  (1) Emmanouela Antonaki   vs       Adeline Flach        Sun @ 10:30
-     16  (7) Georgie Axon          vs  (10) Ena Babic            Sun @ 10:30
-     16  (4) Tiphanie Fiquet       vs  (11) Loudmilla Bencheikh  Sun @ 10:30
-     16      Reka Zadori           vs       Maggie Cubitt        Sun @ 10:30
-     16      Lahari Yelamanchili   vs   (5) Safiya Carrington    Sun @ 10:30
-     16 (16) Tamara Racine         vs   (3) Carolyn Ansari       Sun @ 10:30
-     16      Mia Rabinowitz        vs   (8) Ariana Arseneault    Sun @ 10:30
-     16      Petra Sedlackova      vs   (2) Sabina Machalova     Sun @ 10:30
+     QF  (1) Emmanouela Antonaki   vs  (10) Ena Babic            Sun @ 14:00
+     QF  (4) Tiphanie Fiquet       vs       Reka Zadori          Sun @ 14:00
+     QF  (5) Safiya Carrington     vs  (16) Tamara Racine        Sun @ 14:00
+     QF  (8) Ariana Arseneault     vs       Petra Sedlackova     Sun @ 14:00
+     16  (1) Emmanouela Antonaki  def.      Adeline Flach        75 75
+     16 (10) Ena Babic            def.  (7) Georgie Axon         62 46 76(5)
+     16  (4) Tiphanie Fiquet      def. (11) Loudmilla Bencheikh  62 57 61
+     16      Reka Zadori          def.      Maggie Cubitt        63 63
+     16  (5) Safiya Carrington    def.      Lahari Yelamanchili  61 62
+     16 (16) Tamara Racine        def.  (3) Carolyn Ansari       63 63
+     16  (8) Ariana Arseneault    def.      Mia Rabinowitz       75 63
+     16      Petra Sedlackova     def.  (2) Sabina Machalova     57 64 62
      32  (1) Emmanouela Antonaki  def.      Nina Geissler        36 64 63
      32      Adeline Flach        def. (14) Ludmila Kareisova    64 62
      32  (7) Georgie Axon         def.      Chloe Cirotte        60 36 60
@@ -396,8 +412,9 @@
      32Q      Elena Trencheva      def.      Emma Honore          46 75 [6]
  > Women's Main Draw
   > Main
-      SF  (9) Alicia Herrero Lina…  vs  (14) Malaika Rapolu       Sun @ 10:30
-      SF  (5) Kylie Collns          vs   (2) Melany Krywoj        Sun @ 10:30
+       F  (9) Alicia Herrero Lina…  vs   (5) Kylie Collns         Mon @ 09:00
+      SF  (9) Alicia Herrero Lina… def. (14) Malaika Rapolu       63 75
+      SF  (5) Kylie Collns         def.  (2) Melany Krywoj        62 62
       QF  (9) Alicia Herrero Lina… def.  (1) Tatiana Makarova     64 26 [4]
       QF (14) Malaika Rapolu       def. (11) Mary Stoiana         46 75 [2]
       QF  (5) Kylie Collns         def.  (4) Margarita Skriabina  63 46 [7]
@@ -459,8 +476,9 @@
       64      Laura Slisane        def.      Carla Pons           64 64
       64  (2) Melany Krywoj        def.      Lauren Fulgenzi      60 60
   > Consolation
-      SF      Bella Zamarripa       vs       Olivia Peet          Sun @ 10:30
-      SF      Gabriela Giraldo      vs       Maryjoe Crisologo    Sun @ 10:30
+       F      Gabriela Giraldo     def.      Bella Zamarripa      Walkover
+      SF      Bella Zamarripa      def.      Olivia Peet          64 60
+      SF      Gabriela Giraldo     def.      Maryjoe Crisologo    63 61
       QF      Bella Zamarripa      def.      Maria Dzemeshkevich  61 64
       QF      Olivia Peet          def.      Anastasia Smirnova   76(8) 75
       QF      Gabriela Giraldo     def.      Saara Orav           26 75 [6]
@@ -538,6 +556,90 @@
  > Extra Matches Day 2
   > Main
       F  Gabby OGorman        def.  Alexandra Prudente   63 61
+ > JMU v Louisville
+  > Main
+     16  Daria Afanasyeva     def.  Chelsea Sawyer       64 62
+     16  Kylie Moulin         def.  Dina Chaika          62 61
+     16  Tatiana Simova       def.  Daniela Voloh        36 63 [7]
+     16  Amanda Nord          def.  Tyra Richardson      64 36 [8]
+     16  Hope Moulin          def.  Joy Callwood         62 64
+     16  Michelle Los Arcos   def.  Shannon McCarthy     63 64
+ > WVU v PSU
+  > Main
+     16  Sofiya Chekhlystova  def.  Ting-Pei Chang       63 60
+     16  Gabby OGorman        def.  Kendall Kovick       61 61
+     16  Karly Friedland      def.  Camilla Bossi        63 64
+     16  Anastaiia Bovolskaia def.  Sydney Weinberg      76(1) 62
+     16  Olivia Ryan          def.  Momoko Nagato        16 76(3) [8]
+     16  Michaela Kucharova   def.  Gracey Hirsch        64 60
+~~~
+
+<a name="21-17879"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════
+  2021 Midwest Conference Women's Tennis Individual Tournament
+  Dates: Oct 16-17, 2021
+  Host: Cornell College (W)
+═════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > #1 Singles
+  > Main
+     SF (1) Sabrina Tang        def. (4) Hannah Ryback     61 60
+     SF (2) Mj Campos           def. (3) Emmaline Fievet   62 63
+     QF (4) Hannah Ryback       def. (5) Sophia Roth       61 60
+     QF (3) Emmaline Fievet     def. (6) Margot Connor     62 75
+     QF (2) Mj Campos           def. (7) Emily Laughlin    60 60
+  > Consolation
+     SQ (6) Margot Connor       def. (7) Emily Laughlin    81
+ > #2 Singles
+  > Main
+     SF (1) Irene Agusti        def. (4) Makayla Johnson   61 61
+     SF (2) Sara Lopez          def. (3) Lauren Aturaliya  61 60
+     QF (4) Makayla Johnson     def. (5) Michelle Maag     63 61
+     QF (3) Lauren Aturaliya    def. (6) Tia Endrizzi      60 62
+     QF (2) Sara Lopez          def. (7) Isabel Hammond    62 60
+  > Consolation
+     SQ (6) Tia Endrizzi        def. (7) Isabel Hammond    83
+ > #3 Singles
+  > Main
+     SF (1) Ioanna Giannakou    def. (4) Sarah Weber       60 60
+     SF (2) Margaret Bugnacki   def. (3) Emma Koppa        62 61
+     QF (4) Sarah Weber         def. (5) Ashley Mink       61 63
+     QF (3) Emma Koppa          def. (6) Emily Henson      60 62
+     QF (2) Margaret Bugnacki   def. (7) Mikhayla Haloftis Walkover
+  > Consolation
+      F (5) Ashley Mink         def. (6) Emily Henson      81
+     SQ (6) Emily Henson        def. (7) Mikhayla Haloftis Walkover
+ > #4 Singles
+  > Main
+     SF (1) Mira Manchanda      def. (4) Tamera Holland    60 61
+     SF (2) Natailia Liete      def. (3) Chloe Lamb        62 60
+     QF (4) Tamera Holland      def. (5) Hannah Lueke      61 61
+     QF (3) Chloe Lamb          def. (6) Amanda Dragon     64 61
+     QF (2) Natailia Liete      def. (7) Julia Mheidze     60 60
+  > Consolation
+      F (6) Amanda Dragon       def. (5) Hannah Lueke      82
+     SQ (6) Amanda Dragon       def. (7) Julia Mheidze     80
+ > #5 Singles
+  > Main
+     SF (1) Sophia De Los Reyes def. (5) Morgan Fisher     61 60
+     SF (3) Katie Wegrecki      def. (2) Kylie Jacobson    60 60
+     QF (5) Morgan Fisher       def. (4) Halle Hadel       61 61
+     QF (3) Katie Wegrecki      def. (6) Shya Prescott     60 61
+     QF (2) Kylie Jacobson      def. (7) Ditza Montesinos  60 63
+  > Consolation
+      F (6) Shya Prescott       def. (4) Halle Hadel       87(4)
+     SQ (6) Shya Prescott       def. (7) Ditza Montesinos  82
+ > #6 Singles
+  > Main
+     SF (1) Utsah Kalra         def. (4) Chase Polyak      60 60
+     SF (3) Lizzy Angemi        def. (2) Isabel Hinojosa   76(2) 62
+     QF (4) Chase Polyak        def. (5) Lydia Criveau     63 64
+     QF (3) Lizzy Angemi        def. (6) Jennifer Shimmin  60 60
+     QF (2) Isabel Hinojosa     def. (7) Kaylanna Seu      60 60
+  > Consolation
+      F (5) Lydia Criveau       def. (6) Jennifer Shimmin  82
+     SQ (6) Jennifer Shimmin    def. (7) Kaylanna Seu      81
 ~~~
 
 <a name="21-35590"></a>
@@ -695,7 +797,7 @@
  Women's Open Singles
  > Naia
   > East
-      F (1) Nicole Coopersmith    vs  (2) Stephanie Petit      Sun @ 09:00
+      F (2) Stephanie Petit      def. (1) Nicole Coopersmith   75 46 64
      SF (1) Nicole Coopersmith   def. (4) Eva Siska            62 36 61
      SF (2) Stephanie Petit      def.     Selina Pichler       63 62
      QF (1) Nicole Coopersmith   def.     Iryna Lysykh         62 62
@@ -725,7 +827,7 @@
      SF     Vanja Vidanovic      def.     Aurora Novati        63 62
  > Division II
   > East
-      F (1) Deniz Khazan          vs  (2) Mae Canete           Sun @ 09:00
+      F (1) Deniz Khazan         def. (2) Mae Canete           62 64
      SF (1) Deniz Khazan         def.     Ana Carla Resende    61 62
      SF (2) Mae Canete           def.     Eleonora Liga        61 46 62
      QF (1) Deniz Khazan         def.     Christine Canete     63 63

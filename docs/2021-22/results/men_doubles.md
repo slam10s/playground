@@ -81,11 +81,11 @@
 
 <a name="21-69055"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
   Bulldog Cup
   Dates: Oct 15-17, 2021
   Host: Drake University (M)
-═════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Doubles Round 1 (Friday)
   > Main
@@ -98,14 +98,15 @@
   > Main
      16  Johansson/Schifris   def.  Richards/Lin        87(4)
      16  Clegg/Sardo          def.  Grueber/Richardson  81
+     16  Valentinsson/Ortega  def.  Moser/Iaquinto      84
      16  Fragistas/Sonesson … def.  Malinen/Spolidorio  86
      16  Koschtojan/Vollbach  def.  Bolin/Matic         85
  > Doubles Round 3 (Sunday)
   > Main
-     16  Johansson/Schifris    vs   Moser/Iaquinto      Sun @ 09:00
-     16  Grueber/Richardson    vs   Malinen/Spolidorio  Sun @ 09:00
-     16  Clegg/Sardo           vs   Koschtojan/Vollbach Sun @ 09:00
-     16  Richards/Lin          vs   Valentinsson/Ortega Sun @ 09:00
+     16  Johansson/Schifris   def.  Moser/Iaquinto      84
+     16  Richards/Lin         def.  Malinen/Spolidorio  86
+     16  Clegg/Sardo          def.  Koschtojan/Vollbach 87(6)
+     16  Bolin/Matic          def.  Grueber/Richardson  82
 ~~~
 
 <a name="21-23395"></a>
@@ -268,18 +269,20 @@
 
 <a name="21-59010"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Division I Men's Texas Regional Championship
   Dates: Oct 13-17, 2021
   Host: Texas A&M University (M)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-     QF (1) Aguilar/Fomba         vs  (8) Valiev/Azoides       Sun @ 09:00
-     QF     Neff/Thamma           vs  (5) Harper/Ciamarra      Sun @ 09:00
-     QF (6) Vives Marcos/Maxted   vs      Collier/Ribero       Sun @ 09:00
-     QF (7) Schachter/Abbrat      vs  (2) Bass/Lah             Sun @ 09:00
+     SF (5) Harper/Ciamarra      def. (1) Aguilar/Fomba        87(5)
+     SF (6) Vives Marcos/Maxted  def. (7) Schachter/Abbrat     86
+     QF (1) Aguilar/Fomba        def. (8) Valiev/Azoides       85
+     QF (5) Harper/Ciamarra      def.     Neff/Thamma          84
+     QF (6) Vives Marcos/Maxted  def.     Collier/Ribero       87(4)
+     QF (7) Schachter/Abbrat     def. (2) Bass/Lah             87(3)
      16 (1) Aguilar/Fomba        def.     McDonald/Arimilli    84
      16 (8) Valiev/Azoides       def.     Salmon/Barnett       81
      16     Neff/Thamma          def. (4) Paroulek/Brumm       85
@@ -393,6 +396,11 @@
      QF  Hyatt/Labbe          def.  Damberg/Schlossmann 76(4)
      QF  Mudre/McClure        def.  Bolton/Becchis      63
      QF  Nolasco/Stoker       def.  Nevenhoven/Nash     62
+ > Bel/ttu
+  > Main
+     QF  Luis/Castro          def.  Holis/Sasagawa      64
+     QF  Vicente/Tosetto      def.  Toledo/Cruz         60
+     QF  Berghaus/Grubert     def.  Miyamoto/Kelly      63
 ~~~
 
 <a name="21-00186"></a>
@@ -435,7 +443,7 @@
      SF     Dean/Suarez          def.     Gray/Zakowski        75 63
  > Naia
   > East
-      F     Caratini/Tamagnone    vs      Ramirez/Bain         Sun @ 10:30
+      F     Caratini/Tamagnone   def.     Ramirez/Bain         64 64
      SF     Caratini/Tamagnone   def. (4) Dugo/Gurmendi        76(4) 64
      SF     Ramirez/Bain         def. (3) Nienhaus/Papa        75 46 [5]
      QF     Caratini/Tamagnone   def. (1) Klimov/Bresson       64 60
@@ -465,7 +473,7 @@
      SF     Subert/Cooke         def.     Fernandez/Gallegos   Walkover
  > Division II
   > East
-      F (4) Mack/Carvalho         vs      Schold/Martinetti    Sun @ 10:30
+      F     Schold/Martinetti    def. (4) Mack/Carvalho        57 62 61
      SF (4) Mack/Carvalho        def. (1) Cueto Ramos/Regalado 76(5) 76(11)
      SF     Schold/Martinetti    def.     Dos Santos/Jurkovic  63 75
      QF (1) Cueto Ramos/Regalado def.     Westwick/Martinez R… 64 76(3)
@@ -513,15 +521,15 @@
 
 <a name="21-98443"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
   Saint Leo Lion Fall Invitational - Men
   Dates: Oct 15-17, 2021
   Host: Saint Leo University (M)
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight A
   > East
-      F  Thiel/Mensour         vs   Faletto/van den Akk… Sun @ 10:00
+      F  Faletto/van den Akk… def.  Thiel/Mensour        62
      SF  Thiel/Mensour        def.  Tajada/Turley        75
      SF  Faletto/van den Akk… def.  Morel/Choi           63
      QF  Thiel/Mensour        def.  Gil/Freemann         61
@@ -529,16 +537,15 @@
      QF  Morel/Choi           def.  Patino Pabon/Safont… 75
      QF  Faletto/van den Akk… def.  Preiswerk/Martinez   60
   > West
-      F  De Oliveira/Menende…  vs   Preiswerk/Martinez   Sun @ 10:00
      SF  De Oliveira/Menende… def.  Gil/Freemann         61
      SF  Preiswerk/Martinez   def.  Patino Pabon/Safont… 62
   > 3-4 Playoff
-      F  Tajada/Turley         vs   Morel/Choi           Sun @ 10:00
+      F  Morel/Choi           def.  Tajada/Turley        62
   > South
-      F  Gil/Freemann          vs   Patino Pabon/Safont… Sun @ 10:00
+      F  Patino Pabon/Safont… def.  Gil/Freemann         75
  > Flight B
   > East
-      F  Bacella/Iriarte       vs   Gandara/Vieira       Sun @ 10:00
+      F  Bacella/Iriarte      def.  Gandara/Vieira       60
      SF  Bacella/Iriarte      def.  Andrews/Ribas        62
      SF  Gandara/Vieira       def.  Torrenegra/Noa       62
      QF  Bacella/Iriarte      def.  Glowaki/Binnios      61
@@ -546,13 +553,14 @@
      QF  Torrenegra/Noa       def.  Della Cioppa/Moreno  64
      QF  Gandara/Vieira       def.  Ferreira/Edwards     60
   > West
-      F  Rincon/Camps          vs   Della Cioppa/Moreno  Sun @ 10:00
      SF  Rincon/Camps         def.  Glowaki/Binnios      63
      SF  Della Cioppa/Moreno  def.  Ferreira/Edwards     63
-  > 3-4 Playoff
-      F  Andrews/Ribas         vs   Torrenegra/Noa       Sun @ 10:00
-  > South
-      F  Glowaki/Binnios       vs   Ferreira/Edwards     Sun @ 10:00
+ > Extra Doubles Matches
+  > Main
+     QF  Trustfull/Priddy     def.  Preiswerk/Martinez   63
+     QF  De Oliveira/Della C… def.  Rincon/Camps         63
+     QF  Andrews/Ribas        def.  Glowaki/Binnios      61
+     QF  Torrenegra/Noa       def.  Ferreira/Edwards     63
 ~~~
 
 Return to the [Top](./men_doubles_2141.md) &#124; [Home Page](../../index.md)

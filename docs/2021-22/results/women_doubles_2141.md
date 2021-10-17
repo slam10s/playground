@@ -63,6 +63,8 @@
  Women's Open Doubles
  > Main Draw 1
   > Main
+      SF (7) Briggs/Zein          def.     Dudeney/Berlin       62 63
+      SF (2) Gulihur/Melilo       def. (3) Coppoc/Reasco        62 64
       QF (7) Briggs/Zein          def.     Khodan/Tahan         84
       QF     Dudeney/Berlin       def.     Mattel/Sharma        85
       QF (3) Coppoc/Reasco        def.     Umarova/Kabbaj       86
@@ -119,10 +121,12 @@
  Women's Open Doubles
  > Main
   > Main
-     QF      Kohoutova/Tutunaru    vs   (7) Leclerq-Ficher/Pool  Sun @ 09:00
-     QF      Mize/Kareisova        vs       Parkhomenko/Sedlack… Sun @ 09:00
-     QF  (8) Cubitt/Carrington     vs       Hiser/Bencheikh      Sun @ 09:00
-     QF      Zadori/Gabrielsen     vs   (2) Antonaki/Racine      Sun @ 09:00
+     SF      Kohoutova/Tutunaru    vs       Mize/Kareisova       Mon @ 09:00
+     SF      Hiser/Bencheikh       vs   (2) Antonaki/Racine      Mon @ 09:00
+     QF      Kohoutova/Tutunaru   def.  (7) Leclerq-Ficher/Pool  86
+     QF      Mize/Kareisova       def.      Parkhomenko/Sedlack… 84
+     QF      Hiser/Bencheikh      def.  (8) Cubitt/Carrington    86
+     QF  (2) Antonaki/Racine      def.      Zadori/Gabrielsen    87(1)
      16      Kohoutova/Tutunaru   def.  (1) Flach/Axon           83
      16  (7) Leclerq-Ficher/Pool  def.      Medik/Burton         84
      16      Mize/Kareisova       def.  (3) Adaloglou/Cirotte    86
@@ -164,6 +168,14 @@
      64      Zadori/Gabrielsen    def.      Mulatero/Mora Ballo  85
      64      Szczygielska/Ishiba… def.      Fujioka/Klienhans    84
      64      Gomez/Pereira        def.      Smith/Ratkic         85
+ > Consolation - Saturday
+  > Main
+     64      Mikhailuk/Falceto    def.      Aoki/van der Merwe   83
+     64      Grigoriu/Balaba      def.      Syrova/Kaya          85
+     64      Rodrigues/Romero     def.      Taknishi/Pasanen     86
+     64      Ansari/Astakhova     def.      Bulatovic/Mosse      84
+     64      Walther/Theis        def.      Smith/Ratkic         83
+     64      Fujioka/Klienhans    def.      Tuomela/Jones        81
 ~~~
 
 <a name="21-76092"></a>
@@ -176,14 +188,20 @@
  Women's Open Doubles
  > Draw
   > Main
-     16  (1) Makarova/Goldsmith    vs  (16) Cortijo Parreno/Tre… Sun @ 09:00
-     16      Fulgenzi/Fulgenzi     vs   (7) Keberle/Bartolome    Sun @ 09:00
-     16  (5) Chavatipon/Collns     vs  (11) Skriabina/Tiglea     Sun @ 09:00
-     16 (14) Orav/Smirnova         vs       Gorinsek/Chileno     Sun @ 09:00
-     16      Adams/Devier          vs  (13) Komac/Main           Sun @ 09:00
-     16 (10) Baranano/Zamburek     vs   (6) Pielet/Stoiana       Sun @ 09:00
-     16  (8) Evans/Sayfetdinova    vs  (12) El Jardi/Trevisan    Sun @ 09:00
-     16 (15) Dzemeshkevich/Pedem…  vs   (2) Herrero Linana/Kryw… Sun @ 09:00
+     SF  (1) Makarova/Goldsmith    vs   (5) Chavatipon/Collns    Mon @ 09:00
+     SF      Adams/Devier          vs   (2) Herrero Linana/Kryw… Mon @ 09:00
+     QF  (1) Makarova/Goldsmith   def.  (7) Keberle/Bartolome    86
+     QF  (5) Chavatipon/Collns    def. (14) Orav/Smirnova        80
+     QF      Adams/Devier         def. (10) Baranano/Zamburek    85
+     QF  (2) Herrero Linana/Kryw… def. (12) El Jardi/Trevisan    85
+     16  (1) Makarova/Goldsmith   def. (16) Cortijo Parreno/Tre… 86
+     16  (7) Keberle/Bartolome    def.      Fulgenzi/Fulgenzi    81
+     16  (5) Chavatipon/Collns    def. (11) Skriabina/Tiglea     86
+     16 (14) Orav/Smirnova        def.      Gorinsek/Chileno     85
+     16      Adams/Devier         def. (13) Komac/Main           84
+     16 (10) Baranano/Zamburek    def.  (6) Pielet/Stoiana       87(7)
+     16 (12) El Jardi/Trevisan    def.  (8) Evans/Sayfetdinova   87(9)
+     16  (2) Herrero Linana/Kryw… def. (15) Dzemeshkevich/Pedem… 85
      32  (1) Makarova/Goldsmith   def.      Peet/Stepp           83
      32 (16) Cortijo Parreno/Tre… def.      Vutukuru/Basson      82
      32      Fulgenzi/Fulgenzi    def.  (9) Smirnova/Zipoli      86
@@ -374,7 +392,7 @@
  Women's Open Doubles
  > Division II
   > East
-      F     Moosbacher/Farfan     vs      Canete/Canete        Sun @ 10:30
+      F     Canete/Canete        def.     Moosbacher/Farfan    61 63
      SF     Moosbacher/Farfan    def.     Kozar/Dovnik         46 60 [10]
      SF     Canete/Canete        def.     Franco/Garza         63 64
      QF     Moosbacher/Farfan    def.     Jorge/Lippert        60 60
@@ -432,7 +450,7 @@
      SF     Landells/Roarty      def.     Bruno/Lee            60 62
  > Naia
   > East
-      F (1) Genovese/Fernandez    vs  (3) Vidanovic/Coopersmi… Sun @ 10:30
+      F (1) Genovese/Fernandez   def. (3) Vidanovic/Coopersmi… 63 16 64
      SF (1) Genovese/Fernandez   def. (4) Pichler/Lysykh       75 63
      SF (3) Vidanovic/Coopersmi… def. (2) Quiceno/Petit        75 64
      QF (1) Genovese/Fernandez   def.     Piccoliori/Puig Llo… 62 63
