@@ -185,19 +185,29 @@
 
 <a name="21-24398"></a>
 ~~~
-════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
   Cincinnati/Xavier Fall Invitational
   Dates: Oct 9-10, 2021
   Host: University Of Cincinnati (W)
-════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
  Women's Open Doubles
- > Round 1 Doubles
+ > Round 1
   > Main
-     16  Ali/Schoenly         def.  Nwaozuzu/Smith    62
-     16  Valentinsson/Zalukar def.  Grau/Koo          63
-     16  Long/Ushio           def.  Devillez/Tikhonko 75
-     16  Kubas/Mejic          def.  Bruno/Niehaus     62
-     16  Kothakota/Rosenberg… def.  Hirsch/Reddy      63
+     16  Ali/Schoenly         def.  Nwaozuzu/Smith       62
+     16  Valentinsson/Zalukar def.  Grau/Koo             63
+     16  Long/Ushio           def.  Devillez/Tikhonko    65
+     16  Kubas/Mejic          def.  Bruno/Niehaus        62
+     16  Kothakota/Rosenberg… def.  Hirsch/Reddy         63
+ > Round 2
+  > Main
+     16  Grau/Koo             def.  Bruno/Niehaus        64
+     16  Devillez/Tikhonko    def.  Hirsch/Reddy         62
+     16  Kubas/Mejic          def.  Moyer/Nwaozuzu       64
+     16  Valentinsson/Zalukar def.  Ali/Schoenly         65
+     16  Long/Ushio           def.  Kothakota/Rosenberg… 64
+ > Extra Doubles
+  > Main
+     16  Nwaozuzu/Smith       def.  Kubas/Mejic          64
 ~~~
 
 <a name="21-68261"></a>

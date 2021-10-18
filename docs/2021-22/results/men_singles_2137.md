@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 9/17/2021 - [Alabama Four-In-The-Fall](#21-01301) ([Results](#21-01301) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4" target="_blank">Draws</a>)  
+- 9/17/2021 - [Auburn Fall Invite](#21-72298) ([Results](#21-72298) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/5CE93068-0A51-4941-853B-FC0571C04451" target="_blank">Draws</a>)  
 - 9/16/2021 - [Bedford Cup in the Mountains](#21-69307) ([Results](#21-69307) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dale Short Shootout](#21-04953) ([Results](#21-04953) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityM/Tournaments/Overview/8D17D1A4-3D6A-4D99-9858-4808AD3D6EAE" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dartmouth Invitational](#21-10750) ([Results](#21-10750) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeM/Tournaments/Overview/FB53D115-F7C3-43C7-9CAF-0B60D9E55E67" target="_blank">Draws</a>)  
@@ -26,7 +27,6 @@
 - 9/17/2021 - [Trinity Invitational](#21-44752) ([Results](#21-44752) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TrinityUniversityM/Tournaments/Overview/CC4630A5-B838-48AE-83FD-363FF44D005F" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/5CE93068-0A51-4941-853B-FC0571C04451" target="_blank">Auburn Fall Invite</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityM/Tournaments/Overview/D4F405A0-9744-41D5-B40A-884B0F1AADEF" target="_blank">OSU Invitational</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
@@ -92,6 +92,75 @@
      64  Harry Rock           def.  Dakotah Bobo         63 61
      64  Sam Edgar            def.  Nick Watson          61 62
      64  Pablo Alemany        def.  Will Cubitt          61 62
+~~~
+
+<a name="21-72298"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  Auburn Fall Invite
+  Dates: Sep 17-19, 2021
+  Host: Auburn University (M)
+═══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Blue
+  > Main
+     32  Teodor Giusca        def.  Bojan Jankulovski    36 61 61
+     32  Dan Martin           def.  Ryuhei Azuma         46 76(4) 64
+     32  Juan Martin Jalif    def.  Jorge Plans Gonzalez 46 76(4) 76(5)
+     32  Casper Christensen   def.  Tim Pitts            76(9) 06 40 Ret.
+     32  Yizhou Liu           def.  Ilarion Danilchenko  64 60
+     32  Spencer Whitaker     def.  Franco Aubone        61 61
+     32  Oren Vasser          def.  Maxwell Smith        61 61
+     32  Jackson Ross         def.  Andrew Puscas        76(6) 61
+     32  Trey Stinchcomb      def.  Joshua Raab          67(4) 62 75
+     32  Spencer Gray         def.  Daniel Labrador      64 76(4)
+ > Red
+  > Main
+     16  Tyler Stice          def.  George Harwell       61 62
+     16  Joubert Klopper      def.  Jan Galka            76(2) 61
+     16  Raul Dobai           def.  Marcus Ferreira      36 60 62
+     16  Tad McClean          def.  Michael Ross         63 57 62
+     16  Will Nolan           def.  Maxwell Freeman      61 62
+     16  Jackson Ross         def.  Connor Robb-Wilcox   62 61
+     16  Macsen Sisam         def.  Spencer Gray         26 75 75
+ > Green
+  > Main
+     16  Teodor Giusca        def.  Joubert Klopper      63 76(1)
+     16  George Harwell       def.  Ryuhei Azuma         64 36 64
+     16  Jorge Plans Gonzalez def.  Marcus Ferreira      64 46 76(1)
+     16  Yizhou Liu           def.  Michael Ross         63 36 64
+     16  Spencer Whitaker     def.  Macsen Sisam         63 75
+     16  Tim Pitts            def.  Maxwell Freeman      61 62
+     16  Connor Robb-Wilcox   def.  Trey Stinchcomb      75 75
+ > Purple
+  > Main
+     16  Tyler Stice          def.  Juan Martin Jalif    64 63
+     16  Finlay Murgett       def.  Bojan Jankulovski    64 46 63
+     16  Jan Galka            def.  Dan Martin           64 26 63
+     16  Oren Vasser          def.  Raul Dobai           67(5) 64 63
+     16  Will Nolan           def.  Casper Christensen   60 62
+     16  Tad McClean          def.  Franco Aubone        36 76(3) 61
+     16  Jackson Ross         def.  Daniel Labrador      64 63
+     16  Spencer Gray         def.  Maxwell Smith        46 64 63
+ > Orange
+  > Main
+     16  George Harwell       def.  Bojan Jankulovski    62 62
+     16  Marcus Ferreira      def.  Juan Martin Jalif    75 75
+     16  Joubert Klopper      def.  Oren Vasser          62 64
+     16  Dan Martin           def.  Michael Ross         76(6) 75
+     16  Franco Aubone        def.  Connor Robb-Wilcox   62 57 64
+     16  Casper Christensen   def.  Maxwell Freeman      16 64 63
+     16  Macsen Sisam         def.  Ilarion Danilchenko  61 63
+ > Yellow
+  > Main
+     16  Tyler Stice          def.  Teodor Giusca        26 62 75
+     16  Tad McClean          def.  Maxwell Smith        57 64 64
+     16  Jorge Plans Gonzalez def.  Finlay Murgett       64 67(1) 61
+     16  Jan Galka            def.  Spencer Whitaker     60 63
+     16  Raul Dobai           def.  Tim Pitts            75 63
+     16  Will Nolan           def.  Andrew Puscas        67(6) 63 61
+     16  Jackson Ross         def.  Trey Stinchcomb      63 76(5)
+     16  Spencer Gray         def.  Daniel Labrador      60 60
 ~~~
 
 <a name="21-69307"></a>
@@ -787,11 +856,11 @@
   > Consolation
        F     Jordan Hasson        def.     Nick Lagaev          64 63
       SF     Jordan Hasson        def.     Gavin Segraves       64 64
-      SF     Nick Lagaev          def.     Maxime Mareschal-Hay 64 63
+      SF     Nick Lagaev          def. (2) Vito Tonejc          64 63
       QF     Gavin Segraves       def.     Robin Parts          62 76(3)
       QF     Jordan Hasson        def.     Marino Jakic         62 64
       QF     Nick Lagaev          def.     Linus Carlsson Hall… Walkover
-      QF     Maxime Mareschal-Hay def. (2) Vito Tonejc          26 75 [2]
+      QF (2) Vito Tonejc          def.     Maxime Mareschal-Hay 62 57 62
      16Q     Robin Parts          def.     Stefan Drogovic      76(5) 75
      16Q     Gavin Segraves       def.     Olivier Stuart       Walkover
      16Q     Jordan Hasson        def.     Graydon Lair         63 61
@@ -981,53 +1050,78 @@
  Men's Open Singles
  > BAC Red vs Montevallo 2
   > Main
-     R1  Alexandre Laplante   def.  Nelson Stafford  61 46 [9]
-     R1  Matthew Orozco       def.  Dylan Kamel      16 64 [5]
-     R1  Kai Selinger         def.  Alex Crabtree    06 63 [3]
+     R1  Alexandre Laplante   def.  Nelson Stafford   61 46 [9]
+     R1  Matthew Orozco       def.  Dylan Kamel       16 64 [5]
+     R1  Kai Selinger         def.  Alex Crabtree     06 63 [3]
  > BAC Black vs Montevallo 1
   > Main
-     R2  Jules Dugue          def.  Kent Shiell      64 64
-     R2  Nicholas Cary        def.  Julius Ziebart   63 75
-     R2  Arka Ganguly         def.  Charlie Stamps   60 61
+     R2  Jules Dugue          def.  Kent Shiell       64 64
+     R2  Nicholas Cary        def.  Julius Ziebart    63 75
+     R2  Arka Ganguly         def.  Charlie Stamps    60 61
  > BAC Black vs Montevallo 1 (2)
   > Main
-     R5  Xaveam Can Wijk      def.  Dylan Valentine  84
-     R5  Killian Sinclair     def.  Kai Lloveras     84
-     R5  Philippe Zehender    def.  Andres Golindano 86
+     R5  Xaveam Can Wijk      def.  Dylan Valentine   84
+     R5  Killian Sinclair     def.  Kai Lloveras      84
+     R5  Philippe Zehender    def.  Andres Golindano  86
  > BAC Red vs LMC
   > Main
-     R5  Andres Tallafigo     def.  Pedro Knippling  26 60 [8]
-     R4  Andres Golindano     def.  Ezequiel Arce    63 62
-     R1  Sam Jones            def.  Renzo Fassioli   63 61
+     R5  Andres Tallafigo     def.  Pedro Knippling   26 60 [8]
+     R4  Andres Golindano     def.  Ezequiel Arce     63 62
+     R1  Sam Jones            def.  Renzo Fassioli    63 61
  > BAC Black vs Lander
   > Main
-     R4  Stefano Avendano     def.  Jack Coleman     36 63 [5]
-     R4  Emilien Baradel      def.  Gabriel Martin   64 63
-     R4  Kai Lloveras         def.  Mouad Naoui      62 62
+     R4  Stefano Avendano     def.  Jack Coleman      36 63 [5]
+     R4  Emilien Baradel      def.  Gabriel Martin    64 63
+     R4  Kai Lloveras         def.  Mouad Naoui       62 62
  > BAC Black vs Queens
   > Main
-     R3  Kent Shiell          def.  Euan Lynes       61 62
-     R2  Kai Lloveras         def.  Zachary Dacuba   60 62
-     R1  Elijah Buerkle       def.  Joshua Jacobs    63 46 [3]
+     R3  Kent Shiell          def.  Euan Lynes        61 62
+     R2  Kai Lloveras         def.  Zachary Dacuba    60 62
+     R1  Elijah Buerkle       def.  Joshua Jacobs     63 46 [3]
  > BAC Black vs LMC
   > Main
-     R1  Landon Church        def.  Dean Zoglio      62 61
-     R1  Sam Jones            def.  Elijah Buerkle   63 60
-     R1  Ching Wang           def.  Gabriel Martin   61 67(4) [4]
+     R1  Landon Church        def.  Dean Zoglio       62 61
+     R1  Sam Jones            def.  Elijah Buerkle    63 60
+     R1  Ching Wang           def.  Gabriel Martin    61 67(4) [4]
  > BAC Black vs Wingate
   > Main
-     R5  Florian Walcher      def.  Nicholas Cary    36 64 [2]
-     R3  Federico Spinetta    def.  Kent Shiell      64 63
-     R2  Matteo Gostoli       def.  Stefano Avendano 63 62
+     R5  Florian Walcher      def.  Nicholas Cary     36 64 [2]
+     R3  Federico Spinetta    def.  Kent Shiell       64 63
+     R2  Matteo Gostoli       def.  Stefano Avendano  63 62
  > BAC Red vs Queens
   > Main
-     R2  Xaveam Can Wijk      def.  Euan Lynes       63 60
-     R2  Julian Gonzalez      def.  Ty Johnston      60 61
-     R2  Renzo Fassioli       def.  Lleyton Dacuba   61 60
+     R2  Xaveam Can Wijk      def.  Euan Lynes        63 60
+     R2  Julian Gonzalez      def.  Ty Johnston       60 61
+     R2  Renzo Fassioli       def.  Lleyton Dacuba    61 60
  > BAC Red vs Lander
   > Main
-     R1  Francisco Aron Mart… def.  William King     64 46 [5]
-     R1  Alex Turner          def.  Jack Coleman     62 62
+     R1  Francisco Aron Mart… def.  William King      64 46 [5]
+     R1  Alex Turner          def.  Jack Coleman      62 62
+ > Queens vs Wingate
+  > Main
+     R3  Matteo Gostoli       def.  Lukas Gosselin    60 64
+     R2  Federico Spinetta    def.  Aidan Davy        61 63
+     R1  Florian Walcher      def.  Berk Ulas Enc     62 64
+ > Montevallo 1 vs Queens
+  > Main
+     R4  Rien Alderliesten    def.  Filippo Ercole    62 76(4)
+     R2  Julius Ziebart       def.  Yoan Roussinov    64 64
+     R1  Jules Dugue          def.  Samuele Pia       62 62
+ > Montevallo 2 vs Lander
+  > Main
+     R4  Killian Sinclair     def.  Ludvig Danielsson 75 46 [9]
+     R2  Sergi Martinez       def.  William King      62 63
+     R1  Mouad Naoui          def.  Gavin Salton      61 36 [9]
+ > Wingate vs LMC
+  > Main
+     R5  Hugo Nossler         def.  Avneet Singh      61 60
+     R4  Gabriel Constantino  def.  Ezequiel Arce     60 62
+     R2  Luka Brown           def.  Andres Tallafigo  62 62
+ > LMC vs Lander
+  > Main
+     R5  Mouad Naoui          def.  Landon Church     61 60
+     R3  Ching Wang           def.  Emilien Baradel   75 63
+     R1  Sam Jones            def.  Jack Coleman      64 62
 ~~~
 
 <a name="21-72013"></a>

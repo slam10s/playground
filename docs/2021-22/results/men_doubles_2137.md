@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 9/17/2021 - [Alabama Four-In-The-Fall](#21-01301) ([Results](#21-01301) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4" target="_blank">Draws</a>)  
+- 9/17/2021 - [Auburn Fall Invite](#21-72298) ([Results](#21-72298) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/5CE93068-0A51-4941-853B-FC0571C04451" target="_blank">Draws</a>)  
 - 9/16/2021 - [Bedford Cup in the Mountains](#21-69307) ([Results](#21-69307) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dale Short Shootout](#21-04953) ([Results](#21-04953) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityM/Tournaments/Overview/8D17D1A4-3D6A-4D99-9858-4808AD3D6EAE" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dartmouth Invitational](#21-10750) ([Results](#21-10750) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeM/Tournaments/Overview/FB53D115-F7C3-43C7-9CAF-0B60D9E55E67" target="_blank">Draws</a>)  
@@ -12,6 +13,7 @@
 - 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
 - 9/17/2021 - [Purdue Fall Invitational](#21-96062) ([Results](#21-96062) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityM/Tournaments/Overview/64471B4A-D6CD-4810-BD4A-167F65AB8D67" target="_blank">Draws</a>)  
 - 9/17/2021 - [The Star Group Binghamton Championships](#21-12886) ([Results](#21-12886) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BinghamtonUniversitySUNYM/Tournaments/Overview/45217160-5C07-4F1E-8FB5-6C5FBC28805F" target="_blank">Draws</a>)  
+- 9/16/2021 - [BAC Invitational](#21-94974) ([Results](#21-94974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Men’s Atlantic ITA Regional Championships](#21-72013) ([Results](#21-72013) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/1612DF81-297F-4862-94B4-0C79FB985493" target="_blank">Draws</a>)  
 - 9/17/2021 - [Division III Men's Northwest ITA Regional Championships](#21-72414) ([Results](#21-72414) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/293CC684-E897-42E1-A5D8-010605E71990" target="_blank">Draws</a>)  
 - 9/19/2021 - [Firebird Challenge](#21-51274) ([Results](#21-51274) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarthageCollegeM/Tournaments/Overview/0360BE02-00EA-4704-B66F-2ED3ACEF18A1" target="_blank">Draws</a>)  
@@ -23,12 +25,10 @@
 - 9/17/2021 - [Trinity Invitational](#21-44752) ([Results](#21-44752) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TrinityUniversityM/Tournaments/Overview/CC4630A5-B838-48AE-83FD-363FF44D005F" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/5CE93068-0A51-4941-853B-FC0571C04451" target="_blank">Auburn Fall Invite</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOklahomaM/Tournaments/Overview/C4392CA9-3D72-477E-9550-4FE92C5723E8" target="_blank">Lakes Tennis Club Invite</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityM/Tournaments/Overview/D4F405A0-9744-41D5-B40A-884B0F1AADEF" target="_blank">OSU Invitational</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
-- 9/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">BAC Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
 - 9/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SwarthmoreCollegeM/Tournaments/Overview/EBF37285-C88B-4F3E-B6EA-6C0DE013DBB8" target="_blank">Swat Men's Tennis Invite</a>  
@@ -68,6 +68,23 @@
      32  Stevenson/Cutting    def.  Lobak/Watson        75
      32  Koch/Bobo            def.  Taylor/Fanlo        64
      32  Ambrosio/Cubitt      def.  Edgar/Alemany       61
+~~~
+
+<a name="21-72298"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Auburn Fall Invite
+  Dates: Sep 17-19, 2021
+  Host: Auburn University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Blue
+  > Main
+     16  Azuma/Whitaker       def.  Aubone/Christensen 86
+     16  Vasser/Jalif         def.  Pitts/Smith        86
+     16  Martin/Danilchenko   def.  Giusca/Liu         86
+     16  Gray/Jankulovski     def.  Stinchcomb/Puscas  86
+     16  Plans Gonzalez/Labr… def.  Raab/Ross          98(8)
 ~~~
 
 <a name="21-69307"></a>
@@ -531,6 +548,76 @@
      16  Israel/Thomas        def.  Ben Ari/Srivastava   64
      16  Rooney/Haikal        def.  Singer/Robertson     61
      16  Mackay/Garcia        def.  Astrom/Grunig        61
+~~~
+
+<a name="21-94974"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  BAC Invitational
+  Dates: Sep 16-17, 2021
+  Host: Belmont Abbey College (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Lander vs BAC Red
+  > Main
+     R2  Horne/Gwynne        def.  Crabtree/Gonzalez    63
+     R2  Fassioli/Golindano  def.  Baradel/Naoui        62
+ > Queens vs Wingate
+  > Main
+     R1  Roussinov/Lynes     def.  Constantino/Nossler  75
+     R1  Walcher/Brown       def.  Jacobs/Ercole        61
+ > Montevallo 1 vs Queens
+  > Main
+     R3  Lynes/Davy          def.  Zehender/Hartmann    75
+     R3  Ulas Enc/Gosselin   def.  Ganguly/Selinger     63
+ > BAC Red vs Queens
+  > Main
+     R1  Turner/Orozco       def.  Gosselin/Dacuba      61
+     R1  Ulas Enc/Roussinov  def.  Golindano/Stafford   62
+ > BAC Black vs Wingate
+  > Main
+     R2  Brown/Nossler       def.  Martin/Buerkle       75
+     R2  Constantino/Gostoli def.  Stamps/Lloveras      61
+ > Montevallo 2 vs Lander
+  > Main
+     R3  Horne/Coleman       def.  Valentine/Sinclair   63
+     R3  Laplante/Kamel      def.  Baradel/Danielsson   76(3)
+ > Wingate vs LMC
+  > Main
+     R2  Gostoli/Brown       def.  Jones/Arce           63
+     R2  Nossler/Walcher     def.  Wang/Church          63
+ > BAC Black vs LMC
+  > Main
+     R2  Cary/Shiell         def.  Jones/Arce           62
+     R2  Avendano/Lloveras   def.  Tallafigo/Singh      61
+ > LMC vs Lander
+  > Main
+     R2  Baradel/Danielsson  def.  Singh/Jones          60
+     R2  Gwynne/King         def.  Tallafigo/Arce       61
+ > Queens vs BAC Black
+  > Main
+     R3  Stafford/Cary       def.  Dacuba/Roussinov     60
+     R3  Johnston/Ercole     def.  Morant/Zoglio        61
+ > BAC Black vs Lander
+  > Main
+     R3  Horne/Danielsson    def.  Cary/Shiell          62
+     R3  Coleman/King        def.  Stamps/Zoglio        60
+ > LMC vs BAC Red
+  > Main
+     R1  Rowe/Aron Martin    def.  Singh/Jones          61
+     R1  Can Wijk/Turner     def.  Wang/Church          62
+ > Montevallo 1 vs BAC Black
+  > Main
+     R2  Martinez/Salton     def.  Turner/Martin        64
+     R2  Fassioli/Avendano   def.  Dugue/De Jesus       64
+ > Montevallo 1 vs BAC Black (2)
+  > Main
+     R1  Martin/Buerkle      def.  Alderliesten/De Jes… 61
+     R1  Avendano/Lloveras   def.  Zehender/Hartmann    63
+ > Montevallo 2 vs BAC Red
+  > Main
+     R1  Valentine/Sinclair  def.  Knippling/Turner     64
+     R1  Rowe/Aron Martin    def.  Martinez/Salton      62
 ~~~
 
 <a name="21-72013"></a>

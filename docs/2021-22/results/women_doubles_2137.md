@@ -14,11 +14,14 @@
 - 9/17/2021 - [Redbird Invitational](#21-33894) ([Results](#21-33894) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityW/Tournaments/Overview/1C326774-DC63-4687-A38F-F4CEEC065C15" target="_blank">Draws</a>)  
 - 9/17/2021 - [University of Cincinnati/Pam Whitehead Fall Invitational](#21-41928) ([Results](#21-41928) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">Draws</a>)  
 - 9/17/2021 - [UVA Invitational](#21-02168) ([Results](#21-02168) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/C8B138D1-65A1-4A21-BF46-12614579945A" target="_blank">Draws</a>)  
+- 9/16/2021 - [BAC Invitational](#21-94974) ([Results](#21-94974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">Draws</a>)  
 - 9/15/2021 - [Battle of the Blue Ridge, Weekend One](#21-96874) ([Results](#21-96874) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SweetBriarCollegeW/Tournaments/Overview/4FB76F6F-BB1C-4A77-92A3-CC5A5BFD60A4" target="_blank">Draws</a>)  
 - 9/18/2021 - [Big Red Invitational](#21-52871) ([Results](#21-52871) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DenisonUniversityW/Tournaments/Overview/8C55E0CC-605C-4584-8311-FA3093162009" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
+- 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 - 9/17/2021 - [Javalina Fall Quad](#21-30014) ([Results](#21-30014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityKingsvilleW/Tournaments/Overview/598273F2-FD41-4282-9467-EFD6330C79CC" target="_blank">Draws</a>)  
+- 9/17/2021 - [Methodist University Women's Fall Invitational](#21-80794) ([Results](#21-80794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MethodistUniversityW/Tournaments/Overview/4FFAB7FF-537E-4837-8CBB-5347D9DABA5B" target="_blank">Draws</a>)  
 - 9/17/2021 - [MIT Invitational](#21-01963) ([Results](#21-01963) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechW/Tournaments/Overview/05E528B1-8ECB-4C54-A76C-F650CD3C02F5" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
 - 9/17/2021 - [NAIA Men's & Women’s South ITA Regional Championships](#21-84466) ([Results](#21-84466) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaGwinnettCollegeM/Tournaments/Overview/AB87DC72-EBD1-473D-908A-61D759A5EEAC" target="_blank">Draws</a>)  
@@ -29,19 +32,16 @@
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">QU Hidden Duals At Uconn</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
-- 9/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">BAC Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Division II Women's East ITA Regional Championships</a>  
-- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Division III Women's Northeast ITA Regional Championships</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MethodistUniversityW/Tournaments/Overview/4FFAB7FF-537E-4837-8CBB-5347D9DABA5B" target="_blank">Methodist University Women's Fall Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">PP/CMS Invite</a>  
 
 <a name="21-14330"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Brown Invitational
   Dates: Sep 17-19, 2021
   Host: Brown University (W)
-═══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight A
   > Main
@@ -278,11 +278,11 @@
 
 <a name="21-11230"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Harvard Fall Classic Invite
   Dates: Sep 17-19, 2021
   Host: Harvard University (W)
-═══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight A BC
   > Main
@@ -458,11 +458,11 @@
 
 <a name="21-02376"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
   Milwaukee Tennis Classic
   Dates: Sep 18-20, 2021
   Host: ITA
-═══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
@@ -646,11 +646,11 @@
 
 <a name="21-41928"></a>
 ~~~
-═══════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   University of Cincinnati/Pam Whitehead Fall Invitational
   Dates: Sep 17-18, 2021
   Host: University Of Cincinnati (W)
-═══════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
@@ -718,13 +718,67 @@
      R1  Chekhlystova/OGorman def.  Ziodato/Kiefer       63
 ~~~
 
+<a name="21-94974"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  BAC Invitational
+  Dates: Sep 16-17, 2021
+  Host: Belmont Abbey College (M)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Queens vs Lander
+  > Main
+     R3  Elsborg/Santanders   def.  Kilbourne/Sinclaire 62
+     R3  Aramni/Acco          def.  Sheldrick/Hidalgo   62
+ > Wingate vs LMC
+  > Main
+     R2  Ciaccia/Sambyakugari def.  Shamsuddin/Yang     61
+     R2  Ruetten/Kadyk        def.  Cakirer/Hiramatsu   64
+ > Montevallo vs LMC
+  > Main
+     R2  Ocampo/Ivanova       def.  Hafner/Breedlove    63
+     R2  Turro/Hartlohner     def.  Yang/Cakirer        63
+ > BAC vs Lander
+  > Main
+     R1  Elsborg/Acco         def.  Steiner/Farmer      63
+     R1  Gerbino/Ineson       def.  Peterson/Seib       64
+ > BAC vs Queens
+  > Main
+     R1  Allard/Khramtsova    def.  Socarras/Galeano    64
+     R1  Kilbourne/Parker     def.  Steiner/Schott      63
+ > Wingate vs BAC
+  > Main
+     R3  Sambyakugari/Berggr… def.  Socarras/Galeano    61
+     R3  Guidantoni/Ruetten   def.  Vaughan/Hendricks   75
+ > Montevallo vs Wingate
+  > Main
+     R3  Kadyk/Berggren       def.  Hanzek/Barfoot      64
+     R3  Kosmrlj/Gunfaus      def.  Ozzor/Dirr          75
+ > Queens vs LMC
+  > Main
+     R3  Cakirer/Hiramatsu    def.  Parker/Pradip       61
+     R3  Shamsuddin/Yang      def.  Sheldrick/Hidalgo   61
+ > Montevallo vs BAC
+  > Main
+     R2  Turro/Hartlohner     def.  Socarras/Galeano    61
+     R2  Piltaver/Hamilton    def.  Sommariva/Gonzalez  63
+ > LMC vs Lander
+  > Main
+     R2  Hiramatsu/Wells      def.  Gerbino/Santanders  63
+     R2  Ineson/Aramni        def.  Shamsuddin/Ivanova  63
+ > Montevallo vs BAC
+  > Main
+     R1  Piltaver/Hanzek      def.  Hencken/Lopez       62
+     R1  Ozzor/Dirr           def.  Socarras/Galeano    64
+~~~
+
 <a name="21-96874"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Battle of the Blue Ridge, Weekend One
   Dates: Sep 15-16, 2021
   Host: Sweet Briar College (W)
-═══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Green
   > Main
@@ -761,11 +815,11 @@
 
 <a name="21-52871"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Big Red Invitational
   Dates: Sep 18-19, 2021
   Host: Denison University (W)
-═══════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw A
   > Main
@@ -890,6 +944,56 @@
      16Q     Kuehnle/Eremina      def. (2) Zafeiri/Reisch       81
 ~~~
 
+<a name="21-29173"></a>
+~~~
+═════════════════════════════════════════════════════════════════
+  Division III Women's Northeast ITA Regional Championships
+  Dates: Sep 18-20, 2021
+  Host: William Smith College (W)
+═════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F  Fordham/Plakk        def.  Landells/Roarty      61 61
+     SF  Fordham/Plakk        def.  Apsey/Holtzman       81
+     SF  Landells/Roarty      def.  Libby/Ruiz Vega      82
+     QF  Fordham/Plakk        def.  Flores Gonzalez/Flo… 84
+     QF  Apsey/Holtzman       def.  Jones/Mednikova      86
+     QF  Landells/Roarty      def.  Jensrud/Balyk        87(3)
+     QF  Libby/Ruiz Vega      def.  Eisenberg/Vasile     82
+     16  Fordham/Plakk        def.  Dhull/Truong         81
+     16  Flores Gonzalez/Flo… def.  Stavropoulos/Dowd    82
+     16  Jones/Mednikova      def.  Waugh/Zorzan         81
+     16  Apsey/Holtzman       def.  Almquist/Provost     84
+     16  Jensrud/Balyk        def.  Cicero/Roberts       87(7)
+     16  Landells/Roarty      def.  Feldman/Thongphok    87(5)
+     16  Libby/Ruiz Vega      def.  Cutler/Pratt         86
+     16  Eisenberg/Vasile     def.  Menendez/Nguyen      85
+     32  Fordham/Plakk        def.  Dadoly/Gamble        80
+     32  Dhull/Truong         def.  Chelnick/Davis       81
+     32  Stavropoulos/Dowd    def.  Abalos/Rangu         84
+     32  Flores Gonzalez/Flo… def.  Barteck/Chow         85
+     32  Jones/Mednikova      def.  Macey/Harris         80
+     32  Waugh/Zorzan         def.  Karadimou/Nicol      82
+     32  Apsey/Holtzman       def.  Donohue/Drozd        80
+     32  Almquist/Provost     def.  Gonzalez/Stewart     81
+     32  Cicero/Roberts       def.  Brown/DOnofrio       83
+     32  Jensrud/Balyk        def.  Bonomo/Camacho       82
+     32  Landells/Roarty      def.  Styliades/Sullivan   82
+     32  Feldman/Thongphok    def.  Batcheller/Dratch    81
+     32  Cutler/Pratt         def.  Clamor/Malhotra      87(2)
+     32  Libby/Ruiz Vega      def.  Bauer/Subramaniam    86
+     32  Menendez/Nguyen      def.  Galle/Tobin          83
+     32  Eisenberg/Vasile     def.  Shen/Kizilbash       84
+ > Consolation Doubles
+  > Main
+     R1  Andrews/Rodriguez    def.  Batcheller/Dratch    87(10)
+     R1  Karadimou/Nicol      def.  Barteck/Chow         81
+     R1  Chelnick/Davis       def.  Brown/DOnofrio       80
+     R1  Stavropoulos/Dowd    def.  Cutler/Pratt         84
+     R1  Almquist/Provost     def.  Shen/Kizilbash       87(10)
+~~~
+
 <a name="21-76336"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════
@@ -982,6 +1086,66 @@
       F  Parkinson/Franco Sa… def.  Lira/Chauhan         64
 ~~~
 
+<a name="21-80794"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Methodist University Women's Fall Invitational
+  Dates: Sep 17-19, 2021
+  Host: Methodist University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight 1
+  > East
+      F  Voloshyna/Weber      def.  Dule/Rescia          84
+     SF  Voloshyna/Weber      def.  Kronsbein/Maher      81
+     SF  Dule/Rescia          def.  Montserrat/Schipper  85
+     QF  Voloshyna/Weber      def.  Romero/Mille         82
+     QF  Kronsbein/Maher      def.  Laney/Lewis          83
+     QF  Montserrat/Schipper  def.  Lawrence/Kidd        81
+     QF  Dule/Rescia          def.  Lippens/Lombardt     87(4)
+  > West
+     SF  Laney/Lewis          def.  Romero/Mille         84
+     SF  Lawrence/Kidd        def.  Lippens/Lombardt     85
+  > 3-4 Playoff
+      F  Kronsbein/Maher      def.  Montserrat/Schipper  84
+ > Flight 2
+  > East
+      F  Howeler/Fernandez    def.  Yuksel/Aylward       84
+     SF  Howeler/Fernandez    def.  Krusling/Beasley     86
+     SF  Yuksel/Aylward       def.  Schoorsmans/Mariotti 84
+     QF  Howeler/Fernandez    def.  Gunning/Zeilstra     82
+     QF  Krusling/Beasley     def.  Balko/Caddick        87(4)
+     QF  Yuksel/Aylward       def.  Nwokolo/Caballero    83
+     QF  Schoorsmans/Mariotti def.  Martinez/Matute      87(3)
+  > West
+      F  Nwokolo/Caballero    def.  Balko/Caddick        86
+     SF  Balko/Caddick        def.  Gunning/Zeilstra     82
+     SF  Nwokolo/Caballero    def.  Martinez/Matute      84
+  > 3-4 Playoff
+      F  Krusling/Beasley     def.  Schoorsmans/Mariotti 84
+  > South
+      F  Gunning/Zeilstra     def.  Martinez/Matute      86
+ > Flight 3
+  > East
+      F  Ray/Mehn             def.  Garcia/Ryhsen        86
+     SF  Garcia/Ryhsen        def.  Katoudi/Pita         85
+     SF  Ray/Mehn             def.  Ten Bos/Sjostrom Kr… 83
+     QF  Garcia/Ryhsen        def.  Collins/Forma        83
+     QF  Katoudi/Pita         def.  Hays/Miines          81
+     QF  Ten Bos/Sjostrom Kr… def.  Pratt/Bird           83
+     QF  Ray/Mehn             def.  Willocks/Higgins     83
+  > West
+     SF  Collins/Forma        def.  Hays/Miines          82
+     SF  Pratt/Bird           def.  Willocks/Higgins     85
+  > 3-4 Playoff
+      F  Ten Bos/Sjostrom Kr… def.  Katoudi/Pita         86
+ > Flight 4
+  > Main
+     R3  Goodall/Impalea      def.  Pope/Kelly           81
+     R2  Goodall/Impalea      def.  Bellamy/Lewis        80
+     R1  Pope/Kelly           def.  Bellamy/Lewis        82
+~~~
+
 <a name="21-01963"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -1067,11 +1231,11 @@
 
 <a name="21-84466"></a>
 ~~~
-═════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   NAIA Men's & Women’s South ITA Regional Championships
   Dates: Sep 17-19, 2021
   Host: Georgia Gwinnett College (M)
-═════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
@@ -1129,25 +1293,36 @@
 
 <a name="21-60316"></a>
 ~~~
-═══════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Swat Invite
   Dates: Sep 18-19, 2021
   Host: Swarthmore College (W)
-═══════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
+ > Doubles (Rd. 1)
+  > Main
+     32  Miller/Dignazio      def.  Daggett/Burke        83
+     32  Xu/Williams          def.  Lavin/Pham           87(5)
+     32  Fitzgerald/Tobin     def.  Sherman/Harrison     87(3)
+     32  Landau/Perry         def.  Williams/Russano     85
+     32  Keidan/Kern          def.  Pindzola/Barrett     81
+     32  Watts/Padron Castil… def.  Victor/Bidwell       82
+     32  Esterowitz/Oh        def.  Stutz/Varma          85
+     32  Laska/Bellamy        def.  Njagi/Geib           86
+     32  Nouaime/Pastore      def.  Kumaran/Brown        83
  > Doubles (Rd. 2a)
   > Main
-     16  Lewis/Kumaran    def.  Daggett/Burke        82
-     16  Miller/Brown     def.  Victor/Bidwell       82
-     16  Landau/Perry     def.  Nouaime/Pastore      86
-     16  Watts/Williams   def.  Esterowitz/Oh        85
-     16  Xu/Varma         def.  Sherman/Harrison     83
+     16  Lewis/Kumaran        def.  Daggett/Burke        82
+     16  Miller/Brown         def.  Victor/Bidwell       82
+     16  Landau/Perry         def.  Nouaime/Pastore      86
+     16  Watts/Williams       def.  Esterowitz/Oh        85
+     16  Xu/Varma             def.  Sherman/Harrison     83
  > Doubles (Rd. 2b)
   > Main
-     16  Russano/Pham     def.  Laska/Bellamy        85
-     16  Fitzgerald/Tobin def.  Stutz/Padron Castil… 84
-     16  Williams/Lavin   def.  Keidan/Kern          84
-     16  Njagi/Geib       def.  Pindzola/Barrett     82
+     16  Russano/Pham         def.  Laska/Bellamy        85
+     16  Fitzgerald/Tobin     def.  Stutz/Padron Castil… 84
+     16  Williams/Lavin       def.  Keidan/Kern          84
+     16  Njagi/Geib           def.  Pindzola/Barrett     82
 ~~~
 
 Return to the [Top](./women_doubles_2137.md) &#124; [Home Page](../../index.md)

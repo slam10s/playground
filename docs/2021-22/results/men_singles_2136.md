@@ -10,6 +10,7 @@
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
 - 9/11/2021 - [St. Lawrence University Fall Classic](#21-93996) ([Results](#21-93996) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/3699D952-856D-4724-8FE8-12BD2237BE35" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
+- 9/10/2021 - [Warhawk Fall Invitational](#21-36572) ([Results](#21-36572) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
@@ -19,7 +20,6 @@
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Battle of the Beach</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">River Forrest Collegiate Invitational</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Warhawk Fall Invitational</a>  
 
 <a name="21-19264"></a>
 ~~~
@@ -755,6 +755,132 @@
   > Consolation
       F  Adrian Alejandro     def.  Rien Solis           63 62
      SF  Rien Solis           def.  Mikey Lopez          Walkover
+~~~
+
+<a name="21-36572"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Warhawk Fall Invitational
+  Dates: Sep 10-11, 2021
+  Host: Univ. Of Wisconsin, Whitewater (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight 1
+  > Main
+      F  Francisco Faria      def.  Daniel Vishnick      61 64
+     SF  Francisco Faria      def.  Michael Delebois     63 64
+     SF  Daniel Vishnick      def.  John Zakowski        64 76(1)
+     QF  Francisco Faria      def.  Oleksyi Vyshyvanyuk  76(4) 63
+     QF  Michael Delebois     def.  Juan Ramirez Mejia   76(2) 60
+     QF  John Zakowski        def.  Oskar Lusti          61 64
+     QF  Daniel Vishnick      def.  Alex Verdu           64 36 [9]
+  > Consolation
+      F  Oleksyi Vyshyvanyuk  def.  Alex Verdu           62 67(4) [6]
+     SQ  Oleksyi Vyshyvanyuk  def.  Juan Ramirez Mejia   64 60
+     SQ  Alex Verdu           def.  Oskar Lusti          76(3) 26 [6]
+  > Playoff 3-4
+      F  Michael Delebois     def.  John Zakowski        75 Ret.
+ > Flight 1 7/8
+  > Main
+      F  Oskar Lusti          def.  Juan Ramirez Mejia   46 64 [8]
+ > Flight 2
+  > Main
+      F  Alejandro Martinez   def.  Pedja Trifunovic     63 61
+     SF  Pedja Trifunovic     def.  Cole Lindwall        62 46 [5]
+     SF  Alejandro Martinez   def.  Oliwer Wierzbicki    76(2) 63
+     QF  Pedja Trifunovic     def.  Juan Banuls          63 76(2)
+     QF  Cole Lindwall        def.  Danail Banov         75 20
+     QF  Oliwer Wierzbicki    def.  Brian Victoria Ayala 63 61
+     QF  Alejandro Martinez   def.  Alex Gray            63 60
+  > Consolation
+      F  Danail Banov         def.  Alex Gray            64 26 [4]
+     SQ  Danail Banov         def.  Juan Banuls          61 63
+     SQ  Alex Gray            def.  Brian Victoria Ayala 63 61
+  > Playoff 3-4
+      F  Oliwer Wierzbicki    def.  Cole Lindwall        36 63 [9]
+ > Flight 2 7/8
+  > Main
+      F  Brian Victoria Ayala def.  Juan Banuls          Walkover
+ > Flight 3
+  > Main
+      F  Andrin Zuellig       def.  Sam Kaplan           63 64
+     SF  Andrin Zuellig       def.  Carlo Cota           61 61
+     SF  Sam Kaplan           def.  Ryan Mitchell        36 62 [2]
+     QF  Andrin Zuellig       def.  Javier Alonso Egea   60 60
+     QF  Carlo Cota           def.  Daniel Tulchinskiy   64 57 [8]
+     QF  Sam Kaplan           def.  Andrej Zoranovic     60 62
+     QF  Ryan Mitchell        def.  Bryce Ranchero       60 60
+  > Consolation
+      F  Javier Alonso Egea   def.  Bryce Ranchero       63 76(7)
+     SQ  Javier Alonso Egea   def.  Daniel Tulchinskiy   61 62
+     SQ  Bryce Ranchero       def.  Andrej Zoranovic     76(6) 75
+  > Playoff 3-4
+      F  Ryan Mitchell        def.  Carlo Cota           75 64
+ > Flight 3 7/8
+  > Main
+      F  Daniel Tulchinskiy   def.  Andrej Zoranovic     62 63
+ > Flight 4
+  > Main
+      F  Brendan Pietila      def.  Nicolas Palacio      61 64
+     SF  Nicolas Palacio      def.  Kyle Lingle          62 62
+     SF  Brendan Pietila      def.  Adrian Gomez         60 62
+     QF  Nicolas Palacio      def.  Noah Guillermo       62 64
+     QF  Kyle Lingle          def.  Zachary Cho          26 76(5) [5]
+     QF  Adrian Gomez         def.  Erwan LeGuennec      62 61
+     QF  Brendan Pietila      def.  Nicholas Bailey      63 63
+  > Consolation
+      F  Erwan LeGuennec      def.  Noah Guillermo       64 46 [6]
+     SQ  Noah Guillermo       def.  Zachary Cho          75 64
+     SQ  Erwan LeGuennec      def.  Nicholas Bailey      75 63
+  > Playoff 3-4
+      F  Adrian Gomez         def.  Kyle Lingle          61 62
+ > Flight 4 7/8
+  > Main
+      F  Nicholas Bailey      def.  Zachary Cho          64 63
+ > Flight 5
+  > Main
+      F  Josh Guillermo       def.  Payton Adkisson      64 62
+     SF  Payton Adkisson      def.  Daniel Ezcurra       26 61 [8]
+     SF  Josh Guillermo       def.  Paul Wottgen         75 26 [5]
+     QF  Payton Adkisson      def.  James Carr           64 60
+     QF  Daniel Ezcurra       def.  Daniel Espinosa      60 75
+     QF  Paul Wottgen         def.  Nicolas Fuentes      62 36 [8]
+     QF  Josh Guillermo       def.  Kyle Lassen          62 75
+  > Consolation
+      F  Daniel Espinosa      def.  Nicolas Fuentes      64 36 [5]
+     SQ  Daniel Espinosa      def.  James Carr           64 75
+     SQ  Nicolas Fuentes      def.  Kyle Lassen          60 63
+  > Playoff 3-4
+      F  Daniel Ezcurra       def.  Paul Wottgen         63 63
+ > Flight 5 7/8
+  > Main
+      F  Kyle Lassen          def.  James Carr           75 64
+ > Flight 6
+  > Main
+      F  Noah Wankerl         def.  Parker Hearne        61 63
+     SF  Noah Wankerl         def.  Robert Cercos        36 62 [3]
+     SF  Parker Hearne        def.  Eduardo Manuitt      64 61
+     QF  Robert Cercos        def.  Jacob Tilton         62 62
+     QF  Parker Hearne        def.  Timothy Hidalgo      60 60
+     QF  Eduardo Manuitt      def.  Aidan Flores         76(6) 16 [9]
+  > Consolation
+      F  Aidan Flores         def.  Jacob Tilton         57 62 [9]
+     SQ  Aidan Flores         def.  Timothy Hidalgo      76(4) 61
+  > Playoff 3-4
+      F  Robert Cercos        def.  Eduardo Manuitt      75 62
+ > Flight 7
+  > Main
+      F  Ridley Aranda        def.  Josh Baldwin         76(5) 62
+     SF  Josh Baldwin         def.  John Hejl            61 60
+     SF  Ridley Aranda        def.  Luke Fleming         63 61
+     QF  John Hejl            def.  Alec Nissen          46 76(1) [7]
+     QF  Luke Fleming         def.  Anele Mayiga         62 61
+     QF  Ridley Aranda        def.  Diego Quevedo        60 60
+  > Consolation
+      F  Alec Nissen          def.  Anele Mayiga         64 63
+     SQ  Anele Mayiga         def.  Diego Quevedo        64 62
+  > Playoff 3-4
+      F  John Hejl            def.  Luke Fleming         Walkover
 ~~~
 
 <a name="21-24367"></a>

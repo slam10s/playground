@@ -404,7 +404,6 @@
  Men's Open Singles
  > Draw
   > Main
-       F  (8) Aryan Chaudhary     vs   (4) Guillaume Dalmasso Sun @ 11:00
       SF  (8) Aryan Chaudhary    def.  (5) James Watt         64 57 76(6)
       SF  (4) Guillaume Dalmasso def. (14) Tomas Kopczynski   36 64 64
       QF  (5) James Watt         def.  (1) Philip Hjorth      76(5) 26 75
@@ -462,7 +461,6 @@
       64 (14) Tomas Kopczynski   def.      Juan Batalla       61 62
       64      Russell Henderson  def.      Jakob Ortiveros    61 62
   > Consolation
-       F  (2) Carl Emil Overbeck  vs       Ryan Ali           Sun @ 11:00
       SF      Ryan Ali           def.      Lucas Magnaudet    75 46 [6]
       SF  (2) Carl Emil Overbeck def.      Felipe Rincon      62 62
       QF      Lucas Magnaudet    def.      Karlo Divkovic     64 36 [6]

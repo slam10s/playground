@@ -10,6 +10,7 @@
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
 - 9/11/2021 - [St. Lawrence University Fall Classic](#21-93996) ([Results](#21-93996) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/3699D952-856D-4724-8FE8-12BD2237BE35" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
+- 9/10/2021 - [Warhawk Fall Invitational](#21-36572) ([Results](#21-36572) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
@@ -19,7 +20,6 @@
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Battle of the Beach</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">River Forrest Collegiate Invitational</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Warhawk Fall Invitational</a>  
 
 <a name="21-19264"></a>
 ~~~
@@ -406,6 +406,70 @@
      QF  Garza/Alejandro      def.  Marsh/Salinas        62
   > Consolation
       F  Marsh/Salinas        def.  Lopez/Martinez       Walkover
+~~~
+
+<a name="21-36572"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Warhawk Fall Invitational
+  Dates: Sep 10-11, 2021
+  Host: Univ. Of Wisconsin, Whitewater (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight 1
+  > Main
+      F  Vishnick/Schaadt     def.  Kaplan/Palacio       76(5)
+     SF  Kaplan/Palacio       def.  Lusti/Ramirez Mejia  61
+     SF  Vishnick/Schaadt     def.  Gray/Zakowski        62
+     QF  Lusti/Ramirez Mejia  def.  Verdu/Faria          64
+     QF  Kaplan/Palacio       def.  LeGuennec/Espinosa   61
+     QF  Gray/Zakowski        def.  Wierzbicki/Trifunov… 64
+     QF  Vishnick/Schaadt     def.  Victoria Ayala/Cota  76(4)
+  > Consolation
+      F  Verdu/Faria          def.  Wierzbicki/Trifunov… 63
+     SQ  Verdu/Faria          def.  LeGuennec/Espinosa   61
+     SQ  Wierzbicki/Trifunov… def.  Victoria Ayala/Cota  60
+  > Playoff 3-4
+      F  Lusti/Ramirez Mejia  def.  Gray/Zakowski        76(6)
+ > Flight 1 7/8
+  > Main
+      F  Victoria Ayala/Cota  def.  LeGuennec/Espinosa   63
+ > Flight 2
+  > Main
+      F  Banov/Martinez       def.  Delebois/Zuellig     64
+     SF  Delebois/Zuellig     def.  Vyshyvanyuk/Tulchin… 63
+     SF  Banov/Martinez       def.  Mitchell/Lindwall    64
+     QF  Delebois/Zuellig     def.  Guillermo/Hearne     64
+     QF  Vyshyvanyuk/Tulchin… def.  Ranchero/Carr        62
+     QF  Banov/Martinez       def.  Flores/Egea          62
+     QF  Mitchell/Lindwall    def.  Lingle/Banuls        61
+  > Consolation
+      F  Flores/Egea          def.  Guillermo/Hearne     61
+     SQ  Guillermo/Hearne     def.  Ranchero/Carr        64
+     SQ  Flores/Egea          def.  Lingle/Banuls        61
+  > Playoff 3-4
+      F  Mitchell/Lindwall    def.  Vyshyvanyuk/Tulchin… 62
+ > Flight 2 7/8
+  > Main
+      F  Lingle/Banuls        def.  Ranchero/Carr        64
+ > Flight 3
+  > Main
+      F  Gomez/Ezcurra        def.  Adkisson/Guillermo   76(3)
+     SF  Gomez/Ezcurra        def.  Fuentes/Fleming      62
+     SF  Adkisson/Guillermo   def.  Lassen/Tilton        62
+     QF  Fuentes/Fleming      def.  Wottgen/Hejl         62
+     QF  Adkisson/Guillermo   def.  Bailey/Hidalgo       60
+  > Consolation
+      F  Bailey/Hidalgo       def.  Wottgen/Hejl         64
+  > Playoff 3-4
+      F  Lassen/Tilton        def.  Fuentes/Fleming      62
+ > Flight 4
+  > Main
+      F  Wankerl/Baldwin      def.  Pietila/Aranda       64
+     SF  Pietila/Aranda       def.  Nissen/Mayiga        60
+     SF  Wankerl/Baldwin      def.  Cho/Manuitt          75
+  > Playoff 3-4
+      F  Nissen/Mayiga        def.  Cho/Manuitt          63
 ~~~
 
 <a name="21-24367"></a>

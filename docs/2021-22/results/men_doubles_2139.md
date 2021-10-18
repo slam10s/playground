@@ -1,6 +1,7 @@
 <a name="top"></a>[<< Prev](men_doubles_2138.md) &nbsp; **Week #39 - Sep 27 - Oct 3** &nbsp; [Next >>](men_doubles_2140.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2139.md) &#124; [Women](./women_doubles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2139.md) &#124; [***Doubles***](./men_doubles_2139.md)
 
 **Tournamets with Matches**  
+- 9/26/2021 - [Bobby Bayliss Invitational](#21-15825) ([Results](#21-15825) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNotreDameM/Tournaments/Overview/772A5D00-C1F2-4758-8876-D10A5F7DA5EF" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Men's Ohio Valley Regional Championship](#21-20374) ([Results](#21-20374) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
@@ -14,30 +15,72 @@
 - 10/1/2021 - [MSU Bulldog Invitational](#21-39463) ([Results](#21-39463) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77" target="_blank">Draws</a>)  
 - 10/1/2021 - [PNW Invitational](#21-08428) ([Results](#21-08428) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">Draws</a>)  
 - 10/1/2021 - [South Carolina Men's Collegiate Championships](#21-25425) ([Results](#21-25425) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C61DDA49-6047-4361-9048-8658AEA3B344" target="_blank">Draws</a>)  
+- 10/1/2021 - [UD Hidden Dual](#21-83081) ([Results](#21-83081) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
 - 9/30/2021 - [Division II Men’s South Central ITA Regional Championships](#21-08149) ([Results](#21-08149) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/BFA79EEC-3303-4163-86EB-C0E9E19BBADE" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men's Central ITA Regional Championships](#21-43730) ([Results](#21-43730) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/4C90304B-D821-474C-BB23-F898C365EF87" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
+- 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
 - 10/2/2021 - [Panther Classic](#21-52083) ([Results](#21-52083) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/BA2B3B31-CD0C-40C8-96BC-A0F69FEED591" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/26/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNotreDameM/Tournaments/Overview/772A5D00-C1F2-4758-8876-D10A5F7DA5EF" target="_blank">Bobby Bayliss Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Arizona Wilcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Beeman/Drobac Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">EIU Panther Hidden Duals</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LamarUniversityM/Tournaments/Overview/2BEDAA6E-9524-4B56-852C-F997C8133696" target="_blank">Ron Wesbrooks Invitational</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">UD Hidden Dual</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Division III Men's Northeast ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonM/Tournaments/Overview/8701EF80-DDC5-4BB0-861B-552EB3F1C862" target="_blank">Division III Men’s Southeast ITA Regional Championships</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Junior College Men's and Women's Northern California ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">NAIA Men’s & Women's Midwest ITA Regional Championships</a>  
+
+<a name="21-15825"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  Bobby Bayliss Invitational
+  Dates: Sep 26-29, 2021
+  Host: University Of Notre Dame (M)
+═══════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Round 1
+  > Main
+     64  Che/Conklin         def.  Guzauskas/Meister    84
+     64  Blekher/Thieneman   def.  Cooksey/Fu           84
+     64  Winkler/Crocker     def.  Horve/Petrov         85
+     64  Matsuno/Williams    def.  Bengtsson/Goli       87(4)
+     64  Scheetz/Brady       def.  Mareschal-Hay/Erler  85
+     64  Iaquinto/Tuff       def.  Kuszynski/Schlueter  86
+     64  Boone/Lohse         def.  Hanchaikul/Zederbau… 87(6)
+     64  Campbell/Mukherjee  def.  Bilinovich/Mindry    84
+     64  Baylis/Pero         def.  Tonejc/Jakic         85
+     64  Malkowski/Halpin    def.  Minsaas/Gitschel     83
+     64  Abboud/Staiger      def.  Khalafallah/Tennison 84
+     64  Caballer/George     def.  Zifferblatt/Balthaz… 82
+     64  Chatras/Moser       def.  Dale/Jauch           84
+     64  Pierce/Honnappa     def.  Sheldon/Baylis       87(2)
+     64  Wassenaar/Huck      def.  Bilsey/Zhang         84
+ > Round 2
+  > Main
+     64  Che/Conklin         def.  Matsuno/Mukherjee    60
+     64  Bilsey/Zhang        def.  Pierce/Honnappa      61
+     64  Malkowski/Halpin    def.  Blekher/Thieneman    64
+     64  Cooksey/Fu          def.  Bengtsson/Goli       63
+     64  Tonejc/Jakic        def.  Hanchaikul/Zederbau… 63
+     64  Wassenaar/Huck      def.  Abboud/Staiger       62
+     64  Chatras/Moser       def.  Caballer/George      75
+     64  Campbell/Portnoy    def.  Iaquinto/Tuff        64
+     64  Guzauskas/Petrov    def.  Mareschal-Hay/Erler  61
+     64  Kuszynski/Schlueter def.  Khalafallah/Tennison 64
+     64  Bilinovich/Mindry   def.  Dale/Jauch           61
+     64  Crocker/Sheldon     def.  Scheetz/Brady        62
+     64  Minsaas/Gitschel    def.  Zifferblatt/Balthaz… 63
+     64  Baylis/Pero         def.  Boone/Lohse          75
+~~~
 
 <a name="21-20374"></a>
 ~~~
@@ -805,6 +848,47 @@
      SF     Cassini/Alvarez      def. (2) Vos/Praschan         Walkover
 ~~~
 
+<a name="21-83081"></a>
+~~~
+════════════════════════════════════════════════════════
+  UD Hidden Dual
+  Dates: Oct 1-2, 2021
+  Host: University Of Dayton (M)
+════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Dayton vs. Xavier Doubles
+  > Main
+     QF  Nava/Cahill        def.  Hiryur/Mavrodiev   63
+     QF  Winters/Nakayama   def.  Harper/DeCurtins   63
+     QF  Perkowski/Eliasson def.  Mosberger/Pennelli 62
+     QF  Dunne/Phillips     def.  Macaluso/Reddy     64
+ > Dayton vs. IUPUI Doubles
+  > Main
+     QF  Bruce/DeMarco      def.  Morehart/Viste     62
+     QF  Hiryur/Mavrodiev   def.  Bailey/Thurin      62
+     QF  Sellers/Day        def.  DeMarco/Phillips   62
+ > Dayton vs. NKU Doubles
+  > Main
+     QF  Bruce/DeCurtins    def.  Burnel/Berry       63
+     QF  Ball/Ponomarew     def.  Perkowski/Eliasson 64
+     QF  Harper/Karl        def.  Knott/Casamayor    64
+ > NKU vs. IUPUI Doubles
+  > Main
+     QF  Burnel/Casamayor   def.  Bailey/Moody       63
+     QF  Morehart/Viste     def.  Berry/Ball         63
+     QF  Ponomarew/Knott    def.  Day/Thurin         63
+ > NKU vs. Xavier Doubles
+  > Main
+     QF  Burnel/Casamayor   def.  Pennelli/Nakayama  63
+     QF  Berry/Ball         def.  Winters/Macaluso   75
+     QF  Zipoli/Thompson    def.  Ponomarew/Knott    63
+ > IUPUI vs. Xavier Doubles
+  > Main
+     QF  Bailey/Morehart    def.  Nava/Nakayama      63
+     QF  Winters/Mosberger  def.  Sellers/Day        62
+     QF  Reddy/Pennelli     def.  Viste/Thurin       60
+~~~
+
 <a name="21-35169"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════════════
@@ -1214,6 +1298,42 @@
      64     Martinez Biali/Fuzz… def.     Damaso/Kasa          82
      64     Morrell/Weddle       def.     Gerhardt/Petersen    82
      64     Holmes/Benoy         def.     Stene/Tschumper      81
+~~~
+
+<a name="21-76964"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  Junior College Men's and Women's Northern California ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: American River College (M)
+═════════════════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+      F (1) Kim/Martiroian   def. (5) Le/Hom           82
+     SF (1) Kim/Martiroian   def. (3) Nelson/Hall      83
+     SF (5) Le/Hom           def. (2) Sharma/Erwin     85
+     QF (1) Kim/Martiroian   def. (7) Sobrepena/Perdue Walkover
+     QF (3) Nelson/Hall      def. (6) Ard/Bradac       85
+     QF (5) Le/Hom           def.     Hamidi/Temple    84
+     QF (2) Sharma/Erwin     def.     Moley/Wall       85
+     16 (1) Kim/Martiroian   def.     Kassis/Karp      85
+     16 (7) Sobrepena/Perdue def.     Ponce/Grigoryan  80
+     16 (6) Ard/Bradac       def.     Hill/Sharma      85
+     16 (3) Nelson/Hall      def.     McCune/Poling    81
+     16     Hamidi/Temple    def. (4) Sahara/Camarillo 83
+     16 (5) Le/Hom           def.     Zabala/Biery     83
+     16     Moley/Wall       def. (8) Rogers/Rodriguez 80
+     16 (2) Sharma/Erwin     def.     Bilbao/Norgauer  97
+     32     Kassis/Karp      def.     Oseguera/Chen    81
+     32     Ponce/Grigoryan  def.     Vang/Leal        80
+     32     Hill/Sharma      def.     Ward/Jacob       82
+     32     McCune/Poling    def.     Miranda/Murphy   80
+     32     Hamidi/Temple    def.     Ong/Curtin       82
+     32     Zabala/Biery     def.     Hjelm/Macagba    81
+     32 (8) Rogers/Rodriguez def.     Mendoza/Eissayou 97
+     32     Moley/Wall       def.     Vicencio/Mesina  98(4)
+     32     Bilbao/Norgauer  def.     Pullin/Brar      80
 ~~~
 
 <a name="21-84365"></a>

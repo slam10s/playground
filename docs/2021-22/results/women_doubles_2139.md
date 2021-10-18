@@ -7,6 +7,7 @@
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division II Women's Atlantic ITA Regional Championships](#21-02393) ([Results](#21-02393) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillersvilleUniversityW/Tournaments/Overview/AC190190-736B-4838-AE7A-A4CD92F079D3" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
 - 10/1/2021 - [Barb Chandler Classic](#21-63890) ([Results](#21-63890) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityW/Tournaments/Overview/88302122-9593-4E3B-B392-8D6982533991" target="_blank">Draws</a>)  
 - 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
 - 9/27/2021 - [BU Invitational](#21-87840) ([Results](#21-87840) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">Draws</a>)  
@@ -29,12 +30,12 @@
 - 10/1/2021 - [Division III Women's New England ITA Regional Championships](#21-20521) ([Results](#21-20521) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Women's South ITA Regional Championships](#21-21997) ([Results](#21-21997) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SewaneeUOfTheSouthW/Tournaments/Overview/444BCEF3-8673-4922-AB1D-45C355E8DE28" target="_blank">Draws</a>)  
 - 9/30/2021 - [Division III Women's Southwest ITA Regional Championships](#21-36423) ([Results](#21-36423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonW/Tournaments/Overview/39873211-F8A9-40EA-B250-F23B1167F8F3" target="_blank">Draws</a>)  
+- 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Division III Women's Midwest ITA Regional Championships</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Division III Women's Northwest ITA Regional Championships</a>  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Division III Women's Southeast ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/19C5EAFF-4E4C-4DBD-83F9-4FE76D915740" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
@@ -42,7 +43,6 @@
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Junior College Men's and Women's Northern California ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">NAIA Men’s & Women's Midwest ITA Regional Championships</a>  
 
@@ -372,6 +372,159 @@
      16Q     Lopez/Brual          def.     Johns/Weeber         82
 ~~~
 
+<a name="21-82716"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Division III Women's Midwest ITA Regional Championships
+  Dates: Sep 24-27, 2021
+  Host: Univ. Of Wisconsin, Whitewater (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > ITA Doubles
+  > Main
+      F  Bruno/Lee            def.  Henderson/Franta     63 63
+     SF  Bruno/Lee            def.  Riermann/Rott        84
+     SF  Henderson/Franta     def.  Dorr/Walker          85
+     QF  Riermann/Rott        def.  De Los Reyes/Mancha… 81
+     QF  Bruno/Lee            def.  Potockova/Oda        83
+     QF  Henderson/Franta     def.  Tarrolly/Fredericks  83
+     QF  Dorr/Walker          def.  Rosentreter/Hernand… 83
+     16  Riermann/Rott        def.  Budewitz/Samuta      86
+     16  De Los Reyes/Mancha… def.  Trebil/Stutz         86
+     16  Bruno/Lee            def.  Brooks/Nelson        82
+     16  Potockova/Oda        def.  Carew/Murphy         82
+     16  Henderson/Franta     def.  Egge/Forknell        86
+     16  Tarrolly/Fredericks  def.  Day/Rueth            84
+     16  Dorr/Walker          def.  Sackett/Olimpio      86
+     16  Rosentreter/Hernand… def.  Gaedtke/LaBelle      85
+     32  Riermann/Rott        def.  Bigelow/Bigelow      81
+     32  Budewitz/Samuta      def.  Apostoli/Ramsey      87(2)
+     32  De Los Reyes/Mancha… def.  Cook/Smith           85
+     32  Trebil/Stutz         def.  Lindow/Nikoleit      85
+     32  Brooks/Nelson        def.  Steinert/Hierl       87(8)
+     32  Bruno/Lee            def.  Agusti/Marin         81
+     32  Potockova/Oda        def.  Wanek/King           82
+     32  Carew/Murphy         def.  Reynolds/Ulrich      87(4)
+     32  Egge/Forknell        def.  Phillips/Andrae      86
+     32  Henderson/Franta     def.  Jarvis/Perrin        86
+     32  Tarrolly/Fredericks  def.  Fuchs/Verbauwhede    86
+     32  Day/Rueth            def.  Ellison/Sorajja      86
+     32  Sackett/Olimpio      def.  Covek/Koepp          86
+     32  Dorr/Walker          def.  Palen/Fuchs          86
+     32  Rosentreter/Hernand… def.  Kraft/Ha             84
+     32  Gaedtke/LaBelle      def.  Tang/Giannakou       86
+     64  Bigelow/Bigelow      def.  Peterson/Morgan      85
+     64  Budewitz/Samuta      def.  Ostrander/Papp       83
+     64  De Los Reyes/Mancha… def.  Dekan/Presler        81
+     64  Lindow/Nikoleit      def.  Larson/Schirm        80
+     64  Trebil/Stutz         def.  Bailey/Kalinka       84
+     64  Brooks/Nelson        def.  Hastings/Rubbelke    81
+     64  Agusti/Marin         def.  Callaway/Syverson    80
+     64  Wanek/King           def.  Makatsaria/Bell      87(3)
+     64  Carew/Murphy         def.  Schepper/Joly        86
+     64  Egge/Forknell        def.  Metcalf/Larson       82
+     64  Jarvis/Perrin        def.  Maier/Jankila        84
+     64  Fuchs/Verbauwhede    def.  Douglas/Norman       83
+     64  Day/Rueth            def.  da Silva/Manojlovic  83
+     64  Sackett/Olimpio      def.  Riegle/Graf          86
+     64  Covek/Koepp          def.  Bierbaum/Thole       83
+     64  Palen/Fuchs          def.  Johnson/Dosser       80
+     64  Rosentreter/Hernand… def.  Weddle/Orvis         83
+ > Midwest Doubles A
+  > Main
+      F  Haddorff/Elofson     def.  Barretto/Ferguson    87
+     SF  Barretto/Ferguson    def.  Sinnwell/Ono         86
+     SF  Haddorff/Elofson     def.  Merkatoris/Grimes    81
+     QF  Barretto/Ferguson    def.  Guevara/Fuqua        Walkover
+     QF  Sinnwell/Ono         def.  Ellefsen/Valentini   Walkover
+     QF  Haddorff/Elofson     def.  Dodge/Smith          81
+     QF  Merkatoris/Grimes    def.  Shogren/Armstrong    86
+     16  Guevara/Fuqua        def.  Dahl/van Tol         84
+     16  Ellefsen/Valentini   def.  Burkeland/Morgan     86
+     16  Sinnwell/Ono         def.  Manders/Shepherd     82
+     16  Haddorff/Elofson     def.  Vang/Vyskocil        85
+     16  Dodge/Smith          def.  Hoffer/Holmes        83
+     16  Shogren/Armstrong    def.  Hanson/Zurn          82
+     16  Merkatoris/Grimes    def.  Hutchison/Flynn      82
+ > Midwest Doubles B
+  > Main
+      F  Lindrud/Laux         def.  Ramirez Mainou/Mart… 87(7)
+     SF  Lindrud/Laux         def.  Johnson/Moen         80
+     SF  Ramirez Mainou/Mart… def.  Bourget/Girard       87(2)
+     QF  Lindrud/Laux         def.  Grimm/DenHartog      84
+     QF  Johnson/Moen         def.  Munster/Chait        86
+     QF  Bourget/Girard       def.  Wright/Tranquilino   83
+     QF  Ramirez Mainou/Mart… def.  Haskell/Schmidt      83
+     16  Grimm/DenHartog      def.  Lapray/Pinto         83
+     16  Johnson/Moen         def.  Coopmans/Tweet       85
+     16  Munster/Chait        def.  Hu/Knigge            83
+     16  Bourget/Girard       def.  Han/Barker           84
+     16  Wright/Tranquilino   def.  Buswell/Wentland     82
+     16  Haskell/Schmidt      def.  Owa/Olson            84
+ > Midwest Doubles C
+  > Main
+      F  Lassen/Carter-Johns… def.  Geske/Magnani        86
+     SF  Lassen/Carter-Johns… def.  Martin/Kalra         85
+     SF  Geske/Magnani        def.  Carlson/Enright      85
+     QF  Martin/Kalra         def.  Schurmann/Peterson   87(3)
+     QF  Lassen/Carter-Johns… def.  Witt/Nicholson       85
+     QF  Geske/Magnani        def.  Hopkins/Mcalpine     83
+     QF  Carlson/Enright      def.  Kaiser/LaDuke        83
+     16  Schurmann/Peterson   def.  Costa/O Donnell      84
+     16  Lassen/Carter-Johns… def.  Hacker/Savageau      84
+     16  Witt/Nicholson       def.  Belschner/Kuecker    80
+     16  Geske/Magnani        def.  Pearson/Werning      83
+     16  Hopkins/Mcalpine     def.  Boomgaarden/Hand     83
+     16  Kaiser/LaDuke        def.  Jarchow/Swigart      81
+     16  Carlson/Enright      def.  Smith/Sturm          85
+ > Midwest Doubles D
+  > Main
+      F  Carlson/Karrow       def.  Skorich/Borchard     85
+     SF  Skorich/Borchard     def.  Voss/Legel           82
+     SF  Carlson/Karrow       def.  Dunning/Nolan        84
+     QF  Voss/Legel           def.  Kearney/Kleinke      86
+     QF  Skorich/Borchard     def.  Leithold/Leithold    86
+     QF  Dunning/Nolan        def.  Marquardt/Baumgarn   83
+     QF  Carlson/Karrow       def.  Jacobs/Nissen        85
+     16  Voss/Legel           def.  Sundermann/Bilkey    85
+     16  Skorich/Borchard     def.  Frerking/Kunze       86
+     16  Leithold/Leithold    def.  Fanciullo/Borchard   83
+     16  Dunning/Nolan        def.  Hubbard/Helmer       83
+     16  Jacobs/Nissen        def.  Miller/Robinson      83
+ > Consolation ITA Doubles
+  > Main
+      F  Kraft/Ha             def.  Hierl/Kalinka        80
+     SF  Kraft/Ha             def.  Frye/Morgan          82
+     SF  Hierl/Kalinka        def.  Riegle/Graf          84
+     QF  Kraft/Ha             def.  Knigge/Kleinke       80
+     QF  Frye/Morgan          def.  Dodge/Smith          87(3)
+     QF  Riegle/Graf          def.  Schepper/Joly        86
+     QF  Hierl/Kalinka        def.  Robinson/Shogren     80
+     16  Kraft/Ha             def.  Guevara/Fuqua        84
+     16  Knigge/Kleinke       def.  Johnson/Dosser       85
+     16  Frye/Morgan          def.  Vang/Vyskocil        87(3)
+     16  Dodge/Smith          def.  Olson/Callaway       83
+     16  Schepper/Joly        def.  Covek/Leithold       81
+     16  Riegle/Graf          def.  King/Tranquilino     86
+     16  Robinson/Shogren     def.  Syverson/Hanson      87(2)
+     16  Hierl/Kalinka        def.  Jacobs/Nissen        81
+     32  Guevara/Fuqua        def.  Coopmans/Tweet       86
+     32  Johnson/Dosser       def.  Swigart/Marquardt    82
+     32  Knigge/Kleinke       def.  Wright/Kinghorn      85
+     32  Vang/Vyskocil        def.  Owa/Zurn             83
+     32  Frye/Morgan          def.  Hacker/Westrum       84
+     32  Dodge/Smith          def.  Burkeland/Morgan     82
+     32  Olson/Callaway       def.  Shepherd/Belschner   84
+     32  Covek/Leithold       def.  Witt/Nicholson       85
+     32  Schepper/Joly        def.  Lapray/Bilkey        81
+     32  Riegle/Graf          def.  Pearson/Werning      81
+     32  King/Tranquilino     def.  Hutchison/Flynn      85
+     32  Syverson/Hanson      def.  Kuecker/Burgmeier    83
+     32  Robinson/Shogren     def.  Hoffer/Becker        84
+     32  Jacobs/Nissen        def.  Weddle/Orvis         84
+     32  Hierl/Kalinka        def.  Grimm/DenHartog      82
+~~~
+
 <a name="21-63890"></a>
 ~~~
 ════════════════════════════════════════════════════════════════
@@ -545,13 +698,13 @@
      QF (2) Miletic/Velcea       def.     Mjos/Yaylali         63
      16     Colmenares/Retortil… def.     Matthews/Sommer      64
      16     Garriguez/Timmermans def.     Menten/Hammoud       62
-     16     Norin/Ossa           def.     Kentish/Thomas       61
+     16     Norin/Ossa           def.     Kentish/Smith        61
      16     Nash/Oliveira        def.     Salinas/Sumaia       62
      16     Mjos/Yaylali         def.     Pasini/Rizk          61
   > West
      SF     Matthews/Sommer      def.     Menten/Hammoud       61
-     SF     Pasini/Rizk          def.     Kentish/Thomas       63
-     QF     Kentish/Thomas       def.     Salinas/Sumaia       60
+     SF     Pasini/Rizk          def.     Kentish/Smith        63
+     QF     Kentish/Smith        def.     Salinas/Sumaia       60
   > North
      SF (1) Long/Lodzki          def.     Garriguez/Timmermans 62
      SF     Nash/Oliveira        def.     Mjos/Yaylali         61
@@ -1442,11 +1595,17 @@
       32     Vincent/Laidman      def.     Massey/Un            80
   > Consolation
       SF (3) Sherman/Doherty      def.     Forster/Merletti     86
+      SF     McHale/Letourneau    def.     Massey/Un            80
       QF     Forster/Merletti     def.     Moody/Gish           84
       QF (3) Sherman/Doherty      def.     Adan-Pol/Lemasters   84
+      QF     McHale/Letourneau    def.     Clayton/Brown        86
+      QF     Massey/Un            def.     Trinh/Lancaster      Walkover
      16Q     Forster/Merletti     def.     Lawrence/Kidd        86
      16Q     Adan-Pol/Lemasters   def.     Mills/Lwin           81
      16Q (3) Sherman/Doherty      def.     Everhart/Fremaux     82
+     16Q     McHale/Letourneau    def.     Dattilo/Alleyne      85
+     16Q     Clayton/Brown        def.     Laney/Lewis          84
+     16Q     Trinh/Lancaster      def.     Turley/Stewart       86
 ~~~
 
 <a name="21-36423"></a>
@@ -1490,6 +1649,31 @@
      32     Miller/Hughes     def.     Davila/Reynolds      82
      32     Despriet/Synoski  def.     Rodriquez/Drought- … 80
      32 (2) Wong/Ducret       def.     Smith/Turner         81
+~~~
+
+<a name="21-76964"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  Junior College Men's and Women's Northern California ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: American River College (M)
+═════════════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F (1) Vossen/Proktor     def. (3) VanOrman/Montaruli 50 Ret.
+     SF (1) Vossen/Proktor     def. (4) Boliscar/Branch    86
+     SF (3) VanOrman/Montaruli def. (2) Greenwell/Mazzola  83
+     QF (1) Vossen/Proktor     def.     Aguilar/McShane    81
+     QF (4) Boliscar/Branch    def.     Crismon/Crismon    81
+     QF (3) VanOrman/Montaruli def.     Espino/Gregory     82
+     QF (2) Greenwell/Mazzola  def.     White/Rennoult     82
+     16     Aguilar/McShane    def.     Fleming/Mestre     81
+     16     Crismon/Crismon    def.     Pearson/Laursen    82
+     16 (4) Boliscar/Branch    def.     Cowan/Jacobs       82
+     16 (3) VanOrman/Montaruli def.     White/Barry        81
+     16     Espino/Gregory     def.     Sackx/Hu           85
+     16     White/Rennoult     def.     Reade/Lee          83
 ~~~
 
 <a name="21-84365"></a>
