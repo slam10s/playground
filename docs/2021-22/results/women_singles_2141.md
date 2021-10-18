@@ -205,6 +205,7 @@
  Women's Open Singles
  > Main Draw
   > Main
+      F (16) Mell Reasco         def. (12) Petra Hule          61 75
      SF (12) Petra Hule          def.  (9) Evgeniya Levashova  46 64 60
      SF (16) Mell Reasco         def. (15) Ania Hertel         62 62
      QF  (9) Evgeniya Levashova  def.  (1) Meg Kowalski        64 57 61
@@ -295,6 +296,7 @@
  Women's Open Singles
  > Main
   > Main
+     SF  (4) Tiphanie Fiquet      def.  (1) Emmanouela Antonaki  75 26 60
      QF  (1) Emmanouela Antonaki  def. (10) Ena Babic            63 36 61
      QF  (4) Tiphanie Fiquet      def.      Reka Zadori          63 62
      QF  (5) Safiya Carrington    def. (16) Tamara Racine        64 75
@@ -385,6 +387,49 @@
      64      Ansley Cheshire      def.      Matilde Mulatero     63 46 [4]
      64      Ayu Ishibashi        def.      Yukina Abe           60 60
      64      Ariane Monlleo Sanc… def.      Maddie McKee         64 36 [5]
+ > Consolation - Saturday
+  > Main
+     64      Ana Rodrigues        def.      Sofia Zaprianov      60 46 [8]
+     64      Ally Hayduk          def.      Brooke Theis         61 46 [4]
+     64      Olivia Jablonski     def.      Jimena Garbino       75 76(2)
+     64      Kasia Pitak          def.      Otoha Aoki           76(3) 64
+     64      Madalina Grigoriu    def.      Lindsay Song         64 63
+     64      Olga Bienzobas       def.      Olivia Elliott       62 76(6)
+     64      Andrea Widing        def.      Giovanna Pereira     63 75
+     64      Dariana Prato        def.      Kristina Kukaras     64 62
+     64      Anastasiia Khokhlova def.      Ariane Monlleo Sanc… 57 62 [4]
+     64      Brianna Gomez        def.      Lily Walther         62 62
+     64      Carolina Bulatovic   def.      Oleksandra Balaba    26 62 [4]
+     64      Charlotte Russell    def.      Romane Mosse         75 26 [2]
+     64      Ella Tuomela         def.      Enya Ratkic          63 76(6)
+     64      Leonie Schuknecht    def.      Viktorie Wojcikova   67(6) 61 [6]
+     64      Anaelle Leclerq-Fic… def.      Yu Chen              76(4) 76(5)
+     64      Jiayun Zhu           def.      Daniela Hernandez    46 75 [11]
+     64      Thitirat Kanaphuet   def.      Shaye Longwell       63 61
+     64      Kelsey Mize          def.      Anastasia Astakhova  36 63 [3]
+     64      Lillian Gabrielsen   def.      Tjasa Klevisar       36 63 [9]
+     64      Ayu Ishibashi        def.      Yurie Taknishi       63 46 [7]
+     64      Luminita Tutunaru    def.      Kristen Borland      64 46 [8]
+     64      Rachel Krzyzak       def.      Tanisha Kashyap      62 63
+     64      Adela Wasserbauerova def.      Madeline Meredith    76(4) 36 [7]
+ > Consolation- Sunday
+  > Main
+     64      Madeline Meredith    def.      Kristen Borland      61 64
+     64      Rachel Krzyzak       def.      Mackenzie Clark      63 64
+     64      Alexandra Mikhailuk  def.      Lillian Gabrielsen   62 64
+     64      Charlotte Russell    def.      Anastasiia Khokhlova 06 64 61
+     64      Anaelle Leclerq-Fic… def.      Kasia Pitak          76(4) 60
+     64      Alexandra Ferreira … def.      Olivia Elliott       63 62
+     64      Elysia Pool          def.      Anastasia Astakhova  63 64
+     64      Lily Walther         def.      Enya Ratkic          57 64 [2]
+     64      Ola Pitak            def.      Kelsey Mize          36 75 [5]
+     64      Adela Wasserbauerova def.      Marta Falceto        26 75 [7]
+     64      Jiayun Zhu           def.      Ansley Cheshire      61 62
+     64      Brooke Theis         def.      Shaye Longwell       76(2) 61
+     64      Yu Chen              def.      Nina Geissler        64 64
+ > Consolation - Saturday 2
+  > Main
+     64      Delien Klienhans     def.      Olivia Elliott       62 60
  > Qualifier
   > Main
      16      Mariella Minetti     def.      Ana Rodrigues        61 63
@@ -495,7 +540,7 @@
      32Q      Elena Trencheva      def.      Emma Honore          46 75 [6]
  > Women's Main Draw
   > Main
-       F  (9) Alicia Herrero Lina…  vs   (5) Kylie Collns         Mon @ 09:00
+       F  (5) Kylie Collns         def.  (9) Alicia Herrero Lina… 64 64
       SF  (9) Alicia Herrero Lina… def. (14) Malaika Rapolu       63 75
       SF  (5) Kylie Collns         def.  (2) Melany Krywoj        62 62
       QF  (9) Alicia Herrero Lina… def.  (1) Tatiana Makarova     64 26 [4]

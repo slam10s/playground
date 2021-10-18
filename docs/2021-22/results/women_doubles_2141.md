@@ -134,6 +134,7 @@
  Women's Open Doubles
  > Main Draw 1
   > Main
+       F (2) Gulihur/Melilo       def. (7) Briggs/Zein          75 26 [5]
       SF (7) Briggs/Zein          def.     Dudeney/Berlin       62 63
       SF (2) Gulihur/Melilo       def. (3) Coppoc/Reasco        62 64
       QF (7) Briggs/Zein          def.     Khodan/Tahan         84
@@ -192,8 +193,9 @@
  Women's Open Doubles
  > Main
   > Main
-     SF      Kohoutova/Tutunaru    vs       Mize/Kareisova       Mon @ 09:00
-     SF      Hiser/Bencheikh       vs   (2) Antonaki/Racine      Mon @ 09:00
+      F      Mize/Kareisova        vs       Hiser/Bencheikh      Tue @ 09:00
+     SF      Mize/Kareisova       def.      Kohoutova/Tutunaru   64 26 [5]
+     SF      Hiser/Bencheikh      def.  (2) Antonaki/Racine      36 75 [8]
      QF      Kohoutova/Tutunaru   def.  (7) Leclerq-Ficher/Pool  86
      QF      Mize/Kareisova       def.      Parkhomenko/Sedlack… 84
      QF      Hiser/Bencheikh      def.  (8) Cubitt/Carrington    86
@@ -247,6 +249,14 @@
      64      Ansari/Astakhova     def.      Bulatovic/Mosse      84
      64      Walther/Theis        def.      Smith/Ratkic         83
      64      Fujioka/Klienhans    def.      Tuomela/Jones        81
+ > Consolation - Sunday
+  > Main
+     64      Bridges/Geissler     def.      Fujioka/Klienhans    81
+     64      Pitak/Pitak          def.      Elliott/Ncube        83
+     64      Ansari/Astakhova     def.      Zhu/Borland          83
+     64      Meredith/Arseneault  def.      Aoki/van der Merwe   87(4)
+     64      Ferreira da Silva/R… def.      Walther/Theis        81
+     64      Khokhlova/Widing     def.      Taknishi/Pasanen     86
 ~~~
 
 <a name="21-76092"></a>
@@ -259,8 +269,9 @@
  Women's Open Doubles
  > Draw
   > Main
-     SF  (1) Makarova/Goldsmith    vs   (5) Chavatipon/Collns    Mon @ 09:00
-     SF      Adams/Devier          vs   (2) Herrero Linana/Kryw… Mon @ 09:00
+      F  (1) Makarova/Goldsmith    vs   (2) Herrero Linana/Kryw… Mon @ 14:00
+     SF  (1) Makarova/Goldsmith   def.  (5) Chavatipon/Collns    76(3) 64
+     SF  (2) Herrero Linana/Kryw… def.      Adams/Devier         62 62
      QF  (1) Makarova/Goldsmith   def.  (7) Keberle/Bartolome    86
      QF  (5) Chavatipon/Collns    def. (14) Orav/Smirnova        80
      QF      Adams/Devier         def. (10) Baranano/Zamburek    85
