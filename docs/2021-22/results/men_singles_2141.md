@@ -563,10 +563,10 @@
  Men's Open Singles
  > Singles Main
   > Main
-     QF (16) Juan Carlos Aguilar   vs   (9) Noah Schachter       Sun @ 13:00
-     QF  (4) Alexander Jong        vs   (5) Micah Braswell       Sun @ 13:00
+     QF (16) Juan Carlos Aguilar  def.  (9) Noah Schachter       61 26 76(5)
+     QF  (5) Micah Braswell       def.  (4) Alexander Jong       64 75
      QF  (3) Luc Fomba            def.      Raphael Perot        62 64
-     QF  (7) Sven Lah              vs   (2) Pedro Vives Marcos   Sun @ 13:00
+     QF  (7) Sven Lah             def.  (2) Pedro Vives Marcos   36 62 64
      16 (16) Juan Carlos Aguilar  def.  (1) Adrian Boitan        64 64
      16  (9) Noah Schachter       def.  (8) Richard Ciamarra     76(4) 62
      16  (4) Alexander Jong       def.      Adam Neff            61 75
@@ -707,6 +707,7 @@
  Men's Open Singles
  > Draw A
   > East
+      F  Michael Andre        def.  Yasha Zemel          63 75
      SF  Yasha Zemel          def.  Pawit Sornlaksup     16 62 63
      SF  Michael Andre        def.  Josh Howard-Tripp    76(6) Ret.
      QF  Yasha Zemel          def.  Luka Vukovic         76(7) 61
@@ -733,6 +734,7 @@
      SF  Rohan Sachdev        def.  Marko Galic          46 63 [7]
  > Draw B
   > East
+      F  Ilya Tiraspolsky     def.  Tomasz Dudek         60 46 61
      SF  Tomasz Dudek         def.  Jonathan Sorbo       61 63
      SF  Ilya Tiraspolsky     def.  Alex Wesbrooks       62 63
      QF  Jonathan Sorbo       def.  Julen Morgan         61 Ret.
@@ -748,6 +750,7 @@
      16  Alexandre LeBlanc    def.  Adam Kovac           62 36 [7]
      16  Alex Wesbrooks       def.  Jagger Saylor        62 61
   > West
+      F  Vikash Singh         def.  Adam Kovac           62 64
      SF  Vikash Singh         def.  Cole Shoults         63 61
      SF  Adam Kovac           def.  Paul Reynolds        61 63
      QF  Cole Shoults         def.  Jack Batchelor       62 64
@@ -755,11 +758,16 @@
      QF  Paul Reynolds        def.  Milledge Cossu       64 Ret.
      QF  Adam Kovac           def.  Jagger Saylor        76 61
   > North
+      F  David Mizrahi        def.  Alexandre LeBlanc    63 67(4) [6]
      SF  David Mizrahi        def.  Julen Morgan         Walkover
      SF  Alexandre LeBlanc    def.  Francisco Lamas      75 62
+  > 3-4 Playoff
+      F  Alex Wesbrooks       def.  Jonathan Sorbo       26 64 [9]
   > South
      SF  Simeon Kostov        def.  Jagger Saylor        67(6) 62 [7]
      SF  Jack Batchelor       def.  Milledge Cossu       Walkover
+  > Southwest
+      F  Paul Reynolds        def.  Cole Shoults         60 75
  > Draw C
   > East
      QF  Michal Wozniak       def.  Mac Rogers           62 61
@@ -774,12 +782,14 @@
      SF  Emil Berglund        def.  Vlad Meluta          62 57 [7]
      SF  Juan Lombisano       def.  Michael Staff        64 64
   > North
+      F  Nishanth Basavareddy def.  Xavier Ecarma        64 60
      SF  Xavier Ecarma        def.  Mac Rogers           64 61
      SF  Nishanth Basavareddy def.  Andre Suzanne        75 61
   > Southwest
       F  Michael Staff        def.  Vlad Meluta          64 75
  > Draw C (Alternate)
   > Main
+      F  Sebastian Welch      def.  Kyle Tang            61 75
      SF  Sebastian Welch      def.  Wojciech Szczesny    64 46 64
      SF  Kyle Tang            def.  Michal Wozniak       61 61
 ~~~

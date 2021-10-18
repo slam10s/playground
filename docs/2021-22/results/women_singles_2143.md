@@ -29,6 +29,8 @@
  Women's Open Singles
  > Main Draw
   > Main
+     SF (12) Petra Hule          def.  (9) Evgeniya Levashova  46 64 60
+     SF (16) Mell Reasco         def. (15) Ania Hertel         62 62
      QF  (9) Evgeniya Levashova  def.  (1) Meg Kowalski        64 57 61
      QF (12) Petra Hule          def.      Marie Mattel        64 67(3) 75
      QF (16) Mell Reasco         def.      Catherine Gulihur   Walkover

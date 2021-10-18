@@ -2,6 +2,8 @@
 
 **Tournamets with Matches**  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
+- 10/16/2021 - [Brown Classic](#21-58015) ([Results](#21-58015) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Women's Northeast Regional Championship](#21-91243) ([Results](#21-91243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
@@ -11,10 +13,8 @@
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Brown Classic</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">ITA Division I Women's Mountain Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/B1C9ACB5-0D08-48E0-980C-75F2F818B28F" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Viking Invitational</a>  
 
 <a name="21-27941"></a>
@@ -51,6 +51,77 @@
      SF     Bryant/Bazilevych    def.     Triska/Reichert      60
   > 3-4 Playoff
       F     McKay/Vlasova        def.     Khan/Langaas         63
+~~~
+
+<a name="21-58015"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Brown Classic
+  Dates: Oct 16-17, 2021
+  Host: Brown University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Round A
+  > Main
+     32  Peus/Benedetto       def.  Brogan/Fisher        64
+     32  Mariotti/Dellacono   def.  Gould/Floyd          64
+     32  Di Battista/Carlsten def.  Higuchi/Cvackova     61
+     32  Yaloz/Sharma         def.  Campanella/Nelander  64
+     32  Nguyen/Kostirko      def.  Chratian/Chratian    62
+     32  Napadiy/Farima       def.  Cheng/Kim            64
+     32  Okuyama/Cannon       def.  Wang/Gillinov        63
+     32  Weber/Fahrmeier      def.  Bou/Hoppe            63
+     32  Karamyshev/Petri-Be… def.  Dewire/Peng          64
+     32  Jupalli/Swaffer-Sel… def.  Lai/Cook             63
+ > Round B
+  > Main
+     32  Newman/Benedetto     def.  Di Battista/Carlsten 62
+     32  Mariotti/Dellacono   def.  Nguyen/Kostirko      64
+     32  Yaloz/Kim            def.  Peus/Williams        60
+     32  Brogan/Steffen       def.  Campanella/Nelander  63
+     32  Chratian/Chratian    def.  Floyd/Fisher         64
+     32  Weber/Fahrmeier      def.  Cheng/Kim            64
+     32  Wang/Lou             def.  Dewire/Peng          62
+     32  Takunyaci/Lai        def.  Swaffer-Selff/Peng   75
+     32  Cannon/Farima        def.  Bou/Hoppe            63
+     32  Okuyama/Krasakova    def.  Karamyshev/Petri-Be… 63
+ > round C
+  > Main
+     32  Cheng/Kim            def.  Yaloz/Kim            75
+     32  Wang/Lou             def.  Di Battista/Sharma   64
+     32  Bou/Hoppe            def.  Brogan/Fisher        64
+     32  Karamyshev/Petri-Be… def.  Gould/Steffen        60
+     32  Napadiy/Farima       def.  Campanella/Nelander  63
+     32  Cannon/Krasakova     def.  Loredo/Rajan         61
+     32  Weber/Fahrmeier      def.  Lau/Peus             64
+     32  Benedetto/Ahlstrom   def.  Dewire/Peng          62
+     32  Mariotti/Dellacono   def.  Jupalli/Swaffer-Sel… 64
+~~~
+
+<a name="21-91243"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  ITA Division I Women's Northeast Regional Championship
+  Dates: Oct 14-17, 2021
+  Host: Princeton University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+     SF  Frayman/Joyce     def.  Curnic/Bryzgalova    61 62
+     SF  Kung/Gong         def.  Rutlauka/Chan        62 64
+     QF  Curnic/Bryzgalova def.  Duncan/Daujotaite    36 62 [6]
+     QF  Frayman/Joyce     def.  Adiaconitei/Stein    62 63
+     QF  Kung/Gong         def.  Jackson/Herremans    76(5) 64
+     QF  Rutlauka/Chan     def.  Wei/Kulhava          62 64
+     16  Curnic/Bryzgalova def.  Rondini/Munson       63 63
+     16  Duncan/Daujotaite def.  Schwarz/Antoniou-Ka… 62 63
+     16  Frayman/Joyce     def.  de Lucas/Nielsen     60 62
+     16  Adiaconitei/Stein def.  Shrivistava/Dunleavy 75 57 [5]
+     16  Kung/Gong         def.  Jonglertakul/Hack    62 57 [8]
+     16  Jackson/Herremans def.  Shvets/Rodilosso     16 76(5) [3]
+     16  Wei/Kulhava       def.  Ito/Kimoto           62 64
+     16  Rutlauka/Chan     def.  Aguiar/Lopez         36 75 [9]
 ~~~
 
 <a name="21-46458"></a>

@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
+- 10/16/2021 - [Brown Classic](#21-58015) ([Results](#21-58015) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Northeast Regional Championship](#21-91243) ([Results](#21-91243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
@@ -12,7 +13,6 @@
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Brown Classic</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">ITA Division I Women's Mountain Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/B1C9ACB5-0D08-48E0-980C-75F2F818B28F" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Viking Invitational</a>  
@@ -79,6 +79,84 @@
      SF  Karyna Bazilevych    def.  Julia Triska         61 60
 ~~~
 
+<a name="21-58015"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  Brown Classic
+  Dates: Oct 16-17, 2021
+  Host: Brown University (W)
+══════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Round A
+  > Main
+     64  Emma Brogan          def.  Ryan Peus            53 42
+     64  Caitlin Fisher       def.  Alexandra Benedetto  45(4) 42 [8]
+     64  Olivia Mariotti      def.  Isabella Steffen     41 54(4)
+     64  Gabriella Dellacono  def.  Taylor Gould         42 40
+     64  Selena Williams      def.  Chloe Floyd          14 53 [1]
+     64  Valentina Cvackova   def.  Victoria Carlsten    54(5) 14 [8]
+     64  Erica Di Battista    def.  Nadia Rajan          42 24 [6]
+     64  Emily Kim            def.  Erin Chratian        41 40
+     64  Shelly Yaloz         def.  Tiara Higuchi        42 42
+     64  Sydney Chratian      def.  Stephanie Nguyen     14 42 [7]
+     64  Sydney Sharma        def.  Paulina Loredo       40 40
+     64  Vivian Cheng         def.  Renata Farima        42 14 [8]
+     64  Anna Napadiy         def.  Jamie Kim            53 14 [8]
+     64  Raissa Lou           def.  Mariya Krasakova     41 41
+     64  Kathy Wang           def.  Vitoria Okuyama      14 42 [7]
+     64  Nicole Gillinov      def.  Dylan Cannon         14 42 [8]
+     64  Katie Weber          def.  Julieanne Bou        54(6) 40
+     64  Leonie Hoppe         def.  Elizabeth Fahrmeier  04 42 [2]
+     64  Lexi Dewire          def.  Aleksandra Karamysh… 54(2) 54(3)
+     64  Isabel Petri-Bere    def.  Jingyi Peng          41 42
+     64  Denise Lai           def.  Ameliija Swaffer-Se… 42 45(3) [11]
+     64  Ujvala Jupalli       def.  Selen Takunyaci      42 41
+ > Round B
+  > Main
+     64  Alexandra Benedetto  def.  Victoria Carlsten    42 14 [8]
+     64  Erica Di Battista    def.  Ryan Peus            54(4) 53
+     64  Emily Kim            def.  Olivia Mariotti      24 41 [8]
+     64  Shelly Yaloz         def.  Gabriella Dellacono  41 40
+     64  Addison Ahlstrom     def.  Sofia Kostirko       40 41
+     64  Sydney Sharma        def.  Selena Williams      40 40
+     64  Emma Brogan          def.  Nadia Rajan          04 53 [4]
+     64  Caitlin Fisher       def.  Valentina Cvackova   24 41 [4]
+     64  Tiara Higuchi        def.  Isabella Steffen     40 53
+     64  Paulina Loredo       def.  Taylor Gould         41 53
+     64  Katie Weber          def.  Vivian Cheng         42 40
+     64  Lexi Dewire          def.  Jamie Kim            40 Ret.
+     64  Raissa Lou           def.  Ujvala Jupalli       04 42 [5]
+     64  Kathy Wang           def.  Elizabeth Fahrmeier  41 40
+     64  Nicole Gillinov      def.  Jingyi Peng          41 42
+     64  Ameliija Swaffer-Se… def.  Selen Takunyaci      53 42
+     64  Anna Napadiy         def.  Julieanne Bou        42 41
+     64  Leonie Hoppe         def.  Renata Farima        40 14 [6]
+     64  Vitoria Okuyama      def.  Aleksandra Karamysh… 42 41
+     64  Isabel Petri-Bere    def.  Dylan Cannon         42 14 [5]
+     64  Mariya Krasakova     def.  Denise Lai           40 42
+ > Round C
+  > Main
+     64  Erica Di Battista    def.  Vivian Cheng         61 63
+     64  Raissa Lou           def.  Victoria Carlsten    76(5) 67(5) [8]
+     64  Kathy Wang           def.  Emily Kim            63 64
+     64  Sydney Sharma        def.  Nicole Gillinov      63 46 [5]
+     64  Valentina Cvackova   def.  Mariya Krasakova     61 64
+     64  Nadia Rajan          def.  Dylan Cannon         36 64 [6]
+     64  Renata Farima        def.  Erin Chratian        63 46 [5]
+     64  Anna Napadiy         def.  Tiara Higuchi        63 75
+     64  Sydney Chratian      def.  Vitoria Okuyama      26 64 [7]
+     64  Katie Weber          def.  Alexandra Benedetto  63 26 [4]
+     64  Lexi Dewire          def.  Ryan Peus            63 64
+     64  Elizabeth Fahrmeier  def.  Olivia Mariotti      64 26 [9]
+     64  Addison Ahlstrom     def.  Ameliija Swaffer-Se… 62 61
+     64  Gabriella Dellacono  def.  Ujvala Jupalli       62 63
+     64  Jingyi Peng          def.  Selena Williams      63 62
+     64  Emma Brogan          def.  Julieanne Bou        61 61
+     64  Leonie Hoppe         def.  Caitlin Fisher       85
+     64  Aleksandra Karamysh… def.  Isabella Steffen     61 64
+     64  Denise Lai           def.  Chloe Floyd          75 63
+~~~
+
 <a name="21-91243"></a>
 ~~~
 ═════════════════════════════════════════════════════════════════════════
@@ -89,29 +167,32 @@
  Women's Open Singles
  > Round of 32
   > Main
-     QF  Victoria Hu          def.  Sabine Rutlauka   62 46 64
-     QF  Daria Frayman        def.  Chelsea Kung      64 75
-     16  Victoria Hu          def.  Kaitlin Tan       76(2) 61
-     16  Sabine Rutlauka      def.  Sasha Wood        36 63 61
-     16  Jessie Gong          def.  Lorie Lemongo     63 75
-     16  Brianna Shvets       def.  Lan Mi            75 62
-     16  Chelsea Kung         def.  Maxi Duncan       64 36 63
-     16  Daria Frayman        def.  Mouna Bouzgarrou  61 64
-     32  Victoria Hu          def.  Iveta Daujotaite  63 63
-     32  Kaitlin Tan          def.  Natasha Irani     62 63
-     32  Sabine Rutlauka      def.  Michelle Sorokko  75 61
-     32  Sasha Wood           def.  Caroline Dunleavy 76(2) 76(2)
-     32  Viktoryia Kanapatsk… def.  Rachel Arbitman   46 75 62
-     32  Neha Velaga          def.  Polina Akimova    63 61
-     32  Lorie Lemongo        def.  Zoe Howard        16 64 64
-     32  Jessie Gong          def.  Grace Joyce       63 36 63
-     32  Lan Mi               def.  Holly Fischer     61 62
-     32  Brianna Shvets       def.  Akanksha Bhan     64 36 62
-     32  Maia Sung            def.  Shiori Ito        75 63
-     32  Maxi Duncan          def.  Stephanie Schrage 61 62
-     32  Chelsea Kung         def.  Maria Aguiar      76(3) 64
-     32  Mouna Bouzgarrou     def.  Britany Lau       75 36 63
-     32  Daria Frayman        def.  Jennifer Kerr     62 60
+     SF  Victoria Hu          def.  Viktoryia Kanapatsk… 62 61
+     QF  Victoria Hu          def.  Sabine Rutlauka      62 46 64
+     QF  Viktoryia Kanapatsk… def.  Jessie Gong          75 61
+     QF  Daria Frayman        def.  Chelsea Kung         64 75
+     16  Victoria Hu          def.  Kaitlin Tan          76(2) 61
+     16  Sabine Rutlauka      def.  Sasha Wood           36 63 61
+     16  Viktoryia Kanapatsk… def.  Neha Velaga          16 76(5) 76(5)
+     16  Jessie Gong          def.  Lorie Lemongo        63 75
+     16  Brianna Shvets       def.  Lan Mi               75 62
+     16  Chelsea Kung         def.  Maxi Duncan          64 36 63
+     16  Daria Frayman        def.  Mouna Bouzgarrou     61 64
+     32  Victoria Hu          def.  Iveta Daujotaite     63 63
+     32  Kaitlin Tan          def.  Natasha Irani        62 63
+     32  Sabine Rutlauka      def.  Michelle Sorokko     75 61
+     32  Sasha Wood           def.  Caroline Dunleavy    76(2) 76(2)
+     32  Viktoryia Kanapatsk… def.  Rachel Arbitman      46 75 62
+     32  Neha Velaga          def.  Polina Akimova       63 61
+     32  Lorie Lemongo        def.  Zoe Howard           16 64 64
+     32  Jessie Gong          def.  Grace Joyce          63 36 63
+     32  Lan Mi               def.  Holly Fischer        61 62
+     32  Brianna Shvets       def.  Akanksha Bhan        64 36 62
+     32  Maia Sung            def.  Shiori Ito           75 63
+     32  Maxi Duncan          def.  Stephanie Schrage    61 62
+     32  Chelsea Kung         def.  Maria Aguiar         76(3) 64
+     32  Mouna Bouzgarrou     def.  Britany Lau          75 36 63
+     32  Daria Frayman        def.  Jennifer Kerr        62 60
 ~~~
 
 <a name="21-46458"></a>
@@ -124,6 +205,8 @@
  Women's Open Singles
  > Main Draw
   > Main
+     SF (12) Petra Hule          def.  (9) Evgeniya Levashova  46 64 60
+     SF (16) Mell Reasco         def. (15) Ania Hertel         62 62
      QF  (9) Evgeniya Levashova  def.  (1) Meg Kowalski        64 57 61
      QF (12) Petra Hule          def.      Marie Mattel        64 67(3) 75
      QF (16) Mell Reasco         def.      Catherine Gulihur   Walkover
@@ -212,10 +295,10 @@
  Women's Open Singles
  > Main
   > Main
-     QF  (1) Emmanouela Antonaki   vs  (10) Ena Babic            Sun @ 14:00
-     QF  (4) Tiphanie Fiquet       vs       Reka Zadori          Sun @ 14:00
-     QF  (5) Safiya Carrington     vs  (16) Tamara Racine        Sun @ 14:00
-     QF  (8) Ariana Arseneault     vs       Petra Sedlackova     Sun @ 14:00
+     QF  (1) Emmanouela Antonaki  def. (10) Ena Babic            63 36 61
+     QF  (4) Tiphanie Fiquet      def.      Reka Zadori          63 62
+     QF  (5) Safiya Carrington    def. (16) Tamara Racine        64 75
+     QF      Petra Sedlackova     def.  (8) Ariana Arseneault    64 63
      16  (1) Emmanouela Antonaki  def.      Adeline Flach        75 75
      16 (10) Ena Babic            def.  (7) Georgie Axon         62 46 76(5)
      16  (4) Tiphanie Fiquet      def. (11) Loudmilla Bencheikh  62 57 61
