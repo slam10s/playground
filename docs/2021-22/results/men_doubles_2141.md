@@ -117,7 +117,7 @@
   Host: U.S. Naval Academy (M)
 ═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
- > Main
+ > Main Draw
   > Main
      QF  Torre Martin/Stable  def.  Allen/Kiefer         82
      QF  Delmas/Gorregues     def.  Charles/Sardana      82
@@ -166,6 +166,24 @@
      64  Sentay/Frisk         def.  Boland/Rotundo       82
      64  Rodriguez-Vidal/Teb… def.  Karnibad/Cronin      82
      64  Kim/Nguyen           def.  Jentoft/Nakaurai     82
+ > Friday Extra Matches
+  > Main
+     16  Karnibad/Cronin      def.  Jentoft/Nakaurai     63
+     16  Dunac/Cadeau         def.  Liu/Ballesteros      63
+     16  Alkhafaji/Pollatos   def.  Pribitkin/Cardano    76(2)
+     16  Stevens/Abriola      def.  Vagner/OBrien        64
+     16  Ha/Postin            def.  Boland/Rotundo       62
+ > Saturday Extra Matches
+  > Main
+     32  Liu/Ballesteros      def.  Boland/Rotundo       63
+     32  Vagner/OBrien        def.  Khromchenko/Fourticq 76(5)
+     32  Stevens/Abriola      def.  Pak/Nguyen           64
+     32  Jones/Robinson       def.  Pumpelly/McLeod      62
+     32  Karnibad/Cronin      def.  Pribitkin/Cardano    76(1)
+     32  Zachiotis/Armstrong  def.  Gates/Cavo           76(3)
+     32  Kim/Nguyen           def.  Kapoor/Haddou        75
+     32  Prokurat/Suarez      def.  Alkhafaji/Pollatos   64
+     32  Kjellberg/Garner     def.  Ha/Postin            75
 ~~~
 
 <a name="21-08423"></a>
@@ -210,6 +228,7 @@
  Men's Open Doubles
  > Doubles
   > Main
+      F (3) Chaudhary/Kopczynski def.     Morgan/Torres     62 62
      SF     Morgan/Torres        def. (7) Keki/Maior        64 16 [8]
      SF (3) Chaudhary/Kopczynski def. (2) Huynh/Ricklis     61 64
      QF     Morgan/Torres        def. (1) Reckow/Watt       67(4) 64 [3]
@@ -268,14 +287,15 @@
 
 <a name="21-59010"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Texas Regional Championship
   Dates: Oct 13-17, 2021
   Host: Texas A&M University (M)
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
+      F (6) Vives Marcos/Maxted  def. (5) Harper/Ciamarra      16 64 [8]
      SF (5) Harper/Ciamarra      def. (1) Aguilar/Fomba        87(5)
      SF (6) Vives Marcos/Maxted  def. (7) Schachter/Abbrat     86
      QF (1) Aguilar/Fomba        def. (8) Valiev/Azoides       85
@@ -531,17 +551,17 @@
       F  Faletto/van den Akk… def.  Thiel/Mensour        62
      SF  Thiel/Mensour        def.  Tajada/Turley        75
      SF  Faletto/van den Akk… def.  Morel/Choi           63
-     QF  Thiel/Mensour        def.  Gil/Freemann         61
+     QF  Thiel/Mensour        def.  Gil/Hartmann         61
      QF  Tajada/Turley        def.  De Oliveira/Menende… 64
      QF  Morel/Choi           def.  Patino Pabon/Safont… 75
      QF  Faletto/van den Akk… def.  Preiswerk/Martinez   60
   > West
-     SF  De Oliveira/Menende… def.  Gil/Freemann         61
+     SF  De Oliveira/Menende… def.  Gil/Hartmann         61
      SF  Preiswerk/Martinez   def.  Patino Pabon/Safont… 62
   > 3-4 Playoff
       F  Morel/Choi           def.  Tajada/Turley        62
   > South
-      F  Patino Pabon/Safont… def.  Gil/Freemann         75
+      F  Patino Pabon/Safont… def.  Gil/Hartmann         75
  > Flight B
   > East
       F  Bacella/Iriarte      def.  Gandara/Vieira       60

@@ -16,5 +16,6 @@
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Eagle Invitational</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">GSC Fall Individual Tournament</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">MSU Invitational</a>  
+- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">YTF Southeastern Invitational</a>  
 
 Return to the [Top](./men_doubles_2142.md) &#124; [Home Page](../../index.md)

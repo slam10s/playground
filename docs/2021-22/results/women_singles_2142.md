@@ -5,6 +5,9 @@
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
 
+**Tournaments without Matches**  
+- 10/19/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Butler Tournament</a>  
+
 **Upcoming Tournaments**  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityW/Tournaments/Overview/61F146C9-753C-4458-9E95-EE269C0BB692" target="_blank">ITA Division I Carolina Women's Regional Championship</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/03D2591A-B4EA-40D0-84EE-FA366640953F" target="_blank">ITA Division I Women's Atlantic Regional Championship</a>  
@@ -14,11 +17,13 @@
 - 10/20/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">ITA Division I Women's Ohio Valley Regional Championship</a>  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">ITA Division I Women's Southwest Regional Championship</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaW/Tournaments/Overview/01A4B27D-4D73-4167-8630-758894B435E5" target="_blank">The Georgia Invitational</a>  
+- 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship</a>  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Crusader Invitational</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Eagle Invitational</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">GSC Fall Individual Tournament</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">MSU Invitational</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/4E66DF95-8991-4880-9830-29E9F5B3C53F" target="_blank">Saint Leo Hidden Duals - Women</a>  
+- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">YTF Southeastern Invitational</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -93,6 +98,39 @@
      64      Nandini Sharma      def.      Ida Ferding         62 26 62
      64      Yasmine Kabbaj      def.      Anna Arkadianou     62 63
      64  (2) Isabella Pfennig    def.      Rosie Garcia Gross  61 60
+ > Consolation
+  > Main
+      F      Guillermina Grant   def.      Mai Nirundorn       60 63
+     SF      Guillermina Grant   def.      Audrey Boch-Collins 76(5) 61
+     SF      Mai Nirundorn       def.      Noa Cohen           63 62
+     QF      Guillermina Grant   def.      Katerina Filip      Walkover
+     QF      Audrey Boch-Collins def.      Amelie Boy          60 61
+     QF      Mai Nirundorn       def.      Fanny Norin         75 61
+     QF      Noa Cohen           def.      Rosie Garcia Gross  Walkover
+     16      Katerina Filip      def.      Angel Carney        64 64
+     16      Guillermina Grant   def.      Monika Dedaj        61 63
+     16      Audrey Boch-Collins def.      Mary Courville      30 Ret.
+     16      Amelie Boy          def.      Sierra Sandy        Walkover
+     16      Mai Nirundorn       def.      Kate Sharabura      63 61
+     16      Fanny Norin         def.      Anais Gabriel       63 36 [6]
+     16      Noa Cohen           def.      Alexia Alvarez      62 60
+     16      Rosie Garcia Gross  def.      Martina Kudelova    60 Ret.
+     32      Angel Carney        def.      Ji Youn Lee         62 62
+     32      Katerina Filip      def.      Maya Tahan          62 46 [7]
+     32      Monika Dedaj        def.      Dana Heimen         26 76(4) [6]
+     32      Guillermina Grant   def.      Afrika Smith        61 60
+     32      Audrey Boch-Collins def.      Alanna Di Francesco 62 62
+     32      Mary Courville      def.      Alee Clayton        63 75
+     32      Amelie Boy          def.      Katherine Muzik     75 76(6)
+     32      Sierra Sandy        def.      Selene Kentish      64 63
+     32      Mai Nirundorn       def.      Alice Amendola      60 76(5)
+     32      Kate Sharabura      def.      Amber MGinnis       62 63
+     32      Fanny Norin         def.      Taylor Dean         61 46 [3]
+     32      Anais Gabriel       def.      Sierra Berry        64 57 [6]
+     32      Alexia Alvarez      def.      Naya Tillitt        76(2) 63
+     32      Noa Cohen           def.      Summer Yardley      63 62
+     32      Martina Kudelova    def.      Ida Ferding         61 61
+     32      Rosie Garcia Gross  def.      Anna Arkadianou     75 64
  > Qualifying Draw
   > Main
      16  (8) Alee Clayton        def.      Francesca Franci    76(4) 64
@@ -121,7 +159,9 @@
  Women's Open Singles
  > Main
   > Main
+      F  (4) Tiphanie Fiquet      def.  (5) Safiya Carrington    62 75
      SF  (4) Tiphanie Fiquet      def.  (1) Emmanouela Antonaki  75 26 60
+     SF  (5) Safiya Carrington    def.      Petra Sedlackova     46 63 63
      QF  (1) Emmanouela Antonaki  def. (10) Ena Babic            63 36 61
      QF  (4) Tiphanie Fiquet      def.      Reka Zadori          63 62
      QF  (5) Safiya Carrington    def. (16) Tamara Racine        64 75

@@ -5,6 +5,9 @@
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
 
+**Tournaments without Matches**  
+- 10/19/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Butler Tournament</a>  
+
 **Upcoming Tournaments**  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityW/Tournaments/Overview/61F146C9-753C-4458-9E95-EE269C0BB692" target="_blank">ITA Division I Carolina Women's Regional Championship</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/03D2591A-B4EA-40D0-84EE-FA366640953F" target="_blank">ITA Division I Women's Atlantic Regional Championship</a>  
@@ -14,11 +17,13 @@
 - 10/20/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">ITA Division I Women's Ohio Valley Regional Championship</a>  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">ITA Division I Women's Southwest Regional Championship</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaW/Tournaments/Overview/01A4B27D-4D73-4167-8630-758894B435E5" target="_blank">The Georgia Invitational</a>  
+- 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship</a>  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Crusader Invitational</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Eagle Invitational</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">GSC Fall Individual Tournament</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">MSU Invitational</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/4E66DF95-8991-4880-9830-29E9F5B3C53F" target="_blank">Saint Leo Hidden Duals - Women</a>  
+- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">YTF Southeastern Invitational</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -81,15 +86,15 @@
 
 <a name="21-32447"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Southern Regional Championship
   Dates: Oct 14-19, 2021
   Host: University Of Alabama (W)
-════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main
   > Main
-      F      Mize/Kareisova        vs       Hiser/Bencheikh      Tue @ 09:00
+      F      Hiser/Bencheikh      def.      Mize/Kareisova       63 60
      SF      Mize/Kareisova       def.      Kohoutova/Tutunaru   64 26 [5]
      SF      Hiser/Bencheikh      def.  (2) Antonaki/Racine      36 75 [8]
      QF      Kohoutova/Tutunaru   def.  (7) Leclerq-Ficher/Pool  86
@@ -157,15 +162,15 @@
 
 <a name="21-76092"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Texas Regional Championship
   Dates: Oct 14-18, 2021
   Host: Texas Christian University (W)
-════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-      F  (1) Makarova/Goldsmith    vs   (2) Herrero Linana/Kryw… Mon @ 14:00
+      F  (2) Herrero Linana/Kryw… def.  (1) Makarova/Goldsmith   75 75
      SF  (1) Makarova/Goldsmith   def.  (5) Chavatipon/Collns    76(3) 64
      SF  (2) Herrero Linana/Kryw… def.      Adams/Devier         62 62
      QF  (1) Makarova/Goldsmith   def.  (7) Keberle/Bartolome    86

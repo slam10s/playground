@@ -316,6 +316,54 @@
       64  George Cavo          def.  Eric Liu             60 63
       64  Luka Markovic        def.  Erick Rivas          61 61
       64  Ryan Nguyen          def.  Oliver Davey         62 62
+ > Friday Extra Matches
+  > Main
+      64  Matisse Bobichon     def.  Louis Gorregues      76(3) 46 [5]
+      64  Alex Mascioli        def.  Anthony Prokurat     36 60 [8]
+      64  Skyler Gates         def.  Alex Kim             63 64
+      64  Marin Delmas         def.  Sebastian Lopez      61 63
+      64  Sasha Panyan         def.  Jin Dassanayake      64 62
+      64  Luke Garner          def.  Alejandro Rodriguez… 64 61
+      64  Will Pak             def.  Ryan Charles         63 62
+      64  Cy McLeod            def.  Noah Winton          30 Ret.
+      64  Ryan Nguyen          def.  Christian Pumpelly   60 62
+      64  Edik Pribitkin       def.  Andres Ballesteros   64 61
+      64  Jan Kjellberg        def.  George Cavo          62 63
+      64  Erick Rivas          def.  Eric Liu             75 75
+      64  Jarrett Karnibad     def.  Vansh Kapoor         63 62
+      64  Giovanni Abriola     def.  Matthew Jones        63 76(2)
+      64  Marcel Dawson        def.  Gustavo Rotundo      61 61
+      64  Michael Fourticq     def.  Pascal Wagemaker     64 67(5) [10]
+      64  Colin Corsini        def.  Martial Kawunde      60 61
+      64  Alexander Karman     def.  Nihit Rawal          61 62
+      64  Justin Cadeau        def.  Sergiu Medesan       60 62
+      64  Tamirlan Teberikov   def.  Elliot Stevens       62 63
+      64  Matt Cardano         def.  Filipos Zachiotis    64 63
+      64  Conners OBrien       def.  Ryan Boland          61 62
+      64  Eitan Khromchenko    def.  Michael Pollatos     61 60
+ > Saturday Extra Matches
+  > Main
+      32  Justin Suarez        def.  Cy McLeod            62 63
+      32  Filipos Zachiotis    def.  Christian Pumpelly   62 64
+      64  Cy McLeod            def.  Giovanni Abriola     64 64
+      64  Justin Suarez        def.  Elliot Stevens       63 57 [6]
+      64  Jan Kjellberg        def.  Anthony Prokurat     62 64
+      64  Jake Fishkin         def.  Pascal Wagemaker     62 63
+      64  Luke Garner          def.  Eitan Khromchenko    64 76(3)
+      64  Sergiu Medesan       def.  Eric Liu             62 62
+      64  Andres Ballesteros   def.  Gustavo Rotundo      61 64
+      64  Dustin Ha            def.  George Cavo          63 62
+      64  Rami Alkhafaji       def.  Oliver Davey         62 76(8)
+      64  Vansh Kapoor         def.  Michael Pollatos     62 60
+      64  Skyler Gates         def.  Jarrett Karnibad     62 46 [6]
+      64  Michael Fourticq     def.  Edik Pribitkin       63 64
+      64  Christian Pumpelly   def.  Ryan Boland          60 60
+      64  Luis Molina          def.  Sasha Panyan         76(2) 62
+      64  Matthew Jones        def.  Will Pak             62 62
+      64  Nihit Rawal          def.  Erick Rivas          64 61
+      64  Matt Cardano         def.  Alex Kim             62 64
+      64  Joshua Robinson      def.  Conners OBrien       61 36 [11]
+      64  Nicholas Nguyen      def.  Ryan Nguyen          62 63
 ~~~
 
 <a name="21-08423"></a>
@@ -404,10 +452,11 @@
  Men's Open Singles
  > Draw
   > Main
+       F  (8) Aryan Chaudhary    def.  (4) Guillaume Dalmasso 64 64
       SF  (8) Aryan Chaudhary    def.  (5) James Watt         64 57 76(6)
       SF  (4) Guillaume Dalmasso def. (14) Tomas Kopczynski   36 64 64
       QF  (5) James Watt         def.  (1) Philip Hjorth      76(5) 26 75
-      QF  (8) Aryan Chaudhary    def.  (3) Nitzan Ricklis     46 62 64
+      QF  (8) Aryan Chaudhary    def.  (3) Nitzan Ricklis     57 62 64
       QF  (4) Guillaume Dalmasso def.  (6) Phuc Huynh         63 67(5) 63
       QF (14) Tomas Kopczynski   def.  (7) Mate Voros         Walkover
       16  (1) Philip Hjorth      def. (12) Nil Giraldez       63 64
@@ -461,6 +510,7 @@
       64 (14) Tomas Kopczynski   def.      Juan Batalla       61 62
       64      Russell Henderson  def.      Jakob Ortiveros    61 62
   > Consolation
+       F  (2) Carl Emil Overbeck def.      Ryan Ali           62 75
       SF      Ryan Ali           def.      Lucas Magnaudet    75 46 [6]
       SF  (2) Carl Emil Overbeck def.      Felipe Rincon      62 62
       QF      Lucas Magnaudet    def.      Karlo Divkovic     64 36 [6]
@@ -553,146 +603,177 @@
 
 <a name="21-59010"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Texas Regional Championship
   Dates: Oct 13-17, 2021
   Host: Texas A&M University (M)
-═════════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Singles Main
   > Main
-     QF (16) Juan Carlos Aguilar  def.  (9) Noah Schachter       61 26 76(5)
-     QF  (5) Micah Braswell       def.  (4) Alexander Jong       64 75
-     QF  (3) Luc Fomba            def.      Raphael Perot        62 64
-     QF  (7) Sven Lah             def.  (2) Pedro Vives Marcos   36 62 64
-     16 (16) Juan Carlos Aguilar  def.  (1) Adrian Boitan        64 64
-     16  (9) Noah Schachter       def.  (8) Richard Ciamarra     76(4) 62
-     16  (4) Alexander Jong       def.      Adam Neff            61 75
-     16  (5) Micah Braswell       def.      Lui Maxted           60 61
-     16      Raphael Perot        def.  (6) Tadeas Paroulek      46 61 63
-     16  (3) Luc Fomba            def.      Jake Finn Bass       75 75
-     16  (7) Sven Lah             def.      Matthis Ross         76(3) 63
-     16  (2) Pedro Vives Marcos   def.      Caleb Chakravarthi   62 57 61
-     32  (1) Adrian Boitan        def.      Dario Kmet           63 61
-     32 (16) Juan Carlos Aguilar  def.      Joao Ceolin          46 63 64
-     32  (8) Richard Ciamarra     def.      Miguel Cabrera       62 64
-     32  (9) Noah Schachter       def.      Daniel Sancho Arbizu 63 64
-     32  (4) Alexander Jong       def.      Nevin Arimilli       63 60
-     32      Adam Neff            def.      Ethan Muza           64 76(6)
-     32  (5) Micah Braswell       def.      Jacob Brumm          26 63 62
-     32      Lui Maxted           def.      Reed Collier         63 64
-     32      Raphael Perot        def. (11) Siem Woldeab         75 64
-     32  (6) Tadeas Paroulek      def.      Ilgiz Valiev         61 64
-     32      Jake Finn Bass       def. (14) Giulio Perego        46 63 76(4)
-     32  (3) Luc Fomba            def.      Austin Abbrat        64 62
-     32      Matthis Ross         def.      Matthieu Peres       75 62
-     32  (7) Sven Lah             def.      Rahul Dhokia         64 64
-     32      Caleb Chakravarthi   def.      Trinity Grear        62 61
-     32  (2) Pedro Vives Marcos   def.      Kenner Taylor        62 62
-     64  (1) Adrian Boitan        def.      Emir Sendogan        61 61
-     64      Dario Kmet           def.      Pascal Lorieul       62 63
-     64 (16) Juan Carlos Aguilar  def.      Evin McDonald        64 62
-     64      Joao Ceolin          def.      Luke Casper          64 61
-     64  (8) Richard Ciamarra     def.      Huntley Allen        60 76
-     64      Miguel Cabrera       def.      Dylan Heap           62 64
-     64  (9) Noah Schachter       def.      Tyler Stewart        64 63
-     64      Daniel Sancho Arbizu def.      Liam Krall           63 61
-     64  (4) Alexander Jong       def.      Mykhailo Kvantaliani 62 63
-     64      Nevin Arimilli       def.      Francisco Vittar     63 62
-     64      Ethan Muza           def. (13) Olle Wallin          26 63 61
-     64      Adam Neff            def.      Stefan Storch        63 26 62
-     64  (5) Micah Braswell       def.      Tomas Reche          75 76(2)
-     64      Jacob Brumm          def.      Guillermo Castaneda  64 62
-     64      Reed Collier         def. (12) Pierce Rollins       36 61 64
-     64      Lui Maxted           def.      Daniel Linkuns-Moro… 61 63
-     64      Raphael Perot        def.      Julian Steinhausen   57 76(2) 62
-     64 (11) Siem Woldeab         def.      Savan Chhabra        63 67(6) 64
-     64      Ilgiz Valiev         def.      Louis Cloud          67(3) 63 63
-     64  (6) Tadeas Paroulek      def.      Ivan Smith           62 63
-     64      Jake Finn Bass       def.      Kyohei Yamanaka      64 61
-     64 (14) Giulio Perego        def.      Ivan Thamma          62 64
-     64      Austin Abbrat        def.      Franco Ribero        64 64
-     64  (3) Luc Fomba            def.      Jorge Juarez         64 61
-     64      Matthis Ross         def.      Carlo Izurieta       62 64
-     64      Matthieu Peres       def. (10) Cleeve Harper        55 Ret.
-     64      Rahul Dhokia         def.      Sebastian Rodriguez  63 76(4)
-     64  (7) Sven Lah             def.      Nathan Schwartz      61 62
-     64      Caleb Chakravarthi   def.      Anish Sriniketh      64 64
-     64      Trinity Grear        def. (15) Demetris Azoides     67(5) 64 21 Ret.
-     64      Kenner Taylor        def.      Juan Jose Rodriguez… 63 75
-     64  (2) Pedro Vives Marcos   def.      Jordi Redelijk       75 60
+       F (16) Juan Carlos Aguilar  def.  (7) Sven Lah             61 63
+      SF (16) Juan Carlos Aguilar  def.  (5) Micah Braswell       36 62 64
+      SF  (7) Sven Lah             def.  (3) Luc Fomba            46 62 62
+      QF (16) Juan Carlos Aguilar  def.  (9) Noah Schachter       61 26 76(5)
+      QF  (5) Micah Braswell       def.  (4) Alexander Jong       64 75
+      QF  (3) Luc Fomba            def.      Raphael Perot        62 64
+      QF  (7) Sven Lah             def.  (2) Pedro Vives Marcos   36 62 64
+      16 (16) Juan Carlos Aguilar  def.  (1) Adrian Boitan        64 64
+      16  (9) Noah Schachter       def.  (8) Richard Ciamarra     76(4) 62
+      16  (4) Alexander Jong       def.      Adam Neff            61 75
+      16  (5) Micah Braswell       def.      Lui Maxted           60 61
+      16      Raphael Perot        def.  (6) Tadeas Paroulek      46 61 63
+      16  (3) Luc Fomba            def.      Jake Finn Bass       75 75
+      16  (7) Sven Lah             def.      Matthis Ross         76(3) 63
+      16  (2) Pedro Vives Marcos   def.      Caleb Chakravarthi   62 57 61
+      32  (1) Adrian Boitan        def.      Dario Kmet           63 61
+      32 (16) Juan Carlos Aguilar  def.      Joao Ceolin          46 63 64
+      32  (8) Richard Ciamarra     def.      Miguel Cabrera       62 64
+      32  (9) Noah Schachter       def.      Daniel Sancho Arbizu 63 64
+      32  (4) Alexander Jong       def.      Nevin Arimilli       63 60
+      32      Adam Neff            def.      Ethan Muza           64 76(6)
+      32  (5) Micah Braswell       def.      Jacob Brumm          26 63 62
+      32      Lui Maxted           def.      Reed Collier         63 64
+      32      Raphael Perot        def. (11) Siem Woldeab         75 64
+      32  (6) Tadeas Paroulek      def.      Ilgiz Valiev         61 64
+      32      Jake Finn Bass       def. (14) Giulio Perego        46 63 76(4)
+      32  (3) Luc Fomba            def.      Austin Abbrat        64 62
+      32      Matthis Ross         def.      Matthieu Peres       75 62
+      32  (7) Sven Lah             def.      Rahul Dhokia         64 64
+      32      Caleb Chakravarthi   def.      Trinity Grear        62 61
+      32  (2) Pedro Vives Marcos   def.      Kenner Taylor        62 62
+      64  (1) Adrian Boitan        def.      Emir Sendogan        61 61
+      64      Dario Kmet           def.      Pascal Lorieul       62 63
+      64 (16) Juan Carlos Aguilar  def.      Evin McDonald        64 62
+      64      Joao Ceolin          def.      Luke Casper          64 61
+      64  (8) Richard Ciamarra     def.      Huntley Allen        60 76
+      64      Miguel Cabrera       def.      Dylan Heap           62 64
+      64  (9) Noah Schachter       def.      Tyler Stewart        64 63
+      64      Daniel Sancho Arbizu def.      Liam Krall           63 61
+      64  (4) Alexander Jong       def.      Mykhailo Kvantaliani 62 63
+      64      Nevin Arimilli       def.      Francisco Vittar     63 62
+      64      Ethan Muza           def. (13) Olle Wallin          26 63 61
+      64      Adam Neff            def.      Stefan Storch        63 26 62
+      64  (5) Micah Braswell       def.      Tomas Reche          75 76(2)
+      64      Jacob Brumm          def.      Guillermo Castaneda  64 62
+      64      Reed Collier         def. (12) Pierce Rollins       36 61 64
+      64      Lui Maxted           def.      Daniel Linkuns-Moro… 61 63
+      64      Raphael Perot        def.      Julian Steinhausen   57 76(2) 62
+      64 (11) Siem Woldeab         def.      Savan Chhabra        63 67(6) 64
+      64      Ilgiz Valiev         def.      Louis Cloud          67(3) 63 63
+      64  (6) Tadeas Paroulek      def.      Ivan Smith           62 63
+      64      Jake Finn Bass       def.      Kyohei Yamanaka      64 61
+      64 (14) Giulio Perego        def.      Ivan Thamma          62 64
+      64      Austin Abbrat        def.      Franco Ribero        64 64
+      64  (3) Luc Fomba            def.      Jorge Juarez         64 61
+      64      Matthis Ross         def.      Carlo Izurieta       62 64
+      64      Matthieu Peres       def. (10) Cleeve Harper        55 Ret.
+      64      Rahul Dhokia         def.      Sebastian Rodriguez  63 76(4)
+      64  (7) Sven Lah             def.      Nathan Schwartz      61 62
+      64      Caleb Chakravarthi   def.      Anish Sriniketh      64 64
+      64      Trinity Grear        def. (15) Demetris Azoides     67(5) 64 21 Ret.
+      64      Kenner Taylor        def.      Juan Jose Rodriguez… 63 75
+      64  (2) Pedro Vives Marcos   def.      Jordi Redelijk       75 60
   > Consolation
-      F      Daniel Linkuns-Moro… def.      Ivan Thamma          Walkover
-     SF      Daniel Linkuns-Moro… def.      Evin McDonald        64 62
-     SF      Ivan Thamma          def.      Jordi Redelijk       Walkover
-     QF      Evin McDonald        def.      Liam Krall           62 60
-     QF      Daniel Linkuns-Moro… def.      Mykhailo Kvantaliani Walkover
-     QF      Ivan Thamma          def.      Julian Steinhausen   Walkover
-     QF      Jordi Redelijk       def.      Sebastian Rodriguez  Walkover
-     16      Evin McDonald        def.      Emir Sendogan        63 61
-     16      Liam Krall           def.      Dylan Heap           63 63
-     16      Mykhailo Kvantaliani def. (13) Olle Wallin          Walkover
-     16      Daniel Linkuns-Moro… def.      Tomas Reche          75 62
-     16      Julian Steinhausen   def.      Ivan Smith           63 64
-     16      Ivan Thamma          def.      Franco Ribero        63 63
-     16      Sebastian Rodriguez  def.      Carlo Izurieta       63 76(4)
-     16      Jordi Redelijk       def.      Anish Sriniketh      62 64
-     32      Emir Sendogan        def.      Pascal Lorieul       Walkover
-     32      Evin McDonald        def.      Luke Casper          64 62
-     32      Dylan Heap           def.      Huntley Allen        61 75
-     32      Liam Krall           def.      Tyler Stewart        26 64 [9]
-     32      Mykhailo Kvantaliani def.      Francisco Vittar     55 Ret.
-     32 (13) Olle Wallin          def.      Stefan Storch        64 36 [7]
-     32      Tomas Reche          def.      Guillermo Castaneda  Walkover
-     32      Daniel Linkuns-Moro… def. (12) Pierce Rollins       64 36 [10]
-     32      Julian Steinhausen   def.      Savan Chhabra        64 26 [11]
-     32      Ivan Smith           def.      Louis Cloud          62 Ret.
-     32      Ivan Thamma          def.      Kyohei Yamanaka      Walkover
-     32      Franco Ribero        def.      Jorge Juarez         46 40 Ret.
-     32      Carlo Izurieta       def. (10) Cleeve Harper        Walkover
-     32      Sebastian Rodriguez  def.      Nathan Schwartz      64 62
-     32      Anish Sriniketh      def. (15) Demetris Azoides     Walkover
-     32      Jordi Redelijk       def.      Juan Jose Rodriguez… 64 62
+       F      Daniel Linkuns-Moro… def.      Ivan Thamma          Walkover
+      SF      Daniel Linkuns-Moro… def.      Evin McDonald        64 62
+      SF      Ivan Thamma          def.      Jordi Redelijk       Walkover
+      QF      Evin McDonald        def.      Liam Krall           62 60
+      QF      Daniel Linkuns-Moro… def.      Mykhailo Kvantaliani Walkover
+      QF      Ivan Thamma          def.      Julian Steinhausen   Walkover
+      QF      Jordi Redelijk       def.      Sebastian Rodriguez  Walkover
+      16      Evin McDonald        def.      Emir Sendogan        63 61
+      16      Liam Krall           def.      Dylan Heap           63 63
+      16      Mykhailo Kvantaliani def. (13) Olle Wallin          Walkover
+      16      Daniel Linkuns-Moro… def.      Tomas Reche          75 62
+      16      Julian Steinhausen   def.      Ivan Smith           63 64
+      16      Ivan Thamma          def.      Franco Ribero        63 63
+      16      Sebastian Rodriguez  def.      Carlo Izurieta       63 76(4)
+      16      Jordi Redelijk       def.      Anish Sriniketh      62 64
+      32      Emir Sendogan        def.      Pascal Lorieul       Walkover
+      32      Evin McDonald        def.      Luke Casper          64 62
+      32      Dylan Heap           def.      Huntley Allen        61 75
+      32      Liam Krall           def.      Tyler Stewart        26 64 [9]
+      32      Mykhailo Kvantaliani def.      Francisco Vittar     55 Ret.
+      32 (13) Olle Wallin          def.      Stefan Storch        64 36 [7]
+      32      Tomas Reche          def.      Guillermo Castaneda  Walkover
+      32      Daniel Linkuns-Moro… def. (12) Pierce Rollins       64 36 [10]
+      32      Julian Steinhausen   def.      Savan Chhabra        64 26 [11]
+      32      Ivan Smith           def.      Louis Cloud          62 Ret.
+      32      Ivan Thamma          def.      Kyohei Yamanaka      Walkover
+      32      Franco Ribero        def.      Jorge Juarez         46 40 Ret.
+      32      Carlo Izurieta       def. (10) Cleeve Harper        Walkover
+      32      Sebastian Rodriguez  def.      Nathan Schwartz      64 62
+      32      Anish Sriniketh      def. (15) Demetris Azoides     Walkover
+      32      Jordi Redelijk       def.      Juan Jose Rodriguez… 64 62
+ > Consolation Matches
+  > Main
+      64      Alex Stafford        def.      Daichi Akiyoshi      61 64
+      64      Oswaldo Cano Sosa    def.      Christopher Lawrance 64 62
+      64      Justin Braverman     def.      Jose Maria Rastrojo  75 64
+      64      Cesar Barranquero    def.      Sam Whitehead        61 64
+      64      Maxim Groysman       def.      Ryan Flanagan        75 64
+     128      Daichi Akiyoshi      def.      Marwin Kralemann     46 63 [8]
+     128      Alex Stafford        def.      Filippo Salsini      64 75
+     128      Oswaldo Cano Sosa    def.      Ricardo Alban        64 64
+     128      Christopher Lawrance def.      Callaway Clark       62 61
+     128      Justin Braverman     def.      Noah DeLuna          63 62
+     128      Jose Maria Rastrojo  def.      John Zisette         64 63
+     128      Cesar Barranquero    def.      Kyle Sillman         67(4) 61 [8]
+     128      Sam Whitehead        def.      Pietro Perego        26 63 [8]
+     128      Maxim Groysman       def.      Alberto Mello        60 60
+     128      Ryan Flanagan        def.      Eli Susser           62 26 [3]
+     128      Arnau Miralles Lopez def.      Miguel Alonso        61 16 [8]
+     128      Joao Sasso           def.      Riley Tran-Vilkman   62 62
+     128      Warren Fulgenzi      def.      Francisco Vittar     64 62
+     128      Ryuya Ata            def.      Benjamin McDonald    63 61
+     128      Javier Gonzalez      def.      Campbell Salmon      60 62
+     128      Garrett Skelly       def.      Max Amling           36 64 [9]
+ > Extra matches
+  > Main
+      QF      Rahul Dhokia         def.      Benjamin McDonald    63 60
+      QF      Kenner Taylor        def.      Ethan Muza           63 64
+      QF      Luke Casper          def.      Lui Maxted           67(2) 62 [1]
  > Singles Qualifiers
   > Main
-     32      Evin McDonald        def.      Miguel Alonso        61 61
-     32      Nevin Arimilli       def.      Arnau Miralles Lopez 62 63
-     32      Anish Sriniketh      def.      Joao Sasso           76(4) 26 64
-     32      Reed Collier         def.      Riley Tran-Vilkman   61 64
-     32      Ivan Thamma          def.      Justin Braverman     64 62
-     32      Austin Abbrat        def.      Warren Fulgenzi      61 46 64
-     32      Louis Cloud          def.      Adam Oscislawski     64 64
-     32      Savan Chhabra        def.      Francisco Vittar     63 46 64
-     32      Ethan Muza           def.      Ryuya Ata            61 62
-     32      Matthieu Peres       def.      Benjamin McDonald    60 63
-     32      Emir Sendogan        def.      Javier Gonzalez      75 46 62
-     32      Nathan Schwartz      def.      Campbell Salmon      61 62
-     32      Guillermo Castaneda  def.      Te Kani Williams     61 63
-     32      Tyler Stewart        def.      Wes Barnett          63 75
-     32      Huntley Allen        def.      Max Amling           61 60
-     32      Jordi Redelijk       def.      Garrett Skelly       76(3) 63
-     64      Miguel Alonso        def.      Marwin Kralemann     36 76 75
-     64      Arnau Miralles Lopez def.      Daichi Akiyoshi      36 61 75
-     64      Joao Sasso           def.      Alex Stafford        46 63 63
-     64      Riley Tran-Vilkman   def.      Filippo Salsini      46 63 60
-     64      Justin Braverman     def.      Ricardo Alban        60 62
-     64      Warren Fulgenzi      def.      Oswaldo Cano Sosa    63 63
-     64      Adam Oscislawski     def.      Pietro Perego        64 36 61
-     64      Savan Chhabra        def.      Noah DeLuna          61 60
-     64      Ryuya Ata            def.      Callaway Clark       64 76(1)
-     64      Benjamin McDonald    def.      Solano Caffarena     Walkover
-     64      Matthieu Peres       def.      Takeyasu Sekiguchi   62 61
-     64      Emir Sendogan        def.      Jose Maria Rastrojo  62 62
-     64      Javier Gonzalez      def.      John Zisette         75 75
-     64      Nathan Schwartz      def.      Cesar Barranquero    61 76(5)
-     64      Campbell Salmon      def.      Kyle Sillman         61 61
-     64      Guillermo Castaneda  def.      Eli Susser           62 61
-     64      Wes Barnett          def.      Sam Whitehead        62 75
-     64      Tyler Stewart        def.      Eddie Ross           61 10 Ret.
-     64      Max Amling           def.      Maxim Groysman       75 76(2)
-     64      Huntley Allen        def.      Alberto Mello        60 61
-     64      Jordi Redelijk       def.      Christopher Lawrance 75 61
-     64      Garrett Skelly       def.      Ryan Flanagan        61 63
+      32      Evin McDonald        def.      Miguel Alonso        61 61
+      32      Nevin Arimilli       def.      Arnau Miralles Lopez 62 63
+      32      Anish Sriniketh      def.      Joao Sasso           76(4) 26 64
+      32      Reed Collier         def.      Riley Tran-Vilkman   61 64
+      32      Ivan Thamma          def.      Justin Braverman     64 62
+      32      Austin Abbrat        def.      Warren Fulgenzi      61 46 64
+      32      Louis Cloud          def.      Adam Oscislawski     64 64
+      32      Savan Chhabra        def.      Francisco Vittar     63 46 64
+      32      Ethan Muza           def.      Ryuya Ata            61 62
+      32      Matthieu Peres       def.      Benjamin McDonald    60 63
+      32      Emir Sendogan        def.      Javier Gonzalez      75 46 62
+      32      Nathan Schwartz      def.      Campbell Salmon      61 62
+      32      Guillermo Castaneda  def.      Te Kani Williams     61 63
+      32      Tyler Stewart        def.      Wes Barnett          63 75
+      32      Huntley Allen        def.      Max Amling           61 60
+      32      Jordi Redelijk       def.      Garrett Skelly       76(3) 63
+      64      Miguel Alonso        def.      Marwin Kralemann     36 76 75
+      64      Arnau Miralles Lopez def.      Daichi Akiyoshi      36 61 75
+      64      Joao Sasso           def.      Alex Stafford        46 63 63
+      64      Riley Tran-Vilkman   def.      Filippo Salsini      46 63 60
+      64      Justin Braverman     def.      Ricardo Alban        60 62
+      64      Warren Fulgenzi      def.      Oswaldo Cano Sosa    63 63
+      64      Adam Oscislawski     def.      Pietro Perego        64 36 61
+      64      Savan Chhabra        def.      Noah DeLuna          61 60
+      64      Ryuya Ata            def.      Callaway Clark       64 76(1)
+      64      Benjamin McDonald    def.      Solano Caffarena     Walkover
+      64      Matthieu Peres       def.      Takeyasu Sekiguchi   62 61
+      64      Emir Sendogan        def.      Jose Maria Rastrojo  62 62
+      64      Javier Gonzalez      def.      John Zisette         75 75
+      64      Nathan Schwartz      def.      Cesar Barranquero    61 76(5)
+      64      Campbell Salmon      def.      Kyle Sillman         61 61
+      64      Guillermo Castaneda  def.      Eli Susser           62 61
+      64      Wes Barnett          def.      Sam Whitehead        62 75
+      64      Tyler Stewart        def.      Eddie Ross           61 10 Ret.
+      64      Max Amling           def.      Maxim Groysman       75 76(2)
+      64      Huntley Allen        def.      Alberto Mello        60 61
+      64      Jordi Redelijk       def.      Christopher Lawrance 75 61
+      64      Garrett Skelly       def.      Ryan Flanagan        61 63
 ~~~
 
 <a name="21-27355"></a>
@@ -1043,11 +1124,11 @@
      SF  Lucas Ribas          def.  Willem van den Akker 75 63
      SF  Luis Iriarte         def.  Jaewoo Choi          62 60
      QF  Willem van den Akker def.  Tyler Glowaki        61 61
-     QF  Lucas Ribas          def.  Richard Freemann     60 63
+     QF  Lucas Ribas          def.  Richard Hartmann     60 63
      QF  Jaewoo Choi          def.  Theodore Preiswerk   61 63
      QF  Luis Iriarte         def.  Juan Patino Pabon    61 60
   > West
-     SF  Richard Freemann     def.  Tyler Glowaki        76(1) 64
+     SF  Richard Hartmann     def.  Tyler Glowaki        76(1) 64
      SF  Juan Patino Pabon    def.  Theodore Preiswerk   62 64
   > 3-4 Playoff
       F  Willem van den Akker def.  Jaewoo Choi          46 60 [7]
@@ -1075,7 +1156,7 @@
      QF  Miguel Torrenegra    def.  Miguel Ferreira      75 63
  > Extra Matches
   > Main
-      F  Jacob Turley         def.  Richard Freemann     76(4) 62
+      F  Jacob Turley         def.  Richard Hartmann     76(4) 62
 ~~~
 
 Return to the [Top](./men_singles_2141.md) &#124; [Home Page](../../index.md)

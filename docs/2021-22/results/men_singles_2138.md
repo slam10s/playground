@@ -493,7 +493,7 @@
      64     Ramon Fererr         def.     Nicola Buffo         63 63
      64     Yassir Kilani        def.     Miguel Torrenegra    61 63
      64     Maxime Navrotchi     def.     Rodrigo Zapata       60 61
-     64     Fernando Alejandro … def.     Richard Freemann     62 62
+     64     Fernando Alejandro … def.     Richard Hartmann     62 62
      64     Diego Menendez Vina  def.     Thomas Andrews       63 46 [4]
      64 (2) Geronimo Barrios     def.     Adriel Bousquet      Walkover
 ~~~

@@ -92,6 +92,39 @@
      64      Nandini Sharma      def.      Ida Ferding         62 26 62
      64      Yasmine Kabbaj      def.      Anna Arkadianou     62 63
      64  (2) Isabella Pfennig    def.      Rosie Garcia Gross  61 60
+ > Consolation
+  > Main
+      F      Guillermina Grant   def.      Mai Nirundorn       60 63
+     SF      Guillermina Grant   def.      Audrey Boch-Collins 76(5) 61
+     SF      Mai Nirundorn       def.      Noa Cohen           63 62
+     QF      Guillermina Grant   def.      Katerina Filip      Walkover
+     QF      Audrey Boch-Collins def.      Amelie Boy          60 61
+     QF      Mai Nirundorn       def.      Fanny Norin         75 61
+     QF      Noa Cohen           def.      Rosie Garcia Gross  Walkover
+     16      Katerina Filip      def.      Angel Carney        64 64
+     16      Guillermina Grant   def.      Monika Dedaj        61 63
+     16      Audrey Boch-Collins def.      Mary Courville      30 Ret.
+     16      Amelie Boy          def.      Sierra Sandy        Walkover
+     16      Mai Nirundorn       def.      Kate Sharabura      63 61
+     16      Fanny Norin         def.      Anais Gabriel       63 36 [6]
+     16      Noa Cohen           def.      Alexia Alvarez      62 60
+     16      Rosie Garcia Gross  def.      Martina Kudelova    60 Ret.
+     32      Angel Carney        def.      Ji Youn Lee         62 62
+     32      Katerina Filip      def.      Maya Tahan          62 46 [7]
+     32      Monika Dedaj        def.      Dana Heimen         26 76(4) [6]
+     32      Guillermina Grant   def.      Afrika Smith        61 60
+     32      Audrey Boch-Collins def.      Alanna Di Francesco 62 62
+     32      Mary Courville      def.      Alee Clayton        63 75
+     32      Amelie Boy          def.      Katherine Muzik     75 76(6)
+     32      Sierra Sandy        def.      Selene Kentish      64 63
+     32      Mai Nirundorn       def.      Alice Amendola      60 76(5)
+     32      Kate Sharabura      def.      Amber MGinnis       62 63
+     32      Fanny Norin         def.      Taylor Dean         61 46 [3]
+     32      Anais Gabriel       def.      Sierra Berry        64 57 [6]
+     32      Alexia Alvarez      def.      Naya Tillitt        76(2) 63
+     32      Noa Cohen           def.      Summer Yardley      63 62
+     32      Martina Kudelova    def.      Ida Ferding         61 61
+     32      Rosie Garcia Gross  def.      Anna Arkadianou     75 64
  > Qualifying Draw
   > Main
      16  (8) Alee Clayton        def.      Francesca Franci    76(4) 64
