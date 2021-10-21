@@ -1440,7 +1440,7 @@
      64  Thomas Paulsell   def.  Eshan Talluri     76 63
      64  Lucas Wayenburg   def.  Erik Grevelius    75 62
      64  Britton Johnston  def.  Danny Flynn       63 63
-     64  Stefan Dostanic   def.  MAtej Vocel       76(5) 64
+     64  Stefan Dostanic   def.  Matej Vocel       76(5) 64
      64  Justin Boulais    def.  Bradley Frye      61 64
      64  Peter Makk        def.  Jj Tracy          61 76(4)
      64  Robert Cash       def.  Sam Rubell        36 75 64
@@ -1457,7 +1457,7 @@
      64  Nevin Arimilli    def.  Sam Rubell        63 46 62
      64  Paul Barretto     def.  Eshan Talluri     62 62
      64  Cannon Kingsley   def.  Philip Henning    76(7) 64
-     64  MAtej Vocel       def.  Hamish Stewart    61 63
+     64  Matej Vocel       def.  Hamish Stewart    61 63
      64  Jj Tracy          def.  Tristan McCormick 62 63
      64  Trent Bryde       def.  Justin Boulais    63 67(3) 75
      64  Robert Cash       def.  Miguel Perez Pena 63 60
@@ -1467,7 +1467,7 @@
      64  David Georgadze   def.  Mathis Debru      76(4) 62
  > SIC Singles Day 3
   > Main
-     32  MAtej Vocel       def.  Siem Woldeab      63 62
+     32  Matej Vocel       def.  Siem Woldeab      63 62
      32  Micah Braswell    def.  Justin Boulais    36 61 63
      32  Jj Tracy          def.  Evin McDonald     63 63
      32  Robert Cash       def.  Nevin Arimilli    67(5) 64 [3]

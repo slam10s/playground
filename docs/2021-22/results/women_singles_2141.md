@@ -1084,6 +1084,7 @@
      SF (3) Adel Abidulina       def.     Maria Garcia         64 62
   > South
      SF     Sofia Ragona         def.     Taylor Leslie        62 76(3)
+     SF     Isabella Dunlap      def.     Haina Franco         62 61
  > Division III
   > East
       F (2) Eliza McPherron      def. (1) Sahana Raman         36 75 62
@@ -1112,7 +1113,7 @@
      SF     Angie Zhou           def.     Mary Hose            60 61
      SF (3) Dakota Fordham       def.     Gabi Moss            60 62
   > South
-     SF     Angel Le              vs      Sabrina Tang         
+     SF     Sabrina Tang         def.     Alexa Goetz          62 75
      SF     Miranda Yuan         def.     Jamilah Karah        62 46 61
  > Junior College
   > East

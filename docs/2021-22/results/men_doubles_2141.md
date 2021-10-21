@@ -420,6 +420,26 @@
      QF  Luis/Castro          def.  Holis/Sasagawa      64
      QF  Vicente/Tosetto      def.  Toledo/Cruz         60
      QF  Berghaus/Grubert     def.  Miyamoto/Kelly      63
+ > Apsu/una
+  > Main
+     QF  Matarredona/Perez    def.  Damberg/Schlossmann 61
+     QF  Bixby/Diniz          def.  Bolton/Becchis      63
+     QF  Zhang/Tolbert        def.  Laner/Nolasco       64
+ > Ttu/bel
+  > Main
+     QF  Berghaus/Grubert     def.  Kelly/Miyamoto      63
+     QF  Castro/Luis          def.  Holis/Sasagawa      64
+     QF  Vicente/Tosetto      def.  Toledo/Cruz         60
+ > Ttu/gaso
+  > Main
+     QF  Castillo/Del Castil… def.  Vicente/Tosetto     64
+     QF  Holis/Sasagawa       def.  Aaldering/Dun       63
+     QF  Grubert/Berghaus     def.  Amacher/Suk         76(2)
+ > Utc/bel
+  > Main
+     QF  Luis/Castro          def.  Hyatt/Labbe         61
+     QF  Toledo/Miyamoto      def.  Mudre/McClure       64
+     QF  Wallin/Kelly         def.  Nevenhoven/Nash     63
 ~~~
 
 <a name="21-00186"></a>
@@ -488,6 +508,7 @@
      SF     Barrios/Zick         def. (1) Klimov/Bresson       Walkover
      SF     Turnquest/Rocco      def. (2) Czepielewski/Bonacia Walkover
   > South
+      F     Subert/Cooke         def.     Little/Braham        Walkover
      SF     Little/Braham        def.     Pessoa/Pelletti      Walkover
      SF     Subert/Cooke         def.     Fernandez/Gallegos   Walkover
  > Division II
@@ -509,6 +530,7 @@
      16     Bedwan/Rieme         def. (2) Oliveira/Kearney     62 63
   > West
      SF     Fernandez/Bianchi    def.     Bulmer/van Antwerpen 76(4) 36 [5]
+     SF     Torres/Berling       def.     Giuliato/Forcano     Walkover
      QF     Fernandez/Bianchi    def.     Akinpetide/Jankovic  63 64
      QF     Bulmer/van Antwerpen def.     Cimpeanu/Barstow     63 67(5) [8]
      QF     Torres/Berling       def.     Jarry/Miller         64 46 [4]

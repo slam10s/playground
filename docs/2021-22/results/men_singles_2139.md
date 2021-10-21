@@ -1036,7 +1036,7 @@
       64  (Q) Jj Tracy             def.      Stefan Hampe         61 64
       64      Francisco Rocha      def.  (3) Luc Fomba            76(4) 64
       64  (Q) Stefan Dostanic      def.      Brian Cernoch        64 60
-      64      Ryan Goetz           def.  (9) MAtej Vocel          36 62 63
+      64      Ryan Goetz           def.  (9) Matej Vocel          36 62 63
       64      Clement Chidekh      def.      Jonas Eriksson Zive… 63 62
       64  (6) Gabriel Diallo       def.      Nemanja Malesevic    76(2) 64
       64  (Q) Daniel De Jonge      def.      Raphael Lambling     36 76(4) 75
@@ -1059,16 +1059,16 @@
       64      Florian Broska       def.  (Q) Trey Hilderbrand     61 63
       64  (2) Johannus Monday      def.  (Q) Tim Zeitvogel        46 63 62
   > Consolation
-       F  (9) MAtej Vocel          def.  (Q) Chris Rodesch        64 57 75
-      SF  (9) MAtej Vocel          def.  (Q) Henry Schulenburg    76(3) 61
+       F  (9) Matej Vocel          def.  (Q) Chris Rodesch        64 57 75
+      SF  (9) Matej Vocel          def.  (Q) Henry Schulenburg    76(3) 61
       SF  (Q) Chris Rodesch        def.      Karl Poling          16 63 64
       QF  (Q) Henry Schulenburg    def. (LL) Justin Barki         43 Ret.
-      QF  (9) MAtej Vocel          def.  (Q) Tadeas Paroulek      46 62 64
+      QF  (9) Matej Vocel          def.  (Q) Tadeas Paroulek      46 62 64
       QF  (Q) Chris Rodesch        def.  (7) Andres Andrade       62 64
       QF      Karl Poling          def.  (Q) Tad McClean          63 60
       16 (LL) Justin Barki         def.      Tyler Zink           76(5) 62
       16  (Q) Henry Schulenburg    def.      James Davis          63 61
-      16  (9) MAtej Vocel          def.  (3) Luc Fomba            76 63
+      16  (9) Matej Vocel          def.  (3) Luc Fomba            76 63
       16  (Q) Tadeas Paroulek      def.      Raphael Lambling     64 61
       16  (7) Andres Andrade       def.  (Q) Eric Hadigian        60 60
       16  (Q) Chris Rodesch        def.  (Q) Toby Samuel          62 62
@@ -1079,7 +1079,7 @@
      32Q  (Q) Henry Schulenburg    def. (LL) Emmanuel Coste       Walkover
      32Q      James Davis          def.      Stefan Hampe         46 62 63
      32Q  (3) Luc Fomba            def.      Brian Cernoch        62 75
-     32Q  (9) MAtej Vocel          def.      Jonas Eriksson Zive… 64 62
+     32Q  (9) Matej Vocel          def.      Jonas Eriksson Zive… 64 62
      32Q      Raphael Lambling     def.      Nemanja Malesevic    Walkover
      32Q  (Q) Tadeas Paroulek      def.  (9) Tyler Stice          61 61
      32Q  (Q) Eric Hadigian        def.      Marcus McDaniel      64 75

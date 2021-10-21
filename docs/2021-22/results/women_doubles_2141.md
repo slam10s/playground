@@ -135,7 +135,7 @@
  Women's Open Doubles
  > Main Draw 1
   > Main
-       F (2) Gulihur/Melilo       def. (7) Briggs/Zein          75 26 [5]
+       F (2) Gulihur/Melilo       def. (7) Briggs/Zein          57 62 [5]
       SF (7) Briggs/Zein          def.     Dudeney/Berlin       62 63
       SF (2) Gulihur/Melilo       def. (3) Coppoc/Reasco        62 64
       QF (7) Briggs/Zein          def.     Khodan/Tahan         84
