@@ -6,9 +6,11 @@
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 
+**Tournaments without Matches**  
+- 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIowaW/Tournaments/Overview/D14DFB81-5E2F-4C19-96BD-C7C8E01E527B" target="_blank">ITA Division I Women's Central Regional Championship</a>  
+
 **Upcoming Tournaments**  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/03D2591A-B4EA-40D0-84EE-FA366640953F" target="_blank">ITA Division I Women's Atlantic Regional Championship</a>  
-- 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIowaW/Tournaments/Overview/D14DFB81-5E2F-4C19-96BD-C7C8E01E527B" target="_blank">ITA Division I Women's Central Regional Championship</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OhioStateUniversityW/Tournaments/Overview/6552AE44-FB48-4C1E-A09A-B67C23ED4FEA" target="_blank">ITA Division I Women's Midwest Regional Championship</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StanfordUniversityW/Tournaments/Overview/069089F9-1C02-43BD-82B5-B68774093F12" target="_blank">ITA Division I Women's Northwest Regional Championship</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Gamecock Shootout</a>  
@@ -168,8 +170,8 @@
      64  (7) Ana Cruz             vs       Lana Sipek           Thu @ 10:15
      64      Lauren Gish          vs       Noa Boyd             Thu @ 10:15
      64 (10) Ellie Schulson       vs       Lindsay Tulenko      Thu @ 10:15
-     64      Daniela Porges       vs       Zoe Huffman          Thu @ 10:30
-     64      Ariana Chan Baratau  vs       Madalina Man         Thu @ 10:30
+     64      Daniela Porges       vs       Madalina Man         Thu @ 10:30
+     64      Ariana Chan Baratau  vs       Zoe Huffman          Thu @ 10:30
      64      Laura Marti          vs   (9) Jess Dawson          Thu @ 10:45
      64      Valentina Urelli     vs       Alisa Diercksen      Thu @ 10:45
      64      Helena Jansen        vs   (6) Maggie Pate          Thu @ 11:00
