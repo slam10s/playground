@@ -28,6 +28,7 @@
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOklahomaM/Tournaments/Overview/C4392CA9-3D72-477E-9550-4FE92C5723E8" target="_blank">Lakes Tennis Club Invite</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityM/Tournaments/Overview/D4F405A0-9744-41D5-B40A-884B0F1AADEF" target="_blank">OSU Invitational</a>  
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/D340CAAE-2400-4107-B71A-028FCF6F67DA" target="_blank">Penn Invitational</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
@@ -916,7 +917,7 @@
      16     Pelletti/Pessoa      def.     Glowaki/De Oliveira  84
      16     Nouws/den Hartog     def.     Tajada/Turley        98(4)
      16 (4) Barbon/Stepanov      def.     Chiaradia/Figuiere   81
-     16 (3) Marrero/Orevad       def.     Hartmann/Ferreira    83
+     16 (3) Marrero/Orevad       def.     Freemann/Ferreira    83
      16     Navrotchi/Mochizuki  def.     Binnios/Nicolau Fer… 82
      16     Della Cioppa/Menend… def.     Safont Martinez/Tab… 85
      16 (2) Barrios/Zick         def.     Preiswerk/Martinez   86
@@ -928,7 +929,7 @@
      32     Chiaradia/Figuiere   def.     Lopez Cruz/Tryakshin 86
      32 (4) Barbon/Stepanov      def.     Fererr/Landaluce     85
      32 (3) Marrero/Orevad       def.     Smulski/Torrenegra   82
-     32     Hartmann/Ferreira    def.     Nunez/Mariot         Walkover
+     32     Freemann/Ferreira    def.     Nunez/Mariot         Walkover
      32     Binnios/Nicolau Fer… def.     Gibbs/Bousquet       Walkover
      32     Navrotchi/Mochizuki  def.     Pejanovic/Andrews    97
      32     Della Cioppa/Menend… def.     Grijalva/Amorim      83

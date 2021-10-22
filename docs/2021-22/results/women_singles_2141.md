@@ -3,6 +3,7 @@
 **Tournamets with Matches**  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/16/2021 - [Brown Classic](#21-58015) ([Results](#21-58015) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Women's Mountain Regional Championship](#21-74915) ([Results](#21-74915) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Northeast Regional Championship](#21-91243) ([Results](#21-91243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
@@ -14,7 +15,6 @@
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">ITA Division I Women's Mountain Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/B1C9ACB5-0D08-48E0-980C-75F2F818B28F" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 
 <a name="21-27941"></a>
@@ -157,6 +157,207 @@
      64  Denise Lai           def.  Chloe Floyd          75 63
      64  Stephanie Nguyen     def.  Grace Campanella     80
      64  Sofia Kostirko       def.  Paulina Loredo       86
+~~~
+
+<a name="21-74915"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════════
+  ITA Division I Women's Mountain Regional Championship
+  Dates: Oct 14-17, 2021
+  Host: Univ. Of Nevada, Las Vegas (W)
+═══════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw
+  > Main
+      F  (2) Anna Riedmiller      def.  (4) Molly Helgesson      62 61
+     SF  (4) Molly Helgesson      def.  (1) Gina Dittmann        61 62
+     SF  (2) Anna Riedmiller      def.  (3) Linda Huang          76(4) 60
+     QF  (1) Gina Dittmann        def.  (6) Taylor Melville      61 64
+     QF  (4) Molly Helgesson      def. (16) Maria Oreshkina      61 63
+     QF  (3) Linda Huang          def.      Anastasia Luneva     26 61 60
+     QF  (2) Anna Riedmiller      def. (13) Sophie Zehender      62 62
+     16  (1) Gina Dittmann        def. (15) Radka Buzkova        61 64
+     16  (6) Taylor Melville      def.      Caroline Pozo        57 75 63
+     16  (4) Molly Helgesson      def. (12) Joana Baptista       62 63
+     16 (16) Maria Oreshkina      def.      Hailey Stelse        63 76(5)
+     16      Anastasia Luneva     def.      Andrea Beltran       46 62 63
+     16  (3) Linda Huang          def. (14) Britt Pursell        46 61 61
+     16 (13) Sophie Zehender      def.  (8) Izumi Asano          64 26 64
+     16  (2) Anna Riedmiller      def.  (9) Pauline Ernstberger  64 60
+     32  (1) Gina Dittmann        def.      Toni Nelson          62 63
+     32 (15) Radka Buzkova        def.      Grace Haugen         63 67(3) 63
+     32  (6) Taylor Melville      def.      Annaliese County     62 62
+     32      Caroline Pozo        def.      Leah Heimuli         64 75
+     32  (4) Molly Helgesson      def.      Chloe Gavino         62 62
+     32 (12) Joana Baptista       def.      Maria Campos         63 75
+     32      Hailey Stelse        def.  (7) Madeline Lamoreaux   63 64
+     32 (16) Maria Oreshkina      def.      Camille Verden-Ande… 76(3) 64
+     32      Anastasia Luneva     def. (10) Zita Kovacs          46 63 63
+     32      Andrea Beltran       def.      Megan Forster        76(5) 61
+     32 (14) Britt Pursell        def.      Patty Kuo            61 63
+     32  (3) Linda Huang          def.      Holly Stewart        62 63
+     32 (13) Sophie Zehender      def.      Lindsay Hung         75 63
+     32  (8) Izumi Asano          def.      Laura Duhl           62 61
+     32  (9) Pauline Ernstberger  def.      Emily Dush           62 61
+     32  (2) Anna Riedmiller      def.      Yujia Huang          63 61
+     64  (1) Gina Dittmann        def.      Ines Oliveira        60 62
+     64      Toni Nelson          def.      Ana Conde Vendrell   63 62
+     64 (15) Radka Buzkova        def.      Madison Tattini      62 62
+     64      Grace Haugen         def.      Salsa Aher           64 75
+     64  (6) Taylor Melville      def.      Ya - Chi Hsu         60 60
+     64      Annaliese County     def.      Anastasia Goncharova 63 64
+     64      Caroline Pozo        def. (11) Vivian Glozman       61 62
+     64      Leah Heimuli         def.      Ana Fernandez Villa  62 63
+     64  (4) Molly Helgesson      def.      Melissa Huchet       62 62
+     64      Chloe Gavino         def.      Milka Genkova        76(4) 46 76(5)
+     64 (12) Joana Baptista       def.      Emilee Astle         61 46 63
+     64      Maria Campos         def.      Hana Cho             63 61
+     64  (7) Madeline Lamoreaux   def.      Ava Neyestani        57 64 62
+     64      Hailey Stelse        def.      Ana Morett           62 64
+     64 (16) Maria Oreshkina      def.      Marta Garcia-Rebore… 57 64 64
+     64      Camille Verden-Ande… def.      Yue Lin Chen         75 75
+     64      Anastasia Luneva     def.      Gabine Dekkers       60 61
+     64 (10) Zita Kovacs          def.      Sabrina Longson      61 60
+     64      Megan Forster        def.      Sofia Markova        62 64
+     64      Andrea Beltran       def.  (5) Anastasia Abramyan   64 60
+     64      Patty Kuo            def.      Shir Azran           75 46 75
+     64 (14) Britt Pursell        def.      Sydney Fitch         62 76(4)
+     64      Holly Stewart        def.      Sarka Richterova     61 64
+     64  (3) Linda Huang          def.      Lola O Lideadha      62 62
+     64      Lindsay Hung         def.      Harsha Challa        61 62
+     64 (13) Sophie Zehender      def.      Hsuan Huang          57 60 64
+     64      Laura Duhl           def.      Alexandra Kuo        75 60
+     64  (8) Izumi Asano          def.      Mirte Van Baelen     46 62 64
+     64      Emily Dush           def.      Noesjka Brink        75 60
+     64  (9) Pauline Ernstberger  def.      Olivia Oosterbaan    64 36 75
+     64      Yujia Huang          def.      Antonia Balzert      76(3) 63
+     64  (2) Anna Riedmiller      def.      Somer Dalla-Bona     64 61
+ > Flight 2 singles
+  > Main
+     SF      Mila Stanojevic      def.      Cindy Hu             06 75 64
+     SF      Win Ka Lin           def.      Karina Chao          76(5) 64
+     QF      Mila Stanojevic      def.      Mingfang Lisa Zhu    75 63
+     QF      Cindy Hu             def.      Bhakti Shah          46 61 61
+     QF      Win Ka Lin           def.      Aura Fang            46 61 62
+     QF      Karina Chao          def.      Matea Mihaljevic     06 60 62
+     16      Mila Stanojevic      def.      Gabriela Charalampi… 61 60
+     16      Mingfang Lisa Zhu    def.      Yijia Jiao           62 46 64
+     16      Cindy Hu             def.      Ivayla Mitkova       62 62
+     16      Bhakti Shah          def.      Sicely Ferreira      62 60
+     16      Aura Fang            def.      Megan Lang Gould     64 75
+     16      Win Ka Lin           def.      Katya Hersh          61 46 63
+     16      Karina Chao          def.      Tatum Burger         75 61
+     16      Matea Mihaljevic     def.      Samantha Horwood     75 64
+     32      Mila Stanojevic      def.      Qianxin Kong         36 62 62
+     32      Gabriela Charalampi… def.      Anya Lamoreaux       64 60
+     32      Mingfang Lisa Zhu    def.      Mihaela Kaftanova    61 26 61
+     32      Yijia Jiao           def.      Elinor Beazley       61 26 62
+     32      Ivayla Mitkova       def.      Nicole Horacek       64 63
+     32      Cindy Hu             def.      Jj Chen              62 62
+     32      Bhakti Shah          def.      Isabella Flodin      61 63
+     32      Sicely Ferreira      def.      Ellen Puzak          62 76(4)
+     32      Aura Fang            def.      Avery Pope           61 61
+     32      Megan Lang Gould     def.      Maria Villarejo      61 60
+     32      Katya Hersh          def.      Serina Abriola       64 62
+     32      Win Ka Lin           def.      Ky Ecton             76(3) 62
+     32      Tatum Burger         def.      Madison Smith        64 62
+     32      Karina Chao          def.      Nicole Discenza      63 64
+     32      Samantha Horwood     def.      Lauren Dunlap        16 62 63
+     32      Matea Mihaljevic     def.      Lucia Malinak        46 64 75
+     64      Qianxin Kong         def.      Maria Goheen         26 62 64
+     64      Gabriela Charalampi… def.      Saffron Dowse        64 60
+     64      Mihaela Kaftanova    def.      Juliana Honczaruk    62 62
+     64      Mingfang Lisa Zhu    def.      Alexis Odom          61 61
+     64      Elinor Beazley       def.      Megan Davies         76(4) 60
+     64      Yijia Jiao           def.      Sol O Lideadha       26 63 60
+     64      Nicole Horacek       def.      Alyse Cormier        61 26 63
+     64      Cindy Hu             def.      Alysha Damron        60 62
+     64      Bhakti Shah          def.      Xenia De Luna        46 76(5) 62
+     64      Sicely Ferreira      def.      Ida Krause           67(5) 61 63
+     64      Avery Pope           def.      Rosie Sterk          76(5) 46 76(4)
+     64      Maria Villarejo      def.      Andrea Le            36 60 62
+     64      Megan Lang Gould     def.      Jayanne Palma        62 62
+     64      Katya Hersh          def.      Rachel Mellor        63 76(5)
+     64      Serina Abriola       def.      Cristina Moll Alles  64 63
+     64      Ky Ecton             def.      Bhargavi Kalaga      63 67(5) 62
+     64      Win Ka Lin           def.      Katherine Jhang      62 61
+     64      Madison Smith        def.      Betina Tokac         06 64 64
+     64      Tatum Burger         def.      Andrea Redondo       64 75
+     64      Karina Chao          def.      Annabel Davis        46 64 64
+     64      Nicole Discenza      def.      Alex Hildreth        62 63
+     64      Lauren Dunlap        def.      Andrea Cuquerella    76(4) 76(3)
+     64      Matea Mihaljevic     def.      Megan Lombardi       64 75
+ > Friday added singles
+  > Main
+     64      Marta Garcia-Rebore… def.      Yue Lin Chen         75 62
+     64      Izumi Asano          def.      Hana Cho             61 61
+     64      Antonia Balzert      def.      Zita Kovacs          63 62
+     64      Lindsay Hung         def.      Hsuan Huang          64 64
+     64      Salsa Aher           def.      Melissa Huchet       62 64
+     64      Shir Azran           def.      Sabrina Longson      60 62
+     64      Laura Duhl           def.      Leah Heimuli         64 64
+     64      Sarka Richterova     def.      Madison Tattini      62 63
+     64      Sofia Markova        def.      Harsha Challa        64 76(5)
+     64      Megan Forster        def.      Anastasia Abramyan   62 75
+     64      Milka Genkova        def.      Ana Fernandez Villa  61 75
+     64      Toni Nelson          def.      Anastasia Goncharova 76(4) 63
+     64      Yujia Huang          def.      Noesjka Brink        61 61
+     64      Emilee Astle         def.      Chloe Gavino         62 60
+     64      Maria Campos         def.      Lola O Lideadha      60 61
+     64      Emily Dush           def.      Ava Neyestani        46 63 [8]
+     64      Olivia Oosterbaan    def.      Mirte Van Baelen     62 46 [9]
+     64      Ana Morett           def.      Madeline Lamoreaux   64 57 [4]
+     64      Sydney Fitch         def.      Somer Dalla-Bona     62 61
+ > Friday added flight 2
+  > Main
+     64      Ya - Chi Hsu         def.      Serina Abriola       63 61
+     64      Alex Hildreth        def.      Sara Alajbegovic     61 76(4)
+     64      Andrea Cuquerella    def.      Ellen Puzak          76(4) 63
+     64      Rosie Sterk          def.      Rachel Mellor        62 64
+     64      Annabel Davis        def.      Isabella Flodin      61 60
+     64      Sol O Lideadha       def.      Alyse Cormier        62 62
+     64      Megan Lombardi       def.      Bhargavi Kalaga      61 64
+     64      Andrea Le            def.      Jayanne Palma        62 26 [2]
+     64      Yijia Jiao           def.      Tatum Burger         62 76(4)
+     64      Jj Chen              def.      Nicole Horacek       61 61
+     64      Xenia De Luna        def.      Alysha Damron        64 64
+     64      Madison Smith        def.      Lauren Dunlap        60 63
+     64      Anya Lamoreaux       def.      Ivayla Mitkova       64 61
+     64      Betina Tokac         def.      Alexis Odom          64 64
+     64      Katya Hersh          def.      Mihaela Kaftanova    61 61
+     64      Qianxin Kong         def.      Ky Ecton             63 75
+     64      Avery Pope           def.      Maria Villarejo      63 64
+     64      Maria Goheen         def.      Ida Krause           61 63
+     64      Elinor Beazley       def.      Saffron Dowse        75 60
+     64      Megan Davies         def.      Andrea Redondo       67(4) 63 [7]
+ > Saturday added singles
+  > Main
+     64      Anastasia Goncharova def.      Noesjka Brink        63 60
+     64      Andrea Beltran       def.      Leah Heimuli         64 16 [3]
+     64      Salsa Aher           def.      Tatum Burger         64 61
+     64      Emilee Astle         def.      Maria Oreshkina      64 61
+     64      Sydney Fitch         def.      Marta Garcia-Rebore… 64 76(3)
+     64      Mirte Van Baelen     def.      Ya - Chi Hsu         62 64
+     64      Sophie Zehender      def.      Antonia Balzert      46 62 [8]
+     64      Izumi Asano          def.      Madeline Lamoreaux   64 62
+     64      Toni Nelson          def.      Shir Azran           75 61
+     64      Zita Kovacs          def.      Ana Morett           46 63 [8]
+     64      Emily Dush           def.      Somer Dalla-Bona     75 46 [3]
+     64      Yujia Huang          def.      Sarka Richterova     60 61
+     64      Ida Krause           def.      Sabrina Longson      61 60
+ > Saturday added flight 2
+  > Main
+     64      Taylor Melville      def.      Noesjka Brink        76(3) 26 [9]
+     64      Andrea Cuquerella    def.      Alex Hildreth        61 63
+     64      Isabella Flodin      def.      Maria Villarejo      75 64
+     64      Yijia Jiao           def.      Ellen Puzak          26 63 [6]
+     64      Alexis Odom          def.      Madison Smith        26 76(3) [3]
+     64      Anya Lamoreaux       def.      Mihaela Kaftanova    76(4) 63
+     64      Qianxin Kong         def.      Serina Abriola       64 60
+     64      Alysha Damron        def.      Aura Fang            46 62 [3]
+     64      Katya Hersh          def.      Juliana Honczaruk    36 63 [6]
+     64      Alyse Cormier        def.      Avery Pope           62 26 [9]
+     64      Rachel Mellor        def.      Xenia De Luna        75 36 [2]
 ~~~
 
 <a name="21-91243"></a>

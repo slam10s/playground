@@ -10,6 +10,7 @@
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Texas Regional Championship](#21-59010) ([Results](#21-59010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">Draws</a>)  
 - 10/15/2021 - [Louisville Invitational](#21-27355) ([Results](#21-27355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Draws</a>)  
+- 10/15/2021 - [San Diego State Fall Invite](#21-62211) ([Results](#21-62211) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">Draws</a>)  
 - 10/15/2021 - [UTC-Steve Baras Invitational](#21-41868) ([Results](#21-41868) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
@@ -18,7 +19,6 @@
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">San Diego State Fall Invite</a>  
 - 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Wesleyan Invitational</a>  
 
 <a name="21-27941"></a>
@@ -387,6 +387,34 @@
      R1  Sornlaksup/Meluta    def.  Berglund/Staff       64
 ~~~
 
+<a name="21-62211"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  San Diego State Fall Invite
+  Dates: Oct 15-17, 2021
+  Host: San Diego State University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Day One Doubles
+  > Main
+     R1  Blair/Rikkonen       def.  Dominguez Alonso/Bh… 87(3)
+     R1  Otico/Torlic         def.  Lan/Lan              82
+     R1  Lagaev/Horwood       def.  Ciszewski/Brodney    82
+     R1  Middleton/Olsen      def.  Hambrook/Navarro     83
+ > Day Two Doubles
+  > Main
+     QF  Ciszewski/Brodney    def.  Blair/Scemanenco     84
+     QF  Rikkonen/Irvine      def.  Hambrook/Navarro     86
+     QF  Dominguez Alonso/Bh… def.  Lagaev/Horwood       87(5)
+     QF  Otico/Torlic         def.  Middleton/Olsen      86
+ > Day Three Doubles
+  > Main
+     QF  Lagaev/Horwood       def.  Rikkonen/Scemanenco  81
+     QF  Middleton/Olsen      def.  Blair/Ermert         84
+     QF  Dominguez Alonso/Bh… def.  Ciszewski/Brodney    83
+     QF  Otico/Torlic         def.  Hambrook/Navarro     82
+~~~
+
 <a name="21-41868"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════
@@ -573,17 +601,17 @@
       F  Faletto/van den Akk… def.  Thiel/Mensour        62
      SF  Thiel/Mensour        def.  Tajada/Turley        75
      SF  Faletto/van den Akk… def.  Morel/Choi           63
-     QF  Thiel/Mensour        def.  Gil/Hartmann         61
+     QF  Thiel/Mensour        def.  Gil/Freemann         61
      QF  Tajada/Turley        def.  De Oliveira/Menende… 64
      QF  Morel/Choi           def.  Patino Pabon/Safont… 75
      QF  Faletto/van den Akk… def.  Preiswerk/Martinez   60
   > West
-     SF  De Oliveira/Menende… def.  Gil/Hartmann         61
+     SF  De Oliveira/Menende… def.  Gil/Freemann         61
      SF  Preiswerk/Martinez   def.  Patino Pabon/Safont… 62
   > 3-4 Playoff
       F  Morel/Choi           def.  Tajada/Turley        62
   > South
-      F  Patino Pabon/Safont… def.  Gil/Hartmann         75
+      F  Patino Pabon/Safont… def.  Gil/Freemann         75
  > Flight B
   > East
       F  Bacella/Iriarte      def.  Gandara/Vieira       60

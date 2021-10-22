@@ -40,6 +40,7 @@
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Division III Women's Northwest ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/19C5EAFF-4E4C-4DBD-83F9-4FE76D915740" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1048F1D3-F372-4A0C-9A4A-3F0D57040FE9" target="_blank">Rocket Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  

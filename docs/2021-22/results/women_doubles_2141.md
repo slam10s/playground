@@ -3,6 +3,7 @@
 **Tournamets with Matches**  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/16/2021 - [Brown Classic](#21-58015) ([Results](#21-58015) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Women's Mountain Regional Championship](#21-74915) ([Results](#21-74915) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Northeast Regional Championship](#21-91243) ([Results](#21-91243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
@@ -14,7 +15,6 @@
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">ITA Division I Women's Mountain Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/B1C9ACB5-0D08-48E0-980C-75F2F818B28F" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 
 <a name="21-27941"></a>
@@ -96,6 +96,111 @@
      32  Weber/Fahrmeier      def.  Lau/Peus             64
      32  Benedetto/Ahlstrom   def.  Dewire/Peng          62
      32  Mariotti/Dellacono   def.  Jupalli/Swaffer-Sel… 64
+~~~
+
+<a name="21-74915"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  ITA Division I Women's Mountain Regional Championship
+  Dates: Oct 14-17, 2021
+  Host: Univ. Of Nevada, Las Vegas (W)
+═══════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F     Buzkova/Mihaljevic   def.     Dalla-Bona/Richtero… 62 64
+     SF     Dalla-Bona/Richtero… def. (1) Pursell/Verden-Ande… 76(3) 61
+     SF     Buzkova/Mihaljevic   def.     Morett/Kuo           63 64
+     QF (1) Pursell/Verden-Ande… def. (5) Abramyan/Heimuli     86
+     QF     Dalla-Bona/Richtero… def.     Challa/Zhu           86
+     QF     Morett/Kuo           def.     Haugen/Goheen        86
+     QF     Buzkova/Mihaljevic   def. (2) Aher/Asano           87(4)
+     16 (1) Pursell/Verden-Ande… def.     Kovacs/Hu            87(4)
+     16 (5) Abramyan/Heimuli     def.     Fernandez Villa/Zeh… 86
+     16     Dalla-Bona/Richtero… def.     Azran/Helgesson      85
+     16     Challa/Zhu           def.     Melville/Beltran     84
+     16     Morett/Kuo           def.     Zhao/Fang            86
+     16     Haugen/Goheen        def.     Forster/Stanojevic   87(5)
+     16     Buzkova/Mihaljevic   def. (7) Bland/Millard        85
+     16 (2) Aher/Asano           def.     Oliveira/Jhang       82
+     32 (1) Pursell/Verden-Ande… def.     Odom/Le              83
+     32     Kovacs/Hu            def.     Davies/Ferreira      82
+     32 (5) Abramyan/Heimuli     def.     Balzert/Pozo         85
+     32     Fernandez Villa/Zeh… def.     Horwood/Hung         84
+     32     Dalla-Bona/Richtero… def. (4) Baptista/Stewart     87(4)
+     32     Azran/Helgesson      def.     Palma/Horacek        85
+     32     Challa/Zhu           def. (8) Goncharova/Huang     83
+     32     Melville/Beltran     def.     Flodin/Stelse        82
+     32     Morett/Kuo           def.     Fitch/Glozman        85
+     32     Zhao/Fang            def. (6) Burger/Riedmiller    87(6)
+     32     Forster/Stanojevic   def.     Duhl/Beazley         87(4)
+     32     Haugen/Goheen        def. (3) Dush/Tattini         86
+     32     Buzkova/Mihaljevic   def.     Hersh/Lamoreaux      87(5)
+     32 (7) Bland/Millard        def.     Astle/Lin            86
+     32     Oliveira/Jhang       def.     Oosterbaan/Mitkova   87(4)
+     32 (2) Aher/Asano           def.     Cuquerella/Garcia-R… 84
+     64     Odom/Le              def.     Cho/Lang Gould       86
+     64     Davies/Ferreira      def.     Shah/Discenza        84
+     64     Kovacs/Hu            def.     Genkova/Charalampidi 84
+     64     Balzert/Pozo         def.     Dittmann/Davis       85
+     64     Horwood/Hung         def.     Hildreth/Hsu         82
+     64     Fernandez Villa/Zeh… def.     Dunlap/Sterk         85
+     64     Dalla-Bona/Richtero… def.     Campos/Ecton         82
+     64     Azran/Helgesson      def.     Van Baelen/Villarejo 84
+     64     Palma/Horacek        def.     Longson/Damron       83
+     64 (8) Goncharova/Huang     def.     Neyestani/Markova    83
+     64     Challa/Zhu           def.     County/Dekkers       82
+     64     Flodin/Stelse        def.     Kaftanova/Brink      87(4)
+     64     Melville/Beltran     def.     Smith/Kong           83
+     64     Fitch/Glozman        def.     Huang/Jiao           85
+     64     Morett/Kuo           def.     Oreshkina/Malinak    86
+     64     Zhao/Fang            def.     Kalaga/Gavino        87(4)
+     64     Duhl/Beazley         def.     Ernstberger/Conde V… 84
+     64     Forster/Stanojevic   def.     Huchet/Redondo       84
+     64     Haugen/Goheen        def.     Moll Alles/Luneva    86
+     64     Hersh/Lamoreaux      def.     Chao/Kuo             85
+     64     Buzkova/Mihaljevic   def.     Huang/Chen           83
+     64     Astle/Lin            def.     Puzak/Tokac          83
+     64 (7) Bland/Millard        def.     Abriola/Krause       87(5)
+     64     Oliveira/Jhang       def.     O Lideadha/O Lidead… 80
+     64     Oosterbaan/Mitkova   def.     Mellor/Honczaruk     87(5)
+     64     Cuquerella/Garcia-R… def.     De Luna/Pope         85
+ > Friday added doubles
+  > Main
+     64     Fitch/Flodin         def.     Astle/Lin            63
+     64     Stewart/Discenza     def.     Neyestani/Markova    62
+     64     Luneva/Genkova       def.     Nelson/Burger        63
+     64     Duhl/Beazley         def.     Dush/Hung            64
+     64     Oosterbaan/Mitkova   def.     Palma/Horacek        61
+     64     Huang/Jiao           def.     Van Baelen/Villarejo 64
+     64     Chao/Odom            def.     Cormier/Krause       61
+     64     Mellor/Honczaruk     def.     Kalaga/Gavino        64
+     64     Lombardi/Davies      def.     O Lideadha/O Lidead… 63
+     64     Goncharova/Lamoreaux def.     Campos/Ecton         64
+     64     Glozman/Kuo          def.     Oreshkina/Malinak    62
+     64     Cho/Lang Gould       def.     Hildreth/Hsu         64
+     64     Huchet/Redondo       def.     Lamoreaux/Horwood    62
+     64     Longson/Damron       def.     De Luna/Pope         76(4)
+     64     Smith/Kong           def.     Moll Alles/Charalam… 62
+     64     Cuquerella/Garcia-R… def.     Ernstberger/Conde V… 75
+     64     Puzak/Tokac          def.     Le/Stelse            61
+ > Saturday added doubles
+  > Main
+     64     Krause/Oreshkina     def.     Astle/Lin            63
+     64     Huang/Jiao           def.     Stelse/Chao          64
+     64     Azran/Hu             def.     Mellor/Honczaruk     61
+     64     Nelson/Burger        def.     Aher/Asano           63
+     64     Forster/Stanojevic   def.     Zhao/Fang            62
+     64     Goncharova/Hersh     def.     Glozman/Kuo          61
+     64     Kaftanova/Brink      def.     Cuquerella/Garcia-R… 64
+     64     Melville/Beltran     def.     Fernandez Villa/Zeh… 63
+     64     Dush/Lamoreaux       def.     Fitch/Flodin         75
+     64     Abramyan/Heimuli     def.     Balzert/Ecton        63
+     64     Longson/Damron       def.     Van Baelen/Villarejo 64
+     64     De Luna/Pope         def.     Hildreth/Hsu         64
+     64     Smith/Kong           def.     Cormier/Abriola      63
+     64     Lombardi/Davies      def.     Odom/Le              63
+     64     Lamoreaux/Hung       def.     Puzak/Tokac          64
 ~~~
 
 <a name="21-91243"></a>

@@ -29,6 +29,7 @@
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityM/Tournaments/Overview/D4F405A0-9744-41D5-B40A-884B0F1AADEF" target="_blank">OSU Invitational</a>  
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/D340CAAE-2400-4107-B71A-028FCF6F67DA" target="_blank">Penn Invitational</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
 - 9/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SwarthmoreCollegeM/Tournaments/Overview/EBF37285-C88B-4F3E-B6EA-6C0DE013DBB8" target="_blank">Swat Men's Tennis Invite</a>  
@@ -1740,7 +1741,7 @@
      64     Ramon Fererr         def.     Nicola Buffo         63 63
      64     Yassir Kilani        def.     Miguel Torrenegra    61 63
      64     Maxime Navrotchi     def.     Rodrigo Zapata       60 61
-     64     Fernando Alejandro … def.     Richard Hartmann     62 62
+     64     Fernando Alejandro … def.     Richard Freemann     62 62
      64     Diego Menendez Vina  def.     Thomas Andrews       63 46 [4]
      64 (2) Geronimo Barrios     def.     Adriel Bousquet      Walkover
 ~~~
