@@ -18,11 +18,11 @@
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Crusader Invitational</a>  
+- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">MIT Invite</a>  
 
 **Upcoming Tournaments**  
 - 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaM/Tournaments/Overview/A9056FEF-25AD-4F2E-9338-1E7D25480DA0" target="_blank">UNA Men's Classic</a>  
 - 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/7E100217-7269-401A-99AA-F3C782FC0593" target="_blank">MIT Classic</a>  
-- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">MIT Invite</a>  
 
 <a name="21-65872"></a>
 ~~~
@@ -628,7 +628,7 @@
      32 (1) Tyler Glowaki         vs      Domenico Denaro      Fri @ 13:30
      32     Bryan Cajamarca       vs      Miguel Ferreira      Fri @ 13:30
      32     Nazareno Tauber       vs      Nadal Nicolau Ferrer Fri @ 13:30
-     32     Jan Risanek           vs      Jake Edwards         Fri @ 13:30
+     32     Jan Risanek          def.     Jake Edwards         Walkover
      32     Zander Cromwell       vs      Luca Mariot          Fri @ 13:30
      32     Hamish Lee            vs      Alexander Nunez      Fri @ 13:30
      32     Luis Figueroa         vs      Nicolas Bueno        Fri @ 13:30

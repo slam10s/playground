@@ -21,10 +21,10 @@
 **Tournaments without Matches**  
 - 10/19/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Butler Tournament</a>  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Crusader Invitational</a>  
+- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/4E66DF95-8991-4880-9830-29E9F5B3C53F" target="_blank">Saint Leo Hidden Duals - Women</a>  
 
 **Upcoming Tournaments**  
 - 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship</a>  
-- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/4E66DF95-8991-4880-9830-29E9F5B3C53F" target="_blank">Saint Leo Hidden Duals - Women</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -525,7 +525,6 @@
      QF  Thassane Abrahim     vs   Mariya Shumeika   Fri @ 09:00
  > Flight C
   > East
-     QF  Katarina Sasaroga    vs   Eve Daniels       Fri @ 11:30
      QF  Kateryna Rublevska   vs   Laura Schmitz     Fri @ 09:00
      QF  Lina Sachica         vs   Stefanie Wilske   Fri @ 11:30
      QF  Jayci Wong           vs   Victoire Delattre Fri @ 09:00
@@ -539,73 +538,135 @@
   Host: Wake Forest University (W)
 ═════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
+ > Main A1
+  > Main
+      32  (1) Chloe Beck            vs       Luiza Fullana        Fri @ 11:45
+      32      Samantha Martinelli   vs       Lucia Quiterio       Fri @ 12:00
+      32  (5) Jaeda Daniel          vs       Halli Trinkle        Fri @ 12:00
+      32      Alle Sanford          vs       Madison Dillon       Fri @ 11:45
+      32  (4) Carson Tanguilig      vs       Misa Malkin          Fri @ 10:30
+      32      Sara Nayar            vs       Jess Dawson          Fri @ 12:00
+      32  (7) Eleni Louka           vs       Kseniia Aleshina     Fri @ 10:30
+      32      Victoire de Samucew…  vs       Margaryta Bilokin    Fri @ 12:30
+      32      Amelia Rajecki        vs       Lizette Reding       Fri @ 12:30
+      32      Erika Barquero        vs   (6) Julia Adams          Fri @ 12:30
+      32      Samantha Buyckx       vs       Allie Gretkowski     Fri @ 10:30
+      32      Teodora Ristic        vs   (3) Carolyn Campana      Fri @ 10:30
+      32      Ali DeSpain           vs       Josie Schaffer       Fri @ 10:30
+      32      Lily Woods            vs   (8) Elizabeth Coleman    Fri @ 10:30
+      32      Miray Konar           vs       Peyton Pesavento     Fri @ 12:30
+      32      Margaux Maquet        vs   (2) Cameron Morra        Fri @ 10:30
+ > Main A2
+  > Main
+      32  (1) Fiona Crawley         vs       Jenna Thompson       Fri @ 10:30
+      32      Martina Muzzolon      vs       Slade Coetzee        Fri @ 13:00
+      32  (8) Anna Campana          vs       Gracie Mulville      Fri @ 13:00
+      32      Emma Wilkins          vs       Ellie Schoppe        Fri @ 11:15
+      32  (3) Kelly Chen            vs       Sara Snyder          Fri @ 13:00
+      32      Ana Cruz              vs       Daniella Medvedeva   Fri @ 13:30
+      32  (5) Sophie Abrams         vs       Lindsay Zink         Fri @ 11:15
+      32      Kata Foldeak          vs       Rocio Safont         Fri @ 11:15
+      32      Cristina Mayorova     vs       Kacie Harvey         Fri @ 11:15
+      32      Ruxi Schech           vs   (7) Emma Jackson         Fri @ 13:30
+      32      Hind Semlali          vs       Casie Wooten         Fri @ 13:30
+      32      Maggie Pate           vs   (4) Abigail Rencheli     Fri @ 13:30
+      32      Ellie Schulson        vs       Eliza Omirou         Fri @ 14:00
+      32      Saby Nihalani         vs   (6) Anika Yarlagadda     Fri @ 14:00
+      32      Sibel Tanik           vs       Megan Hopton         Fri @ 14:00
+      32      Anna Daniels          vs   (2) Ayana Akli           Fri @ 14:00
+ > B1
+  > Main
+      32  (1) Jenna Dean            vs       Emely Kahrs          Fri @ 13:00
+      32      Olivia Archer         vs       Elise Semmartin      Fri @ 13:30
+      32  (5) Linden Patterson      vs       Sara McClure         Fri @ 13:30
+      32      Isabella Weatherhead  vs       Alexandra Anttila    Fri @ 13:30
+      32  (4) Chloe Narboni         vs       Mccollough Perry     Fri @ 14:00
+      32      Hoda Habib            vs       Breda Brennan        Fri @ 14:00
+      32      Alison ODea           vs       Amila Jusufbegovic   Fri @ 14:30
+      32      Maddie Brown          vs       Sarah Allen          Fri @ 14:30
+      32      Victoria Anyanwu      vs   (6) Kendall Couch        Fri @ 14:30
+      32      Paola Landin          vs       Courtney Fyvie       Fri @ 15:00
+      32      Ansley Hardeman       vs   (3) Julia Abrams         Fri @ 15:00
+      32      Shauna Galvin         vs   (8) Jesse Hollins        Fri @ 15:30
+      32      Eugenia Camacho Fer…  vs       Maddy Muller-Hughes  Fri @ 15:30
+      32      Kassandrao DiStaulo   vs   (2) Ilayda Baykan        Fri @ 15:30
+      64      Brinley Bell          vs       Franny Shea          Fri @ 12:59
+      64      Antonella Benavides   vs       Emma Sorensen        Fri @ 12:59
  > Qualifying
   > Main
-      32  (1) Samantha Martinelli def.      Khyanna Singh        41 Ret.
-      32      Miray Konar         def.      Kavya Patel          62 64
-      32      Halli Trinkle       def.  (8) Elise Mills          64 63
-      32      Lizette Reding      def. (13) Lucie Petruzelova    63 63
-      32  (4) Emma Wilkins        def.      Tiffany Pyritz       61 61
-      32      Ellie Schoppe       def. (11) Sophia Hatton        64 76(5)
-      32  (7) Ana Cruz            def.      Noa Boyd             75 62
-      32 (10) Ellie Schulson      def.      Daniela Porges       75 63
-      32  (9) Jess Dawson         def.      Zoe Huffman          61 61
-      32  (6) Maggie Pate         def.      Alisa Diercksen      61 64
-      32 (16) Peyton Pesavento    def.      Makayla Mills        63 62
-      32  (3) Jenna Thompson      def.      Peyton Brotzman      75 75
-      32 (12) Samantha Buyckx     def.      Mathilde Tranberg    62 63
-      32  (5) Madison Dillon      def.      Maja Jekauc          67(4) 62 62
-      32 (15) Megan Hopton        def.      Rachel Marthinsen    46 64 62
-      32  (2) Saby Nihalani       def.      Manon Delsol         61 60
-      64  (1) Samantha Martinelli def.      Brianna Wilbur       61 62
-      64      Khyanna Singh       def.      Emma Heiderscheit    62 63
-      64      Miray Konar         def. (14) Maddie Lynch         63 16 64
-      64      Kavya Patel         def.      Jade Houston         64 46 76(3)
-      64  (8) Elise Mills         def.      Erika Dodridge       64 64
-      64      Halli Trinkle       def.      Juliana Craft        63 63
-      64 (13) Lucie Petruzelova   def.      Liz Truluck          36 63 63
-      64      Lizette Reding      def.      Maria Jardim         61 76(4)
-      64  (4) Emma Wilkins        def.      Elin Hellberg        61 60
-      64      Tiffany Pyritz      def.      Raegan Mitchell      62 63
-      64 (11) Sophia Hatton       def.      Anne Lou Champion    61 62
-      64      Ellie Schoppe       def.      Mira Gladstone       61 62
-      64  (7) Ana Cruz            def.      Lana Sipek           57 62 63
-      64      Noa Boyd            def.      Lauren Gish          63 62
-      64 (10) Ellie Schulson      def.      Lindsay Tulenko      61 63
-      64      Daniela Porges      def.      Madalina Man         64 60
-      64      Zoe Huffman         def.      Ariana Chan Baratau  64 62
-      64  (9) Jess Dawson         def.      Laura Marti          60 62
-      64      Alisa Diercksen     def.      Valentina Urelli     64 64
-      64  (6) Maggie Pate         def.      Helena Jansen        76(2) 57 62
-      64      Makayla Mills       def.      Victoria Saldh       75 57 75
-      64 (16) Peyton Pesavento    def.      Karolina Berankova   75 75
-      64      Peyton Brotzman     def.      Ines Bachir el Bouh… 75 36 75
-      64  (3) Jenna Thompson      def.      Elizabeth Massie     63 62
-      64      Mathilde Tranberg   def.      Anna Uljanov         75 63
-      64 (12) Samantha Buyckx     def.      Rachida Berjane      60 61
-      64      Maja Jekauc         def.      Julie Ball           67(3) 60 62
-      64  (5) Madison Dillon      def.      Sasha Belaya         60 21 Ret.
-      64      Rachel Marthinsen   def.      Hannah Gaines        60 60
-      64 (15) Megan Hopton        def.      Jacy Smith           36 64 63
-      64      Manon Delsol        def.      Lilie Steryous       46 64 62
-      64  (2) Saby Nihalani       def.      Lasya Patnaik        63 64
+      32  (1) Samantha Martinelli  def.      Khyanna Singh        41 Ret.
+      32      Miray Konar          def.      Kavya Patel          62 64
+      32      Halli Trinkle        def.  (8) Elise Mills          64 63
+      32      Lizette Reding       def. (13) Lucie Petruzelova    63 63
+      32  (4) Emma Wilkins         def.      Tiffany Pyritz       61 61
+      32      Ellie Schoppe        def. (11) Sophia Hatton        64 76(5)
+      32  (7) Ana Cruz             def.      Noa Boyd             75 62
+      32 (10) Ellie Schulson       def.      Daniela Porges       75 63
+      32  (9) Jess Dawson          def.      Zoe Huffman          61 61
+      32  (6) Maggie Pate          def.      Alisa Diercksen      61 64
+      32 (16) Peyton Pesavento     def.      Makayla Mills        63 62
+      32  (3) Jenna Thompson       def.      Peyton Brotzman      75 75
+      32 (12) Samantha Buyckx      def.      Mathilde Tranberg    62 63
+      32  (5) Madison Dillon       def.      Maja Jekauc          67(4) 62 62
+      32 (15) Megan Hopton         def.      Rachel Marthinsen    46 64 62
+      32  (2) Saby Nihalani        def.      Manon Delsol         61 60
+      64  (1) Samantha Martinelli  def.      Brianna Wilbur       61 62
+      64      Khyanna Singh        def.      Emma Heiderscheit    62 63
+      64      Miray Konar          def. (14) Maddie Lynch         63 16 64
+      64      Kavya Patel          def.      Jade Houston         64 46 76(3)
+      64  (8) Elise Mills          def.      Erika Dodridge       64 64
+      64      Halli Trinkle        def.      Juliana Craft        63 63
+      64 (13) Lucie Petruzelova    def.      Liz Truluck          36 63 63
+      64      Lizette Reding       def.      Maria Jardim         61 76(4)
+      64  (4) Emma Wilkins         def.      Elin Hellberg        61 60
+      64      Tiffany Pyritz       def.      Raegan Mitchell      62 63
+      64 (11) Sophia Hatton        def.      Anne Lou Champion    61 62
+      64      Ellie Schoppe        def.      Mira Gladstone       61 62
+      64  (7) Ana Cruz             def.      Lana Sipek           57 62 63
+      64      Noa Boyd             def.      Lauren Gish          63 62
+      64 (10) Ellie Schulson       def.      Lindsay Tulenko      61 63
+      64      Daniela Porges       def.      Madalina Man         64 60
+      64      Zoe Huffman          def.      Ariana Chan Baratau  64 62
+      64  (9) Jess Dawson          def.      Laura Marti          60 62
+      64      Alisa Diercksen      def.      Valentina Urelli     64 64
+      64  (6) Maggie Pate          def.      Helena Jansen        76(2) 57 62
+      64      Makayla Mills        def.      Victoria Saldh       75 57 75
+      64 (16) Peyton Pesavento     def.      Karolina Berankova   75 75
+      64      Peyton Brotzman      def.      Ines Bachir el Bouh… 75 36 75
+      64  (3) Jenna Thompson       def.      Elizabeth Massie     63 62
+      64      Mathilde Tranberg    def.      Anna Uljanov         75 63
+      64 (12) Samantha Buyckx      def.      Rachida Berjane      60 61
+      64      Maja Jekauc          def.      Julie Ball           67(3) 60 62
+      64  (5) Madison Dillon       def.      Sasha Belaya         60 21 Ret.
+      64      Rachel Marthinsen    def.      Hannah Gaines        60 60
+      64 (15) Megan Hopton         def.      Jacy Smith           36 64 63
+      64      Manon Delsol         def.      Lilie Steryous       46 64 62
+      64  (2) Saby Nihalani        def.      Lasya Patnaik        63 64
   > Consolation
-     32Q      Brianna Wilbur      def.      Emma Heiderscheit    16 63 64
-     32Q (14) Maddie Lynch        def.      Jade Houston         75 63
-     32Q      Erika Dodridge      def.      Juliana Craft        63 75
-     32Q      Liz Truluck         def.      Maria Jardim         63 61
-     32Q      Raegan Mitchell     def.      Elin Hellberg        61 62
-     32Q      Anne Lou Champion   def.      Mira Gladstone       64 61
-     32Q      Lana Sipek          def.      Lauren Gish          61 64
-     32Q      Madalina Man        def.      Lindsay Tulenko      63 61
-     32Q      Laura Marti         def.      Ariana Chan Baratau  64 63
-     32Q      Helena Jansen       def.      Valentina Urelli     64 62
-     32Q      Karolina Berankova  def.      Victoria Saldh       62 60
-     32Q      Elizabeth Massie    def.      Ines Bachir el Bouh… 62 64
-     32Q      Anna Uljanov        def.      Rachida Berjane      64 75
-     32Q      Julie Ball          def.      Sasha Belaya         Walkover
-     32Q      Jacy Smith          def.      Hannah Gaines        76(5) 61
-     32Q      Lasya Patnaik       def.      Lilie Steryous       61 60
+      16      Brianna Wilbur        vs  (14) Maddie Lynch         Fri @ 12:00
+      16      Erika Dodridge        vs       Liz Truluck          Fri @ 11:30
+      16      Raegan Mitchell       vs       Anne Lou Champion    Fri @ 11:30
+      16      Lana Sipek            vs       Madalina Man         Fri @ 11:30
+      16      Laura Marti           vs       Helena Jansen        Fri @ 11:30
+      16      Karolina Berankova    vs       Elizabeth Massie     Fri @ 12:00
+      16      Anna Uljanov          vs       Julie Ball           Fri @ 12:15
+      16      Jacy Smith            vs       Lasya Patnaik        Fri @ 12:15
+     32Q      Brianna Wilbur       def.      Emma Heiderscheit    16 63 64
+     32Q (14) Maddie Lynch         def.      Jade Houston         75 63
+     32Q      Erika Dodridge       def.      Juliana Craft        63 75
+     32Q      Liz Truluck          def.      Maria Jardim         63 61
+     32Q      Raegan Mitchell      def.      Elin Hellberg        61 62
+     32Q      Anne Lou Champion    def.      Mira Gladstone       64 61
+     32Q      Lana Sipek           def.      Lauren Gish          61 64
+     32Q      Madalina Man         def.      Lindsay Tulenko      63 61
+     32Q      Laura Marti          def.      Ariana Chan Baratau  64 63
+     32Q      Helena Jansen        def.      Valentina Urelli     64 62
+     32Q      Karolina Berankova   def.      Victoria Saldh       62 60
+     32Q      Elizabeth Massie     def.      Ines Bachir el Bouh… 62 64
+     32Q      Anna Uljanov         def.      Rachida Berjane      64 75
+     32Q      Julie Ball           def.      Sasha Belaya         Walkover
+     32Q      Jacy Smith           def.      Hannah Gaines        76(5) 61
+     32Q      Lasya Patnaik        def.      Lilie Steryous       61 60
 ~~~
 
 <a name="21-49776"></a>
@@ -648,7 +709,7 @@
   > Main
      128  Mariona Perez         vs   Ana Paula Naranjo M… Fri @ 09:30
      128  Lenka Stara           vs   Dalila Said          Fri @ 09:30
-     128  Jana Lazarevic        vs   Amber Hochstatter    Fri @ 09:30
+     128  Jana Lazarevic        vs   Natsumi Kurahashi    Fri @ 09:30
      128  Tiffini Nash          vs   Gabriela Martinez A… Fri @ 09:30
      128  Romana Tarajova       vs   Yada Vasupongchai    Fri @ 09:30
      128  Anna Turco            vs   Hunter Roper         Fri @ 09:30
@@ -675,7 +736,7 @@
      128  Grace Ball            vs   Manami Ukita         Fri @ 11:00
      128  Ines Stephani         vs   Valerie Negin        Fri @ 11:00
      128  Samantha Gillas       vs   Jordan Schifano      Fri @ 12:15
-     128  Alyson Piskulic       vs   Leonor Oliviera      Fri @ 12:15
+     128  Anfisa Danilchenko    vs   Leonor Oliviera      Fri @ 12:15
      128  Madison Gallegos      vs   Laura Rijkers        Fri @ 12:15
      128  Dinara Alloyarova     vs   Elys Ventura         Fri @ 12:15
  > Singles Qualifiers
@@ -759,7 +820,7 @@
  > Singles Qualifiers Cons
   > Main
       64  Charlotte Bowles      vs   Aliksandra Lebedeva  Fri @ 11:00
-      64  Flavia Gutierrez      vs   Vanessa Reinicke     Fri @ 11:00
+      64  Flavia Gutierrez      vs   Madeline Bremel      Fri @ 11:00
       64  Ashley Hatch          vs   Rachel Osborn        Fri @ 11:00
       64  Lucy Lu               vs   Berta Girbau         Fri @ 11:00
       64  Maria Thibault        vs   Daria Walczak        Fri @ 11:00
@@ -1102,7 +1163,6 @@
       64      Anastasia Iamachkine def.  (9) Giulia Morlet        76(2) 16 76(10)
       64 (17) Taylor Johnson       def.      Jenna Dorian         62 61
       64 (17) Claudia De Las Heras def.      Adriana Tabares      64 63
-      64      Victoria Santibanez…  vs       Kayla Wilkins        Thu @ 14:15
       64 (17) Veronica Miroshnich… def.      Kayla Meraz          63 62
       64  (8) Lisa Zaar            def.      Aline Buhr           61 60
       64 (17) Alexandra Vagramov   def.      Cecile Morin         62 61
@@ -1173,6 +1233,49 @@
      128  (9) Savannah Broadus     def.      Nikola Homolkova     63 63
      128      Sara Rakim           def.      Anjni Agrawal        62 60
      128 (17) Elise Wagle          def.      Nidhi Surapaneni     63 62
+ > Extra Matches 10/22
+  > Main
+     128      Vanesa Nikolovova     vs       Alicia Melosch       Fri @ 10:30
+     128      Ysabel Gonzalez-Rico  vs       Camila Garcia        Fri @ 13:15
+     128      Alexandria Von Ters…  vs       Dana Mackensen       Fri @ 10:45
+     128      Juliette Daries       vs       Jolene Coetzee       Fri @ 13:15
+     128      Shreya Pavani         vs       Gabrielle Lee        Fri @ 10:45
+     128      Sophie Pearson        vs       Madison Kim          Fri @ 13:15
+     128      Parker Fry            vs       Fabienne Schmidt     Fri @ 10:45
+     128      Valentina Del Marco   vs       Tal Talya Zandbers   Fri @ 10:45
+     128      Amelia Honer          vs       Naomi Nguyen         Fri @ 10:45
+     128      Katelyn Vu            vs       Emily Fowler         Fri @ 13:15
+     128      Magdalena Hedrzak     vs       Claire Le Du         Fri @ 13:15
+     128      Santa Strombacha      vs       YuSeung Suh          Fri @ 10:45
+     128      Sheena Masuda         vs       Julianna Sabile      Fri @ 10:45
+     128      Indya Nespor          vs       Dasee Carter         Fri @ 10:45
+     128      Caroline Goldberg     vs       Elizaveta Volodko    Fri @ 10:45
+     128      Regina Pitts          vs       Lea Romain           Fri @ 11:45
+     128      Megan Mansonhing      vs       Natasha Hill         Fri @ 11:45
+     128      Mariia Nikitash       vs       Alexis Merrill       Fri @ 11:45
+     128      Khim Iglupas          vs       Anukrita Bhadada     Fri @ 11:45
+     128      Jacqueline ONeill     vs       Ania Snissarenko     Fri @ 12:00
+     128      Belen Nevenhoven      vs       Mia Totah            Fri @ 12:00
+     128      Zara Lennon           vs       Agustina Rimoldi Go… Fri @ 12:00
+     128      Autum Prudhomme       vs       Midori Castillo      Fri @ 12:00
+     128      Shweta Kumar          vs       Priscila Janikian    Fri @ 12:00
+     128      Arina Babkova         vs       Kaytlin Taylor       Fri @ 12:00
+     128      Julia Jordan          vs       Nikola Homolkova     Fri @ 12:00
+     128      Anjni Agrawal         vs       Nidhi Surapaneni     Fri @ 12:00
+     128      Elizabeth Goldsmith   vs       Giulia Morlet        Fri @ 12:00
+     128      Jessi Muljat          vs       Adriana Tabares      Fri @ 12:00
+     128      Cali Jankowski        vs       Stefania Rogozinska… Fri @ 12:00
+     128      Sedona Gallagher      vs       Ava Catanzarite      Fri @ 12:00
+     128      Jenna Dorian          vs       Kayla Meraz          Fri @ 13:15
+     128      Gitte Heynemans       vs       Ekatarina Repina     Fri @ 13:15
+     128      Nnena Nadozie         vs       Salma Ziouti         Fri @ 13:15
+     128      Leyden Games          vs       Cecile Morin         Fri @ 13:15
+     128      Grace Piper           vs       Sara Rakim           Fri @ 13:15
+     128      McKenna Koenig        vs       Gabriella Pachl      Fri @ 13:15
+ > Extra extra 10/22
+  > Main
+      SF      Victoria Santibanez…  vs       Zuzanna Szczepanska  Fri @ 13:15
+      SF      Aline Buhr            vs       Ana Isabel Fraile T… Fri @ 13:15
 ~~~
 
 <a name="21-36554"></a>
@@ -1323,8 +1426,8 @@
      QF  Anshu Okamura       vs   Monica Cantu        Fri @ 09:30
  > Women's Flight 5
   > Main
-     R3  Brooke Runyan       vs   Nina Pigeassou      Fri @ 09:30
-     R3  Taylor Conway       vs   Chloe Dix           Fri @ 09:30
+     R3  Brooke Runyan       vs   Nina Pigeassou      Sat @ 09:30
+     R3  Taylor Conway       vs   Chloe Dix           Sat @ 09:30
      R2  Kanaha Furutani     vs   Nina Pigeassou      Fri @ 12:30
      R2  Jaqueline Obreque   vs   Chloe Dix           Fri @ 12:30
      R1  Kanaha Furutani     vs   Brooke Runyan       Fri @ 09:30

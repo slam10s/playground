@@ -21,10 +21,10 @@
 **Tournaments without Matches**  
 - 10/19/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Butler Tournament</a>  
 - 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Crusader Invitational</a>  
+- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/4E66DF95-8991-4880-9830-29E9F5B3C53F" target="_blank">Saint Leo Hidden Duals - Women</a>  
 
 **Upcoming Tournaments**  
 - 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship</a>  
-- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/4E66DF95-8991-4880-9830-29E9F5B3C53F" target="_blank">Saint Leo Hidden Duals - Women</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -273,7 +273,7 @@
       32     Dodridge/Aleshina    def.     Baykan/Schoppe       87(5)
       32     Delsol/Ristic        def.     Huffman/Bell         85
       32 (8) Berankova/Drummy     def.     Houston/Gaines       80
-      32     Hollins/Hopton       def.     Mitchell/Craft       86
+      32     Hollins/Hopton       def.     Mitchell/Craft       80
       32 (3) Daniel/Rencheli      def.     Safont/Maquet        87(5)
       32     Patel/Schaffer       def.     McClure/Zink         84
       32 (5) Gretkowski/Akli      def.     Marti/Man            84
@@ -296,7 +296,7 @@
       16 (6) Mayorova/Medvedeva    vs      Bachir el Bouhali/C… Fri @ 09:00
       16     Babayan/Urelli        vs  (8) Rajecki/Nayar        Fri @ 10:00
       16     Reding/Tanik          vs  (3) Beck/Bilokin         Fri @ 10:00
-      16     Pyritz/Fullana        vs      Jardim/Hellberg      Fri @ 10:00
+      16     Pyritz/Fullana        vs  (7) Quiterio/Schech      Fri @ 10:00
       16     Cruz/Mulville         vs  (2) Tran/Sanford         Fri @ 10:00
       32 (1) Martinelli/Wooten    def.     Fischer/Brennan      81
       32     Malkin/Mills         def.     Semlali/Patnaik      86
@@ -311,7 +311,7 @@
       32     Reding/Tanik         def.     Wilbur/Steryous      87(5)
       32 (3) Beck/Bilokin         def.     Snyder/Schulson      82
       32     Pyritz/Fullana       def.     Heiderscheit/Shea    81
-      32     Jardim/Hellberg      def. (7) Quiterio/Schech      85
+      32 (7) Quiterio/Schech      def.     Jardim/Hellberg      85
       32     Cruz/Mulville        def.     Coetzee/Trinkle      86
       32 (2) Tran/Sanford         def.     Nihalani/Pesavento   87(5)
   > Consolation
@@ -321,7 +321,7 @@
      16Q     Muller-Hughes/Danie…  vs      Barquero/Chan Barat… Fri @ 10:00
      16Q     Anttila/Hatton        vs      Smith/Pezzuco        Fri @ 10:15
      16Q     Wilbur/Steryous       vs      Snyder/Schulson      Fri @ 10:15
-     16Q     Heiderscheit/Shea     vs  (7) Quiterio/Schech      Fri @ 10:15
+     16Q     Heiderscheit/Shea     vs      Jardim/Hellberg      Fri @ 10:15
      16Q     Coetzee/Trinkle       vs      Nihalani/Pesavento   Fri @ 10:15
 ~~~
 

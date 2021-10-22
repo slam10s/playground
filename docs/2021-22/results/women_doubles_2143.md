@@ -119,7 +119,7 @@
       32     Dodridge/Aleshina    def.     Baykan/Schoppe       87(5)
       32     Delsol/Ristic        def.     Huffman/Bell         85
       32 (8) Berankova/Drummy     def.     Houston/Gaines       80
-      32     Hollins/Hopton       def.     Mitchell/Craft       86
+      32     Hollins/Hopton       def.     Mitchell/Craft       80
       32 (3) Daniel/Rencheli      def.     Safont/Maquet        87(5)
       32     Patel/Schaffer       def.     McClure/Zink         84
       32 (5) Gretkowski/Akli      def.     Marti/Man            84
@@ -142,7 +142,7 @@
       16 (6) Mayorova/Medvedeva    vs      Bachir el Bouhali/C… Fri @ 09:00
       16     Babayan/Urelli        vs  (8) Rajecki/Nayar        Fri @ 10:00
       16     Reding/Tanik          vs  (3) Beck/Bilokin         Fri @ 10:00
-      16     Pyritz/Fullana        vs      Jardim/Hellberg      Fri @ 10:00
+      16     Pyritz/Fullana        vs  (7) Quiterio/Schech      Fri @ 10:00
       16     Cruz/Mulville         vs  (2) Tran/Sanford         Fri @ 10:00
       32 (1) Martinelli/Wooten    def.     Fischer/Brennan      81
       32     Malkin/Mills         def.     Semlali/Patnaik      86
@@ -157,7 +157,7 @@
       32     Reding/Tanik         def.     Wilbur/Steryous      87(5)
       32 (3) Beck/Bilokin         def.     Snyder/Schulson      82
       32     Pyritz/Fullana       def.     Heiderscheit/Shea    81
-      32     Jardim/Hellberg      def. (7) Quiterio/Schech      85
+      32 (7) Quiterio/Schech      def.     Jardim/Hellberg      85
       32     Cruz/Mulville        def.     Coetzee/Trinkle      86
       32 (2) Tran/Sanford         def.     Nihalani/Pesavento   87(5)
   > Consolation
@@ -167,7 +167,7 @@
      16Q     Muller-Hughes/Danie…  vs      Barquero/Chan Barat… Fri @ 10:00
      16Q     Anttila/Hatton        vs      Smith/Pezzuco        Fri @ 10:15
      16Q     Wilbur/Steryous       vs      Snyder/Schulson      Fri @ 10:15
-     16Q     Heiderscheit/Shea     vs  (7) Quiterio/Schech      Fri @ 10:15
+     16Q     Heiderscheit/Shea     vs      Jardim/Hellberg      Fri @ 10:15
      16Q     Coetzee/Trinkle       vs      Nihalani/Pesavento   Fri @ 10:15
 ~~~
 
