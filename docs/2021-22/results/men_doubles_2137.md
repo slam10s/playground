@@ -492,7 +492,7 @@
   > Main
      16  Pawlowicz/Verma      def.  Semerak/Bhatia       63
      16  Townes/Smith         def.  Weekes/Pergel        60
-     16  Bodavula/Hatton      def.  Kanetkar/Perez Ramos 63
+     16  Bodavula/Hatton      def.  Kanektar/Perez Ramos 63
      16  Huarte/Zhang         def.  Carvalho/Mueller     60
      16  Galan/Snaiders       def.  Selati/Gupta         61
      16  Tang/Wibler          def.  Levinson/Potter      76(4)
@@ -502,7 +502,7 @@
      16  Weekes/Pergel        def.  Huarte/Zhang         76(5)
      16  Semerak/Bhatia       def.  Galan/Snaiders       61
      16  Tang/Wibler          def.  Townes/Smith         62
-     16  Kanetkar/Perez Ramos def.  Levinson/Potter      76(6)
+     16  Kanektar/Perez Ramos def.  Levinson/Potter      76(6)
      16  Selati/Gupta         def.  Carvalho/Mueller     62
  > Green 3
   > Main
@@ -510,7 +510,7 @@
      16  Tang/Wibler          def.  Weekes/Pergel        61
      16  Galan/Snaiders       def.  Bodavula/Hatton      63
      16  Semerak/Bhatia       def.  Levinson/Potter      61
-     16  Kanetkar/Perez Ramos def.  Carvalho/Mueller     63
+     16  Kanektar/Perez Ramos def.  Carvalho/Mueller     63
      16  Townes/Smith         def.  Selati/Gupta         63
  > Green 4
   > Main

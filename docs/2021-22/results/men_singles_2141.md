@@ -6,6 +6,7 @@
 - 10/15/2021 - [Bulldog Cup](#21-69055) ([Results](#21-69055) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-23395) ([Results](#21-23395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-08423) ([Results](#21-08423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Men's Northeast Regional Championship](#21-34853) ([Results](#21-34853) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-05800) ([Results](#21-05800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Texas Regional Championship](#21-59010) ([Results](#21-59010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">Draws</a>)  
@@ -17,7 +18,6 @@
 
 **Tournaments without Matches**  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
 - 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Wesleyan Invitational</a>  
 
@@ -440,6 +440,163 @@
      64      Codie Van Schalkwyk  def.      Konstantinos Raptis  62 63
      64      Oscar Hernandez      def.      Robert Hagen         63 64
      64      Youssef Sadek        def.      Raphael Mujan        64 60
+~~~
+
+<a name="21-34853"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════════════
+  ITA Division I Men's Northeast Regional Championship
+  Dates: Oct 14-19, 2021
+  Host: Univ. Of Pennsylvania (M)
+══════════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Main Singles Draw
+  > Main
+       F  (1) Alafia Ayeni         def.  (8) Max Westphal         67(7) 76(5) 63
+      SF  (1) Alafia Ayeni         def.  (4) Harris Walker        76(8) 62
+      SF  (8) Max Westphal         def. (26) Daniel Milavsky      61 60
+      QF  (1) Alafia Ayeni         def.  (6) Ronan Jachuck        64 75
+      QF  (4) Harris Walker        def.  (7) Brian Shi            26 61 62
+      QF (26) Daniel Milavsky      def.  (5) Edoardo Graziani     63 62
+      QF  (8) Max Westphal         def. (15) Michael Sun          63 60
+      16  (1) Alafia Ayeni         def.      David Lins           57 61 60
+      16  (6) Ronan Jachuck        def. (10) Thomas Bosancic      75 61
+      16  (4) Harris Walker        def. (13) Radu Papoe           64 64
+      16  (7) Brian Shi            def.  (9) Justin Barki         75 64
+      16  (5) Edoardo Graziani     def.      Ben Gollin           63 62
+      16 (26) Daniel Milavsky      def.      Axel Vila Antuna     63 64
+      16  (8) Max Westphal         def. (31) Niels Van Noord      63 61
+      16 (15) Michael Sun          def.  (2) Alex Kotzen          64 36 75
+      32  (1) Alafia Ayeni         def. (20) Carlos Guerrero Alv… 75 60
+      32      David Lins           def. (14) Damian Rodriguez     63 36 64
+      32  (6) Ronan Jachuck        def. (27) Harsh Parikh         75 16 76(2)
+      32 (10) Thomas Bosancic      def.      Ishaan Ravichander   61 62
+      32  (4) Harris Walker        def. (11) Hugo Hashimoto       62 63
+      32 (13) Radu Papoe           def. (17) Theo Dean            62 64
+      32  (9) Justin Barki         def.      Teodors Pukse        62 64
+      32  (7) Brian Shi            def. (25) Ching Lam            61 61
+      32  (5) Edoardo Graziani     def. (24) Austen Huang         63 61
+      32      Ben Gollin           def.      Lucca Silva          76(2) 62
+      32      Axel Vila Antuna     def. (23) Henry Ruger          26 61 61
+      32 (26) Daniel Milavsky      def.  (3) Karl Poling          75 75
+      32  (8) Max Westphal         def. (29) Adit Sinha           63 64
+      32 (31) Niels Van Noord      def. (19) Kaya Gore            64 63
+      32 (15) Michael Sun          def. (32) Aj Woodman           64 46 63
+      32  (2) Alex Kotzen          def. (30) Steven Sun           61 63
+      64  (1) Alafia Ayeni         def.      Nicholas Lorenz      61 61
+      64 (20) Carlos Guerrero Alv… def.      Jan Semerak          76(6) 63
+      64      David Lins           def. (21) Aditya Gupta         64 46 64
+      64 (14) Damian Rodriguez     def.      Carl Gustavson       36 60 64
+      64  (6) Ronan Jachuck        def.      Justas Trainauskas   64 61
+      64 (27) Harsh Parikh         def.      Udayan Bhakar        61 62
+      64      Ishaan Ravichander   def. (28) Alejandro Quiles     46 61 60
+      64 (10) Thomas Bosancic      def.      Renaud Lefevre       67(5) 63 64
+      64  (4) Harris Walker        def.      Jack McCarthy        60 63
+      64 (11) Hugo Hashimoto       def.      Amine El Kholti      63 61
+      64 (17) Theo Dean            def.      Giuseppe de Camelis  64 62
+      64 (13) Radu Papoe           def.      Pablo Salar Carrera  60 61
+      64  (9) Justin Barki         def.      Charles Morkel       67(3) 62 61
+      64      Teodors Pukse        def. (22) Jason Hildebrandt    64 01 Ret.
+      64 (25) Ching Lam            def.      Bo Cautaerts         63 36 64
+      64  (7) Brian Shi            def.      Hikaru Takeda        64 62
+      64  (5) Edoardo Graziani     def.      Anders Gibbons       62 62
+      64 (24) Austen Huang         def.      Mark Blekhman        60 76(3)
+      64      Ben Gollin           def. (18) Ignacio Garcia       46 63 64
+      64      Lucca Silva          def. (12) Vladislav Melnic     75 57 63
+      64      Axel Vila Antuna     def. (16) Kevin Zhu            63 62
+      64 (23) Henry Ruger          def.      Nathan Mao           75 36 75
+      64 (26) Daniel Milavsky      def.      Niraj Komatineni     62 62
+      64  (3) Karl Poling          def.      Gustavo Pinho        75 60
+      64  (8) Max Westphal         def.      Alan Jesudason       64 64
+      64 (29) Adit Sinha           def.      Bill Duo             61 36 64
+      64 (19) Kaya Gore            def.      Xandy Hammitt        63 75
+      64 (31) Niels Van Noord      def.      Aidan Reilly         63 61
+      64 (15) Michael Sun          def.      Jonathan Olive-Blan… 64 46 62
+      64 (32) Aj Woodman           def.      Jayden Templeman     60 36 64
+      64 (30) Steven Sun           def.      Diego Serra Sparrow  62 64
+      64  (2) Alex Kotzen          def.      Rex Tang             61 61
+     128      Nicholas Lorenz      def.      Diego Huttepain      26 63 76(4)
+     128      Jan Semerak          def.      Manuel Alonso        62 60
+     128      David Lins           def.      Zack Elliott         67(4) 63 76(5)
+     128      Carl Gustavson       def.      Victor Castro        60 64
+     128      Justas Trainauskas   def.      Sanil Jagtiani       61 62
+     128      Udayan Bhakar        def.      Ayato Arakaki        36 63 63
+     128      Ishaan Ravichander   def.      Michael Pawlowicz    61 10 Ret.
+     128      Renaud Lefevre       def.      Juan Paredes         60 63
+     128      Jack McCarthy        def.      Andrew Ilie          64 61
+     128      Amine El Kholti      def.      Baylor Sai           16 76(4) 10 Def.
+     128      Giuseppe de Camelis  def.      Santiago Galan       63 61
+     128      Pablo Salar Carrera  def.      William Chen         62 64
+     128      Charles Morkel       def.      Thomas Lake          76(6) 61
+     128      Teodors Pukse        def.      Jan Godfrey-Seno     64 62
+     128      Bo Cautaerts         def.      Jack Selati          63 26 63
+     128      Hikaru Takeda        def.      Dmitry Bezborodov    26 62 63
+     128      Anders Gibbons       def.      Filippos Astreinidis 61 63
+     128      Mark Blekhman        def.      Trevor Masi          16 63 63
+     128      Ben Gollin           def.      Simon Wibler         76(2) 46 63
+     128      Lucca Silva          def.      Abdullah Fouad       63 63
+     128      Axel Vila Antuna     def.      Tomas del Olmo       63 63
+     128      Nathan Mao           def.      Shervin Dehmoubed    62 46 33 Ret.
+     128      Niraj Komatineni     def.      Dylan Friedman       63 61
+     128      Gustavo Pinho        def.      Alex Knox-Jones      63 62
+     128      Alan Jesudason       def.      Zachery Lim          64 64
+     128      Bill Duo             def.      Yaron Guberman       62 63
+     128      Xandy Hammitt        def.      Samuel Eden          46 76(4) 62
+     128      Aidan Reilly         def.      Alessandro DAnna     62 63
+     128      Jonathan Olive-Blan… def.      Rohan Gupta          63 57 75
+     128      Jayden Templeman     def.      Daniel Webb          61 63
+     128      Diego Serra Sparrow  def.      Sebastian Pinos      62 63
+     128      Rex Tang             def.      Stijn Paardekooper   64 60
+ > Qualifying Singles Draw
+  > Main
+      32  (1) Carl Gustavson       def.      Jordan Paul          61 62
+      32  (2) Ishaan Ravichander   def.      Pierce Widdecombe    64 63
+      32      Jan Godfrey-Seno     def. (15) Alan Kam             64 16 [7]
+      32  (3) Jack McCarthy        def.      Amine El Kholti      64 46 [8]
+      32  (4) Alex Knox-Jones      def.      Shawn Jackson        62 61
+      32  (5) Hikaru Takeda        def.      Daniils Snaiders     61 60
+      32      Xandy Hammitt        def.      Ben Brandherm        46 60 [9]
+      32      Rohan Gupta          def.      Luke Neal            64 64
+      32  (7) Jayden Templeman     def.      Sam Hodges           76(3) 75
+      32      Sanil Jagtiani       def.      David Gorshein       64 61
+      32      Baylor Sai           def.      Mehdi Dhouib         61 64
+      32      Giuseppe de Camelis  def.      Djordje Janackovic   61 61
+      32      Ben Gollin           def.      Evan Felcher         63 61
+      32      Yaron Guberman       def.      Shourya Verma        61 62
+      32      Trevor Masi          def.      Javier Casasola Mon… 64 46 [9]
+      32      Shervin Dehmoubed    def.      Charlie James        61 61
+      64      Jordan Paul          def.      Peter Hatton         64 62
+      64  (1) Carl Gustavson       def.      Gabriel Castillo-Sa… 61 57 [2]
+      64      Pierce Widdecombe    def.      Chun Lam             64 36 [3]
+      64  (2) Ishaan Ravichander   def.      Matvey Radionov      63 63
+      64 (15) Alan Kam             def.      Dan Pergel           62 60
+      64      Jan Godfrey-Seno     def.      Gabriel Busato       76(3) 60
+      64      Amine El Kholti      def.      Peter Alester Magal… 36 62 [0]
+      64  (3) Jack McCarthy        def.      Arnav Dhingra        64 63
+      64      Shawn Jackson        def.      Aryaan Bhatia        76(5) 75
+      64  (4) Alex Knox-Jones      def.      Niels Korsgaard      64 64
+      64      Daniils Snaiders     def.      Keean Shah           64 61
+      64  (5) Hikaru Takeda        def.      Ashwin Kanektar      75 60
+      64      Xandy Hammitt        def.      Jake Huarte          46 60 [9]
+      64      Ben Brandherm        def.  (6) Zach Smith           46 63 [8]
+      64      Luke Neal            def.      Matthew Mu           61 64
+      64      Rohan Gupta          def.      Kaita Odani          62 64
+      64  (7) Jayden Templeman     def.      Matt Kleiman         46 75 [8]
+      64      Sam Hodges           def.      Brian Chong          62 62
+      64      David Gorshein       def.      Trent Massam         64 36 [6]
+      64      Sanil Jagtiani       def.  (8) Samuel Paquette      36 64 [6]
+      64      Mehdi Dhouib         def.      Tom Russwurm         75 61
+      64      Baylor Sai           def.      Anshumat Srivastava  62 62
+      64      Giuseppe de Camelis  def.      Charlie Penman       61 61
+      64      Djordje Janackovic   def.      Sam Feldman          62 64
+      64      Evan Felcher         def.      Kemal Karagozoglu    64 60
+      64      Ben Gollin           def.      Finn Macnamara       76(2) 76(6)
+      64      Shourya Verma        def.      Andrew Teixeira      76(2) 76(6)
+      64      Yaron Guberman       def.      William Goethlin     46 62 [9]
+      64      Javier Casasola Mon… def.      Nathan Jose          62 62
+      64      Trevor Masi          def.      Walker Oberg         62 62
+      64      Charlie James        def.      Matthew Garcia       64 62
+      64      Shervin Dehmoubed    def.      Jonathan Garcia      61 64
 ~~~
 
 <a name="21-05800"></a>

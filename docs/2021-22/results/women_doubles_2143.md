@@ -90,25 +90,34 @@
  Women's Open Doubles
  > Main B
   > Main
-      SF (1) Brown/Dean            vs      Marthinsen/Merrill   Fri @ 11:00
-      SF     Allen/Galvin          vs  (2) Tranberg/Weatherhead Fri @ 11:00
+       F (1) Brown/Dean           def. (2) Tranberg/Weatherhead 86
+      SF (1) Brown/Dean           def.     Marthinsen/Merrill   10 Ret.
+      SF (2) Tranberg/Weatherhead def.     Allen/Galvin         84
       QF (1) Brown/Dean           def.     Habib/Konar          83
       QF     Marthinsen/Merrill   def.     Gallagher/Perry      80
       QF     Allen/Galvin         def.     Fyvie/Semmartin      87(5)
       QF (2) Tranberg/Weatherhead def.     Massie/Hardeman      87(4)
   > Consolation
-      SQ     Habib/Konar           vs      Gallagher/Perry      Fri @ 11:00
-      SQ     Fyvie/Semmartin       vs      Massie/Hardeman      Fri @ 11:00
+       F     Massie/Hardeman      def.     Habib/Konar          81
+      SQ     Habib/Konar          def.     Gallagher/Perry      86
+      SQ     Massie/Hardeman      def.     Fyvie/Semmartin      82
  > Main A1
   > Main
-      16 (1) Morra/Tanguilig       vs      Couch/Narboni        Fri @ 09:00
-      16 (6) Campana/Campana       vs      Sorensen/Kahrs       Fri @ 09:00
-      16     Abrams/Abrams         vs      DeSpain/Louka        Fri @ 09:00
-      16     Yarlagadda/Harvey     vs      Dodridge/Aleshina    Fri @ 09:00
-      16     Delsol/Ristic         vs  (8) Berankova/Drummy     Fri @ 09:00
-      16     Hollins/Hopton        vs  (3) Daniel/Rencheli      Fri @ 09:00
-      16     Patel/Schaffer        vs  (5) Gretkowski/Akli      Fri @ 09:00
-      16     Diercksen/Muzzolon    vs  (2) Dillon/Adams         Fri @ 09:00
+       F (1) Morra/Tanguilig       vs  (8) Berankova/Drummy     Sun @ 13:30
+      SF (1) Morra/Tanguilig      def.     Yarlagadda/Harvey    62 61
+      SF (8) Berankova/Drummy     def. (5) Gretkowski/Akli      16 60 [8]
+      QF (1) Morra/Tanguilig      def. (6) Campana/Campana      85
+      QF     Yarlagadda/Harvey    def.     DeSpain/Louka        81
+      QF (8) Berankova/Drummy     def. (3) Daniel/Rencheli      86
+      QF (5) Gretkowski/Akli      def. (2) Dillon/Adams         83
+      16 (1) Morra/Tanguilig      def.     Couch/Narboni        81
+      16 (6) Campana/Campana      def.     Sorensen/Kahrs       81
+      16     DeSpain/Louka        def.     Abrams/Abrams        84
+      16     Yarlagadda/Harvey    def.     Dodridge/Aleshina    83
+      16 (8) Berankova/Drummy     def.     Delsol/Ristic        83
+      16 (3) Daniel/Rencheli      def.     Hollins/Hopton       81
+      16 (5) Gretkowski/Akli      def.     Patel/Schaffer       82
+      16 (2) Dillon/Adams         def.     Diercksen/Muzzolon   82
       32 (1) Morra/Tanguilig      def.     Brotzman/Jekauc      80
       32     Couch/Narboni        def.     Mills/Sipek          85
       32 (6) Campana/Campana      def.     Boyd/Jusufbegovic    81
@@ -126,24 +135,38 @@
       32     Diercksen/Muzzolon   def.     Buyckx/Thompson      85
       32 (2) Dillon/Adams         def.     ODea/Saldh           81
   > Consolation
-     16Q     Brotzman/Jekauc       vs      Mills/Sipek          Fri @ 09:00
-     16Q     Boyd/Jusufbegovic     vs      Benavides/King       Fri @ 09:00
-     16Q (4) Coleman/Jackson       vs      Truluck/Gladstone    Fri @ 09:00
-     16Q (7) Belaya/Gish           vs      Baykan/Schoppe       Fri @ 09:00
-     16Q     Huffman/Bell          vs      Houston/Gaines       Fri @ 09:00
-     16Q     Mitchell/Craft        vs      Safont/Maquet        Fri @ 09:00
-     16Q     McClure/Zink          vs      Marti/Man            Fri @ 09:00
-     16Q     Buyckx/Thompson       vs      ODea/Saldh           Fri @ 09:00
+       F     Huffman/Bell         def.     Boyd/Jusufbegovic    Walkover
+      SF     Boyd/Jusufbegovic    def. (7) Belaya/Gish          82
+      SF     Huffman/Bell         def.     Buyckx/Thompson      85
+      QF     Boyd/Jusufbegovic    def.     Brotzman/Jekauc      84
+      QF (7) Belaya/Gish          def. (4) Coleman/Jackson      Walkover
+      QF     Huffman/Bell         def.     Safont/Maquet        84
+      QF     Buyckx/Thompson      def.     Marti/Man            87(5)
+     16Q     Brotzman/Jekauc      def.     Mills/Sipek          85
+     16Q     Boyd/Jusufbegovic    def.     Benavides/King       82
+     16Q (4) Coleman/Jackson      def.     Truluck/Gladstone    81
+     16Q (7) Belaya/Gish          def.     Baykan/Schoppe       87(5)
+     16Q     Huffman/Bell         def.     Houston/Gaines       85
+     16Q     Safont/Maquet        def.     Mitchell/Craft       83
+     16Q     Marti/Man            def.     McClure/Zink         87(7)
+     16Q     Buyckx/Thompson      def.     ODea/Saldh           83
  > Main A2
   > Main
-      16 (1) Martinelli/Wooten     vs      Malkin/Mills         Fri @ 09:00
-      16 (5) Chen/Omirou           vs      Wilkins/Petruzelova  Fri @ 09:00
-      16 (4) Scotty/Crawley        vs      Foldeak/Uljanov      Fri @ 09:00
-      16 (6) Mayorova/Medvedeva    vs      Bachir el Bouhali/C… Fri @ 09:00
-      16     Babayan/Urelli        vs  (8) Rajecki/Nayar        Fri @ 10:00
-      16     Reding/Tanik          vs  (3) Beck/Bilokin         Fri @ 10:00
-      16     Pyritz/Fullana        vs  (7) Quiterio/Schech      Fri @ 10:00
-      16     Cruz/Mulville         vs  (2) Tran/Sanford         Fri @ 10:00
+       F (4) Scotty/Crawley        vs  (3) Beck/Bilokin         Sun @ 14:00
+      SF (4) Scotty/Crawley       def. (5) Chen/Omirou          62 62
+      SF (3) Beck/Bilokin         def. (2) Tran/Sanford         63 63
+      QF (5) Chen/Omirou          def. (1) Martinelli/Wooten    86
+      QF (4) Scotty/Crawley       def. (6) Mayorova/Medvedeva   83
+      QF (3) Beck/Bilokin         def. (8) Rajecki/Nayar        84
+      QF (2) Tran/Sanford         def. (7) Quiterio/Schech      86
+      16 (1) Martinelli/Wooten    def.     Malkin/Mills         82
+      16 (5) Chen/Omirou          def.     Wilkins/Petruzelova  81
+      16 (4) Scotty/Crawley       def.     Foldeak/Uljanov      81
+      16 (6) Mayorova/Medvedeva   def.     Bachir el Bouhali/C… 80
+      16 (8) Rajecki/Nayar        def.     Babayan/Urelli       87(3)
+      16 (3) Beck/Bilokin         def.     Reding/Tanik         85
+      16 (7) Quiterio/Schech      def.     Pyritz/Fullana       87(7)
+      16 (2) Tran/Sanford         def.     Cruz/Mulville        80
       32 (1) Martinelli/Wooten    def.     Fischer/Brennan      81
       32     Malkin/Mills         def.     Semlali/Patnaik      86
       32 (5) Chen/Omirou          def.     Porges/Patterson     82
@@ -161,62 +184,89 @@
       32     Cruz/Mulville        def.     Coetzee/Trinkle      86
       32 (2) Tran/Sanford         def.     Nihalani/Pesavento   87(5)
   > Consolation
-     16Q     Fischer/Brennan       vs      Semlali/Patnaik      Fri @ 10:00
-     16Q     Porges/Patterson      vs      Archer/Ball          Fri @ 10:00
-     16Q     Landin/de Samucewicz  vs      Pate/Dawson          Fri @ 10:00
-     16Q     Muller-Hughes/Danie…  vs      Barquero/Chan Barat… Fri @ 10:00
-     16Q     Anttila/Hatton        vs      Smith/Pezzuco        Fri @ 10:15
-     16Q     Wilbur/Steryous       vs      Snyder/Schulson      Fri @ 10:15
-     16Q     Heiderscheit/Shea     vs      Jardim/Hellberg      Fri @ 10:15
-     16Q     Coetzee/Trinkle       vs      Nihalani/Pesavento   Fri @ 10:15
+       F     Snyder/Schulson      def.     Archer/Ball          83
+      SF     Archer/Ball          def.     Pate/Dawson          83
+      SF     Snyder/Schulson      def.     Coetzee/Trinkle      86
+      QF     Archer/Ball          def.     Semlali/Patnaik      Walkover
+      QF     Pate/Dawson          def.     Muller-Hughes/Danie… 80
+      QF     Snyder/Schulson      def.     Smith/Pezzuco        81
+      QF     Coetzee/Trinkle      def.     Heiderscheit/Shea    Walkover
+     16Q     Semlali/Patnaik      def.     Fischer/Brennan      83
+     16Q     Archer/Ball          def.     Porges/Patterson     84
+     16Q     Pate/Dawson          def.     Landin/de Samucewicz 86
+     16Q     Muller-Hughes/Danie… def.     Barquero/Chan Barat… 85
+     16Q     Smith/Pezzuco        def.     Anttila/Hatton       Walkover
+     16Q     Snyder/Schulson      def.     Wilbur/Steryous      83
+     16Q     Heiderscheit/Shea    def.     Jardim/Hellberg      85
+     16Q     Coetzee/Trinkle      def.     Nihalani/Pesavento   85
 ~~~
 
 <a name="21-49776"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Atlantic Regional Championship
   Dates: Oct 22-25, 2021
   Host: University Of Virginia (W)
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-     16 (1) Sasnouskaya/Starodu…  vs      Afanasyeva/Moulin  Fri @ 09:00
-     16     Bossi/Chang           vs      Cadar/Brumfield    Fri @ 09:00
-     16     Davidescu/Manjanna    vs      Johnson/Yakubovich Fri @ 09:00
-     16     OGorman/Chekhlystova  vs  (4) Chervinsky/Ziodato Fri @ 09:00
-     16 (3) Collard/Shaikh        vs      Friedland/Nielsen  Fri @ 09:00
-     16     Alcaide/Viktorovich   vs      Hsieh/Nagato       Fri @ 09:00
-     16     Bach/Perez Mur        vs      Zuffova/Lebedeva   Fri @ 09:00
-     16     Marinkovikj/Wiesmann  vs  (2) Subhash/Munera     Fri @ 09:00
+      F (1) Sasnouskaya/Starodu…  vs  (3) Collard/Shaikh       Mon @ 13:00
+     SF (1) Sasnouskaya/Starodu… def. (4) Chervinsky/Ziodato   61 61
+     SF (3) Collard/Shaikh       def.     Bach/Perez Mur       63 64
+     QF (1) Sasnouskaya/Starodu… def.     Cadar/Brumfield      87(4)
+     QF (4) Chervinsky/Ziodato   def.     Johnson/Yakubovich   80
+     QF (3) Collard/Shaikh       def.     Hsieh/Nagato         86
+     QF     Bach/Perez Mur       def. (2) Subhash/Munera       87(6)
+     16 (1) Sasnouskaya/Starodu… def.     Afanasyeva/Moulin    84
+     16     Cadar/Brumfield      def.     Bossi/Chang          83
+     16     Johnson/Yakubovich   def.     Davidescu/Manjanna   84
+     16 (4) Chervinsky/Ziodato   def.     OGorman/Chekhlystova 85
+     16 (3) Collard/Shaikh       def.     Friedland/Nielsen    87(2)
+     16     Hsieh/Nagato         def.     Alcaide/Viktorovich  87(3)
+     16     Bach/Perez Mur       def.     Zuffova/Lebedeva     84
+     16 (2) Subhash/Munera       def.     Marinkovikj/Wiesmann 84
 ~~~
 
 <a name="21-25213"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════
   ITA Division I Women's Central Regional Championship
   Dates: Oct 21-25, 2021
   Host: University Of Iowa (W)
-═══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Doubles
   > Main
-      32  Rice/Cross            vs   Whitaker/Kurahashi   Fri @ 08:00
-      32  Turco/Maffei          vs   Gillas/Mannix        Fri @ 08:00
-      32  Lagarde/Smagina       vs   Duong/Said           Fri @ 08:00
-      32  Vasupongchai/Ishimu…  vs   Sleeth/Pisareva      Fri @ 08:00
-      32  Linares/Job           vs   Rozenkova/Berlanga   Fri @ 08:00
-      32  Deming/Manyoma Vela…  vs   Kadleckova/Cabezas   Fri @ 08:00
-      32  Kong/Stamat           vs   Rizzolo/Karvouni     Fri @ 08:00
-      32  Martinez Asensi/Sch…  vs   Detkovskaya/Miyamoto Fri @ 08:00
-      32  Hsieh/Naklo           vs   Danilchenko/Lu       Fri @ 08:45
-      32  Rijkers/Stara         vs   Conde Monfort/Poppe  Fri @ 08:45
-      32  Staker/Podlinska      vs   Dekkers/Gheorghita   Fri @ 08:45
-      32  Absisan/Osborn        vs   Titova/Ngounoue      Fri @ 08:45
-      32  Novak/Makoric         vs   Hesham/Mintusova     Fri @ 08:45
-      32  Nonoyama/Xin          vs   Keller/Spink         Fri @ 08:45
-      32  Hanford/Ercetin       vs   Alloyarova/Ukita     Fri @ 08:45
-      32  Benedejcic/Oliviera   vs   Zerulo/Wolfberg      Fri @ 08:45
+      SF  Kadleckova/Cabezas   def.  Rice/Cross           63 62
+      QF  Rice/Cross           def.  Sleeth/Pisareva      84
+      QF  Kadleckova/Cabezas   def.  Detkovskaya/Miyamoto 83
+      QF  Hsieh/Naklo          def.  Titova/Ngounoue      84
+      QF  Alloyarova/Ukita     def.  Novak/Makoric        87(3)
+      16  Rice/Cross           def.  Gillas/Mannix        82
+      16  Sleeth/Pisareva      def.  Duong/Said           81
+      16  Kadleckova/Cabezas   def.  Rozenkova/Berlanga   86
+      16  Detkovskaya/Miyamoto def.  Kong/Stamat          85
+      16  Hsieh/Naklo          def.  Conde Monfort/Poppe  81
+      16  Titova/Ngounoue      def.  Dekkers/Gheorghita   83
+      16  Novak/Makoric        def.  Nonoyama/Xin         84
+      16  Alloyarova/Ukita     def.  Zerulo/Wolfberg      85
+      32  Rice/Cross           def.  Whitaker/Kurahashi   84
+      32  Gillas/Mannix        def.  Turco/Maffei         87(5)
+      32  Duong/Said           def.  Lagarde/Smagina      86
+      32  Sleeth/Pisareva      def.  Vasupongchai/Ishimu… 86
+      32  Rozenkova/Berlanga   def.  Linares/Job          87(4)
+      32  Kadleckova/Cabezas   def.  Deming/Manyoma Vela… 80
+      32  Kong/Stamat          def.  Rizzolo/Karvouni     84
+      32  Detkovskaya/Miyamoto def.  Martinez Asensi/Sch… 81
+      32  Hsieh/Naklo          def.  Danilchenko/Lu       87(4)
+      32  Conde Monfort/Poppe  def.  Rijkers/Stara        85
+      32  Dekkers/Gheorghita   def.  Staker/Podlinska     83
+      32  Titova/Ngounoue      def.  Absisan/Osborn       82
+      32  Novak/Makoric        def.  Hesham/Mintusova     82
+      32  Nonoyama/Xin         def.  Keller/Spink         86
+      32  Alloyarova/Ukita     def.  Hanford/Ercetin      85
+      32  Zerulo/Wolfberg      def.  Benedejcic/Oliviera  82
       64  Rice/Cross           def.  Engback/Hamanaga     63
       64  Whitaker/Kurahashi   def.  Hutchings/Naranjo M… 63
       64  Turco/Maffei         def.  Vizcardo/Sporing     62
@@ -268,22 +318,29 @@
 
 <a name="21-91007"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
   ITA Division I Women's Midwest Regional Championship
   Dates: Oct 22-26, 2021
   Host: Ohio State University (W)
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
  Women's Open Doubles
- > Draw
+ > Main Draw
   > Main
-     16 (1) Allen/Boulais      vs      Semenovski/Cataldi   Fri @ 09:00
-     16     Treiber/Ferrari    vs      Alcala/Teske         Fri @ 09:00
-     16     Brown/Miller       vs      Heuser/Yeah          Fri @ 09:00
-     16     McColgan/Pratt     vs  (4) Freeman/Lilien       Fri @ 09:00
-     16 (3) Hand/Crowley       vs      Ratliff/Cantos Siem… Fri @ 09:00
-     16     Duong/Frazier      vs      Kizelbasheva/Antoni… Fri @ 09:00
-     16     Mukhortova/Stoica  vs      Andreach/Beckman     Fri @ 09:30
-     16     Fliegner/Kelly     vs  (2) Pietrowicz/Lewis     Fri @ 09:30
+      F     Ratliff/Cantos Siem… def.     McColgan/Pratt       81
+     SF     McColgan/Pratt       def. (1) Allen/Boulais        85
+     SF     Ratliff/Cantos Siem… def. (2) Pietrowicz/Lewis     83
+     QF (1) Allen/Boulais        def.     Alcala/Teske         82
+     QF     McColgan/Pratt       def.     Brown/Miller         87(3)
+     QF     Ratliff/Cantos Siem… def.     Duong/Frazier        84
+     QF (2) Pietrowicz/Lewis     def.     Andreach/Beckman     87(7)
+     16 (1) Allen/Boulais        def.     Semenovski/Cataldi   82
+     16     Alcala/Teske         def.     Treiber/Ferrari      86
+     16     Brown/Miller         def.     Heuser/Yeah          83
+     16     McColgan/Pratt       def. (4) Freeman/Lilien       84
+     16     Ratliff/Cantos Siem… def. (3) Hand/Crowley         82
+     16     Duong/Frazier        def.     Kizelbasheva/Antoni… 86
+     16     Andreach/Beckman     def.     Mukhortova/Stoica    86
+     16 (2) Pietrowicz/Lewis     def.     Fliegner/Kelly       87(3)
 ~~~
 
 <a name="21-52217"></a>
@@ -296,86 +353,158 @@
  Women's Open Doubles
  > Main
   > Main
-     64 (1) Blake/Ma              vs      Tanevska/Alcon       Fri @ 08:30
-     64     Ackerman/Bhunu        vs      Schroer/Feng         Fri @ 09:15
-     64     Rees/Hernandez        vs      Kida/Foshee          Fri @ 09:15
-     64     Sato/Zupancic         vs      Villan Pereira/Babic Fri @ 09:15
-     64 (5) Mould/Teixido Garcia  vs      Ellis/Flaquer        Fri @ 09:15
+     16 (1) Blake/Ma              vs      Villan Pereira/Babic Sun @ 10:00
+     16     Kozyreva/Massey      def. (5) Mould/Teixido Garcia 61
+     16 (3) Alsola/Richardson     vs      Choy/Xu              Sun @ 10:00
+     16     Gurevich/Stavropoul… def. (5) Broerman/Sosnowska   63
+     16 (5) Madurawe/Yepifanova  def.     Bente/LaMette        61
+     16     Piferi/Marzano        vs  (4) Martinez Vaquero/Co… Sun @ 10:00
+     16     Harris/Ronney         vs  (5) Thiel/Viller Moeller Sun @ 10:00
+     16     Mulville/Luescher    def. (2) Wong/Olsen           63
+     32 (1) Blake/Ma             def.     Ackerman/Bhunu       62
+     32     Villan Pereira/Babic def.     Rees/Hernandez       76(6)
+     32 (5) Mould/Teixido Garcia def.     Evloeva/Maunupau     61
+     32     Kozyreva/Massey      def.     Sam/Ung              61
+     32 (3) Alsola/Richardson    def.     Kalinic/Gordon       61
+     32     Choy/Xu              def.     Ahmed/Jittakoat      64
+     32 (5) Broerman/Sosnowska   def.     Zelic/Pethybridge    62
+     32     Gurevich/Stavropoul… def.     Egan/Milenkoski      62
+     32     Bente/LaMette        def.     LeRoy/Kosan          61
+     32 (5) Madurawe/Yepifanova  def.     Johnson/Alter        60
+     32     Piferi/Marzano       def.     Zlotnik/Fileva       63
+     32 (4) Martinez Vaquero/Co… def.     Martinez Moral/Petc… 61
+     32     Harris/Ronney        def.     Tsukamoto/Ko         76(3)
+     32 (5) Thiel/Viller Moeller def.     Ly-Nguyen/Kumhom     62
+     32     Mulville/Luescher    def.     Petty/Hayer          75
+     32 (2) Wong/Olsen           def.     Magrini/Hummel       61
+     64 (1) Blake/Ma             def.     Tanevska/Alcon       61
+     64     Ackerman/Bhunu       def.     Schroer/Feng         75
+     64     Rees/Hernandez       def.     Kida/Foshee          61
+     64     Villan Pereira/Babic def.     Sato/Zupancic        64
+     64 (5) Mould/Teixido Garcia def.     Ellis/Flaquer        75
      64     Evloeva/Maunupau     def.     Ferreros/Lee         Walkover
-     64     Dimova/Kraleva        vs      Kozyreva/Massey      Fri @ 09:15
-     64     Capogrosso/Mushika    vs      Sam/Ung              Fri @ 09:15
-     64 (3) Alsola/Richardson     vs      Lee/Murphy           Fri @ 09:15
-     64     Ruja/Zamora           vs      Kalinic/Gordon       Fri @ 09:15
-     64     Ahmed/Jittakoat       vs      Fortin/Chilton       Fri @ 08:30
-     64     Xu/Houghton           vs      Kobayashi/Olsen      Fri @ 08:30
-     64 (5) Broerman/Sosnowska    vs      Tevez/Silva          Fri @ 08:30
-     64     Gabuzyan/Mann         vs      Zelic/Pethybridge    Fri @ 08:30
-     64     Bances Iglesias/Mar…  vs      Gurevich/Stavropoul… Fri @ 09:15
-     64     Egan/Milenkoski       vs      McSkimming/Ejsmont   Fri @ 09:15
-     64     Bente/LaMette         vs      Hovda/Rook           Fri @ 09:15
-     64     Wernli/Laursen        vs      LeRoy/Kosan          Fri @ 08:30
+     64     Kozyreva/Massey      def.     Dimova/Kraleva       62
+     64     Sam/Ung              def.     Capogrosso/Mushika   75
+     64 (3) Alsola/Richardson    def.     Lee/Murphy           64
+     64     Kalinic/Gordon       def.     Ruja/Zamora          63
+     64     Ahmed/Jittakoat      def.     Fortin/Chilton       76(5)
+     64     Choy/Xu              def.     Kobayashi/Olsen      75
+     64 (5) Broerman/Sosnowska   def.     Tevez/Silva          62
+     64     Zelic/Pethybridge    def.     Gabuzyan/Mann        62
+     64     Gurevich/Stavropoul… def.     Bances Iglesias/Mar… 64
+     64     Egan/Milenkoski      def.     McSkimming/Ejsmont   62
+     64     Bente/LaMette        def.     Hovda/Rook           76(3)
+     64     LeRoy/Kosan          def.     Wernli/Laursen       62
      64     Johnson/Alter        def.     Rosenqvist/Brown     Walkover
-     64     Weil/Chang            vs  (5) Madurawe/Yepifanova  Fri @ 08:30
-     64     Beukers/Sanoner       vs      Piferi/Marzano       Fri @ 08:30
-     64     Zlotnik/Fileva        vs      Mathews/Mansouri     Fri @ 09:15
-     64     Quintana/Fehr         vs      Martinez Moral/Petc… Fri @ 08:30
-     64     Rouf/Elenova          vs  (4) Martinez Vaquero/Co… Fri @ 08:30
-     64     Harris/Ronney         vs      Brilhante/Clydesdal… Fri @ 09:15
-     64     Bates/Dunkle          vs      Tsukamoto/Ko         Fri @ 09:15
-     64     Ly-Nguyen/Kumhom      vs      Chhabra/Bui          Fri @ 09:15
-     64     Pedrero Galindo/Mur…  vs  (5) Thiel/Viller Moeller Fri @ 09:15
-     64     Mulville/Luescher     vs      Choy/Geller          Fri @ 08:30
-     64     Petty/Hayer           vs      Sunjic/Dimitrijevic  Fri @ 08:30
-     64     Magrini/Hummel        vs      Aitken/Oda           Fri @ 08:30
-     64     Tagaloa/Yotova        vs  (2) Wong/Olsen           Fri @ 08:30
+     64 (5) Madurawe/Yepifanova  def.     Weil/Chang           63
+     64     Piferi/Marzano       def.     Beukers/Sanoner      63
+     64     Zlotnik/Fileva       def.     Mathews/Mansouri     76(3)
+     64     Martinez Moral/Petc… def.     Quintana/Fehr        Walkover
+     64 (4) Martinez Vaquero/Co… def.     Rouf/Elenova         62
+     64     Harris/Ronney        def.     Brilhante/Clydesdal… 62
+     64     Tsukamoto/Ko         def.     Bates/Dunkle         62
+     64     Ly-Nguyen/Kumhom     def.     Chhabra/Bui          64
+     64 (5) Thiel/Viller Moeller def.     Pedrero Galindo/Mur… 75
+     64     Mulville/Luescher    def.     Houghton/Geller      Walkover
+     64     Petty/Hayer          def.     Sunjic/Dimitrijevic  63
+     64     Magrini/Hummel       def.     Aitken/Oda           82
+     64 (2) Wong/Olsen           def.     Tagaloa/Yotova       61
  > Invitational
   > Main
-     QF     Galerkin/Maunupau     vs      Gamracy/Qiu          Fri @ 08:30
-     QF     Schwartzberg/Page     vs      Wiese/Carmichael     Fri @ 08:30
+      F (1) Lin/Leung            def.     Schwartzberg/Page    75
+     SF (1) Lin/Leung            def.     Gamracy/Qiu          60
+     SF     Schwartzberg/Page    def. (2) Courtney/Hayes       61
+     QF     Gamracy/Qiu          def.     Galerkin/Maunupau    64
+     QF     Schwartzberg/Page    def.     Wiese/Carmichael     63
 ~~~
 
 <a name="21-97599"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Ohio Valley Regional Championship
   Dates: Oct 20-25, 2021
   Host: Middle Tennessee State University (W)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main Draw
   > Main
-     64 (1) Adeshina/Kuczer       vs      Woog/Jones           Fri @ 09:00
-     64     Bakhodirova/Morales   vs      Steif/Ondo           Fri @ 09:00
-     64 (9) Sawyer/Simova         vs      Staiculescu/Hernand… Fri @ 09:00
-     64     Roggenburk/Graham     vs      Popova/Trbeznik      Fri @ 09:00
-     64 (5) Molina/Stevens        vs      Getty/Trondson       Fri @ 09:00
-     64     Zalukar/Valentinsson  vs      Bernard/Lounsbury    Fri @ 09:00
-     64 (9) Stevens/Rompf         vs      Mauro/Barnard        Fri @ 09:00
-     64     Guna/Miceli           vs      Abel/Gibbens         Fri @ 09:00
-     64 (4) Cruz/Kourkina         vs      Denysiewicz-Slowek/… Fri @ 09:00
-     64     Lukacs/Braun          vs      Schmidt/Gupta        Fri @ 09:00
-     64 (9) Mertena/Tomase        vs      Morris/Torrealba     Fri @ 09:00
-     64     Flanagan/Niehaus      vs      van Hee/Bosman       Fri @ 09:00
-     64 (5) Teixido-Garcia/Meyer  vs      Smith/Nwaozuzu       Fri @ 09:00
-     64     Kothakota/Rosenberg…  vs      Richardson/Callwood  Fri @ 09:00
-     64 (9) Milic/Larranaga       vs      Solomon/Zholdakova   Fri @ 09:00
-     64     Eades/Girbau          vs      Balthazor/Beavin     Fri @ 09:00
-     64     Bergqvist/Holmes      vs      Masic/Schneider      Fri @ 09:00
-     64     Gasparin/Galindo      vs  (9) Reayer/Romero        Fri @ 09:00
-     64     Duckworth/Creath      vs      Henry/Roberts        Fri @ 09:00
-     64     Cheng/Paladini- Jen…  vs  (5) Arrese/Gonzalez      Fri @ 09:00
-     64     Ushio/Long            vs      Howard/Bandy         Fri @ 09:30
-     64     Carvajal/Elizarraras  vs  (9) Mclay/Pendergast     Fri @ 09:30
-     64     Polishchuk/Davies     vs      Koo/Grau             Fri @ 09:30
-     64     Niedzialowski/Espin…  vs  (3) Staff/Lee            Fri @ 09:30
-     64     Barnard/Alexis        vs      Lee/Carelli          Fri @ 10:00
-     64     Young/Billman         vs  (9) Ramasamy/Rico        Fri @ 10:00
-     64     Peeler/Kaplan         vs      Boesing/Beavin       Fri @ 10:00
-     64     Grosmann/Tumthong     vs  (5) McGiffin/Symons      Fri @ 10:00
-     64     Diachenko/Dobranos    vs      Kyle/Lyman           Fri @ 10:00
-     64     Sakurai/Albersmeier   vs  (9) Fodor/Gallardo Guev… Fri @ 10:00
-     64     Leder/Nakanishi       vs      Ochalik/Grubb        Fri @ 10:00
-     64     Alfaro/Gorbunova      vs  (2) Di Palma/Verma       Fri @ 10:00
+      SF (5) Molina/Stevens        vs      Eades/Girbau         Sun @ 13:30
+      QF (5) Molina/Stevens       def.     Roggenburk/Graham    83
+      QF     Eades/Girbau         def. (9) Mertena/Tomase       84
+      QF     Masic/Schneider       vs      Carvajal/Elizarraras Sun @ 12:00
+      QF (2) Di Palma/Verma       def. (5) McGiffin/Symons      84
+      16     Roggenburk/Graham    def.     Bakhodirova/Morales  86
+      16 (5) Molina/Stevens       def. (9) Stevens/Rompf        84
+      16 (9) Mertena/Tomase       def. (4) Cruz/Kourkina        81
+      16     Eades/Girbau         def.     Smith/Nwaozuzu       81
+      16     Masic/Schneider      def. (5) Arrese/Gonzalez      87(5)
+      16     Carvajal/Elizarraras def. (3) Staff/Lee            86
+      16 (5) McGiffin/Symons      def.     Young/Billman        82
+      16 (2) Di Palma/Verma       def.     Kyle/Lyman           83
+      32     Bakhodirova/Morales  def.     Woog/Jones           86
+      32     Roggenburk/Graham    def.     Staiculescu/Hernand… 84
+      32 (5) Molina/Stevens       def.     Zalukar/Valentinsson 82
+      32 (9) Stevens/Rompf        def.     Abel/Gibbens         85
+      32 (4) Cruz/Kourkina        def.     Schmidt/Gupta        87(4)
+      32 (9) Mertena/Tomase       def.     van Hee/Bosman       83
+      32     Smith/Nwaozuzu       def.     Kothakota/Rosenberg… Walkover
+      32     Eades/Girbau         def. (9) Milic/Larranaga      82
+      32     Masic/Schneider      def.     Gasparin/Galindo     83
+      32 (5) Arrese/Gonzalez      def.     Duckworth/Creath     86
+      32     Carvajal/Elizarraras def.     Ushio/Long           87(1)
+      32 (3) Staff/Lee            def.     Polishchuk/Davies    84
+      32     Young/Billman        def.     Lee/Carelli          85
+      32 (5) McGiffin/Symons      def.     Peeler/Kaplan        83
+      32     Kyle/Lyman           def. (9) Fodor/Gallardo Guev… 85
+      32 (2) Di Palma/Verma       def.     Leder/Nakanishi      81
+      64     Woog/Jones           def. (1) Adeshina/Kuczer      86
+      64     Bakhodirova/Morales  def.     Steif/Ondo           83
+      64     Staiculescu/Hernand… def. (9) Sawyer/Simova        86
+      64     Roggenburk/Graham    def.     Popova/Trbeznik      85
+      64 (5) Molina/Stevens       def.     Getty/Trondson       81
+      64     Zalukar/Valentinsson def.     Bernard/Lounsbury    84
+      64 (9) Stevens/Rompf        def.     Mauro/Barnard        84
+      64     Abel/Gibbens         def.     Guna/Miceli          83
+      64 (4) Cruz/Kourkina        def.     Denysiewicz-Slowek/… 82
+      64     Schmidt/Gupta        def.     Lukacs/Braun         85
+      64 (9) Mertena/Tomase       def.     Morris/Torrealba     85
+      64     van Hee/Bosman       def.     Flanagan/Niehaus     84
+      64     Smith/Nwaozuzu       def. (5) Teixido-Garcia/Meyer 86
+      64     Kothakota/Rosenberg… def.     Richardson/Callwood  87(4)
+      64 (9) Milic/Larranaga      def.     Solomon/Zholdakova   83
+      64     Eades/Girbau         def.     Balthazor/Beavin     86
+      64     Masic/Schneider      def.     Young/Bergqvist      81
+      64     Gasparin/Galindo     def. (9) Reayer/Romero        84
+      64     Duckworth/Creath     def.     Henry/Roberts        87(5)
+      64 (5) Arrese/Gonzalez      def.     Cheng/Paladini- Jen… 85
+      64     Ushio/Long           def.     Howard/Bandy         86
+      64     Carvajal/Elizarraras def. (9) Mclay/Pendergast     84
+      64     Polishchuk/Davies    def.     Koo/Grau             87(2)
+      64 (3) Staff/Lee            def.     Niedzialowski/Espin… 80
+      64     Lee/Carelli          def.     Barnard/Alexis       87(3)
+      64     Young/Billman        def. (9) Ramasamy/Rico        83
+      64     Peeler/Kaplan        def.     Boesing/Beavin       80
+      64 (5) McGiffin/Symons      def.     Grosmann/Tumthong    85
+      64     Kyle/Lyman           def.     Diachenko/Dobranos   87(1)
+      64 (9) Fodor/Gallardo Guev… def.     Sakurai/Albersmeier  83
+      64     Leder/Nakanishi      def.     Ochalik/Grubb        82
+      64 (2) Di Palma/Verma       def.     Alfaro/Gorbunova     83
+ > Saturday Consolation
+  > Main
+     128     Teixido-Garcia/Meyer def.     Solomon/Zholdakova   81
+     128     Lukacs/Braun         def.     Popova/Trbeznik      84
+     128     Adeshina/Kuczer      def.     Alfaro/Gorbunova     84
+     128     Mauro/Barnard        def.     Howard/Bandy         84
+     128     Steif/Ondo           def.     Getty/Trondson       85
+     128     Denysiewicz-Slowek/… def.     Diachenko/Dobranos   84
+     128     Henry/Roberts        def.     Grosmann/Tumthong    86
+     128     Morris/Torrealba     def.     Sakurai/Albersmeier  86
+     128     Niedzialowski/Espin… def.     Cheng/Paladini- Jen… 87(5)
+ > Sunday Consolation
+  > Main
+      64     Adeshina/Kuczer      def.     Schmidt/Gupta        84
+      64     Staiculescu/Hernand…  vs      Sakurai/Albersmeier  Sun @ 12:00
+      64     Mauro/Barnard        def.     Steif/Ondo           83
 ~~~
 
 <a name="21-15310"></a>
@@ -388,22 +517,36 @@
  Women's Open Doubles
  > Draw
   > Main
-     32 (1) Pachkaleva/Fukuda     vs      Dorian/Zhytelna      Fri @ 08:30
-     32 (9) Wagle/Ong             vs      Pachl/Nguyen         Fri @ 08:30
-     32 (6) Argyrokastriti/Turk…  vs      Puehse/Strombacha    Fri @ 08:30
-     32 (9) Desiatnikov/McBride   vs      Agrawal/Stratakos    Fri @ 08:30
-     32 (4) Thamchaiwat/Arnold    vs      Bhadada/Snissarenko  Fri @ 08:30
-     32     Kiss/Reuter           vs      Vagramov/Catanzarite Fri @ 08:30
-     32 (5) Broadus/Tjen          vs      Wilkins/Ziouti       Fri @ 08:30
-     32 (9) Miroshnichenko/Vora…  vs      De Las Heras/Kalait… Fri @ 08:30
-     32     Iamachkine/Redelijk   vs  (9) Honer/Khatamova      Fri @ 08:30
-     32     Schmidt/Prudhomme     vs  (7) Ewing/Han            Fri @ 08:30
-     32     Rogozinska-Dzik/Nik…  vs  (9) Morlet/Gallagher     Fri @ 08:30
-     32     Volodko/Bruu-Syvers…  vs  (3) Flores/Zaar          Fri @ 08:30
-     32     Melosch/Nadozie       vs  (9) Cayetano/Piper       Fri @ 08:30
-     32     Meraz/Nevenhoven      vs  (8) Johnson/Hance        Fri @ 08:30
-     32     Rutowska/Tcherkes-Z…  vs  (9) Spaka/Jankowski      Fri @ 08:30
-     32     Lennon/Masuda         vs  (2) Colling/Goldsmith    Fri @ 08:30
+     SF (9) Wagle/Ong             vs  (5) Broadus/Tjen         Sun @ 09:00
+     SF (3) Flores/Zaar          def.     Rutowska/Tcherkes-Z… 61 36 [6]
+     QF (9) Wagle/Ong            def. (9) Desiatnikov/McBride  62
+     QF (5) Broadus/Tjen         def. (4) Thamchaiwat/Arnold   62
+     QF (3) Flores/Zaar          def. (7) Ewing/Han            64
+     QF     Rutowska/Tcherkes-Z… def. (9) Cayetano/Piper       75
+     16 (9) Wagle/Ong            def. (1) Pachkaleva/Fukuda    63
+     16 (9) Desiatnikov/McBride  def. (6) Argyrokastriti/Turk… 62
+     16 (4) Thamchaiwat/Arnold   def.     Vagramov/Catanzarite 76(2)
+     16 (5) Broadus/Tjen         def. (9) Miroshnichenko/Vora… 63
+     16 (7) Ewing/Han            def. (9) Honer/Khatamova      62
+     16 (3) Flores/Zaar          def. (9) Morlet/Gallagher     63
+     16 (9) Cayetano/Piper       def. (8) Johnson/Hance        61
+     16     Rutowska/Tcherkes-Z… def. (2) Colling/Goldsmith    63
+     32 (1) Pachkaleva/Fukuda    def.     Dorian/Zhytelna      61
+     32 (9) Wagle/Ong            def.     Pachl/Nguyen         Walkover
+     32 (6) Argyrokastriti/Turk… def.     Puehse/Strombacha    76(4)
+     32 (9) Desiatnikov/McBride  def.     Agrawal/Stratakos    61
+     32 (4) Thamchaiwat/Arnold   def.     Bhadada/Snissarenko  64
+     32     Vagramov/Catanzarite def.     Kiss/Reuter          64
+     32 (5) Broadus/Tjen         def.     Wilkins/Ziouti       62
+     32 (9) Miroshnichenko/Vora… def.     De Las Heras/Kalait… 63
+     32 (9) Honer/Khatamova      def.     Iamachkine/Redelijk  64
+     32 (7) Ewing/Han            def.     Schmidt/Prudhomme    64
+     32 (9) Morlet/Gallagher     def.     Rogozinska-Dzik/Nik… 75
+     32 (3) Flores/Zaar          def.     Volodko/Bruu-Syvers… 75
+     32 (9) Cayetano/Piper       def.     Melosch/Nadozie      75
+     32 (8) Johnson/Hance        def.     Meraz/Nevenhoven     63
+     32     Rutowska/Tcherkes-Z… def. (9) Spaka/Jankowski      60
+     32 (2) Colling/Goldsmith    def.     Lennon/Masuda        61
      64     Dorian/Zhytelna      def.     Garcia/Nikitash      76(6)
      64     Pachl/Nguyen         def.     Carter/Fowler        64
      64     Puehse/Strombacha    def.     Fry/Ryngler          65

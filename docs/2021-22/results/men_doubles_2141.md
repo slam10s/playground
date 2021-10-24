@@ -6,6 +6,7 @@
 - 10/15/2021 - [Bulldog Cup](#21-69055) ([Results](#21-69055) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-23395) ([Results](#21-23395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-08423) ([Results](#21-08423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Men's Northeast Regional Championship](#21-34853) ([Results](#21-34853) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-05800) ([Results](#21-05800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Texas Regional Championship](#21-59010) ([Results](#21-59010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">Draws</a>)  
@@ -17,7 +18,6 @@
 
 **Tournaments without Matches**  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">ITA Division I Men's Northeast Regional Championship</a>  
 - 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
 - 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Wesleyan Invitational</a>  
 
@@ -216,6 +216,87 @@
  > Backdraw Doubles
   > Main
      32     Quiros/Joseph        def.     Balsekar/Hagen       82
+~~~
+
+<a name="21-34853"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  ITA Division I Men's Northeast Regional Championship
+  Dates: Oct 14-19, 2021
+  Host: Univ. Of Pennsylvania (M)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Double Main Draw
+  > Main
+      F (7) Milavsky/Shi         def. (4) Ayeni/Melnic         64 76(12)
+     SF (4) Ayeni/Melnic         def. (2) Graziani/Zhu         61 26 [7]
+     SF (7) Milavsky/Shi         def.     Antuna/Garcia        61 76(10)
+     QF (2) Graziani/Zhu         def. (1) Barki/Bosancic       87(6)
+     QF (4) Ayeni/Melnic         def. (3) Kotzen/Templeman     81
+     QF     Antuna/Garcia        def.     Wibler/Tang          83
+     QF (7) Milavsky/Shi         def.     Blekhman/Elliott     83
+     16 (1) Barki/Bosancic       def.     Gustavson/de Camelis 83
+     16 (2) Graziani/Zhu         def.     Finkelstein/Winegar  87(6)
+     16 (3) Kotzen/Templeman     def.     Lefevre/Neal         87(5)
+     16 (4) Ayeni/Melnic         def.     Pukse/Pietsch        82
+     16     Wibler/Tang          def. (5) Walker/Jachuck       85
+     16     Antuna/Garcia        def. (6) Poling/Rodriguez     84
+     16 (7) Milavsky/Shi         def.     Sinha/Papoe          82
+     16     Blekhman/Elliott     def.     Suarez/Nardone       85
+     32 (1) Barki/Bosancic       def.     Widdecombe/Knox-Jon… 84
+     32     Gustavson/de Camelis def.     Gupta/Parikh         86
+     32     Finkelstein/Winegar  def.     Brandherm/De Medeir… 84
+     32 (2) Graziani/Zhu         def.     Dhouib/Trainauskas   86
+     32 (3) Kotzen/Templeman     def.     De Soussa/Jesudason  Walkover
+     32     Lefevre/Neal         def.     McCarthy/Mao         84
+     32     Pukse/Pietsch        def.     Olive-Blanco/Shah    87(8)
+     32 (4) Ayeni/Melnic         def.     Pinos/Teixeira       84
+     32 (5) Walker/Jachuck       def.     Segarra/Kobayashi    83
+     32     Wibler/Tang          def.     Radionov/Hammitt     83
+     32     Antuna/Garcia        def.     Quiles/Webb          84
+     32 (6) Poling/Rodriguez     def.     Cautaerts/Jackson    84
+     32 (7) Milavsky/Shi         def.     Lam/Lam              84
+     32     Sinha/Papoe          def.     Chen/Kelleher        84
+     32     Blekhman/Elliott     def.     Hildebrandt/Smith    Walkover
+     32     Suarez/Nardone       def. (8) Hashimoto/Westphal   87(6)
+     64     Widdecombe/Knox-Jon… def.     Eden/Huttepain       85
+     64     Gustavson/de Camelis def.     Pertile/Lorenz       86
+     64     Gupta/Parikh         def.     Penman/Van Noord     86
+     64     Finkelstein/Winegar  def.     Feldman/Chong        82
+     64     Brandherm/De Medeir… def.     Gupta/Selati         86
+     64     Dhouib/Trainauskas   def.     Smith/Duo            87(4)
+     64     De Soussa/Jesudason  def.     Pawlowicz/Verma      83
+     64     McCarthy/Mao         def.     Casasola Monllor/So… 87(3)
+     64     Lefevre/Neal         def.     Gore/Morkel          83
+     64     Pukse/Pietsch        def.     Lake/Woodman         87(3)
+     64     Olive-Blanco/Shah    def.     Mu/Komatineni        86
+     64     Pinos/Teixeira       def.     Komosinski/Salazar   82
+     64     Segarra/Kobayashi    def.     Godfrey-Seno/Pinho   87(5)
+     64     Radionov/Hammitt     def.     Masi/Alonso          83
+     64     Wibler/Tang          def.     Bezborodov/Massam    82
+     64     Antuna/Garcia        def.     Sun/Dean             87(7)
+     64     Quiles/Webb          def.     El Kholti/Fouad      82
+     64     Cautaerts/Jackson    def.     Bhatia/Semerak       82
+     64     Lam/Lam              def.     Castro/Silva         85
+     64     Chen/Kelleher        def.     Paardekooper/Rivolo  85
+     64     Sinha/Papoe          def.     Kleiman/Learner      85
+     64     Hildebrandt/Smith    def.     Oberg/Reilly         87(3)
+     64     Blekhman/Elliott     def.     Gibbons/Guerrero Al… 86
+     64     Suarez/Nardone       def.     Castillo-Sanchez/Fr… 84
+ > Doubles Qualifying Draw
+  > Main
+     QF     Feldman/Chong        def.     Gorshein/Jose        85
+     QF     Romig/Potter         def.     Pukse/Pietsch        87(4)
+     QF     Bezborodov/Massam    def.     Olive-Blanco/Shah    85
+     QF     Kleiman/Learner      def.     Janackovic/Jagtiani  85
+     16     Gorshein/Jose        def.     Snaiders/Macnamara   86
+     16     Feldman/Chong        def.     Garcia/Mackay        82
+     16     Pukse/Pietsch        def.     Pergel/Srivastava    82
+     16     Romig/Potter         def.     Townes/Kanektar      87(3)
+     16     Bezborodov/Massam    def.     Arakaki/Karagozoglu  84
+     16     Olive-Blanco/Shah    def.     Odani/Garcia         87(3)
+     16     Janackovic/Jagtiani  def.     James/Guberman       83
+     16     Kleiman/Learner      def.     Sedeno Nieto/Villal… 86
 ~~~
 
 <a name="21-05800"></a>

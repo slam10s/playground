@@ -608,7 +608,7 @@
  > Lehigh vs Monmouth Singles
   > Main
      R1  Lucca Silva          def.  Zack Elliott         64 75
-     R1  Marc Blekhman        def.  Gabriel Busato       26 62 [9]
+     R1  Mark Blekhman        def.  Gabriel Busato       26 62 [9]
      R1  Trent Massam         def.  Matt Kleiman         62 26 [8]
      R1  Jeremy Learner       def.  Christof Zeiler      63 60
      R1  Diego Laporta        def.  Jordan Paul          64 62
@@ -618,7 +618,7 @@
  > Lehigh vs Howard Singles
   > Main
      R1  Zack Elliott         def.  Justin Cadeau        63 75
-     R1  Marc Blekhman        def.  Romani Mayers        64 42 Ret.
+     R1  Mark Blekhman        def.  Romani Mayers        64 42 Ret.
      R1  Matt Kleiman         def.  Marcel Dawson        67(5) 62 [4]
      R1  Jeremy Learner       def.  Daniel Dunac         63 75
      R1  Jordan Paul          def.  Gabriel Knowles      62 60
@@ -658,7 +658,7 @@
  > Lehigh vs Fairfield Singles
   > Main
      R1  Charles Morkel       def.  Zack Elliott         63 62
-     R1  Marc Blekhman        def.  Jonathan Olive-Blan… 16 76(5) [4]
+     R1  Mark Blekhman        def.  Jonathan Olive-Blan… 16 76(5) [4]
      R1  Matt Kleiman         def.  Keean Shah           26 62 [8]
      R1  Sam Hodges           def.  Jeremy Learner       62 46 [3]
      R1  Griffin Schlesinger  def.  Jordan Paul          63 26 [7]
@@ -976,9 +976,9 @@
  > Flight C
   > East
       F  Jonathan Garcia     def.  Mike Thomas         63 60
-     SF  Jonathan Garcia     def.  Cheng Tang          61 Ret.
+     SF  Jonathan Garcia     def.  Rex Tang            61 Ret.
      SF  Mike Thomas         def.  Anshumat Srivastava 64 75
-     QF  Cheng Tang          def.  Jake Huarte         63 64
+     QF  Rex Tang            def.  Jake Huarte         63 64
      QF  Jonathan Garcia     def.  Charlie Levinson    63 64
      QF  Anshumat Srivastava def.  Samuel Townes       63 64
      QF  Mike Thomas         def.  Carlos Carvalho     34 Ret.
@@ -988,13 +988,13 @@
      SF  Samuel Townes       def.  Carlos Carvalho     Walkover
  > Flight D
   > East
-      F  Ashwin Kanetkar     def.  Tom Owen            67(4) 64 [8]
+      F  Ashwin Kanektar     def.  Tom Owen            67(4) 64 [8]
      SF  Tom Owen            def.  Nicolas Grunig      16 62 [5]
-     SF  Ashwin Kanetkar     def.  Josh Israel         63 64
+     SF  Ashwin Kanektar     def.  Josh Israel         63 64
      QF  Tom Owen            def.  Tejas Gupta         63 61
      QF  Nicolas Grunig      def.  Daniel Zhou         62 64
      QF  Josh Israel         def.  Alec Mackay         64 61
-     QF  Ashwin Kanetkar     def.  Michael Zhang       16 62 [7]
+     QF  Ashwin Kanektar     def.  Michael Zhang       16 62 [7]
   > West
       F  Tejas Gupta         def.  Michael Zhang       76(5) 16 [7]
      SF  Tejas Gupta         def.  Daniel Zhou         Walkover
