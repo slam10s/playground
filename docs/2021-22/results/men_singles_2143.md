@@ -57,8 +57,9 @@
      R1     James Wilkinson      def.     Oliver Nolan         75 75
  > Main draw
   > Main
-     SF (1) Jeffrey von der Sch…  vs      Francois Le Tallec   Mon @ 09:00
-     SF (6) Charles Bertimon      vs  (2) Inaki Montes de la … Mon @ 09:00
+      F     Francois Le Tallec   def. (2) Inaki Montes de la … 30 Ret.
+     SF     Francois Le Tallec   def. (1) Jeffrey von der Sch… 61 64
+     SF (2) Inaki Montes de la … def. (6) Charles Bertimon     63 76(4)
      QF (1) Jeffrey von der Sch… def. (8) Marin Delmas         62 62
      QF     Francois Le Tallec   def.     George Davis         64 26 75
      QF (6) Charles Bertimon     def.     Leo Raquin           64 46 64
@@ -110,7 +111,7 @@
   > Main
      64     Daniel Pellerito     def.     Oliver Tobisch       62 64
      64     Maxence Bertimon     def.     Bora Sengul          67(6) 63 [9]
-     64     Chikaya Sato         def.     Alvaro Ariza         61 62
+     64     Chikaya Sato         def.     Alvaro Ariza         61 64
      64     Younes Lalami        def.     Miko Eala            62 57 [7]
      64     Oliver Nolan         def.     Joseph Brailovsky    63 16 [8]
 ~~~
@@ -125,9 +126,12 @@
  Men's Open Singles
  > Main Draw
   > Main
+      SF (11) Andrew Zhang         def.  (8) Connor Thomson       62 57 64
+      SF  (7) Taha Baadi           def. (17) Connor Krug          64 76(5)
       QF  (8) Connor Thomson       def. (17) Jake Beasley         62 62
-      QF (11) Andrew Zhang          vs  (17) Ryuhei Azuma         Sun @ 13:45
-      QF (17) Connor Krug           vs   (3) Garrett Johns        Sun @ 12:30
+      QF (11) Andrew Zhang         def. (17) Ryuhei Azuma         62 64
+      QF (17) Connor Krug          def.  (3) Garrett Johns        76(2) 46 75
+      QF  (7) Taha Baadi           def.  (2) Toby Samuel          64 75
       16 (17) Jake Beasley         def.      Bekhzod Rasamatov    62 62
       16  (8) Connor Thomson       def.  (9) Jakob Schnaitter     62 63
       16 (11) Andrew Zhang         def. (17) Bastien Huon         63 63
@@ -249,6 +253,7 @@
      128      Stefanos Savva       def.      Zvonko Bencrdic      61 61
      128  (2) Toby Samuel          def.      Victor Putter        60 61
   > Consolation
+      QF      Peter Murphy         def.      Uddayvir Singh       36 62 [7]
       QF      Reece Falck          def.      Casey Kania          Walkover
       QF      Damien Nezar         def.      Richard Trey Mallory Walkover
       QF      Alex Horn            def. (16) Yannai Barkai        Walkover
@@ -278,7 +283,7 @@
       32      Alex Horn            def.      Victor Putter        64 64
      64Q  (1) Brian Cernoch        def.      Omer Gorgun          63 62
      64Q      Neil O Connor        def.      Josiah Schainblatt   62 60
-     64Q      Arturo Kam           def.      Matt Pitts           36 62 [3]
+     64Q      Arturo Kam           def.      Matt Pitts           Walkover
      64Q      Peter Murphy         def.      Robbie Young         64 63
      64Q      Uddayvir Singh       def.      Shaka Cristellotti   62 62
      64Q      Robby Krick          def.      Luke Thomson         63 63
@@ -308,6 +313,9 @@
      64Q      Iganacio Sandoval    def.      Ted Williams         16 63 [12]
      64Q      Alex Horn            def.      Elijah Poritzky      76(2) 75
      64Q      Victor Putter        def.      Zvonko Bencrdic      62 61
+ > Unaccounted For Matches
+  > Main
+       F      Arturo Kam           def.      Cole Burnam          36 62 [3]
 ~~~
 
 <a name="21-50726"></a>
@@ -320,8 +328,9 @@
  Men's Open Singles
  > Draw
   > Main
-      SF  (1) Mason Beiler          vs       Aleksa Bucan         Sun @ 12:00
-      SF (16) Ezequiel Santalla     vs   (6) Jordan Hasson        Sun @ 12:00
+       F  (6) Jordan Hasson        def.      Aleksa Bucan         76(4) 64
+      SF      Aleksa Bucan         def.  (1) Mason Beiler         75 36 64
+      SF  (6) Jordan Hasson        def. (16) Ezequiel Santalla    76(5) 46 76(5)
       QF  (1) Mason Beiler         def.      Will Gleason         64 36 64
       QF      Aleksa Bucan         def. (15) Nicolas Acevedo      26 61 62
       QF (16) Ezequiel Santalla    def.  (9) Welsh Hotard         76(5) 75
@@ -408,7 +417,7 @@
      128      Philip Olsson        def.      Meg Siritaworachan   63 64
      128      Alex Richards        def.      Adam Behun           64 75
   > Consolation
-       F (14) Volodymyr Zakharov    vs       Connor Di Marco      Sun @ 13:30
+       F (14) Volodymyr Zakharov   def.      Connor Di Marco      06 64 [8]
       SF (14) Volodymyr Zakharov   def.      Matija Matic         76(5) 63
       SF      Connor Di Marco      def.      Callum Gale          36 63 [6]
       QF (14) Volodymyr Zakharov   def.      Foster Rogers        62 16 [4]
@@ -487,11 +496,18 @@
        32      Hugo Chatras         def.      Diego Herrera        64 62
  > Main Draw
   > Main
+        F  (3) James Trotter        def.  (7) Jj Tracy             63 64
+       SF  (7) Jj Tracy             def.      Trice Pickens        61 62
+       SF  (3) James Trotter        def.  (2) Ondrej Styler        62 10 Ret.
+       QF      Trice Pickens        def. (11) Robert Cash          63 64
+       QF  (7) Jj Tracy             def. (12) Olivier Stuart       62 62
+       QF  (3) James Trotter        def.  (8) Patrick Maloney      62 67(5) 63
+       QF  (2) Ondrej Styler        def. (13) Justin Boulais       76(8) 36 76(5)
        16 (11) Robert Cash          def.  (1) Axel Nefve           63 64
        16      Trice Pickens        def.  (6) Vito Tonejc          61 61
        16 (12) Olivier Stuart       def.  (4) Andrew Fenty         64 75
        16  (7) Jj Tracy             def. (10) Gavin Young          16 61 76(4)
-       16  (8) Patrick Maloney      def. (16) Kweisi Kenyatte      63 76(3)
+       16  (8) Patrick Maloney      def. (16) Kweisi Kenyatte      64 76(3)
        16  (3) James Trotter        def.      Max Sheldon          62 63
        16 (13) Justin Boulais       def.      Nino Ehrenschneider  64 46 76(3)
        16  (2) Ondrej Styler        def. (15) Hunter Heck          62 63
@@ -554,6 +570,9 @@
        32      Graydon Lair         def.      Alex Zederbauer      46 64 [5]
        32      Jacob Bickersteth    def.      Lucas Horve          62 64
        32      Alex Petrov          def.      Patorn Hanchaikul    61 62
+ > Arranged Matches
+  > Main
+        F      Nick Beaty           def.      Lenard Soha          76(4) 64
  > Qualifying Draw
   > Main
        64  (1) Anton Arzhankin      def.      Stefan Drogovic      36 60 63
@@ -649,7 +668,7 @@
      32 (2) Clement Chidekh      def.     Tomas Kopczynski     64 63
  > Men's Singles Consolation
   > Main
-      F     Aryan Chaudhary       vs      Mann Shah            Sun @ 12:30
+      F     Mann Shah            def.     Aryan Chaudhary      60 75
      SF     Aryan Chaudhary      def.     Joshua Charlton      63 64
      SF     Mann Shah            def.     Arthur Neuhaus       36 62 [6]
      QF     Joshua Charlton      def.     Guillaume Dalmasso   62 46 [7]
@@ -676,6 +695,7 @@
  Men's Open Singles
  > Main Singles
   > Main
+      F  (5) Andres Martin        def. (14) Trey Hilderbrand     62 57 62
      SF (14) Trey Hilderbrand     def.      Alvaro Fernandez Ho… 62 76(4)
      SF  (5) Andres Martin        def.      Dominik Barton       61 62
      QF      Alvaro Fernandez Ho… def.      Richard Thongoana    61 64
@@ -740,6 +760,7 @@
      64  (2) Philip Henning       def.      Chen Dong            62 63
  > Backdraw
   > Main
+      F      Chen Dong            def.      Mattias Siimar       Walkover
      SF      Mattias Siimar       def.      Roberts Grinvalds    64 61
      SF      Chen Dong            def.      Joshua Goodger       26 64 [5]
      QF      Mattias Siimar       def.      Benjamin Hannestad   64 63
@@ -822,10 +843,12 @@
  Men's Open Singles
  > Draw
   > Main
-      QF      Sam Rubell            vs  (31) Herman Hoeyeraal     Sun @ 10:30
-      QF  (4) Bradley Frye          vs  (30) Pietro Fellin        Sun @ 10:30
-      QF (13) Alexander Hoogmarte…  vs   (3) Stefan Dostanic      Sun @ 10:30
-      QF (29) Stefan Leustian       vs  (15) Andrew Rogers        Sun @ 10:30
+      SF      Sam Rubell            vs  (30) Pietro Fellin        Mon @ 11:00
+      SF  (3) Stefan Dostanic       vs  (15) Andrew Rogers        Mon @ 11:00
+      QF      Sam Rubell           def. (31) Herman Hoeyeraal     63 75
+      QF (30) Pietro Fellin        def.  (4) Bradley Frye         62 67(7) 63
+      QF  (3) Stefan Dostanic      def. (13) Alexander Hoogmarte… 64 64
+      QF (15) Andrew Rogers        def. (29) Stefan Leustian      62 64
       16      Sam Rubell           def.  (1) Jonas Eriksson Zive… 64 64
       16 (31) Herman Hoeyeraal     def.  (6) Drew Baird           64 62
       16  (4) Bradley Frye         def. (27) Patrick Zahraj       64 46 75
@@ -928,18 +951,22 @@
      128      Hiroki Sakagawa      def. (22) Eric Hahn            62 46 62
      128      Nick Lagaev          def.      Fernando Fonseca     67(8) 76(4) 64
   > Consolation
-      16      Jett Middleton        vs  (25) Eric Hadigian        Sun @ 10:00
-      16      Jose Dominguez Alon…  vs       Cody Castro          Sun @ 10:00
-      16      Stefano Tsorotiotis   vs       Conner Olsen         Sun @ 10:00
-      16      Pelayo Rodriguez      vs       Blaz Seric           Sun @ 10:00
-      16      Corrado Summaria      vs       Alex Mandma          Sun @ 10:00
-      16      Marvin Schaber        vs       Jonathan Zheng Qi Z… Sun @ 10:00
-      16 (18) Ryder Jackson         vs       Karl Collins         Sun @ 10:00
-      16      Hendrik Inno          vs       Fernando Fonseca     Sun @ 10:00
+      QF      Jett Middleton       def.      Jose Dominguez Alon… 64 76(3)
+      QF      Stefano Tsorotiotis  def.      Blaz Seric           64 76(4)
+      QF      Marvin Schaber       def.      Alex Mandma          63 62
+      QF      Fernando Fonseca     def.      Karl Collins         64 62
+      16      Jett Middleton       def. (25) Eric Hadigian        61 26 76(4)
+      16      Jose Dominguez Alon… def.      Loic Van Zeggelaar   36 76(3) [5]
+      16      Stefano Tsorotiotis  def.      Conner Olsen         64 63
+      16      Blaz Seric           def.      Pelayo Rodriguez     76(6) 61
+      16      Alex Mandma          def.      Corrado Summaria     75 36 [3]
+      16      Marvin Schaber       def.      Jonathan Zheng Qi Z… 76(5) 60
+      16      Karl Collins         def. (18) Ryder Jackson        76(4) 62
+      16      Fernando Fonseca     def.      Hendrik Inno         62 76(4)
       32      Jett Middleton       def.      Sahm Irvine          62 60
       32 (25) Eric Hadigian        def.      Zach Ermert          63 60
       32      Jose Dominguez Alon… def.      Wyatt Anderson       64 63
-      32      Cody Castro          def.      Loic Van Zeggelaar   60 75
+      32      Loic Van Zeggelaar   def.      Cody Castro          60 75
       32      Stefano Tsorotiotis  def.      Maximilian Wild      Walkover
       32      Conner Olsen         def.      Alejandro Vedri-Cas… 62 60
       32      Pelayo Rodriguez     def.      Guillaume Tattevin   Walkover

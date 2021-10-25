@@ -81,11 +81,36 @@
  Men's Open Doubles
  > Blue
   > Main
-     16  Azuma/Whitaker       def.  Aubone/Christensen 86
-     16  Vasser/Jalif         def.  Pitts/Smith        86
-     16  Martin/Danilchenko   def.  Giusca/Liu         86
-     16  Gray/Jankulovski     def.  Stinchcomb/Puscas  86
-     16  Plans Gonzalez/Labr… def.  Raab/Ross          98(8)
+     16  Azuma/Whitaker       def.  Aubone/Christensen   86
+     16  Vasser/Jalif         def.  Pitts/Smith          86
+     16  Martin/Danilchenko   def.  Giusca/Liu           86
+     16  Gray/Jankulovski     def.  Stinchcomb/Puscas    86
+     16  Plans Gonzalez/Labr… def.  Raab/Ross            98(8)
+ > Red
+  > Main
+     QF  McClean/Murgett      def.  Harwell/Freeman      98(4)
+     QF  Nolan/Dobai          def.  Sisam/Klopper        97
+     QF  Stice/Galka          def.  Ross/Robb-Wilcox     84
+ > Green
+  > Main
+     QF  Harwell/Freeman      def.  Giusca/Liu           86
+     QF  Ferreira/Ross        def.  Azuma/Whitaker       81
+     QF  Klopper/Robb-Wilcox  def.  Stinchcomb/Pitts     84
+ > Purple
+  > Main
+     QF  Stice/Galka          def.  Martin/Aubone        83
+     QF  Vasser/Jalif         def.  Dobai/Labrador       98(1)
+     QF  McClean/Nolan        def.  Christensen/Jankulo… 84
+ > Orange
+  > Main
+     QF  Martin/Aubone        def.  Harwell/Freeman      84
+     QF  Ferreira/Ross        def.  Vasser/Jalif         84
+     QF  Klopper/Robb-Wilcox  def.  Christensen/Jankulo… 85
+ > Yellow
+  > Main
+     QF  Giusca/Liu           def.  Dobai/Murgett        86
+     QF  Stice/Galka          def.  Pitts/Whitaker       98(1)
+     QF  McClean/Nolan        def.  Smith/Puscas         85
 ~~~
 
 <a name="21-69307"></a>

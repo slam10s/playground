@@ -11,6 +11,7 @@
 - 9/17/2021 - [Lynn Stevens Invite](#21-42923) ([Results](#21-42923) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CoastalCarolinaUniversityW/Tournaments/Overview/74919BE2-BE17-4E9F-8752-0E9BA855D125" target="_blank">Draws</a>)  
 - 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
 - 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655) ([Results](#21-47655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityW/Tournaments/Overview/AF0C9E05-93DF-4088-A5CF-0B35FDCDBA9C" target="_blank">Draws</a>)  
+- 9/17/2021 - [QU Hidden Duals At Uconn](#21-14835) ([Results](#21-14835) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">Draws</a>)  
 - 9/17/2021 - [Redbird Invitational](#21-33894) ([Results](#21-33894) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityW/Tournaments/Overview/1C326774-DC63-4687-A38F-F4CEEC065C15" target="_blank">Draws</a>)  
 - 9/17/2021 - [University of Cincinnati/Pam Whitehead Fall Invitational](#21-41928) ([Results](#21-41928) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">Draws</a>)  
 - 9/17/2021 - [UVA Invitational](#21-02168) ([Results](#21-02168) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/C8B138D1-65A1-4A21-BF46-12614579945A" target="_blank">Draws</a>)  
@@ -30,7 +31,6 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">QU Hidden Duals At Uconn</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Division II Women's East ITA Regional Championships</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">PP/CMS Invite</a>  
@@ -542,6 +542,40 @@
       F     Huang/Chen           def.     Paredes/Terrazas     61
 ~~~
 
+<a name="21-14835"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  QU Hidden Duals At Uconn
+  Dates: Sep 17-19, 2021
+  Host: Quinnipiac University (W)
+══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Day 1 - Doubles
+  > Main
+     16  Nella/Truden         def.  Bou/McKenzie         64
+     16  Gilbert/Feoli        def.  Koscielski/Wilbur    62
+     16  Bradley/Koo          def.  Loureiro/Pidgeon     63
+     16  Greenwalt/Rogers     def.  Williams/Luehrman    64
+     16  Hutchinson/Karman    def.  Bou/Hoppe            63
+     16  Karamyshev/Petri-Be… def.  Campos/Tuttle        62
+ > Day 2 - Doubles
+  > Main
+     16  Hutchinson/Karman    def.  Nella/Truden         32 Ret.
+     16  Koscielski/Wilbur    def.  Plumtree/Bozinovic   62
+     16  Bradley/Koo          def.  Nowak/March          76(5)
+     16  Williams/Luehrman    def.  Campos/Prinos        62
+     16  Bou/Hoppe            def.  Bou/McKenzie         75
+     16  Karamyshev/Petri-Be… def.  DiMaio/Sabile        75
+ > Day 3 - Doubles
+  > Main
+     16  Koscielski/Wilbur    def.  Karamyshev/Petri-Be… 64
+     16  Nella/Bradley        def.  Bou/Hoppe            62
+     16  Bou/McKenzie         def.  Hutchinson/Plumtree  75
+     16  DiMaio/Sabile        def.  Karman/Bozinovic     63
+     16  Gilbert/Feoli        def.  Nowak/Campos         61
+     16  Loureiro/Pidgeon     def.  Prinos/Tuttle        76(6)
+~~~
+
 <a name="21-33894"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════
@@ -797,6 +831,13 @@
      16  Lawrence/Kidd       def.  Guilarte/Caro       84
      16  Simhambhalta/Patino def.  Laidman/Vincent     86
      16  Anderson/Harris     def.  Martinez/Pratt      81
+  > Consolation
+     SF  Hersh/Kogoy         def.  Marsh/Venham        81
+     SF  Laidman/Vincent     def.  Guilarte/Caro       76(3)
+     QQ  Hersh/Kogoy         def.  Rabensdorf/Vasher   82
+     QQ  Marsh/Venham        def.  Hardesty/Pascadlo   86
+     QQ  Guilarte/Caro       def.  Sloyan/McSpadden    83
+     QQ  Laidman/Vincent     def.  Martinez/Pratt      83
  > Red
   > Main
       F  Kotany/Kamara       def.  Teefey/Teefey       87(6)
@@ -806,11 +847,16 @@
      QF  Kotany/Kamara       def.  Miines/Willocks     87
      QF  Teefey/Teefey       def.  Richardson/Patton   80
      QF  Andrade/Alfaro      def.  Trantham/Perry      87(2)
+  > Consolation
+     SQ  Miines/Willocks     def.  Evans/Perry         84
+     SQ  Trantham/Perry      def.  Richardson/Patton   82
  > Yellow
   > Main
       F  Oliver/Pinola       def.  Washburn/Lassiter   81
      SF  Oliver/Pinola       def.  Bellamy/Lewis       80
      SF  Washburn/Lassiter   def.  Hurt/Wrenn          84
+  > Consolation
+      F  Hurt/Wrenn          def.  Bellamy/Lewis       83
 ~~~
 
 <a name="21-52871"></a>
@@ -1203,13 +1249,13 @@
      SF (1) Coopersmith/Vidanov… def. (4) Barandas/Teodoro De… 81
      SF (2) Piccoliori/Puig Llo… def. (3) Morrissey/Sukkanha   Walkover
      QF (1) Coopersmith/Vidanov… def.     Katzarkov/Yu         84
-     QF (4) Barandas/Teodoro De… def.     Engelbrecht/Sorakudo 97
+     QF (4) Barandas/Teodoro De… def.     Engelbrecht/Sorakubo 97
      QF (3) Morrissey/Sukkanha   def.     Baptista/Damon       84
      QF (2) Piccoliori/Puig Llo… def.     Araya/Peneda         84
      16 (1) Coopersmith/Vidanov… def.     Ibanez Navarro/Maeh… 82
      16     Katzarkov/Yu         def.     Netto Koop/Oliveira  82
      16 (4) Barandas/Teodoro De… def.     Matos/Santiago       84
-     16     Engelbrecht/Sorakudo def.     Letizia/Picardi      86
+     16     Engelbrecht/Sorakubo def.     Letizia/Picardi      86
      16     Baptista/Damon       def.     Botsford/Lewis       83
      16 (3) Morrissey/Sukkanha   def.     Berghaus/Pena        85
      16     Araya/Peneda         def.     Chang/Maier          82
@@ -1220,7 +1266,7 @@
      32 (4) Barandas/Teodoro De… def.     Lopez Suero/Neiberl… 85
      32     Matos/Santiago       def.     Harris/Schnatz       83
      32     Letizia/Picardi      def.     Cook/Piette          80
-     32     Engelbrecht/Sorakudo def.     Benn/Benn            86
+     32     Engelbrecht/Sorakubo def.     Benn/Benn            86
      32     Baptista/Damon       def.     Candiotto/Rodriguez… Walkover
      32     Botsford/Lewis       def.     Guglielmetti/Medina  85
      32     Berghaus/Pena        def.     Bobrowski/Hire       84

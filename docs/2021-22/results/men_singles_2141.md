@@ -1028,6 +1028,20 @@
       F  Sebastian Welch      def.  Kyle Tang            61 75
      SF  Sebastian Welch      def.  Wojciech Szczesny    64 46 64
      SF  Kyle Tang            def.  Michal Wozniak       61 61
+ > Sunday matches
+  > Main
+     32  Patrick Fletchall    def.  Juan Sebastian Zaba… 76(6) 36 [7]
+     32  Rohan Sachdev        def.  Luka Vukovic         64 63
+     32  Carson Haskins       def.  Pawit Sornlaksup     64 63
+     32  Piotr Galus          def.  Marko Galic          62 64
+     32  Francisco Lamas      def.  Simeon Kostov        76(6) 26 [9]
+     32  Jack Batchelor       def.  Jagger Saylor        63 26 [9]
+     32  Gabriele Brancatelli def.  Juan Lombisano       61 61
+     32  Michal Wozniak       def.  Emil Berglund        61 61
+     32  Andre Suzanne        def.  Vlad Meluta          64 46 [7]
+ > Extra Match
+  > Main
+      F  Patrick Fletchall    def.  Gabriele Brancatelli 61 62
 ~~~
 
 <a name="21-62211"></a>

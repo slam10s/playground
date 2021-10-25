@@ -11,6 +11,7 @@
 - 9/17/2021 - [Lynn Stevens Invite](#21-42923) ([Results](#21-42923) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CoastalCarolinaUniversityW/Tournaments/Overview/74919BE2-BE17-4E9F-8752-0E9BA855D125" target="_blank">Draws</a>)  
 - 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
 - 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655) ([Results](#21-47655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityW/Tournaments/Overview/AF0C9E05-93DF-4088-A5CF-0B35FDCDBA9C" target="_blank">Draws</a>)  
+- 9/17/2021 - [QU Hidden Duals At Uconn](#21-14835) ([Results](#21-14835) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">Draws</a>)  
 - 9/17/2021 - [Redbird Invitational](#21-33894) ([Results](#21-33894) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityW/Tournaments/Overview/1C326774-DC63-4687-A38F-F4CEEC065C15" target="_blank">Draws</a>)  
 - 9/17/2021 - [University of Cincinnati/Pam Whitehead Fall Invitational](#21-41928) ([Results](#21-41928) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">Draws</a>)  
 - 9/17/2021 - [UVA Invitational](#21-02168) ([Results](#21-02168) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/C8B138D1-65A1-4A21-BF46-12614579945A" target="_blank">Draws</a>)  
@@ -30,7 +31,6 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">QU Hidden Duals At Uconn</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Division II Women's East ITA Regional Championships</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">PP/CMS Invite</a>  
@@ -201,7 +201,7 @@
      QF  Eliza Omirou         def.  Allie Gretkowski    36 63 63
      QF  Fernanda Labrana     def.  Anna Ross           26 75 61
      QF  Maggie Pate          def.  Tamara Racine       46 63 62
-     QF  Cristina Mayorova    def.  Daria Kuczer        Walkover
+     QF  Cristina Mayorova    def.  Daria Kuczer        64 62
   > West
       F  Allie Gretkowski     def.  Daria Kuczer        64 64
      SF  Allie Gretkowski     def.  Anna Ross           64 67(3) 63
@@ -980,6 +980,61 @@
      16     Hsuan Huang          def.     Massiel Paredes      61 62
 ~~~
 
+<a name="21-14835"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  QU Hidden Duals At Uconn
+  Dates: Sep 17-19, 2021
+  Host: Quinnipiac University (W)
+══════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day 1 - Hidden Duals
+  > Main
+     64  Paola Bou            def.  Claire Koscielski  26 75 [8]
+     64  Kamilla Nella        def.  Samantha DiMaio    61 62
+     64  Alessia Truden       def.  Elizabeth Gilbert  63 60
+     64  Dominique Vasile     def.  Paulina Feoli      62 62
+     64  Brittney Wilbur      def.  Jenna Sabile       60 63
+     64  Sophie McKenzie      def.  Jean-Na Koo        61 76(4)
+     64  Jordan Bradley       def.  MaryJo Pidgeon     76(2) 16 [9]
+     64  Andie Williams       def.  Anna Loureiro      63 61
+     64  Kennedy Greenwalt    def.  Alexandra Luehrman 62 60
+     64  Katarina Plumtree    def.  Julieanne Bou      67(5) 63 [5]
+     64  Sandra Bozinovic     def.  Leonie Hoppe       62 62
+     64  Aleksandra Karamysh… def.  Amanda Nowak       63 64
+     64  Aina March           def.  Isabel Petri-Bere  61 61
+     64  Denise Lai           def.  Sophia Prinos      46 60 [9]
+ > Day 2 - Hidden Duals
+  > Main
+     32  Sandra Bozinovic     def.  Claire Koscielski  62 62
+     32  Kamilla Nella        def.  Amanda Nowak       62 62
+     32  Katarina Plumtree    def.  Dominique Vasile   64 63
+     32  Scarlett Hutchinson  def.  Brittney Wilbur    64 76(7)
+     32  Jordan Bradley       def.  Francesca Karman   63 64
+     32  Jean-Na Koo          def.  Sophia Prinos      61 26 [7]
+     32  Andie Williams       def.  Laina Campos       64 32 Ret.
+     32  Alexandra Luehrman   def.  Lucie Tuttle       57 63 [9]
+     32  Julieanne Bou        def.  Elizabeth Gilbert  60 61
+     32  Leonie Hoppe         def.  Sophie McKenzie    63 61
+     32  Aleksandra Karamysh… def.  Paulina Feoli      36 64 [0]
+     32  Jenna Sabile         def.  Isabel Petri-Bere  62 62
+     32  MaryJo Pidgeon       def.  Denise Lai         63 62
+ > Day 3 - Hidden Duals
+  > Main
+     32  Julieanne Bou        def.  Kamilla Nella      63 61
+     32  Claire Koscielski    def.  Leonie Hoppe       61 60
+     32  Aleksandra Karamysh… def.  Jordan Bradley     63 62
+     32  Brittney Wilbur      def.  Denise Lai         61 61
+     32  Isabel Petri-Bere    def.  Jean-Na Koo        62 64
+     32  Sandra Bozinovic     def.  Paola Bou          61 61
+     32  Katarina Plumtree    def.  Samantha DiMaio    36 63 [5]
+     32  Amanda Nowak         def.  Elizabeth Gilbert  62 67(5) [6]
+     32  Jenna Sabile         def.  Aina March         46 75 [9]
+     32  Sophie McKenzie      def.  Francesca Karman   76(4) 63
+     32  Anna Loureiro        def.  Sophia Prinos      75 63
+     32  Kennedy Greenwalt    def.  Lucie Tuttle       76(3) 64
+~~~
+
 <a name="21-33894"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════════
@@ -1288,7 +1343,7 @@
      R3  Chiara Gerbino       def.  Amelie Allard        64 64
  > Wingate vs LMC
   > Main
-     R3  Chole Kosmrlj        def.  Anita Ivanova        75 62
+     R3  Chloe Kosmrlj        def.  Anita Ivanova        75 62
      R3  Saga Berggren        def.  Laura Ocampo         60 60
      R3  Elena Gunfaus        def.  Mei Hiramatsu        75 60
  > Montevallo vs LMC
@@ -1310,7 +1365,7 @@
   > Main
      R3  Jessica Ruetten      def.  Yaritza Gonzalez     62 64
      R2  Camilla Ciaccia      def.  Lily Aranyos         60 62
-     R1  Chole Kosmrlj        def.  Molly Hencken        63 60
+     R1  Chloe Kosmrlj        def.  Molly Hencken        63 60
  > Montevallo vs Wingate
   > Main
      R5  Flaminia Guidantoni  def.  Emily Hafner         64 67(4) [6]
@@ -1352,7 +1407,7 @@
      SF  Natalia Garcia-Moli… def.  Allison Wandling   82
      SF  Ruth de Souza        def.  Christina Harris   82
      QF  Natalia Garcia-Moli… def.  Ana Patino         64 76
-     QF  Allison Wandling     def.  Imani Vincent      61 63
+     QF  Allison Wandling     def.  Imani Vincent      64 63
      QF  Christina Harris     def.  Nikki Simhambhalta 61 61
      QF  Ruth de Souza        def.  Abbey Grace Venham 63 61
      16  Natalia Garcia-Moli… def.  Maggie Moody       64 61
@@ -1363,24 +1418,33 @@
      16  Nikki Simhambhalta   def.  Jill Lawrence      61 63
      16  Ruth de Souza        def.  Alli Kogoy         60 60
      16  Abbey Grace Venham   def.  Jahveesha Combs    75 36 [6]
+  > Consolation
+     QQ  Abby Caddick         def.  Maggie Moody       64
+     QQ  Elizabeth Teefey     def.  Bri Laidman        62
+     QQ  Jill Lawrence        def.  Melissa Gish       75
  > Gray
   > Main
-     SF  Marion Sloyan        def.  Sofia Andrade      86
+     SF  Sofia Andrade        def.  Marion Sloyan      86
      QF  Marion Sloyan        def.  Mary Waite Perry   62 62
      QF  Sofia Andrade        def.  Alex Pratt         62 62
      QF  Kate Kotany          def.  Alissa Anderson    82
      QF  Isabela Guilarte     def.  Megan Kidd         63 62
      16  Marion Sloyan        def.  Sydni Lewis        60 60
-     16  Mary Waite Perry     def.  Lauren Pascadlo    76 44 Ret.
+     16  Mary Waite Perry     def.  Lauren Pascadlo    Walkover
      16  Sofia Andrade        def.  Dannie Evans       63 61
      16  Alex Pratt           def.  Ariella Stepleman  63 62
      16  Alissa Anderson      def.  Alyssa McSpadden   46 63 [3]
      16  Kate Kotany          def.  Allison Cherwien   61 62
      16  Megan Kidd           def.  Rachel Marsh       62 60
      16  Isabela Guilarte     def.  Jessica Garland    Walkover
+  > Consolation
+     SF  Sydni Lewis          def.  Alyssa McSpadden   64
+     QQ  Sydni Lewis          def.  Lauren Pascadlo    64
+     QQ  Alyssa McSpadden     def.  Ariella Stepleman  64
+     QQ  Dannie Evans         def.  Allison Cherwien   63
  > Orange
   > Main
-     QF  Genoveva Willocks    def.  Alexia Alfaro      46 62 [5]
+     QF  Alexia Alfaro        def.  Genoveva Willocks  64 26 [5]
      QF  Brook Patton         def.  Emma Pinola        64 26 [6]
      QF  Mattu Kamara         def.  Alexa Hardesty     Walkover
      QF  Maria Caro           def.  Rachel Brooks      64 61
@@ -1388,10 +1452,12 @@
      16  Genoveva Willocks    def.  Tyler Perry        63 63
      16  Brook Patton         def.  Lily Kimble        64 76(2)
      16  Emma Pinola          def.  Erin Miines        64 26 [7]
-     16  Alexa Hardesty       def.  Allison Dempsey    76(5) 75
+     16  Alexa Hardesty       def.  Allison Dempsey    76(5) 76
      16  Mattu Kamara         def.  Charlize Martinez  62 63
-     16  Maria Caro           def.  Hannah Hersh       63 62
      16  Rachel Brooks        def.  Kelly Hudak        64 62
+     16  Maria Caro           def.  Hannah Hersh       63 62
+  > Consolation
+     QQ  Tyler Perry          def.  Imani Bellamy      60
  > Teal
   > Main
      SF  Sophia Trantham      def.  Hollan Rabensdorf  86
@@ -1401,6 +1467,9 @@
      16  Hollan Rabensdorf    def.  Lily Hurt          84
      16  Grace Teefey         def.  Milana Lewis       80
      16  Kaitlyn House        def.  Jada Lewis         64 76(4)
+  > Consolation
+     SF  Mimi Oliver          def.  Lily Hurt          62
+     SF  Jada Lewis           def.  Milana Lewis       64
 ~~~
 
 <a name="21-52871"></a>
@@ -2058,7 +2127,7 @@
      16 (8) Annie Carrera        def.     Francina Puig Llomp… 63 62
      16 (5) Lara Isis Teodoro D… def.     Madalena Peneda      61 62
      16 (4) Yue Yu               def.     Kely Oliveira        60 60
-     16 (3) Priya Sukkanha       def.     Kanon Sorakudo       76(3) 61
+     16 (3) Priya Sukkanha       def.     Kanon Sorakubo       76(3) 61
      16     Martina Picardi      def.     Marianela Landi      62 60
      16     Vanja Vidanovic      def. (7) Beatrice Letizia     62 63
      16 (2) Alessia Piccoliori   def.     Andrea Rodriguez Or… 64 76(3)
@@ -2071,7 +2140,7 @@
      32     Kely Oliveira        def.     Eleonora Guglielmet… 67(4) 64 [7]
      32 (4) Yue Yu               def.     Maria Camila Puente  62 62
      32 (3) Priya Sukkanha       def.     Maria Carme Ibanez … 61 61
-     32     Kanon Sorakudo       def.     Irene Lopez Suero    60 76(6)
+     32     Kanon Sorakubo       def.     Irene Lopez Suero    60 76(6)
      32     Marianela Landi      def.     Miriam Medina        62 60
      32     Martina Picardi      def. (6) Florencia Araya      75 64
      32 (7) Beatrice Letizia     def.     Amarlia Benn         60 60
@@ -2094,7 +2163,7 @@
      64     Maria Camila Puente  def.     Priscila Baptista    63 61
      64     Maria Carme Ibanez … def.     Azul Malatini        61 60
      64     Irene Lopez Suero    def.     Vitoria Barandas     60 57 [4]
-     64     Kanon Sorakudo       def.     Lilly Bobrowski      61 61
+     64     Kanon Sorakubo       def.     Lilly Bobrowski      61 61
      64     Miriam Medina        def.     Danieris Santiago    46 75 [5]
      64     Marianela Landi      def.     Valentine Colin      Walkover
      64     Martina Picardi      def.     Maruschka Berghaus   62 62

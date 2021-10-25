@@ -224,7 +224,7 @@
   Host: Univ. Of Pennsylvania (W)
 ════════════════════════════════════════════════════════════════
  Women's Open Doubles
- > Friday Draw
+ > Draw 1
   > Main
      32  Curnic/Wang          def.  Cristina/Lombera   61
      32  Veluvolu/Garcia Med… def.  Huang/Smith        76(6)
@@ -233,15 +233,16 @@
      32  Ho/Balog             def.  Wei/Takebe         63
      32  Mummadi/Kulhava      def.  El Ashram/Savu     63
      32  Pryce/Mi             def.  Yabuta/Nozaki      62
+     32  Honrubia/Sujova      def.  Savu/Balog         62
 ~~~
 
 <a name="21-65872"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
   Islander Open
   Dates: Oct 22-24, 2021
   Host: Texas A&M University, Corpus Christi (M)
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight A
   > East
@@ -250,25 +251,21 @@
      SF  Aucagne/Honore     def.  Abrahim/Lebisova   64
      QF  Percegona/Sachica  def.  Platisa/Montero    82
      QF  Aucagne/Honore     def.  Bahr/Mamicova      82
-  > 3-4 Playoff
-      F  Percegona/Sachica   vs   Abrahim/Lebisova   Sun @ 09:00
  > Flight B
   > East
       F  Boisseau/Rublevska def.  Souza/Wilske       61
      SF  Souza/Wilske       def.  Wong/Dupuis        83
      SF  Boisseau/Rublevska def.  Lorca/Rodriguez    60
      QF  Lorca/Rodriguez    def.  DiBattista/Daniels 85
-  > 3-4 Playoff
-      F  Wong/Dupuis         vs   Lorca/Rodriguez    Sun @ 09:00
 ~~~
 
 <a name="21-64509"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   ITA Division I Carolina Women's Regional Championship
   Dates: Oct 21-25, 2021
   Host: Wake Forest University (W)
-═══════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main B
   > Main
@@ -285,7 +282,7 @@
       SQ     Massie/Hardeman      def.     Fyvie/Semmartin      82
  > Main A1
   > Main
-       F (1) Morra/Tanguilig       vs  (8) Berankova/Drummy     Sun @ 13:30
+       F (1) Morra/Tanguilig      def. (8) Berankova/Drummy     60 62
       SF (1) Morra/Tanguilig      def.     Yarlagadda/Harvey    62 61
       SF (8) Berankova/Drummy     def. (5) Gretkowski/Akli      16 60 [8]
       QF (1) Morra/Tanguilig      def. (6) Campana/Campana      85
@@ -334,7 +331,7 @@
      16Q     Buyckx/Thompson      def.     ODea/Saldh           83
  > Main A2
   > Main
-       F (4) Scotty/Crawley        vs  (3) Beck/Bilokin         Sun @ 14:00
+       F (4) Scotty/Crawley       def. (3) Beck/Bilokin         75 61
       SF (4) Scotty/Crawley       def. (5) Chen/Omirou          62 62
       SF (3) Beck/Bilokin         def. (2) Tran/Sanford         63 63
       QF (5) Chen/Omirou          def. (1) Martinelli/Wooten    86
@@ -393,7 +390,7 @@
  Women's Open Doubles
  > Draw
   > Main
-      F (1) Sasnouskaya/Starodu…  vs  (3) Collard/Shaikh       Mon @ 13:00
+      F (1) Sasnouskaya/Starodu…  vs  (3) Collard/Shaikh       Mon @ 13:30
      SF (1) Sasnouskaya/Starodu… def. (4) Chervinsky/Ziodato   61 61
      SF (3) Collard/Shaikh       def.     Bach/Perez Mur       63 64
      QF (1) Sasnouskaya/Starodu… def.     Cadar/Brumfield      87(4)
@@ -412,15 +409,17 @@
 
 <a name="21-25213"></a>
 ~~~
-═════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Division I Women's Central Regional Championship
   Dates: Oct 21-25, 2021
   Host: University Of Iowa (W)
-═════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Doubles
   > Main
+       F  Kadleckova/Cabezas    vs   Hsieh/Naklo          Mon @ 15:30
       SF  Kadleckova/Cabezas   def.  Rice/Cross           63 62
+      SF  Hsieh/Naklo          def.  Alloyarova/Ukita     62 63
       QF  Rice/Cross           def.  Sleeth/Pisareva      84
       QF  Kadleckova/Cabezas   def.  Detkovskaya/Miyamoto 83
       QF  Hsieh/Naklo          def.  Titova/Ngounoue      84
@@ -496,6 +495,9 @@
      128  Haagensen/Stepan     def.  Lebedeva/Miley       62
      128  Maletin/Hailey       def.  Moreira/Fain         60
      128  Schifano/Hochstatter def.  Jarmond/Piskulic     63
+ > Extra Match
+  > Main
+       F  Hamilton/Rademacher  def.  Lee/Gledic           82
 ~~~
 
 <a name="21-91007"></a>
@@ -523,6 +525,9 @@
      16     Duong/Frazier        def.     Kizelbasheva/Antoni… 86
      16     Andreach/Beckman     def.     Mukhortova/Stoica    86
      16 (2) Pietrowicz/Lewis     def.     Fliegner/Kelly       87(3)
+ > Doubles Extra Matches
+  > Main
+      F     Kizelbasheva/Antoni… def.     Treiber/Ferrari      86
 ~~~
 
 <a name="21-52217"></a>
@@ -535,13 +540,17 @@
  Women's Open Doubles
  > Main
   > Main
-     16 (1) Blake/Ma              vs      Villan Pereira/Babic Sun @ 10:00
+     QF (1) Blake/Ma              vs      Kozyreva/Massey      Mon @ 11:00
+     QF (3) Alsola/Richardson     vs      Gurevich/Stavropoul… Mon @ 11:00
+     QF (5) Madurawe/Yepifanova   vs  (4) Martinez Vaquero/Co… Mon @ 11:00
+     QF     Harris/Ronney         vs      Mulville/Luescher    Mon @ 11:00
+     16 (1) Blake/Ma             def.     Villan Pereira/Babic 61
      16     Kozyreva/Massey      def. (5) Mould/Teixido Garcia 61
-     16 (3) Alsola/Richardson     vs      Choy/Xu              Sun @ 10:00
+     16 (3) Alsola/Richardson    def.     Choy/Xu              62
      16     Gurevich/Stavropoul… def. (5) Broerman/Sosnowska   63
      16 (5) Madurawe/Yepifanova  def.     Bente/LaMette        61
-     16     Piferi/Marzano        vs  (4) Martinez Vaquero/Co… Sun @ 10:00
-     16     Harris/Ronney         vs  (5) Thiel/Viller Moeller Sun @ 10:00
+     16 (4) Martinez Vaquero/Co… def.     Piferi/Marzano       64
+     16     Harris/Ronney        def. (5) Thiel/Viller Moeller 62
      16     Mulville/Luescher    def. (2) Wong/Olsen           63
      32 (1) Blake/Ma             def.     Ackerman/Bhunu       62
      32     Villan Pereira/Babic def.     Rees/Hernandez       76(6)
@@ -602,18 +611,20 @@
 
 <a name="21-97599"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Ohio Valley Regional Championship
   Dates: Oct 20-25, 2021
   Host: Middle Tennessee State University (W)
-═══════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main Draw
   > Main
-      SF (5) Molina/Stevens        vs      Eades/Girbau         Sun @ 13:30
+       F     Masic/Schneider      def. (5) Molina/Stevens       63 62
+      SF (5) Molina/Stevens       def.     Eades/Girbau         63 16 [10]
+      SF     Masic/Schneider      def. (2) Di Palma/Verma       62 60
       QF (5) Molina/Stevens       def.     Roggenburk/Graham    83
       QF     Eades/Girbau         def. (9) Mertena/Tomase       84
-      QF     Masic/Schneider       vs      Carvajal/Elizarraras Sun @ 12:00
+      QF     Masic/Schneider      def.     Carvajal/Elizarraras 84
       QF (2) Di Palma/Verma       def. (5) McGiffin/Symons      84
       16     Roggenburk/Graham    def.     Bakhodirova/Morales  86
       16 (5) Molina/Stevens       def. (9) Stevens/Rompf        84
@@ -685,21 +696,22 @@
  > Sunday Consolation
   > Main
       64     Adeshina/Kuczer      def.     Schmidt/Gupta        84
-      64     Staiculescu/Hernand…  vs      Sakurai/Albersmeier  Sun @ 12:00
+      64     Staiculescu/Kubas    def.     Sakurai/Albersmeier  87(5)
       64     Mauro/Barnard        def.     Steif/Ondo           83
 ~~~
 
 <a name="21-15310"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Southwest Regional Championship
   Dates: Oct 21-25, 2021
   Host: University Of San Diego (W)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-     SF (9) Wagle/Ong             vs  (5) Broadus/Tjen         Sun @ 09:00
+      F (9) Wagle/Ong            def. (3) Flores/Zaar          Walkover
+     SF (9) Wagle/Ong            def. (5) Broadus/Tjen         64 26 [6]
      SF (3) Flores/Zaar          def.     Rutowska/Tcherkes-Z… 61 36 [6]
      QF (9) Wagle/Ong            def. (9) Desiatnikov/McBride  62
      QF (5) Broadus/Tjen         def. (4) Thamchaiwat/Arnold   62
@@ -939,6 +951,9 @@
       F  Dix/Farris        def.  Garcia/Obreque      60
   > Playoff 3-4
       F  Vrucan/Runyan     def.  Pigeassou/Okamura   62
+ > Women's Extra 1
+  > Main
+      F  Cantu/Smith       def.  Wawroska/Woods      63
 ~~~
 
 <a name="21-20217"></a>
@@ -967,6 +982,15 @@
      16  Langa/Zhadzinskaya   def.  Groves/McKay         61
      16  Gamretkaia/Raspa Pe… def.  Vlasova/Wasil        63
      16  Andresen/Mitolo      def.  Yaroshuk/Collado Co… 63
+ > Sunday
+  > Main
+     16  Furmaniak/Lancellot… def.  McKay/Vlasova        62
+     16  Vicens Miquel/Belle… def.  Ligay/Wasil          61
+     16  Ermann/Mnatsakanov   def.  Yaroshuk/Collado Co… 63
+     16  Langa/Zhadzinskaya   def.  Vetter/Vidgren       63
+     16  Gamretkaia/Raspa Pe… def.  Kim/Klaren           75
+     16  Habekovic/Gomez      def.  Charvatova/Ellenberg 64
+     16  Andresen/Mitolo      def.  Robinson/Bryant      63
 ~~~
 
 <a name="21-42214"></a>

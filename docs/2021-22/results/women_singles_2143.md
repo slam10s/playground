@@ -155,7 +155,7 @@
  Women's Open Singles
  > Main A1
   > Main
-       F  (5) Jaeda Daniel          vs   (2) Cameron Morra        Mon @ 10:00
+       F  (2) Cameron Morra        def.  (5) Jaeda Daniel         46 75 64
       SF  (5) Jaeda Daniel         def.  (4) Carson Tanguilig     57 62 64
       SF  (2) Cameron Morra        def.  (3) Carolyn Campana      63 61
       QF  (5) Jaeda Daniel         def.  (1) Chloe Beck           63 60
@@ -187,7 +187,7 @@
       32      Peyton Pesavento     def.      Miray Konar          76(1) 64
       32  (2) Cameron Morra        def.      Margaux Maquet       64 62
   > Consolation
-       F      Misa Malkin           vs       Lily Woods           Sun @ 12:30
+       F      Misa Malkin          def.      Lily Woods           61 61
       SF      Misa Malkin          def.      Madison Dillon       63 46 63
       SF      Lily Woods           def.      Allie Gretkowski     46 63 62
       QF      Madison Dillon       def.      Samantha Martinelli  63 63
@@ -204,7 +204,7 @@
      16Q      Margaux Maquet       def.      Miray Konar          62 76(3)
  > Main A2
   > Main
-       F  (1) Fiona Crawley         vs   (2) Ayana Akli           Mon @ 10:00
+       F  (1) Fiona Crawley        def.  (2) Ayana Akli           64 64
       SF  (1) Fiona Crawley        def.  (3) Kelly Chen           62 63
       SF  (2) Ayana Akli           def.  (7) Emma Jackson         61 61
       QF  (1) Fiona Crawley        def.  (8) Anna Campana         63 64
@@ -236,7 +236,7 @@
       32      Sibel Tanik          def.      Megan Hopton         61 61
       32  (2) Ayana Akli           def.      Anna Daniels         61 60
   > Consolation
-       F      Jenna Thompson        vs       Ruxi Schech          Sun @ 12:30
+       F      Jenna Thompson       def.      Ruxi Schech          63 76(6)
       SF      Jenna Thompson       def.      Ana Cruz             61 63
       SF      Ruxi Schech          def.      Anna Daniels         61 60
       QF      Jenna Thompson       def.      Gracie Mulville      64 62
@@ -253,7 +253,7 @@
      16Q      Anna Daniels         def.      Megan Hopton         62 16 76(5)
  > B1
   > Main
-       F  (4) Chloe Narboni         vs   (2) Ilayda Baykan        Sun @ 12:30
+       F  (4) Chloe Narboni        def.  (2) Ilayda Baykan        46 62 63
       SF  (4) Chloe Narboni        def.      Alexandra Anttila    62 75
       SF  (2) Ilayda Baykan        def.      Paola Landin         61 61
       QF      Alexandra Anttila    def.      Emely Kahrs          61 64
@@ -261,7 +261,7 @@
       QF      Paola Landin         def.      Maddie Brown         76(3) 26 76(4)
       QF  (2) Ilayda Baykan        def.  (8) Jesse Hollins        76(2) 64
       16      Emely Kahrs          def.      Olivia Archer        63 26 63
-      16      Alexandra Anttila    def.      Sara McClure         16 64 63
+      16      Alexandra Anttila    def.      Sara McClure         36 64 63
       16  (4) Chloe Narboni        def.      Breda Brennan        76(5) 63
       16      Brinley Bell         def.      Alison ODea          67(6) 63 61
       16      Maddie Brown         def.  (6) Kendall Couch        63 63
@@ -396,7 +396,7 @@
  Women's Open Singles
  > Draw
   > Main
-      F (1) Natasha Subhash       vs  (3) Elaine Chervinsky    Mon @ 10:00
+      F (1) Natasha Subhash       vs  (3) Elaine Chervinsky    Mon @ 14:00
      SF (1) Natasha Subhash      def. (5) Tatsiana Sasnouskaya 75 16 61
      SF (3) Elaine Chervinsky    def. (2) Yuliia Starodubtseva 64 16 76(3)
      QF (1) Natasha Subhash      def. (8) Mila Saric           26 75 62
@@ -469,6 +469,9 @@
  Women's Open Singles
  > Singles Main
   > Main
+       F  Thasaporn Naklo      def.  Karine-Marion Job    63 06 60
+      SF  Thasaporn Naklo      def.  Malkia Ngounoue      76(5) 76(4)
+      SF  Karine-Marion Job    def.  Maria Titova         64 64
       QF  Thasaporn Naklo      def.  Romana Tarajova      61 61
       QF  Malkia Ngounoue      def.  Ivana Corley         63 63
       QF  Karine-Marion Job    def.  Indianna Spink       26 63 64
@@ -747,44 +750,45 @@
 
 <a name="21-91007"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Midwest Regional Championship
   Dates: Oct 22-26, 2021
   Host: Ohio State University (W)
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Main Draw
   > Main
-     SF (1) Irina Cantos Siemers def.     Andrea Cerdan      46 62 62
-     SF (2) Kari Miller          def. (3) Clarissa Hand      62 62
-     QF (1) Irina Cantos Siemers def.     Page Freeman       62 26 64
-     QF     Andrea Cerdan        def. (4) Maria Shusharina   36 76(2) 64
-     QF (3) Clarissa Hand        def. (6) Jaedan Brown       67(3) 63 75
-     QF (2) Kari Miller          def. (7) Lucia Marzal       36 63 61
-     16 (1) Irina Cantos Siemers def.     Julia Fliegner     61 62
-     16     Page Freeman         def.     Justine Leong      75 64
-     16     Andrea Cerdan        def. (5) Xinyu Cai          63 76(3)
-     16 (4) Maria Shusharina     def.     Katherine Duong    76(2) 64
-     16 (3) Clarissa Hand        def.     Mary Lewis         76(5) 64
-     16 (6) Jaedan Brown         def.     Briana Crowley     64 76(5)
-     16 (7) Lucia Marzal         def.     Megan Heuser       61 63
-     16 (2) Kari Miller          def.     Sydni Ratliff      60 64
-     32 (1) Irina Cantos Siemers def.     Ema Lazic          62 16 64
-     32     Julia Fliegner       def.     Nicole Stephens    63 61
-     32     Page Freeman         def.     Madeline Atway     36 75 76(5)
-     32     Justine Leong        def. (8) Ava Markham        61 76(6)
-     32 (5) Xinyu Cai            def.     Josie Frazier      64 63
-     32     Andrea Cerdan        def.     Lina Ali           64 64
-     32     Katherine Duong      def.     Alexandra Abyasova 62 57 61
-     32 (4) Maria Shusharina     def.     Carrie Beckman     63 26 62
-     32 (3) Clarissa Hand        def.     Ashley Yeah        75 46 64
-     32     Mary Lewis           def.     Merri Kelly        64 63
-     32     Briana Crowley       def.     Julia Andreach     76(9) 76(5)
-     32 (6) Jaedan Brown         def.     Hannah McColgan    64 46 76(4)
-     32 (7) Lucia Marzal         def.     Taylor Cataldi     63 63
-     32     Megan Heuser         def.     Nibedita Ghosh     46 62 60
-     32     Sydni Ratliff        def.     Ana Jover          61 62
-     32 (2) Kari Miller          def.     Tijana Zlatanovic  61 62
+      F (2) Kari Miller          def. (1) Irina Cantos Siemers 36 61 63
+     SF (1) Irina Cantos Siemers def.     Andrea Cerdan        46 62 62
+     SF (2) Kari Miller          def. (3) Clarissa Hand        62 62
+     QF (1) Irina Cantos Siemers def.     Page Freeman         62 26 64
+     QF     Andrea Cerdan        def. (4) Maria Shusharina     36 76(2) 64
+     QF (3) Clarissa Hand        def. (6) Jaedan Brown         67(3) 63 75
+     QF (2) Kari Miller          def. (7) Lucia Marzal         36 63 61
+     16 (1) Irina Cantos Siemers def.     Julia Fliegner       61 62
+     16     Page Freeman         def.     Justine Leong        75 64
+     16     Andrea Cerdan        def. (5) Xinyu Cai            63 76(3)
+     16 (4) Maria Shusharina     def.     Katherine Duong      76(2) 64
+     16 (3) Clarissa Hand        def.     Mary Lewis           76(5) 64
+     16 (6) Jaedan Brown         def.     Briana Crowley       64 76(5)
+     16 (7) Lucia Marzal         def.     Megan Heuser         61 63
+     16 (2) Kari Miller          def.     Sydni Ratliff        60 64
+     32 (1) Irina Cantos Siemers def.     Ema Lazic            62 16 64
+     32     Julia Fliegner       def.     Nicole Stephens      63 61
+     32     Page Freeman         def.     Madeline Atway       36 75 76(5)
+     32     Justine Leong        def. (8) Ava Markham          61 76(6)
+     32 (5) Xinyu Cai            def.     Josie Frazier        64 63
+     32     Andrea Cerdan        def.     Lina Ali             64 64
+     32     Katherine Duong      def.     Alexandra Abyasova   62 57 61
+     32 (4) Maria Shusharina     def.     Carrie Beckman       63 26 62
+     32 (3) Clarissa Hand        def.     Ashley Yeah          75 46 64
+     32     Mary Lewis           def.     Merri Kelly          64 63
+     32     Briana Crowley       def.     Julia Andreach       76(9) 76(5)
+     32 (6) Jaedan Brown         def.     Hannah McColgan      64 46 76(4)
+     32 (7) Lucia Marzal         def.     Taylor Cataldi       63 63
+     32     Megan Heuser         def.     Nibedita Ghosh       46 62 60
+     32     Sydni Ratliff        def.     Ana Jover            61 62
+     32 (2) Kari Miller          def.     Tijana Zlatanovic    61 62
 ~~~
 
 <a name="21-52217"></a>
@@ -950,6 +954,7 @@
  Women's Open Singles
  > Main Draw Singles
   > Main
+       F  (9) Elza Tomase          def.  (1) Rebeka Mertena       61 63
       SF  (1) Rebeka Mertena       def.  (3) Csilla Fodor         16 62 64
       SF  (9) Elza Tomase          def. (17) Olivia Symons        62 62
       QF  (1) Rebeka Mertena       def.  (8) Brindtha Ramasamy    63 61
@@ -1200,8 +1205,9 @@
  Women's Open Singles
  > Draw
   > Main
-      SF (17) Abigail Desiatnikov   vs   (5) Solymar Colling      Sun @ 10:15
-      SF  (8) Lisa Zaar             vs  (17) Snow Han             Sun @ 10:45
+       F  (8) Lisa Zaar            def. (17) Abigail Desiatnikov  64 60
+      SF (17) Abigail Desiatnikov  def.  (5) Solymar Colling      36 62 75
+      SF  (8) Lisa Zaar            def. (17) Snow Han             16 64 61
       QF (17) Abigail Desiatnikov  def. (17) Nikki Redelijk       76(5) 26 62
       QF  (5) Solymar Colling      def.  (4) Salma Ewing          46 64 61
       QF  (8) Lisa Zaar            def. (17) Alexandra Vagramov   61 62

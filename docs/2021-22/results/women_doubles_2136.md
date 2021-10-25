@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 9/5/2021 - [Mary Hosking Invitational Tournament](#21-02759) ([Results](#21-02759) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7" target="_blank">Draws</a>)  
+- 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-25876) ([Results](#21-25876) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiW/Tournaments/Overview/88D2417A-460B-408A-9E50-7C7E5EE7478F" target="_blank">Draws</a>)  
 - 9/10/2021 - [Bill and Sandra Moore Invitational](#21-34233) ([Results](#21-34233) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/91B59866-0B48-4129-8FAE-B1A88BCD7896" target="_blank">Draws</a>)  
 - 9/11/2021 - [Liberty Invite](#21-48654) ([Results](#21-48654) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/D66E087D-3234-4CE1-8D12-9CFE3EF5F621" target="_blank">Draws</a>)  
 - 9/10/2021 - [SIUE Cougar Invite](#21-66962) ([Results](#21-66962) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernIllinoisUniversityEdwardsvilleW/Tournaments/Overview/49CD19F7-C361-46C8-9A0D-85DA79B24973" target="_blank">Draws</a>)  
@@ -14,7 +15,6 @@
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiW/Tournaments/Overview/88D2417A-460B-408A-9E50-7C7E5EE7478F" target="_blank">2021 Contender Crossfit Islander Open</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
@@ -78,6 +78,78 @@
      QQ  Krol/Seiler          def.  Wolfe/Kohberger      87(8)
      QQ  Auble/Smolowitz      def.  Burns/Klee           81
      QQ  Johnson/Rockwood     def.  Keegan/Hecht         81
+~~~
+
+<a name="21-25876"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  2021 Contender Crossfit Islander Open
+  Dates: Sep 10-12, 2021
+  Host: Texas A&M University, Corpus Christi (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > East
+      F  Devier/Adams         def.  Starr/McCain         63
+     SF  Starr/McCain         def.  Anzalotta/Martins    63
+     SF  Devier/Adams         def.  Shumeika/Townsend    76(2)
+     QF  Anzalotta/Martins    def.  Bahr/Souza           82
+     QF  Starr/McCain         def.  Perez/Jolic          83
+     QF  Shumeika/Townsend    def.  Vutukuru/Chobanyan   84
+     QF  Devier/Adams         def.  Donkor/Sante         83
+  > West
+      F  Bahr/Souza           def.  Donkor/Sante         76(5)
+     SF  Bahr/Souza           def.  Perez/Jolic          63
+     SF  Donkor/Sante         def.  Vutukuru/Chobanyan   63
+  > 3-4 Playoff
+      F  Anzalotta/Martins    def.  Shumeika/Townsend    63
+  > South
+      F  Perez/Jolic          def.  Vutukuru/Chobanyan   63
+ > Flight B
+  > East
+      F  Vehvilainen/Oyama    def.  Aucagne/Honore       83
+     SF  Aucagne/Honore       def.  Wild/Apisah          85
+     SF  Vehvilainen/Oyama    def.  Beyebach/Zlatarova   85
+     QF  Aucagne/Honore       def.  Ross/Deutschmann     83
+     QF  Wild/Apisah          def.  Wong/Dupuis          82
+     QF  Beyebach/Zlatarova   def.  Basson/Zivkovic      97
+     QF  Vehvilainen/Oyama    def.  Sasaroga/Putz        84
+  > West
+      F  Ross/Deutschmann     def.  Basson/Zivkovic      84
+     SF  Ross/Deutschmann     def.  Wong/Dupuis          82
+     SF  Basson/Zivkovic      def.  Sasaroga/Putz        85
+  > 3-4 Playoff
+      F  Beyebach/Zlatarova   def.  Wild/Apisah          84
+  > South
+      F  Sasaroga/Putz        def.  Wong/Dupuis          84
+ > Flight C
+  > East
+      F  Boisseau/Ortega      def.  Hummel/Zhou          63
+     SF  Hummel/Zhou          def.  Kaszas/Stauber       Walkover
+     SF  Boisseau/Ortega      def.  Rubio/Polevoi        82
+     QF  Kaszas/Stauber       def.  Milojevic/Kononovych 82
+     QF  Hummel/Zhou          def.  Maier/Zaffar         97
+     QF  Rubio/Polevoi        def.  Dix/Chawner          97
+     QF  Boisseau/Ortega      def.  Karren/Montero       81
+  > West
+      F  Dix/Chawner          def.  Milojevic/Kononovych 63
+     SF  Milojevic/Kononovych def.  Maier/Zaffar         Default
+     SF  Dix/Chawner          def.  Karren/Montero       75
+  > 3-4 Playoff
+      F  Rubio/Polevoi        def.  Kaszas/Stauber       Walkover
+  > South
+      F  Karren/Montero       def.  Maier/Zaffar         Walkover
+ > Flight D
+  > East
+      F  Shah/Kramarova       def.  Thal/Platisa         64
+     SF  Thal/Platisa         def.  Ponomareva/Kalava    76(5)
+     SF  Shah/Kramarova       def.  Damera/Rublevska     83
+     QF  Ponomareva/Kalava    def.  Saravanan/Ibrasheva  84
+     QF  Thal/Platisa         def.  terMorsche/Knaab     84
+  > West
+     SF  Saravanan/Ibrasheva  def.  terMorsche/Knaab     Walkover
+  > 3-4 Playoff
+      F  Damera/Rublevska     def.  Ponomareva/Kalava    64
 ~~~
 
 <a name="21-34233"></a>

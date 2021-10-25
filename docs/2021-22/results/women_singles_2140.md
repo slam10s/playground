@@ -6,6 +6,7 @@
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 - 10/4/2021 - [2nd UCA FALL INVITATIONAL TOURNAMENT](#21-12073) ([Results](#21-12073) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/7737FD94-882F-4257-A700-306375BD09EC" target="_blank">Draws</a>)  
+- 10/8/2021 - [49er Invite](#21-68924) ([Results](#21-68924) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCCharlotteW/Tournaments/Overview/928AA6BE-846A-430B-89FA-222F70E8CCBB" target="_blank">Draws</a>)  
 - 10/9/2021 - [Cincinnati/Xavier Fall Invitational](#21-24398) ([Results](#21-24398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Draws</a>)  
 - 10/4/2021 - [ITA Women's All-American Championship](#21-68261) ([Results](#21-68261) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">Draws</a>)  
 - 10/8/2021 - [Jimmy Powell Invitational](#21-66349) ([Results](#21-66349) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Draws</a>)  
@@ -18,16 +19,15 @@
 - 10/8/2021 - [Wildcat Invite](#21-77667) ([Results](#21-77667) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Women's Invitational](#21-77230) ([Results](#21-77230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE" target="_blank">Draws</a>)  
+- 10/9/2021 - [Middlebury Invitational](#21-32206) ([Results](#21-32206) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889" target="_blank">Draws</a>)  
 - 10/8/2021 - [Rumble by the River](#21-16089) ([Results](#21-16089) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NortheasternStateUW/Tournaments/Overview/6CDF33CD-A0E5-4CA9-BD9D-2F5B12B0FE50" target="_blank">Draws</a>)  
 - 10/8/2021 - [Saint Leo Lion Fall Invitational - Women](#21-18906) ([Results](#21-18906) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/CD3EA260-EE7B-4CC4-AEAD-3B2FCD79FEE4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCCharlotteW/Tournaments/Overview/928AA6BE-846A-430B-89FA-222F70E8CCBB" target="_blank">49er Invite</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Georgia Southern Fall Shootout</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">June Stewart</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889" target="_blank">Middlebury Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/0D92B574-F815-4CD2-9DB5-9DE635B3C608" target="_blank">Warhawk Fall Invitational</a>  
 
@@ -437,6 +437,113 @@
      R1  Teona Velkoska      def.  Honoka Nakanishi     75 75
      R1  Lera Valeeva        def.  Kate Miley           62 61
      R1  Manuela Barriga     def.  Yasmine Humbert      46 75 [8]
+~~~
+
+<a name="21-68924"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  49er Invite
+  Dates: Oct 8-10, 2021
+  Host: UNC Charlotte (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Round 1
+  > Main
+     128  Margaux Maquet       def.  Cristina Mayorova    64 76(5)
+     128  Daniella Medvedeva   def.  Lucia Quiterio       76(3) 62
+     128  Rocio Safont         def.  Ali DeSpain          64 64
+     128  Emma Wilkins         def.  Sophia Hatton        06 76(6) [7]
+     128  Samantha Buyckx      def.  Lucie Petruzelova    64 67(5) [9]
+     128  Kaavya Sawhney       def.  Lana Sipek           67(9) 62 [5]
+     128  Alexandra Anttila    def.  Maddie Brown         61 63
+     128  Makayla Mills        def.  Jenna Dean           63 63
+     128  Esther Lovato        def.  Tess Fisher          63 76(9)
+     128  Maria Juliana Parra… def.  Jackeline Lopez      63 76(5)
+     128  Tiffany Nguyen       def.  Chloe Brown          60 76(5)
+     128  Eloise Saraty        def.  Sydney Kaplan        64 75
+     128  Micaela Ode Mitre    def.  Minchae Kim          63 63
+     128  Maretha Burger       def.  Daira Cardenas       61 64
+     128  Willa Rogers         def.  Kristiana Zahare     63 57 [10]
+     128  Carolyn Brodsky      def.  Bruna Sampaio        60 61
+     128  Laylo Bakhodirova    def.  Misa Malkin          67(3) 61 [6]
+     128  Katie Andreini       def.  Lindsay Tulenko      63 63
+     128  Chloe Narboni        def.  Alejandra Morales    76(5) 75
+     128  Semra Aksu           def.  Kendall Couch        61 62
+     128  Charlotte Cartledge  def.  Victoria Erechtchen… 63 63
+     128  Dariya Radulova      def.  Sofiya Kuzina        62 60
+     128  Valentina Dancenco   def.  Annie Clark          64 60
+     128  Sabina Richtrova     def.  Elinor Storkaas      61 36 [4]
+     128  Carson Tanguilig     def.  Akanksha Bhan        64 57 [9]
+     128  Kacie Harvey         def.  Melissa Sakar        62 61
+     128  Fernanda Carvajal    def.  Shivani Amineni      60 62
+     128  Emilia Alfaro        def.  Clarine Lerby        36 75 [6]
+     128  Lindsay Zink         def.  Winta Tewolde        63 26 [11]
+     128  Rachele Rimondini    def.  Yunuen Elizarraras   76(4) 63
+     128  Michelle Xu          def.  Sara McClure         76(4) 63
+     128  Mayya Gorbunova      def.  Sophia Strugnell     67(5) 64 [8]
+ > Round 2
+  > Main
+     128  Cristina Mayorova    def.  Akanksha Bhan        62 64
+     128  Daniella Medvedeva   def.  Melissa Sakar        62 57 [7]
+     128  Ali DeSpain          def.  Shivani Amineni      60 63
+     128  Sophia Hatton        def.  Clarine Lerby        76(7) 63
+     128  Samantha Buyckx      def.  Winta Tewolde        62 61
+     128  Rachele Rimondini    def.  Alexandra Anttila    63 64
+     128  Michelle Xu          def.  Lana Sipek           62 46 [3]
+     128  Makayla Mills        def.  Sophia Strugnell     63 64
+     128  Margaux Maquet       def.  Carson Tanguilig     57 64 [5]
+     128  Lucia Quiterio       def.  Lindsay Zink         61 36 [8]
+     128  Rocio Safont         def.  Fernanda Carvajal    62 16 [8]
+     128  Emilia Alfaro        def.  Emma Wilkins         62 26 [4]
+     128  Kacie Harvey         def.  Lucie Petruzelova    60 60
+     128  Kaavya Sawhney       def.  Daniela Rivera       61 46 [8]
+     128  Sara McClure         def.  Maddie Brown         63 61
+     128  Yunuen Elizarraras   def.  Jenna Dean           61 46 [8]
+     128  Misa Malkin          def.  Maria Juliana Parra… 62 67(4) [5]
+     128  Tiffany Nguyen       def.  Valentina Dancenco   64 36 [10]
+     128  Esther Lovato        def.  Chloe Narboni        36 62 [9]
+     128  Micaela Ode Mitre    def.  Victoria Erechtchen… 62 64
+     128  Sofiya Kuzina        def.  Eloise Saraty        64 67(4) [6]
+     128  Willa Rogers         def.  Lindsay Tulenko      63 46 [6]
+     128  Elinor Storkaas      def.  Bruna Sampaio        62 63
+     128  Maretha Burger       def.  Kendall Couch        36 64 [3]
+     128  Tess Fisher          def.  Laylo Bakhodirova    60 63
+     128  Katie Andreini       def.  Jackeline Lopez      60 75
+     128  Chloe Brown          def.  Alejandra Morales    64 36 [5]
+     128  Semra Aksu           def.  Sydney Kaplan        63 57 [7]
+     128  Charlotte Cartledge  def.  Minchae Kim          60 76(4)
+     128  Daira Cardenas       def.  Annie Clark          61 63
+     128  Sabina Richtrova     def.  Kristiana Zahare     63 63
+ > Round 3
+  > Main
+     128  Misa Malkin          def.  Tess Fisher          63 64
+     128  Jackeline Lopez      def.  Valentina Dancenco   62 62
+     128  Victoria Erechtchen… def.  Chloe Brown          26 62 [6]
+     128  Sofiya Kuzina        def.  Kristiana Zahare     75 36 [7]
+     128  Sophia Strugnell     def.  Elinor Storkaas      75 63
+     128  Chloe Narboni        def.  Daira Cardenas       63 62
+     128  Yunuen Elizarraras   def.  Kendall Couch        62 60
+     128  Margaux Maquet       def.  Akanksha Bhan        64 63
+     128  Melissa Sakar        def.  Lucia Quiterio       64 57 [7]
+     128  Rocio Safont         def.  Shivani Amineni      63 62
+     128  Emma Wilkins         def.  Rachele Rimondini    61 16 [8]
+     128  Lucie Petruzelova    def.  Clarine Lerby        62 62
+     128  Kaavya Sawhney       def.  Michelle Xu          61 63
+     128  Winta Tewolde        def.  Maddie Brown         63 63
+     128  Laylo Bakhodirova    def.  Tiffany Nguyen       64 61
+     128  Katie Andreini       def.  Maretha Burger       76(5) 64
+     128  Esther Lovato        def.  Dariya Radulova      57 64 [4]
+     128  Semra Aksu           def.  Willa Rogers         26 64 [7]
+     128  Maria Juliana Parra… def.  Charlotte Cartledge  64 75
+     128  Micaela Ode Mitre    def.  Annie Clark          64 75
+     128  Sabina Richtrova     def.  Bruna Sampaio        64 26 [7]
+     128  Cristina Mayorova    def.  Carson Tanguilig     46 75 [7]
+     128  Daniella Medvedeva   def.  Kacie Harvey         64 64
+     128  Ali DeSpain          def.  Fernanda Carvajal    61 75
+     128  Emilia Alfaro        def.  Sophia Hatton        64 06 [5]
+     128  Samantha Buyckx      def.  Daniela Rivera       75 62
+     128  Sara McClure         def.  Lana Sipek           26 63 [8]
+     128  Mayya Gorbunova      def.  Makayla Mills        61 61
 ~~~
 
 <a name="21-24398"></a>
@@ -1430,6 +1537,63 @@
      R2     Savoie Srodulski     def.     Rebekka Braziel     63 61
      R1     Savoie Srodulski     def.     Catalina Santanders 36 64 [8]
      R1     Gracie Pall           vs      Rebekka Braziel     
+~~~
+
+<a name="21-32206"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Middlebury Invitational
+  Dates: Oct 9-10, 2021
+  Host: Middlebury College (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Midd (White) vs. Tufts
+  > Main
+     16  Claudia Miller       def.  Nicole Frankel       46 75 [7]
+     16  Maddie Suk           def.  Amanda Frank         46 63 [5]
+     16  Casey Cummings       def.  Kavina Amin          63 64
+     16  Caitlin Neal         def.  Rebecca Lim          64 46 [6]
+     16  Kristin Shiuey       def.  Nora Dahl            60 61
+ > Midd (Blue) vs. Bowdoin
+  > Main
+     16  Jamilah Karah        def.  Amy Delman           62 62
+     16  Gena Huang           def.  Evelyn Safar         62 62
+     16  Fleming Landau       def.  Brinlea La Barge     64 60
+     16  Elizabeth Yu         def.  Sami Remis           62 16 [5]
+     16  Nathalie Van der Re… def.  Hannah Buckhout      26 61 [3]
+     16  Nina Farhat          def.  Julia DeLuca         62 67(1) [10]
+ > Midd vs. Tufts (2)
+  > Main
+     16  Amy Delman           def.  Tilly Rigby          36 64 [7]
+     16  Brinlea La Barge     def.  Maddie Suk           64 60
+     16  Casey Cummings       def.  Caitlin Neal         64 60
+     16  Maggie Dorr          def.  Nathalie Van der Re… 64 46 [8]
+     16  Sami Remis           def.  Kennedy May          75 76(4)
+     16  Sophie Wax           def.  Nora Dahl            75 64
+ > Midd (Blue) vs. Tufts (1)
+  > Main
+     QF  Zoe Kava             def.  Gena Huang           63 67(5) [3]
+     QF  Nicole Frankel       def.  Amy Delman           46 76(3) [9]
+     QF  Maggie Dorr          def.  Brinlea La Barge     63 61
+     QF  Kristin Shiuey       def.  Sami Remis           61 26 [11]
+ > Bowdoin vs. Tufts
+  > Main
+     SF  Julia DeLuca         def.  Kennedy May          64 64
+     SF  Casey Cummings       def.  Elizabeth Yu         62 62
+ > Midd (White) vs. Bowdoin
+  > Main
+     QF  Claudia Miller       def.  Fleming Landau       63 60
+     QF  Evelyn Safar         def.  Amanda Frank         57 61 [5]
+     QF  Hannah Buckhout      def.  Caitlin Neal         62 64
+     QF  Nathalie Van der Re… def.  Kennedi Carter       60 60
+ > Bowdoin vs. Tufts (1)
+  > Main
+     16  Zoe Kava             def.  Jamilah Karah        64 36 [7]
+     16  Nicole Frankel       def.  Evelyn Safar         61 63
+     16  Anna Lowy            def.  Elizabeth Yu         75 64
+     16  Hannah Buckhout      def.  Michelle Shub        62 61
+     16  Fleming Landau       def.  Rebecca Lim          63 64
+     16  Julia DeLuca         def.  Kristin Shiuey       26 75 [6]
 ~~~
 
 <a name="21-16089"></a>

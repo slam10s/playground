@@ -1,11 +1,14 @@
 <a name="top"></a>[<< Prev](men_doubles_2135.md) &nbsp; **Week #36 - Sep 6-12, 2021** &nbsp; [Next >>](men_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2136.md) &#124; [Women](./women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2136.md) &#124; [***Doubles***](./men_doubles_2136.md)
 
 **Tournamets with Matches**  
+- 9/10/2021 - [10th Annual Villanova Invitation](#21-56790) ([Results](#21-56790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VillanovaUniversityM/Tournaments/Overview/831641B3-DB8F-4BD7-8D82-8308402A7AF5" target="_blank">Draws</a>)  
+- 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-26104) ([Results](#21-26104) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/B00BE0B9-F219-49D7-880F-72F7FA07C012" target="_blank">Draws</a>)  
 - 9/10/2021 - [2021 Dar Walters Classic](#21-19264) ([Results](#21-19264) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">Draws</a>)  
 - 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
 - 9/10/2021 - [Knoxville Showdown](#21-83681) ([Results](#21-83681) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/85DF336A-C5C2-4C22-AC59-717D6414EA8A" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
 - 9/10/2021 - [Orange Lawn Fall Invitational](#21-93144) ([Results](#21-93144) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Draws</a>)  
+- 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
 - 9/11/2021 - [St. Lawrence University Fall Classic](#21-93996) ([Results](#21-93996) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/3699D952-856D-4724-8FE8-12BD2237BE35" target="_blank">Draws</a>)  
@@ -15,11 +18,231 @@
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VillanovaUniversityM/Tournaments/Overview/831641B3-DB8F-4BD7-8D82-8308402A7AF5" target="_blank">10th Annual Villanova Invitation</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/B00BE0B9-F219-49D7-880F-72F7FA07C012" target="_blank">2021 Contender Crossfit Islander Open</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Battle of the Beach</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">River Forrest Collegiate Invitational</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
+
+<a name="21-56790"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  10th Annual Villanova Invitation
+  Dates: Sep 10-12, 2021
+  Host: Villanova University (M)
+══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles Match 1
+  > Main
+     F  Yu/Yu                def.  Frisk/Sentay         75
+ > Doubles Match 2
+  > Main
+     F  Kim/Nguyen           def.  Criss/Wong           63
+ > Doubles Match 3
+  > Main
+     F  Choi/Fourticq        def.  Cavo/Gates           63
+ > Doubles Match 4
+  > Main
+     F  Blekhman/Elliott     def.  Levinson/Romig       62
+ > Doubles Match 5
+  > Main
+     F  Robinson/Khromchenko def.  Glezer/Boland        61
+ > Doubles Match 6
+  > Main
+     F  Force/Patel          def.  Gupta/Thomas         63
+ > Doubles Match 7
+  > Main
+     F  Ardila/Reddy         def.  Selati/Gupta         75
+ > Doubles Match 8
+  > Main
+     F  Kleiman/Learner      def.  Kanetkar/Perrone     64
+ > Doubles Match 9
+  > Main
+     F  Jones/Winton         def.  Davey/Corsini        62
+ > Doubles Match 10
+  > Main
+     F  Israel/Weitz         def.  Dill/Rehwinkel       62
+ > Doubles Match 11
+  > Main
+     F  Pribitkin/Cardano    def.  Bukhalo/Paul         75
+ > Doubles Match 12
+  > Main
+     F  Fenjiro/MacNeil      def.  Tran/Kernagis        75
+ > Doubles Match 13
+  > Main
+     F  Rompere/Quintana     def.  Gatti/Klumb          63
+ > Doubles Match 14
+  > Main
+     F  Hellinger/Charanjiva def.  Fishkin/Nakhjavan    76(5)
+ > Doubles Match 15
+  > Main
+     F  Mast/Rivera-Gordillo def.  Suarez/Prokurat      63
+ > Doubles Match 16
+  > Main
+     F  Yu/Yu                def.  Kim/Nguyen           62
+ > Doubles Match 17
+  > Main
+     F  Blekhman/Elliott     def.  Choi/Fourticq        61
+ > Doubles Match 18
+  > Main
+     F  Force/Patel          def.  Robinson/Khromchenko 64
+ > Doubles Match 19
+  > Main
+     F  Ardila/Reddy         def.  Kanetkar/Perrone     64
+ > Doubles Match 20
+  > Main
+     F  Levinson/Romig       def.  Cavo/Gates           76(4)
+ > Doubles Match 21
+  > Main
+     F  Gupta/Thomas         def.  Glezer/Boland        62
+ > Doubles Match 22
+  > Main
+     F  Selati/Gupta         def.  Kleiman/Learner      64
+ > Doubles Match 23
+  > Main
+     F  Jones/Winton         def.  Israel/Weitz         76(5)
+ > Doubles Match 24
+  > Main
+     F  Bukhalo/Paul         def.  Fenjiro/MacNeil      64
+ > Doubles Match 25
+  > Main
+     F  Fishkin/Nakhjavan    def.  Rompere/Quintana     62
+ > Doubles Match 26
+  > Main
+     F  Suarez/Prokurat      def.  Vlassis/Potter       61
+ > Doubles Match 27
+  > Main
+     F  Dill/Rehwinkel       def.  Davey/Corsini        76(8)
+ > Doubles Match 28
+  > Main
+     F  Pribitkin/Cardano    def.  Tran/Kernagis        62
+ > Doubles Match 29
+  > Main
+     F  Gatti/Klumb          def.  Hellinger/Charanjiva 75
+ > Doubles Match 30
+  > Main
+     F  Ardila/Reddy         def.  Force/Patel          75
+ > Doubles Match 31
+  > Main
+     F  Criss/Wong           def.  Levinson/Romig       60
+ > Doubles Match 32
+  > Main
+     F  Gupta/Thomas         def.  Kleiman/Learner      64
+ > Doubles Match 33
+  > Main
+     F  Kim/Nguyen           def.  Choi/Fourticq        64
+ > Doubles Match 34
+  > Main
+     F  Selati/Gupta         def.  Glezer/Boland        63
+ > Doubles Match 35
+  > Main
+     F  Bukhalo/Paul         def.  Jones/Winton         75
+ > Doubles Match 36
+  > Main
+     F  Rompere/Quintana     def.  Suarez/Prokurat      60
+ > Doubles Match 37
+  > Main
+     F  Pribitkin/Cardano    def.  Dill/Rehwinkel       75
+ > Doubles Match 38
+  > Main
+     F  Gatti/Klumb          def.  Mast/Rivera-Gordillo 62
+ > Doubles Match 39
+  > Main
+     F  Fishkin/Nakhjavan    def.  Vlassis/Potter       61
+ > Doubles Match 40
+  > Main
+     F  Davey/Corsini        def.  Tran/Kernagis        75
+ > Doubles Match 41
+  > Main
+     F  Ardila/Reddy         def.  Blekhman/Elliott     64
+ > Doubles Match 42
+  > Main
+     F  Yu/Yu                def.  Force/Patel          62
+ > Doubles Match 43
+  > Main
+     F  Robinson/Khromchenko def.  Kim/Nguyen           62
+ > Doubles Match 44
+  > Main
+     F  Kleiman/Learner      def.  Criss/Wong           75
+ > Doubles Match 45
+  > Main
+     F  Levinson/Romig       def.  Gupta/Thomas         75
+ > Doubles Match 46
+  > Main
+     F  Selati/Gupta         def.  Cavo/Gates           64
+ > Doubles Match 47
+  > Main
+     F  Bukhalo/Paul         def.  Suarez/Prokurat      75
+ > Doubles Match 48
+  > Main
+     F  Jones/Winton         def.  Rompere/Quintana     63
+ > Doubles Match 49
+  > Main
+     F  Fishkin/Nakhjavan    def.  Israel/Weitz         62
+ > Doubles Match 50
+  > Main
+     F  Pribitkin/Cardano    def.  Gatti/Klumb          61
+ > Doubles Match 51
+  > Main
+     F  Dill/Rehwinkel       def.  Mast/Rivera-Gordillo 62
+ > Doubles Match 52
+  > Main
+     F  Tran/Kernagis        def.  Hellinger/Charanjiva 75
+~~~
+
+<a name="21-26104"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  2021 Contender Crossfit Islander Open
+  Dates: Sep 10-12, 2021
+  Host: Texas A&M University, Corpus Christi (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > East
+      F  Kvantaliani/Izurieta def.  Saint Martin/Mosvold 62
+     SF  Kvantaliani/Izurieta def.  Hanzlik/Shearer      Walkover
+     SF  Saint Martin/Mosvold def.  Bianchi/Fernandez    Walkover
+     QF  Hanzlik/Shearer      def.  Skelly/Ceolin        86
+     QF  Kvantaliani/Izurieta def.  Do/Amling            85
+     QF  Bianchi/Fernandez    def.  Ata/Yamanaka         97
+     QF  Saint Martin/Mosvold def.  Sasso/Fulgenzi       85
+  > West
+      F  Skelly/Ceolin        def.  Sasso/Fulgenzi       64
+     SF  Skelly/Ceolin        def.  Do/Amling            64
+     SF  Sasso/Fulgenzi       def.  Ata/Yamanaka         75
+  > 3-4 Playoff
+      F  Bianchi/Fernandez    def.  Hanzlik/Shearer      64
+  > South
+      F  Ata/Yamanaka         def.  Do/Amling            64
+ > Flight B
+  > East
+      F  Caffarena/Akiyoshi   def.  Groysman/Alonso      60
+     SF  Caffarena/Akiyoshi   def.  Lorieul/Schwartz     64
+     SF  Groysman/Alonso      def.  Smith/Kralemann      64
+     QF  Lorieul/Schwartz     def.  Vila/Dunn            97
+     QF  Caffarena/Akiyoshi   def.  Sell/Mayer           85
+     QF  Smith/Kralemann      def.  Dixon/Sala           98(7)
+     QF  Groysman/Alonso      def.  Lawrance/Whitehead   Walkover
+  > West
+      F  Vila/Dunn            def.  Dixon/Sala           64
+     SF  Vila/Dunn            def.  Sell/Mayer           62
+     SF  Dixon/Sala           def.  Lawrance/Whitehead   64
+  > 3-4 Playoff
+      F  Lorieul/Schwartz     def.  Smith/Kralemann      64
+  > South
+      F  Sell/Mayer           def.  Lawrance/Whitehead   63
+ > Flight C
+  > East
+      F  Bertrand/Delgado     def.  Shestakov/Watanabi   64
+     SF  Shestakov/Watanabi   def.  Peres/Mealla         Walkover
+     SF  Bertrand/Delgado     def.  Bugeaud/Taylor       63
+     QF  Shestakov/Watanabi   def.  Woodman/Blair        82
+     QF  Peres/Mealla         def.  DeLuna/Smith         82
+     QF  Bugeaud/Taylor       def.  Reche/Miralles Lopez 82
+  > West
+      F  Woodman/Blair        def.  Reche/Miralles Lopez 75
+     SF  Woodman/Blair        def.  DeLuna/Smith         64
+  > 3-4 Playoff
+      F  Bugeaud/Taylor       def.  Peres/Mealla         Walkover
+~~~
 
 <a name="21-19264"></a>
 ~~~
@@ -226,6 +449,81 @@
      QF  Tang/Wibler       def.  Shymansky/Lefevre 82
      QF  Dean/Dehmoubed    def.  Macnamara/Galan   83
      QF  Hildebrandt/Smith def.  Barki/Astreinidis 81
+~~~
+
+<a name="21-88961"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  River Forrest Collegiate Invitational
+  Dates: Sep 10-11, 2021
+  Host: Northern Illinois Univ. (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight 1
+  > East
+      F  Everett/Mandocescu   def.  Alvarez/Behun        62
+     SF  Everett/Mandocescu   def.  Le Gal Perez/Isakss… 65
+     SF  Alvarez/Behun        def.  Malinen/Spolidorio   62
+     QF  Everett/Mandocescu   def.  Ramireddy/Singh      65
+     QF  Le Gal Perez/Isakss… def.  Nakayama/Winters     63
+     QF  Malinen/Spolidorio   def.  Kyrillou/Wallace     61
+     QF  Alvarez/Behun        def.  Kruzel/Strandberg    64
+  > West
+      F  Kruzel/Strandberg    def.  Ramireddy/Singh      64
+     SF  Ramireddy/Singh      def.  Nakayama/Winters     63
+     SF  Kruzel/Strandberg    def.  Kyrillou/Wallace     61
+  > 3-4 Playoff
+      F  Malinen/Spolidorio   def.  Le Gal Perez/Isakss… 64
+ > Flight 2
+  > East
+      F  Ortega/Valentinsson  def.  Fukushima/Ortis      62
+     SF  Ortega/Valentinsson  def.  Botifoll Rius/Hjalte 62
+     SF  Fukushima/Ortis      def.  Cahill/Temming       63
+     QF  Botifoll Rius/Hjalte def.  Komis/Phillips       62
+     QF  Ortega/Valentinsson  def.  Alvarez Moreno/Favi… 63
+     QF  Fukushima/Ortis      def.  Tacconni/Wazir       64
+     QF  Cahill/Temming       def.  Carlin/Riera         61
+  > West
+      F  Carlin/Riera         def.  Alvarez Moreno/Favi… 61
+     SF  Alvarez Moreno/Favi… def.  Komis/Phillips       62
+     SF  Carlin/Riera         def.  Tacconni/Wazir       64
+  > South
+      F  Komis/Phillips       def.  Tacconni/Wazir       65
+ > Flight 3
+  > East
+      F  Koschtojan/Vollbach  def.  Cuchran/Pham         63
+     SF  Koschtojan/Vollbach  def.  Pennelli/Reddy       63
+     SF  Cuchran/Pham         def.  Fakouri/Ohl          63
+     QF  Pennelli/Reddy       def.  Pla/Pena Ibanez      60
+     QF  Koschtojan/Vollbach  def.  Pultz/Ulrich         60
+     QF  Cuchran/Pham         def.  Iermolov/Nguyen      62
+     QF  Fakouri/Ohl          def.  Badaiants/Sadowski   65
+  > West
+      F  Badaiants/Sadowski   def.  Pultz/Ulrich         63
+     SF  Pultz/Ulrich         def.  Pla/Pena Ibanez      62
+     SF  Badaiants/Sadowski   def.  Iermolov/Nguyen      64
+  > South
+      F  Iermolov/Nguyen      def.  Pla/Pena Ibanez      65
+ > Flight 4
+  > Main
+     QF  Herrera/Kohrs        def.  Knutson/VanDonslear  65
+     QF  Chiu/Rasmusson       def.  Macaluso/Loudermilk  65
+     QF  Zipoli/Thompson      def.  Bank/Duclos          62
+ > Flight 4 round 2
+  > Main
+     QF  Zipoli/Thompson      def.  Chang/Kohrs          63
+     QF  Chiu/Rasmusson       def.  Knutson/VanDonslear  63
+     QF  Macaluso/Loudermilk  def.  Bank/Duclos          64
+ > Flight 4 round 3
+  > Main
+     QF  Zipoli/Thompson      def.  Knutson/VanDonslear  63
+     QF  Bank/Duclos          def.  Chiu/Rasmusson       63
+     QF  Chang/Kohrs          def.  Macaluso/Loudermilk  63
+ > Replaced matches
+  > Main
+     QF  Botifoll Rius/Hjalte def.  Winters/Mosberger    64
+     QF  Cahill/Nakayama      def.  Kyrillou/Wallace     61
+     QF  Temming/Pennelli     def.  Fakouri/Ohl          64
 ~~~
 
 <a name="21-95655"></a>

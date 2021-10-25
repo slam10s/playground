@@ -510,7 +510,7 @@
   Host: Univ. Of Pennsylvania (W)
 ════════════════════════════════════════════════════════════════════════
  Women's Open Singles
- > Friday Draw
+ > Draw 1
   > Main
      64  Lorie Lemongo    def.  Maria Adiaconitei 62 62
      64  Lan Mi           def.  Renata Lombera    61 62
@@ -540,7 +540,6 @@
  Women's Open Singles
  > Flight A
   > East
-      F  Marjorie Souza       vs   Elena Rodriguez     Sun @ 10:00
      SF  Marjorie Souza      def.  Kathleen Percegona  36 61 [9]
      SF  Elena Rodriguez     def.  Emma Honore         76(5) 64
      QF  Marjorie Souza      def.  Camille Townsend    36 62 [8]
@@ -553,8 +552,6 @@
      SF  Elena DiBattista    def.  Isabelle Bahr       Walkover
   > 3-4 Playoff
       F  Emma Honore         def.  Kathleen Percegona  61 26 [6]
-  > South
-      F  Ana Platisa          vs   Isabelle Bahr       Sun @ 10:00
  > Flight B
   > East
       F  Mariya Shumeika     def.  Noelia Lorca        61 63
@@ -583,8 +580,6 @@
   > West
       F  Laura Schmitz       def.  Jayci Wong          62 63
      SF  Jayci Wong          def.  Stefanie Wilske     61 26 [6]
-  > 3-4 Playoff
-      F  Eve Daniels          vs   Lina Sachica        Sun @ 10:00
 ~~~
 
 <a name="21-64509"></a>
@@ -597,7 +592,7 @@
  Women's Open Singles
  > Main A1
   > Main
-       F  (5) Jaeda Daniel          vs   (2) Cameron Morra        Mon @ 10:00
+       F  (2) Cameron Morra        def.  (5) Jaeda Daniel         46 75 64
       SF  (5) Jaeda Daniel         def.  (4) Carson Tanguilig     57 62 64
       SF  (2) Cameron Morra        def.  (3) Carolyn Campana      63 61
       QF  (5) Jaeda Daniel         def.  (1) Chloe Beck           63 60
@@ -629,7 +624,7 @@
       32      Peyton Pesavento     def.      Miray Konar          76(1) 64
       32  (2) Cameron Morra        def.      Margaux Maquet       64 62
   > Consolation
-       F      Misa Malkin           vs       Lily Woods           Sun @ 12:30
+       F      Misa Malkin          def.      Lily Woods           61 61
       SF      Misa Malkin          def.      Madison Dillon       63 46 63
       SF      Lily Woods           def.      Allie Gretkowski     46 63 62
       QF      Madison Dillon       def.      Samantha Martinelli  63 63
@@ -646,7 +641,7 @@
      16Q      Margaux Maquet       def.      Miray Konar          62 76(3)
  > Main A2
   > Main
-       F  (1) Fiona Crawley         vs   (2) Ayana Akli           Mon @ 10:00
+       F  (1) Fiona Crawley        def.  (2) Ayana Akli           64 64
       SF  (1) Fiona Crawley        def.  (3) Kelly Chen           62 63
       SF  (2) Ayana Akli           def.  (7) Emma Jackson         61 61
       QF  (1) Fiona Crawley        def.  (8) Anna Campana         63 64
@@ -678,7 +673,7 @@
       32      Sibel Tanik          def.      Megan Hopton         61 61
       32  (2) Ayana Akli           def.      Anna Daniels         61 60
   > Consolation
-       F      Jenna Thompson        vs       Ruxi Schech          Sun @ 12:30
+       F      Jenna Thompson       def.      Ruxi Schech          63 76(6)
       SF      Jenna Thompson       def.      Ana Cruz             61 63
       SF      Ruxi Schech          def.      Anna Daniels         61 60
       QF      Jenna Thompson       def.      Gracie Mulville      64 62
@@ -695,7 +690,7 @@
      16Q      Anna Daniels         def.      Megan Hopton         62 16 76(5)
  > B1
   > Main
-       F  (4) Chloe Narboni         vs   (2) Ilayda Baykan        Sun @ 12:30
+       F  (4) Chloe Narboni        def.  (2) Ilayda Baykan        46 62 63
       SF  (4) Chloe Narboni        def.      Alexandra Anttila    62 75
       SF  (2) Ilayda Baykan        def.      Paola Landin         61 61
       QF      Alexandra Anttila    def.      Emely Kahrs          61 64
@@ -703,7 +698,7 @@
       QF      Paola Landin         def.      Maddie Brown         76(3) 26 76(4)
       QF  (2) Ilayda Baykan        def.  (8) Jesse Hollins        76(2) 64
       16      Emely Kahrs          def.      Olivia Archer        63 26 63
-      16      Alexandra Anttila    def.      Sara McClure         16 64 63
+      16      Alexandra Anttila    def.      Sara McClure         36 64 63
       16  (4) Chloe Narboni        def.      Breda Brennan        76(5) 63
       16      Brinley Bell         def.      Alison ODea          67(6) 63 61
       16      Maddie Brown         def.  (6) Kendall Couch        63 63
@@ -838,7 +833,7 @@
  Women's Open Singles
  > Draw
   > Main
-      F (1) Natasha Subhash       vs  (3) Elaine Chervinsky    Mon @ 10:00
+      F (1) Natasha Subhash       vs  (3) Elaine Chervinsky    Mon @ 14:00
      SF (1) Natasha Subhash      def. (5) Tatsiana Sasnouskaya 75 16 61
      SF (3) Elaine Chervinsky    def. (2) Yuliia Starodubtseva 64 16 76(3)
      QF (1) Natasha Subhash      def. (8) Mila Saric           26 75 62
@@ -911,6 +906,9 @@
  Women's Open Singles
  > Singles Main
   > Main
+       F  Thasaporn Naklo      def.  Karine-Marion Job    63 06 60
+      SF  Thasaporn Naklo      def.  Malkia Ngounoue      76(5) 76(4)
+      SF  Karine-Marion Job    def.  Maria Titova         64 64
       QF  Thasaporn Naklo      def.  Romana Tarajova      61 61
       QF  Malkia Ngounoue      def.  Ivana Corley         63 63
       QF  Karine-Marion Job    def.  Indianna Spink       26 63 64
@@ -1197,36 +1195,37 @@
  Women's Open Singles
  > Main Draw
   > Main
-     SF (1) Irina Cantos Siemers def.     Andrea Cerdan      46 62 62
-     SF (2) Kari Miller          def. (3) Clarissa Hand      62 62
-     QF (1) Irina Cantos Siemers def.     Page Freeman       62 26 64
-     QF     Andrea Cerdan        def. (4) Maria Shusharina   36 76(2) 64
-     QF (3) Clarissa Hand        def. (6) Jaedan Brown       67(3) 63 75
-     QF (2) Kari Miller          def. (7) Lucia Marzal       36 63 61
-     16 (1) Irina Cantos Siemers def.     Julia Fliegner     61 62
-     16     Page Freeman         def.     Justine Leong      75 64
-     16     Andrea Cerdan        def. (5) Xinyu Cai          63 76(3)
-     16 (4) Maria Shusharina     def.     Katherine Duong    76(2) 64
-     16 (3) Clarissa Hand        def.     Mary Lewis         76(5) 64
-     16 (6) Jaedan Brown         def.     Briana Crowley     64 76(5)
-     16 (7) Lucia Marzal         def.     Megan Heuser       61 63
-     16 (2) Kari Miller          def.     Sydni Ratliff      60 64
-     32 (1) Irina Cantos Siemers def.     Ema Lazic          62 16 64
-     32     Julia Fliegner       def.     Nicole Stephens    63 61
-     32     Page Freeman         def.     Madeline Atway     36 75 76(5)
-     32     Justine Leong        def. (8) Ava Markham        61 76(6)
-     32 (5) Xinyu Cai            def.     Josie Frazier      64 63
-     32     Andrea Cerdan        def.     Lina Ali           64 64
-     32     Katherine Duong      def.     Alexandra Abyasova 62 57 61
-     32 (4) Maria Shusharina     def.     Carrie Beckman     63 26 62
-     32 (3) Clarissa Hand        def.     Ashley Yeah        75 46 64
-     32     Mary Lewis           def.     Merri Kelly        64 63
-     32     Briana Crowley       def.     Julia Andreach     76(9) 76(5)
-     32 (6) Jaedan Brown         def.     Hannah McColgan    64 46 76(4)
-     32 (7) Lucia Marzal         def.     Taylor Cataldi     63 63
-     32     Megan Heuser         def.     Nibedita Ghosh     46 62 60
-     32     Sydni Ratliff        def.     Ana Jover          61 62
-     32 (2) Kari Miller          def.     Tijana Zlatanovic  61 62
+      F (2) Kari Miller          def. (1) Irina Cantos Siemers 36 61 63
+     SF (1) Irina Cantos Siemers def.     Andrea Cerdan        46 62 62
+     SF (2) Kari Miller          def. (3) Clarissa Hand        62 62
+     QF (1) Irina Cantos Siemers def.     Page Freeman         62 26 64
+     QF     Andrea Cerdan        def. (4) Maria Shusharina     36 76(2) 64
+     QF (3) Clarissa Hand        def. (6) Jaedan Brown         67(3) 63 75
+     QF (2) Kari Miller          def. (7) Lucia Marzal         36 63 61
+     16 (1) Irina Cantos Siemers def.     Julia Fliegner       61 62
+     16     Page Freeman         def.     Justine Leong        75 64
+     16     Andrea Cerdan        def. (5) Xinyu Cai            63 76(3)
+     16 (4) Maria Shusharina     def.     Katherine Duong      76(2) 64
+     16 (3) Clarissa Hand        def.     Mary Lewis           76(5) 64
+     16 (6) Jaedan Brown         def.     Briana Crowley       64 76(5)
+     16 (7) Lucia Marzal         def.     Megan Heuser         61 63
+     16 (2) Kari Miller          def.     Sydni Ratliff        60 64
+     32 (1) Irina Cantos Siemers def.     Ema Lazic            62 16 64
+     32     Julia Fliegner       def.     Nicole Stephens      63 61
+     32     Page Freeman         def.     Madeline Atway       36 75 76(5)
+     32     Justine Leong        def. (8) Ava Markham          61 76(6)
+     32 (5) Xinyu Cai            def.     Josie Frazier        64 63
+     32     Andrea Cerdan        def.     Lina Ali             64 64
+     32     Katherine Duong      def.     Alexandra Abyasova   62 57 61
+     32 (4) Maria Shusharina     def.     Carrie Beckman       63 26 62
+     32 (3) Clarissa Hand        def.     Ashley Yeah          75 46 64
+     32     Mary Lewis           def.     Merri Kelly          64 63
+     32     Briana Crowley       def.     Julia Andreach       76(9) 76(5)
+     32 (6) Jaedan Brown         def.     Hannah McColgan      64 46 76(4)
+     32 (7) Lucia Marzal         def.     Taylor Cataldi       63 63
+     32     Megan Heuser         def.     Nibedita Ghosh       46 62 60
+     32     Sydni Ratliff        def.     Ana Jover            61 62
+     32 (2) Kari Miller          def.     Tijana Zlatanovic    61 62
 ~~~
 
 <a name="21-52217"></a>
@@ -1392,6 +1391,7 @@
  Women's Open Singles
  > Main Draw Singles
   > Main
+       F  (9) Elza Tomase          def.  (1) Rebeka Mertena       61 63
       SF  (1) Rebeka Mertena       def.  (3) Csilla Fodor         16 62 64
       SF  (9) Elza Tomase          def. (17) Olivia Symons        62 62
       QF  (1) Rebeka Mertena       def.  (8) Brindtha Ramasamy    63 61
@@ -1642,8 +1642,9 @@
  Women's Open Singles
  > Draw
   > Main
-      SF (17) Abigail Desiatnikov   vs   (5) Solymar Colling      Sun @ 10:15
-      SF  (8) Lisa Zaar             vs  (17) Snow Han             Sun @ 10:45
+       F  (8) Lisa Zaar            def. (17) Abigail Desiatnikov  64 60
+      SF (17) Abigail Desiatnikov  def.  (5) Solymar Colling      36 62 75
+      SF  (8) Lisa Zaar            def. (17) Snow Han             16 64 61
       QF (17) Abigail Desiatnikov  def. (17) Nikki Redelijk       76(5) 26 62
       QF  (5) Solymar Colling      def.  (4) Salma Ewing          46 64 61
       QF  (8) Lisa Zaar            def. (17) Alexandra Vagramov   61 62
@@ -1899,7 +1900,7 @@
      32  Bente Spee         def.  Stephanie Schrage  62 63
      32  Nandini Sharma     def.  Nathalie Rodilosso 60 60
      32  Marie Mattel       def.  Victoria Hu        61 63
-     32  Neha Velaga         vs   Jaleesa Leslie     Sun @ 08:00
+     32  Neha Velaga        def.  Jaleesa Leslie     36 76(4) 62
 ~~~
 
 <a name="21-28500"></a>
@@ -2087,76 +2088,88 @@
  Women's Open Singles
  > Women's Flight 1
   > Main
-      F  Hannah Yip         def.  Julianne Garcia     57 63 [7]
-     SF  Julianne Garcia    def.  Brooklyn Ross       36 64 [6]
-     SF  Hannah Yip         def.  Teodora Vrucan      60 63
-     QF  Julianne Garcia    def.  Anda Ghinga         64 64
-     QF  Brooklyn Ross      def.  Briana Garcia       60 62
-     QF  Teodora Vrucan     def.  Vasilisa Polunova   64 63
-     QF  Hannah Yip         def.  Grace Chadick       76(9) 62
+      F  Hannah Yip          def.  Julianne Garcia     57 63 [7]
+     SF  Julianne Garcia     def.  Brooklyn Ross       36 64 [6]
+     SF  Hannah Yip          def.  Teodora Vrucan      60 63
+     QF  Julianne Garcia     def.  Anda Ghinga         64 64
+     QF  Brooklyn Ross       def.  Briana Garcia       60 62
+     QF  Teodora Vrucan      def.  Vasilisa Polunova   64 63
+     QF  Hannah Yip          def.  Grace Chadick       76(9) 62
   > Consolation
-      F  Anda Ghinga        def.  Vasilisa Polunova   57 63 [8]
-     SQ  Anda Ghinga        def.  Briana Garcia       60 60
-     SQ  Vasilisa Polunova  def.  Grace Chadick       60 Ret.
+      F  Anda Ghinga         def.  Vasilisa Polunova   57 63 [8]
+     SQ  Anda Ghinga         def.  Briana Garcia       60 60
+     SQ  Vasilisa Polunova   def.  Grace Chadick       60 Ret.
   > Playoff 3-4
-      F  Teodora Vrucan     def.  Brooklyn Ross       62 36 [10]
+      F  Teodora Vrucan      def.  Brooklyn Ross       62 36 [10]
  > Women's Flight 2
   > Main
-      F  Kyndall Quiroz     def.  Karolina Glowinska  67(4) 60 [7]
-     SF  Kyndall Quiroz     def.  Leony Deutschmann   64 76(6)
-     SF  Karolina Glowinska def.  Ethne Dowling       63 62
-     QF  Leony Deutschmann  def.  Pilar Jaurena       62 63
-     QF  Kyndall Quiroz     def.  Tizia Brocks        36 64 [4]
-     QF  Karolina Glowinska def.  Tanvikhaa Saravanan 06 64 [6]
-     QF  Ethne Dowling      def.  Krystal Smith       75 75
+      F  Kyndall Quiroz      def.  Karolina Glowinska  67(4) 60 [7]
+     SF  Kyndall Quiroz      def.  Leony Deutschmann   64 76(6)
+     SF  Karolina Glowinska  def.  Ethne Dowling       63 62
+     QF  Leony Deutschmann   def.  Pilar Jaurena       62 63
+     QF  Kyndall Quiroz      def.  Tizia Brocks        36 64 [4]
+     QF  Karolina Glowinska  def.  Tanvikhaa Saravanan 06 64 [6]
+     QF  Ethne Dowling       def.  Krystal Smith       75 75
   > Consolation
-      F  Tizia Brocks       def.  Krystal Smith       60 60
-     SQ  Tizia Brocks       def.  Pilar Jaurena       61 61
-     SQ  Krystal Smith      def.  Tanvikhaa Saravanan 06 63 [10]
+      F  Tizia Brocks        def.  Krystal Smith       60 60
+     SQ  Tizia Brocks        def.  Pilar Jaurena       61 61
+     SQ  Krystal Smith       def.  Tanvikhaa Saravanan 06 63 [10]
   > Playoff 3-4
-      F  Ethne Dowling      def.  Leony Deutschmann   62 75
+      F  Ethne Dowling       def.  Leony Deutschmann   62 75
  > Women's Flight 3
   > Main
-      F  Nikki Boyar        def.  Magda Wawroska      63 61
-     SF  Magda Wawroska     def.  Chloe Chawner       62 63
-     SF  Nikki Boyar        def.  Dnyanada Patil      61 63
-     QF  Chloe Chawner      def.  Blythe Buntrock     64 36 [7]
-     QF  Magda Wawroska     def.  Casie Curry         26 75 [7]
-     QF  Nikki Boyar        def.  Emilija Visic       62 61
-     QF  Dnyanada Patil     def.  Lisa Guitton        62 63
+      F  Nikki Boyar         def.  Magda Wawroska      63 61
+     SF  Magda Wawroska      def.  Chloe Chawner       62 63
+     SF  Nikki Boyar         def.  Dnyanada Patil      61 63
+     QF  Chloe Chawner       def.  Blythe Buntrock     64 36 [7]
+     QF  Magda Wawroska      def.  Casie Curry         26 75 [7]
+     QF  Nikki Boyar         def.  Emilija Visic       62 61
+     QF  Dnyanada Patil      def.  Lisa Guitton        62 63
   > Consolation
-      F  Casie Curry        def.  Emilija Visic       62 76(3)
-     SQ  Casie Curry        def.  Blythe Buntrock     36 75 [8]
-     SQ  Emilija Visic      def.  Lisa Guitton        63 62
+      F  Casie Curry         def.  Emilija Visic       62 76(3)
+     SQ  Casie Curry         def.  Blythe Buntrock     36 75 [8]
+     SQ  Emilija Visic       def.  Lisa Guitton        63 62
   > Playoff 3-4
-      F  Chloe Chawner      def.  Dnyanada Patil      Walkover
+      F  Chloe Chawner       def.  Dnyanada Patil      Walkover
  > Women's Flight 4
   > Main
-      F  Skylar Minns       def.  Andrea Farris       76(4) 61
-     SF  Andrea Farris      def.  Lea Mjertan         06 64 [8]
-     SF  Skylar Minns       def.  Monica Cantu        60 62
-     QF  Andrea Farris      def.  Lia Woods           76(4) 61
-     QF  Lea Mjertan        def.  Lexi Penn           64 75
-     QF  Monica Cantu       def.  Anshu Okamura       63 61
+      F  Skylar Minns        def.  Andrea Farris       76(4) 61
+     SF  Andrea Farris       def.  Lea Mjertan         06 64 [8]
+     SF  Skylar Minns        def.  Monica Cantu        60 62
+     QF  Andrea Farris       def.  Lia Woods           76(4) 61
+     QF  Lea Mjertan         def.  Lexi Penn           64 75
+     QF  Monica Cantu        def.  Anshu Okamura       63 61
   > Consolation
-      F  Anshu Okamura      def.  Lexi Penn           63 61
-     SQ  Lexi Penn          def.  Lia Woods           61 61
+      F  Anshu Okamura       def.  Lexi Penn           63 61
+     SQ  Lexi Penn           def.  Lia Woods           61 61
   > Playoff 3-4
-      F  Monica Cantu       def.  Lea Mjertan         Walkover
+      F  Monica Cantu        def.  Lea Mjertan         Walkover
  > Women's Flight 5
   > Main
-     R3  Brooke Runyan      def.  Nina Pigeassou      60 61
-     R3  Taylor Conway      def.  Chloe Dix           60 64
-     R2  Kanaha Furutani    def.  Nina Pigeassou      60 63
-     R2  Chloe Dix          def.  Jaqueline Obreque   64 60
-     R1  Kanaha Furutani    def.  Brooke Runyan       64 63
-     R1  Taylor Conway      def.  Jaqueline Obreque   64 60
+     R3  Brooke Runyan       def.  Nina Pigeassou      60 61
+     R3  Taylor Conway       def.  Chloe Dix           60 64
+     R2  Kanaha Furutani     def.  Nina Pigeassou      60 63
+     R2  Chloe Dix           def.  Jaqueline Obreque   64 60
+     R1  Kanaha Furutani     def.  Brooke Runyan       64 63
+     R1  Taylor Conway       def.  Jaqueline Obreque   64 60
   > Playoff 1
-      F  Taylor Conway      def.  Kanaha Furutani     76(2) 63
+      F  Taylor Conway       def.  Kanaha Furutani     76(2) 63
   > Playoff 2
-      F  Brooke Runyan      def.  Chloe Dix           64 76(6)
+      F  Brooke Runyan       def.  Chloe Dix           64 76(6)
   > Playoff 3
-      F  Nina Pigeassou     def.  Jaqueline Obreque   61 61
+      F  Nina Pigeassou      def.  Jaqueline Obreque   61 61
+ > Women's Extra 1
+  > Main
+      F  Tanvikhaa Saravanan def.  Pilar Jaurena       62 26 [5]
+ > Women's Extra 2
+  > Main
+      F  Blythe Buntrock     def.  Lisa Guitton        75 62
+ > Women's Extra 3
+  > Main
+      F  Chloe Chawner       def.  Briana Garcia       61 60
+ > Women's Extra 4
+  > Main
+      F  Monica Cantu        def.  Lia Woods           62 46 [9]
 ~~~
 
 <a name="21-20217"></a>
@@ -2169,35 +2182,50 @@
  Women's Open Singles
  > Friday
   > Main
-     32  Marta Vicens Miquel  def.  Kaitlynn Groves     61 62
-     32  Nina Furmaniak       def.  Polina Vlasova      75 60
-     32  Lavinia Lancellotti  def.  Maria McKay         75 16 [9]
-     32  Celina Ermann        def.  Eve Wasil           61 64
-     32  Natalia Collado Cor… def.  Elan Mnatsakanov    67(5) 64 [3]
-     32  Jade Bellegy         def.  Erin Yaroshuk       61 60
-     32  Olivia Raspa Pezo    def.  Polina Ligay        63 64
-     32  Laura Vetter         def.  Mbali Langa         62 75
-     32  Minnie Kim           def.  Arina Gamretkaia    63 26 [7]
-     32  Viktoryia Zhadzinsk… def.  Olivia Bryant       57 64 [6]
-     32  Vivien Charvatova    def.  Esmee Andresen      64 36 [8]
-     32  Ita Habekovic        def.  Kelly Klaren        61 62
-     32  Camilla Mitolo       def.  Eve Robinson        62 60
-     32  Alicia Gomez         def.  Karyna Bazilevych   60 60
+     32  Marta Vicens Miquel  def.  Kaitlynn Groves      61 62
+     32  Nina Furmaniak       def.  Polina Vlasova       75 60
+     32  Lavinia Lancellotti  def.  Maria McKay          75 16 [9]
+     32  Celina Ermann        def.  Eve Wasil            61 64
+     32  Natalia Collado Cor… def.  Elan Mnatsakanov     67(5) 64 [3]
+     32  Jade Bellegy         def.  Erin Yaroshuk        61 60
+     32  Olivia Raspa Pezo    def.  Polina Ligay         63 64
+     32  Laura Vetter         def.  Mbali Langa          62 75
+     32  Minnie Kim           def.  Arina Gamretkaia     63 26 [7]
+     32  Viktoryia Zhadzinsk… def.  Olivia Bryant        57 64 [6]
+     32  Vivien Charvatova    def.  Esmee Andresen       64 36 [8]
+     32  Ita Habekovic        def.  Kelly Klaren         61 62
+     32  Camilla Mitolo       def.  Eve Robinson         62 60
+     32  Alicia Gomez         def.  Karyna Bazilevych    60 60
  > Saturday
   > Main
-     32  Marta Vicens Miquel  def.  Mbali Langa         76(2) 63
-     32  Arina Gamretkaia     def.  Nina Furmaniak      60 64
-     32  Viktoryia Zhadzinsk… def.  Lavinia Lancellotti 76(6) 64
-     32  Ita Habekovic        def.  Celina Ermann       63 67(2) [7]
-     32  Olivia Raspa Pezo    def.  Jade Bellegy        62 36 [4]
-     32  Alicia Gomez         def.  Elan Mnatsakanov    75 75
-     32  Kaitlynn Groves      def.  Laura Vetter        06 63 [4]
-     32  Polina Vlasova       def.  Minnie Kim          75 46 [6]
-     32  Maria McKay          def.  Vivien Charvatova   64 36 [9]
-     32  Olivia Bryant        def.  Eve Wasil           62 61
-     32  Natalia Collado Cor… def.  Kelly Klaren        63 16 [4]
-     32  Erin Yaroshuk        def.  Eve Robinson        61 76(1)
-     32  Polina Ligay         def.  Karyna Bazilevych   61 60
+     32  Marta Vicens Miquel  def.  Mbali Langa          76(2) 63
+     32  Arina Gamretkaia     def.  Nina Furmaniak       60 64
+     32  Viktoryia Zhadzinsk… def.  Lavinia Lancellotti  76(6) 64
+     32  Ita Habekovic        def.  Celina Ermann        63 67(2) [7]
+     32  Olivia Raspa Pezo    def.  Jade Bellegy         62 36 [4]
+     32  Alicia Gomez         def.  Elan Mnatsakanov     75 75
+     32  Kaitlynn Groves      def.  Laura Vetter         06 63 [4]
+     32  Polina Vlasova       def.  Minnie Kim           75 46 [6]
+     32  Maria McKay          def.  Vivien Charvatova    64 36 [9]
+     32  Olivia Bryant        def.  Eve Wasil            62 61
+     32  Natalia Collado Cor… def.  Kelly Klaren         63 16 [4]
+     32  Erin Yaroshuk        def.  Eve Robinson         61 76(1)
+     32  Polina Ligay         def.  Karyna Bazilevych    61 60
+ > Sunday
+  > Main
+     32  Marta Vicens Miquel  def.  Laura Vetter         61 64
+     32  Nina Furmaniak       def.  Mathilda Vidgren     63 26 [6]
+     32  Lavinia Lancellotti  def.  Minnie Kim           63 63
+     32  Celina Ermann        def.  Olivia Bryant        63 62
+     32  Jade Bellegy         def.  Kelly Klaren         76(1) 61
+     32  Elan Mnatsakanov     def.  Eve Robinson         61 60
+     32  Camilla Mitolo       def.  Karyna Bazilevych    62 63
+     32  Arina Gamretkaia     def.  Polina Vlasova       62 61
+     32  Ita Habekovic        def.  Maria McKay          62 60
+     32  Viktoryia Zhadzinsk… def.  Eve Wasil            62 64
+     32  Esmee Andresen       def.  Natalia Collado Cor… 63 61
+     32  Erin Yaroshuk        def.  Olivia Raspa Pezo    26 64 [8]
+     32  Alicia Gomez         def.  Polina Ligay         63 62
 ~~~
 
 <a name="21-42214"></a>

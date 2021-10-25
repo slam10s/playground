@@ -711,18 +711,18 @@
       F (1) Martins/Anzalotta    def. (2) McKenzie/Cherfus     62 26 64
      SF (1) Martins/Anzalotta    def.     Carvalho-Landell/Ga… 62 61
      SF (2) McKenzie/Cherfus     def. (3) Wild/Apisah          63 76
-     QF (1) Martins/Anzalotta    def.     Vossen/Proktor       60 60
+     QF (1) Martins/Anzalotta    def.     Vossen/Prokter       60 60
      QF     Carvalho-Landell/Ga… def. (4) Hernandez/Zungu      26 64 [8]
      QF (3) Wild/Apisah          def.     Beukes/Chen          62 63
      QF (2) McKenzie/Cherfus     def.     Warham/De Mata       62 62
   > West
       F (4) Hernandez/Zungu      def.     Beukes/Chen          62 60
-     SF (4) Hernandez/Zungu      def.     Vossen/Proktor       61 60
+     SF (4) Hernandez/Zungu      def.     Vossen/Prokter       61 60
      SF     Beukes/Chen          def.     Warham/De Mata       76(5) 62
   > 3-4 Playoff
       F (3) Wild/Apisah          def.     Carvalho-Landell/Ga… 76(4) 63
   > South
-      F     Warham/De Mata       def.     Vossen/Proktor       61 62
+      F     Warham/De Mata       def.     Vossen/Prokter       61 62
 ~~~
 
 Return to the [Top](./women_doubles_2141.md) &#124; [Home Page](../../index.md)

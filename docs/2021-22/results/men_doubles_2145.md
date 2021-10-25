@@ -2,6 +2,7 @@
 
 **Upcoming Tournaments**  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityM/Tournaments/Overview/E0ED1E84-1CD4-4CE2-BFCD-F695030458D5" target="_blank">Big 12 Individuals</a>  
+- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaMarymountUniversityM/Tournaments/Overview/5B7216DB-15C4-4F1D-8629-8EAF987FE5AE" target="_blank">LMU Invite</a>  
 - 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/398E1516-D93D-455D-B5B2-0D3057E5FCF8" target="_blank">Navy Invitational</a>  
 
 Return to the [Top](./men_doubles_2145.md) &#124; [Home Page](../../index.md)

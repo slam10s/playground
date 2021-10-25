@@ -17,16 +17,17 @@
 
 <a name="21-69139"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Super Regional Championship
   Dates: Oct 22-25, 2021
   Host: Old Dominion University (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-     SF (1) Vidal/Maldoner        vs  (4) von der Schulenburg… Sun @ 14:00
-     SF     Gorregues/Delmas      vs      Goetz/Montes de la … Sun @ 14:00
+      F (1) Vidal/Maldoner       def.     Goetz/Montes de la … 30 Ret.
+     SF (1) Vidal/Maldoner       def. (4) von der Schulenburg… 62 46 [8]
+     SF     Goetz/Montes de la … def.     Gorregues/Delmas     36 62 [7]
      QF (1) Vidal/Maldoner       def.     Bertimon/Bertimon    84
      QF (4) von der Schulenburg… def.     Karpinski/Koons      84
      QF     Gorregues/Delmas     def.     Almeida/Bobichon     86
@@ -59,15 +60,18 @@
  Men's Open Doubles
  > Main Draw
   > Main
-      QF     Harris/Enslin        vs  (7) Schnaitter/Banthia   Sun @ 12:00
-      16 (1) Cernoch/Kiger        vs  (9) Johns/Dale           Sun @ 13:30
-      16     Van Sambeek/Rocens   vs      Azuma/Giusca         Sun @ 13:30
+      QF     Van Sambeek/Rocens  def. (1) Cernoch/Kiger        64 46 [7]
+      QF (7) Schnaitter/Banthia  def.     Harris/Enslin        64 64
+      QF     Simon/Savva         def. (4) Barkai/Staeheli      75 63
+      QF     Kania/Zapp          def.     Benson/Milanovic     75 63
+      16 (1) Cernoch/Kiger       def. (9) Johns/Dale           63 64
+      16     Van Sambeek/Rocens  def.     Azuma/Giusca         64 75
       16     Harris/Enslin       def. (3) Catry/Salvestre      16 76(5) [3]
       16 (7) Schnaitter/Banthia  def.     Whitaker/Pitts       Walkover
       16     Simon/Savva         def.     Balazi/Petko         16 63 [10]
-      16     Giraldo/Garnier      vs  (4) Barkai/Staeheli      Sun @ 13:30
+      16 (4) Barkai/Staeheli     def.     Giraldo/Garnier      76(7) 63
       16     Benson/Milanovic    def.     Schrader/Wayand      57 63 [8]
-      16     Kania/Zapp           vs  (2) Thomson/Samuel       Sun @ 13:30
+      16     Kania/Zapp          def. (2) Thomson/Samuel       63 26 [8]
       32 (1) Cernoch/Kiger       def.     Ray/Fullett          62 64
       32 (9) Johns/Dale          def.     Roelofse/Westling    64 76(5)
       32     Van Sambeek/Rocens  def. (5) Beasley/Lambling     76(5) 63
@@ -79,7 +83,7 @@
       32     Simon/Savva         def.     Rasamatov/Hurtado    75 60
       32     Balazi/Petko        def. (6) Heller/Zhang         63 62
       32     Giraldo/Garnier     def. (9) Li/Murphy            64 61
-      32 (4) Barkai/Staeheli     def.     Krick/Gaedechens     61 63
+      32 (4) Barkai/Staeheli     def.     Krick/Gaedechens     Walkover
       32     Benson/Milanovic    def. (9) Liu/Plans Gonzalez   46 75 [10]
       32     Schrader/Wayand     def. (8) Baadi/Moroni         75 63
       32     Kania/Zapp          def. (9) Mitric/Connel        76(4) 62
@@ -105,7 +109,7 @@
       64 (6) Heller/Zhang        def.     Kachkarov/Singh      60 64
       64     Giraldo/Garnier     def.     Rendle/Keim          61 60
       64 (9) Li/Murphy           def.     Van Wyk/Putter       36 61 [9]
-      64     Krick/Gaedechens    def.     Laymon/Burnam        76(4) 46 [7]
+      64     Krick/Gaedechens    def.     Laymon/Burnam        Walkover
       64 (4) Barkai/Staeheli     def.     Gorgun/Niv           46 63 [7]
       64     Benson/Milanovic    def.     Vallabhaneni/Khan    76(5) 76(4)
       64 (9) Liu/Plans Gonzalez  def.     Campbell/Condos      36 63 [7]
@@ -126,6 +130,10 @@
      32Q     Vannemreddy/Thomson def.     Shoemake/Schainblatt 16 62 [6]
      32Q     Horn/Graham         def.     Grewe/Zuckerman      63 Ret.
      32Q     Laymon/Burnam       def.     Poritzky/Singerman   61 64
+ > Unaccounted For Matches
+  > Main
+       F     Barkai/Staeheli     def.     Limon/Gaedechens     61 63
+      SF     Limon/Gaedechens    def.     Laymon/Burnam        76(4) 46 [7]
 ~~~
 
 <a name="21-50726"></a>
@@ -138,6 +146,7 @@
  Men's Open Doubles
  > Draw
   > Main
+      F (3) Manuel/Burdet        def.     Trione/Pinto Sansano 63 36 [6]
      SF     Trione/Pinto Sansano def.     Huber/Moreno Lozano  63 76(5)
      SF (3) Manuel/Burdet        def. (2) Han/Martinez         76(5) 61
      QF     Huber/Moreno Lozano  def.     Verboven/Hammond     46 75 [0]
@@ -180,14 +189,17 @@
 
 <a name="21-68953"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Midwest Regional Championship
   Dates: Oct 21-25, 2021
   Host: Michigan State University (M)
-═════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
+      F  (3) Fenty/Ehrenschneider def.  (1) Boulais/Cash         75 62
+     SF  (1) Boulais/Cash         def. (11) Vile/Parts           64 62
+     SF  (3) Fenty/Ehrenschneider def.  (9) Meister/Stuart       63 36 [4]
      QF  (1) Boulais/Cash         def.      Tonejc/Jakic         84
      QF (11) Vile/Parts           def.      Che/Zhang            85
      QF  (3) Fenty/Ehrenschneider def.  (6) Heck/Horve           85
@@ -240,16 +252,16 @@
 
 <a name="21-64957"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Super Regional Championship
   Dates: Oct 22-25, 2021
   Host: University Of Washington (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-     SF     Basing/Sah            vs      Hollingworth/Trkulja Sun @ 14:00
-     SF (3) Chidekh/Suko          vs  (2) Fery/Rotsaert        Sun @ 14:00
+     SF     Hollingworth/Trkulja def.     Basing/Sah           26 64 [8]
+     SF (2) Fery/Rotsaert        def. (3) Chidekh/Suko         64 64
      QF     Basing/Sah           def. (1) Charlton/Vandecaste… 84
      QF     Hollingworth/Trkulja def.     Davis/Wong           86
      QF (3) Chidekh/Suko         def.     Chaudhary/Kopczynski 85
@@ -266,16 +278,17 @@
 
 <a name="21-64282"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Southeast Regional Championship
   Dates: Oct 21-25, 2021
   Host: University of Florida (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main Doubles
   > Main
-     SF (1) McDaniel/Martin       vs  (6) Andrade/Siimar       Sun @ 15:30
-     SF (5) Grinvalds/Duarte      vs  (2) Hannestad/Aubone     Sun @ 15:00
+      F (1) McDaniel/Martin      def. (2) Hannestad/Aubone     76(2) 75
+     SF (1) McDaniel/Martin      def. (6) Andrade/Siimar       61 36 [4]
+     SF (2) Hannestad/Aubone     def. (5) Grinvalds/Duarte     26 63 [6]
      QF (1) McDaniel/Martin      def.     Jalif/Jankulovski    83
      QF (6) Andrade/Siimar       def.     Cronje/Hilderbrand   86
      QF (5) Grinvalds/Duarte     def.     Grant/Goodger        82
@@ -322,16 +335,17 @@
 
 <a name="21-55204"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Southwest Regional Championship
   Dates: Oct 21-25, 2021
   Host: Pepperdine University (M)
-════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-     SF (16) Jackson/Barretto      vs   (3) Rubell/Dostanic      Sun @ 14:30
-     SF  (6) Zahraj/Revelli        vs   (2) Frye/Makk            Sun @ 14:30
+      F  (3) Rubell/Dostanic      def.  (6) Zahraj/Revelli       63 64
+     SF  (3) Rubell/Dostanic      def. (16) Jackson/Barretto     61 62
+     SF  (6) Zahraj/Revelli       def.  (2) Frye/Makk            62 Ret.
      QF (16) Jackson/Barretto     def.  (5) Baird/Hoogmartens    82
      QF  (3) Rubell/Dostanic      def.      Castro/Tyler         86
      QF  (6) Zahraj/Revelli       def. (14) Zeitvogel/Summaria   85

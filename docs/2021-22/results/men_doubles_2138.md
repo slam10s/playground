@@ -7,6 +7,7 @@
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
 - 9/24/2021 - [Bluejay Invite](#21-97501) ([Results](#21-97501) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CreightonUniversityW/Tournaments/Overview/9CFAB6A8-8E2B-42E6-9D2D-9A4EECB3CAEB" target="_blank">Draws</a>)  
 - 9/26/2021 - [Bobby Bayliss Invitational](#21-15825) ([Results](#21-15825) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNotreDameM/Tournaments/Overview/772A5D00-C1F2-4758-8876-D10A5F7DA5EF" target="_blank">Draws</a>)  
+- 9/24/2021 - [Elon Invitational](#21-56702) ([Results](#21-56702) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityM/Tournaments/Overview/88FFAEBD-EA36-4335-8B1D-3F3BBC1F47AB" target="_blank">Draws</a>)  
 - 9/21/2021 - [ITA Division I Men's Mountain Regional Championship](#21-39721) ([Results](#21-39721) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrighamYoungUniversityM/Tournaments/Overview/0A12EB81-68AE-4020-9FA2-B2DB100CE962" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Men's Ohio Valley Regional Championship](#21-20374) ([Results](#21-20374) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">Draws</a>)  
 - 9/24/2021 - [Loyola Invitational](#21-56169) ([Results](#21-56169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/72CD9175-7FAD-47BC-B686-CD1AF1858ECC" target="_blank">Draws</a>)  
@@ -35,7 +36,6 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityM/Tournaments/Overview/88FFAEBD-EA36-4335-8B1D-3F3BBC1F47AB" target="_blank">Elon Invitational</a>  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthernMississippiM/Tournaments/Overview/6381F499-3F70-463D-B86B-F6D5B23A4ADB" target="_blank">Southern Miss Men's Tennis Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoM/Tournaments/Overview/82163CFE-9C1D-409A-B99B-CD82AF62340D" target="_blank">Toledo Rocket Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BerryCollegeM/Tournaments/Overview/CC92D4A0-BB0F-49D9-B0D3-36812E68174B" target="_blank">Division III Men's South ITA Regional Championships</a>  
@@ -319,6 +319,75 @@
      64  Crocker/Sheldon     def.  Scheetz/Brady        62
      64  Minsaas/Gitschel    def.  Zifferblatt/Balthaz… 63
      64  Baylis/Pero         def.  Boone/Lohse          75
+~~~
+
+<a name="21-56702"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  Elon Invitational
+  Dates: Sep 24-26, 2021
+  Host: Elon University (M)
+══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Gold Doubles
+  > Main
+      F  Dillon/Kania         def.  Nolan/Van Schalkwyk  62
+     SF  Nolan/Van Schalkwyk  def.  Martin/Tsai          76(5)
+     SF  Dillon/Kania         def.  Silva/Taramonlis     64
+     QF  Nolan/Van Schalkwyk  def.  Almeida/Leblanc      
+     QF  Martin/Tsai          def.  Koons/Karpinski      62
+     QF  Silva/Taramonlis     def.  Sokolovskiy/Brown    62
+     QF  Dillon/Kania         def.  Reid/Bierbaum        76(1)
+  > Consolation
+      F  Sokolovskiy/Brown    def.  Koons/Karpinski      64
+     SQ  Koons/Karpinski      def.  Almeida/Leblanc      Default
+     SQ  Sokolovskiy/Brown    def.  Reid/Bierbaum        76(5)
+  > Playoff 3-4
+      F  Silva/Taramonlis     def.  Martin/Tsai          76(2)
+ > Phoenix Doubles
+  > Main
+      F  Simon/Vannemreddy    def.  Severin/Raptis       76(4)
+     SF  Simon/Vannemreddy    def.  Grewe/Zuckerman      64
+     SF  Severin/Raptis       def.  El Kadi/Marques Da … 64
+     QF  Grewe/Zuckerman      def.  Kliebhan/Keitelman   63
+     QF  Simon/Vannemreddy    def.  Campbell/Condos      64
+     QF  Severin/Raptis       def.  Knapp/Johns          76(6)
+     QF  El Kadi/Marques Da … def.  Ivanov/Lopez         63
+  > Consolation
+      F  Ivanov/Lopez         def.  Campbell/Condos      64
+     SQ  Campbell/Condos      def.  Kliebhan/Keitelman   64
+     SQ  Ivanov/Lopez         def.  Knapp/Johns          63
+ > Maroon Doubles
+  > Main
+      F  Zipay/Frankel        def.  Wyett/Rogowski       62
+     SF  Zipay/Frankel        def.  Fender/Thursfield    62
+     SF  Wyett/Rogowski       def.  Hernandez/Sadek      76(2)
+     QF  Fender/Thursfield    def.  Baran/Clarka         64
+     QF  Zipay/Frankel        def.  Walsh/Bell           64
+     QF  Hernandez/Sadek      def.  Mujan/Hagen          62
+     QF  Wyett/Rogowski       def.  Tobisch/Walser       63
+  > Consolation
+      F  Tobisch/Walser       def.  Walsh/Bell           64
+     SQ  Walsh/Bell           def.  Baran/Clarka         Default
+     SQ  Tobisch/Walser       def.  Mujan/Hagen          61
+  > Playoff 3-4
+      F  Fender/Thursfield    def.  Hernandez/Sadek      63
+ > Powell Doubles
+  > Main
+      F  Serra/Serra          def.  Baly/Blanco          64
+     SF  Serra/Serra          def.  Queiroz/Penagos      62
+     SF  Baly/Blanco          def.  Warning/Erwin        64
+     QF  Queiroz/Penagos      def.  Gwynn/Flisberg       62
+     QF  Serra/Serra          def.  Loogman/Martino      62
+     QF  Baly/Blanco          def.  Petrovic/Pena        63
+     QF  Warning/Erwin        def.  Crane/Vergine        64
+     16  Loogman/Martino      def.  Pino/Madzar          76(4)
+  > Consolation
+      F  Crane/Vergine        def.  Pino/Madzar          Default
+     SF  Pino/Madzar          def.  Gwynn/Flisberg       76(4)
+     SF  Crane/Vergine        def.  Petrovic/Pena        62
+  > Playoff 3-4
+      F  Warning/Erwin        def.  Queiroz/Penagos      62
 ~~~
 
 <a name="21-39721"></a>

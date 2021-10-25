@@ -15,6 +15,7 @@
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/1/2021 - [MSU Bulldog Invitational](#21-39463) ([Results](#21-39463) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77" target="_blank">Draws</a>)  
 - 10/1/2021 - [PNW Invitational](#21-08428) ([Results](#21-08428) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">Draws</a>)  
+- 10/1/2021 - [Ron Wesbrooks Invitational](#21-54933) ([Results](#21-54933) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LamarUniversityM/Tournaments/Overview/2BEDAA6E-9524-4B56-852C-F997C8133696" target="_blank">Draws</a>)  
 - 10/1/2021 - [South Carolina Men's Collegiate Championships](#21-25425) ([Results](#21-25425) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C61DDA49-6047-4361-9048-8658AEA3B344" target="_blank">Draws</a>)  
 - 10/1/2021 - [UD Hidden Dual](#21-83081) ([Results](#21-83081) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
@@ -23,6 +24,7 @@
 - 10/1/2021 - [Division III Men's Central ITA Regional Championships](#21-43730) ([Results](#21-43730) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/4C90304B-D821-474C-BB23-F898C365EF87" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
+- 10/1/2021 - [Division III Men’s Southeast ITA Regional Championships](#21-50059) ([Results](#21-50059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonM/Tournaments/Overview/8701EF80-DDC5-4BB0-861B-552EB3F1C862" target="_blank">Draws</a>)  
 - 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
@@ -30,12 +32,10 @@
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Arizona Wilcat Invitational</a>  
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Arizona Wildcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Beeman/Drobac Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LamarUniversityM/Tournaments/Overview/2BEDAA6E-9524-4B56-852C-F997C8133696" target="_blank">Ron Wesbrooks Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Division III Men's Northeast ITA Regional Championships</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonM/Tournaments/Overview/8701EF80-DDC5-4BB0-861B-552EB3F1C862" target="_blank">Division III Men’s Southeast ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
 - 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">NAIA Men’s & Women's Midwest ITA Regional Championships</a>  
 
@@ -1871,6 +1871,33 @@
      SF  Jackson Whittaker    def.  Joshua Matabuena     40 Ret.
 ~~~
 
+<a name="21-54933"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Ron Wesbrooks Invitational
+  Dates: Oct 1-3, 2021
+  Host: Lamar University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > East
+      F  Daniel Sancho Arbizu def.  Campbell Salmon 63 63
+     SF  Daniel Sancho Arbizu def.  Emilio Vila     63 62
+     SF  Campbell Salmon      def.  Diego Dalisay   64 76(1)
+     QF  Daniel Sancho Arbizu def.  Alex Stafford   60 62
+     QF  Emilio Vila          def.  Trinity Grear   61 64
+     QF  Campbell Salmon      def.  Jorge Juarez    36 62 [7]
+     QF  Diego Dalisay        def.  Max Amling      75 62
+  > West
+      F  Trinity Grear        def.  Max Amling      63 62
+     SF  Trinity Grear        def.  Alex Stafford   61 62
+     SF  Max Amling           def.  Jorge Juarez    60 63
+  > 3-4 Playoff
+      F  Emilio Vila           vs   Diego Dalisay   
+  > South
+      F  Alex Stafford        def.  Jorge Juarez    64 64
+~~~
+
 <a name="21-25425"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════════
@@ -2872,6 +2899,205 @@
      128      Adam Ryerse          def.      Nathan Bilan         60 64
      128      Alex Unger           def.      Harry Hawbaker       61 64
      128      George Steinke       def.      Surprise Taylor      62 61
+~~~
+
+<a name="21-50059"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════
+  Division III Men’s Southeast ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: Univ. Of Mary Washington (M)
+════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Championship Singles
+  > Main
+       F (5) Thomas Yu            def. (2) Moses Hutchison      61 61
+      SF (5) Thomas Yu            def. (1) Marcos Dias          Walkover
+      SF (2) Moses Hutchison      def. (9) Kevin Jiang          61 61
+      QF (1) Marcos Dias          def. (5) Brandon Aprill       76(3) 63
+      QF (5) Thomas Yu            def. (3) Charley Force        63 64
+      QF (9) Kevin Jiang          def. (4) Rohan Reddy          36 76(2) 63
+      QF (2) Moses Hutchison      def. (5) Karl Hoegstedt       63 62
+      16 (1) Marcos Dias          def. (9) Rushil Patel         61 60
+      16 (5) Brandon Aprill       def. (9) Jorge Figueroa       62 62
+      16 (3) Charley Force        def. (9) Nicholas Wernink     64 63
+      16 (5) Thomas Yu            def. (9) Rishi Charan Shankar 64 60
+      16 (9) Kevin Jiang          def. (5) Jonathan Nottingham  60 62
+      16 (4) Rohan Reddy          def. (9) Alec Strause         62 64
+      16 (5) Karl Hoegstedt       def.     Eli Hirshberg        60 61
+      16 (2) Moses Hutchison      def.     Evan Brady           64 61
+      32 (1) Marcos Dias          def.     Alex Fedor           62 61
+      32 (9) Rushil Patel         def.     Nick Spera           26 62 60
+      32 (5) Brandon Aprill       def.     Marco Azur           57 63 62
+      32 (9) Jorge Figueroa       def.     Mitchell Perry       63 63
+      32 (3) Charley Force        def.     Russell Willenborg   60 61
+      32 (9) Nicholas Wernink     def.     Andreas Wingert      63 62
+      32 (5) Thomas Yu            def.     Ben Porto            Walkover
+      32 (9) Rishi Charan Shankar def.     Martinho Goncalves   63 64
+      32 (9) Kevin Jiang          def.     Cole Tecce           75 62
+      32 (5) Jonathan Nottingham  def.     Brad Pappalardo      62 62
+      32 (9) Alec Strause         def.     Daniel Blonquist     64 75
+      32 (4) Rohan Reddy          def.     Will Kistler         63 60
+      32     Eli Hirshberg        def. (9) William Wang         62 36 62
+      32 (5) Karl Hoegstedt       def.     Philip Rehwinkel     61 26 63
+      32     Evan Brady           def.     George Jiang         26 62 63
+      32 (2) Moses Hutchison      def.     Josiah Myers-Lipton  36 62 64
+      64 (1) Marcos Dias          def.     Mikhail Grebenkin    61 61
+      64     Alex Fedor           def.     Theodor Risebrobakk… 75 61
+      64 (9) Rushil Patel         def.     Andrew Tran          60 62
+      64     Nick Spera           def.     Brian Kane           61 63
+      64 (5) Brandon Aprill       def.     Dorian Guiot         61 62
+      64     Marco Azur           def.     Connor Coleman       63 64
+      64 (9) Jorge Figueroa       def.     Keith Orr            63 61
+      64     Mitchell Perry       def.     Danny Loder          64 46 75
+      64 (3) Charley Force        def.     Andrew Watson        64 75
+      64     Russell Willenborg   def.     Adrian Charchalis    76(6) 62
+      64 (9) Nicholas Wernink     def.     Benton Drake         64 63
+      64     Andreas Wingert      def.     Landon Strober       62 75
+      64 (5) Thomas Yu            def.     Levi Vigdorchik      61 60
+      64     Ben Porto            def.     Juan Gomez           64 64
+      64 (9) Rishi Charan Shankar def.     Edvard Porsmyr Hans… 63 63
+      64     Martinho Goncalves   def.     Lars Jespersen       60 64
+      64     Cole Tecce           def.     Justin Pace          76(4) 64
+      64 (9) Kevin Jiang          def.     Abhinav Nallapareddy 61 61
+      64     Brad Pappalardo      def.     Michael Miller       76(5) 36 62
+      64 (5) Jonathan Nottingham  def.     Stephen Alam         63 60
+      64     Daniel Blonquist     def.     Karsten Lagerquist   61 62
+      64 (9) Alec Strause         def.     Nicolas Alvarado     60 62
+      64     Will Kistler         def.     Gabe Elder           60 60
+      64 (4) Rohan Reddy          def.     Felix Bevc           60 64
+      64     Eli Hirshberg        def.     Rufus Nurminen       62 64
+      64 (9) William Wang         def.     Daniel Ardila        76(4) 62
+      64     Philip Rehwinkel     def.     Tanner Bassett       64 61
+      64 (5) Karl Hoegstedt       def.     Ryan Macy            61 75
+      64     George Jiang         def.     Tristan Steffe       63 76(7)
+      64     Evan Brady           def. (9) James Yu             61 64
+      64     Josiah Myers-Lipton  def.     Benjamin Zhou        60 63
+      64 (2) Moses Hutchison      def.     Barrett Foster       63 61
+  > Consolation
+      16     Mikhail Grebenkin    def.     Andrew Tran          64 26 [3]
+      16     Connor Coleman       def.     Danny Loder          Walkover
+      16     Landon Strober       def.     Andrew Watson        Walkover
+      16     Justin Pace          def.     Michael Miller       62 60
+      16     Felix Bevc           def.     Karsten Lagerquist   62 62
+      16     Ryan Macy            def.     Daniel Ardila        Walkover
+      16     Benjamin Zhou        def. (9) James Yu             Walkover
+     32Q     Mikhail Grebenkin    def.     Theodor Risebrobakk… 64 62
+     32Q     Andrew Tran          def.     Brian Kane           61 61
+     32Q     Connor Coleman       def.     Dorian Guiot         Walkover
+     32Q     Danny Loder          def.     Keith Orr            61 76(6)
+     32Q     Andrew Watson        def.     Adrian Charchalis    Walkover
+     32Q     Landon Strober       def.     Benton Drake         63 62
+     32Q     Juan Gomez           def.     Levi Vigdorchik      Walkover
+     32Q     Edvard Porsmyr Hans… def.     Lars Jespersen       46 64 [0]
+     32Q     Justin Pace          def.     Abhinav Nallapareddy Walkover
+     32Q     Michael Miller       def.     Stephen Alam         63 16 [6]
+     32Q     Karsten Lagerquist   def.     Nicolas Alvarado     Walkover
+     32Q     Felix Bevc           def.     Gabe Elder           60 60
+     32Q     Daniel Ardila        def.     Rufus Nurminen       64 62
+     32Q     Ryan Macy            def.     Tanner Bassett       62 46 [8]
+     32Q (9) James Yu             def.     Tristan Steffe       61 61
+     32Q     Benjamin Zhou        def.     Barrett Foster       75 63
+ > B1 Singles
+  > Main
+      R3     Arjan Bedi           def.     Grant Dill           60 62
+      R3     Peter Leese          def.     Ryan Hellinger       63 30 Ret.
+      R2     Peter Leese          def.     Grant Dill           Walkover
+      R2     Arjan Bedi           def.     Ryan Hellinger       64 60
+      R1     Peter Leese          def.     Arjan Bedi           36 75 [7]
+      R1     Ryan Hellinger       def.     Grant Dill           Walkover
+ > B2 Singles
+  > Main
+       F     James Kurani         def.     Pedro Norte          64 64
+      SF     James Kurani         def.     Noah Criss           76(4) 61
+      SF     Pedro Norte          def.     Gianluca Beaujon     36 62 [11]
+      QF     Noah Criss           def.     Timothy Tep          62 62
+      QF     James Kurani         def.     Brady Burns          62 63
+      QF     Pedro Norte          def.     Michael Odrey        63 62
+      QF     Gianluca Beaujon     def.     Garrick Adams        62 62
+  > Consolation
+       F     Timothy Tep          def.     Garrick Adams        Walkover
+      SQ     Timothy Tep          def.     Brady Burns          76(5) 62
+      SQ     Garrick Adams        def.     Michael Odrey        63 75
+ > B3 Singles
+  > Main
+       F     Max Pogorelov        def.     Francis Cabaddu      75 46 [8]
+      SF     Max Pogorelov        def.     Ryan Meyer           60 61
+      SF     Francis Cabaddu      def.     Jaden DAbreo         64 76(5)
+      QF     Max Pogorelov        def.     Nicolas Stromberg    Walkover
+      QF     Ryan Meyer           def.     Justin Minerva       64 63
+      QF     Jaden DAbreo         def.     Matthew Dubuque      62 64
+      QF     Francis Cabaddu      def.     Isaac Rockower       62 57 [5]
+  > Consolation
+       F     Matthew Dubuque      def.     Justin Minerva       76(4) 60
+      SQ     Justin Minerva       def.     Nicolas Stromberg    Walkover
+      SQ     Matthew Dubuque      def.     Isaac Rockower       64 75
+ > B4 Singles
+  > Main
+       F     Artis Hart           def.     Andrew Cooper        46 50 Ret.
+      SF     Artis Hart           def.     Ryne Talko           64 61
+      SF     Andrew Cooper        def.     Rob Ritchie          63 62
+      QF     Artis Hart           def.     Will Oberholtzer     62 61
+      QF     Ryne Talko           def.     Tyler Hyun           75 63
+      QF     Andrew Cooper        def.     James McKenzie       36 75 [5]
+      QF     Rob Ritchie          def.     Chris Catan          75 61
+  > Consolation
+       F     Will Oberholtzer     def.     James McKenzie       36 62 [8]
+      SQ     Will Oberholtzer     def.     Tyler Hyun           63 62
+      SQ     James McKenzie       def.     Chris Catan          75 64
+ > B5 Singles
+  > Main
+       F     Tj Rudden            def.     Ryohei Kawai         61 62
+      SF     Tj Rudden            def.     Josh Bottrell        62 62
+      SF     Ryohei Kawai         def.     Luke McMUllen        57 64 [8]
+      QF     Josh Bottrell        def.     Matthew Ray          Walkover
+      QF     Tj Rudden            def.     Dawson Driscoll      63 62
+      QF     Ryohei Kawai         def.     Priyan Desilva       62 63
+      QF     Luke McMUllen        def.     Anthony Casale       63 63
+  > Consolation
+       F     Anthony Casale       def.     Dawson Driscoll      64 62
+      SF     Dawson Driscoll      def.     Josh Bottrell        60 62
+      SQ     Dawson Driscoll      def.     Matthew Ray          Walkover
+      SQ     Anthony Casale       def.     Priyan Desilva       Walkover
+ > B6 Singles
+  > Main
+       F     Drew Campbell        def.     Mason Kolls          75 61
+      SF     Drew Campbell        def.     Koby Bonta           36 76(5) [6]
+      SF     Mason Kolls          def.     Thomas Griffen       61 75
+      QF     Drew Campbell        def.     Jhayden Pappas       64 75
+      QF     Koby Bonta           def.     Darby Rogers         62 61
+      QF     Mason Kolls          def.     Foster Evans         62 46 [2]
+      QF     Thomas Griffen       def.     Mattes Wobbeler      62 64
+  > Consolation
+       F     Foster Evans         def.     Jhayden Pappas       26 60 [8]
+      SQ     Jhayden Pappas       def.     Darby Rogers         87(2)
+      SQ     Foster Evans         def.     Mattes Wobbeler      Walkover
+ > B7 Singles
+  > Main
+       F     Samuel Sheats        def.     Tyler Brice          63 63
+      SF     Tyler Brice          def.     Bennett Gazor        64 75
+      SF     Samuel Sheats        def.     Wayne Russell        60 63
+      QF     Tyler Brice          def.     Evgeniy Bogdasaryan  33 Ret.
+      QF     Bennett Gazor        def.     Adam Payne           Walkover
+      QF     Wayne Russell        def.     Mason Pitcher        62 46 [10]
+      QF     Samuel Sheats        def.     Justin Schuetz       63 Ret.
+  > Consolation
+       F     Mason Pitcher        def.     Adam Payne           Walkover
+      SQ     Adam Payne           def.     Evgeniy Bogdasaryan  Walkover
+      SQ     Mason Pitcher        def.     Justin Schuetz       Walkover
+ > B8 Singles
+  > Main
+       F     Omosesan Adebamgbe   def.     Alex Kulvivat        60 63
+      SF     Omosesan Adebamgbe   def.     Larry Johnson III    62 61
+      SF     Alex Kulvivat        def.     Matthew Gordon       57 75 [5]
+      QF     Omosesan Adebamgbe   def.     Jeffrey Bauer        63 61
+      QF     Larry Johnson III    def.     Cooper Brewen        63 75
+      QF     Matthew Gordon       def.     Christian Gruyon     26 76(3) [8]
+      QF     Alex Kulvivat        def.     Kier Nacua           75 61
+  > Consolation
+       F     Christian Gruyon     def.     Jeffrey Bauer        46 64 [3]
+      SQ     Jeffrey Bauer        def.     Cooper Brewen        Walkover
+      SQ     Christian Gruyon     def.     Kier Nacua           62 64
 ~~~
 
 <a name="21-76964"></a>

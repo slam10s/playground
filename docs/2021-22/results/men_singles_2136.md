@@ -1,11 +1,14 @@
 <a name="top"></a>[<< Prev](men_singles_2135.md) &nbsp; **Week #36 - Sep 6-12, 2021** &nbsp; [Next >>](men_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2136.md) &#124; [Women](./women_singles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2136.md) &#124; [Doubles](./men_doubles_2136.md)
 
 **Tournamets with Matches**  
+- 9/10/2021 - [10th Annual Villanova Invitation](#21-56790) ([Results](#21-56790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VillanovaUniversityM/Tournaments/Overview/831641B3-DB8F-4BD7-8D82-8308402A7AF5" target="_blank">Draws</a>)  
+- 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-26104) ([Results](#21-26104) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/B00BE0B9-F219-49D7-880F-72F7FA07C012" target="_blank">Draws</a>)  
 - 9/10/2021 - [2021 Dar Walters Classic](#21-19264) ([Results](#21-19264) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">Draws</a>)  
 - 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
 - 9/10/2021 - [Knoxville Showdown](#21-83681) ([Results](#21-83681) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/85DF336A-C5C2-4C22-AC59-717D6414EA8A" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
 - 9/10/2021 - [Orange Lawn Fall Invitational](#21-93144) ([Results](#21-93144) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Draws</a>)  
+- 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
 - 9/11/2021 - [St. Lawrence University Fall Classic](#21-93996) ([Results](#21-93996) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/3699D952-856D-4724-8FE8-12BD2237BE35" target="_blank">Draws</a>)  
@@ -15,11 +18,417 @@
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VillanovaUniversityM/Tournaments/Overview/831641B3-DB8F-4BD7-8D82-8308402A7AF5" target="_blank">10th Annual Villanova Invitation</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/B00BE0B9-F219-49D7-880F-72F7FA07C012" target="_blank">2021 Contender Crossfit Islander Open</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Battle of the Beach</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">River Forrest Collegiate Invitational</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
+
+<a name="21-56790"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  10th Annual Villanova Invitation
+  Dates: Sep 10-12, 2021
+  Host: Villanova University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Singles Match 1
+  > Main
+     F  Nickolas Frisk       def.  Thomas Yu            63 76(4)
+ > Singles Match 2
+  > Main
+     F  Alex Kim             def.  Stephen Wong         61 57 [6]
+ > Singles Match 3
+  > Main
+     F  James Yu             def.  Alp Sentay           26 63 [10]
+ > Singles Match 4
+  > Main
+     F  Ryan Nguyen          def.  Noah Criss           82
+ > Singles Match 5
+  > Main
+     F  Michael Fourticq     def.  Skyler Gates         63 60
+ > Singles Match 6
+  > Main
+     F  George Cavo          def.  Lukas Choi           86
+ > Singles Match 7
+  > Main
+     F  Zack Elliott         def.  Charlie Levinson     76(4) 62
+ > Singles Match 8
+  > Main
+     F  Mark Blekhman        def.  Nate Romig           83
+ > Singles Match 9
+  > Main
+     F  Joshua Robinson      def.  Benjamin Glezer      60 61
+ > Singles Match 10
+  > Main
+     F  Eitan Khromchenko    def.  Ryan Boland          83
+ > Singles Match 11
+  > Main
+     F  Charley Force        def.  Tejas Gupta          60 61
+ > Singles Match 12
+  > Main
+     F  Rushil Patel         def.  Mike Thomas          86
+ > Singles Match 13
+  > Main
+     F  Rohan Reddy          def.  Jack Selati          64 63
+ > Singles Match 14
+  > Main
+     F  Daniel Ardila        def.  Rohan Gupta          85
+ > Singles Match 15
+  > Main
+     F  Nathan Perrone       def.  Matt Kleiman         63 61
+ > Singles Match 16
+  > Main
+     F  Eshan Kanetkar       def.  Jeremy Learner       62 62
+ > Singles Match 17
+  > Main
+     F  Noah Winton          def.  Oliver Davey         64 63
+ > Singles Match 18
+  > Main
+     F  Matthew Jones        def.  Colin Corsini        86
+ > Singles Match 19
+  > Main
+     F  Josh Israel          def.  Philip Rehwinkel     63 62
+ > Singles Match 20
+  > Main
+     F  Mikey Weitz          def.  Grant Dill           85
+ > Singles Match 21
+  > Main
+     F  Jordan Paul          def.  Edik Pribitkin       63 64
+ > Singles Match 22
+  > Main
+     F  Michael Bukhalo      def.  Matt Cardano         63 64
+ > Singles Match 23
+  > Main
+     F  Nassim Fenjiro       def.  Andrew Tran          60 63
+ > Singles Match 24
+  > Main
+     F  Alex Kernagis        def.  Alexander MacNeil    86
+ > Singles Match 25
+  > Main
+     F  Liam Rompere         def.  William Gatti        75 57 [4]
+ > Singles Match 26
+  > Main
+     F  Collin Klumb         def.  Jorge Quintana       84
+ > Singles Match 27
+  > Main
+     F  Gary Fishkin         def.  Ryan Hellinger       36 61 [3]
+ > Singles Match 28
+  > Main
+     F  Andrew Nakhjavan     def.  Nick Charanjiva      64 64
+ > Singles Match 29
+  > Main
+     F  Anthony Prokurat     def.  Tyler Mast           62 60
+ > Singles Match 30
+  > Main
+     F  Justin Suarez        def.  Gilberto Rivera-Gor… 67(4) 60 [16]
+ > Singles Match 31
+  > Main
+     F  Thomas Yu            def.  Alex Kim             75 62
+ > Singles Match 32
+  > Main
+     F  Ryan Nguyen          def.  James Yu             64 76(3)
+ > Singles Match 33
+  > Main
+     F  Zack Elliott         def.  Michael Fourticq     85
+ > Singles Match 34
+  > Main
+     F  Mark Blekhman        def.  Lukas Choi           61 62
+ > Singles Match 35
+  > Main
+     F  Charley Force        def.  Joshua Robinson      83
+ > Singles Match 36
+  > Main
+     F  Rushil Patel         def.  Eitan Khromchenko    63 61
+ > Singles Match 37
+  > Main
+     F  Daniel Ardila        def.  Eshan Kanetkar       36 64 [5]
+ > Singles Match 38
+  > Main
+     F  Charlie Levinson     def.  Skyler Gates         63 64
+ > Singles Match 39
+  > Main
+     F  George Cavo          def.  Nate Romig           61 64
+ > Singles Match 40
+  > Main
+     F  Tejas Gupta          def.  Benjamin Glezer      83
+ > Singles Match 41
+  > Main
+     F  Mike Thomas          def.  Ryan Boland          63 26 [5]
+ > Singles Match 42
+  > Main
+     F  Matt Kleiman         def.  Jack Selati          46 64 [6]
+ > Singles Match 43
+  > Main
+     F  Jeremy Learner       def.  Rohan Gupta          61 64
+ > Singles Match 44
+  > Main
+     F  Josh Israel          def.  Noah Winton          81
+ > Singles Match 45
+  > Main
+     F  Matthew Jones        def.  Mikey Weitz          76(6) 76
+ > Singles Match 46
+  > Main
+     F  Michael Bukhalo      def.  Alexander MacNeil    63 62
+ > Singles Match 47
+  > Main
+     F  Liam Rompere         def.  Gary Fishkin         63 36 [10]
+ > Singles Match 48
+  > Main
+     F  Andrew Nakhjavan     def.  Jorge Quintana       63 16 [7]
+ > Singles Match 49
+  > Main
+     F  Benito Vlassis       def.  Anthony Prokurat     81
+ > Singles Match 50
+  > Main
+     F  Justin Suarez        def.  Nick Potter          46 63 [8]
+ > Singles Match 51
+  > Main
+     F  Philip Rehwinkel     def.  Oliver Davey         64 61
+ > Singles Match 52
+  > Main
+     F  Colin Corsini        def.  Grant Dill           67(5) 63 [6]
+ > Singles Match 53
+  > Main
+     F  Andrew Tran          def.  Edik Pribitkin       83
+ > Singles Match 54
+  > Main
+     F  Matt Cardano         def.  Alex Kernagis        63 61
+ > Singles Match 55
+  > Main
+     F  William Gatti        def.  Ryan Hellinger       36 76(4) [3]
+ > Singles Match 56
+  > Main
+     F  Collin Klumb         def.  Nick Charanjiva      76(4) 36 [5]
+ > Singles Match 57
+  > Main
+     F  Mark Blekhman        def.  James Yu             84
+ > Singles Match 58
+  > Main
+     F  Charley Force        def.  Rohan Reddy          76(5) 46 [10]
+ > Singles Match 59
+  > Main
+     F  Daniel Ardila        def.  Rushil Patel         64 76(4)
+ > Singles Match 60
+  > Main
+     F  Charlie Levinson     def.  Stephen Wong         83
+ > Singles Match 61
+  > Main
+     F  Noah Criss           def.  Nate Romig           82
+ > Singles Match 62
+  > Main
+     F  Matt Kleiman         def.  Tejas Gupta          84
+ > Singles Match 63
+  > Main
+     F  Jeremy Learner       def.  Mike Thomas          84
+ > Singles Match 64
+  > Main
+     F  Michael Fourticq     def.  Alex Kim             82
+ > Singles Match 65
+  > Main
+     F  Ryan Nguyen          def.  Lukas Choi           81
+ > Singles Match 66
+  > Main
+     F  Jack Selati          def.  Benjamin Glezer      82
+ > Singles Match 67
+  > Main
+     F  Rohan Gupta          def.  Ryan Boland          83
+ > Singles Match 68
+  > Main
+     F  Jordan Paul          def.  Noah Winton          61 60
+ > Singles Match 69
+  > Main
+     F  Matthew Jones        def.  Michael Bukhalo      84
+ > Singles Match 70
+  > Main
+     F  Anthony Prokurat     def.  Liam Rompere         64 61
+ > Singles Match 71
+  > Main
+     F  Justin Suarez        def.  Jorge Quintana       64 62
+ > Singles Match 72
+  > Main
+     F  Edik Pribitkin       def.  Philip Rehwinkel     98(3)
+ > Singles Match 73
+  > Main
+     F  Matt Cardano         def.  Grant Dill           84
+ > Singles Match 74
+  > Main
+     F  Daniel Cheng         def.  Tyler Mast           82
+ > Singles Match 75
+  > Main
+     F  Gilberto Rivera-Gor… def.  Collin Klumb         84
+ > Singles Match 76
+  > Main
+     F  Gary Fishkin         def.  Benito Vlassis       81
+ > Singles Match 77
+  > Main
+     F  Andrew Tran          def.  Oliver Davey         85
+ > Singles Match 78
+  > Main
+     F  Alex Kernagis        def.  Colin Corsini        86
+ > Singles Match 79
+  > Main
+     F  Zack Elliott         def.  Rohan Reddy          62 76(5)
+ > Singles Match 80
+  > Main
+     F  Mark Blekhman        def.  Daniel Ardila        75 60
+ > Singles Match 81
+  > Main
+     F  Charley Force        def.  Thomas Yu            82
+ > Singles Match 82
+  > Main
+     F  Rushil Patel         def.  James Yu             86
+ > Singles Match 83
+  > Main
+     F  Joshua Robinson      def.  Alex Kim             61 36 [8]
+ > Singles Match 84
+  > Main
+     F  Ryan Nguyen          def.  Eitan Khromchenko    75 57 [8]
+ > Singles Match 85
+  > Main
+     F  Stephen Wong         def.  Matt Kleiman         83
+ > Singles Match 86
+  > Main
+     F  Jeremy Learner       def.  Noah Criss           82
+ > Singles Match 87
+  > Main
+     F  Mike Thomas          def.  Nate Romig           85
+ > Singles Match 88
+  > Main
+     F  Jack Selati          def.  Skyler Gates         84
+ > Singles Match 89
+  > Main
+     F  George Cavo          def.  Rohan Gupta          85
+ > Singles Match 90
+  > Main
+     F  Michael Bukhalo      def.  Justin Suarez        36 63 [6]
+ > Singles Match 91
+  > Main
+     F  Noah Winton          def.  Liam Rompere         82
+ > Singles Match 92
+  > Main
+     F  Matthew Jones        def.  Jorge Quintana       84
+ > Singles Match 93
+  > Main
+     F  Josh Israel          def.  Gary Fishkin         82
+ > Singles Match 94
+  > Main
+     F  Mikey Weitz          def.  Andrew Nakhjavan     86
+ > Singles Match 95
+  > Main
+     F  Edik Pribitkin       def.  Collin Klumb         84
+ > Singles Match 96
+  > Main
+     F  Matt Cardano         def.  William Gatti        83
+ > Singles Match 97
+  > Main
+     F  Philip Rehwinkel     def.  Tyler Mast           83
+ > Singles Match 98
+  > Main
+     F  Gilberto Rivera-Gor… def.  Grant Dill           85
+~~~
+
+<a name="21-26104"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  2021 Contender Crossfit Islander Open
+  Dates: Sep 10-12, 2021
+  Host: Texas A&M University, Corpus Christi (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > East
+      F  Joao Ceolin          def.  Cash Hanzlik         Walkover
+     SF  Cash Hanzlik         def.  Joaquin Bianchi      46 75 [7]
+     SF  Joao Ceolin          def.  Tomas Reche          62 63
+     QF  Cash Hanzlik         def.  Daichi Akiyoshi      62 60
+     QF  Joaquin Bianchi      def.  Ryuya Ata            63 75
+     QF  Tomas Reche          def.  Ulysse Bertrand      75 63
+     QF  Joao Ceolin          def.  Mykhailo Kvantaliani 61 64
+  > West
+      F  Ryuya Ata            def.  Ulysse Bertrand      62 75
+     SF  Ryuya Ata            def.  Daichi Akiyoshi      36 63 63
+     SF  Ulysse Bertrand      def.  Mykhailo Kvantaliani 62 64
+  > 3-4 Playoff
+      F  Tomas Reche          def.  Joaquin Bianchi      Walkover
+  > South
+      F  Daichi Akiyoshi      def.  Mykhailo Kvantaliani Walkover
+ > Flight C
+  > East
+      F  Matthieu Peres       def.  Max Amling           57 64 [10]
+     SF  Max Amling           def.  Emilio Vila          62 62
+     SF  Matthieu Peres       def.  Joao Sasso           64 62
+     QF  Max Amling           def.  Ricardo Alban        46 62 62
+     QF  Emilio Vila          def.  Egor Shestakov       60 76(3)
+     QF  Matthieu Peres       def.  Matt Shearer         64 Ret.
+     QF  Joao Sasso           def.  Gonzalo Fernandez    64 36 63
+  > West
+      F  Matt Shearer         def.  Egor Shestakov       63 76(3)
+     SF  Egor Shestakov       def.  Ricardo Alban        61 63
+     SF  Matt Shearer         def.  Gonzalo Fernandez    61 64
+  > 3-4 Playoff
+      F  Joao Sasso           def.  Emilio Vila          64 57 [7]
+  > South
+      F  Gonzalo Fernandez    def.  Ricardo Alban        Walkover
+ > Flight D
+  > East
+      F  Solano Caffarena     def.  Maxim Groysman       76(4) 76(5)
+     SF  Solano Caffarena     def.  Sam Whitehead        75 75
+     SF  Maxim Groysman       def.  Warren Fulgenzi      46 63 [13]
+     QF  Solano Caffarena     def.  Jakob Mosvold        61 62
+     QF  Sam Whitehead        def.  Leon Sell            63 75
+     QF  Warren Fulgenzi      def.  Mikaeel Woodman      64 46 64
+     QF  Maxim Groysman       def.  Moritz Mayer         63 16 64
+  > West
+      F  Moritz Mayer         def.  Jakob Mosvold        63 75
+     SF  Jakob Mosvold        def.  Leon Sell            64 64
+     SF  Moritz Mayer         def.  Mikaeel Woodman      75 75
+  > 3-4 Playoff
+      F  Warren Fulgenzi      def.  Sam Whitehead        60 60
+  > South
+      F  Mikaeel Woodman      def.  Leon Sell            Walkover
+ > Flight E
+  > East
+      F  Miguel Alonso        def.  Ivan Smith           57 75 [1]
+     SF  Ivan Smith           def.  Joshua Taylor        64 63
+     SF  Miguel Alonso        def.  Arnau Miralles Lopez 62 60
+     QF  Ivan Smith           def.  Yudai Watanabi       60 60
+     QF  Joshua Taylor        def.  Peter Blair          61 62
+     QF  Arnau Miralles Lopez def.  Christopher Lawrance 63 61
+     QF  Miguel Alonso        def.  Jonas Dixon          61 63
+  > West
+     SF  Yudai Watanabi       def.  Peter Blair          46 76(4) [8]
+     SF  Jonas Dixon          def.  Christopher Lawrance 64 64
+  > 3-4 Playoff
+      F  Arnau Miralles Lopez def.  Joshua Taylor        64 61
+  > South
+      F  Christopher Lawrance def.  Peter Blair          76(4) 57 [3]
+ > Flight F
+  > East
+      F  Noah DeLuna          def.  Jonah Smith          61 61
+     SF  Noah DeLuna          def.  Jorge Sala           62 61
+     SF  Jonah Smith          def.  Ernesto Mealla       Walkover
+     QF  Noah DeLuna          def.  Arthur Bugeaud       63 63
+     QF  Jonah Smith          def.  Alberto Rodriguez    63 75
+  > West
+      F  Arthur Bugeaud       def.  Alberto Rodriguez    60 60
+  > 3-4 Playoff
+      F  Jorge Sala           def.  Ernesto Mealla       Walkover
+ > Flight B
+  > East
+      F  Nathan Schwartz      def.  Diego Dalisay        64 61
+     SF  Diego Dalisay        def.  Carlo Izurieta       62 26 [8]
+     SF  Nathan Schwartz      def.  Alvaro Saint Martin  67(4) 63 [5]
+     QF  Diego Dalisay        def.  Brandon Do           62 61
+     QF  Carlo Izurieta       def.  Borja Delgado        61 16 61
+     QF  Alvaro Saint Martin  def.  Marwin Kralemann     63 61
+     QF  Nathan Schwartz      def.  Garrett Skelly       62 64
+  > West
+      F  Garrett Skelly       def.  Brandon Do           52 Ret.
+     SF  Brandon Do           def.  Borja Delgado        63 64
+     SF  Garrett Skelly       def.  Marwin Kralemann     76(3) 63
+  > 3-4 Playoff
+      F  Alvaro Saint Martin  def.  Carlo Izurieta       46 63 [9]
+  > South
+      F  Marwin Kralemann     def.  Borja Delgado        Walkover
+~~~
 
 <a name="21-19264"></a>
 ~~~
@@ -391,6 +800,140 @@
  > Extra Match 2
   > Main
       F  Bill Duo             def.  Tal Goodman          63 61
+~~~
+
+<a name="21-88961"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  River Forrest Collegiate Invitational
+  Dates: Sep 10-11, 2021
+  Host: Northern Illinois Univ. (M)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight 1
+  > East
+      F  Abhi Ramireddy       def.  Laurentiu Mandocescu 76(3) 16 [8]
+     SF  Abhi Ramireddy       def.  Brett Winters        46 75 [9]
+     SF  Laurentiu Mandocescu def.  Pelle Strandberg     61 76(5)
+     QF  Brett Winters        def.  Nam Pham             61 63
+     QF  Abhi Ramireddy       def.  Kristopher Ortega    57 64 [9]
+     QF  Pelle Strandberg     def.  Theo Ortis           76(5) 64
+     QF  Laurentiu Mandocescu def.  Christos Kyrillou    62 62
+  > West
+      F  Nam Pham             def.  Theo Ortis           62 60
+     SF  Nam Pham             def.  Kristopher Ortega    62 64
+     SF  Theo Ortis           def.  Christos Kyrillou    63 76(3)
+  > 3-4 Playoff
+      F  Pelle Strandberg     def.  Brett Winters        61 60
+  > South
+      F  Christos Kyrillou    def.  Kristopher Ortega    63 10 Ret.
+ > Flight 6
+  > East
+      F  Armin Koschtojan     def.  Melker Isaksson      61 26 [8]
+     SF  Melker Isaksson      def.  Shashank Reddy       64 63
+     SF  Armin Koschtojan     def.  John Fakouri         75 64
+     QF  Shashank Reddy       def.  Ruslan Pultz         61 61
+     QF  Melker Isaksson      def.  Luiz Dos Santos      61 64
+     QF  John Fakouri         def.  Asier Pena Ibanez    67(3) 63 [9]
+     QF  Armin Koschtojan     def.  Jonathan Sadowski    46 60 [4]
+  > West
+      F  Asier Pena Ibanez    def.  Luiz Dos Santos      62 06 [7]
+     SF  Luiz Dos Santos      def.  Ruslan Pultz         63 60
+     SF  Asier Pena Ibanez    def.  Jonathan Sadowski    76(5) 63
+  > 3-4 Playoff
+      F  Shashank Reddy       def.  John Fakouri         67(4) 64 [12]
+  > South
+      F  Jonathan Sadowski    def.  Ruslan Pultz         76(13) 62
+ > Flight 2
+  > East
+      F  Oliver Valentinsson  def.  Francesco Tacconni   63 61
+     SF  Francesco Tacconni   def.  Ryan Cahill          64 64
+     SF  Oliver Valentinsson  def.  Ryota Fukushima      64 64
+     QF  Francesco Tacconni   def.  Pol Botifoll Rius    62 64
+     QF  Ryan Cahill          def.  David Alvarez Moreno 62 61
+     QF  Oliver Valentinsson  def.  Gaurav Singh         16 61 [5]
+     QF  Ryota Fukushima      def.  Thomas Wallace       62 61
+  > West
+     SF  Pol Botifoll Rius    def.  David Alvarez Moreno 67(3) 63 [4]
+     SF  Gaurav Singh         def.  Thomas Wallace       63 62
+  > 3-4 Playoff
+      F  Ryota Fukushima      def.  Ryan Cahill          64 63
+  > South
+      F  David Alvarez Moreno def.  Thomas Wallace       67(4) 60 [5]
+ > Flight 4
+  > East
+      F  Mikael Vollbach      def.  Cambell Nakayama     61 36 [8]
+     SF  Mikael Vollbach      def.  Anthony Nguyen       62 16 [7]
+     SF  Cambell Nakayama     def.  Dominick Cuchran     63 06 [7]
+     QF  Anthony Nguyen       def.  Sam Komis            60 36 [7]
+     QF  Mikael Vollbach      def.  Adam Behun           62 57 [4]
+     QF  Cambell Nakayama     def.  Tyler Carlin         75 63
+     QF  Dominick Cuchran     def.  Nathan Favier        36 63 [3]
+  > West
+     SF  Adam Behun           def.  Sam Komis            76(5) 75
+     SF  Nathan Favier        def.  Tyler Carlin         61 61
+  > 3-4 Playoff
+      F  Dominick Cuchran     def.  Anthony Nguyen       75 61
+  > South
+      F  Sam Komis            def.  Tyler Carlin         62 60
+ > Flight 3
+  > East
+      F  Gustavo Schwebel     def.  Charlie Temming      76(3) 61
+     SF  Gustavo Schwebel     def.  Jared Phillips       64 64
+     SF  Charlie Temming      def.  Oscar Alvarez        63 64
+     QF  Jared Phillips       def.  Mikko Malinen        64 62
+     QF  Gustavo Schwebel     def.  Diego Le Gal Perez   16 64 [8]
+     QF  Oscar Alvarez        def.  Javi Pla             26 75 [7]
+     QF  Charlie Temming      def.  Pau Riera            61 46 [7]
+  > West
+     SF  Javi Pla             def.  Pau Riera            63 46 [5]
+  > 3-4 Playoff
+      F  Jared Phillips       def.  Oscar Alvarez        76(3) 60
+ > Flight 5
+  > East
+      F  Marco Pennelli       def.  Henri Ohl            60 62
+     SF  Marco Pennelli       def.  Victor Spolidorio    75 16 [9]
+     SF  Henri Ohl            def.  Kevin Kruzel         67(5) 63 [9]
+     QF  Marco Pennelli       def.  Arvid Hjalte         62 76(2)
+     QF  Victor Spolidorio    def.  Pavel Badaiants      62 64
+     QF  Kevin Kruzel         def.  William Everett      75 64
+     QF  Henri Ohl            def.  Max Pilipovic-Kljaj… 64 62
+  > West
+     SF  Pavel Badaiants      def.  Arvid Hjalte         64 62
+     SF  William Everett      def.  Max Pilipovic-Kljaj… Walkover
+  > 3-4 Playoff
+      F  Victor Spolidorio    def.  Kevin Kruzel         61 61
+  > South
+      F  Arvid Hjalte         def.  Max Pilipovic-Kljaj… 61 63
+ > Flight 7
+  > Main
+     16  Shu-Lun Chang        def.  Aaron Thompson       64 75
+     16  Daan Bank            def.  Dominic Macaluso     60 67(4) [4]
+     16  Ammar Wazir          def.  Zane Kohrs           62 63
+     16  Artem Iermolov       def.  Nick Loudermilk      61 64
+     16  Min-Chieh Chiu       def.  Christopher Knutson  64 62
+     16  Jake Zipoli          def.  Theo Duclos          61 75
+ > Flight 7 round 2
+  > Main
+     16  Aaron Thompson       def.  Zacharias Rasmusson  46 63 [5]
+     16  Jake Zipoli          def.  Daan Bank            64 64
+     16  Ammar Wazir          def.  Kushal Marri         60 61
+     16  Zane Kohrs           def.  Theo Duclos          61 60
+     16  Artem Iermolov       def.  Christopher Knutson  64 67(6) [9]
+ > Flight 7 round 3
+  > Main
+     QF  Christopher Knutson  def.  Kushal Marri         62 62
+     QF  Zane Kohrs           def.  Dominic Macaluso     61 62
+     QF  Ammar Wazir          def.  Aaron Thompson       36 62 [5]
+ > Replaced matches
+  > Main
+     QF  Diego Le Gal Perez   def.  Pascal Mosberger     36 76(5) [5]
+     QF  Pau Riera            def.  Nick Loudermilk      36 76(4) [5]
+     QF  Adam Behun           def.  Javi Pla             76(5) 76(5)
+     QF  Shu-Lun Chang        def.  Max Pilipovic-Kljaj… 61 63
+ > Replaced matches 2
+  > Main
+      F  Pavel Badaiants      def.  Shu-Lun Chang        64 46 [6]
 ~~~
 
 <a name="21-95655"></a>

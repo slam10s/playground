@@ -1,8 +1,6 @@
-<a name="top"></a>[<< Prev](men_singles_2141.md) &nbsp; **Week #42 - Oct 18-24, 2021** &nbsp; [Next >>](men_singles_2143.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2142.md) &#124; [Women](./women_singles_2142.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2142.md) &#124; [Doubles](./men_doubles_2142.md)
+<a name="top"></a>[<< Prev](men_singles_2142.md) &nbsp; **Week #43 - Oct 25-31, 2021** &nbsp; [Next >>](men_singles_2144.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2143.md) &#124; [Women](./women_singles_2143.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2143.md) &#124; [Doubles](./men_doubles_2143.md)
 
 **Tournamets with Matches**  
-- 10/14/2021 - [ITA Division I Men's Northeast Regional Championship](#21-34853) ([Results](#21-34853) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">Draws</a>)  
-- 10/22/2021 - [Islander Open](#21-65872) ([Results](#21-65872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/A170BFCF-49FB-4619-AEA2-0BF545C38F08" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Men's Atlantic Super Regional Championship](#21-69139) ([Results](#21-69139) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OldDominionUniversityM/Tournaments/Overview/E9C8EB3D-E4DF-474A-A6B4-6B1FEA7BE33A" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Men's Carolina Regional Championship](#21-42333) ([Results](#21-42333) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/3619E668-F531-4330-85DA-E1542DDFC2FD" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Central Regional Championship](#21-50726) ([Results](#21-50726) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNebraskaM/Tournaments/Overview/5C06D6C9-B27E-4C47-A3E5-6CFEE67B302C" target="_blank">Draws</a>)  
@@ -10,222 +8,20 @@
 - 10/22/2021 - [ITA Division I Men's Northwest Super Regional Championship](#21-64957) ([Results](#21-64957) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonM/Tournaments/Overview/FCD50A53-E765-4641-A4EF-4F8678B573CA" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
-- 10/22/2021 - [Eagle Invitational](#21-28500) ([Results](#21-28500) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Draws</a>)  
-- 10/22/2021 - [GSC Fall Individual Tournament](#21-93512) ([Results](#21-93512) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">Draws</a>)  
-- 10/22/2021 - [MSU Invitational](#21-16812) ([Results](#21-16812) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">Draws</a>)  
-- 10/22/2021 - [YTF Southeastern Invitational](#21-42214) ([Results](#21-42214) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">Draws</a>)  
 
-**Tournaments without Matches**  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
-- 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaM/Tournaments/Overview/A9056FEF-25AD-4F2E-9338-1E7D25480DA0" target="_blank">UNA Men's Classic</a>  
-- 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Crusader Invitational</a>  
-- 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/7E100217-7269-401A-99AA-F3C782FC0593" target="_blank">MIT Classic</a>  
-- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">MIT Invite</a>  
-
-<a name="21-34853"></a>
-~~~
-══════════════════════════════════════════════════════════════════════════════════
-  ITA Division I Men's Northeast Regional Championship
-  Dates: Oct 14-19, 2021
-  Host: Univ. Of Pennsylvania (M)
-══════════════════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > Main Singles Draw
-  > Main
-       F  (1) Alafia Ayeni         def.  (8) Max Westphal         67(7) 76(5) 63
-      SF  (1) Alafia Ayeni         def.  (4) Harris Walker        76(8) 62
-      SF  (8) Max Westphal         def. (26) Daniel Milavsky      61 60
-      QF  (1) Alafia Ayeni         def.  (6) Ronan Jachuck        64 75
-      QF  (4) Harris Walker        def.  (7) Brian Shi            26 61 62
-      QF (26) Daniel Milavsky      def.  (5) Edoardo Graziani     63 62
-      QF  (8) Max Westphal         def. (15) Michael Sun          63 60
-      16  (1) Alafia Ayeni         def.      David Lins           57 61 60
-      16  (6) Ronan Jachuck        def. (10) Thomas Bosancic      75 61
-      16  (4) Harris Walker        def. (13) Radu Papoe           64 64
-      16  (7) Brian Shi            def.  (9) Justin Barki         75 64
-      16  (5) Edoardo Graziani     def.      Ben Gollin           63 62
-      16 (26) Daniel Milavsky      def.      Axel Vila Antuna     63 64
-      16  (8) Max Westphal         def. (31) Niels Van Noord      63 61
-      16 (15) Michael Sun          def.  (2) Alex Kotzen          64 36 75
-      32  (1) Alafia Ayeni         def. (20) Carlos Guerrero Alv… 75 60
-      32      David Lins           def. (14) Damian Rodriguez     63 36 64
-      32  (6) Ronan Jachuck        def. (27) Harsh Parikh         75 16 76(2)
-      32 (10) Thomas Bosancic      def.      Ishaan Ravichander   61 62
-      32  (4) Harris Walker        def. (11) Hugo Hashimoto       62 63
-      32 (13) Radu Papoe           def. (17) Theo Dean            62 64
-      32  (9) Justin Barki         def.      Teodors Pukse        62 64
-      32  (7) Brian Shi            def. (25) Ching Lam            61 61
-      32  (5) Edoardo Graziani     def. (24) Austen Huang         63 61
-      32      Ben Gollin           def.      Lucca Silva          76(2) 62
-      32      Axel Vila Antuna     def. (23) Henry Ruger          26 61 61
-      32 (26) Daniel Milavsky      def.  (3) Karl Poling          75 75
-      32  (8) Max Westphal         def. (29) Adit Sinha           63 64
-      32 (31) Niels Van Noord      def. (19) Kaya Gore            64 63
-      32 (15) Michael Sun          def. (32) Aj Woodman           64 46 63
-      32  (2) Alex Kotzen          def. (30) Steven Sun           61 63
-      64  (1) Alafia Ayeni         def.      Nicholas Lorenz      61 61
-      64 (20) Carlos Guerrero Alv… def.      Jan Semerak          76(6) 63
-      64      David Lins           def. (21) Aditya Gupta         64 46 64
-      64 (14) Damian Rodriguez     def.      Carl Gustavson       36 60 64
-      64  (6) Ronan Jachuck        def.      Justas Trainauskas   64 61
-      64 (27) Harsh Parikh         def.      Udayan Bhakar        61 62
-      64      Ishaan Ravichander   def. (28) Alejandro Quiles     46 61 60
-      64 (10) Thomas Bosancic      def.      Renaud Lefevre       67(5) 63 64
-      64  (4) Harris Walker        def.      Jack McCarthy        60 63
-      64 (11) Hugo Hashimoto       def.      Amine El Kholti      63 61
-      64 (17) Theo Dean            def.      Giuseppe de Camelis  64 62
-      64 (13) Radu Papoe           def.      Pablo Salar Carrera  60 61
-      64  (9) Justin Barki         def.      Charles Morkel       67(3) 62 61
-      64      Teodors Pukse        def. (22) Jason Hildebrandt    64 01 Ret.
-      64 (25) Ching Lam            def.      Bo Cautaerts         63 36 64
-      64  (7) Brian Shi            def.      Hikaru Takeda        64 62
-      64  (5) Edoardo Graziani     def.      Anders Gibbons       62 62
-      64 (24) Austen Huang         def.      Mark Blekhman        60 76(3)
-      64      Ben Gollin           def. (18) Ignacio Garcia       46 63 64
-      64      Lucca Silva          def. (12) Vladislav Melnic     75 57 63
-      64      Axel Vila Antuna     def. (16) Kevin Zhu            63 62
-      64 (23) Henry Ruger          def.      Nathan Mao           75 36 75
-      64 (26) Daniel Milavsky      def.      Niraj Komatineni     62 62
-      64  (3) Karl Poling          def.      Gustavo Pinho        75 60
-      64  (8) Max Westphal         def.      Alan Jesudason       64 64
-      64 (29) Adit Sinha           def.      Bill Duo             61 36 64
-      64 (19) Kaya Gore            def.      Xandy Hammitt        63 75
-      64 (31) Niels Van Noord      def.      Aidan Reilly         63 61
-      64 (15) Michael Sun          def.      Jonathan Olive-Blan… 64 46 62
-      64 (32) Aj Woodman           def.      Jayden Templeman     60 36 64
-      64 (30) Steven Sun           def.      Diego Serra Sparrow  62 64
-      64  (2) Alex Kotzen          def.      Rex Tang             61 61
-     128      Nicholas Lorenz      def.      Diego Huttepain      26 63 76(4)
-     128      Jan Semerak          def.      Manuel Alonso        62 60
-     128      David Lins           def.      Zack Elliott         67(4) 63 76(5)
-     128      Carl Gustavson       def.      Victor Castro        60 64
-     128      Justas Trainauskas   def.      Sanil Jagtiani       61 62
-     128      Udayan Bhakar        def.      Ayato Arakaki        36 63 63
-     128      Ishaan Ravichander   def.      Michael Pawlowicz    61 10 Ret.
-     128      Renaud Lefevre       def.      Juan Paredes         60 63
-     128      Jack McCarthy        def.      Andrew Ilie          64 61
-     128      Amine El Kholti      def.      Baylor Sai           16 76(4) 10 Def.
-     128      Giuseppe de Camelis  def.      Santiago Galan       63 61
-     128      Pablo Salar Carrera  def.      William Chen         62 64
-     128      Charles Morkel       def.      Thomas Lake          76(6) 61
-     128      Teodors Pukse        def.      Jan Godfrey-Seno     64 62
-     128      Bo Cautaerts         def.      Jack Selati          63 26 63
-     128      Hikaru Takeda        def.      Dmitry Bezborodov    26 62 63
-     128      Anders Gibbons       def.      Filippos Astreinidis 61 63
-     128      Mark Blekhman        def.      Trevor Masi          16 63 63
-     128      Ben Gollin           def.      Simon Wibler         76(2) 46 63
-     128      Lucca Silva          def.      Abdullah Fouad       63 63
-     128      Axel Vila Antuna     def.      Tomas del Olmo       63 63
-     128      Nathan Mao           def.      Shervin Dehmoubed    62 46 33 Ret.
-     128      Niraj Komatineni     def.      Dylan Friedman       63 61
-     128      Gustavo Pinho        def.      Alex Knox-Jones      63 62
-     128      Alan Jesudason       def.      Zachery Lim          64 64
-     128      Bill Duo             def.      Yaron Guberman       62 63
-     128      Xandy Hammitt        def.      Samuel Eden          46 76(4) 62
-     128      Aidan Reilly         def.      Alessandro DAnna     62 63
-     128      Jonathan Olive-Blan… def.      Rohan Gupta          63 57 75
-     128      Jayden Templeman     def.      Daniel Webb          61 63
-     128      Diego Serra Sparrow  def.      Sebastian Pinos      62 63
-     128      Rex Tang             def.      Stijn Paardekooper   64 60
- > Qualifying Singles Draw
-  > Main
-      32  (1) Carl Gustavson       def.      Jordan Paul          61 62
-      32  (2) Ishaan Ravichander   def.      Pierce Widdecombe    64 63
-      32      Jan Godfrey-Seno     def. (15) Alan Kam             64 16 [7]
-      32  (3) Jack McCarthy        def.      Amine El Kholti      64 46 [8]
-      32  (4) Alex Knox-Jones      def.      Shawn Jackson        62 61
-      32  (5) Hikaru Takeda        def.      Daniils Snaiders     61 60
-      32      Xandy Hammitt        def.      Ben Brandherm        46 60 [9]
-      32      Rohan Gupta          def.      Luke Neal            64 64
-      32  (7) Jayden Templeman     def.      Sam Hodges           76(3) 75
-      32      Sanil Jagtiani       def.      David Gorshein       64 61
-      32      Baylor Sai           def.      Mehdi Dhouib         61 64
-      32      Giuseppe de Camelis  def.      Djordje Janackovic   61 61
-      32      Ben Gollin           def.      Evan Felcher         63 61
-      32      Yaron Guberman       def.      Shourya Verma        61 62
-      32      Trevor Masi          def.      Javier Casasola Mon… 64 46 [9]
-      32      Shervin Dehmoubed    def.      Charlie James        61 61
-      64      Jordan Paul          def.      Peter Hatton         64 62
-      64  (1) Carl Gustavson       def.      Gabriel Castillo-Sa… 61 57 [2]
-      64      Pierce Widdecombe    def.      Chun Lam             64 36 [3]
-      64  (2) Ishaan Ravichander   def.      Matvey Radionov      63 63
-      64 (15) Alan Kam             def.      Dan Pergel           62 60
-      64      Jan Godfrey-Seno     def.      Gabriel Busato       76(3) 60
-      64      Amine El Kholti      def.      Peter Alester Magal… 36 62 [0]
-      64  (3) Jack McCarthy        def.      Arnav Dhingra        64 63
-      64      Shawn Jackson        def.      Aryaan Bhatia        76(5) 75
-      64  (4) Alex Knox-Jones      def.      Niels Korsgaard      64 64
-      64      Daniils Snaiders     def.      Keean Shah           64 61
-      64  (5) Hikaru Takeda        def.      Ashwin Kanektar      75 60
-      64      Xandy Hammitt        def.      Jake Huarte          46 60 [9]
-      64      Ben Brandherm        def.  (6) Zach Smith           46 63 [8]
-      64      Luke Neal            def.      Matthew Mu           61 64
-      64      Rohan Gupta          def.      Kaita Odani          62 64
-      64  (7) Jayden Templeman     def.      Matt Kleiman         46 75 [8]
-      64      Sam Hodges           def.      Brian Chong          62 62
-      64      David Gorshein       def.      Trent Massam         64 36 [6]
-      64      Sanil Jagtiani       def.  (8) Samuel Paquette      36 64 [6]
-      64      Mehdi Dhouib         def.      Tom Russwurm         75 61
-      64      Baylor Sai           def.      Anshumat Srivastava  62 62
-      64      Giuseppe de Camelis  def.      Charlie Penman       61 61
-      64      Djordje Janackovic   def.      Sam Feldman          62 64
-      64      Evan Felcher         def.      Kemal Karagozoglu    64 60
-      64      Ben Gollin           def.      Finn Macnamara       76(2) 76(6)
-      64      Shourya Verma        def.      Andrew Teixeira      76(2) 76(6)
-      64      Yaron Guberman       def.      William Goethlin     46 62 [9]
-      64      Javier Casasola Mon… def.      Nathan Jose          62 62
-      64      Trevor Masi          def.      Walker Oberg         62 62
-      64      Charlie James        def.      Matthew Garcia       64 62
-      64      Shervin Dehmoubed    def.      Jonathan Garcia      61 64
-~~~
-
-<a name="21-65872"></a>
-~~~
-══════════════════════════════════════════════════════════════════════════
-  Islander Open
-  Dates: Oct 22-24, 2021
-  Host: Texas A&M University, Corpus Christi (M)
-══════════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > Flight A
-  > East
-      F  Caleb Chakravarthi def.  Matthieu Peres     62 63
-     SF  Matthieu Peres     def.  Nathan Schwartz    64 61
-     SF  Caleb Chakravarthi def.  Solano Caffarena   63 36 [6]
-     QF  Nathan Schwartz    def.  Julian Steinhausen 64 46 [8]
-     QF  Matthieu Peres     def.  Daichi Akiyoshi    63 75
-     QF  Solano Caffarena   def.  Ryuya Ata          75 36 [4]
-     QF  Caleb Chakravarthi def.  Anton Shepp        67(5) 62 [9]
-  > West
-      F  Ryuya Ata          def.  Julian Steinhausen 67(3) 62 [7]
-     SF  Julian Steinhausen def.  Daichi Akiyoshi    60 60
-     SF  Ryuya Ata          def.  Anton Shepp        64 63
-  > 3-4 Playoff
-      F  Nathan Schwartz    def.  Solano Caffarena   76(4) 61
- > Flight B
-  > East
-      F  Kyohei Yamanaka    def.  Ricardo Alban      62 60
-     SF  Kyohei Yamanaka    def.  Ulysse Bertrand    60 62
-     SF  Ricardo Alban      def.  Borja Delgado      75 36 [4]
-     QF  Ulysse Bertrand    def.  Nick Beamish       64 63
-     QF  Kyohei Yamanaka    def.  Callaway Clark     62 64
-     QF  Ricardo Alban      def.  Ernesto Mealla     64 75
-     QF  Borja Delgado      def.  Eli Susser         61 62
-  > West
-      F  Ernesto Mealla     def.  Nick Beamish       62 75
-     SF  Nick Beamish       def.  Callaway Clark     67(10) 62 [12]
-     SF  Ernesto Mealla     def.  Eli Susser         62 62
-  > 3-4 Playoff
-      F  Borja Delgado      def.  Ulysse Bertrand    63 60
-~~~
+**Upcoming Tournaments**  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Gamecock Scramble</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Gonzaga Invitational</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Saint Leo Hidden Duals - Men</a>  
 
 <a name="21-69139"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Super Regional Championship
   Dates: Oct 22-25, 2021
   Host: Old Dominion University (M)
-══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Virginia
   > Main
@@ -261,8 +57,9 @@
      R1     James Wilkinson      def.     Oliver Nolan         75 75
  > Main draw
   > Main
-     SF (1) Jeffrey von der Sch…  vs      Francois Le Tallec   Mon @ 09:00
-     SF (6) Charles Bertimon      vs  (2) Inaki Montes de la … Mon @ 09:00
+      F     Francois Le Tallec   def. (2) Inaki Montes de la … 30 Ret.
+     SF     Francois Le Tallec   def. (1) Jeffrey von der Sch… 61 64
+     SF (2) Inaki Montes de la … def. (6) Charles Bertimon     63 76(4)
      QF (1) Jeffrey von der Sch… def. (8) Marin Delmas         62 62
      QF     Francois Le Tallec   def.     George Davis         64 26 75
      QF (6) Charles Bertimon     def.     Leo Raquin           64 46 64
@@ -314,24 +111,27 @@
   > Main
      64     Daniel Pellerito     def.     Oliver Tobisch       62 64
      64     Maxence Bertimon     def.     Bora Sengul          67(6) 63 [9]
-     64     Chikaya Sato         def.     Alvaro Ariza         61 62
+     64     Chikaya Sato         def.     Alvaro Ariza         61 64
      64     Younes Lalami        def.     Miko Eala            62 57 [7]
      64     Oliver Nolan         def.     Joseph Brailovsky    63 16 [8]
 ~~~
 
 <a name="21-42333"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Carolina Regional Championship
   Dates: Oct 22-25, 2021
   Host: Duke University (M)
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main Draw
   > Main
+      SF (11) Andrew Zhang         def.  (8) Connor Thomson       62 57 64
+      SF  (7) Taha Baadi           def. (17) Connor Krug          64 76(5)
       QF  (8) Connor Thomson       def. (17) Jake Beasley         62 62
-      QF (11) Andrew Zhang          vs  (17) Ryuhei Azuma         Sun @ 13:45
-      QF (17) Connor Krug           vs   (3) Garrett Johns        Sun @ 12:30
+      QF (11) Andrew Zhang         def. (17) Ryuhei Azuma         62 64
+      QF (17) Connor Krug          def.  (3) Garrett Johns        76(2) 46 75
+      QF  (7) Taha Baadi           def.  (2) Toby Samuel          64 75
       16 (17) Jake Beasley         def.      Bekhzod Rasamatov    62 62
       16  (8) Connor Thomson       def.  (9) Jakob Schnaitter     62 63
       16 (11) Andrew Zhang         def. (17) Bastien Huon         63 63
@@ -453,6 +253,7 @@
      128      Stefanos Savva       def.      Zvonko Bencrdic      61 61
      128  (2) Toby Samuel          def.      Victor Putter        60 61
   > Consolation
+      QF      Peter Murphy         def.      Uddayvir Singh       36 62 [7]
       QF      Reece Falck          def.      Casey Kania          Walkover
       QF      Damien Nezar         def.      Richard Trey Mallory Walkover
       QF      Alex Horn            def. (16) Yannai Barkai        Walkover
@@ -482,7 +283,7 @@
       32      Alex Horn            def.      Victor Putter        64 64
      64Q  (1) Brian Cernoch        def.      Omer Gorgun          63 62
      64Q      Neil O Connor        def.      Josiah Schainblatt   62 60
-     64Q      Arturo Kam           def.      Matt Pitts           36 62 [3]
+     64Q      Arturo Kam           def.      Matt Pitts           Walkover
      64Q      Peter Murphy         def.      Robbie Young         64 63
      64Q      Uddayvir Singh       def.      Shaka Cristellotti   62 62
      64Q      Robby Krick          def.      Luke Thomson         63 63
@@ -512,20 +313,24 @@
      64Q      Iganacio Sandoval    def.      Ted Williams         16 63 [12]
      64Q      Alex Horn            def.      Elijah Poritzky      76(2) 75
      64Q      Victor Putter        def.      Zvonko Bencrdic      62 61
+ > Unaccounted For Matches
+  > Main
+       F      Arturo Kam           def.      Cole Burnam          36 62 [3]
 ~~~
 
 <a name="21-50726"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Central Regional Championship
   Dates: Oct 21-25, 2021
   Host: University Of Nebraska (M)
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
-      SF  (1) Mason Beiler          vs       Aleksa Bucan         Sun @ 12:00
-      SF (16) Ezequiel Santalla     vs   (6) Jordan Hasson        Sun @ 12:00
+       F  (6) Jordan Hasson        def.      Aleksa Bucan         76(4) 64
+      SF      Aleksa Bucan         def.  (1) Mason Beiler         75 36 64
+      SF  (6) Jordan Hasson        def. (16) Ezequiel Santalla    76(5) 46 76(5)
       QF  (1) Mason Beiler         def.      Will Gleason         64 36 64
       QF      Aleksa Bucan         def. (15) Nicolas Acevedo      26 61 62
       QF (16) Ezequiel Santalla    def.  (9) Welsh Hotard         76(5) 75
@@ -612,7 +417,7 @@
      128      Philip Olsson        def.      Meg Siritaworachan   63 64
      128      Alex Richards        def.      Adam Behun           64 75
   > Consolation
-       F (14) Volodymyr Zakharov    vs       Connor Di Marco      Sun @ 13:30
+       F (14) Volodymyr Zakharov   def.      Connor Di Marco      06 64 [8]
       SF (14) Volodymyr Zakharov   def.      Matija Matic         76(5) 63
       SF      Connor Di Marco      def.      Callum Gale          36 63 [6]
       QF (14) Volodymyr Zakharov   def.      Foster Rogers        62 16 [4]
@@ -671,11 +476,11 @@
 
 <a name="21-68953"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Midwest Regional Championship
   Dates: Oct 21-25, 2021
   Host: Michigan State University (M)
-══════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > MSU Men's FMC
   > Main
@@ -691,11 +496,18 @@
        32      Hugo Chatras         def.      Diego Herrera        64 62
  > Main Draw
   > Main
+        F  (3) James Trotter        def.  (7) Jj Tracy             63 64
+       SF  (7) Jj Tracy             def.      Trice Pickens        61 62
+       SF  (3) James Trotter        def.  (2) Ondrej Styler        62 10 Ret.
+       QF      Trice Pickens        def. (11) Robert Cash          63 64
+       QF  (7) Jj Tracy             def. (12) Olivier Stuart       62 62
+       QF  (3) James Trotter        def.  (8) Patrick Maloney      62 67(5) 63
+       QF  (2) Ondrej Styler        def. (13) Justin Boulais       76(8) 36 76(5)
        16 (11) Robert Cash          def.  (1) Axel Nefve           63 64
        16      Trice Pickens        def.  (6) Vito Tonejc          61 61
        16 (12) Olivier Stuart       def.  (4) Andrew Fenty         64 75
        16  (7) Jj Tracy             def. (10) Gavin Young          16 61 76(4)
-       16  (8) Patrick Maloney      def. (16) Kweisi Kenyatte      63 76(3)
+       16  (8) Patrick Maloney      def. (16) Kweisi Kenyatte      64 76(3)
        16  (3) James Trotter        def.      Max Sheldon          62 63
        16 (13) Justin Boulais       def.      Nino Ehrenschneider  64 46 76(3)
        16  (2) Ondrej Styler        def. (15) Hunter Heck          62 63
@@ -758,6 +570,9 @@
        32      Graydon Lair         def.      Alex Zederbauer      46 64 [5]
        32      Jacob Bickersteth    def.      Lucas Horve          62 64
        32      Alex Petrov          def.      Patorn Hanchaikul    61 62
+ > Arranged Matches
+  > Main
+        F      Nick Beaty           def.      Lenard Soha          76(4) 64
  > Qualifying Draw
   > Main
        64  (1) Anton Arzhankin      def.      Stefan Drogovic      36 60 63
@@ -853,7 +668,7 @@
      32 (2) Clement Chidekh      def.     Tomas Kopczynski     64 63
  > Men's Singles Consolation
   > Main
-      F     Aryan Chaudhary       vs      Mann Shah            Sun @ 12:30
+      F     Mann Shah            def.     Aryan Chaudhary      60 75
      SF     Aryan Chaudhary      def.     Joshua Charlton      63 64
      SF     Mann Shah            def.     Arthur Neuhaus       36 62 [6]
      QF     Joshua Charlton      def.     Guillaume Dalmasso   62 46 [7]
@@ -872,14 +687,15 @@
 
 <a name="21-64282"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Southeast Regional Championship
   Dates: Oct 21-25, 2021
   Host: University of Florida (M)
-════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main Singles
   > Main
+      F  (5) Andres Martin        def. (14) Trey Hilderbrand     62 57 62
      SF (14) Trey Hilderbrand     def.      Alvaro Fernandez Ho… 62 76(4)
      SF  (5) Andres Martin        def.      Dominik Barton       61 62
      QF      Alvaro Fernandez Ho… def.      Richard Thongoana    61 64
@@ -944,6 +760,7 @@
      64  (2) Philip Henning       def.      Chen Dong            62 63
  > Backdraw
   > Main
+      F      Chen Dong            def.      Mattias Siimar       Walkover
      SF      Mattias Siimar       def.      Roberts Grinvalds    64 61
      SF      Chen Dong            def.      Joshua Goodger       26 64 [5]
      QF      Mattias Siimar       def.      Benjamin Hannestad   64 63
@@ -1018,18 +835,20 @@
 
 <a name="21-55204"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Southwest Regional Championship
   Dates: Oct 21-25, 2021
   Host: Pepperdine University (M)
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
-      QF      Sam Rubell            vs  (31) Herman Hoeyeraal     Sun @ 10:30
-      QF  (4) Bradley Frye          vs  (30) Pietro Fellin        Sun @ 10:30
-      QF (13) Alexander Hoogmarte…  vs   (3) Stefan Dostanic      Sun @ 10:30
-      QF (29) Stefan Leustian       vs  (15) Andrew Rogers        Sun @ 10:30
+      SF      Sam Rubell            vs  (30) Pietro Fellin        Mon @ 11:00
+      SF  (3) Stefan Dostanic       vs  (15) Andrew Rogers        Mon @ 11:00
+      QF      Sam Rubell           def. (31) Herman Hoeyeraal     63 75
+      QF (30) Pietro Fellin        def.  (4) Bradley Frye         62 67(7) 63
+      QF  (3) Stefan Dostanic      def. (13) Alexander Hoogmarte… 64 64
+      QF (15) Andrew Rogers        def. (29) Stefan Leustian      62 64
       16      Sam Rubell           def.  (1) Jonas Eriksson Zive… 64 64
       16 (31) Herman Hoeyeraal     def.  (6) Drew Baird           64 62
       16  (4) Bradley Frye         def. (27) Patrick Zahraj       64 46 75
@@ -1132,18 +951,22 @@
      128      Hiroki Sakagawa      def. (22) Eric Hahn            62 46 62
      128      Nick Lagaev          def.      Fernando Fonseca     67(8) 76(4) 64
   > Consolation
-      16      Jett Middleton        vs  (25) Eric Hadigian        Sun @ 10:00
-      16      Jose Dominguez Alon…  vs       Cody Castro          Sun @ 10:00
-      16      Stefano Tsorotiotis   vs       Conner Olsen         Sun @ 10:00
-      16      Pelayo Rodriguez      vs       Blaz Seric           Sun @ 10:00
-      16      Corrado Summaria      vs       Alex Mandma          Sun @ 10:00
-      16      Marvin Schaber        vs       Jonathan Zheng Qi Z… Sun @ 10:00
-      16 (18) Ryder Jackson         vs       Karl Collins         Sun @ 10:00
-      16      Hendrik Inno          vs       Fernando Fonseca     Sun @ 10:00
+      QF      Jett Middleton       def.      Jose Dominguez Alon… 64 76(3)
+      QF      Stefano Tsorotiotis  def.      Blaz Seric           64 76(4)
+      QF      Marvin Schaber       def.      Alex Mandma          63 62
+      QF      Fernando Fonseca     def.      Karl Collins         64 62
+      16      Jett Middleton       def. (25) Eric Hadigian        61 26 76(4)
+      16      Jose Dominguez Alon… def.      Loic Van Zeggelaar   36 76(3) [5]
+      16      Stefano Tsorotiotis  def.      Conner Olsen         64 63
+      16      Blaz Seric           def.      Pelayo Rodriguez     76(6) 61
+      16      Alex Mandma          def.      Corrado Summaria     75 36 [3]
+      16      Marvin Schaber       def.      Jonathan Zheng Qi Z… 76(5) 60
+      16      Karl Collins         def. (18) Ryder Jackson        76(4) 62
+      16      Fernando Fonseca     def.      Hendrik Inno         62 76(4)
       32      Jett Middleton       def.      Sahm Irvine          62 60
       32 (25) Eric Hadigian        def.      Zach Ermert          63 60
       32      Jose Dominguez Alon… def.      Wyatt Anderson       64 63
-      32      Cody Castro          def.      Loic Van Zeggelaar   60 75
+      32      Loic Van Zeggelaar   def.      Cody Castro          60 75
       32      Stefano Tsorotiotis  def.      Maximilian Wild      Walkover
       32      Conner Olsen         def.      Alejandro Vedri-Cas… 62 60
       32      Pelayo Rodriguez     def.      Guillaume Tattevin   Walkover
@@ -1173,387 +996,4 @@
      64Q      Kilian Maitre        def. (22) Eric Hahn            Walkover
 ~~~
 
-<a name="21-28500"></a>
-~~~
-══════════════════════════════════════════════════════════════════════════
-  Eagle Invitational
-  Dates: Oct 22-23, 2021
-  Host: Carson-Newman University (M)
-══════════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > Flight A
-  > East
-      F  Nicolas Ramirez Rib… def.  Jesus Garcia Gil     63 61
-     SF  Jesus Garcia Gil     def.  Marc Janse           64 75
-     SF  Nicolas Ramirez Rib… def.  Francesco Bonacia    64 63
-     QF  Jesus Garcia Gil     def.  Nemanja Subanovic    64 62
-     QF  Marc Janse           def.  Robert Steinhauser   62 62
-     QF  Nicolas Ramirez Rib… def.  Joaquin Minguez Rib… 63 62
-     QF  Francesco Bonacia    def.  Marnix Van Dalen     64 61
-  > West
-      F  Marnix Van Dalen     def.  Robert Steinhauser   26 64 [8]
-     SF  Robert Steinhauser   def.  Nemanja Subanovic    Walkover
-     SF  Marnix Van Dalen     def.  Joaquin Minguez Rib… 36 64 [7]
-  > 3-4 Playoff
-      F  Francesco Bonacia    def.  Marc Janse           46 76(4) [8]
-  > South
-      F  Joaquin Minguez Rib… def.  Nemanja Subanovic    Walkover
- > Flight B
-  > East
-      F  Gjorgji Jankulovski  def.  Kenta Kondou         Walkover
-     SF  Gjorgji Jankulovski  def.  Jowan Rawson         76(7) 76(3)
-     SF  Kenta Kondou         def.  Diego Garcia Gil     64 63
-     QF  Gjorgji Jankulovski  def.  Bruno Medeiros       57 64 [7]
-     QF  Jowan Rawson         def.  Pieke Bouman         64 61
-     QF  Diego Garcia Gil     def.  Romeo Luque          36 63 [9]
-     QF  Kenta Kondou         def.  Krish Patel          Walkover
-  > West
-      F  Pieke Bouman         def.  Romeo Luque          62 64
-     SF  Pieke Bouman         def.  Bruno Medeiros       67 64 [8]
-     SF  Romeo Luque          def.  Krish Patel          Walkover
-  > 3-4 Playoff
-      F  Jowan Rawson         def.  Diego Garcia Gil     62 64
-  > South
-      F  Bruno Medeiros       def.  Krish Patel          Walkover
- > Flight C
-  > East
-      F  Robin Eldin          def.  Vadzim Raitsou       Walkover
-     SF  Vadzim Raitsou       def.  Janis Auslands       61 75
-     SF  Robin Eldin          def.  Ids Waterbolk        63 62
-     QF  Janis Auslands       def.  Rintaro Oka          Walkover
-     QF  Vadzim Raitsou       def.  Andrew Johnston      46 64 [1]
-     QF  Robin Eldin          def.  Eric DelValle        61 63
-     QF  Ids Waterbolk        def.  Jake Magill          Walkover
-  > West
-      F  Andrew Johnston      def.  Eric DelValle        61 46 [8]
-     SF  Andrew Johnston      def.  Rintaro Oka          Walkover
-     SF  Eric DelValle        def.  Jake Magill          Walkover
-  > 3-4 Playoff
-      F  Ids Waterbolk        def.  Janis Auslands       75 61
-  > South
-      F  Rintaro Oka          def.  Jake Magill          Walkover
- > Flight D
-  > East
-      F  Richard Dulganov     def.  Jordi Dasi           26 75 [3]
-     SF  Richard Dulganov     def.  Nathan Matsuguma     63 36 [6]
-     SF  Jordi Dasi           def.  Lars Hordijk         61 64
-     QF  Richard Dulganov     def.  Lennert Stevens      61 75
-     QF  Nathan Matsuguma     def.  Alexandre Schiltz    61 Ret.
-     QF  Lars Hordijk         def.  Jacco Mensinga       63 61
-     QF  Jordi Dasi           def.  Felipe Girondi       62 60
-  > West
-      F  Lennert Stevens      def.  Felipe Girondi       63 62
-     SF  Lennert Stevens      def.  Alexandre Schiltz    Walkover
-     SF  Felipe Girondi       def.  Jacco Mensinga       61 61
-  > 3-4 Playoff
-      F  Lars Hordijk         def.  Nathan Matsuguma     26 75 [5]
-  > South
-      F  Alexandre Schiltz    def.  Jacco Mensinga       Walkover
- > Flight E
-  > East
-      F  Denis Muratovic      def.  Nicolo Marchetti     61 60
-     SF  Denis Muratovic      def.  Herman Ronnberg      60 62
-     SF  Nicolo Marchetti     def.  Adrian Heidelberger  60 61
-     QF  Denis Muratovic      def.  Jack Bowman          61 61
-     QF  Adrian Heidelberger  def.  Lluis Tomas          62 62
-     QF  Nicolo Marchetti     def.  Caleb McCurry        57 62 [2]
-  > West
-      F  Caleb McCurry        def.  Jack Bowman          62 63
-     SF  Caleb McCurry        def.  Lluis Tomas          64 63
-  > 3-4 Playoff
-      F  Herman Ronnberg      def.  Adrian Heidelberger  64 61
-~~~
-
-<a name="21-93512"></a>
-~~~
-══════════════════════════════════════════════════════════════════════════
-  GSC Fall Individual Tournament
-  Dates: Oct 22-24, 2021
-  Host: University Of West Alabama (M)
-══════════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > Draw 3
-  > Main
-      F  Loic Danze           def.  Jules Dugue          46 60 75
-     SF  Loic Danze           def.  Franco Roldan        64 36 [9]
-     SF  Jules Dugue          def.  Cameron Henricy Tri… 76(3) 63
-     QF  Franco Roldan        def.  Giovanni Bellio      26 75 [5]
-     QF  Loic Danze           def.  Alan Benitez         64 61
-     QF  Jules Dugue          def.  Thibault Jacq        62 63
-     QF  Cameron Henricy Tri… def.  Lucas Hammond        62 75
-     16  Franco Roldan        def.  Edward Etty          63 64
-     16  Giovanni Bellio      def.  Jacob Gailey         61 64
-     16  Alan Benitez         def.  Ignacio Mora         63 62
-     16  Loic Danze           def.  Gavin Salton         61 62
-     16  Thibault Jacq        def.  Enzo Silveira        75 64
-     16  Jules Dugue          def.  Alban Piranda        61 75
-     16  Cameron Henricy Tri… def.  Kiran Namadevan      61 62
-     16  Lucas Hammond        def.  Brady McDaniel       61 76(3)
- > Draw 2
-  > Main
-      F  Muhamad Bedwan       def.  Philippe Zehender    61 67(3) 63
-     SF  Philippe Zehender    def.  Emiliano Elazarraraz 64 76(9)
-     SF  Muhamad Bedwan       def.  Christian Wedel      67(3) 62 [6]
-     QF  Emiliano Elazarraraz def.  Swann Flohr          62 64
-     QF  Philippe Zehender    def.  Jan Kos              62 75
-     QF  Christian Wedel      def.  Julius Ziebart       63 57 [10]
-     QF  Muhamad Bedwan       def.  Strahinja Radanovic  63 64
-     16  Swann Flohr          def.  Matias Ballatore     62 75
-     16  Emiliano Elazarraraz def.  Gabriel Nery         64 62
-     16  Philippe Zehender    def.  Alonso Reid          63 62
-     16  Jan Kos              def.  Nutti Jokinen        64 60
-     16  Julius Ziebart       def.  Illia Dehodiuk       57 62 [8]
-     16  Christian Wedel      def.  Come Bracaval        75 16 [9]
-     16  Muhamad Bedwan       def.  Jojo Sandoz          61 67(6) [14]
-     16  Strahinja Radanovic  def.  Lluis Miro           64 16 [6]
- > Draw 5
-  > Main
-      F  David Mulas          def.  Dylan Kamel          62 62
-     SF  David Mulas          def.  Jude Heraut          61 46 [3]
-     SF  Dylan Kamel          def.  Jose Villacis        63 64
-     QF  David Mulas          def.  Shane Samyn          75 63
-     QF  Jude Heraut          def.  Blake Bottegal       60 60
-     QF  Jose Villacis        def.  Connor Gunnell       61 61
-     QF  Dylan Kamel          def.  Seth Macute          64 64
-     16  David Mulas          def.  Fabian Billton       60 63
- > Draw 1
-  > Main
-      F  Luca Mack            def.  David Rieme          36 62 64
-     SF  Luca Mack            def.  Marcel Hornung       57 64 [5]
-     SF  David Rieme          def.  Emile Le Terrier     62 60
-     QF  Luca Mack            def.  Hugo Stroppiana      64 46 [8]
-     QF  Marcel Hornung       def.  Dylan Valentine      36 62 [2]
-     QF  David Rieme          def.  Alexandre Laplante   62 67(4) [7]
-     QF  Emile Le Terrier     def.  Christian Felline    64 62
-     16  Luca Mack            def.  Joao Guariente       64 16 [2]
-     16  Hugo Stroppiana      def.  Joe Jarvis           60 62
-     16  Dylan Valentine      def.  Tomas Descarrega     Default
-     16  Marcel Hornung       def.  Jovan Cirkovic       63 61
-     16  Alexandre Laplante   def.  Jared Prince         62 62
-     16  David Rieme          def.  Javier Flores        61 61
-     16  Emile Le Terrier     def.  Salvador Bandeira    63 64
-     16  Christian Felline    def.  Hsiang Yi Wang       63 64
- > Draw 4
-  > Main
-      F  Sebastian Sotelo     def.  Carlos Trujillo      62 61
-     SF  Sebastian Sotelo     def.  Sergi Martinez       61 61
-     SF  Carlos Trujillo      def.  Arka Ganguly         64 26 [3]
-     QF  Sebastian Sotelo     def.  Killian Sinclair     62 46 [6]
-     QF  Sergi Martinez       def.  Nino Portugal        63 64
-     QF  Arka Ganguly         def.  Elijah Hagan         63 63
-     QF  Carlos Trujillo      def.  Patricio Nieto       46 64 [12]
-     16  Sebastian Sotelo     def.  Jonathan Judy-Hansen 75 62
-     16  Killian Sinclair     def.  Victor Fantaziu      61 63
-     16  Sergi Martinez       def.  Walker Ellis         61 60
-     16  Nino Portugal        def.  Miguel Gamborino     60 60
-     16  Arka Ganguly         def.  Emilian Zavala       64 64
-     16  Carlos Trujillo      def.  Pedro Gomez          61 61
-     16  Patricio Nieto       def.  Rien Alderliesten    62 61
- > Consolation Oct. 24
-  > Main
-     16  Swann Flohr          def.  Javier Flores        75 61
-     16  Joao Guariente       def.  Fabian Billton       60 61
-     16  Jan Kos              def.  Joe Jarvis           46 62 [12]
-     16  Walker Ellis         def.  Emilian Zavala       63 64
-     16  Nino Portugal        def.  Brady McDaniel       62 76(4)
-     16  Hsiang Yi Wang        vs   Thibault Jacq        
-     16  Jonathan Judy-Hansen def.  Rien Alderliesten    62 61
-     16  Edward Etty           vs   Illia Dehodiuk       
-~~~
-
-<a name="21-16812"></a>
-~~~
-══════════════════════════════════════════════════════════════════════════
-  MSU Invitational
-  Dates: Oct 22-23, 2021
-  Host: Midwestern State Univ. (M)
-══════════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > Singles Flight 1
-  > Main
-      F  Guilherme Dos Santos def.  Joaquin Bianchi      57 75 [5]
-     SF  Guilherme Dos Santos def.  Alex Martinez Roca   75 76(4)
-     SF  Joaquin Bianchi      def.  Baptiste Mercier     76(4) 61
-     QF  Alex Martinez Roca   def.  Enrique Sanchez      62 36 [4]
-     QF  Guilherme Dos Santos def.  Gonzalo Fernandez    76(4) 64
-     QF  Baptiste Mercier     def.  Stefan Andrei        63 06 [8]
-     QF  Joaquin Bianchi      def.  Alex Blanchar        61 75
-  > Consolation
-     SQ  Enrique Sanchez      def.  Gonzalo Fernandez    60 63
-     SQ  Stefan Andrei        def.  Alex Blanchar        62 67(4) [5]
-  > Playoff 3-4
-      F  Alex Martinez Roca   def.  Baptiste Mercier     76(4) 64
- > Singles Flight 2
-  > Main
-      F  Egor Shestakov       def.  Carlos Vidal         75 75
-     SF  Carlos Vidal         def.  Fernando Docters     57 75 [7]
-     SF  Egor Shestakov       def.  Manuel Pilotto       63 76(4)
-     QF  Carlos Vidal         def.  Nikita Chuev         62 63
-     QF  Fernando Docters     def.  Patryk Kosinski      63 62
-     QF  Manuel Pilotto       def.  Roberto Garcia-Arra… 63 62
-     QF  Egor Shestakov       def.  Ben Westwick         75 64
-  > Consolation
-      F  Ben Westwick         def.  Patryk Kosinski      62 61
-     SQ  Patryk Kosinski      def.  Nikita Chuev         64 67(4) [6]
-     SQ  Ben Westwick         def.  Roberto Garcia-Arra… 75 64
-  > Playoff 3-4
-      F  Fernando Docters     def.  Manuel Pilotto       26 60 [5]
- > Singles Flight 3
-  > Main
-      F  Moritz Mayer         def.  Tobias Fuerschuss    76(4) 62
-     SF  Moritz Mayer         def.  Brice Bradshaw       63 62
-     SF  Tobias Fuerschuss    def.  Tomas Almeida        61 63
-     QF  Moritz Mayer         def.  Diego Orduz          64 26 [3]
-     QF  Brice Bradshaw       def.  Paul Schwieger       64 63
-     QF  Tobias Fuerschuss    def.  Quentin Scharfenberg 63 61
-     QF  Tomas Almeida        def.  Marcus Del Rosario   62 62
-  > Consolation
-      F  Diego Orduz          def.  Quentin Scharfenberg 64 64
-     SQ  Diego Orduz          def.  Paul Schwieger       61 62
-     SQ  Quentin Scharfenberg def.  Marcus Del Rosario   76(4) 76(4)
-  > Playoff 3-4
-      F  Brice Bradshaw       def.  Tomas Almeida        64 36 [6]
- > Singles Flight 4
-  > Main
-      F  Joao Duleba          def.  Matias Parzajuk      Walkover
-     SF  Matias Parzajuk      def.  Marin Jurkovic       36 63 [5]
-     SF  Joao Duleba          def.  Jonas Dixon          57 62 [4]
-     QF  Marin Jurkovic       def.  Leon Sell            75 57 [5]
-     QF  Matias Parzajuk      def.  Sean Batkis          63 64
-     QF  Jonas Dixon          def.  Fernando Siqueira-G… 63 63
-     QF  Joao Duleba          def.  Thabo Ncube          60
-  > Consolation
-     SQ  Sean Batkis          def.  Leon Sell            64 75
-  > Playoff 3-4
-      F  Jonas Dixon          def.  Marin Jurkovic       61 63
- > Singles Flight 5
-  > Main
-      F  Yudai Watanabi       def.  Filip Smid           76(4) 61
-     SF  Yudai Watanabi       def.  Matthew Abbey        62 76(9)
-     SF  Filip Smid           def.  Marek Slojewski      63 75
-     QF  Matthew Abbey        def.  Seth Hernandez       61 62
-     QF  Yudai Watanabi       def.  Hector Flores        64 62
-     QF  Filip Smid           def.  Timon Kohler         76(4) 36 [11]
-     QF  Marek Slojewski      def.  Corbin Ford          76(1) 75
-  > Consolation
-      F  Corbin Ford          def.  Seth Hernandez       62 75
-     SQ  Seth Hernandez       def.  Hector Flores        46 62 [7]
-     SQ  Corbin Ford          def.  Timon Kohler         63 60
-  > Playoff 3-4
-      F  Marek Slojewski      def.  Matthew Abbey        62 Ret.
- > Singles Flight 6
-  > Main
-      F  Gen Naraya           def.  Jorge Sala           63 62
-     SF  Gen Naraya           def.  Jean Muniz           67(4) 63 [8]
-     SF  Jorge Sala           def.  Jonah Neumaier       76(5) 64
-     QF  Gen Naraya           def.  Kristian Kubik       62 64
-  > Consolation
-      F  Kristian Kubik       def.  Jonah Neumaier       62 62
-     SF  Kristian Kubik       def.  Jean Muniz           67(4) 63 [8]
-~~~
-
-<a name="21-42214"></a>
-~~~
-═══════════════════════════════════════════════════════════════════════════════
-  YTF Southeastern Invitational
-  Dates: Oct 22-24, 2021
-  Host: Southeastern University (M)
-═══════════════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > Black
-  > Main
-       F (1) Bruno Pessoa         def. (3) Fernando Alejandro … 62 64
-      SF (1) Bruno Pessoa         def. (4) Nicholas Hofmeister  62 64
-      SF (3) Fernando Alejandro … def. (7) Bernardo Tajada      63 64
-      QF (1) Bruno Pessoa         def. (8) Roy Stepanov         63 75
-      QF (4) Nicholas Hofmeister  def.     Thomas Andrews       60 26 [1]
-      QF (3) Fernando Alejandro … def. (6) Victor De Oliveira   63 63
-      QF (7) Bernardo Tajada      def. (2) Federico Barbon      Walkover
-      16 (1) Bruno Pessoa         def.     Enrique Martinez     62 61
-      16 (8) Roy Stepanov         def.     Jerry Makela         61 62
-      16     Thomas Andrews       def.     Raul Safont Martinez 62 64
-      16 (4) Nicholas Hofmeister  def.     Richard Freemann     63 75
-      16 (3) Fernando Alejandro … def.     Theodore Preiswerk   64 64
-      16 (6) Victor De Oliveira   def.     Guilherme Bento      75 64
-      16 (7) Bernardo Tajada      def.     Christian Della Cio… 76(5) 62
-      16 (2) Federico Barbon      def.     Juan Patino Pabon    62 62
-      32     Enrique Martinez     def.     Tom Alias            76(5) 64
-      32     Jerry Makela         def.     Juan Ignacio Garcia  61 75
-      32 (8) Roy Stepanov         def.     Alessandro Tabares   63 64
-      32     Raul Safont Martinez def. (5) Sebastian Grijalva   61 76(5)
-      32     Thomas Andrews       def.     Sebastian Fujita     36 61 [12]
-      32     Richard Freemann     def.     Diego Menendez Vina  63 36 [11]
-      32 (4) Nicholas Hofmeister  def.     Lucas Ribas          61 60
-      32 (3) Fernando Alejandro … def.     Filipe Gil           62 63
-      32     Theodore Preiswerk   def.     Sebastian Mezo       64 60
-      32     Guilherme Bento      def.     Jacob Turley         67(4) 76(2) [5]
-      32 (6) Victor De Oliveira   def.     Davide Pelletti      63 46 [2]
-      32 (7) Bernardo Tajada      def.     Carlos Thireau       61 36 [6]
-      32     Christian Della Cio… def.     Adria Aguilar Guerr… 62 62
-      32     Juan Patino Pabon    def.     Felipe Amorim        60 63
-  > Consolation
-       F     Jacob Turley         def.     Tom Alias            43 43
-      SF     Tom Alias            def.     Diego Menendez Vina  41 41
-      SF     Jacob Turley         def.     Carlos Thireau       41 43
-      QF     Tom Alias            def.     Alessandro Tabares   34 43 [4]
-      QF     Diego Menendez Vina  def. (5) Sebastian Grijalva   34 40 [5]
-      QF     Jacob Turley         def.     Sebastian Mezo       42 34 [8]
-      QF     Carlos Thireau       def.     Felipe Amorim        43 42
-     16Q     Alessandro Tabares   def.     Juan Ignacio Garcia  Walkover
-     16Q (5) Sebastian Grijalva   def.     Sebastian Fujita     42 42
-     16Q     Diego Menendez Vina  def.     Lucas Ribas          41 41
-     16Q     Sebastian Mezo       def.     Filipe Gil           41 40
-     16Q     Jacob Turley         def.     Davide Pelletti      41 Ret.
-     16Q     Carlos Thireau       def.     Adria Aguilar Guerr… 43 42
- > Red
-  > Main
-       F (2) Yosue Noa            def.     Alvaro Saucedo       46 64 [6]
-      SF     Alvaro Saucedo       def.     Jan Risanek          75 75
-      SF (2) Yosue Noa            def. (3) Vincent Huynh        Walkover
-      QF     Jan Risanek          def.     Domenico Denaro      26 75 [8]
-      QF     Alvaro Saucedo       def.     Hamish Lee           62 60
-      QF (3) Vincent Huynh        def.     Abraham Shaoul       63 62
-      QF (2) Yosue Noa            def.     Miguel Herrera       62 62
-      16     Domenico Denaro      def.     Bryan Cajamarca      64 62
-      16     Jan Risanek          def.     Nazareno Tauber      63 76(5)
-      16     Hamish Lee           def.     Zander Cromwell      64 63
-      16     Alvaro Saucedo       def.     Luis Figueroa        60 61
-      16 (3) Vincent Huynh        def.     Adriel Bousquet      64 61
-      16     Abraham Shaoul       def.     Graham Gibbs         61 Ret.
-      16     Miguel Herrera       def.     Leonardo Prado       61 61
-      16 (2) Yosue Noa            def.     Alan Schmidt         60 60
-      32     Domenico Denaro      def. (1) Tyler Glowaki        76(4) 16 [9]
-      32     Bryan Cajamarca      def.     Miguel Ferreira      61 61
-      32     Nazareno Tauber      def.     Nadal Nicolau Ferrer 75 Ret.
-      32     Jan Risanek          def.     Jake Edwards         Walkover
-      32     Zander Cromwell      def.     Luca Mariot          63 63
-      32     Hamish Lee           def.     Alexander Nunez      62 61
-      32     Luis Figueroa        def.     Nicolas Bueno        61 46 [4]
-      32     Alvaro Saucedo       def. (4) Nicolas Lerdo        64 62
-      32 (3) Vincent Huynh        def.     Miguel Binnios       75 64
-      32     Adriel Bousquet      def.     Juan Ramirez         46 63 [5]
-      32     Abraham Shaoul       def.     Ignacio Munoz        63 64
-      32     Graham Gibbs         def.     Jules Grignon        63 Ret.
-      32     Miguel Herrera       def.     Manuel Ramos         76(5) 63
-      32     Leonardo Prado       def.     Andres Kupersmit     76(4) 36 [8]
-      32     Alan Schmidt         def.     Simon Gonzalez       67(4) 61 [6]
-      32 (2) Yosue Noa            def.     Dario Bustruc        62 62
-  > Consolation
-       F (1) Tyler Glowaki        def.     Miguel Binnios       40 40
-      SF (1) Tyler Glowaki        def. (4) Nicolas Lerdo        43 41
-      SF     Miguel Binnios       def.     Manuel Ramos         41 42
-      QF (1) Tyler Glowaki        def.     Nadal Nicolau Ferrer Walkover
-      QF (4) Nicolas Lerdo        def.     Luca Mariot          41 41
-      QF     Miguel Binnios       def.     Ignacio Munoz        41 24 [5]
-      QF     Manuel Ramos         def.     Dario Bustruc        40 34 [7]
-     16Q (1) Tyler Glowaki        def.     Miguel Ferreira      40 43
-     16Q     Nadal Nicolau Ferrer def.     Jake Edwards         Walkover
-     16Q     Luca Mariot          def.     Alexander Nunez      42 42
-     16Q (4) Nicolas Lerdo        def.     Nicolas Bueno        40 41
-     16Q     Miguel Binnios       def.     Juan Ramirez         42 41
-     16Q     Ignacio Munoz        def.     Jules Grignon        Walkover
-     16Q     Manuel Ramos         def.     Andres Kupersmit     43 42
-     16Q     Dario Bustruc        def.     Simon Gonzalez       41 41
-~~~
-
-Return to the [Top](./men_singles_2142.md) &#124; [Home Page](../../index.md)
+Return to the [Top](./men_singles_2143.md) &#124; [Home Page](../../index.md)

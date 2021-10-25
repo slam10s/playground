@@ -8,6 +8,7 @@
 - 9/25/2021 - [Division II Women's Atlantic ITA Regional Championships](#21-02393) ([Results](#21-02393) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillersvilleUniversityW/Tournaments/Overview/AC190190-736B-4838-AE7A-A4CD92F079D3" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
 - 10/1/2021 - [Barb Chandler Classic](#21-63890) ([Results](#21-63890) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityW/Tournaments/Overview/88302122-9593-4E3B-B392-8D6982533991" target="_blank">Draws</a>)  
 - 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
 - 9/27/2021 - [BU Invitational](#21-87840) ([Results](#21-87840) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">Draws</a>)  
@@ -36,7 +37,6 @@
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Division III Women's Northwest ITA Regional Championships</a>  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Division III Women's Southeast ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/19C5EAFF-4E4C-4DBD-83F9-4FE76D915740" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
@@ -526,6 +526,65 @@
      32  Hierl/Kalinka        def.  Grimm/DenHartog      82
 ~~~
 
+<a name="21-04287"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Division III Women's Northwest ITA Regional Championships
+  Dates: Sep 24-27, 2021
+  Host: George Fox University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+       F  Castellanos Caldero… def.  Binder/Binder        63 36 76(2)
+      SF  Castellanos Caldero… def.  Kern/Matsunaga       84
+      SF  Binder/Binder        def.  Fiocchi/Fujimori     81
+      QF  Kern/Matsunaga       def.  Rice/Uribe           82
+      QF  Castellanos Caldero… def.  Forester/Wong        82
+      QF  Fiocchi/Fujimori     def.  Jha/Tarpey-Schwed    83
+      QF  Binder/Binder        def.  Kert/Plank           83
+      16  Kern/Matsunaga       def.  Nguyen/Stokes        82
+      16  Rice/Uribe           def.  Loacti/Smyley        81
+      16  Forester/Wong        def.  Brown/Wiker          87(4)
+      16  Castellanos Caldero… def.  Burriss/Sarmiento    81
+      16  Fiocchi/Fujimori     def.  Mangan/Morris        82
+      16  Jha/Tarpey-Schwed    def.  Groener/Suzuki       80
+      16  Kert/Plank           def.  Machida/Honaker      84
+      16  Binder/Binder        def.  Mock/Thorp           80
+      32  Kern/Matsunaga       def.  Bond/Onoja           81
+      32  Nguyen/Stokes        def.  Eligio/Rufo          87(3)
+      32  Loacti/Smyley        def.  Hitch/Vanderyacht    84
+      32  Rice/Uribe           def.  Heinke/Chatham       81
+      32  Forester/Wong        def.  Thompson/Turner      80
+      32  Brown/Wiker          def.  Bethards/Lakerveld   83
+      32  Burriss/Sarmiento    def.  Harper/Kreps         87(7)
+      32  Castellanos Caldero… def.  Caseb-Klescova/Truo… 81
+      32  Fiocchi/Fujimori     def.  Stratton/Vives       81
+      32  Mangan/Morris        def.  Burnett/Chong        83
+      32  Groener/Suzuki       def.  Shinall/Perez        86
+      32  Jha/Tarpey-Schwed    def.  Bedford/Nelson       80
+      32  Machida/Honaker      def.  McDonald/Rader       82
+      32  Kert/Plank           def.  Carter/Rylander      81
+      32  Mock/Thorp           def.  Bloom/Lau            80
+      32  Binder/Binder        def.  Gardner/Tuttle       81
+  > Consolation
+       F  Caseb-Klescova/Truo… def.  Stratton/Vives       83
+      SF  Caseb-Klescova/Truo… def.  Heinke/Chatham       81
+      SF  Stratton/Vives       def.  Gardner/Tuttle       82
+      QF  Heinke/Chatham       def.  Eligio/Rufo          81
+      QF  Caseb-Klescova/Truo… def.  Hitch/Vanderyacht    82
+      QF  Stratton/Vives       def.  Shinall/Perez        87(6)
+      QF  Gardner/Tuttle       def.  Carter/Rylander      84
+     16Q  Eligio/Rufo          def.  Bond/Onoja           85
+     16Q  Heinke/Chatham       def.  Thompson/Turner      80
+     16Q  Hitch/Vanderyacht    def.  Bethards/Lakerveld   85
+     16Q  Caseb-Klescova/Truo… def.  Harper/Kreps         84
+     16Q  Stratton/Vives       def.  Burnett/Chong        83
+     16Q  Shinall/Perez        def.  Bedford/Nelson       83
+     16Q  Carter/Rylander      def.  McDonald/Rader       82
+     16Q  Gardner/Tuttle       def.  Bloom/Lau            84
+~~~
+
 <a name="21-63890"></a>
 ~~~
 ════════════════════════════════════════════════════════════════
@@ -575,6 +634,22 @@
      QF  Slezakova/Sharapova  def.  Andrews/Talieu     60
      QF  Kreugel/Silva Campi… def.  Bishop/Flesch      76(3)
      QF  Pschorr/Bureau       def.  Going/Loubser      60
+~~~
+
+<a name="21-87840"></a>
+~~~
+═══════════════════════════════════════════════════════════
+  BU Invitational
+  Dates: Sep 27-27, 2021
+  Host: Boston University (W)
+═══════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Doubles
+  > Main
+     QF  Di Battista/Carlsten def.  Fahrmeier/Weber 64
+     QF  Tan/Yaloz            def.  Hess/Okpara     64
+     QF  Kleynerman/Kostirko  def.  Yoo/Conard      62
+     QF  Nguyen/Sharma        def.  Dewire/Jupalli  62
 ~~~
 
 <a name="21-42606"></a>
@@ -1662,10 +1737,10 @@
  Women's Open Doubles
  > Draw
   > Main
-      F (1) Vossen/Proktor     def. (3) VanOrman/Montaruli 50 Ret.
-     SF (1) Vossen/Proktor     def. (4) Boliscar/Branch    86
+      F (1) Vossen/Prokter     def. (3) VanOrman/Montaruli 50 Ret.
+     SF (1) Vossen/Prokter     def. (4) Boliscar/Branch    86
      SF (3) VanOrman/Montaruli def. (2) Greenwell/Mazzola  83
-     QF (1) Vossen/Proktor     def.     Aguilar/McShane    81
+     QF (1) Vossen/Prokter     def.     Aguilar/McShane    81
      QF (4) Boliscar/Branch    def.     Crismon/Crismon    81
      QF (3) VanOrman/Montaruli def.     Espino/Gregory     82
      QF (2) Greenwell/Mazzola  def.     White/Rennoult     82

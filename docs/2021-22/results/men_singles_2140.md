@@ -4,6 +4,7 @@
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
+- 10/8/2021 - [2021 UCSB Fall Classic](#21-88210) ([Results](#21-88210) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">Draws</a>)  
 - 10/7/2021 - [Bulldawg Invitational](#21-11157) ([Results](#21-11157) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Draws</a>)  
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [Loyola Classic](#21-67948) ([Results](#21-67948) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Draws</a>)  
@@ -16,7 +17,6 @@
 - 10/9/2021 - [Wallach Invitational 2021](#21-27918) ([Results](#21-27918) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/FA5825C1-E156-45E3-AB26-60077E129770" target="_blank">Clemson Hidden Duals</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
@@ -824,6 +824,144 @@
      16 (2) Bruno Sabio      def.     Oliver Weisemann     62 62
 ~~~
 
+<a name="21-88210"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  2021 UCSB Fall Classic
+  Dates: Oct 8-10, 2021
+  Host: University Of California, Santa Barbara (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > East
+      F  James Watt           def.  Enrique Luque Rico   46 76(5) 64
+     SF  James Watt           def.  Corrado Summaria     76(4) 46 64
+     SF  Enrique Luque Rico   def.  Pablo Masjuan        46 64 61
+     QF  James Watt           def.  Phillip Jordan       63 64
+     QF  Corrado Summaria     def.  Eric Hahn            16 64 76(8)
+     QF  Enrique Luque Rico   def.  Joseph Leather       62 60
+     QF  Pablo Masjuan        def.  Aryan Chaudhary      63 64
+     16  Phillip Jordan       def.  Rafael AbdulSalam    63 61
+     16  James Watt           def.  Jack Barnett         62 62
+     16  Corrado Summaria     def.  Fernando Fonseca     64 63
+     16  Eric Hahn            def.  Kai Brady            63 75
+     16  Enrique Luque Rico   def.  Nitzan Ricklis       62 67(5) 64
+     16  Joseph Leather       def.  Karl Lee             61 63
+     16  Pablo Masjuan        def.  Carlos Ramos         75 62
+     16  Aryan Chaudhary      def.  Daniel Moreno        63 60
+  > West
+      F  Karl Lee             def.  Jack Barnett         Walkover
+     SF  Jack Barnett         def.  Kai Brady            62 64
+     SF  Karl Lee             def.  Carlos Ramos         64 62
+     QF  Jack Barnett         def.  Rafael AbdulSalam    62 61
+     QF  Kai Brady            def.  Fernando Fonseca     61 64
+     QF  Karl Lee             def.  Nitzan Ricklis       63 61
+     QF  Carlos Ramos         def.  Daniel Moreno        40 Ret.
+  > North
+      F  Phillip Jordan       def.  Aryan Chaudhary      64 75
+     SF  Phillip Jordan       def.  Eric Hahn            62 61
+     SF  Aryan Chaudhary      def.  Joseph Leather       63 64
+  > 3-4 Playoff
+      F  Pablo Masjuan        def.  Corrado Summaria     Walkover
+  > South
+      F  Nitzan Ricklis       def.  Rafael AbdulSalam    62 76(4)
+     SF  Rafael AbdulSalam    def.  Fernando Fonseca     63 64
+     SF  Nitzan Ricklis       def.  Daniel Moreno        Walkover
+  > Southwest
+      F  Kai Brady            def.  Carlos Ramos         61 63
+  > Northwest
+      F  Joseph Leather       def.  Eric Hahn            46 61 62
+  > Southeast
+      F  Fernando Fonseca     def.  Daniel Moreno        Walkover
+ > Flight B
+  > East
+      F  GIanluca Brunkow     def.  Noah Gampel          63 63
+     SF  Noah Gampel          def.  Mateo Vereau         61 64
+     SF  GIanluca Brunkow     def.  Wally Thayne         62 62
+     QF  Noah Gampel          def.  Arda Azkara          46 64 60
+     QF  Mateo Vereau         def.  Gary Vardanyan       63 62
+     QF  GIanluca Brunkow     def.  Maximilian Wild      61 61
+     QF  Wally Thayne         def.  Austin Di Giulio     60 62
+     16  Arda Azkara          def.  Dominik Jakovljevic  62 64
+     16  Noah Gampel          def.  Stevie Gould         61 57 63
+     16  Mateo Vereau         def.  Alejandro Vedri-Cas… 46 64 63
+     16  Gary Vardanyan       def.  Timothy Li           75 63
+     16  GIanluca Brunkow     def.  Felipe Rincon        63 64
+     16  Maximilian Wild      def.  Bastiaan Weststrate  26 63 60
+     16  Austin Di Giulio     def.  Georgio Samaha       62 64
+     16  Wally Thayne         def.  Alex Lee             63 57 75
+  > West
+      F  Alejandro Vedri-Cas… def.  Alex Lee             57 10 Ret.
+     SF  Alejandro Vedri-Cas… def.  Stevie Gould         64 75
+     SF  Alex Lee             def.  Bastiaan Weststrate  76(4) 62
+     QF  Stevie Gould         def.  Dominik Jakovljevic  64 61
+     QF  Alejandro Vedri-Cas… def.  Timothy Li           46 75 61
+     QF  Bastiaan Weststrate  def.  Felipe Rincon        64 06 64
+     QF  Alex Lee             def.  Georgio Samaha       75 61
+  > North
+      F  Arda Azkara          def.  Austin Di Giulio     62 75
+     SF  Arda Azkara          def.  Gary Vardanyan       62 67(4) 75
+     SF  Austin Di Giulio     def.  Maximilian Wild      61 57 75
+  > South
+      F  Timothy Li           def.  Georgio Samaha       67(4) 61 [9]
+     SF  Timothy Li           def.  Dominik Jakovljevic  64 62
+     SF  Georgio Samaha       def.  Felipe Rincon        75 61
+  > Southwest
+      F  Stevie Gould         def.  Bastiaan Weststrate  61 61
+  > Northwest
+      F  Gary Vardanyan       def.  Maximilian Wild      26 64 [9]
+  > Southeast
+      F  Felipe Rincon        def.  Dominik Jakovljevic  Walkover
+ > Flight C
+  > East
+      F  Ben Keyser           def.  Nicolas Prieto       62 61
+     SF  Ben Keyser           def.  Boris Reckow         64 61
+     SF  Nicolas Prieto       def.  Lucas Magnaudet      16 76(4) 63
+     QF  Ben Keyser           def.  Alexander Maggs      Walkover
+     QF  Boris Reckow         def.  Jonathan Zheng Qi Z… 75 75
+     QF  Lucas Magnaudet      def.  Alexis Delisle       76(4) 63
+     QF  Nicolas Prieto       def.  Johan Garpered       62 61
+     16  Alexander Maggs      def.  Lincoln Bellamy      64 76(5)
+     16  Ben Keyser           def.  Dean Stratakos       64 62
+     16  Jonathan Zheng Qi Z… def.  Michael Wright       75 64
+     16  Boris Reckow         def.  David Woodland       63 64
+     16  Lucas Magnaudet      def.  Josh Williams        61 75
+     16  Alexis Delisle       def.  Charles Roberts      75 60
+     16  Johan Garpered       def.  Carter Crookston     64 61
+     16  Nicolas Prieto       def.  Anders Matta         62 63
+  > West
+      F  David Woodland       def.  Josh Williams        64 62
+     SF  David Woodland       def.  Lincoln Bellamy      75 26 75
+     SF  Josh Williams        def.  Anders Matta         75 61
+     QF  Lincoln Bellamy      def.  Dean Stratakos       46 63 62
+     QF  David Woodland       def.  Michael Wright       60 62
+     QF  Josh Williams        def.  Charles Roberts      64 75
+     QF  Anders Matta         def.  Carter Crookston     46 62 63
+  > North
+      F  Jonathan Zheng Qi Z… def.  Alexis Delisle       76 64
+     SF  Jonathan Zheng Qi Z… def.  Alexander Maggs      Walkover
+     SF  Alexis Delisle       def.  Johan Garpered       63 64
+  > 3-4 Playoff
+      F  Lucas Magnaudet      def.  Boris Reckow         Walkover
+  > South
+      F  Carter Crookston     def.  Michael Wright       63 61
+     SF  Michael Wright       def.  Dean Stratakos       64 63
+     SF  Carter Crookston     def.  Charles Roberts      64 61
+  > Northwest
+      F  Johan Garpered       def.  Alexander Maggs      Walkover
+  > Southeast
+      F  Dean Stratakos       def.  Charles Roberts      62 31 Ret.
+ > Extra Matches Flight C
+  > Main
+     R3  Ben Keyser           def.  Diego Castillo       61 61
+     R2  Johan Garpered       def.  Diego Castillo       64 64
+     R1  Jonathan Zheng Qi Z… def.  Diego Castillo       76(4) 64
+ > Extra Matches Flight A
+  > Main
+     R3  Karl Lee             def.  Fernando Fonseca     63 63
+     R3  Nitzan Ricklis       def.  Stefano Tsorotiotis  16 64 61
+~~~
+
 <a name="21-11157"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1355,7 +1493,7 @@
  Men's Open Singles
  > Flight 1
   > Main
-     R7  Alex Mascioli        def.  Michael Pawlowicz   76(4) 62
+     R7  Michael Pawlowicz    def.  Alex Mascioli       76(6) 62
      R6  Erik Gran            def.  Alex Mascioli       16 63 [8]
      R3  Stijn Paardekooper   def.  Erik Gran           61 63
      R2  Stijn Paardekooper   def.  Kaipo Marshall      76(2) 64
@@ -1526,6 +1664,22 @@
      R5  Charles Adams     def.  Joseph Phelan    64 26 [6]
      R3  Pedro Knippling   def.  Andrew Winans    61 60
      R3  Thomas Roberts    def.  Tyler Brice      63 57 [9]
+ > JCSU vs HSC
+  > Main
+     R2  Patrick Conde     def.  Tayvon Lassiter  61 46 [3]
+     R2  Matt Kendrick     def.  Justin Green     76(4) 64
+     R1  Jerome Adonis     def.  Tyler Brice      63 61
+     R1  Kofi Bowe         def.  Barrett Foster   63 64
+ > BAC vs JCSU
+  > Main
+     R3  Gabriel Martin    def.  Kofi Bowe        63 60
+     R3  Matthew Orozco    def.  Jerome Adonis    64 75
+     R3  Justin Green      def.  Marco Garofalo   36 62 [5]
+ > JCSU vs NCW
+  > Main
+     R3  Tshepo Mosarwa    def.  Kofi Bowe        64 75
+     R3  Nicolo Iacoboni   def.  Jerome Adonis    60 63
+     R3  Alessandro Iriu   def.  Justin Green     75 61
 ~~~
 
 <a name="21-99765"></a>

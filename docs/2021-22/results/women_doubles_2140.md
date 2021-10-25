@@ -5,6 +5,7 @@
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
+- 10/8/2021 - [49er Invite](#21-68924) ([Results](#21-68924) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCCharlotteW/Tournaments/Overview/928AA6BE-846A-430B-89FA-222F70E8CCBB" target="_blank">Draws</a>)  
 - 10/9/2021 - [Cincinnati/Xavier Fall Invitational](#21-24398) ([Results](#21-24398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Draws</a>)  
 - 10/4/2021 - [ITA Women's All-American Championship](#21-68261) ([Results](#21-68261) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">Draws</a>)  
 - 10/8/2021 - [Jimmy Powell Invitational](#21-66349) ([Results](#21-66349) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Draws</a>)  
@@ -17,16 +18,15 @@
 - 10/8/2021 - [Wildcat Invite](#21-77667) ([Results](#21-77667) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Women's Invitational](#21-77230) ([Results](#21-77230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE" target="_blank">Draws</a>)  
+- 10/9/2021 - [Middlebury Invitational](#21-32206) ([Results](#21-32206) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889" target="_blank">Draws</a>)  
 - 10/8/2021 - [Rumble by the River](#21-16089) ([Results](#21-16089) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NortheasternStateUW/Tournaments/Overview/6CDF33CD-A0E5-4CA9-BD9D-2F5B12B0FE50" target="_blank">Draws</a>)  
 - 10/8/2021 - [Saint Leo Lion Fall Invitational - Women](#21-18906) ([Results](#21-18906) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/CD3EA260-EE7B-4CC4-AEAD-3B2FCD79FEE4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCCharlotteW/Tournaments/Overview/928AA6BE-846A-430B-89FA-222F70E8CCBB" target="_blank">49er Invite</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Georgia Southern Fall Shootout</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">June Stewart</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889" target="_blank">Middlebury Invitational</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/0D92B574-F815-4CD2-9DB5-9DE635B3C608" target="_blank">Warhawk Fall Invitational</a>  
 
@@ -181,6 +181,76 @@
      16 (4) Wallace/Htwar        def.     Aughenbaugh/Strouse  80
      16     Alexander/Lee        def.     Makarski/Maher       82
      16 (2) Munday/Stralka       def.     Winseck/Duran        82
+~~~
+
+<a name="21-68924"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  49er Invite
+  Dates: Oct 8-10, 2021
+  Host: UNC Charlotte (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Round 1
+  > Main
+     64  Maquet/Quiterio      def.  Mayorova/Medvedeva   61
+     64  Safont/Sawhney       def.  DeSpain/Buyckx       75
+     64  Hatton/Anttila       def.  Dean/Petruzelova     62
+     64  Sipek/Mills          def.  Wilkins/Brown        64
+     64  Parra Romero/Burger  def.  Lopez/Fisher         62
+     64  Brown/Kim            def.  Nguyen/Rogers        64
+     64  Kaplan/Zahare        def.  Ode Mitre/Sampaio    62
+     64  Kirch/Lovato         def.  Sullivan/Brodsky     62
+     64  Alfaro/Gorbunova     def.  Bhan/Lerby           75
+     64  Harvey/Tanguilig     def.  Sakar/Rimondini      76(2)
+     64  Carvajal/Elizarraras def.  Amineni/Strugnell    64
+     64  Tewolde/Xu           def.  McClure/Zink         62
+     64  Bakhodirova/Morales  def.  Erechtchenko/Storka… 75
+     64  Aksu/Radulova        def.  Dancenco/Kuzina      75
+     64  Narboni/Malkin       def.  Andreini/Cartledge   63
+     64  Clark/Richtrova      def.  Couch/Tulenko        62
+ > Round 2
+  > Main
+     64  Zink/Tanguilig       def.  DeSpain/Buyckx       63
+     64  Carvajal/Gorbunova   def.  Hatton/Anttila       64
+     64  Mayorova/Medvedeva   def.  Harvey/McClure       61
+     64  Sipek/Mills          def.  Rivera/Alfaro        61
+     64  Maquet/Quiterio      def.  Bhan/Lerby           63
+     64  Safont/Sawhney       def.  Sakar/Rimondini      62
+     64  Tewolde/Xu           def.  Dean/Brown           75
+     64  Petruzelova/Wilkins  def.  Amineni/Strugnell    62
+     64  Nguyen/Parra Romero  def.  Erechtchenko/Storka… 63
+     64  Saraty/Ode Mitre     def.  Dancenco/Kuzina      76(3)
+     64  Rogers/Burger        def.  Couch/Tulenko        76(4)
+     64  Kirch/Sampaio        def.  Narboni/Malkin       63
+     64  Brown/Fisher         def.  Andreini/Clark       64
+     64  Aksu/Radulova        def.  Lopez/Kim            63
+     64  Cartledge/Richtrova  def.  Cardenas/Kaplan      63
+     64  Bakhodirova/Morales  def.  Sullivan/Brodsky     61
+ > Round 3
+  > Main
+     64  Maquet/Quiterio      def.  Alfaro/Carvajal      63
+     64  Safont/Sawhney       def.  Zink/Harvey          62
+     64  Petruzelova/Wilkins  def.  Tanguilig/McClure    76(5)
+     64  Dean/Brown           def.  Rivera/Elizarraras   62
+     64  Mayorova/Medvedeva   def.  Tewolde/Xu           63
+     64  Sipek/Mills          def.  Bhan/Rimondini       64
+     64  DeSpain/Buyckx       def.  Sakar/Amineni        64
+     64  Hatton/Anttila       def.  Strugnell/Lerby      76(3)
+     64  Bakhodirova/Morales  def.  Nguyen/Ode Mitre     64
+     64  Andreini/Cartledge   def.  Parra Romero/Rogers  64
+     64  Burger/Lovato        def.  Aksu/Radulova        64
+     64  Clark/Richtrova      def.  Kirch/Saraty         75
+     64  Erechtchenko/Storka… def.  Brown/Fisher         63
+     64  Dancenco/Kuzina      def.  Lopez/Kim            63
+     64  Couch/Tulenko        def.  Cardenas/Zahare      62
+     64  Narboni/Malkin       def.  Sullivan/Brodsky     60
+ > Round 4
+  > Main
+     64  Maquet/Quiterio      def.  Sakar/Rimondini      61
+     64  Safont/Sawhney       def.  Tewolde/Xu           63
+     64  Petruzelova/Wilkins  def.  Bhan/Amineni         63
+     64  Dean/Brown           def.  Strugnell/Lerby      64
 ~~~
 
 <a name="21-24398"></a>
@@ -695,6 +765,47 @@
      SF     Adair/Santanders     def.     Pall/Braziel         60
   > 3-4 Playoff
       F (1) Gunter/Sakakibara    def. (2) Hill/Newsome         64
+~~~
+
+<a name="21-32206"></a>
+~~~
+═════════════════════════════════════════════════════════════
+  Middlebury Invitational
+  Dates: Oct 9-10, 2021
+  Host: Middlebury College (W)
+═════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Midd (Blue) vs. Tufts
+  > Main
+     QF  Rigby/Christensen   def.  Delman/La Barge    84
+     QF  Dorr/Kava           def.  Remis/Huang        85
+     QF  Farhat/Van der Reis def.  Lowy/Shub          83
+ > Midd (White) vs. Bowdoin
+  > Main
+     QF  Raman/Miller        def.  Karah/Landau       86
+     QF  Carter/Safar        def.  Frank/Dahl         82
+     QF  Buckhout/Yu         def.  Amin/Kamdar        86
+ > Midd (Blue) vs. Bowdoin
+  > Main
+     SF  Carter/Safar        def.  Delman/La Barge    85
+     SF  Karah/Landau        def.  Remis/Huang        85
+ > Midd (White) vs. Tufts
+  > Main
+     QF  Rigby/Christensen   def.  Raman/Miller       86
+     QF  Dorr/Kava           def.  Frank/Van der Reis 86
+     QF  Suk/Cummings        def.  Dahl/Neal          81
+ > Bowdoin vs. Tufts (1)
+  > Main
+     QF  Rigby/Christensen   def.  Carter/Safar       87(5)
+     QF  Lowy/Kava           def.  Karah/Landau       87(5)
+     QF  May/Wax             def.  Buckhout/Yu        85
+ > Tufts (2) vs. Midd
+  > Main
+     SF  Suk/Dorr            def.  Delman/La Barge    86
+     SF  Miller/Dahl         def.  Shiuey/Lim         80
+ > Bowdoin vs. Tufts
+  > Main
+      F  Frankel/Wax         def.  Buckhout/Yu        85
 ~~~
 
 <a name="21-16089"></a>

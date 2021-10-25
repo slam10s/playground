@@ -4,6 +4,7 @@
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
+- 10/8/2021 - [2021 UCSB Fall Classic](#21-88210) ([Results](#21-88210) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">Draws</a>)  
 - 10/7/2021 - [Bulldawg Invitational](#21-11157) ([Results](#21-11157) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Draws</a>)  
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [Loyola Classic](#21-67948) ([Results](#21-67948) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Draws</a>)  
@@ -11,15 +12,14 @@
 - 10/9/2021 - [WMU Vredevelt Invite](#21-70570) ([Results](#21-70570) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">Draws</a>)  
 - 10/8/2021 - [Youngstown State Hidden Duals](#21-93245) ([Results](#21-93245) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
+- 10/8/2021 - [Crusader Shootout](#21-83735) ([Results](#21-83735) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Invitational](#21-99765) ([Results](#21-99765) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Draws</a>)  
 - 10/9/2021 - [Wallach Invitational 2021](#21-27918) ([Results](#21-27918) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">2021 UCSB Fall Classic</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/FA5825C1-E156-45E3-AB26-60077E129770" target="_blank">Clemson Hidden Duals</a>  
 - 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Crusader Shootout</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 
 <a name="21-73796"></a>
@@ -290,6 +290,65 @@
      QF     Jaunmarti/Clary   def.     Martins/Dorval      83
      QF     Arizpe/Barcelo    def.     Cox/Cramer          82
      QF (2) Yanni/Martinez    def.     Cashin/Weber        81
+~~~
+
+<a name="21-88210"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  2021 UCSB Fall Classic
+  Dates: Oct 8-10, 2021
+  Host: University Of California, Santa Barbara (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > East
+      F  Jordan/Brady         def.  Barnett/Thayne       86
+     SF  Barnett/Thayne       def.  Watt/Reckow          84
+     SF  Jordan/Brady         def.  Leather/Weststrate   84
+     QF  Barnett/Thayne       def.  Moreno/Roberts       83
+     QF  Watt/Reckow          def.  Chaudhary/Lee        84
+     QF  Leather/Weststrate   def.  Azkara/Maggs         87(6)
+     QF  Jordan/Brady         def.  Wild/Li              83
+  > West
+      F  Moreno/Roberts       def.  Wild/Li              86
+     SF  Moreno/Roberts       def.  Chaudhary/Lee        82
+     SF  Wild/Li              def.  Azkara/Maggs         85
+  > 3-4 Playoff
+      F  Leather/Weststrate   def.  Watt/Reckow          85
+  > South
+      F  Azkara/Maggs         def.  Chaudhary/Lee        Walkover
+ > Flight B
+  > East
+      F  Brunkow/Tsorotiotis  def.  Garpered/Ricklis     85
+     SF  Garpered/Ricklis     def.  Masjuan/Vedri-Caste… 84
+     SF  Brunkow/Tsorotiotis  def.  Lee/Hahn             81
+     QF  Masjuan/Vedri-Caste… def.  Vardanyan/Fonseca    Walkover
+     QF  Garpered/Ricklis     def.  Prieto/Samaha        81
+     QF  Brunkow/Tsorotiotis  def.  Vereau/Jakovljevic   85
+     QF  Lee/Hahn             def.  Di Giulio/Bellamy    85
+  > West
+      F  Vardanyan/Fonseca    def.  Di Giulio/Bellamy    84
+     SF  Vardanyan/Fonseca    def.  Prieto/Samaha        82
+     SF  Di Giulio/Bellamy    def.  Vereau/Jakovljevic   86
+  > 3-4 Playoff
+      F  Masjuan/Vedri-Caste… def.  Lee/Hahn             82
+  > South
+      F  Prieto/Samaha        def.  Vereau/Jakovljevic   Walkover
+ > Flight C
+  > East
+      F  Gould/Woodland       def.  Ramos/Rincon         87(4)
+     SF  Gould/Woodland       def.  Matta/Stratakos      83
+     SF  Ramos/Rincon         def.  Williams/Castillo    83
+     QF  Gould/Woodland       def.  Chang/Wright         86
+     QF  Ramos/Rincon         def.  Delisle/Keyser       85
+  > West
+      F  Chang/Wright         def.  Delisle/Keyser       85
+  > 3-4 Playoff
+      F  Matta/Stratakos      def.  Williams/Castillo    83
+ > Extra Matches
+  > Main
+     R1  Chang/Wright         def.  Williams/Castillo    83
+     R1  Delisle/Keyser       def.  Matta/Stratakos      83
 ~~~
 
 <a name="21-11157"></a>
@@ -603,6 +662,57 @@
      QF     Brignacca/Comu       def.     Martinez/Preiswerk   61
      16     McMurray/Polo        def.     Della Cioppa/Nicola… 76(5)
      16     Kearns/Fonseca       def.     Glowaki/Binnios      75
+~~~
+
+<a name="21-83735"></a>
+~~~
+══════════════════════════════════════════════════════════════
+  Crusader Shootout
+  Dates: Oct 8-9, 2021
+  Host: Belmont Abbey College (M)
+══════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Round 1
+  > Main
+     R2  Borden/Singleton   def.  Gonzalez/Stamps    62
+     R2  Roberts/Garofalo   def.  Conde/Winans       64
+     R1  Mosarwa/Fanzaga    def.  Bowe/Lassiter      60
+     R1  Amitay/Morelli     def.  Adonis/Green       61
+     R1  Foster/Brice       def.  Iacoboni/Micheloni 63
+     R1  Simonini/Iriu      def.  Kendrick/Fox       64
+     R1  Morant/Phelan      def.  Adams/Beaudoin     62
+     R1  Kendrick/Gembroys  def.  Hess/Johnson       64
+ > Round 2
+  > Main
+     R1  Turner/Martin      def.  Mosarwa/Fanzaga    75
+     R1  Golindano/Fassioli def.  Simonini/Noli      61
+     R1  Orozco/Knippling   def.  Adonis/Green       61
+     R1  Foster/Brice       def.  Bowe/Lassiter      76(6)
+     R1  Amitay/Morelli     def.  Crabtree/Zoglio    61
+     R1  Iacoboni/Micheloni def.  Kendrick/Fox       63
+     R1  Roberts/Garofalo   def.  Borden/Singleton   62
+     R1  Gonzalez/Stamps    def.  Conde/Winans       63
+     R1  Adams/Beaudoin     def.  Hess/Johnson       61
+     R1  Morant/Phelan      def.  Kendrick/Gembroys  63
+ > Round 3
+  > Main
+     R1  Golindano/Fassioli def.  Bowe/Lassiter      63
+     R1  Adonis/Green       def.  Roberts/Crabtree   62
+     R1  Turner/Martin      def.  Foster/Brice       61
+     R1  Garofalo/Zoglio    def.  Conde/Winans       75
+     R1  Mosarwa/Fanzaga    def.  Kendrick/Fox       60
+     R1  Iacoboni/Micheloni def.  Borden/Singleton   63
+     R1  Amitay/Morelli     def.  Adams/Beaudoin     60
+     R1  Iriu/Noli          def.  Kendrick/Gembroys  61
+ > Round 4
+  > Main
+     R1  Orozco/Knippling   def.  Bowe/Lassiter      64
+     R1  Foster/Brice       def.  Adonis/Green       60
+     R1  Adams/Beaudoin     def.  Phelan/Johnson     76(2)
+     R1  Mosarwa/Fanzaga    def.  Golindano/Fassioli 75
+     R1  Amitay/Morelli     def.  Borden/Singleton   64
+     R1  Simonini/Iriu      def.  Kendrick/Gembroys  61
+     R1  Kendrick/Fox       def.  Hess/Morant        61
 ~~~
 
 <a name="21-99765"></a>

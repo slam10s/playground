@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 9/5/2021 - [Mary Hosking Invitational Tournament](#21-02759) ([Results](#21-02759) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7" target="_blank">Draws</a>)  
+- 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-25876) ([Results](#21-25876) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiW/Tournaments/Overview/88D2417A-460B-408A-9E50-7C7E5EE7478F" target="_blank">Draws</a>)  
 - 9/10/2021 - [Bill and Sandra Moore Invitational](#21-34233) ([Results](#21-34233) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/91B59866-0B48-4129-8FAE-B1A88BCD7896" target="_blank">Draws</a>)  
 - 9/11/2021 - [Liberty Invite](#21-48654) ([Results](#21-48654) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/D66E087D-3234-4CE1-8D12-9CFE3EF5F621" target="_blank">Draws</a>)  
 - 9/10/2021 - [SIUE Cougar Invite](#21-66962) ([Results](#21-66962) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernIllinoisUniversityEdwardsvilleW/Tournaments/Overview/49CD19F7-C361-46C8-9A0D-85DA79B24973" target="_blank">Draws</a>)  
@@ -14,7 +15,6 @@
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiW/Tournaments/Overview/88D2417A-460B-408A-9E50-7C7E5EE7478F" target="_blank">2021 Contender Crossfit Islander Open</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
@@ -128,6 +128,141 @@
      QQ  Gabriella Dadoly     def.  Crystal Morgans      83
      QQ  Louisa Morrow        def.  Gwen Burns           83
      QQ  Caroline Herz        def.  Ibadat Javed         84
+~~~
+
+<a name="21-25876"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  2021 Contender Crossfit Islander Open
+  Dates: Sep 10-12, 2021
+  Host: Texas A&M University, Corpus Christi (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight A
+  > East
+      F  Lauren Anzalotta     def.  Emma Aucagne         64 61
+     SF  Lauren Anzalotta     def.  Jasmin Adams         Walkover
+     SF  Emma Aucagne         def.  Isabelle Bahr        62 75
+     QF  Lauren Anzalotta     def.  Leony Deutschmann    63 63
+     QF  Jasmin Adams         def.  Maya Donkor          61 61
+     QF  Isabelle Bahr        def.  Megan Basson         62 63
+     QF  Emma Aucagne         def.  Jasmin Starr         63 63
+  > West
+      F  Megan Basson         def.  Leony Deutschmann    62 60
+     SF  Leony Deutschmann    def.  Maya Donkor          64 76(4)
+     SF  Megan Basson         def.  Jasmin Starr         36 63 [6]
+  > 3-4 Playoff
+      F  Isabelle Bahr        def.  Jasmin Adams         Walkover
+  > South
+      F  Jasmin Starr         def.  Maya Donkor          63 61
+ > Flight C
+  > East
+      F  Lucie Devier         def.  Lea Karren           63 61
+     SF  Lucie Devier         def.  Isidora Zivkovic     62 60
+     SF  Lea Karren           def.  Alba Perez           62 57 [7]
+     QF  Isidora Zivkovic     def.  Noemi Sante          63 62
+     QF  Lucie Devier         def.  Camille Townsend     62 63
+     QF  Lea Karren           def.  Abigail Wild         75 62
+     QF  Alba Perez           def.  Tanvikhaa Saravanan  75 67(4) [0]
+  > West
+      F  Camille Townsend     def.  Tanvikhaa Saravanan  76(5) 63
+     SF  Camille Townsend     def.  Noemi Sante          75 46 [5]
+     SF  Tanvikhaa Saravanan  def.  Abigail Wild         64 64
+  > 3-4 Playoff
+      F  Alba Perez           def.  Isidora Zivkovic     64 63
+  > South
+      F  Noemi Sante          def.  Abigail Wild         62 57 [7]
+ > Flight D
+  > East
+     SF  Kexuan Zhou          def.  Keegan McCain        75 60
+     SF  Ana Jolic            def.  Emma Honore          60 26 [8]
+     QF  Kexuan Zhou          def.  Alessa Maier         75 63
+     QF  Keegan McCain        def.  Emma Stauber         62 64
+     QF  Emma Honore          def.  Mia Milojevic        62 63
+     QF  Ana Jolic            def.  Sandra Putz          63 62
+  > West
+      F  Alessa Maier         def.  Mia Milojevic        Walkover
+     SF  Alessa Maier         def.  Emma Stauber         Walkover
+     SF  Mia Milojevic        def.  Sandra Putz          Walkover
+  > 3-4 Playoff
+      F  Emma Honore          def.  Keegan McCain        62 62
+ > Flight E
+  > East
+      F  Leopoldine Boisseau  def.  Maria Ponomareva     63 63
+     SF  Leopoldine Boisseau  def.  Sunskrithi Damera    Walkover
+     SF  Maria Ponomareva     def.  Katarina Sasaroga    76(2) 63
+     QF  Leopoldine Boisseau  def.  Raina Zaffar         60 61
+     QF  Sunskrithi Damera    def.  Emmeline Polevoi     75 62
+     QF  Katarina Sasaroga    def.  Gaini Ibrasheva      76(5) 76(2)
+     QF  Maria Ponomareva     def.  Yeva Kramarova       63 75
+  > West
+      F  Emmeline Polevoi     def.  Gaini Ibrasheva      62 61
+     SF  Emmeline Polevoi     def.  Raina Zaffar         Walkover
+     SF  Gaini Ibrasheva      def.  Yeva Kramarova       62 62
+  > 3-4 Playoff
+      F  Katarina Sasaroga    def.  Sunskrithi Damera    Walkover
+  > South
+      F  Yeva Kramarova       def.  Raina Zaffar         Walkover
+ > Flight F
+  > East
+     SF  Saki Oyama           def.  Dnyanada Patil       61 63
+     SF  Milou terMorsche     def.  Jordan Ortega        76(4) 36 [6]
+     QF  Saki Oyama           def.  Elena Rubio          61 62
+     QF  Dnyanada Patil       def.  Patricia Apisah      64 60
+     QF  Jordan Ortega        def.  Sahithi Vutukuru     62 64
+     QF  Milou terMorsche     def.  Ana Platisa          62 64
+  > West
+      F  Sahithi Vutukuru     def.  Patricia Apisah      Walkover
+     SF  Patricia Apisah      def.  Elena Rubio          61 61
+     SF  Sahithi Vutukuru     def.  Ana Platisa          Walkover
+  > 3-4 Playoff
+      F  Jordan Ortega        def.  Dnyanada Patil       Walkover
+  > South
+      F  Ana Platisa          def.  Elena Rubio          60 60
+ > Flight G
+  > East
+      F  Kateryna Rublevska   def.  Petra Kaszas         64 51 Ret.
+     SF  Kateryna Rublevska   def.  Eva Beyebach         64 63
+     SF  Petra Kaszas         def.  Chloe Chawner        76(4) 75
+     QF  Eva Beyebach         def.  Yeva Kononovych      62 61
+     QF  Kateryna Rublevska   def.  Sophia Hummel        16 76(6) [2]
+     QF  Petra Kaszas         def.  Valeria Montero      62 76(6)
+     QF  Chloe Chawner        def.  Jayci Wong           75 61
+  > West
+     SF  Sophia Hummel        def.  Yeva Kononovych      60 61
+     SF  Valeria Montero      def.  Jayci Wong           61 62
+  > 3-4 Playoff
+      F  Eva Beyebach         def.  Chloe Chawner        Walkover
+  > South
+      F  Jayci Wong           def.  Yeva Kononovych      Walkover
+ > Flight H
+  > East
+      F  Likhitha Kalava      def.  Alicia Thal          64 61
+     SF  Alicia Thal          def.  Manuela Turolo       64 61
+     SF  Likhitha Kalava      def.  Chloe Dix            61 61
+     QF  Alicia Thal          def.  Hrudaya Shah         36 63 [0]
+     QF  Likhitha Kalava      def.  Jana Knaab           61 76(2)
+  > West
+      F  Jana Knaab           def.  Hrudaya Shah         Walkover
+  > 3-4 Playoff
+      F  Manuela Turolo       def.  Chloe Dix            Walkover
+ > Flight B
+  > East
+      F  Destinee Martins     def.  Liisa Vehvilainen    63 62
+     SF  Destinee Martins     def.  Lusine Chobanyan     75 61
+     SF  Liisa Vehvilainen    def.  Marjorie Souza       62 63
+     QF  Destinee Martins     def.  Lou Dupuis           63 16 [5]
+     QF  Lusine Chobanyan     def.  Brooklyn Ross        62 61
+     QF  Liisa Vehvilainen    def.  Aleksandra Zlatarova 64 75
+     QF  Marjorie Souza       def.  Mariya Shumeika      63 76(3)
+  > West
+      F  Mariya Shumeika      def.  Brooklyn Ross        61 75
+     SF  Brooklyn Ross        def.  Lou Dupuis           63 30 Ret.
+     SF  Mariya Shumeika      def.  Aleksandra Zlatarova 46 64 [4]
+  > 3-4 Playoff
+      F  Lusine Chobanyan     def.  Marjorie Souza       64 64
+  > South
+      F  Aleksandra Zlatarova def.  Lou Dupuis           Walkover
 ~~~
 
 <a name="21-34233"></a>
@@ -907,10 +1042,10 @@
  > Blue
   > East
       F  Camilla Ciaccia      def.  Elena Gunfaus        Walkover
-     SF  Camilla Ciaccia      def.  Chole Kosmrlj        61 61
+     SF  Camilla Ciaccia      def.  Chloe Kosmrlj        61 61
      SF  Elena Gunfaus        def.  Viktorija Veselinova 62 63
      QF  Camilla Ciaccia      def.  Frankee Hendricks    62 61
-     QF  Chole Kosmrlj        def.  Hanna Axelsson       76(5) 64
+     QF  Chloe Kosmrlj        def.  Hanna Axelsson       76(5) 64
      QF  Viktorija Veselinova def.  Una Pandurevic       63 62
      QF  Elena Gunfaus        def.  Jessica Binzari      63 64
   > West
@@ -918,7 +1053,7 @@
      SF  Hanna Axelsson       def.  Frankee Hendricks    67(4) 63 [12]
      SF  Jessica Binzari      def.  Una Pandurevic       61 63
   > 3-4 Playoff
-      F  Viktorija Veselinova def.  Chole Kosmrlj        Walkover
+      F  Viktorija Veselinova def.  Chloe Kosmrlj        Walkover
   > South
       F  Frankee Hendricks    def.  Una Pandurevic       61 57 [1]
  > Red
