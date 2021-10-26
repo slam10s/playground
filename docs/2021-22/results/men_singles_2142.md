@@ -1048,8 +1048,6 @@
  Men's Open Singles
  > Draw
   > Main
-      SF      Sam Rubell            vs  (30) Pietro Fellin        Mon @ 11:00
-      SF  (3) Stefan Dostanic       vs  (15) Andrew Rogers        Mon @ 11:00
       QF      Sam Rubell           def. (31) Herman Hoeyeraal     63 75
       QF (30) Pietro Fellin        def.  (4) Bradley Frye         62 67(7) 63
       QF  (3) Stefan Dostanic      def. (13) Alexander Hoogmarte… 64 64
