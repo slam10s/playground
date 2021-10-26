@@ -512,22 +512,73 @@
  Women's Open Singles
  > Draw 1
   > Main
-     64  Lorie Lemongo    def.  Maria Adiaconitei 62 62
-     64  Lan Mi           def.  Renata Lombera    61 62
-     64  Isabel Cabrerizo def.  Hoi Ki Jenny Wong 75 36 [5]
-     64  Lauren Stein     def.  Tara Veluvolu     64 61
-     64  Valerie Ho       def.  Corte Cristina    63 62
-     64  Katherine Nguyen def.  Aida Garcia Medez 63 63
-     64  Fatima El Ashram def.  Pauline Kharkover 64 62
-     64  Jamie Wei        def.  Marija Curnic     75 64
-     64  Iris Gallo       def.  Vineetha Mummadi  64 26 [6]
-     64  Veronika Kulhava def.  Gavriella Smith   64 26 [2]
-     64  Saige Roshkoff   def.  Evie Wei          75 46 [2]
-     64  Yining Tian      def.  Sonia Tartakovsky 61 36 [6]
-     64  Sena Takebe      def.  Gibson Thomas     61 64
-     64  Sonia Maheshwari def.  Rine Nozaki       62 62
-     64  Clarise Huang    def.  Miu Yabuta        61 75
-     64  Eileen Wang      def.  Juleta Honrubia   75 61
+     64  Lorie Lemongo      def.  Maria Adiaconitei 62 62
+     64  Lan Mi             def.  Renata Lombera    61 62
+     64  Isabel Cabrerizo   def.  Hoi Ki Jenny Wong 75 36 [5]
+     64  Lauren Stein       def.  Tara Veluvolu     64 61
+     64  Valerie Ho         def.  Corte Cristina    63 62
+     64  Katherine Nguyen   def.  Aida Garcia Medez 63 63
+     64  Fatima El Ashram   def.  Pauline Kharkover 64 62
+     64  Jamie Wei          def.  Marija Curnic     75 64
+     64  Iris Gallo         def.  Vineetha Mummadi  64 26 [6]
+     64  Veronika Kulhava   def.  Gavriella Smith   64 26 [2]
+     64  Saige Roshkoff     def.  Evie Wei          75 46 [2]
+     64  Yining Tian        def.  Sonia Tartakovsky 61 36 [6]
+     64  Sena Takebe        def.  Gibson Thomas     61 64
+     64  Sonia Maheshwari   def.  Rine Nozaki       62 62
+     64  Clarise Huang      def.  Miu Yabuta        61 75
+     64  Eileen Wang        def.  Juleta Honrubia   75 61
+ > Draw 1.2
+  > Main
+     64  Aliza Askarova     def.  Iris Gallo        61 64
+     64  Gavriella Smith    def.  Juleta Honrubia   75 60
+     64  Eileen Wang        def.  Viva Laas         75 61
+     64  Dominika Sujova    def.  Saige Roshkoff    63 16 [4]
+     64  Alexandra Savu     def.  Clarise Huang     62 61
+     64  Gibson Thomas      def.  Khary Pryce       63 61
+ > Draw 2
+  > Main
+     64  Jamie Wei          def.  Lorie Lemongo     75 46 [8]
+     64  Vineetha Mummadi   def.  Renata Lombera    63 64
+     64  Veronika Kulhava   def.  Isabel Cabrerizo  62 63
+     64  Evie Wei           def.  Tara Veluvolu     63 76(4)
+     64  Yining Tian        def.  Corte Cristina    63 61
+     64  Aida Garcia Medez  def.  Sena Takebe       64 62
+     64  Stefaniya Surikova def.  Pauline Kharkover 31 Ret.
+     64  Lan Mi             def.  Marija Curnic     46 76(3) [4]
+     64  Gavriella Smith    def.  Maria Adiaconitei 61 63
+     64  Lauren Stein       def.  Iris Gallo        63 64
+     64  Eileen Wang        def.  Hoi Ki Jenny Wong 63 76(2)
+     64  Valerie Ho         def.  Saige Roshkoff    57 75 [7]
+     64  Alexandra Savu     def.  Sonia Tartakovsky 64 61
+     64  Sonia Maheshwari   def.  Fatima El Ashram  75 16 [9]
+     64  Seychelle Balog    def.  Clarise Huang     64 63
+ > Draw 3
+  > Main
+     64  Marija Curnic      def.  Lorie Lemongo     62 26 [4]
+     64  Gavriella Smith    def.  Renata Lombera    62 61
+     64  Isabel Cabrerizo   def.  Iris Gallo        75 76(7)
+     64  Eileen Wang        def.  Tara Veluvolu     61 46 [10]
+     64  Saige Roshkoff     def.  Aida Garcia Medez 64 63
+     64  Clarise Huang      def.  Corte Cristina    64 63
+     64  Gibson Thomas      def.  Pauline Kharkover 60 20 Ret.
+ > Draw 3.2
+  > Main
+     64  Lauren Stein       def.  Jamie Wei         06 61 [18]
+     64  Vineetha Mummadi   def.  Maria Adiaconitei 62 61
+     64  Veronika Kulhava   def.  Hoi Ki Jenny Wong 62 63
+     64  Evie Wei           def.  Valerie Ho        60 61
+     64  Alexandra Savu     def.  Yining Tian       76(6) 64
+     64  Sena Takebe        def.  Katherine Nguyen  75 16 [8]
+     64  Stefaniya Surikova def.  Fatima El Ashram  63 64
+     64  Khary Pryce        def.  Rine Nozaki       76(4) 75
+     64  Seychelle Balog    def.  Miu Yabuta        60 63
+ > Draw 2.2
+  > Main
+     64  Lan Mi             def.  Aliza Askarova    36 62 [7]
+     64  Juleta Honrubia    def.  Katherine Nguyen  60 60
+     64  Viva Laas          def.  Khary Pryce       61 63
+     64  Dominika Sujova    def.  Seychelle Balog   63 63
 ~~~
 
 <a name="21-65872"></a>
@@ -833,7 +884,7 @@
  Women's Open Singles
  > Draw
   > Main
-      F (1) Natasha Subhash       vs  (3) Elaine Chervinsky    Mon @ 14:00
+      F (1) Natasha Subhash      def. (3) Elaine Chervinsky    64 62
      SF (1) Natasha Subhash      def. (5) Tatsiana Sasnouskaya 75 16 61
      SF (3) Elaine Chervinsky    def. (2) Yuliia Starodubtseva 64 16 76(3)
      QF (1) Natasha Subhash      def. (8) Mila Saric           26 75 62
@@ -1238,10 +1289,12 @@
  Women's Open Singles
  > Main
   > Main
-      QF  (1) Vanessa Wong          vs   (5) Alexandra Yepifanova Mon @ 11:00
-      QF  (4) Jessica Alsola        vs   (6) Angelica Blake       Mon @ 11:00
-      QF  (9) Sarah-Maude Fortin    vs   (3) Mariia Kozyreva      Mon @ 11:00
-      QF      Kimberley Bhunu       vs   (2) Connie Ma            Mon @ 11:00
+      SF  (5) Alexandra Yepifanova  vs   (4) Jessica Alsola       Tue @ 10:00
+      SF  (3) Mariia Kozyreva       vs   (2) Connie Ma            Tue @ 10:00
+      QF  (5) Alexandra Yepifanova def.  (1) Vanessa Wong         64 76(3)
+      QF  (4) Jessica Alsola       def.  (6) Angelica Blake       16 62 60
+      QF  (3) Mariia Kozyreva      def.  (9) Sarah-Maude Fortin   61 61
+      QF  (2) Connie Ma            def.      Kimberley Bhunu      60 62
       16  (1) Vanessa Wong         def. (13) Jada Bui             46 62 63
       16  (5) Alexandra Yepifanova def. (15) Maria Martinez Vaqu… 62 61
       16  (4) Jessica Alsola       def. (10) Valencia Xu          75 62
@@ -1364,7 +1417,7 @@
      128  (2) Connie Ma            def.      Eliza Bates          61 60
  > Invitational
   > Main
-       F      Hana Gamracy          vs   (2) Kelly Leung          Mon @ 10:00
+       F  (2) Kelly Leung          def.      Hana Gamracy         63 63
       SF      Hana Gamracy         def.      Megan Carmichael     75 75
       SF  (2) Kelly Leung          def.      Carlotta Nonnis Mar… 61 62
       QF      Megan Carmichael     def.  (1) Ashley Chang         26 64 [3]
@@ -1853,6 +1906,12 @@
  > Written Draw 4 10/23
   > Main
        F      Midori Castillo      def.      Marta Gonzalez-Ball… 63 60
+ > Extra Matches 10/24
+  > Main
+      R3      Kayla Meraz          def.      Alexis Merrill       75 76(5)
+      R1      Salma Ziouti         def.      Lea Romain           57 61 60
+      R1      Midori Castillo      def.      Tal Talya Zandbers   63 62
+      R1      Parker Fry           def.      Gitte Heynemans      64 61
 ~~~
 
 <a name="21-36554"></a>

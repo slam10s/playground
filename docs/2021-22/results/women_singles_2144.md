@@ -5,7 +5,9 @@
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaGulfCoastUniversityW/Tournaments/Overview/366369DF-D1D6-4447-B214-C4B5012C2F42" target="_blank">FGCU Cellegiate Open</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityW/Tournaments/Overview/F28FCCEF-4BC1-4442-AA94-59500ADE80D8" target="_blank">Gonzaga Invite</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityW/Tournaments/Overview/92D5D3EA-78F6-46C4-B8B6-24485A28CE1D" target="_blank">Gonzaga Invite BULLDOG</a>  
+- 11/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Harvard Fall Invitational</a>  
 - 11/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3C0D3BF7-1EA0-4314-9798-02FE691DD86E" target="_blank">ITA National Fall Championships</a>  
+- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SantaClaraUniversityW/Tournaments/Overview/BBE3EA3C-9201-43BE-AD2E-553A4B616F3C" target="_blank">SCU/SJSU Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonW/Tournaments/Overview/FE307133-DF38-4D97-8DE6-D59D765D1738" target="_blank">Seahawk Ocean Classic</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3BD3D9A3-1CE7-4BB9-93E6-7D1ECED07DFE" target="_blank">Southern Conference Men's & Women's Fall Tennis Championships</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Stetson Invite #2</a>  

@@ -163,12 +163,15 @@
 ~~~
 ═══════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Carolina Regional Championship
-  Dates: Oct 22-25, 2021
+  Dates: Oct 22-26, 2021
   Host: Duke University (M)
 ═══════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main Draw
   > Main
+       F (7) Schnaitter/Banthia   vs      Kania/Zapp           Tue @ 10:00
+      SF (7) Schnaitter/Banthia  def.     Van Sambeek/Rocens   46 63 [6]
+      SF     Kania/Zapp          def.     Simon/Savva          67(5) 61 [10]
       QF     Van Sambeek/Rocens  def. (1) Cernoch/Kiger        64 46 [7]
       QF (7) Schnaitter/Banthia  def.     Harris/Enslin        64 64
       QF     Simon/Savva         def. (4) Barkai/Staeheli      75 63
@@ -369,6 +372,7 @@
  Men's Open Doubles
  > Draw
   > Main
+      F (2) Fery/Rotsaert        def.     Hollingworth/Trkulja 62 61
      SF     Hollingworth/Trkulja def.     Basing/Sah           26 64 [8]
      SF (2) Fery/Rotsaert        def. (3) Chidekh/Suko         64 64
      QF     Basing/Sah           def. (1) Charlton/Vandecaste… 84

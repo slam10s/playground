@@ -203,15 +203,15 @@
 
 <a name="21-49776"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Atlantic Regional Championship
   Dates: Oct 22-25, 2021
   Host: University Of Virginia (W)
-══════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
-      F (1) Sasnouskaya/Starodu…  vs  (3) Collard/Shaikh       Mon @ 13:30
+      F (1) Sasnouskaya/Starodu… def. (3) Collard/Shaikh       67(7) 76(5) [4]
      SF (1) Sasnouskaya/Starodu… def. (4) Chervinsky/Ziodato   61 61
      SF (3) Collard/Shaikh       def.     Bach/Perez Mur       63 64
      QF (1) Sasnouskaya/Starodu… def.     Cadar/Brumfield      87(4)
@@ -230,15 +230,15 @@
 
 <a name="21-25213"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
   ITA Division I Women's Central Regional Championship
   Dates: Oct 21-25, 2021
   Host: University Of Iowa (W)
-═══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Doubles
   > Main
-       F  Kadleckova/Cabezas    vs   Hsieh/Naklo          Mon @ 15:30
+       F  Kadleckova/Cabezas   def.  Hsieh/Naklo          75 46 [3]
       SF  Kadleckova/Cabezas   def.  Rice/Cross           63 62
       SF  Hsieh/Naklo          def.  Alloyarova/Ukita     62 63
       QF  Rice/Cross           def.  Sleeth/Pisareva      84
@@ -361,10 +361,13 @@
  Women's Open Doubles
  > Main
   > Main
-     QF (1) Blake/Ma              vs      Kozyreva/Massey      Mon @ 11:00
-     QF (3) Alsola/Richardson     vs      Gurevich/Stavropoul… Mon @ 11:00
-     QF (5) Madurawe/Yepifanova   vs  (4) Martinez Vaquero/Co… Mon @ 11:00
-     QF     Harris/Ronney         vs      Mulville/Luescher    Mon @ 11:00
+      F (1) Blake/Ma              vs  (5) Madurawe/Yepifanova  Tue @ 13:00
+     SF (1) Blake/Ma             def. (3) Alsola/Richardson    87(7)
+     SF (5) Madurawe/Yepifanova  def.     Harris/Ronney        86
+     QF (1) Blake/Ma             def.     Kozyreva/Massey      86
+     QF (3) Alsola/Richardson    def.     Gurevich/Stavropoul… 84
+     QF (5) Madurawe/Yepifanova  def. (4) Martinez Vaquero/Co… 87(7)
+     QF     Harris/Ronney        def.     Mulville/Luescher    82
      16 (1) Blake/Ma             def.     Villan Pereira/Babic 61
      16     Kozyreva/Massey      def. (5) Mould/Teixido Garcia 61
      16 (3) Alsola/Richardson    def.     Choy/Xu              62

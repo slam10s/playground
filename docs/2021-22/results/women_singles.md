@@ -396,7 +396,7 @@
  Women's Open Singles
  > Draw
   > Main
-      F (1) Natasha Subhash       vs  (3) Elaine Chervinsky    Mon @ 14:00
+      F (1) Natasha Subhash      def. (3) Elaine Chervinsky    64 62
      SF (1) Natasha Subhash      def. (5) Tatsiana Sasnouskaya 75 16 61
      SF (3) Elaine Chervinsky    def. (2) Yuliia Starodubtseva 64 16 76(3)
      QF (1) Natasha Subhash      def. (8) Mila Saric           26 75 62
@@ -801,10 +801,12 @@
  Women's Open Singles
  > Main
   > Main
-      QF  (1) Vanessa Wong          vs   (5) Alexandra Yepifanova Mon @ 11:00
-      QF  (4) Jessica Alsola        vs   (6) Angelica Blake       Mon @ 11:00
-      QF  (9) Sarah-Maude Fortin    vs   (3) Mariia Kozyreva      Mon @ 11:00
-      QF      Kimberley Bhunu       vs   (2) Connie Ma            Mon @ 11:00
+      SF  (5) Alexandra Yepifanova  vs   (4) Jessica Alsola       Tue @ 10:00
+      SF  (3) Mariia Kozyreva       vs   (2) Connie Ma            Tue @ 10:00
+      QF  (5) Alexandra Yepifanova def.  (1) Vanessa Wong         64 76(3)
+      QF  (4) Jessica Alsola       def.  (6) Angelica Blake       16 62 60
+      QF  (3) Mariia Kozyreva      def.  (9) Sarah-Maude Fortin   61 61
+      QF  (2) Connie Ma            def.      Kimberley Bhunu      60 62
       16  (1) Vanessa Wong         def. (13) Jada Bui             46 62 63
       16  (5) Alexandra Yepifanova def. (15) Maria Martinez Vaqu… 62 61
       16  (4) Jessica Alsola       def. (10) Valencia Xu          75 62
@@ -927,7 +929,7 @@
      128  (2) Connie Ma            def.      Eliza Bates          61 60
  > Invitational
   > Main
-       F      Hana Gamracy          vs   (2) Kelly Leung          Mon @ 10:00
+       F  (2) Kelly Leung          def.      Hana Gamracy         63 63
       SF      Hana Gamracy         def.      Megan Carmichael     75 75
       SF  (2) Kelly Leung          def.      Carlotta Nonnis Mar… 61 62
       QF      Megan Carmichael     def.  (1) Ashley Chang         26 64 [3]
@@ -1416,6 +1418,12 @@
  > Written Draw 4 10/23
   > Main
        F      Midori Castillo      def.      Marta Gonzalez-Ball… 63 60
+ > Extra Matches 10/24
+  > Main
+      R3      Kayla Meraz          def.      Alexis Merrill       75 76(5)
+      R1      Salma Ziouti         def.      Lea Romain           57 61 60
+      R1      Midori Castillo      def.      Tal Talya Zandbers   63 62
+      R1      Parker Fry           def.      Gitte Heynemans      64 61
 ~~~
 
 Return to the [Top](./women_singles_2143.md) &#124; [Home Page](../../index.md)

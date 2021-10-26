@@ -324,12 +324,13 @@
 ~~~
 ═════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Carolina Regional Championship
-  Dates: Oct 22-25, 2021
+  Dates: Oct 22-26, 2021
   Host: Duke University (M)
 ═════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main Draw
   > Main
+       F (11) Andrew Zhang          vs   (7) Taha Baadi           Tue @ 10:00
       SF (11) Andrew Zhang         def.  (8) Connor Thomson       62 57 64
       SF  (7) Taha Baadi           def. (17) Connor Krug          64 76(5)
       QF  (8) Connor Thomson       def. (17) Jake Beasley         62 62
@@ -839,7 +840,7 @@
  Men's Open Singles
  > Draw
   > Main
-      F (1) Arthur Fery           vs  (2) Clement Chidekh      Mon @ 10:30
+      F (1) Arthur Fery          def. (2) Clement Chidekh      36 63 61
      SF (1) Arthur Fery          def. (5) Yuta Kikuchi         75 75
      SF (2) Clement Chidekh      def. (6) Sema Pankin          64 64
      QF (1) Arthur Fery          def. (7) Ewen Lumsden         64 61
