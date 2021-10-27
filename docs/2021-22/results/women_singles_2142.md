@@ -194,7 +194,7 @@
      64      Nina Geissler        def.      Otoha Aoki           64 62
      64 (14) Ludmila Kareisova    def.      Tjasa Klevisar       63 76(5)
      64      Adeline Flach        def.      Vanessa Mellynchuk   36 60 62
-     64  (7) Georgie Axon         def.      Anaelle Leclerq-Fic… 64 63
+     64  (7) Georgie Axon         def.      Anaelle Leclercq-Fi… 64 63
      64      Chloe Cirotte        def.      Aina Domingo Bernab… 61 64
      64 (10) Ena Babic            def.      Lily Walther         46 64 60
      64      Ola Pitak            def.      Delien Klienhans     61 61
@@ -268,7 +268,7 @@
      64      Charlotte Russell    def.      Romane Mosse         75 26 [2]
      64      Ella Tuomela         def.      Enya Ratkic          63 76(6)
      64      Leonie Schuknecht    def.      Viktorie Wojcikova   67(6) 61 [6]
-     64      Anaelle Leclerq-Fic… def.      Yu Chen              76(4) 76(5)
+     64      Anaelle Leclercq-Fi… def.      Yu Chen              76(4) 76(5)
      64      Jiayun Zhu           def.      Daniela Hernandez    46 75 [11]
      64      Thitirat Kanaphuet   def.      Shaye Longwell       63 61
      64      Kelsey Mize          def.      Anastasia Astakhova  36 63 [3]
@@ -283,7 +283,7 @@
      64      Rachel Krzyzak       def.      Mackenzie Clark      63 64
      64      Alexandra Mikhailuk  def.      Lillian Gabrielsen   62 64
      64      Charlotte Russell    def.      Anastasiia Khokhlova 06 64 61
-     64      Anaelle Leclerq-Fic… def.      Kasia Pitak          76(4) 60
+     64      Anaelle Leclercq-Fi… def.      Kasia Pitak          76(4) 60
      64      Alexandra Ferreira … def.      Olivia Elliott       63 62
      64      Elysia Pool          def.      Anastasia Astakhova  63 64
      64      Lily Walther         def.      Enya Ratkic          57 64 [2]
@@ -2001,7 +2001,7 @@
  > WU vs AUG
   > Main
      R2  Claudia Roca         def.  Alex Lopez           62 60
-     R2  Edith Croda          def.  Chole Kosmrlj        36 62 [2]
+     R2  Edith Croda          def.  Chloe Kosmrlj        36 62 [2]
      R2  Flaminia Guidantoni  def.  Teresa Dias          61 63
  > USCS vs QU 1
   > Main
@@ -2031,7 +2031,7 @@
  > QU 1 vs WU
   > Main
      R1  Hanna Axelsson       def.  Suzuka Sambyakugari  76(5) 63
-     R1  Chole Kosmrlj        def.  Viktorija Veselinova 76(7) 57 [6]
+     R1  Chloe Kosmrlj        def.  Viktorija Veselinova 76(7) 57 [6]
      R1  Alex Lopez           def.  Jill Morse           16 61 [3]
  > BAC 2 vs USCS
   > Main
