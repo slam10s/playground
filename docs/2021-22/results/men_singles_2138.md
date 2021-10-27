@@ -24,6 +24,7 @@
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s Midwest ITA Regional Championships](#21-17274) ([Results](#21-17274) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GrandValleyStateUnivM/Tournaments/Overview/26DF39F0-F2D2-497F-BD96-DD51F691B038" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division III Men's South ITA Regional Championships](#21-74251) ([Results](#21-74251) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BerryCollegeM/Tournaments/Overview/CC92D4A0-BB0F-49D9-B0D3-36812E68174B" target="_blank">Draws</a>)  
 - 9/23/2021 - [Division III Men's Southwest ITA Regional Championships](#21-59346) ([Results](#21-59346) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TrinityUniversityM/Tournaments/Overview/7E4A065E-3568-4C36-BAA5-012DA232FED0" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Men’s New England ITA Regional Championships](#21-19898) ([Results](#21-19898) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeM/Tournaments/Overview/32495C08-214F-4BEB-9F2E-E234A71A4941" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Central ITA Regional Championships](#21-33883) ([Results](#21-33883) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CowleyCountyCCM/Tournaments/Overview/BC95B2DD-9F42-4CC1-B3FD-B28A7F6354E1" target="_blank">Draws</a>)  
@@ -37,7 +38,6 @@
 
 **Tournaments without Matches**  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoM/Tournaments/Overview/82163CFE-9C1D-409A-B99B-CD82AF62340D" target="_blank">Toledo Rocket Invitational</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BerryCollegeM/Tournaments/Overview/CC92D4A0-BB0F-49D9-B0D3-36812E68174B" target="_blank">Division III Men's South ITA Regional Championships</a>  
 
 <a name="21-02376"></a>
 ~~~
@@ -2435,6 +2435,238 @@
       16      Nathan Hollis        def.      Marius Pion          61 61
       16      Parker Collignon     def.      Abraham Hougland     62 61
       16      Mark Ivanov          def.      Erik Aarthun         46 64 [6]
+~~~
+
+<a name="21-74251"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════
+  Division III Men's South ITA Regional Championships
+  Dates: Sep 24-26, 2021
+  Host: Berry College (M)
+════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Main Draw
+  > Main
+      F  Jhonny Acosta       def.  Jordan Theron        62 76(4)
+     SF  Jordan Theron       def.  Nolan Shah           62 64
+     SF  Jhonny Acosta       def.  Antonio Mora         64 61
+     QF  Jordan Theron       def.  Augusto Roca         64 26 64
+     QF  Nolan Shah          def.  Juan Pablo Vallejo   62 46 76(1)
+     QF  Jhonny Acosta       def.  Brandon Cohen        62 61
+     QF  Antonio Mora        def.  Jax Harbour          61 62
+     16  Jordan Theron       def.  Diego Segovia        63 75
+     16  Augusto Roca        def.  Matt Barnett         26 62 60
+     16  Juan Pablo Vallejo  def.  Mark Sverdlov        60 Ret.
+     16  Nolan Shah          def.  Quinn Wicklund       62 64
+     16  Brandon Cohen       def.  Ryan Olps            67(4) 76(5) 76(5)
+     16  Jhonny Acosta       def.  Daniel Trudell       62 61
+     16  Jax Harbour         def.  Jackson Davis        36 76(3) 63
+     16  Antonio Mora        def.  Talman Ramsey        63 75
+     32  Jordan Theron       def.  Andrea Fanzaga       63 64
+     32  Diego Segovia       def.  William Coupe        63 63
+     32  Matt Barnett        def.  Sahil Raina          61 36 76(5)
+     32  Augusto Roca        def.  Noah Holsclaw        36 62 64
+     32  Juan Pablo Vallejo  def.  Gil Weston           46 64 61
+     32  Mark Sverdlov       def.  Valentin Aniceto     62 62
+     32  Nolan Shah          def.  Justin Bobo          60 60
+     32  Quinn Wicklund      def.  Ben Luke             64 61
+     32  Brandon Cohen       def.  Hallet Green         63 64
+     32  Ryan Olps           def.  Vittorio Noli        62 60
+     32  Daniel Trudell      def.  Peyton Erck          06 75 62
+     32  Jhonny Acosta       def.  Jasper Gazzo         60 62
+     32  Jax Harbour         def.  Nicolo Iacoboni      76(4) 46 61
+     32  Jackson Davis       def.  John Falke           75 06 75
+     32  Talman Ramsey       def.  Luca Knese           62 63
+     32  Antonio Mora        def.  Tshepo Mosarwa       63 61
+     64  Jordan Theron       def.  Brady St Martin      62 62
+     64  Andrea Fanzaga      def.  Sujay Sharma         63 76(5)
+     64  Diego Segovia       def.  Gabriel Williams     62 75
+     64  William Coupe       def.  Ryan Stafford        61 62
+     64  Matt Barnett        def.  John Kimball         63 63
+     64  Sahil Raina         def.  Faraz Ghamgosar      62 76(5)
+     64  Noah Holsclaw       def.  Ameya Dani           63 62
+     64  Augusto Roca        def.  Ashton Whitt         61 60
+     64  Juan Pablo Vallejo  def.  Houston Medlock      62 62
+     64  Gil Weston          def.  Santiago Suarez      67(3) 64 75
+     64  Mark Sverdlov       def.  Ethan Gibson         62 62
+     64  Valentin Aniceto    def.  Zoe Raymond          60 62
+     64  Nolan Shah          def.  Tanner Debardelaben  62 63
+     64  Justin Bobo         def.  Berto LeRoux         60 61
+     64  Quinn Wicklund      def.  Emerson Dean         61 61
+     64  Ben Luke            def.  Alberto Nunez        62 67(5) 64
+     64  Brandon Cohen       def.  Henry Murray         63 60
+     64  Hallet Green        def.  Gleb Ibragimov       76(10) 61
+     64  Vittorio Noli       def.  Noah Koch            61 61
+     64  Ryan Olps           def.  Gill Dunn            63 60
+     64  Peyton Erck         def.  Pushkar Shinde       63 76(5)
+     64  Daniel Trudell      def.  Bohdan Zhylchuk      62 64
+     64  Jasper Gazzo        def.  Ej Stolmeijer        16 76(3) Ret.
+     64  Nicolo Iacoboni     def.  Hamilton Jackson     62 61
+     64  Jax Harbour         def.  Vincent Claussen     64 60
+     64  Jackson Davis       def.  David Phillips       61 62
+     64  John Falke          def.  Diego Lopez Barahona 62 63
+     64  Luca Knese          def.  Daniel Cohen         62 62
+     64  Talman Ramsey       def.  Wil Dotson           64 61
+     64  Tshepo Mosarwa      def.  Mark Motlow          76(6) 60
+     64  Antonio Mora        def.  Kelsey Smilye        60 60
+ > B1
+  > Main
+      F  Liam Baer           def.  Hugh Graham          Walkover
+     SF  Hugh Graham         def.  Max Robinson         62 63
+     SF  Liam Baer           def.  Matan Amitay         75 16 61
+     QF  Max Robinson        def.  Cameron Burkes       61 62
+     QF  Hugh Graham         def.  Michael Moll         63 64
+     QF  Matan Amitay        def.  Bryce van Order      60 61
+     QF  Liam Baer           def.  Ryan Crump           62 62
+     16  Max Robinson        def.  Kells Hecht          60 61
+     16  Cameron Burkes      def.  Quinn McNamara       64 63
+     16  Michael Moll        def.  Eli Ingleson         Walkover
+     16  Hugh Graham         def.  Solomon Crouch       61 61
+     16  Bryce van Order     def.  Sam Dean             46 64 75
+     16  Matan Amitay        def.  Carsten Balao        62 62
+     16  Liam Baer           def.  Matthew Bulow        62 61
+     16  Ryan Crump          def.  Ben Falk             62 62
+ > B2
+  > Main
+      F  Ryan Glanville      def.  Liam Selvido         62 64
+     SF  Liam Selvido        def.  Thato Holmes         61 64
+     SF  Ryan Glanville      def.  Joaquin Micheloni    46 64 63
+     QF  Thato Holmes        def.  Elijah Gabriel       76(5) 63
+     QF  Liam Selvido        def.  Silas Sandles        62 61
+     QF  Joaquin Micheloni   def.  Luke Laney           76(9) 63
+     QF  Ryan Glanville      def.  Jakub Bobinski       60 62
+     16  Elijah Gabriel      def.  Alex Gardiner        60 62
+     16  Thato Holmes        def.  Spencer Bourn        63 61
+     16  Silas Sandles       def.  Cameron Cortman      46 62 62
+     16  Liam Selvido        def.  Tony Molinet         60 61
+     16  Luke Laney          def.  Kyle Lutian          62 62
+     16  Joaquin Micheloni   def.  Mike Porcelli        63 60
+     16  Ryan Glanville      def.  Thomas Ngien         60 60
+     16  Jakub Bobinski      def.  Thomas Harrison      16 64 64
+ > B3
+  > Main
+      F  Ignacio Alia        def.  Angel Vasquez        64 64
+     SF  Angel Vasquez       def.  Chris Bale           62 60
+     SF  Ignacio Alia        def.  Fant Smith           64 62
+     QF  Chris Bale          def.  Newcomb Maddux       61 63
+     QF  Angel Vasquez       def.  Bo Williams          60 61
+     QF  Fant Smith          def.  Patrick Dempsey      76(4) Ret.
+     QF  Ignacio Alia        def.  Chris Morton         63 62
+     16  Newcomb Maddux      def.  Bryce Livingston     63 36 61
+     16  Chris Bale          def.  Tom Smith            64 57 63
+     16  Angel Vasquez       def.  Ryan Raugh           60 61
+     16  Bo Williams         def.  Brian Graves         60 64
+     16  Patrick Dempsey     def.  Aj Rogers            67(9) 63 64
+     16  Fant Smith          def.  Matthew Moore        62 63
+     16  Chris Morton        def.  Aydan Grossman       63 63
+     16  Ignacio Alia        def.  Cooper Kework        61 61
+ > B4
+  > Main
+      F  Ryan Wax            def.  Tomas Coradazzi      75 64
+     SF  Ryan Wax            def.  Valentin Morelli     63 64
+     SF  Tomas Coradazzi     def.  Michael Allen        61 60
+     QF  Valentin Morelli    def.  Emory Jordan         61 61
+     QF  Ryan Wax            def.  Dru Gresham          60 61
+     QF  Tomas Coradazzi     def.  Tyler Kelly          60 62
+     QF  Michael Allen       def.  John Andress         64 61
+     16  Valentin Morelli    def.  Camden Lashley       60 62
+     16  Emory Jordan        def.  Jack Traylor         62 61
+     16  Dru Gresham         def.  Joseph Haynes        62 61
+     16  Ryan Wax            def.  Ian Cowan            61 60
+     16  Tomas Coradazzi     def.  Roman Webb           62 60
+     16  Tyler Kelly         def.  Chris Stevens        75 62
+     16  Michael Allen       def.  Leo Galarza          60 61
+     16  John Andress        def.  Andrew Graham        64 67(3) 60
+ > B5
+  > Main
+      F  Jett Anderson       def.  Matthew Ridden       63 60
+     SF  Jett Anderson       def.  Reed Martinson       62 61
+     SF  Matthew Ridden      def.  David Netherton      76(3) 60
+     QF  Reed Martinson      def.  Jeb Barnette         57 76(5) 60
+     QF  Jett Anderson       def.  Bohdan Higley        60 62
+     QF  Matthew Ridden      def.  Connor Murphy        57 64 63
+     QF  David Netherton     def.  Kody Dills           62 64
+     16  Jeb Barnette        def.  Jc Foster            64 26 62
+     16  Reed Martinson      def.  Griffen Valiulis     54 Ret.
+     16  Bohdan Higley       def.  Jason Ball           60 63
+     16  Jett Anderson       def.  Colin Drawdy         60 60
+     16  Connor Murphy       def.  Luke Mitchell        61 75
+     16  Matthew Ridden      def.  Jacob Lehmann        64 60
+     16  David Netherton     def.  Cainan Black         63 75
+ > Main Draw Consolation
+  > Main
+     QF  Sujay Sharma        def.  Ryan Stafford        64 61
+     QF  Santiago Suarez     def.  Tanner Debardelaben  63 63
+     QF  Noah Koch           def.  Eli Ingleson         75 61
+     QF  Daniel Cohen        def.  David Phillips       60 63
+     16  Sujay Sharma        def.  Faraz Ghamgosar      36 64 64
+     16  Ryan Stafford       def.  Ashton Whitt         63 63
+     16  Santiago Suarez     def.  Zoe Raymond          64 63
+     16  Tanner Debardelaben def.  Alberto Nunez        60 61
+     16  Noah Koch           def.  Henry Murray         64 46 63
+     16  Eli Ingleson        def.  Bohdan Zhylchuk      63 46 76(5)
+     16  David Phillips      def.  Vincent Claussen     63 60
+     16  Daniel Cohen        def.  Kelsey Smilye        62 62
+     32  Sujay Sharma        def.  Brady St Martin      63 61
+     32  Faraz Ghamgosar     def.  Gabriel Williams     16 62 63
+     32  Ryan Stafford       def.  John Kimball         63 63
+     32  Ashton Whitt        def.  Ameya Dani           67(3) 53 Ret.
+     32  Santiago Suarez     def.  Houston Medlock      62 61
+     32  Zoe Raymond         def.  Ethan Gibson         61 60
+     32  Tanner Debardelaben def.  Berto LeRoux         61 61
+     32  Alberto Nunez       def.  Emerson Dean         75 60
+     32  Henry Murray        def.  Gleb Ibragimov       Walkover
+     32  Noah Koch           def.  Gill Dunn            62 76(5)
+     32  Bohdan Zhylchuk     def.  Pushkar Shinde       64 76(8)
+     32  Eli Ingleson        def.  Ej Stolmeijer        63 61
+     32  Vincent Claussen    def.  Hamilton Jackson     64 60
+     32  David Phillips      def.  Diego Lopez Barahona 36 35 Ret.
+     32  Daniel Cohen        def.  Wil Dotson           76(3) 46 60
+     32  Kelsey Smilye       def.  Mark Motlow          Walkover
+ > B1 Consolation
+  > Main
+      F  Matthew Bulow       def.  Quinn McNamara       76(5) 75
+     SF  Quinn McNamara      def.  Solomon Crouch       75 60
+     SF  Matthew Bulow       def.  Carsten Balao        62 64
+     QF  Quinn McNamara      def.  Kells Hecht          62 67(5) 63
+     QF  Carsten Balao       def.  Sam Dean             Walkover
+     QF  Matthew Bulow       def.  Ben Falk             62 62
+ > B2 Consolation
+  > Main
+      F  Mike Porcelli       def.  Tony Molinet         63 62
+     SF  Tony Molinet        def.  Alex Gardiner        64 60
+     SF  Mike Porcelli       def.  Thomas Harrison      67(2) 63 76(2)
+     QF  Alex Gardiner       def.  Spencer Bourn        46 64 63
+     QF  Tony Molinet        def.  Cameron Cortman      61 63
+     QF  Mike Porcelli       def.  Kyle Lutian          36 75 61
+     QF  Thomas Harrison     def.  Thomas Ngien         61 61
+ > B3 Consolation
+  > Main
+      F  Tom Smith           def.  Aj Rogers            75 64
+     SF  Tom Smith           def.  Ryan Raugh           63 62
+     SF  Aj Rogers           def.  Cooper Kework        63 63
+     QF  Tom Smith           def.  Bryce Livingston     62 62
+     QF  Ryan Raugh          def.  Brian Graves         60 75
+     QF  Aj Rogers           def.  Matthew Moore        61 60
+     QF  Cooper Kework       def.  Aydan Grossman       60 75
+ > B4 Consolation
+  > Main
+      F  Jack Traylor        def.  Chris Stevens        64 61
+     SF  Jack Traylor        def.  Ian Cowan            60 63
+     SF  Chris Stevens       def.  Andrew Graham        61 60
+     QF  Jack Traylor        def.  Camden Lashley       61 64
+     QF  Ian Cowan           def.  Joseph Haynes        63 57 75
+     QF  Chris Stevens       def.  Roman Webb           61 46 75
+     QF  Andrew Graham       def.  Leo Galarza          36 75 62
+ > B5 Consolation
+  > Main
+      F  Jason Ball          def.  Jacob Lehmann        Walkover
+     SF  Jason Ball          def.  Jc Foster            36 62 64
+     SF  Jacob Lehmann       def.  Kody Dills           36 76(6) 76(7)
+     QF  Jc Foster           def.  Griffen Valiulis     Walkover
+     QF  Jason Ball          def.  Colin Drawdy         60 63
+     QF  Jacob Lehmann       def.  Luke Mitchell        16 63 75
+     QF  Kody Dills          def.  Cainan Black         64 63
 ~~~
 
 <a name="21-59346"></a>

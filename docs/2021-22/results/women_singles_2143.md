@@ -11,11 +11,14 @@
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 
 **Upcoming Tournaments**  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Brown Quad</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">FIU Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Gamecock Shootout</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">NIU Huskie Indoor Invitational</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Rice Invite</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Roberta Alison Fall Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Shark Bite Invite</a>  
@@ -750,11 +753,11 @@
 
 <a name="21-91007"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Midwest Regional Championship
   Dates: Oct 22-26, 2021
   Host: Ohio State University (W)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Main Draw
   > Main
@@ -789,6 +792,19 @@
      32     Megan Heuser         def.     Nibedita Ghosh       46 62 60
      32     Sydni Ratliff        def.     Ana Jover            61 62
      32 (2) Kari Miller          def.     Tijana Zlatanovic    61 62
+ > Extra Matches Saturday
+  > Main
+     16     Lina Ali             def.     Alexandra Abyasova   76(3) 61
+     16     Madeline Atway       def.     Tijana Zlatanovic    64 63
+     16     Ema Lazic            def.     Josie Frazier        62 75
+     16     Ashley Yeah          def.     Carrie Beckman       76(6) 61
+     16     Julia Andreach       def.     Taylor Cataldi       75 63
+     16     Ava Markham          def.     Nibedita Ghosh       63 75
+ > Extra Matches Sunday
+  > Main
+     QF     Julia Fliegner       def.     Julia Andreach       63 67(2) [6]
+     QF     Lina Ali             def.     Carrie Beckman       76(9) 75
+     QF     Nibedita Ghosh       def.     Madeline Atway       61 36 [7]
 ~~~
 
 <a name="21-52217"></a>
@@ -801,8 +817,9 @@
  Women's Open Singles
  > Main
   > Main
-      SF  (5) Alexandra Yepifanova  vs   (4) Jessica Alsola       Tue @ 10:00
-      SF  (3) Mariia Kozyreva       vs   (2) Connie Ma            Tue @ 10:00
+       F  (2) Connie Ma            def.  (5) Alexandra Yepifanova 64 61
+      SF  (5) Alexandra Yepifanova def.  (4) Jessica Alsola       62 75
+      SF  (2) Connie Ma            def.  (3) Mariia Kozyreva      64 64
       QF  (5) Alexandra Yepifanova def.  (1) Vanessa Wong         64 76(3)
       QF  (4) Jessica Alsola       def.  (6) Angelica Blake       16 62 60
       QF  (3) Mariia Kozyreva      def.  (9) Sarah-Maude Fortin   61 61
@@ -824,7 +841,7 @@
       32  (6) Angelica Blake       def.      Erin Richardson      60 60
       32      Savanna Ly-Nguyen    def.      Emily Ackerman       76(2) 61
       32  (9) Sarah-Maude Fortin   def.      Myah Petchey         75 62
-      32  (7) Julia Rosenqvist     def.      Matilde Magrini      64 75
+      32  (7) Julia Rosenqvist     def.      Matilde Magrini      63 36 64
       32 (14) Uxia Martinez Moral  def.      Makenna Thiel        64 75
       32  (3) Mariia Kozyreva      def.      Tara Chilton         60 63
       32      Kimberley Bhunu      def. (12) Hannah Viller Moell… 63 61
@@ -929,7 +946,7 @@
      128  (2) Connie Ma            def.      Eliza Bates          61 60
  > Invitational
   > Main
-       F  (2) Kelly Leung          def.      Hana Gamracy         63 63
+       F  (2) Kelly Leung          def.      Hana Gamracy         61 63
       SF      Hana Gamracy         def.      Megan Carmichael     75 75
       SF  (2) Kelly Leung          def.      Carlotta Nonnis Mar… 61 62
       QF      Megan Carmichael     def.  (1) Ashley Chang         26 64 [3]
@@ -939,7 +956,7 @@
       16  (1) Ashley Chang         def.      Madisen Olsen        61 60
       16      Megan Carmichael     def.      Daisy Maunupau       64 60
       16      Lindsey Pesqueira    def.  (4) Olivia Wiese         64 62
-      16      Hana Gamracy         def.      Janie Ellis          62 06 [5]
+      16      Hana Gamracy         def.      Janie Ellis          62 06 [6]
       16      Carlotta Nonnis Mar… def.      Madeleine Page       61 63
       16  (3) Yolanda Lin          def.      Mia Ljubas           60 60
       16      Kacey Feng           def.      Qianer Qiu           75 63
@@ -1095,6 +1112,7 @@
      64Q      Denise Torrealba     def.      Anja Trbeznik        60 60
      64Q      Abigail Solomon      def.      Meghan Bernard       61 60
      64Q      Emma van Hee         def.      Ananya Kothakota     62 62
+     64Q      Jana Leder           def.      Zani Barnard         46 62 [7]
      64Q      Lia Espinal          def.      Sarah Dev            26 60 [14]
      64Q      Catherine Denysiewi… def.      Sylvia Gray          75 61
      64Q      Emma Beavin          def.      Taylor Trondson      62 63
@@ -1424,6 +1442,9 @@
       R1      Salma Ziouti         def.      Lea Romain           57 61 60
       R1      Midori Castillo      def.      Tal Talya Zandbers   63 62
       R1      Parker Fry           def.      Gitte Heynemans      64 61
+ > Extra Extra Matches 10/24
+  > Main
+       F      Khim Iglupas         def.      Madison Kim          64 61
 ~~~
 
 Return to the [Top](./women_singles_2143.md) &#124; [Home Page](../../index.md)

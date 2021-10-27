@@ -1343,7 +1343,7 @@
      R3  Chiara Gerbino       def.  Amelie Allard        64 64
  > Wingate vs LMC
   > Main
-     R3  Chloe Kosmrlj        def.  Anita Ivanova        75 62
+     R3  Chole Kosmrlj        def.  Anita Ivanova        75 62
      R3  Saga Berggren        def.  Laura Ocampo         60 60
      R3  Elena Gunfaus        def.  Mei Hiramatsu        75 60
  > Montevallo vs LMC
@@ -1365,7 +1365,7 @@
   > Main
      R3  Jessica Ruetten      def.  Yaritza Gonzalez     62 64
      R2  Camilla Ciaccia      def.  Lily Aranyos         60 62
-     R1  Chloe Kosmrlj        def.  Molly Hencken        63 60
+     R1  Chole Kosmrlj        def.  Molly Hencken        63 60
  > Montevallo vs Wingate
   > Main
      R5  Flaminia Guidantoni  def.  Emily Hafner         64 67(4) [6]

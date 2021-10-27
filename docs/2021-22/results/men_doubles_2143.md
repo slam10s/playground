@@ -61,7 +61,7 @@
  Men's Open Doubles
  > Main Draw
   > Main
-       F (7) Schnaitter/Banthia   vs      Kania/Zapp           Tue @ 10:00
+       F (7) Schnaitter/Banthia  def.     Kania/Zapp           61 62
       SF (7) Schnaitter/Banthia  def.     Van Sambeek/Rocens   46 63 [6]
       SF     Kania/Zapp          def.     Simon/Savva          67(5) 61 [10]
       QF     Van Sambeek/Rocens  def. (1) Cernoch/Kiger        64 46 [7]

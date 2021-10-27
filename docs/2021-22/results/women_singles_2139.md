@@ -358,7 +358,7 @@
       64      Inma Ramon           def. (16) Judit Gonzalez       61 46 76(6)
       64      Zoe Heed             def.  (9) Gemma Southwick      61 62
       64      Elisa Aguirre        def. (16) Valentina Ascarrunz  16 62 62
-      64      Paige Wise           def.  (7) Chloe Kosmrlj        64 63
+      64      Paige Wise           def.  (7) Chole Kosmrlj        64 63
       64 (16) Johanna Lippert      def.      Natasha Forrest      63 62
       64  (9) Mariana Ramirez      def.      Svetlana Teterina    64 64
       64 (16) Flaminia Guidantoni  def.      Nele Weber           57 61 62
@@ -398,7 +398,7 @@
   > Consolation
       32      Emilie Hansen        def.      Julia Speiser        62 63
       32      Natasha Forrest      def.      Czarina Aguirre      61 63
-      32  (7) Chloe Kosmrlj        def. (16) Valentina Ascarrunz  Walkover
+      32  (7) Chole Kosmrlj        def. (16) Valentina Ascarrunz  Walkover
       32      Alicia Wahlberg      def.      Julie Martincova     Walkover
       32 (16) Catherine Blouin     def.      Leonie Floeth        46 75 [2]
       32      Maria Kotsiou        def.      Sara Ramirez         76(5) 16 [8]
@@ -416,7 +416,7 @@
       64      Julia Speiser        def.      Nele Weber           64 57 [2]
       64      Czarina Aguirre      def.      Svetlana Teterina    64 63
       64      Natasha Forrest      def.      Bailee Wilson        63 61
-      64  (7) Chloe Kosmrlj        def.      Darja Chistov        62 75
+      64  (7) Chole Kosmrlj        def.      Darja Chistov        62 75
       64 (16) Valentina Ascarrunz  def.      Yelena Labat         64 63
       64      Julie Martincova     def.  (9) Gemma Southwick      Walkover
       64      Alicia Wahlberg      def. (16) Judit Gonzalez       Walkover

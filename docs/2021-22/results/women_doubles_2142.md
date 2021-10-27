@@ -552,15 +552,15 @@
 
 <a name="21-52217"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Division I Women's Northwest Regional Championship
   Dates: Oct 22-26, 2021
   Host: Stanford University (W)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main
   > Main
-      F (1) Blake/Ma              vs  (5) Madurawe/Yepifanova  Tue @ 13:00
+      F (1) Blake/Ma             def. (5) Madurawe/Yepifanova  87(1)
      SF (1) Blake/Ma             def. (3) Alsola/Richardson    87(7)
      SF (5) Madurawe/Yepifanova  def.     Harris/Ronney        86
      QF (1) Blake/Ma             def.     Kozyreva/Massey      86
@@ -621,7 +621,7 @@
      64 (5) Thiel/Viller Moeller def.     Pedrero Galindo/Mur… 75
      64     Mulville/Luescher    def.     Houghton/Geller      Walkover
      64     Petty/Hayer          def.     Sunjic/Dimitrijevic  63
-     64     Magrini/Hummel       def.     Aitken/Oda           82
+     64     Magrini/Hummel       def.     Aitken/Oda           62
      64 (2) Wong/Olsen           def.     Tagaloa/Yotova       61
  > Invitational
   > Main
@@ -788,6 +788,38 @@
      64     Rutowska/Tcherkes-Z… def.     Von Tersch Pohrer/M… 61
      64 (9) Spaka/Jankowski      def.     Rakim/Buhr           60
      64     Lennon/Masuda        def.     Gonzalez-Ballbe/Jan… 62
+ > Extra Matches day 1
+  > Main
+     32     Duffy/Tobrand        def.     Babkova/Szczepanska  64
+     32     Iglupas/Castillo     def.     Merrill/Surapaneni   63
+     32     Zandbers/Kim         def.     Totah/Pavani         60
+     32     Lee/Willson          def.     Heynemans/Romain     64
+     32     Von Tersch Pohrer/M… def.     Mackensen/Mansonhing 76(3)
+     32     Pitts/Jordan         def.     Santibanez Luna/ONe… 61
+     32     Gonzalez-Ballbe/Jan… def.     Carter/Fowler        75
+     32     Garcia/Suh           def.     Hedrzak/Repina       64
+     32     Coetzee/Fraile Tobo… def.     Del Marco/Rakim      60
+     32     Lennon/Masuda        def.     Wilkins/Castillo     64
+     32     Homolkova/Le Du      def.     Schlatter/Gonzalez-… 64
+     32     Daries/Taylor        def.     Vu/Pearson           64
+ > Extra matches day 2
+  > Main
+     32     Games/Koenig         def.     Volodko/Bruu-Syvers… 76(5)
+     32     Homolkova/Le Du      def.     Mackensen/Mansonhing 61
+     32     Babkova/Szczepanska  def.     Totah/Pavani         62
+     32     Lee/Willson          def.     Melosch/Nadozie      75
+     32     Lennon/Masuda        def.     Fry/Wilkins          76(5)
+     32     Kiss/Reuter          def.     Coetzee/Fraile Tobo… 63
+     32     Castillo/Ziouti      def.     Hedrzak/Repina       63
+     32     Spaka/Jankowski      def.     Pitts/Morin          76(3)
+     32     Merrill/Surapaneni   def.     Duffy/Tobrand        76(5)
+     32     Carter/Fowler        def.     Bhadada/Snissarenko  63
+     32     Zandbers/Kim         def.     Dorian/Zhytelna      75
+     32     Santibanez Luna/ONe… def.     Garcia/Suh           62
+     32     Schlatter/Gonzalez-… def.     Vu/Pearson           64
+     32     Gonzalez-Ballbe/Jan… def.     Pachl/Nguyen         63
+     32     Daries/Taylor        def.     Von Tersch Pohrer/M… 62
+     32     Heynemans/Romain     def.     Meraz/Iglupas        63
 ~~~
 
 <a name="21-36554"></a>

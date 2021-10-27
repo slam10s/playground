@@ -1042,10 +1042,10 @@
  > Blue
   > East
       F  Camilla Ciaccia      def.  Elena Gunfaus        Walkover
-     SF  Camilla Ciaccia      def.  Chloe Kosmrlj        61 61
+     SF  Camilla Ciaccia      def.  Chole Kosmrlj        61 61
      SF  Elena Gunfaus        def.  Viktorija Veselinova 62 63
      QF  Camilla Ciaccia      def.  Frankee Hendricks    62 61
-     QF  Chloe Kosmrlj        def.  Hanna Axelsson       76(5) 64
+     QF  Chole Kosmrlj        def.  Hanna Axelsson       76(5) 64
      QF  Viktorija Veselinova def.  Una Pandurevic       63 62
      QF  Elena Gunfaus        def.  Jessica Binzari      63 64
   > West
@@ -1053,7 +1053,7 @@
      SF  Hanna Axelsson       def.  Frankee Hendricks    67(4) 63 [12]
      SF  Jessica Binzari      def.  Una Pandurevic       61 63
   > 3-4 Playoff
-      F  Viktorija Veselinova def.  Chloe Kosmrlj        Walkover
+      F  Viktorija Veselinova def.  Chole Kosmrlj        Walkover
   > South
       F  Frankee Hendricks    def.  Una Pandurevic       61 57 [1]
  > Red

@@ -127,7 +127,7 @@
  Men's Open Singles
  > Main Draw
   > Main
-       F (11) Andrew Zhang          vs   (7) Taha Baadi           Tue @ 10:00
+       F (11) Andrew Zhang         def.  (7) Taha Baadi           57 61 61
       SF (11) Andrew Zhang         def.  (8) Connor Thomson       62 57 64
       SF  (7) Taha Baadi           def. (17) Connor Krug          64 76(5)
       QF  (8) Connor Thomson       def. (17) Jake Beasley         62 62

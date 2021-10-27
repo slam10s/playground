@@ -9,6 +9,7 @@
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [Loyola Classic](#21-67948) ([Results](#21-67948) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Draws</a>)  
 - 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
+- 10/7/2021 - [Utah Invitational](#21-47231) ([Results](#21-47231) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Draws</a>)  
 - 10/9/2021 - [WMU Vredevelt Invite](#21-70570) ([Results](#21-70570) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">Draws</a>)  
 - 10/8/2021 - [Youngstown State Hidden Duals](#21-93245) ([Results](#21-93245) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
@@ -19,7 +20,6 @@
 **Tournaments without Matches**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/FA5825C1-E156-45E3-AB26-60077E129770" target="_blank">Clemson Hidden Duals</a>  
-- 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 
 <a name="21-73796"></a>
@@ -567,6 +567,69 @@
  > GM vs Rad
   > Main
       F  Crane/Mujan        def.  Ha/Pollatos          64
+~~~
+
+<a name="21-47231"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Utah Invitational
+  Dates: Oct 7-10, 2021
+  Host: University Of Utah (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Interlocking U
+  > Main
+     R5  Shaffrey/Pudney      def.  Cierny/Zarkovic      64
+     R5  Panik/Sitar          def.  Caula/Bastias        64
+     R4  Shaffrey/Pudney      def.  Caula/Bastias        61
+     R4  Kramer/Kristensen    def.  Panik/Sitar          63
+     R3  Caula/Bastias        def.  Kramer/Kristensen    62
+     R2  Cierny/Zarkovic      def.  Caula/Bastias        62
+     R2  Shaffrey/Pudney      def.  Kramer/Kristensen    63
+     R1  Caula/Bastias        def.  Buxman/Serafim       64
+     R1  Panik/Sitar          def.  Shaffrey/Pudney      62
+ > Block U
+  > Main
+     R5  Van Dijk/Buckland    def.  Trhac/Fujita         64
+     R5  Sarap/Marouani       def.  Blando/Gavelin       63
+     R5  Mico Fenollar/Ninte… def.  Thielgaard/Sciglita… 63
+     R4  Sarap/Marouani       def.  Trhac/Fujita         63
+     R4  Mico Fenollar/Ninte… def.  Blando/Gavelin       64
+     R4  Van Dijk/Buckland    def.  Thielgaard/Sciglita… 64
+     R3  Van Dijk/Buckland    def.  Mico Fenollar/Ninte… 64
+     R3  Thielgaard/Sciglita… def.  Sarap/Marouani       64
+     R2  Sarap/Marouani       def.  Mico Fenollar/Ninte… 76(1)
+     R2  Van Dijk/Buckland    def.  Blando/Gavelin       75
+     R2  Thielgaard/Sciglita… def.  Trhac/Fujita         75
+     R1  Van Dijk/Buckland    def.  Sarap/Marouani       64
+     R1  Blando/Gavelin       def.  Thielgaard/Sciglita… 64
+ > Drum & Feather
+  > Main
+     R5  Coutinho/Savio       def.  Benn/Stoeger         63
+     R5  Blando/Krenn         def.  Nathan/Monteiro      63
+     R4  Coutinho/Savio       def.  Robbertse/Cankus     64
+     R4  Blando/Krenn         def.  Ruiz Medina/Savin    64
+     R4  Nathan/Monteiro      def.  Benn/Stoeger         64
+     R3  Benn/Stoeger         def.  Blando/Krenn         64
+     R3  Ruiz Medina/Savin    def.  Coutinho/Savio       62
+     R3  Robbertse/Cankus     def.  Nathan/Monteiro      64
+     R2  Benn/Stoeger         def.  Ruiz Medina/Savin    64
+     R2  Nathan/Monteiro      def.  Coutinho/Savio       75
+     R1  Coutinho/Savio       def.  Blando/Krenn         64
+     R1  Benn/Stoeger         def.  Robbertse/Cankus     63
+     R1  Ruiz Medina/Savin    def.  Nathan/Monteiro      63
+ > Doubles - Interlocking U
+  > Main
+     R4  Panik/Sitar          def.  Acosta/Chavez        61
+     R3  Shaffrey/Pudney      def.  Buxman/Lin           61
+     R3  Kramer/Kristensen    def.  Lin/Serafim          76(5)
+     R3  Panik/Sitar          def.  Li/Serafim           64
+     R2  Buxman/Lin           def.  Cierny/Zarkovic      63
+ > Doubles - Block U
+  > Main
+     R3  Trhac/Robbertse      def.  Ruiz Medina/Savin    75
+     R1  Trhac/Robbertse      def.  Blando/Gavelin       63
+     R1  Mico Fenollar/Ninte… def.  Kramer/Kristensen    76(4)
 ~~~
 
 <a name="21-70570"></a>

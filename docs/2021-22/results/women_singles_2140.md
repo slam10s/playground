@@ -13,6 +13,7 @@
 - 10/8/2021 - [Long Beach State Fall Tournament](#21-66132) ([Results](#21-66132) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Draws</a>)  
 - 10/8/2021 - [MVC Individual Championships](#21-95059) ([Results](#21-95059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">Draws</a>)  
 - 10/8/2021 - [Navy Blue and Gold Invitational](#21-53408) ([Results](#21-53408) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C" target="_blank">Draws</a>)  
+- 10/8/2021 - [Samford Round Robin #2](#21-46673) ([Results](#21-46673) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityW/Tournaments/Overview/866AEBC3-0F9A-4F7D-BD2A-0388738EE871" target="_blank">Draws</a>)  
 - 10/10/2021 - [SEMO Invitational](#21-50227) ([Results](#21-50227) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheastMissouriStateUnivW/Tournaments/Overview/E0892C7B-1714-4B99-A547-2386D7847CF2" target="_blank">Draws</a>)  
 - 10/8/2021 - [SMU Red and Blue Invite](#21-78857) ([Results](#21-78857) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/4628479A-19D9-4AD2-91AA-D180971411D5" target="_blank">Draws</a>)  
 - 10/8/2021 - [USC Women of Troy Invitational](#21-75174) ([Results](#21-75174) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F" target="_blank">Draws</a>)  
@@ -1080,6 +1081,69 @@
  > Extra Match
   > Main
       F     Minorka Miranda      def.     Emily Tannenbaum     62 75
+~~~
+
+<a name="21-46673"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Samford Round Robin #2
+  Dates: Oct 8-10, 2021
+  Host: Samford University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day 1 Results
+  > Main
+     64  Dolavee Tumthong     def.  Jana Hecking         76(4) 63
+     64  Monique Woog         def.  Adela Wasserbauerova 75 76(4)
+     64  Mackenzie White      def.  Anastasiia Khokhlova 63 62
+     64  Sydney Clarke        def.  Miriam Grosmann      61 61
+     64  Maggie White         def.  Meredith Jones       64 75
+     64  Vanessa Mellynchuk   def.  Kristina Kukaras     61 64
+     64  Michelle Ncube       def.  Annalisa Smith       57 64 [4]
+     64  Ally Hayduk          def.  Enya Ratkic          61 75
+     64  Alexandra Ferreira … def.  Lauren Waddles       75 76(4)
+     64  Cora-Lynn von Dunge… def.  Rouxanne Janse van … 75 64
+     64  Samanth Nanere       def.  Paola Cortez         36 62 [4]
+     64  Alexis Lopez         def.  Rachel Hermanova     46 63 [8]
+     64  Taylor Shaw          def.  Sofia Zaprianov      62 75
+     64  Alexis Crame         def.  Lindsay Song         75 67(4) [9]
+     64  Olivia Jablonski     def.  Olivia Elliott       60 64
+     64  Samantha Maras       def.  Andrea Widing        46 62 [4]
+ > Day 2 Results
+  > Main
+     64  Monique Woog         def.  Rouxanne Janse van … 61 64
+     64  Dolavee Tumthong     def.  Alexis Lopez         63 57 [7]
+     64  Samanth Nanere       def.  Anastasiia Khokhlova 75 57 [6]
+     64  Lindsay Song         def.  Kristina Kukaras     63 64
+     64  Sofia Zaprianov      def.  Miriam Grosmann      62 61
+     64  Olivia Jablonski     def.  Meredith Jones       61 63
+     64  Michelle Ncube       def.  Ally Hayduk          63 46 [9]
+     64  Annalisa Smith       def.  Olivia Elliott       63 62
+     64  Enya Ratkic          def.  Andrea Widing        61 62
+     64  Jana Hecking         def.  Cora-Lynn von Dunge… 64 75
+     64  Adela Wasserbauerova def.  Paola Cortez         46 62 [6]
+     64  Mackenzie White      def.  Rachel Hermanova     63 63
+     64  Taylor Shaw          def.  Sydney Clarke        26 64 [5]
+     64  Vanessa Mellynchuk   def.  Alexis Crame         61 62
+     64  Alexandra Ferreira … def.  Samantha Maras       60 64
+ > Day 3 Results
+  > Main
+     64  Cora-Lynn von Dunge… def.  Monique Woog         64 26 [6]
+     64  Paola Cortez         def.  Dolavee Tumthong     63 62
+     64  Anastasiia Khokhlova def.  Rachel Hermanova     76(4) 62
+     64  Kristina Kukaras     def.  Taylor Shaw          60 61
+     64  Michelle Ncube       def.  Meredith Jones       61 63
+     64  Miriam Grosmann      def.  Olivia Elliott       64 60
+     64  Andrea Widing        def.  Alexis Crame         63 62
+     64  Sofia Blanco         def.  Christianna Hornigo… 60 61
+     64  Rouxanne Janse van … def.  Jana Hecking         Walkover
+     64  Adela Wasserbauerova def.  Alexis Lopez         62 76(4)
+     64  Mackenzie White      def.  Samanth Nanere       64 46 [8]
+     64  Sydney Clarke        def.  Lindsay Song         62 63
+     64  Vanessa Mellynchuk   def.  Sofia Zaprianov      63 75
+     64  Olivia Jablonski     def.  Annalisa Smith       64 64
+     64  Alexandra Ferreira … def.  Ally Hayduk          75 64
+     64  Enya Ratkic          def.  Lauren Waddles       57 64 [8]
 ~~~
 
 <a name="21-50227"></a>

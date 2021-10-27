@@ -22,6 +22,7 @@
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s Midwest ITA Regional Championships](#21-17274) ([Results](#21-17274) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GrandValleyStateUnivM/Tournaments/Overview/26DF39F0-F2D2-497F-BD96-DD51F691B038" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division III Men's South ITA Regional Championships](#21-74251) ([Results](#21-74251) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BerryCollegeM/Tournaments/Overview/CC92D4A0-BB0F-49D9-B0D3-36812E68174B" target="_blank">Draws</a>)  
 - 9/23/2021 - [Division III Men's Southwest ITA Regional Championships](#21-59346) ([Results](#21-59346) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TrinityUniversityM/Tournaments/Overview/7E4A065E-3568-4C36-BAA5-012DA232FED0" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Men’s New England ITA Regional Championships](#21-19898) ([Results](#21-19898) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeM/Tournaments/Overview/32495C08-214F-4BEB-9F2E-E234A71A4941" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Central ITA Regional Championships](#21-33883) ([Results](#21-33883) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CowleyCountyCCM/Tournaments/Overview/BC95B2DD-9F42-4CC1-B3FD-B28A7F6354E1" target="_blank">Draws</a>)  
@@ -38,7 +39,6 @@
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthernMississippiM/Tournaments/Overview/6381F499-3F70-463D-B86B-F6D5B23A4ADB" target="_blank">Southern Miss Men's Tennis Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoM/Tournaments/Overview/82163CFE-9C1D-409A-B99B-CD82AF62340D" target="_blank">Toledo Rocket Invitational</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BerryCollegeM/Tournaments/Overview/CC92D4A0-BB0F-49D9-B0D3-36812E68174B" target="_blank">Division III Men's South ITA Regional Championships</a>  
 
 <a name="21-02376"></a>
 ~~~
@@ -1202,6 +1202,115 @@
       QQ     Ivanov/Doherty       def.     Anderson/Pion        83
       QQ     Dozeman/Wisser       def.     Rydell/Esguerra      84
       QQ     Nosanchuk/Patel      def.     Tarrant/Dion         85
+~~~
+
+<a name="21-74251"></a>
+~~~
+═════════════════════════════════════════════════════════════════
+  Division III Men's South ITA Regional Championships
+  Dates: Sep 24-26, 2021
+  Host: Berry College (M)
+═════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Main Doubles
+  > Main
+      F  Esses/Raina         def.  Suarez/Dean         63 62
+     SF  Esses/Raina         def.  Vallejo/Acosta      76(4) 63
+     SF  Suarez/Dean         def.  Mora/Shah           64 64
+     QF  Vallejo/Acosta      def.  Weston/Ramsey       84
+     QF  Esses/Raina         def.  Holsclaw/Olps       83
+     QF  Mora/Shah           def.  Sharma/Shinde       84
+     QF  Suarez/Dean         def.  Graham/Baer         87(8)
+     16  Vallejo/Acosta      def.  Sverdlov/Coupe      82
+     16  Weston/Ramsey       def.  Crump/Trudell       87(2)
+     16  Esses/Raina         def.  Wicklund/Ibragimov  83
+     16  Holsclaw/Olps       def.  Robinson/Falke      85
+     16  Sharma/Shinde       def.  Williams/Phillips   87(8)
+     16  Mora/Shah           def.  Davis/Barnett       83
+     16  Graham/Baer         def.  Mosarwa/Holmes      84
+     16  Suarez/Dean         def.  Theron/McNamara     82
+     32  Vallejo/Acosta      def.  Murray/Laney        84
+     32  Sverdlov/Coupe      def.  Bush/Gazzo          86
+     32  Weston/Ramsey       def.  Dotson/Debardelaben 86
+     32  Crump/Trudell       def.  Roca/Iacoboni       Walkover
+     32  Esses/Raina         def.  Koch/Lopez Barahona 84
+     32  Wicklund/Ibragimov  def.  Kimball/Falk        82
+     32  Robinson/Falke      def.  Ghamgosar/Whitt     84
+     32  Holsclaw/Olps       def.  Cohen/Glanville     86
+     32  Sharma/Shinde       def.  Luke/Crouch         84
+     32  Williams/Phillips   def.  Selvido/Motlow      87(1)
+     32  Davis/Barnett       def.  Zhylchuk/Aniceto    86
+     32  Mora/Shah           def.  Nunez/Medlock       81
+     32  Mosarwa/Holmes      def.  Green/Smith         82
+     32  Graham/Baer         def.  Dani/Cohen          85
+     32  Suarez/Dean         def.  Fanzaga/Knese       86
+     32  Theron/McNamara     def.  Harrison/Wax        83
+ > Main Doubles Consolation
+  > Main
+     SF  Selvido/Motlow      def.  Harrison/Wax        Walkover
+     QF  Cohen/Glanville     def.  Koch/Lopez Barahona 83
+     QF  Selvido/Motlow      def.  Zhylchuk/Aniceto    85
+     QF  Harrison/Wax        def.  Green/Smith         84
+     16  Bush/Gazzo          def.  Murray/Laney        84
+     16  Dotson/Debardelaben def.  Roca/Iacoboni       Walkover
+     16  Koch/Lopez Barahona def.  Kimball/Falk        Walkover
+     16  Cohen/Glanville     def.  Ghamgosar/Whitt     Walkover
+     16  Selvido/Motlow      def.  Luke/Crouch         83
+     16  Zhylchuk/Aniceto    def.  Nunez/Medlock       80
+     16  Green/Smith         def.  Dani/Cohen          82
+     16  Harrison/Wax        def.  Fanzaga/Knese       83
+ > Doubles D2
+  > Main
+      F  Micheloni/Coradazzi def.  Harbour/Stafford    86
+     SF  Harbour/Stafford    def.  Stolmeijer/Rogers   83
+     SF  Micheloni/Coradazzi def.  Raymond/Burkes      Walkover
+     QF  Harbour/Stafford    def.  Black/Ball          80
+     QF  Stolmeijer/Rogers   def.  Smith/Higley        83
+     QF  Raymond/Burkes      def.  van Order/Traylor   83
+     QF  Micheloni/Coradazzi def.  Nelson/Bulow        84
+     16  Harbour/Stafford    def.  Murphy/Gabriel      83
+     16  Black/Ball          def.  Haynes/Ngien        82
+     16  Stolmeijer/Rogers   def.  Morton/Kelly        82
+     16  Smith/Higley        def.  Sandles/Kework      83
+     16  Raymond/Burkes      def.  St Martin/Jackson   80
+     16  van Order/Traylor   def.  Barnette/Graham     81
+     16  Micheloni/Coradazzi def.  Livingston/Ridden   Walkover
+ > Doubles D1
+  > Main
+      F  Noli/Alia           def.  Amitay/Segovia      Walkover
+     SF  Amitay/Segovia      def.  Hecht/Bobinski      86
+     SF  Noli/Alia           def.  Vasquez/Morelli     86
+     QF  Amitay/Segovia      def.  Porcelli/Webb       81
+     QF  Hecht/Bobinski      def.  Lashley/Cortman     84
+     QF  Vasquez/Morelli     def.  Dean/Anderson       81
+     QF  Noli/Alia           def.  Bale/Dempsey        42 Ret.
+     16  Amitay/Segovia      def.  Stevens/LeRoux      80
+     16  Porcelli/Webb       def.  Williams/Martinson  85
+     16  Lashley/Cortman     def.  Claussen/Allen      86
+     16  Hecht/Bobinski      def.  Galarza/Raugh       84
+     16  Vasquez/Morelli     def.  Grossman/Molinet    81
+     16  Dean/Anderson       def.  Ingleson/Gresham    83
+     16  Bale/Dempsey        def.  Balao/Lutian        83
+     16  Noli/Alia           def.  Gibson/Dunn         86
+ > D1 Consolation
+  > Main
+     SF  Alsup/Maddux        def.  Williams/Martinson  82
+     SF  Gibson/Dunn         def.  Ingleson/Gresham    Walkover
+     QF  Williams/Martinson  def.  Stevens/LeRoux      86
+     QF  Alsup/Maddux        def.  Galarza/Raugh       87(5)
+     QF  Ingleson/Gresham    def.  Grossman/Molinet    85
+     QF  Gibson/Dunn         def.  Bobo/Lehmann        84
+ > D2 Consolation
+  > Main
+      F  St Martin/Jackson   def.  Murphy/Gabriel      87(7)
+     SF  Murphy/Gabriel      def.  Morton/Kelly        82
+     SF  St Martin/Jackson   def.  Livingston/Ridden   83
+     QF  Murphy/Gabriel      def.  Haynes/Ngien        82
+     QF  St Martin/Jackson   def.  Barnette/Graham     83
+     QF  Livingston/Ridden   def.  Andress/Mitchell    83
+ > Extra
+  > Main
+      F  Claussen/Allen      def.  Smilye/Bourn        82
 ~~~
 
 <a name="21-59346"></a>

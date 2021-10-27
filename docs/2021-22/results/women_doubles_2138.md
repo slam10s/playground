@@ -6,6 +6,7 @@
 - 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
 - 9/24/2021 - [2021 Cal Fall Invitational](#21-72007) ([Results](#21-72007) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">Draws</a>)  
+- 9/24/2021 - [2021 Cougar Classic](#21-92191) ([Results](#21-92191) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WashingtonStateUnivW/Tournaments/Overview/9A9D66AE-29DF-4655-8EE8-5EF2ECFA897B" target="_blank">Draws</a>)  
 - 9/24/2021 - [Bedford Cup](#21-07919) ([Results](#21-07919) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMarylandCollegeParkW/Tournaments/Overview/8A78BA09-B02F-4068-AC07-16F05B3F86EB" target="_blank">Draws</a>)  
 - 9/23/2021 - [Bedford Cup in the Mountains](#21-10883) ([Results](#21-10883) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyW/Tournaments/Overview/44119D33-0728-4FB2-8652-70606D860005" target="_blank">Draws</a>)  
 - 9/24/2021 - [Bluejay Invite](#21-97501) ([Results](#21-97501) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CreightonUniversityW/Tournaments/Overview/9CFAB6A8-8E2B-42E6-9D2D-9A4EECB3CAEB" target="_blank">Draws</a>)  
@@ -16,6 +17,7 @@
 - 9/24/2021 - [Natchitoches Women's Care/Lady Demon Collegiate Invitational](#21-03887) ([Results](#21-03887) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Draws</a>)  
 - 9/24/2021 - [Ole Miss Fall Invite](#21-39692) ([Results](#21-39692) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMississippiW/Tournaments/Overview/5CF07ED7-A131-45ED-8D93-E6058EED2536" target="_blank">Draws</a>)  
 - 9/23/2021 - [Ranked College Spotlight](#21-47703) ([Results](#21-47703) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthCarolinaStateUnivW/Tournaments/Overview/2CBD0E5F-B8C8-4667-972F-0BCB4951BB75" target="_blank">Draws</a>)  
+- 9/24/2021 - [Samford Round Robin #1](#21-74651) ([Results](#21-74651) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityW/Tournaments/Overview/EC00D221-086D-4EE8-BBFA-A8A76ACB92CB" target="_blank">Draws</a>)  
 - 9/24/2021 - [Stetson Invite](#21-76161) ([Results](#21-76161) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/EDD70DAB-65CC-4E26-BC6B-D0CC66FD5BAC" target="_blank">Draws</a>)  
 - 9/24/2021 - [Thunder in the Mountains](#21-26764) ([Results](#21-26764) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/6F07BB8D-7FC6-4D88-B1F7-809501FCD0B1" target="_blank">Draws</a>)  
 - 9/24/2021 - [University of Minnesota Gopher Invitational](#21-50226) ([Results](#21-50226) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">Draws</a>)  
@@ -36,7 +38,6 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Division II Women's East ITA Regional Championships</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WashingtonStateUnivW/Tournaments/Overview/9A9D66AE-29DF-4655-8EE8-5EF2ECFA897B" target="_blank">2021 Cougar Classic</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BallStateUniversityW/Tournaments/Overview/9CD0F50F-A060-4554-94BC-D6D303944F81" target="_blank">Bethany Moore Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CharlestonSouthernUnivW/Tournaments/Overview/0DAD2A4A-3B08-46CE-A853-2E2C8A41E803" target="_blank">Charleston Southern Invitational</a>  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCAshevilleW/Tournaments/Overview/0D572E9B-B482-4879-8E99-EF01542FECFB" target="_blank">Emily McNall Classic</a>  
@@ -301,6 +302,55 @@
      16 (4) Pesqueira/Zlotnik    def.     McSkimming/Yotova    86
   > Consolation
      SF     Sam/Zamora           def.     Del Barrio/Sarcelet  80
+~~~
+
+<a name="21-92191"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  2021 Cougar Classic
+  Dates: Sep 24-26, 2021
+  Host: Washington State Univ. (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw 1
+  > East
+      F  Jhang/Oliveira       def.  Discenza/Stewart     86
+     SF  Jhang/Oliveira       def.  Quintana/Kraleva     86
+     SF  Discenza/Stewart     def.  Kung/Dekkers         85
+     QF  Quintana/Kraleva     def.  Ly-Nguyen/Kumhom     85
+     QF  Jhang/Oliveira       def.  Gabuzyan/Mathews     82
+     QF  Discenza/Stewart     def.  Sanoner/Ohara        84
+     QF  Kung/Dekkers         def.  Mitkova/Oosterbaan   87(3)
+  > West
+      F  Ly-Nguyen/Kumhom     def.  Sanoner/Ohara        85
+     SF  Ly-Nguyen/Kumhom     def.  Gabuzyan/Mathews     85
+     SF  Sanoner/Ohara        def.  Mitkova/Oosterbaan   86
+  > 3-4 Playoff
+      F  Quintana/Kraleva     def.  Kung/Dekkers         86
+  > South
+      F  Mitkova/Oosterbaan   def.  Gabuzyan/Mathews     85
+ > Draw 2
+  > East
+      F  Sterk/Dunlap         def.  Ozturk/Millan        85
+     SF  Sterk/Dunlap         def.  Fehr/Dimova          86
+     SF  Ozturk/Millan        def.  Kida/Foshee          84
+     QF  Sterk/Dunlap         def.  Rees/Beukers         82
+     QF  Fehr/Dimova          def.  Egan/Palma           84
+     QF  Ozturk/Millan        def.  Conde Vendrell/Heff… 87(6)
+     QF  Kida/Foshee          def.  Huchet/Redondo       87(4)
+  > West
+      F  Huchet/Redondo       def.  Rees/Beukers         Walkover
+     SF  Rees/Beukers         def.  Egan/Palma           84
+     SF  Huchet/Redondo       def.  Conde Vendrell/Heff… 87(4)
+  > 3-4 Playoff
+      F  Kida/Foshee          def.  Fehr/Dimova          85
+ > Draw 3
+  > East
+      F  Hietala/Goheen       def.  Milenkoski/Hernandez 84
+     SF  Hietala/Goheen       def.  County/Demerath      84
+     SF  Milenkoski/Hernandez def.  Mann/Mansouri        84
+  > 3-4 Playoff
+      F  County/Demerath      def.  Mann/Mansouri        83
 ~~~
 
 <a name="21-07919"></a>
@@ -796,6 +846,44 @@
      32  Pisareva/Sleeth      def.  Cerdan/Hammond       61
      32  Smith/Daniel         def.  Podlinska/Staker     60
      32  Rencheli/Nayar       def.  Tomase/Mertena       75
+~~~
+
+<a name="21-74651"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Samford Round Robin #1
+  Dates: Sep 24-26, 2021
+  Host: Samford University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Day 1 Results
+  > Main
+     16  Tutunaru/Kohoutova   def.  Janse van Rensburg/… 64
+     16  Aoki/van der Merwe   def.  Song/Nanere          75
+     16  Zaprianov/Jablonski  def.  Klienhans/Taknishi   62
+     16  Xin/Nonoyama         def.  Popova/Trbeznik      61
+     16  Vasupongchai/Ishimu… def.  Diachenko/Dobranos   62
+     16  Gledic/Lee           def.  Howard/Bandy         64
+     16  Hamanaga/Engback     def.  Zakordonic/Richter   64
+ > Day 2 Results
+  > Main
+     16  Popova/Trbeznik      def.  Janse van Rensburg/… 76(4)
+     16  Diachenko/Dobranos   def.  Song/Nanere          75
+     16  Zaprianov/Jablonski  def.  Howard/Bandy         64
+     16  Tutunaru/Kohoutova   def.  Xin/Nonoyama         64
+     16  Aoki/van der Merwe   def.  Vasupongchai/Ishimu… 63
+     16  Gledic/Lee           def.  Klienhans/Taknishi   63
+     16  Hayduk/Waddles       def.  Zakordonic/Richter   63
+     16  Wood/Maras           def.  Hamanaga/Engback     76(4)
+ > Day 3 Results
+  > Main
+     16  Janse van Rensburg/… def.  Xin/Nonoyama         61
+     16  Vasupongchai/Ishimu… def.  Song/Nanere          63
+     16  Zaprianov/Jablonski  def.  Gledic/Lee           64
+     16  Hayduk/Waddles       def.  Hamanaga/Engback     61
+     16  Tutunaru/Kohoutova   def.  Popova/Trbeznik      63
+     16  Aoki/van der Merwe   def.  Diachenko/Dobranos   64
+     16  Klienhans/Taknishi   def.  Howard/Bandy         61
 ~~~
 
 <a name="21-76161"></a>

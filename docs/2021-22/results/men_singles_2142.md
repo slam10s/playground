@@ -330,7 +330,7 @@
  Men's Open Singles
  > Main Draw
   > Main
-       F (11) Andrew Zhang          vs   (7) Taha Baadi           Tue @ 10:00
+       F (11) Andrew Zhang         def.  (7) Taha Baadi           57 61 61
       SF (11) Andrew Zhang         def.  (8) Connor Thomson       62 57 64
       SF  (7) Taha Baadi           def. (17) Connor Krug          64 76(5)
       QF  (8) Connor Thomson       def. (17) Jake Beasley         62 62
@@ -1445,7 +1445,7 @@
      16  Arka Ganguly         def.  Emilian Zavala       64 64
      16  Carlos Trujillo      def.  Pedro Gomez          61 61
      16  Patricio Nieto       def.  Rien Alderliesten    62 61
- > Consolation Oct. 24
+ > Consolation 10/24 Round 3
   > Main
      16  Swann Flohr          def.  Javier Flores        75 61
      16  Joao Guariente       def.  Fabian Billton       60 61
@@ -1455,6 +1455,38 @@
      16  Hsiang Yi Wang        vs   Thibault Jacq        
      16  Jonathan Judy-Hansen def.  Rien Alderliesten    62 61
      16  Edward Etty           vs   Illia Dehodiuk       
+ > Consolation 10/23 Round 1
+  > Main
+     32  Joao Guariente       def.  Matias Ballatore     62 61
+     32  Joe Jarvis           def.  Ignacio Mora         63 63
+     32  Javier Flores        def.  Jovan Cirkovic       63 64
+     32  Walker Ellis         def.  Jojo Sandoz          64 64
+     32  Come Bracaval        def.  Pedro Gomez          62 61
+     32  Hsiang Yi Wang       def.  Lluis Miro           46 62 [4]
+     32  Edward Etty          def.  Jacob Gailey         61 62
+     32  Brady McDaniel       def.  Kiran Namadevan      63 62
+     32  Fabian Billton       def.  Blake Bottegal       62 63
+     32  Rien Alderliesten    def.  Connor Gunnell       61 61
+     32  Jonathan Judy-Hansen def.  Seth Macute          60 61
+ > Consolation 10/23 Round 2
+  > Main
+     32  Swann Flohr          def.  Strahinja Radanovic  61 64
+     32  Fabian Billton       def.  Jude Heraut          63 64
+     32  Joao Guariente       def.  Come Bracaval        36 76(4) [7]
+     32  Joe Jarvis           def.  Javier Flores        76(3) 62
+     32  Emilian Zavala       def.  Rien Alderliesten    26 64 [6]
+     32  Walker Ellis         def.  Alonso Reid          63 64
+     32  Hsiang Yi Wang       def.  Jonathan Judy-Hansen 63 63
+     32  Brady McDaniel       def.  Elijah Hagan         61 64
+     32  Jan Kos              def.  Thibault Jacq        63 64
+     32  Nino Portugal        def.  Edward Etty          16 76(4) [6]
+ > Consolation 10/24 Round 4
+  > Main
+     16  Miguel Gamborino     def.  Jojo Sandoz          35 42 [6]
+     16  Patricio Nieto       def.  Alban Piranda        41 41
+     16  Thibault Jacq        def.  Pedro Gomez          42 42
+     16  Nutti Jokinen        def.  Alonso Reid          42 42
+     16  Illia Dehodiuk       def.  Seth Macute          40 42
 ~~~
 
 <a name="21-16812"></a>

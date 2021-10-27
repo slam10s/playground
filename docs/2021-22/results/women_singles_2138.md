@@ -17,6 +17,7 @@
 - 9/24/2021 - [Natchitoches Women's Care/Lady Demon Collegiate Invitational](#21-03887) ([Results](#21-03887) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Draws</a>)  
 - 9/24/2021 - [Ole Miss Fall Invite](#21-39692) ([Results](#21-39692) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMississippiW/Tournaments/Overview/5CF07ED7-A131-45ED-8D93-E6058EED2536" target="_blank">Draws</a>)  
 - 9/23/2021 - [Ranked College Spotlight](#21-47703) ([Results](#21-47703) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthCarolinaStateUnivW/Tournaments/Overview/2CBD0E5F-B8C8-4667-972F-0BCB4951BB75" target="_blank">Draws</a>)  
+- 9/24/2021 - [Samford Round Robin #1](#21-74651) ([Results](#21-74651) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityW/Tournaments/Overview/EC00D221-086D-4EE8-BBFA-A8A76ACB92CB" target="_blank">Draws</a>)  
 - 9/24/2021 - [SMU Fall Invite](#21-08553) ([Results](#21-08553) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/DA20527E-5D36-4FBF-A32B-A3905E6A333C" target="_blank">Draws</a>)  
 - 9/24/2021 - [Stetson Invite](#21-76161) ([Results](#21-76161) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/EDD70DAB-65CC-4E26-BC6B-D0CC66FD5BAC" target="_blank">Draws</a>)  
 - 9/24/2021 - [Thunder in the Mountains](#21-26764) ([Results](#21-26764) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/6F07BB8D-7FC6-4D88-B1F7-809501FCD0B1" target="_blank">Draws</a>)  
@@ -1679,6 +1680,71 @@
       F  Victoria Hu          def.  Eleonora Molinaro    64 75
 ~~~
 
+<a name="21-74651"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  Samford Round Robin #1
+  Dates: Sep 24-26, 2021
+  Host: Samford University (W)
+═════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day 1 Results
+  > Main
+     64  Nikola Kohoutova     def.  Kate Popova          64 76(4)
+     64  Luminita Tutunaru    def.  Emma Zakordonic      62 63
+     64  Sasha Dobranos       def.  Delien Klienhans     76(4) 64
+     64  Otoha Aoki           def.  Anja Trbeznik        62 64
+     64  Lara van der Merwe   def.  Liza Diachenko       62 61
+     64  Caraline Scheufler   def.  Tully Richter        61 26 62
+     64  Maddox Bandy         def.  Yurie Taknishi       61 63
+     64  Lauren Waddles       def.  Perri Howard         60 61
+     64  Eleanor Chapman      def.  Alonna Wood          62 60
+     64  Rouxanne Janse van … def.  Chunxi Xin           64 62
+     64  Fuka Nonoyama        def.  Alexis Lopez         76(4) 64
+     64  Samanth Nanere       def.  Yada Vasupongchai    76(4) 36 76(4)
+     64  Lindsay Song         def.  Jaeun Lee            64 63
+     64  Sofia Zaprianov      def.  Maja Gledic          64 06 61
+     64  Ally Hayduk          def.  Sumomo Hamanaga      61 36 76(4)
+     64  Mei Ishimura         def.  Olivia Jablonski     16 63 64
+     64  Samantha Maras       def.  Paulina Engback      63 64
+ > Day 2 Results
+  > Main
+     64  Nikola Kohoutova     def.  Rouxanne Janse van … 64 61
+     64  Luminita Tutunaru    def.  Alexis Lopez         75 64
+     64  Samanth Nanere       def.  Delien Klienhans     64 75
+     64  Otoha Aoki           def.  Lindsay Song         76(4) 61
+     64  Lara van der Merwe   def.  Sofia Zaprianov      75 75
+     64  Caraline Scheufler   def.  Ally Hayduk          46 63 [9]
+     64  Yurie Taknishi       def.  Olivia Jablonski     61 64
+     64  Kate Popova          def.  Chunxi Xin           76(4) 36 64
+     64  Fuka Nonoyama        def.  Sasha Dobranos       61 60
+     64  Yada Vasupongchai    def.  Emma Zakordonic      67(4) 60 60
+     64  Anja Trbeznik        def.  Jaeun Lee            63 64
+     64  Maja Gledic          def.  Maddox Bandy         61 60
+     64  Tully Richter        def.  Sumomo Hamanaga      64 64
+     64  Mei Ishimura         def.  Liza Diachenko       64 60
+     64  Perri Howard         def.  Paulina Engback      61 75
+     64  Samantha Maras       def.  Eleanor Chapman      63 64
+ > Day 3 Results
+  > Main
+     64  Nikola Kohoutova     def.  Chunxi Xin           63 62
+     64  Luminita Tutunaru    def.  Fuka Nonoyama        63 75
+     64  Yada Vasupongchai    def.  Delien Klienhans     57 62 62
+     64  Otoha Aoki           def.  Jaeun Lee            63 67(4) 62
+     64  Maja Gledic          def.  Lara van der Merwe   67(4) 61 76(4)
+     64  Sumomo Hamanaga      def.  Caraline Scheufler   63 61
+     64  Yurie Taknishi       def.  Paulina Engback      63 63
+     64  Rouxanne Janse van … def.  Kate Popova          64 61
+     64  Alexis Lopez         def.  Emma Zakordonic      76(4) 62
+     64  Samanth Nanere       def.  Sasha Dobranos       64 63
+     64  Lindsay Song         def.  Anja Trbeznik        62 61
+     64  Sofia Zaprianov      def.  Tully Richter        62 60
+     64  Ally Hayduk          def.  Maddox Bandy         60 61
+     64  Samantha Maras       def.  Perri Howard         63 61
+     64  Olivia Jablonski     def.  Liza Diachenko       61 64
+     64  Lauren Waddles       def.  Eleanor Chapman      62 64
+~~~
+
 <a name="21-08553"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -2132,7 +2198,7 @@
       64      Inma Ramon           def. (16) Judit Gonzalez       61 46 76(6)
       64      Zoe Heed             def.  (9) Gemma Southwick      61 62
       64      Elisa Aguirre        def. (16) Valentina Ascarrunz  16 62 62
-      64      Paige Wise           def.  (7) Chloe Kosmrlj        64 63
+      64      Paige Wise           def.  (7) Chole Kosmrlj        64 63
       64 (16) Johanna Lippert      def.      Natasha Forrest      63 62
       64  (9) Mariana Ramirez      def.      Svetlana Teterina    64 64
       64 (16) Flaminia Guidantoni  def.      Nele Weber           57 61 62
@@ -2172,7 +2238,7 @@
   > Consolation
       32      Emilie Hansen        def.      Julia Speiser        62 63
       32      Natasha Forrest      def.      Czarina Aguirre      61 63
-      32  (7) Chloe Kosmrlj        def. (16) Valentina Ascarrunz  Walkover
+      32  (7) Chole Kosmrlj        def. (16) Valentina Ascarrunz  Walkover
       32      Alicia Wahlberg      def.      Julie Martincova     Walkover
       32 (16) Catherine Blouin     def.      Leonie Floeth        46 75 [2]
       32      Maria Kotsiou        def.      Sara Ramirez         76(5) 16 [8]
@@ -2190,7 +2256,7 @@
       64      Julia Speiser        def.      Nele Weber           64 57 [2]
       64      Czarina Aguirre      def.      Svetlana Teterina    64 63
       64      Natasha Forrest      def.      Bailee Wilson        63 61
-      64  (7) Chloe Kosmrlj        def.      Darja Chistov        62 75
+      64  (7) Chole Kosmrlj        def.      Darja Chistov        62 75
       64 (16) Valentina Ascarrunz  def.      Yelena Labat         64 63
       64      Julie Martincova     def.  (9) Gemma Southwick      Walkover
       64      Alicia Wahlberg      def. (16) Judit Gonzalez       Walkover

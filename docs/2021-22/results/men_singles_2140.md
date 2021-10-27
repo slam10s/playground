@@ -9,6 +9,7 @@
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [Loyola Classic](#21-67948) ([Results](#21-67948) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Draws</a>)  
 - 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
+- 10/7/2021 - [Utah Invitational](#21-47231) ([Results](#21-47231) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Draws</a>)  
 - 10/9/2021 - [WMU Vredevelt Invite](#21-70570) ([Results](#21-70570) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">Draws</a>)  
 - 10/8/2021 - [Youngstown State Hidden Duals](#21-93245) ([Results](#21-93245) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
@@ -19,7 +20,6 @@
 **Tournaments without Matches**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/FA5825C1-E156-45E3-AB26-60077E129770" target="_blank">Clemson Hidden Duals</a>  
-- 10/7/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Utah Invitational</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 
 <a name="21-73796"></a>
@@ -1422,6 +1422,126 @@
      QF  Jack McBride         def.  Michael Pollatos    75 60
      QF  Chanasorn Nakaurai   def.  Harry Yang          Walkover
      QF  Dustin Ha            def.  William Crane       75 63
+~~~
+
+<a name="21-47231"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  Utah Invitational
+  Dates: Oct 7-10, 2021
+  Host: University Of Utah (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Red
+  > Main
+     R5  Francisco Bastias   def.  Patrik Trhac        63 57 60
+     R5  Matej Panik         def.  Oisin Shaffrey      75 63
+     R4  Oisin Shaffrey      def.  Patrik Trhac        67(4) 63 75
+     R4  Sebastian Buxman    def.  Matej Panik         75 63
+     R4  Francisco Bastias   def.  Bodin Zarkovic      62 16 62
+     R3  Francisco Bastias   def.  Sebastian Buxman    63 31 Ret.
+     R3  Matej Panik         def.  Patrik Trhac        64 63
+     R2  Sebastian Buxman    def.  Oisin Shaffrey      76(3) 36 63
+     R2  Francisco Bastias   def.  Matej Panik         64 63
+     R1  Sebastian Buxman    def.  Patrik Trhac        67(5) 64 62
+     R1  Francisco Bastias   def.  Oisin Shaffrey      61 62
+     R1  Matej Panik         def.  Bodin Zarkovic      46 76(2) 31 Ret.
+ > Black
+  > Main
+     R5  Ed Pudney           def.  Daan Van Dijk       46 75 60
+     R4  Ed Pudney           def.  Patrick Kristensen  57 61 75
+     R4  Bruno Caula         def.  David Cierny        76(7) 63
+     R4  Tristan Sarap       def.  Daan Van Dijk       76(5) 75
+     R3  Bruno Caula         def.  Daan Van Dijk       62 64
+     R3  Tristan Sarap       def.  Patrick Kristensen  46 75 64
+     R2  Bruno Caula         def.  Patrick Kristensen  62 63
+     R2  Ed Pudney           def.  Tristan Sarap       62 46 64
+     R1  Ed Pudney           def.  Bruno Caula         46 64 61
+     R1  Daan Van Dijk       def.  Patrick Kristensen  64 62
+     R1  David Cierny        def.  Tristan Sarap       62 57 64
+ > White
+  > Main
+     R5  Mathias Gavelin     def.  Sergi Mico Fenollar 75 63
+     R5  Lawrence Sciglitano def.  Arthur Serafim      61 64
+     R5  Jamieson Nathan     def.  Andreas Kramer      62 63
+     R4  Sergi Mico Fenollar def.  Arthur Serafim      62 64
+     R4  Andreas Kramer      def.  Lawrence Sciglitano 76(3) 76(7)
+     R4  Mathias Gavelin     def.  Jamieson Nathan     63 63
+     R3  Andreas Kramer      def.  Mathias Gavelin     76(5) 64
+     R3  Lawrence Sciglitano def.  Sergi Mico Fenollar 61 63
+     R3  Arthur Serafim      def.  Jamieson Nathan     63 36 64
+     R2  Mathias Gavelin     def.  Lawrence Sciglitano 64 76(4)
+     R2  Sergi Mico Fenollar def.  Jamieson Nathan     76(6) 61
+     R1  Sergi Mico Fenollar def.  Andreas Kramer      75 57 62
+     R1  Arthur Serafim      def.  Mathias Gavelin     62 60
+     R1  Jamieson Nathan     def.  Lawrence Sciglitano 16 63 75
+ > Gray
+  > Main
+     R5  Felipe Acosta       def.  Hiroki Fujita       62 76(2)
+     R5  Bruno Krenn         def.  Gustav Thielgaard   63 63
+     R5  Elyes Marouani      def.  Bradley Buckland    62 36 62
+     R4  Bruno Krenn         def.  Hiroki Fujita       36 61 60
+     R4  Gustav Thielgaard   def.  Bradley Buckland    76(5) 64
+     R4  Felipe Acosta       def.  Elyes Marouani      76(4) 75
+     R3  Felipe Acosta       def.  Bradley Buckland    63 63
+     R3  Hiroki Fujita       def.  Gustav Thielgaard   06 75 75
+     R3  Bruno Krenn         def.  Elyes Marouani      36 61 61
+     R2  Bruno Krenn         def.  Bradley Buckland    62 63
+     R2  Gustav Thielgaard   def.  Felipe Acosta       62 64
+     R2  Hiroki Fujita       def.  Elyes Marouani      62 62
+     R1  Bradley Buckland    def.  Hiroki Fujita       64 61
+     R1  Bruno Krenn         def.  Felipe Acosta       61 64
+     R1  Gustav Thielgaard   def.  Elyes Marouani      60 63
+ > Swoop
+  > Main
+     R5  Jayson Blando       def.  Umit Ege Cankus     26 64 61
+     R5  Moritz Stoeger      def.  Nejc Sitar          62 62
+     R4  Umit Ege Cankus     def.  Moritz Stoeger      63 63
+     R3  Roko Savin          def.  Jayson Blando       63 62
+     R3  Moritz Stoeger      def.  Jordan Coutinho     57 64 62
+     R2  Jayson Blando       def.  Nejc Sitar          62 63
+     R2  Umit Ege Cankus     def.  Jordan Coutinho     63 64
+     R1  Moritz Stoeger      def.  Jayson Blando       76(6) 64
+ > Matches - Red
+  > Main
+     R5  Patrik Trhac        def.  Roko Savin          75 62
+     R2  Sebastian Buxman    def.  Javier Ruiz Medina  64 64
+     R2  Oisin Shaffrey      def.  Roko Savin          63 63
+ > Matches - Black
+  > Main
+     R3  Daan Van Dijk       def.  Javier Ruiz Medina  61 57 63
+     R2  Javier Ruiz Medina  def.  Patrick Kristensen  63 75
+     R1  Ed Pudney           def.  Javier Ruiz Medina  76 76(4)
+ > Matches - White
+  > Main
+      F  Andreas Kramer      def.  Matteo Savio        75 64
+ > Matches - Swoop
+  > Main
+     R7  Jayson Blando       def.  Bo-Han Li           62 62
+     R7  Jack Ninteman       def.  Nejc Sitar          63 64
+     R6  Moritz Stoeger      def.  Jack Ninteman       64 76(2)
+     R5  Jordan Coutinho     def.  Jack Ninteman       76(3) 63
+     R2  Nejc Sitar          def.  Matteo Savio        76(4) 62
+     R1  Umit Ege Cankus     def.  Jack Ninteman       16 63 61
+ > Running Utes
+  > Main
+     R5  Milo Benn           def.  Gabriel Chavez      57 62 61
+     R5  Wikus Robbertse     def.  Manuel Monteiro     76(6) 64
+     R4  Wikus Robbertse     def.  Gabriel Chavez      61 76(4)
+     R4  Manuel Monteiro     def.  Michael Blando      62 62
+     R4  Milo Benn           def.  Chia Chieh Lin      62 64
+     R3  Michael Blando      def.  Milo Benn           75 64
+     R3  Manuel Monteiro     def.  Gabriel Chavez      76(3) 62
+     R3  Wikus Robbertse     def.  Chia Chieh Lin      62 61
+     R2  Wikus Robbertse     def.  Michael Blando      63 63
+     R2  Milo Benn           def.  Manuel Monteiro     75 76(8)
+     R1  Michael Blando      def.  Gabriel Chavez      57 62 62
+     R1  Wikus Robbertse     def.  Milo Benn           67(6) 62 64
+     R1  Manuel Monteiro     def.  Chia Chieh Lin      52 Ret.
+ > Matches - Running Utes
+  > Main
+     R3  Gabriel Chavez      def.  Matteo Savio        76(4) 61
+     R2  Matteo Savio        def.  Michael Blando      63 64
 ~~~
 
 <a name="21-70570"></a>

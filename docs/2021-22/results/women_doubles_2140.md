@@ -12,6 +12,7 @@
 - 10/8/2021 - [Long Beach State Fall Tournament](#21-66132) ([Results](#21-66132) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Draws</a>)  
 - 10/8/2021 - [MVC Individual Championships](#21-95059) ([Results](#21-95059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">Draws</a>)  
 - 10/8/2021 - [Navy Blue and Gold Invitational](#21-53408) ([Results](#21-53408) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C" target="_blank">Draws</a>)  
+- 10/8/2021 - [Samford Round Robin #2](#21-46673) ([Results](#21-46673) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityW/Tournaments/Overview/866AEBC3-0F9A-4F7D-BD2A-0388738EE871" target="_blank">Draws</a>)  
 - 10/10/2021 - [SEMO Invitational](#21-50227) ([Results](#21-50227) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheastMissouriStateUnivW/Tournaments/Overview/E0892C7B-1714-4B99-A547-2386D7847CF2" target="_blank">Draws</a>)  
 - 10/8/2021 - [SMU Red and Blue Invite](#21-78857) ([Results](#21-78857) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/4628479A-19D9-4AD2-91AA-D180971411D5" target="_blank">Draws</a>)  
 - 10/8/2021 - [USC Women of Troy Invitational](#21-75174) ([Results](#21-75174) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F" target="_blank">Draws</a>)  
@@ -532,6 +533,36 @@
      QF     Moen/Kronson         def.     Pospischill/Lawson   82
      QF     Tose/Shrebati        def.     Jacobs/Gray          Walkover
      QF     O Donovan/Kempinski  def.     Gibbs/Splett         84
+~~~
+
+<a name="21-46673"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Samford Round Robin #2
+  Dates: Oct 8-10, 2021
+  Host: Samford University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Day 1 Results
+  > Main
+     16  Jones/Woog           def.  Janse van Rensburg/… 63
+     16  Jablonski/Nanere     def.  Khokhlova/Widing     62
+     16  Grosmann/Tumthong    def.  Song/Zaprianov       63
+     16  Elliott/Ncube        def.  Hayduk/Maras         61
+     16  Cortez/von Dungern   def.  White/Wasserbauerova 64
+     16  Clarke/White         def.  Crame/Shaw           62
+     16  Ferreira da Silva/M… def.  Blanco/Hermanova     62
+     16  Hecking/Ratkic       def.  Wood/Waddles         63
+ > Day 2 Results
+  > Main
+     16  Janse van Rensburg/… def.  Hecking/Wasserbauer… 64
+     16  Nanere/Song          def.  Clarke/White         64
+     16  Mellynchuk/Smith     def.  Zaprianov/Jablonski  76(4)
+     16  Waddles/Hayduk       def.  Ferreira da Silva/R… 62
+     16  Cortez/von Dungern   def.  Khokhlova/Widing     62
+     16  Jones/Woog           def.  Crame/Shaw           61
+     16  Blanco/Hermanova     def.  Elliott/Ncube        63
+     16  Grosmann/Tumthong    def.  Kukaras/Maras        64
 ~~~
 
 <a name="21-50227"></a>

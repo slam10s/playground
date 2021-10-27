@@ -169,7 +169,7 @@
  Men's Open Doubles
  > Main Draw
   > Main
-       F (7) Schnaitter/Banthia   vs      Kania/Zapp           Tue @ 10:00
+       F (7) Schnaitter/Banthia  def.     Kania/Zapp           61 62
       SF (7) Schnaitter/Banthia  def.     Van Sambeek/Rocens   46 63 [6]
       SF     Kania/Zapp          def.     Simon/Savva          67(5) 61 [10]
       QF     Van Sambeek/Rocens  def. (1) Cernoch/Kiger        64 46 [7]
@@ -661,7 +661,7 @@
      16  Salton/Martinez      def.  Judy-Hansen/Jacq     63
      16  Danze/Jokinen        def.  Cirkovic/Namadevan   62
      16  Laplante/Kamel       def.  Wang/Jarvis          64
- > Consolation 1
+ > Consolation 10/23
   > Main
      32  Bedwan/Rieme         def.  Sandoz/Gomez         61
      32  Felline/Etty         def.  Radanovic/Kos        63
@@ -674,6 +674,12 @@
      32  Wang/Jarvis          def.  Bottegal/Gunnell     62
      32  Ballatore/Trujillo   def.  Reid/Piranda         62
      32  Gamborino/Vesanen    def.  Descarrega/Nery      Default
+ > Consolation 10/24
+  > Main
+     16  Zehender/Sinclair    def.  Bedwan/Rieme         64
+     16  Mora/Flores          def.  Wang/Jarvis          62
+     16  Judy-Hansen/Jacq     def.  Reid/Piranda         63
+     16  Le Terrier/Roldan    def.  Cirkovic/Namadevan   61
 ~~~
 
 <a name="21-16812"></a>

@@ -14,9 +14,6 @@
 - 10/15/2021 - [American Rivers Conference Women's Individual Tournament](#21-35590) ([Results](#21-35590) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 
-**Tournaments without Matches**  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/B1C9ACB5-0D08-48E0-980C-75F2F818B28F" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
-
 <a name="21-27941"></a>
 ~~~
 ═════════════════════════════════════════════════════════════════════════

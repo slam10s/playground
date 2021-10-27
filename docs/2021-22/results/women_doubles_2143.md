@@ -11,11 +11,14 @@
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 
 **Upcoming Tournaments**  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Brown Quad</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">FIU Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Gamecock Shootout</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">NIU Huskie Indoor Invitational</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Rice Invite</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Roberta Alison Fall Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Shark Bite Invite</a>  
@@ -353,15 +356,15 @@
 
 <a name="21-52217"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Division I Women's Northwest Regional Championship
   Dates: Oct 22-26, 2021
   Host: Stanford University (W)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main
   > Main
-      F (1) Blake/Ma              vs  (5) Madurawe/Yepifanova  Tue @ 13:00
+      F (1) Blake/Ma             def. (5) Madurawe/Yepifanova  87(1)
      SF (1) Blake/Ma             def. (3) Alsola/Richardson    87(7)
      SF (5) Madurawe/Yepifanova  def.     Harris/Ronney        86
      QF (1) Blake/Ma             def.     Kozyreva/Massey      86
@@ -422,7 +425,7 @@
      64 (5) Thiel/Viller Moeller def.     Pedrero Galindo/Mur… 75
      64     Mulville/Luescher    def.     Houghton/Geller      Walkover
      64     Petty/Hayer          def.     Sunjic/Dimitrijevic  63
-     64     Magrini/Hummel       def.     Aitken/Oda           82
+     64     Magrini/Hummel       def.     Aitken/Oda           62
      64 (2) Wong/Olsen           def.     Tagaloa/Yotova       61
  > Invitational
   > Main
@@ -589,6 +592,38 @@
      64     Rutowska/Tcherkes-Z… def.     Von Tersch Pohrer/M… 61
      64 (9) Spaka/Jankowski      def.     Rakim/Buhr           60
      64     Lennon/Masuda        def.     Gonzalez-Ballbe/Jan… 62
+ > Extra Matches day 1
+  > Main
+     32     Duffy/Tobrand        def.     Babkova/Szczepanska  64
+     32     Iglupas/Castillo     def.     Merrill/Surapaneni   63
+     32     Zandbers/Kim         def.     Totah/Pavani         60
+     32     Lee/Willson          def.     Heynemans/Romain     64
+     32     Von Tersch Pohrer/M… def.     Mackensen/Mansonhing 76(3)
+     32     Pitts/Jordan         def.     Santibanez Luna/ONe… 61
+     32     Gonzalez-Ballbe/Jan… def.     Carter/Fowler        75
+     32     Garcia/Suh           def.     Hedrzak/Repina       64
+     32     Coetzee/Fraile Tobo… def.     Del Marco/Rakim      60
+     32     Lennon/Masuda        def.     Wilkins/Castillo     64
+     32     Homolkova/Le Du      def.     Schlatter/Gonzalez-… 64
+     32     Daries/Taylor        def.     Vu/Pearson           64
+ > Extra matches day 2
+  > Main
+     32     Games/Koenig         def.     Volodko/Bruu-Syvers… 76(5)
+     32     Homolkova/Le Du      def.     Mackensen/Mansonhing 61
+     32     Babkova/Szczepanska  def.     Totah/Pavani         62
+     32     Lee/Willson          def.     Melosch/Nadozie      75
+     32     Lennon/Masuda        def.     Fry/Wilkins          76(5)
+     32     Kiss/Reuter          def.     Coetzee/Fraile Tobo… 63
+     32     Castillo/Ziouti      def.     Hedrzak/Repina       63
+     32     Spaka/Jankowski      def.     Pitts/Morin          76(3)
+     32     Merrill/Surapaneni   def.     Duffy/Tobrand        76(5)
+     32     Carter/Fowler        def.     Bhadada/Snissarenko  63
+     32     Zandbers/Kim         def.     Dorian/Zhytelna      75
+     32     Santibanez Luna/ONe… def.     Garcia/Suh           62
+     32     Schlatter/Gonzalez-… def.     Vu/Pearson           64
+     32     Gonzalez-Ballbe/Jan… def.     Pachl/Nguyen         63
+     32     Daries/Taylor        def.     Von Tersch Pohrer/M… 62
+     32     Heynemans/Romain     def.     Meraz/Iglupas        63
 ~~~
 
 Return to the [Top](./women_doubles_2143.md) &#124; [Home Page](../../index.md)
