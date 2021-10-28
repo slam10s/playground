@@ -14,6 +14,7 @@
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 - 10/22/2021 - [The Georgia Invitational](#21-36554) ([Results](#21-36554) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaW/Tournaments/Overview/01A4B27D-4D73-4167-8630-758894B435E5" target="_blank">Draws</a>)  
+- 10/21/2021 - [Crusader Invitational](#21-41693) ([Results](#21-41693) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Draws</a>)  
 - 10/22/2021 - [Eagle Invitational](#21-28500) ([Results](#21-28500) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Draws</a>)  
 - 10/22/2021 - [GSC Fall Individual Tournament](#21-93512) ([Results](#21-93512) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">Draws</a>)  
 - 10/22/2021 - [MSU Invitational](#21-16812) ([Results](#21-16812) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">Draws</a>)  
@@ -23,7 +24,6 @@
 **Tournaments without Matches**  
 - 10/19/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Butler Tournament</a>  
 - 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship</a>  
-- 10/21/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Crusader Invitational</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -855,6 +855,71 @@
      16  Frayman/Joyce      def.  Zeleva/Levashova   82
 ~~~
 
+<a name="21-41693"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Crusader Invitational
+  Dates: Oct 21-22, 2021
+  Host: Belmont Abbey College (M)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > BAC 1 vs QU 1
+  > Main
+     R3  Sheldrick/Hidalgo    def.  Galeano/Davis        62
+     R3  Morse/Bertran De Ba… def.  Peterson/Lopez       61
+ > BAC 2 vs QU 2
+  > Main
+     R1  Hendricks/Socarras   def.  Morse/Bertran De Ba… 75
+     R1  Vollmin/Gagnon       def.  Farmer/Billingsly    62
+ > WU vs AUG
+  > Main
+     R1  Ruetten/Kadyk        def.  Demiguel/Croda       75
+     R1  Dias/Roca            def.  Sambyakugari/Kosmrlj 76(2)
+ > USCS vs QU 1
+  > Main
+     R3  Kilbourne/Sinclaire  def.  Romero/Beasley       62
+     R3  Axelsson/Veselinova  def.  Krusling/Mille       62
+ > QU 2 vs WU
+  > Main
+     R1  Lopez/Sambyakugari   def.  Axelsson/Veselinova  76(3)
+     R1  Kosmrlj/Guidantoni   def.  Hidalgo/Vollmin      75
+ > BAC 2 vs AUG
+  > Main
+     R3  Croda/Mocher         def.  Farmer/Gonzalez      63
+     R3  Dias/Roca            def.  Socarras/Seib        62
+ > USCS vs BAC 1
+  > Main
+     R2  Galeano/Davis        def.  Romero/Beasley       64
+     R2  Peterson/Vaughan     def.  Krusling/Mille       75
+ > AUG vs BAC 1
+  > Main
+     R3  Dias/Roca            def.  Peterson/Vaughan     64
+     R3  Croda/Mocher         def.  Hendricks/Galeano    63
+ > QU 1 vs WU
+  > Main
+     R1  Morse/Axelsson       def.  Berggren/Sambyakuga… 63
+     R1  Ruetten/Kadyk        def.  Veselinova/Bertran … 75
+ > BAC 2 vs USCS
+  > Main
+     R3  Hendricks/Seib       def.  Krusling/Mille       63
+     R3  Aranyos/Gonzalez     def.  Romero/Beasley       62
+ > BAC 1 vs QU 2
+  > Main
+     R3  Kilbourne/Sinclaire  def.  Davis/Lopez          62
+     R3  Galeano/Vaughan      def.  Vollmin/Gagnon       63
+ > BAC 2 vs WU
+  > Main
+     R3  Kosmrlj/Lopez        def.  Farmer/Gonzalez      60
+     R3  Berggren/Sambyakuga… def.  Hendricks/Socarras   63
+ > USCS vs QU 2
+  > Main
+      F  Axelsson/Allard      def.  Romero/Beasley       61
+ > QU 1 vs AUG
+  > Main
+     R2  Dias/Roca            def.  Veselinova/Khramtso… 75
+     R2  Axelsson/Allard      def.  Croda/Mocher         62
+~~~
+
 <a name="21-28500"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════
@@ -964,6 +1029,14 @@
      32  Pinto/Villalvazo     def.  Nikolaeva/Mulkey-Da… 75
      32  Karm/Lewis           def.  Novis/Owen           62
      32  Arevalo/Bishop       def.  Moore/Gallman        60
+ > Consolation 10/24
+  > Main
+     QF  Tuells Bonet/Kohout… def.  Garcia/Costa         60
+     QF  Didkovska/Valiaeva   def.  Barrio/Barrio        63
+     QF  Mazzella/Garcia      def.  Martinez/Medel       75
+     QF  Ibarra/Navarro       def.  Alas/Cota            64
+     SF  Saving/Rivoal        def.  Karm/Lewis           75
+     SF  Beau/Bryjarsdottir   def.  Ozzor/Dirr           61
 ~~~
 
 <a name="21-16812"></a>

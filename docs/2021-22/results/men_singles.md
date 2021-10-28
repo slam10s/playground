@@ -8,12 +8,14 @@
 - 10/22/2021 - [ITA Division I Men's Northwest Super Regional Championship](#21-64957) ([Results](#21-64957) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonM/Tournaments/Overview/FCD50A53-E765-4641-A4EF-4F8678B573CA" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
+- 10/28/2021 - [64th Annual Southern California Intercollegiate Championships](#21-75985) ([Results](#21-75985) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">Draws</a>)  
 
 **Upcoming Tournaments**  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">64th Annual Intercollegiates</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Crimson Halloween Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Gamecock Scramble</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Gonzaga Invitational</a>  
+- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Seahawk Team Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Virginia Tech Halloween Clash</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Saint Leo Hidden Duals - Men</a>  
@@ -847,6 +849,9 @@
  Men's Open Singles
  > Draw
   > Main
+       F (15) Andrew Rogers        def. (30) Pietro Fellin        26 60 64
+      SF (30) Pietro Fellin        def.      Sam Rubell           36 64 60
+      SF (15) Andrew Rogers        def.  (3) Stefan Dostanic      16 50 Ret.
       QF      Sam Rubell           def. (31) Herman Hoeyeraal     63 75
       QF (30) Pietro Fellin        def.  (4) Bradley Frye         62 67(7) 63
       QF  (3) Stefan Dostanic      def. (13) Alexander Hoogmarte… 64 64
@@ -996,6 +1001,59 @@
      64Q      Matthew Sah          def.      Alex Scemanenco      46 75 [7]
      64Q      Phillip Lan          def.      Pablo Masjuan        57 61 [8]
      64Q      Kilian Maitre        def. (22) Eric Hahn            Walkover
+ > Allen Fox Draw
+  > Main
+      16      David Norfeldt       def.      Paul Barretto        64 Ret.
+      16      Will Davies          def.      GIanluca Brunkow     76(5) 46 [5]
+      16      Noah Zamora          def.      Jared Horwood        76(2) 26 [3]
+      16      Kai Brady            def.      Mike Mkrtchian       62 64
+      16      Diego Castillo       def.      Jiri Novak           57 Ret.
+      16      Rithvik Krishna      def.      Bastiaan Weststrate  64 63
+      16      Joseph Leather       def.      Stanislas De Samuce… 63 64
+      16      Stefano Tsorotiotis  def.      Gary Vardanyan       64 64
+ > Adam Steinberg Draw
+  > Main
+      16      Wyatt Anderson       def.      Cody Castro          76(2) 62
+      32      Mike Mkrtchian       def.      Hiroki Sakagawa      60 Ret.
+      32      Jared Horwood        def.      Bastiaan Weststrate  76(5) 63
+      32      Filip Malbasic       def.      Noah Berry           62 76(2)
+      32      Noah Zamora          def.      Kilian Maitre        57 63 [9]
+      32      Rithvik Krishna      def.      Argote Mariano       76(5) 76(5)
+      32      Carlos Hassey        def.      Alex Stater          46 75 [8]
+      32      Ali Amiri            def.      Colter Smith         64 61
+      32      David Norfeldt       def.      Colton Smith         64 76(7)
+      32      Simao Alves          def.      Matthew Sah          64 36 [7]
+      32      Nick Lagaev          def.      Ian Esses            64 46 [8]
+      32      Grzegorz Rudnicki    def.      Josh Williams        62 Ret.
+      32      John Bryan Otico     def.      Will Davies          64 76(6)
+~~~
+
+<a name="21-75985"></a>
+~~~
+════════════════════════════════════════════════════════════════════
+  64th Annual Southern California Intercollegiate Championships
+  Dates: Oct 28-31, 2021
+  Host: ITA
+════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Qualifying Draw
+  > Main
+     32  Blaine Hovenier     vs   Kameron DeHart       Thu @ 14:30
+     32  Younes Kodiji       vs   Diego Castillo       Thu @ 13:30
+     32  Tomas Gomez Gomez   vs   Sofian Tayebi        Thu @ 13:30
+     32  Caleb Wilkins       vs   Carlos Solorzano     Thu @ 13:30
+     32  Loic Van Zeggelaar  vs   Ethan Smith          Thu @ 13:30
+     32  Leyton Bohren       vs   Mac Caldwell         Thu @ 13:30
+     32  Wyatt Anderson      vs   Huntley Allen        Thu @ 16:30
+     32  Grzegorz Rudnicki   vs   Julien Sanseverino   Thu @ 16:30
+     32  Barnaby Thorold     vs   Andy Hess            Thu @ 13:30
+     64  Argote Mariano      vs   Antonio Rosales Var… Thu @ 11:00
+     64  Jeffrey Fradkin     vs   Harrison Cohen       Thu @ 11:30
+     64  Jiri Novak          vs   Tommy Hays           Thu @ 11:30
+     64  Josh Williams       vs   James Caddies        Thu @ 11:30
+     64  Adrian Daoust       vs   Henry Habib          Thu @ 12:00
+     64  Jan Simon           vs   Danny Marsh          Thu @ 12:00
+     64  Ryan Nuno           vs   Josh Blinder         Thu @ 12:00
 ~~~
 
 Return to the [Top](./men_singles_2143.md) &#124; [Home Page](../../index.md)

@@ -266,12 +266,12 @@
      SF  Eleonora Molinaro    def.  Madeline Atway      63 63
      SF  Jess Dawson          def.  Samantha Buyckx     57 64 61
      QF  Madeline Atway       def.  Karolina Berankova  63 76(7)
-     QF  Eleonora Molinaro    def.  Saby Nihalani       57 62 75
+     QF  Eleonora Molinaro    def.  Sabhyata Nihalani   57 62 75
      QF  Samantha Buyckx      def.  Amy Stevens         62 64
      QF  Jess Dawson          def.  Alexandra Mikhailuk 64 61
   > West
-      F  Saby Nihalani        def.  Amy Stevens         60 62
-     SF  Saby Nihalani        def.  Karolina Berankova  16 63 62
+      F  Sabhyata Nihalani    def.  Amy Stevens         60 62
+     SF  Sabhyata Nihalani    def.  Karolina Berankova  16 63 62
      SF  Amy Stevens          def.  Alexandra Mikhailuk Walkover
   > 3-4 Playoff
       F  Madeline Atway       def.  Samantha Buyckx     57 64 75
@@ -295,10 +295,10 @@
  > Flight 11
   > East
       F  Kate Sharabura       def.  Lindsay Zink        62 46 61
-     SF  Lindsay Zink         def.  Mia Ahmad           64 64
+     SF  Lindsay Zink         def.  Maryam Ahmad        64 64
      SF  Kate Sharabura       def.  Ilayda Baykan       62 75
      QF  Lindsay Zink         def.  Chloe Narboni       61 62
-     QF  Mia Ahmad            def.  Gabby Cusano        62 61
+     QF  Maryam Ahmad         def.  Gabby Cusano        62 61
      QF  Kate Sharabura       def.  Makayla Mills       75 75
      QF  Ilayda Baykan        def.  Kendall Couch       62 64
   > West
@@ -306,7 +306,7 @@
      SF  Chloe Narboni        def.  Gabby Cusano        61 60
      SF  Makayla Mills        def.  Kendall Couch       62 63
   > 3-4 Playoff
-      F  Mia Ahmad            def.  Ilayda Baykan       75 26 63
+      F  Maryam Ahmad         def.  Ilayda Baykan       75 26 63
   > South
       F  Kendall Couch        def.  Gabby Cusano        63 61
  > Flight 12
@@ -351,13 +351,13 @@
       F  Ami Grace Dougah     def.  Samantha Johns       Walkover
  > Gold
   > East
-      F  Lize Alet Morkel     def.  Ji Youn Lee          57 64 62
+      F  Lize Alet Morkel     def.  Ji Lee               57 64 62
      SF  Lize Alet Morkel     def.  Martina Muzzolon     64 61
-     SF  Ji Youn Lee          def.  Lizette Reding       36 Ret.
+     SF  Ji Lee               def.  Lizette Reding       36 Ret.
      QF  Lize Alet Morkel     def.  Meghana Komarraju    63 62
      QF  Martina Muzzolon     def.  Lucie Petruzelova    63 63
      QF  Lizette Reding       def.  Ariana Chan Baratau  61 75
-     QF  Ji Youn Lee          def.  Katreina Corpuz      61 61
+     QF  Ji Lee               def.  Katreina Corpuz      61 61
   > West
       F  Lucie Petruzelova    def.  Ariana Chan Baratau  61 62
      SF  Lucie Petruzelova    def.  Meghana Komarraju    61 61
@@ -1343,7 +1343,7 @@
      R3  Chiara Gerbino       def.  Amelie Allard        64 64
  > Wingate vs LMC
   > Main
-     R3  Chloe Kosmrlj        def.  Anita Ivanova        75 62
+     R3  Chole Kosmrlj        def.  Anita Ivanova        75 62
      R3  Saga Berggren        def.  Laura Ocampo         60 60
      R3  Elena Gunfaus        def.  Mei Hiramatsu        75 60
  > Montevallo vs LMC
@@ -1365,7 +1365,7 @@
   > Main
      R3  Jessica Ruetten      def.  Yaritza Gonzalez     62 64
      R2  Camilla Ciaccia      def.  Lily Aranyos         60 62
-     R1  Chloe Kosmrlj        def.  Molly Hencken        63 60
+     R1  Chole Kosmrlj        def.  Molly Hencken        63 60
  > Montevallo vs Wingate
   > Main
      R5  Flaminia Guidantoni  def.  Emily Hafner         64 67(4) [6]

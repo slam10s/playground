@@ -358,7 +358,7 @@
       64      Inma Ramon           def. (16) Judit Gonzalez       61 46 76(6)
       64      Zoe Heed             def.  (9) Gemma Southwick      61 62
       64      Elisa Aguirre        def. (16) Valentina Ascarrunz  16 62 62
-      64      Paige Wise           def.  (7) Chloe Kosmrlj        64 63
+      64      Paige Wise           def.  (7) Chole Kosmrlj        64 63
       64 (16) Johanna Lippert      def.      Natasha Forrest      63 62
       64  (9) Mariana Ramirez      def.      Svetlana Teterina    64 64
       64 (16) Flaminia Guidantoni  def.      Nele Weber           57 61 62
@@ -398,7 +398,7 @@
   > Consolation
       32      Emilie Hansen        def.      Julia Speiser        62 63
       32      Natasha Forrest      def.      Czarina Aguirre      61 63
-      32  (7) Chloe Kosmrlj        def. (16) Valentina Ascarrunz  Walkover
+      32  (7) Chole Kosmrlj        def. (16) Valentina Ascarrunz  Walkover
       32      Alicia Wahlberg      def.      Julie Martincova     Walkover
       32 (16) Catherine Blouin     def.      Leonie Floeth        46 75 [2]
       32      Maria Kotsiou        def.      Sara Ramirez         76(5) 16 [8]
@@ -416,7 +416,7 @@
       64      Julia Speiser        def.      Nele Weber           64 57 [2]
       64      Czarina Aguirre      def.      Svetlana Teterina    64 63
       64      Natasha Forrest      def.      Bailee Wilson        63 61
-      64  (7) Chloe Kosmrlj        def.      Darja Chistov        62 75
+      64  (7) Chole Kosmrlj        def.      Darja Chistov        62 75
       64 (16) Valentina Ascarrunz  def.      Yelena Labat         64 63
       64      Julie Martincova     def.  (9) Gemma Southwick      Walkover
       64      Alicia Wahlberg      def. (16) Judit Gonzalez       Walkover
@@ -2107,7 +2107,7 @@
      16  Marina Alcaide       def.  Bente Spee           64 63
      16  Eliza Omirou         def.  Sara Ziodato         64 67(1) 76(6)
      16  Lindsay Zink         def.  Ariana Arseneault    26 75 76(3)
-     16  Taylor Bridges       def.  Mia Ahmad            61 61
+     16  Taylor Bridges       def.  Maryam Ahmad         61 61
   > West
       F  Mila Saric           def.  Ariana Arseneault    76(5) 75
      SF  Mila Saric           def.  Michelle Sorokko     62 63
@@ -2115,7 +2115,7 @@
      QF  Michelle Sorokko     def.  Alexandra Viktorovi… 62 76(3)
      QF  Mila Saric           def.  Christin Hsieh       63 57 76(10)
      QF  Sara Ziodato         def.  Bente Spee           61 60
-     QF  Ariana Arseneault    def.  Mia Ahmad            64 64
+     QF  Ariana Arseneault    def.  Maryam Ahmad         64 64
   > North
       F  Ruxi Schech          def.  Eliza Omirou         Default
      SF  Ruxi Schech          def.  Briana Crowley       63 46 76(6)
@@ -2125,13 +2125,13 @@
   > South
       F  Christin Hsieh       def.  Bente Spee           64 26 76(9)
      SF  Christin Hsieh       def.  Alexandra Viktorovi… 64 64
-     SF  Bente Spee           def.  Mia Ahmad            36 60 76(1)
+     SF  Bente Spee           def.  Maryam Ahmad         36 60 76(1)
   > Southwest
       F  Sara Ziodato         def.  Michelle Sorokko     26 75 76(4)
   > Northwest
       F  Taylor Bridges       def.  Briana Crowley       64 63
   > Southeast
-      F  Alexandra Viktorovi… def.  Mia Ahmad            61 62
+      F  Alexandra Viktorovi… def.  Maryam Ahmad         61 62
  > Blue Singles
   > East
       F  Reilly Tran          def.  Carolyn Ansari       62 60
@@ -2182,7 +2182,7 @@
      QF  Carly Briggs         def.  Mariana Manyoma Vel… 60 63
      16  Lucia Quiterio       def.  Mia Rabinowitz       62 60
      16  Sydney Berlin        def.  Miska Kadleckova     63 75
-     16  Kelly Chen           def.  Saby Nihalani        61 63
+     16  Kelly Chen           def.  Sabhyata Nihalani    61 63
      16  Tatsiana Sasnouskaya def.  Maia Sung            46 61 76(2)
      16  Christina Hand       def.  Yu Chen              26 76(7) 76(9)
      16  Mariana Manyoma Vel… def.  Sofia Munera         Default
@@ -2191,7 +2191,7 @@
       F  Miska Kadleckova     def.  Maia Sung            46 63 76(8)
      SF  Miska Kadleckova     def.  Mia Rabinowitz       61 61
      SF  Maia Sung            def.  Kacie Harvey         Default
-     QF  Miska Kadleckova     def.  Saby Nihalani        57 64 76(4)
+     QF  Miska Kadleckova     def.  Sabhyata Nihalani    57 64 76(4)
      QF  Maia Sung            def.  Yu Chen              76(9) 26 76(8)
   > North
       F  Lucia Quiterio       def.  Christina Hand       64 63
@@ -2200,7 +2200,7 @@
   > 3-4 Playoff
       F  Kelly Chen           def.  Tatsiana Sasnouskaya Default
   > South
-      F  Yu Chen              def.  Saby Nihalani        63 16 76(4)
+      F  Yu Chen              def.  Sabhyata Nihalani    63 16 76(4)
   > Southwest
       F  Kacie Harvey         def.  Mia Rabinowitz       62 62
   > Northwest
@@ -2247,7 +2247,7 @@
  > Extra Matches
   > Main
      QF  Stephanie Schrage    def.  Nina Geissler        16 64 76(7)
-     QF  Sofia Cabezas        def.  Saby Nihalani        63 63
+     QF  Sofia Cabezas        def.  Sabhyata Nihalani    63 63
      QF  Ruxi Schech          def.  Amber ODell          64 64
      QF  Raffaela Alhach      def.  Sara McClure         61 62
 ~~~

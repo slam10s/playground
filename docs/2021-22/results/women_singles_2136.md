@@ -16,6 +16,7 @@
 
 **Tournaments without Matches**  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityW/Tournaments/Overview/CD512B83-10FF-46E4-86C6-2C34954D0D21" target="_blank">Limestone Women's Challenger</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Wallach Invitational</a>  
@@ -1042,10 +1043,10 @@
  > Blue
   > East
       F  Camilla Ciaccia      def.  Elena Gunfaus        Walkover
-     SF  Camilla Ciaccia      def.  Chloe Kosmrlj        61 61
+     SF  Camilla Ciaccia      def.  Chole Kosmrlj        61 61
      SF  Elena Gunfaus        def.  Viktorija Veselinova 62 63
      QF  Camilla Ciaccia      def.  Frankee Hendricks    62 61
-     QF  Chloe Kosmrlj        def.  Hanna Axelsson       76(5) 64
+     QF  Chole Kosmrlj        def.  Hanna Axelsson       76(5) 64
      QF  Viktorija Veselinova def.  Una Pandurevic       63 62
      QF  Elena Gunfaus        def.  Jessica Binzari      63 64
   > West
@@ -1053,7 +1054,7 @@
      SF  Hanna Axelsson       def.  Frankee Hendricks    67(4) 63 [12]
      SF  Jessica Binzari      def.  Una Pandurevic       61 63
   > 3-4 Playoff
-      F  Viktorija Veselinova def.  Chloe Kosmrlj        Walkover
+      F  Viktorija Veselinova def.  Chole Kosmrlj        Walkover
   > South
       F  Frankee Hendricks    def.  Una Pandurevic       61 57 [1]
  > Red

@@ -1048,6 +1048,9 @@
  Men's Open Singles
  > Draw
   > Main
+       F (15) Andrew Rogers        def. (30) Pietro Fellin        26 60 64
+      SF (30) Pietro Fellin        def.      Sam Rubell           36 64 60
+      SF (15) Andrew Rogers        def.  (3) Stefan Dostanic      16 50 Ret.
       QF      Sam Rubell           def. (31) Herman Hoeyeraal     63 75
       QF (30) Pietro Fellin        def.  (4) Bradley Frye         62 67(7) 63
       QF  (3) Stefan Dostanic      def. (13) Alexander Hoogmarte… 64 64
@@ -1197,6 +1200,31 @@
      64Q      Matthew Sah          def.      Alex Scemanenco      46 75 [7]
      64Q      Phillip Lan          def.      Pablo Masjuan        57 61 [8]
      64Q      Kilian Maitre        def. (22) Eric Hahn            Walkover
+ > Allen Fox Draw
+  > Main
+      16      David Norfeldt       def.      Paul Barretto        64 Ret.
+      16      Will Davies          def.      GIanluca Brunkow     76(5) 46 [5]
+      16      Noah Zamora          def.      Jared Horwood        76(2) 26 [3]
+      16      Kai Brady            def.      Mike Mkrtchian       62 64
+      16      Diego Castillo       def.      Jiri Novak           57 Ret.
+      16      Rithvik Krishna      def.      Bastiaan Weststrate  64 63
+      16      Joseph Leather       def.      Stanislas De Samuce… 63 64
+      16      Stefano Tsorotiotis  def.      Gary Vardanyan       64 64
+ > Adam Steinberg Draw
+  > Main
+      16      Wyatt Anderson       def.      Cody Castro          76(2) 62
+      32      Mike Mkrtchian       def.      Hiroki Sakagawa      60 Ret.
+      32      Jared Horwood        def.      Bastiaan Weststrate  76(5) 63
+      32      Filip Malbasic       def.      Noah Berry           62 76(2)
+      32      Noah Zamora          def.      Kilian Maitre        57 63 [9]
+      32      Rithvik Krishna      def.      Argote Mariano       76(5) 76(5)
+      32      Carlos Hassey        def.      Alex Stater          46 75 [8]
+      32      Ali Amiri            def.      Colter Smith         64 61
+      32      David Norfeldt       def.      Colton Smith         64 76(7)
+      32      Simao Alves          def.      Matthew Sah          64 36 [7]
+      32      Nick Lagaev          def.      Ian Esses            64 46 [8]
+      32      Grzegorz Rudnicki    def.      Josh Williams        62 Ret.
+      32      John Bryan Otico     def.      Will Davies          64 76(6)
 ~~~
 
 <a name="21-41693"></a>

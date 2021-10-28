@@ -67,7 +67,7 @@
      32 (15) Ania Hertel         def.      Nandini Sharma      62 63
      32  (2) Isabella Pfennig    def.      Yasmine Kabbaj      63 75
      64  (1) Meg Kowalski        def.      Angel Carney        64 62
-     64      Grace Shumacher     def.      Ji Youn Lee         63 61
+     64      Grace Shumacher     def.      Ji Lee              63 61
      64      Eden Richardson     def.      Jaleesa Leslie      61 57 41 Ret.
      64 (13) Kylie Bilchev       def.      Millie-Mae Matthews 20 Ret.
      64  (5) Carly Briggs        def.      Monika Dedaj        63 63
@@ -115,7 +115,7 @@
      16      Fanny Norin         def.      Anais Gabriel       63 36 [6]
      16      Noa Cohen           def.      Alexia Alvarez      62 60
      16      Rosie Garcia Gross  def.      Martina Kudelova    60 Ret.
-     32      Angel Carney        def.      Ji Youn Lee         62 62
+     32      Angel Carney        def.      Ji Lee              62 62
      32      Katerina Filip      def.      Maya Tahan          62 46 [7]
      32      Monika Dedaj        def.      Dana Heimen         26 76(4) [6]
      32      Guillermina Grant   def.      Afrika Smith        61 60
@@ -135,7 +135,7 @@
   > Main
      16  (8) Alee Clayton        def.      Francesca Franci    76(4) 64
      16  (5) Kate Sharabura      def.      Nada Dimovska       63 61
-     16      Ji Youn Lee         def.  (4) Greta Schieroni     53 Ret.
+     16      Ji Lee              def.  (4) Greta Schieroni     53 Ret.
      16  (3) Gia Cohen           def.      Mai Nirundorn       62 46 [7]
      16      Noa Cohen           def.  (6) Katerina Filip      62 26 [10]
      16  (7) Rosie Garcia Gross  def.      Anique Kattenberg   62 61
@@ -143,7 +143,7 @@
      32      Millie-Mae Matthews def.      Susan Salinas       60 61
      32      Francesca Franci    def.      Haleigh Porter      61 64
      32      Nada Dimovska       def.      Cheri Darley        46 62 [4]
-     32      Ji Youn Lee         def.      Luise Reisel        64 62
+     32      Ji Lee              def.      Luise Reisel        64 62
      32      Mai Nirundorn       def.      Carina Sommer       61 63
      32      Noa Cohen           def.      Paula Hijos         61 60
      32      Anique Kattenberg   def.      Valentina Taddia    62 16 [10]
@@ -720,7 +720,7 @@
       32      Casie Wooten         def.      Hind Semlali         62 75
       32  (4) Abigail Rencheli     def.      Maggie Pate          62 63
       32      Eliza Omirou         def.      Ellie Schulson       64 62
-      32  (6) Anika Yarlagadda     def.      Saby Nihalani        62 62
+      32  (6) Anika Yarlagadda     def.      Sabhyata Nihalani    62 62
       32      Sibel Tanik          def.      Megan Hopton         61 61
       32  (2) Ayana Akli           def.      Anna Daniels         61 60
   > Consolation
@@ -737,7 +737,7 @@
      16Q      Lindsay Zink         def.      Kata Foldeak         61 62
      16Q      Ruxi Schech          def.      Cristina Mayorova    Walkover
      16Q      Hind Semlali         def.      Maggie Pate          63 63
-     16Q      Ellie Schulson       def.      Saby Nihalani        62 62
+     16Q      Ellie Schulson       def.      Sabhyata Nihalani    62 62
      16Q      Anna Daniels         def.      Megan Hopton         62 16 76(5)
  > B1
   > Main
@@ -807,10 +807,10 @@
       32 (12) Samantha Buyckx      def.      Mathilde Tranberg    62 63
       32  (5) Madison Dillon       def.      Maja Jekauc          67(4) 62 62
       32 (15) Megan Hopton         def.      Rachel Marthinsen    46 64 62
-      32  (2) Saby Nihalani        def.      Manon Delsol         61 60
+      32  (2) Sabhyata Nihalani    def.      Manon Delsol         61 60
       64  (1) Samantha Martinelli  def.      Brianna Wilbur       61 62
       64      Khyanna Singh        def.      Emma Heiderscheit    62 63
-      64      Miray Konar          def. (14) Maddie Lynch         63 16 64
+      64      Miray Konar          def. (14) Madeleine Lynch      63 16 64
       64      Kavya Patel          def.      Jade Houston         64 46 76(3)
       64  (8) Elise Mills          def.      Erika Dodridge       64 64
       64      Halli Trinkle        def.      Juliana Craft        63 63
@@ -839,16 +839,16 @@
       64      Rachel Marthinsen    def.      Hannah Gaines        60 60
       64 (15) Megan Hopton         def.      Jacy Smith           36 64 63
       64      Manon Delsol         def.      Lilie Steryous       46 64 62
-      64  (2) Saby Nihalani        def.      Lasya Patnaik        63 64
+      64  (2) Sabhyata Nihalani    def.      Lasya Patnaik        63 64
   > Consolation
        F      Lana Sipek           def.      Julie Ball           63 62
-      SF      Lana Sipek           def. (14) Maddie Lynch         64 61
+      SF      Lana Sipek           def. (14) Madeleine Lynch      64 61
       SF      Julie Ball           def.      Laura Marti          26 64 63
-      QF (14) Maddie Lynch         def.      Erika Dodridge       63 75
+      QF (14) Madeleine Lynch      def.      Erika Dodridge       63 75
       QF      Lana Sipek           def.      Raegan Mitchell      62 64
       QF      Laura Marti          def.      Karolina Berankova   64 22 Ret.
       QF      Julie Ball           def.      Lasya Patnaik        64 62
-      16 (14) Maddie Lynch         def.      Brianna Wilbur       61 36 61
+      16 (14) Madeleine Lynch      def.      Brianna Wilbur       61 36 61
       16      Erika Dodridge       def.      Liz Truluck          62 75
       16      Raegan Mitchell      def.      Anne Lou Champion    63 67(5) 64
       16      Lana Sipek           def.      Madalina Man         62 64
@@ -857,7 +857,7 @@
       16      Julie Ball           def.      Anna Uljanov         64 61
       16      Lasya Patnaik        def.      Jacy Smith           63 62
      32Q      Brianna Wilbur       def.      Emma Heiderscheit    16 63 64
-     32Q (14) Maddie Lynch         def.      Jade Houston         75 63
+     32Q (14) Madeleine Lynch      def.      Jade Houston         75 63
      32Q      Erika Dodridge       def.      Juliana Craft        63 75
      32Q      Liz Truluck          def.      Maria Jardim         63 61
      32Q      Raegan Mitchell      def.      Elin Hellberg        61 62
@@ -2001,7 +2001,7 @@
  > WU vs AUG
   > Main
      R2  Claudia Roca         def.  Alex Lopez           62 60
-     R2  Edith Croda          def.  Chloe Kosmrlj        36 62 [2]
+     R2  Edith Croda          def.  Chole Kosmrlj        36 62 [2]
      R2  Flaminia Guidantoni  def.  Teresa Dias          61 63
  > USCS vs QU 1
   > Main
@@ -2031,7 +2031,7 @@
  > QU 1 vs WU
   > Main
      R1  Hanna Axelsson       def.  Suzuka Sambyakugari  76(5) 63
-     R1  Chloe Kosmrlj        def.  Viktorija Veselinova 76(7) 57 [6]
+     R1  Chole Kosmrlj        def.  Viktorija Veselinova 76(7) 57 [6]
      R1  Alex Lopez           def.  Jill Morse           16 61 [3]
  > BAC 2 vs USCS
   > Main

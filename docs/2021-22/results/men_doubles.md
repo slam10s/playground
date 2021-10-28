@@ -8,12 +8,14 @@
 - 10/22/2021 - [ITA Division I Men's Northwest Super Regional Championship](#21-64957) ([Results](#21-64957) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonM/Tournaments/Overview/FCD50A53-E765-4641-A4EF-4F8678B573CA" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
+- 10/28/2021 - [64th Annual Southern California Intercollegiate Championships](#21-75985) ([Results](#21-75985) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">Draws</a>)  
 
 **Upcoming Tournaments**  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">64th Annual Intercollegiates</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Crimson Halloween Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Gamecock Scramble</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Gonzaga Invitational</a>  
+- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Seahawk Team Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Virginia Tech Halloween Clash</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Saint Leo Hidden Duals - Men</a>  
@@ -401,6 +403,25 @@
      64      Rico/Hadigian        def.      Maitre/Tattevin      84
      64 (15) Seeman/Mandma        def.      Vedri-Castellano As… 83
      64      Olsen/Middleton      def.      Mkrtchian/Zamora     87(2)
+~~~
+
+<a name="21-75985"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  64th Annual Southern California Intercollegiate Championships
+  Dates: Oct 28-31, 2021
+  Host: ITA
+═════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Qualifying Draw
+  > Main
+     16     Large/Daoust     vs      Williams/Castillo    Thu @ 10:00
+     16 (3) Hibi/Yoshida     vs      Hess/Sanseverino     Thu @ 11:00
+     16     Kodiji/Tayebi    vs      Parsley/Smith        Thu @ 10:00
+     16     Caddies/Thorold  vs      Caldwell/Marsh       Thu @ 10:00
+     16     Cohen/Wilkins    vs  (4) De Samucewicz/Rudni… Thu @ 10:00
+     16     Blinder/Marks    vs      Van Zeggelaar/Ander… Thu @ 10:00
+     16     Simon/Smiej      vs  (2) Sillman/Zisette      Thu @ 10:00
 ~~~
 
 Return to the [Top](./men_doubles_2143.md) &#124; [Home Page](../../index.md)

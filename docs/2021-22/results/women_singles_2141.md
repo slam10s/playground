@@ -442,7 +442,7 @@
      32 (15) Ania Hertel         def.      Nandini Sharma      62 63
      32  (2) Isabella Pfennig    def.      Yasmine Kabbaj      63 75
      64  (1) Meg Kowalski        def.      Angel Carney        64 62
-     64      Grace Shumacher     def.      Ji Youn Lee         63 61
+     64      Grace Shumacher     def.      Ji Lee              63 61
      64      Eden Richardson     def.      Jaleesa Leslie      61 57 41 Ret.
      64 (13) Kylie Bilchev       def.      Millie-Mae Matthews 20 Ret.
      64  (5) Carly Briggs        def.      Monika Dedaj        63 63
@@ -490,7 +490,7 @@
      16      Fanny Norin         def.      Anais Gabriel       63 36 [6]
      16      Noa Cohen           def.      Alexia Alvarez      62 60
      16      Rosie Garcia Gross  def.      Martina Kudelova    60 Ret.
-     32      Angel Carney        def.      Ji Youn Lee         62 62
+     32      Angel Carney        def.      Ji Lee              62 62
      32      Katerina Filip      def.      Maya Tahan          62 46 [7]
      32      Monika Dedaj        def.      Dana Heimen         26 76(4) [6]
      32      Guillermina Grant   def.      Afrika Smith        61 60
@@ -510,7 +510,7 @@
   > Main
      16  (8) Alee Clayton        def.      Francesca Franci    76(4) 64
      16  (5) Kate Sharabura      def.      Nada Dimovska       63 61
-     16      Ji Youn Lee         def.  (4) Greta Schieroni     53 Ret.
+     16      Ji Lee              def.  (4) Greta Schieroni     53 Ret.
      16  (3) Gia Cohen           def.      Mai Nirundorn       62 46 [7]
      16      Noa Cohen           def.  (6) Katerina Filip      62 26 [10]
      16  (7) Rosie Garcia Gross  def.      Anique Kattenberg   62 61
@@ -518,7 +518,7 @@
      32      Millie-Mae Matthews def.      Susan Salinas       60 61
      32      Francesca Franci    def.      Haleigh Porter      61 64
      32      Nada Dimovska       def.      Cheri Darley        46 62 [4]
-     32      Ji Youn Lee         def.      Luise Reisel        64 62
+     32      Ji Lee              def.      Luise Reisel        64 62
      32      Mai Nirundorn       def.      Carina Sommer       61 63
      32      Noa Cohen           def.      Paula Hijos         61 60
      32      Anique Kattenberg   def.      Valentina Taddia    62 16 [10]

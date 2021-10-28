@@ -10,21 +10,27 @@
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 
+**Tournaments without Matches**  
+- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Elon Fall Invitational</a>  
+- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Rice Invite</a>  
+- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Tennessee Fall Invitational</a>  
+- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
+- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/38F0263E-9612-4653-A277-431DF0FCCC45" target="_blank">Tennessee Fall Invitational</a>  
+
 **Upcoming Tournaments**  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Brown Quad</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">College of Charleston Halloween Tournament</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">FIU Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Gamecock Shootout</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">NIU Huskie Indoor Invitational</a>  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Rice Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Roberta Alison Fall Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Wofford Fall Invite</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Royal Rumble 2</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Shark Bite Invite</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Slug Invite - hosted by West Valley College</a>  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/38F0263E-9612-4653-A277-431DF0FCCC45" target="_blank">Tennessee Fall Invitational</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -68,7 +74,7 @@
      32 (15) Ania Hertel         def.      Nandini Sharma      62 63
      32  (2) Isabella Pfennig    def.      Yasmine Kabbaj      63 75
      64  (1) Meg Kowalski        def.      Angel Carney        64 62
-     64      Grace Shumacher     def.      Ji Youn Lee         63 61
+     64      Grace Shumacher     def.      Ji Lee              63 61
      64      Eden Richardson     def.      Jaleesa Leslie      61 57 41 Ret.
      64 (13) Kylie Bilchev       def.      Millie-Mae Matthews 20 Ret.
      64  (5) Carly Briggs        def.      Monika Dedaj        63 63
@@ -116,7 +122,7 @@
      16      Fanny Norin         def.      Anais Gabriel       63 36 [6]
      16      Noa Cohen           def.      Alexia Alvarez      62 60
      16      Rosie Garcia Gross  def.      Martina Kudelova    60 Ret.
-     32      Angel Carney        def.      Ji Youn Lee         62 62
+     32      Angel Carney        def.      Ji Lee              62 62
      32      Katerina Filip      def.      Maya Tahan          62 46 [7]
      32      Monika Dedaj        def.      Dana Heimen         26 76(4) [6]
      32      Guillermina Grant   def.      Afrika Smith        61 60
@@ -136,7 +142,7 @@
   > Main
      16  (8) Alee Clayton        def.      Francesca Franci    76(4) 64
      16  (5) Kate Sharabura      def.      Nada Dimovska       63 61
-     16      Ji Youn Lee         def.  (4) Greta Schieroni     53 Ret.
+     16      Ji Lee              def.  (4) Greta Schieroni     53 Ret.
      16  (3) Gia Cohen           def.      Mai Nirundorn       62 46 [7]
      16      Noa Cohen           def.  (6) Katerina Filip      62 26 [10]
      16  (7) Rosie Garcia Gross  def.      Anique Kattenberg   62 61
@@ -144,7 +150,7 @@
      32      Millie-Mae Matthews def.      Susan Salinas       60 61
      32      Francesca Franci    def.      Haleigh Porter      61 64
      32      Nada Dimovska       def.      Cheri Darley        46 62 [4]
-     32      Ji Youn Lee         def.      Luise Reisel        64 62
+     32      Ji Lee              def.      Luise Reisel        64 62
      32      Mai Nirundorn       def.      Carina Sommer       61 63
      32      Noa Cohen           def.      Paula Hijos         61 60
      32      Anique Kattenberg   def.      Valentina Taddia    62 16 [10]
@@ -237,7 +243,7 @@
       32      Casie Wooten         def.      Hind Semlali         62 75
       32  (4) Abigail Rencheli     def.      Maggie Pate          62 63
       32      Eliza Omirou         def.      Ellie Schulson       64 62
-      32  (6) Anika Yarlagadda     def.      Saby Nihalani        62 62
+      32  (6) Anika Yarlagadda     def.      Sabhyata Nihalani    62 62
       32      Sibel Tanik          def.      Megan Hopton         61 61
       32  (2) Ayana Akli           def.      Anna Daniels         61 60
   > Consolation
@@ -254,7 +260,7 @@
      16Q      Lindsay Zink         def.      Kata Foldeak         61 62
      16Q      Ruxi Schech          def.      Cristina Mayorova    Walkover
      16Q      Hind Semlali         def.      Maggie Pate          63 63
-     16Q      Ellie Schulson       def.      Saby Nihalani        62 62
+     16Q      Ellie Schulson       def.      Sabhyata Nihalani    62 62
      16Q      Anna Daniels         def.      Megan Hopton         62 16 76(5)
  > B1
   > Main
@@ -324,10 +330,10 @@
       32 (12) Samantha Buyckx      def.      Mathilde Tranberg    62 63
       32  (5) Madison Dillon       def.      Maja Jekauc          67(4) 62 62
       32 (15) Megan Hopton         def.      Rachel Marthinsen    46 64 62
-      32  (2) Saby Nihalani        def.      Manon Delsol         61 60
+      32  (2) Sabhyata Nihalani    def.      Manon Delsol         61 60
       64  (1) Samantha Martinelli  def.      Brianna Wilbur       61 62
       64      Khyanna Singh        def.      Emma Heiderscheit    62 63
-      64      Miray Konar          def. (14) Maddie Lynch         63 16 64
+      64      Miray Konar          def. (14) Madeleine Lynch      63 16 64
       64      Kavya Patel          def.      Jade Houston         64 46 76(3)
       64  (8) Elise Mills          def.      Erika Dodridge       64 64
       64      Halli Trinkle        def.      Juliana Craft        63 63
@@ -356,16 +362,16 @@
       64      Rachel Marthinsen    def.      Hannah Gaines        60 60
       64 (15) Megan Hopton         def.      Jacy Smith           36 64 63
       64      Manon Delsol         def.      Lilie Steryous       46 64 62
-      64  (2) Saby Nihalani        def.      Lasya Patnaik        63 64
+      64  (2) Sabhyata Nihalani    def.      Lasya Patnaik        63 64
   > Consolation
        F      Lana Sipek           def.      Julie Ball           63 62
-      SF      Lana Sipek           def. (14) Maddie Lynch         64 61
+      SF      Lana Sipek           def. (14) Madeleine Lynch      64 61
       SF      Julie Ball           def.      Laura Marti          26 64 63
-      QF (14) Maddie Lynch         def.      Erika Dodridge       63 75
+      QF (14) Madeleine Lynch      def.      Erika Dodridge       63 75
       QF      Lana Sipek           def.      Raegan Mitchell      62 64
       QF      Laura Marti          def.      Karolina Berankova   64 22 Ret.
       QF      Julie Ball           def.      Lasya Patnaik        64 62
-      16 (14) Maddie Lynch         def.      Brianna Wilbur       61 36 61
+      16 (14) Madeleine Lynch      def.      Brianna Wilbur       61 36 61
       16      Erika Dodridge       def.      Liz Truluck          62 75
       16      Raegan Mitchell      def.      Anne Lou Champion    63 67(5) 64
       16      Lana Sipek           def.      Madalina Man         62 64
@@ -374,7 +380,7 @@
       16      Julie Ball           def.      Anna Uljanov         64 61
       16      Lasya Patnaik        def.      Jacy Smith           63 62
      32Q      Brianna Wilbur       def.      Emma Heiderscheit    16 63 64
-     32Q (14) Maddie Lynch         def.      Jade Houston         75 63
+     32Q (14) Madeleine Lynch      def.      Jade Houston         75 63
      32Q      Erika Dodridge       def.      Juliana Craft        63 75
      32Q      Liz Truluck          def.      Maria Jardim         63 61
      32Q      Raegan Mitchell      def.      Elin Hellberg        61 62
