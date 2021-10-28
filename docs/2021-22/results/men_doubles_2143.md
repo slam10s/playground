@@ -407,21 +407,21 @@
 
 <a name="21-75985"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
   64th Annual Southern California Intercollegiate Championships
   Dates: Oct 28-31, 2021
   Host: ITA
-═════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Qualifying Draw
   > Main
-     16     Large/Daoust     vs      Williams/Castillo    Thu @ 10:00
-     16 (3) Hibi/Yoshida     vs      Hess/Sanseverino     Thu @ 11:00
-     16     Kodiji/Tayebi    vs      Parsley/Smith        Thu @ 10:00
-     16     Caddies/Thorold  vs      Caldwell/Marsh       Thu @ 10:00
-     16     Cohen/Wilkins    vs  (4) De Samucewicz/Rudni… Thu @ 10:00
-     16     Blinder/Marks    vs      Van Zeggelaar/Ander… Thu @ 10:00
-     16     Simon/Smiej      vs  (2) Sillman/Zisette      Thu @ 10:00
+     16     Williams/Castillo    def.  Large/Daoust     82
+     16 (3) Hibi/Yoshida         def.  Hess/Sanseverino 84
+     16     Parsley/Smith        def.  Kodiji/Tayebi    87(4)
+     16     Caddies/Thorold      def.  Caldwell/Marsh   83
+     16 (4) De Samucewicz/Rudni… def.  Cohen/Wilkins    84
+     16     Van Zeggelaar/Ander… def.  Blinder/Marks    84
+     16 (2) Sillman/Zisette      def.  Simon/Smiej      87(3)
 ~~~
 
 Return to the [Top](./men_doubles_2143.md) &#124; [Home Page](../../index.md)
