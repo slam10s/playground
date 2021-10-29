@@ -9,16 +9,18 @@
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
 - 10/28/2021 - [64th Annual Southern California Intercollegiate Championships](#21-75985) ([Results](#21-75985) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">Draws</a>)  
+- 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
 
-**Upcoming Tournaments**  
+**Tournaments without Matches**  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Crimson Halloween Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Gamecock Scramble</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Gonzaga Invitational</a>  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Seahawk Team Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Virginia Tech Halloween Clash</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Saint Leo Hidden Duals - Men</a>  
+
+**Upcoming Tournaments**  
+- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
 
 <a name="21-69139"></a>
 ~~~
@@ -415,14 +417,18 @@
  Men's Open Doubles
  > Main Draw
   > Main
-     16 (1) Allen/Steinhausen     vs      Hibi/Yoshida         Fri @ 10:00
-     16     Caddies/Thorold       vs      De Samucewicz/Rudni… Fri @ 10:00
-     16 (3) Jordan/Vedri-Castel…  vs      Nuno/Bohren          Fri @ 10:00
-     16     Van Zeggelaar/Ander…  vs      Sillman/Zisette      Fri @ 10:00
-     16     Parsley/Smith         vs      Williams/Castillo    Fri @ 10:00
-     16     Simon/Smiej           vs  (4) Chakravarthi/Krall   Fri @ 10:00
-     16     Neos/Pankin           vs      Jackson/Barretto     Fri @ 11:00
-     16     Mariano/Novak         vs  (2) Davies/Norfeldt      Fri @ 11:00
+     QF (1) Allen/Steinhausen     vs      Caddies/Thorold      Sat @ 10:00
+     QF     Nuno/Bohren           vs      Van Zeggelaar/Ander… Sat @ 10:00
+     QF     Parsley/Smith         vs      Simon/Smiej          Sat @ 10:00
+     QF     Neos/Pankin           vs  (2) Davies/Norfeldt      Sat @ 10:00
+     16 (1) Allen/Steinhausen    def.     Hibi/Yoshida         85
+     16     Caddies/Thorold      def.     De Samucewicz/Rudni… 87(4)
+     16     Nuno/Bohren          def. (3) Jordan/Vedri-Castel… 86
+     16     Van Zeggelaar/Ander… def.     Sillman/Zisette      84
+     16     Parsley/Smith        def.     Williams/Castillo    86
+     16     Simon/Smiej          def. (4) Chakravarthi/Krall   83
+     16     Neos/Pankin          def.     Jackson/Barretto     86
+     16 (2) Davies/Norfeldt      def.     Mariano/Novak        84
  > Qualifying Draw
   > Main
      16     Williams/Castillo    def.     Large/Daoust         82
@@ -432,6 +438,31 @@
      16 (4) De Samucewicz/Rudni… def.     Cohen/Wilkins        84
      16     Van Zeggelaar/Ander… def.     Blinder/Marks        84
      16 (2) Sillman/Zisette      def.     Simon/Smiej          87(3)
+~~~
+
+<a name="21-84042"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  Gonzaga Invitational
+  Dates: Oct 29-31, 2021
+  Host: Gonzaga University (M)
+══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Blue
+  > East
+     QF  Gomez Galvan/Hann  vs   Stoeger/Martin      Fri @ 15:00
+     QF  Monteiro/Sitar     vs   Casino/Bascon       Fri @ 16:00
+ > White
+  > East
+     QF  Mueller/Sarlvik    vs   Salvador/Masala     Fri @ 15:00
+     QF  Andersson/Roider   vs   Zelver/Huppin       Fri @ 16:00
+     QF  Espinoza/Hsu       vs   Thielgaard/Hallgren Fri @ 16:00
+ > Red
+  > East
+     QF  Sciglitano/Benn    vs   Plutat/Fernandez    Fri @ 15:00
+     QF  Dillon/Thomas      vs   Asenov/Ramesh       Fri @ 15:00
+     QF  Jesser/De Vries    vs   Baldwin/Watkins     Fri @ 16:00
+     QF  Paz/Grimes         vs   Taylor/Duron        Fri @ 16:00
 ~~~
 
 Return to the [Top](./men_doubles_2143.md) &#124; [Home Page](../../index.md)

@@ -9,16 +9,18 @@
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
 - 10/28/2021 - [64th Annual Southern California Intercollegiate Championships](#21-75985) ([Results](#21-75985) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">Draws</a>)  
+- 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
 
-**Upcoming Tournaments**  
+**Tournaments without Matches**  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Crimson Halloween Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Gamecock Scramble</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Gonzaga Invitational</a>  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Seahawk Team Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Virginia Tech Halloween Clash</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Saint Leo Hidden Duals - Men</a>  
+
+**Upcoming Tournaments**  
+- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
 
 <a name="21-69139"></a>
 ~~~
@@ -1030,37 +1032,96 @@
 
 <a name="21-75985"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   64th Annual Southern California Intercollegiate Championships
   Dates: Oct 28-31, 2021
   Host: ITA
-════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
+ > Main Draw
+  > Main
+     16 (5) Phillip Jordan        vs      Stanislas De Samuce… Fri @ 16:00
+     32 (1) Sema Pankin           vs      Tomas Gomez Gomez    Fri @ 14:00
+     32     Blaine Hovenier       vs      Leyton Bohren        Fri @ 13:30
+     32 (5) Phillip Jordan       def.     Barnaby Thorold      62 63
+     32     Stanislas De Samuce… def.     Huntley Allen        64 62
+     32 (4) Liam Krall            vs      Paul Barretto        Fri @ 14:30
+     32     Jeffrey Fradkin       vs      Eleftherios Neos     Fri @ 13:30
+     32 (7) Julian Steinhausen    vs      Argote Mariano       Fri @ 14:30
+     32     Adam Large            vs      David Norfeldt       Fri @ 14:30
+     32     Josh Williams         vs      Sebastian Herrera    Fri @ 13:00
+     32     Will Davies           vs  (8) Caleb Chakravarthi   Fri @ 14:30
+     32     Loic Van Zeggelaar    vs      Yassine Smiej        Fri @ 11:30
+     32     Issa Yoshida          vs  (3) Eric Hahn            Fri @ 11:30
+     32     Leo Hibi              vs      John Zisette         Fri @ 12:00
+     32     Younes Kodiji         vs  (6) Stefan Leustian      Fri @ 12:00
+     32     Grzegorz Rudnicki     vs      Caleb Wilkins        Fri @ 13:00
+     32     Alejandro Vedri-Cas…  vs  (2) Ryder Jackson        Fri @ 14:00
  > Qualifying Draw
   > Main
-     32     Blaine Hovenier    def.  Kameron DeHart       62 60
-     32     Argote Mariano     def.  Mason Marks          62 60
-     32     Younes Kodiji      def.  Diego Castillo       76(3) 61
-     32     Jeffrey Fradkin    def.  Kyle Sillman         63 62
-     32 (3) Sebastian Herrera  def.  Jiri Novak           36 75 Def.
-     32     Josh Williams      def.  Dylan Parsley        60 60
-     32     Tomas Gomez Gomez  def.  Sofian Tayebi        63 64
-     32     John Zisette       def.  Adrian Daoust        60 62
-     32     Caleb Wilkins      def.  Carlos Solorzano     36 61 [8]
-     32     Leo Hibi           def.  Jan Simon            61 75
-     32     Loic Van Zeggelaar def.  Ethan Smith          64 64
-     32 (4) Adam Large         def.  Ryan Nuno            36 63 [8]
-     32     Leyton Bohren      def.  Mac Caldwell         62 62
-     32     Huntley Allen      def.  Wyatt Anderson       63 62
-     32     Grzegorz Rudnicki  def.  Julien Sanseverino   64 67(4) [11]
-     32     Barnaby Thorold    def.  Andy Hess            76(5) 76(1)
-     64     Argote Mariano     def.  Antonio Rosales Var… 62 44 Ret.
-     64     Jeffrey Fradkin    def.  Harrison Cohen       61 61
-     64     Jiri Novak         def.  Tommy Hays           62 62
-     64     Josh Williams      def.  James Caddies        76(6) 63
-     64     Adrian Daoust      def.  Henry Habib          61 61
-     64     Jan Simon          def.  Danny Marsh          60 75
-     64     Ryan Nuno          def.  Josh Blinder         60 61
+     32     Blaine Hovenier      def.     Kameron DeHart       62 60
+     32     Argote Mariano       def.     Mason Marks          62 60
+     32     Younes Kodiji        def.     Diego Castillo       76(3) 61
+     32     Jeffrey Fradkin      def.     Kyle Sillman         63 62
+     32 (3) Sebastian Herrera    def.     Jiri Novak           36 75 Def.
+     32     Josh Williams        def.     Dylan Parsley        60 60
+     32     Tomas Gomez Gomez    def.     Sofian Tayebi        63 64
+     32     John Zisette         def.     Adrian Daoust        60 62
+     32     Caleb Wilkins        def.     Carlos Solorzano     36 61 [8]
+     32     Leo Hibi             def.     Jan Simon            61 75
+     32     Loic Van Zeggelaar   def.     Ethan Smith          64 64
+     32 (4) Adam Large           def.     Ryan Nuno            36 63 [8]
+     32     Leyton Bohren        def.     Mac Caldwell         62 62
+     32     Huntley Allen        def.     Wyatt Anderson       63 62
+     32     Grzegorz Rudnicki    def.     Julien Sanseverino   64 67(4) [11]
+     32     Barnaby Thorold      def.     Andy Hess            76(5) 76(1)
+     64     Argote Mariano       def.     Antonio Rosales Var… 62 44 Ret.
+     64     Jeffrey Fradkin      def.     Harrison Cohen       61 61
+     64     Jiri Novak           def.     Tommy Hays           62 62
+     64     Josh Williams        def.     James Caddies        76(6) 63
+     64     Adrian Daoust        def.     Henry Habib          61 61
+     64     Jan Simon            def.     Danny Marsh          60 75
+     64     Ryan Nuno            def.     Josh Blinder         60 61
+~~~
+
+<a name="21-84042"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  Gonzaga Invitational
+  Dates: Oct 29-31, 2021
+  Host: Gonzaga University (M)
+═════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Blue
+  > East
+     16  Julien Penzlin      def.  Jan Lucca Marquardt  64 62
+     16  Lawrence Sciglitano  vs   Oliver Andersson     Fri @ 12:30
+     16  Gustav Thielgaard   def.  Manuel Balce         46 61 61
+     16  Bruno Casino         vs   Arthus de la Basset… Fri @ 13:00
+     16  Kyryll Kryvchun     def.  Nikolas Tvedt        75 64
+     16  Nejc Sitar           vs   Tom Hann             Fri @ 11:00
+     16  Francisco Bascon    def.  Joaquin Espinoza     60 62
+     16  Sam De Vries         vs   Matthew Hollingworth Fri @ 12:30
+ > White
+  > East
+     16  Leon Roider          vs   Guillermo Martin     Fri @ 12:30
+     16  Mario Duron         def.  Caden Moortgat       67(6) 63 62
+     16  Oscar Brown         def.  Jeremy Mueller       62 36 63
+     16  Matteo Masala       def.  Manuel Monteiro      62 64
+     16  Ryo Minakata        def.  Milo Benn            62 62
+     16  Tommy Hsu           def.  Steven Paz           75 64
+     16  Moritz Stoeger      def.  Erik Sarlvik         61 63
+     16  Nils Plutat          vs   Pablo Gomez Galvan   Fri @ 12:30
+ > Red
+  > East
+     16  Jesse Haas          def.  Andrew Vu            62 61
+     16  Marcos Zelver       def.  Erik Grimes          60 62
+     16  Jacob Huppin        def.  Sam Baldwin          Walkover
+     16  Alejandro Salvador  def.  Brady Thomas         63 62
+     16  Will Jesser          vs   Josh Watkins         Fri @ 11:00
+     16  Vivek Ramesh        def.  Bruno Ortega         61 63
+     16  Oliver Fernandez    def.  Alex Asenov          64 62
+     16  Drew Dillon          vs   Pontus Hallgren      Fri @ 12:30
 ~~~
 
 Return to the [Top](./men_singles_2143.md) &#124; [Home Page](../../index.md)

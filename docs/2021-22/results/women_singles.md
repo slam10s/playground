@@ -15,20 +15,21 @@
 - 10/29/2021 - [Shark Bite Invite](#21-28680) ([Results](#21-28680) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Rice Invite</a>  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Tennessee Fall Invitational</a>  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/38F0263E-9612-4653-A277-431DF0FCCC45" target="_blank">Tennessee Fall Invitational</a>  
-
-**Upcoming Tournaments**  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Brown Quad</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">College of Charleston Halloween Tournament</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">FIU Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Gamecock Shootout</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
+- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Rice Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Roberta Alison Fall Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
+- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Tennessee Fall Invitational</a>  
+- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
+- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/38F0263E-9612-4653-A277-431DF0FCCC45" target="_blank">Tennessee Fall Invitational</a>  
+
+**Upcoming Tournaments**  
+- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Royal Rumble 2</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Slug Invite - hosted by West Valley College</a>  
 
@@ -1596,35 +1597,37 @@
 
 <a name="21-28680"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Shark Bite Invite
   Dates: Oct 29-31, 2021
   Host: Nova Southeastern Univ. (W)
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Flight A
   > East
-     QF (1) Nicole Coopersmith  vs      Maria Khomchenko     Fri @ 10:45
-     QF     Chantal Nosievici   vs      Giorgia Pigato       Fri @ 10:45
-     QF     Ekaterina Grib      vs      Jacqueline Wagner    Fri @ 10:45
-     QF     Maeva Roquebert     vs  (2) Nika Kozar           Fri @ 10:45
+     SF (1) Nicole Coopersmith    vs      Chantal Nosievici    Sat @ 09:45
+     SF     Ekaterina Grib        vs      Maeva Roquebert      Sat @ 09:45
+     QF (1) Nicole Coopersmith   def.     Maria Khomchenko     62 61
+     QF     Chantal Nosievici    def.     Giorgia Pigato       63 36 [7]
+     QF     Ekaterina Grib       def.     Jacqueline Wagner    Walkover
+     QF     Maeva Roquebert      def. (2) Nika Kozar           60 16 [8]
  > Flight B
   > East
-     QF (1) Barbora Cibakova    vs      Irina Lapustina      Fri @ 10:45
-     QF     Savannah Williams   vs      Vanja Vidanovic      Fri @ 22:45
-     QF     Eva Goncharov       vs      Anine Wilberg        Fri @ 12:30
-     QF     Florencia Araya     vs  (2) Diane Follin-Arbelet Fri @ 12:30
+     QF (1) Barbora Cibakova     def.     Irina Lapustina      Walkover
+     QF     Vanja Vidanovic      def.     Savannah Williams    62 61
+     QF     Eva Goncharov        def.     Anine Wilberg        64 46 [6]
+     QF (2) Diane Follin-Arbelet def.     Florencia Araya      61 62
  > Flight C
   > East
-     QF (1) Karolina Snita      vs      Tatiana Harrelson    Fri @ 12:30
-     QF     Nicoline Palmgren   vs      Kanon Sorakudo       Fri @ 12:30
-     QF     Karyna Bihel        vs      Corbin Dorsey        Fri @ 12:30
-     QF     Madalena Peneda     vs  (2) Anna Baranovski      Fri @ 12:30
+     QF (1) Karolina Snita       def.     Tatiana Harrelson    61 64
+     QF     Corbin Dorsey        def.     Karyna Bihel         Walkover
+     QF     Kanon Sorakudo       def.     Nicoline Palmgren    62 36 [8]
+     QF (2) Anna Baranovski      def.     Madalena Peneda      62 63
  > Flight D
   > East
-     QF     Caitlyn Khan        vs      Eleonora Guglielmet… Fri @ 14:00
-     QF     Mahika Rana         vs      Giulia Tatini        Fri @ 14:00
-     QF     Dakota Busch        vs  (2) Anique Engelbrecht   Fri @ 14:00
+     QF     Caitlyn Khan         def.     Eleonora Guglielmet… Walkover
+     QF     Mahika Rana          def.     Giulia Tatini        60 64
+     QF     Dakota Busch         def. (2) Anique Engelbrecht   63 60
 ~~~
 
 Return to the [Top](./women_singles_2143.md) &#124; [Home Page](../../index.md)

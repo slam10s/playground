@@ -3,6 +3,7 @@
 **Upcoming Tournaments**  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityM/Tournaments/Overview/E0ED1E84-1CD4-4CE2-BFCD-F695030458D5" target="_blank">Big 12 Individuals</a>  
 - 11/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/DD67ADCD-C4E7-4314-A846-4FCDAD89FABC" target="_blank">Big Ten Indoors</a>  
+- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaTechM/Tournaments/Overview/E04A8772-9C21-4B5A-B6E0-55C939AC5A86" target="_blank">GT Invitational</a>  
 - 11/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3C0D3BF7-1EA0-4314-9798-02FE691DD86E" target="_blank">ITA National Fall Championships</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/EBFDB9EE-65DF-40EA-8395-B821B7EA07B0" target="_blank">Jack Kramer Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfThePacificM/Tournaments/Overview/32DAC0A6-A705-4382-880F-230A39E21F42" target="_blank">Pacific Invitational</a>  
