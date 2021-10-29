@@ -392,7 +392,7 @@
      16 (8) Annie Carrera        def.     Francina Puig Llomp… 63 62
      16 (5) Lara Isis Teodoro D… def.     Madalena Peneda      61 62
      16 (4) Yue Yu               def.     Kely Oliveira        60 60
-     16 (3) Priya Sukkanha       def.     Kanon Sorakubo       76(3) 61
+     16 (3) Priya Sukkanha       def.     Kanon Sorakudo       76(3) 61
      16     Martina Picardi      def.     Marianela Landi      62 60
      16     Vanja Vidanovic      def. (7) Beatrice Letizia     62 63
      16 (2) Alessia Piccoliori   def.     Andrea Rodriguez Or… 64 76(3)
@@ -405,7 +405,7 @@
      32     Kely Oliveira        def.     Eleonora Guglielmet… 67(4) 64 [7]
      32 (4) Yue Yu               def.     Maria Camila Puente  62 62
      32 (3) Priya Sukkanha       def.     Maria Carme Ibanez … 61 61
-     32     Kanon Sorakubo       def.     Irene Lopez Suero    60 76(6)
+     32     Kanon Sorakudo       def.     Irene Lopez Suero    60 76(6)
      32     Marianela Landi      def.     Miriam Medina        62 60
      32     Martina Picardi      def. (6) Florencia Araya      75 64
      32 (7) Beatrice Letizia     def.     Amarlia Benn         60 60
@@ -428,7 +428,7 @@
      64     Maria Camila Puente  def.     Priscila Baptista    63 61
      64     Maria Carme Ibanez … def.     Azul Malatini        61 60
      64     Irene Lopez Suero    def.     Vitoria Barandas     60 57 [4]
-     64     Kanon Sorakubo       def.     Lilly Bobrowski      61 61
+     64     Kanon Sorakudo       def.     Lilly Bobrowski      61 61
      64     Miriam Medina        def.     Danieris Santiago    46 75 [5]
      64     Marianela Landi      def.     Valentine Colin      Walkover
      64     Martina Picardi      def.     Maruschka Berghaus   62 62

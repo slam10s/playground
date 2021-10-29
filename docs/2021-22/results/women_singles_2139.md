@@ -1547,7 +1547,7 @@
      QF (2) Alicia Dudeney       def.     Marie Mattel         61 61
      16 (1) Emma Shelton         def.     Ida Ferding          62 61
      16     Kamila Umarova       def.     Nadja Bay Christians 60 63
-     16     Bente Spee           def. (3) Andreeea Velcea      75 60
+     16     Bente Spee           def. (3) Andreea Velcea       75 60
      16     Jaleesa Leslie       def.     Greta Schieroni      64 62
      16     Yasmine Kabbaj       def.     Martina Kudelova     64 76(2)
      16 (4) Nandini Sharma       def.     Amelie Boy           62 64
@@ -1578,11 +1578,11 @@
      16     Sydney Berlin        def.     Emma Bardet          76(6) 63
      16     Andjela Skrobonja    def.     Noa Cohen            63 61
   > North
-      F (3) Andreeea Velcea      def.     Martina Kudelova     36 76(5) [5]
-     SF (3) Andreeea Velcea      def.     Nadja Bay Christians Walkover
+      F (3) Andreea Velcea       def.     Martina Kudelova     36 76(5) [5]
+     SF (3) Andreea Velcea       def.     Nadja Bay Christians Walkover
      SF     Martina Kudelova     def.     Annabelle Davis      75 62
      QF     Nadja Bay Christians def.     Ida Ferding          Walkover
-     QF (3) Andreeea Velcea      def.     Greta Schieroni      62 61
+     QF (3) Andreea Velcea       def.     Greta Schieroni      62 61
      QF     Martina Kudelova     def.     Amelie Boy           63 63
      QF     Annabelle Davis      def.     Alexandria Mjos      61 61
   > Northeast
@@ -1625,24 +1625,24 @@
      32     Tess Menten          def.     Audelia Morin-Kougo… 75 63
      32     Basak Akbas          def.     Daliyah Hammoud      61 61
      32     Jordana Ossa         def.     Claudia Sumaia       60 62
-     32     Isabel Oliveira      def.     Lucia Garriguez      46 61 [3]
+     32     Isabel Oliveira      def.     Lucia Garrigues Mel… 46 61 [3]
      32     Laetitia Rizk        def.     Carina Sommer        63 63
      32     Amber MGinnis        def.     Lola Glantz          63 63
      32     Sierra Berry         def.     Sierra Sandy         61 76(1)
      32     Susan Salinas        def.     Laia Pasini          61 16 [5]
      32     Millie-Mae Matthews  def.     Kendall Nash         26 64 [9]
   > West
-      F     Audelia Morin-Kougo… def.     Lucia Garriguez      63 60
+      F     Audelia Morin-Kougo… def.     Lucia Garrigues Mel… 63 60
      SF     Audelia Morin-Kougo… def.     Anique Kattenberg    64 16 [8]
-     SF     Lucia Garriguez      def.     Kendall Nash         60 64
+     SF     Lucia Garrigues Mel… def.     Kendall Nash         60 64
      QF     Anique Kattenberg    def.     Adrienne Clayton     61 60
      QF     Audelia Morin-Kougo… def.     Daliyah Hammoud      63 60
-     QF     Lucia Garriguez      def.     Lola Glantz          62 63
+     QF     Lucia Garrigues Mel… def.     Lola Glantz          62 63
      QF     Kendall Nash         def.     Laia Pasini          63 60
      16     Anique Kattenberg    def.     Anna Dovgopolyi      64 61
      16     Audelia Morin-Kougo… def.     Selene Kentish       61 62
      16     Daliyah Hammoud      def.     Claudia Sumaia       26 61 [3]
-     16     Lucia Garriguez      def.     Carina Sommer        46 64 [6]
+     16     Lucia Garrigues Mel… def.     Carina Sommer        46 64 [6]
      16     Laia Pasini          def.     Sierra Sandy         76(1) 61
   > North
      SF     Jordana Ossa         def. (1) Anslee Long          62 26 [8]

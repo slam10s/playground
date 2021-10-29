@@ -773,14 +773,14 @@
      16  Justin Barki         def.  Finn Macnamara       63 64
      16  Santiago Galan       def.  Filippos Astreinidis 64 63
      16  Simon Wibler         def.  Bill Duo             06 63 76(8)
-     16  Alan Kam             def.  Rex Tang             64 62
+     16  Alan Kam             def.  Cheng Tang           64 62
      16  Jason Hildebrandt    def.  Theo Dean            63 64
      16  Shervin Dehmoubed    def.  Zach Smith           36 75 76(10)
  > Day 2
   > Main
      16  Bill Duo             def.  Robby Shymansky      46 63 [5]
      16  Zachery Lim          def.  Simon Wibler         64 64
-     16  Rex Tang             def.  Tal Goodman          63 16 76(3)
+     16  Cheng Tang           def.  Tal Goodman          63 16 76(3)
      16  Jason Hildebrandt    def.  Finn Macnamara       63 62
      16  Zach Smith           def.  Santiago Galan       46 62 64
      16  Justin Barki         def.  Theo Dean            62 62
@@ -793,7 +793,7 @@
      16  Jason Hildebrandt    def.  Justin Barki         46 63 [7]
      16  Zach Smith           def.  Filippos Astreinidis 26 61 60
      16  Simon Wibler         def.  Robby Shymansky      62 26 62
-     16  Rex Tang             def.  Renaud Lefevre       76(3) 36 [8]
+     16  Cheng Tang           def.  Renaud Lefevre       76(3) 36 [8]
  > Extra Match 1
   > Main
       F  Bill Duo             def.  Renaud Lefevre       63 62

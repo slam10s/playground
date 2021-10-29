@@ -9,9 +9,12 @@
 - 10/22/2021 - [ITA Division I Women's Northwest Regional Championship](#21-52217) ([Results](#21-52217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StanfordUniversityW/Tournaments/Overview/069089F9-1C02-43BD-82B5-B68774093F12" target="_blank">Draws</a>)  
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
+- 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
+- 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
+- 10/29/2021 - [Wofford Fall Invite](#21-77110) ([Results](#21-77110) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Draws</a>)  
+- 10/29/2021 - [Shark Bite Invite](#21-28680) ([Results](#21-28680) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Elon Fall Invitational</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Rice Invite</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Tennessee Fall Invitational</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
@@ -24,12 +27,9 @@
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Gamecock Shootout</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">NIU Huskie Indoor Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Roberta Alison Fall Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Wofford Fall Invite</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Royal Rumble 2</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Shark Bite Invite</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Slug Invite - hosted by West Valley College</a>  
 
 <a name="21-46458"></a>
@@ -53,7 +53,7 @@
      16  (9) Evgeniya Levashova  def.  (5) Carly Briggs        62 61
      16 (12) Petra Hule          def.  (8) Morgan Coppoc       62 64
      16      Marie Mattel        def. (14) Alicia Dudeney      76(5) 61
-     16 (16) Mell Reasco         def.      Andreeea Velcea     63 75
+     16 (16) Mell Reasco         def.      Andreea Velcea      63 75
      16      Catherine Gulihur   def.      Daevenia Achong     64 63
      16 (10) Emma Shelton        def.  (7) Ava Hrastar         63 63
      16 (15) Ania Hertel         def.  (2) Isabella Pfennig    46 61 62
@@ -65,7 +65,7 @@
      32 (12) Petra Hule          def.      Mahak Jain          26 63 75
      32      Marie Mattel        def.  (3) Lea Ma              64 16 63
      32 (14) Alicia Dudeney      def.      Gia Cohen           62 60
-     32      Andreeea Velcea     def.      Aylen Hubeaut       63 64
+     32      Andreea Velcea      def.      Aylen Hubeaut       63 64
      32 (16) Mell Reasco         def.      Bente Spee          75 63
      32      Catherine Gulihur   def.  (6) Marlee Zein         63 64
      32      Daevenia Achong     def. (11) Carol Lee           63 63
@@ -74,7 +74,7 @@
      32 (15) Ania Hertel         def.      Nandini Sharma      62 63
      32  (2) Isabella Pfennig    def.      Yasmine Kabbaj      63 75
      64  (1) Meg Kowalski        def.      Angel Carney        64 62
-     64      Grace Shumacher     def.      Ji Lee              63 61
+     64      Grace Shumacher     def.      Ji Youn Lee         63 61
      64      Eden Richardson     def.      Jaleesa Leslie      61 57 41 Ret.
      64 (13) Kylie Bilchev       def.      Millie-Mae Matthews 20 Ret.
      64  (5) Carly Briggs        def.      Monika Dedaj        63 63
@@ -90,7 +90,7 @@
      64      Gia Cohen           def.      Sierra Sandy        60 62
      64 (14) Alicia Dudeney      def.      Selene Kentish      60 61
      64      Aylen Hubeaut       def.  (4) Valeriya Zeleva     62 Ret.
-     64      Andreeea Velcea     def.      Alice Amendola      64 64
+     64      Andreea Velcea      def.      Alice Amendola      64 64
      64      Bente Spee          def.      Amber MGinnis       61 62
      64 (16) Mell Reasco         def.      Kate Sharabura      64 46 63
      64  (6) Marlee Zein         def.      Fanny Norin         61 64
@@ -122,7 +122,7 @@
      16      Fanny Norin         def.      Anais Gabriel       63 36 [6]
      16      Noa Cohen           def.      Alexia Alvarez      62 60
      16      Rosie Garcia Gross  def.      Martina Kudelova    60 Ret.
-     32      Angel Carney        def.      Ji Lee              62 62
+     32      Angel Carney        def.      Ji Youn Lee         62 62
      32      Katerina Filip      def.      Maya Tahan          62 46 [7]
      32      Monika Dedaj        def.      Dana Heimen         26 76(4) [6]
      32      Guillermina Grant   def.      Afrika Smith        61 60
@@ -142,7 +142,7 @@
   > Main
      16  (8) Alee Clayton        def.      Francesca Franci    76(4) 64
      16  (5) Kate Sharabura      def.      Nada Dimovska       63 61
-     16      Ji Lee              def.  (4) Greta Schieroni     53 Ret.
+     16      Ji Youn Lee         def.  (4) Greta Schieroni     53 Ret.
      16  (3) Gia Cohen           def.      Mai Nirundorn       62 46 [7]
      16      Noa Cohen           def.  (6) Katerina Filip      62 26 [10]
      16  (7) Rosie Garcia Gross  def.      Anique Kattenberg   62 61
@@ -150,7 +150,7 @@
      32      Millie-Mae Matthews def.      Susan Salinas       60 61
      32      Francesca Franci    def.      Haleigh Porter      61 64
      32      Nada Dimovska       def.      Cheri Darley        46 62 [4]
-     32      Ji Lee              def.      Luise Reisel        64 62
+     32      Ji Youn Lee         def.      Luise Reisel        64 62
      32      Mai Nirundorn       def.      Carina Sommer       61 63
      32      Noa Cohen           def.      Paula Hijos         61 60
      32      Anique Kattenberg   def.      Valentina Taddia    62 16 [10]
@@ -1453,6 +1453,178 @@
  > Extra Extra Matches 10/24
   > Main
        F      Khim Iglupas         def.      Madison Kim          64 61
+~~~
+
+<a name="21-68401"></a>
+~~~
+═════════════════════════════════════════════════════════════════
+  Elon Fall Invitational
+  Dates: Oct 28-30, 2021
+  Host: Elon University (W)
+═════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Gold
+  > East
+     QF  Mila Saric          vs   Semra Aksu        Fri @ 15:30
+     QF  Lizette Reding      vs   Alexandra Almborg Fri @ 15:30
+     QF  Elisa van Meeteren  vs   Erika Cheng       Fri @ 15:30
+     QF  Jade Houston        vs   Sibel Tanik       Fri @ 15:30
+ > Maroon
+  > East
+     QF  Julie Ball          vs   Dariya Radulova   Fri @ 15:30
+     QF  Raffaela Alhach     vs   Maretha Burger    Fri @ 15:30
+     QF  Hedda Gurholt       vs   Sabina Richtrova  Fri @ 15:30
+     QF  Kennedy Hill        vs   Victoria Saldh    Fri @ 15:30
+ > Powell
+  > East
+     QF  Willa Rogers        vs   Hannah Gaines     Fri @ 15:30
+     QF  Emma Fernald        vs   Alison ODea       Fri @ 15:30
+     QF  Ine Stange          vs   Maria Picazo      Fri @ 15:30
+     QF  Kirsten Husted      vs   Olivia Archer     Fri @ 15:30
+ > Acorn 1st Round Friday
+  > Main
+     16  Anaiah Jones        vs   Elsa Kirch        Fri @ 16:30
+     16  Kensie Cricchio     vs   Shauna Galvin     Fri @ 16:30
+     16  Isabelle Exsted     vs   Sarah Allen       Fri @ 17:00
+     16  Lisa Fukutoku       vs   Lafilissa Joao    Fri @ 17:00
+     16  Lily Hackbirth      vs   Alisia Manolescu  Fri @ 17:00
+ > Acorn 2nd Round Saturday
+  > Main
+     16  Shauna Galvin       vs   Anaiah Jones      Sat @ 11:00
+     16  Lafilissa Joao      vs   Lily Hackbirth    Sat @ 11:00
+     16  Alisia Manolescu    vs   Isabelle Exsted   Sat @ 11:30
+     16  Sarah Allen         vs   Lisa Fukutoku     Sat @ 11:30
+     16  Elsa Kirch          vs   Kensie Cricchio   Sat @ 11:30
+ > Acorn 3rd Round Saturday
+  > Main
+     16  Shauna Galvin       vs   Alisia Manolescu  Sat @ 13:30
+     16  Sarah Allen         vs   Lily Hackbirth    Sat @ 13:30
+     16  Lafilissa Joao      vs   Elsa Kirch        Sat @ 13:30
+     16  Isabelle Exsted     vs   Kensie Cricchio   Sat @ 13:30
+     16  Anaiah Jones        vs   Lisa Fukutoku     Sat @ 13:30
+~~~
+
+<a name="21-24286"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  NIU Huskie Indoor Invitational
+  Dates: Oct 29-31, 2021
+  Host: Northern Illinois Univ. (W)
+══════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight 1
+  > East
+     QF  Jana Lazarevic      vs   Vivian Glozman     Fri @ 12:30
+     QF  Erika Dimitriev     vs   Kristina Pukhaeva  Fri @ 12:30
+     QF  Anastasiya Salenko  vs   Sydney Fitch       Fri @ 13:15
+     QF  Habiba Aly          vs   Diana Lukyanova    Fri @ 14:00
+ > Flight 2
+  > East
+     QF  Anastasia Rakita    vs   Hailey Stelse      Fri @ 14:00
+     QF  Sonia Skobkareva    vs   Casey Smith        Fri @ 14:45
+     QF  Alexandra Kuo       vs   Katarina Dukic     Fri @ 15:30
+     QF  Reagan Welch        vs   Natalie Kmoskova   Fri @ 15:30
+ > Flight 3
+  > East
+     QF  Iuliia Dmitrieva    vs   Anna Marija Bukina Fri @ 16:15
+     QF  Sage Hills          vs   Alexis Odom        Fri @ 17:00
+     QF  Beata Havlickova    vs   Karina Chao        Fri @ 17:00
+     QF  Susana Andres       vs   Christy Robinson   Fri @ 17:45
+ > Flight 4
+  > East
+     QF  Danina Hughes       vs   Andrea Le          Fri @ 18:30
+     QF  Angelica Ross       vs   Grace Sueflohn     Fri @ 18:30
+     QF  Isabella Flodin     vs   Sarah Markun       Fri @ 19:15
+     QF  Gabriella Kaminski  vs   Julia Huette       Fri @ 20:00
+~~~
+
+<a name="21-77110"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════════
+  Wofford Fall Invite
+  Dates: Oct 29-31, 2021
+  Host: Wofford College (W)
+═══════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Gold
+  > East
+     QF  Lily Woods            vs   Hunter Roper       Fri @ 12:00
+     QF  Salma Loudili         vs   Lize Alet Morkel   Fri @ 12:00
+     QF  Katherine Muzik       vs   Teodora Ristic     Fri @ 12:00
+     QF  Eliza McPherron       vs   Sara Snyder        Fri @ 12:00
+ > Terrier
+  > East
+     QF  Ellie Schoppe         vs   Christina Watson   Fri @ 12:00
+     QF  Jess Leeman           vs   Ami Grace Dougah   Fri @ 12:30
+     QF  Lilie Steryous        vs   Emma Cartledge     Fri @ 12:00
+     QF  Thea Rice             vs   Ji Youn Lee        Fri @ 12:30
+ > Black
+  > East
+     QF  Claudia Sanchez Que…  vs   Manon Delsol       Fri @ 12:30
+     QF  Soomin Kim            vs   Linge Steenkamp    Fri @ 12:30
+     QF  Alexa Goetz           vs   Elizabeth Massie   Fri @ 12:30
+     QF  Melissa Ifidzhen      vs   Ellie Schulson     Fri @ 13:45
+ > Conquer
+  > East
+     QF  Ilayda Baykan         vs   Elin Hellberg      Fri @ 13:45
+     QF  Jessica Fatemi        vs   Malin Falk         Fri @ 13:45
+     QF  Lucianna Piedra       vs   Brianna Wilbur     Fri @ 13:45
+     QF  Rosie Dickson         vs   Nejla Zukic        Fri @ 13:45
+ > White
+  > East
+     QF  Emily Brandow         vs   Emily Surcey       Fri @ 13:45
+     QF  Sofia Pinedo          vs   Georgia Fischer    Fri @ 14:15
+     QF  Mina Toglukdemir      vs   Alexa Wilson       Fri @ 14:15
+ > Prevail
+  > East
+     QF  Courtney Fyvie        vs   Beth Lacey         Fri @ 14:15
+     QF  Amulika Gottiparthy   vs   Sofiia Vdovychenko Fri @ 14:15
+     QF  Emma Sorensen         vs   Stephanie Shulman  Fri @ 2021-10-29T15:30
+ > Gray
+  > East
+     QF  Breda Brennan         vs   Kendall Byers      Fri @ 2021-10-29T15:30
+     QF  Madison Dennett       vs   Melody Cantrell    Fri @ 2021-10-29T15:30
+     QF  Rebecca Brody         vs   Elise Semmartin    Fri @ 15:30
+     QF  Lauren Yoon           vs   Emely Kahrs        Fri @ 2021-10-29T16:00
+ > Wofford
+  > East
+     QF  Katie Watts           vs   Yasmine Humbert    Fri @ 2021-10-29T16:00
+     QF  Sam Falcon            vs   Ari Siegel         Fri @ 2021-10-29T16:00
+     QF  Arya Dudipala         vs   Camryn McClure     Fri @ 16:00
+     QF  Ansley Hardeman       vs   Valentina De Sousa Fri @ 15:30
+~~~
+
+<a name="21-28680"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Shark Bite Invite
+  Dates: Oct 29-31, 2021
+  Host: Nova Southeastern Univ. (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight A
+  > East
+     QF (1) Nicole Coopersmith  vs      Maria Khomchenko     Fri @ 10:45
+     QF     Chantal Nosievici   vs      Giorgia Pigato       Fri @ 10:45
+     QF     Ekaterina Grib      vs      Jacqueline Wagner    Fri @ 10:45
+     QF     Maeva Roquebert     vs  (2) Nika Kozar           Fri @ 10:45
+ > Flight B
+  > East
+     QF (1) Barbora Cibakova    vs      Irina Lapustina      Fri @ 10:45
+     QF     Savannah Williams   vs      Vanja Vidanovic      Fri @ 22:45
+     QF     Eva Goncharov       vs      Anine Wilberg        Fri @ 12:30
+     QF     Florencia Araya     vs  (2) Diane Follin-Arbelet Fri @ 12:30
+ > Flight C
+  > East
+     QF (1) Karolina Snita      vs      Tatiana Harrelson    Fri @ 12:30
+     QF     Nicoline Palmgren   vs      Kanon Sorakudo       Fri @ 12:30
+     QF     Karyna Bihel        vs      Corbin Dorsey        Fri @ 12:30
+     QF     Madalena Peneda     vs  (2) Anna Baranovski      Fri @ 12:30
+ > Flight D
+  > East
+     QF     Caitlyn Khan        vs      Eleonora Guglielmet… Fri @ 14:00
+     QF     Mahika Rana         vs      Giulia Tatini        Fri @ 14:00
+     QF     Dakota Busch        vs  (2) Anique Engelbrecht   Fri @ 14:00
 ~~~
 
 Return to the [Top](./women_singles_2143.md) &#124; [Home Page](../../index.md)

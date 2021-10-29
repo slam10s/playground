@@ -1249,13 +1249,13 @@
      SF (1) Coopersmith/Vidanov… def. (4) Barandas/Teodoro De… 81
      SF (2) Piccoliori/Puig Llo… def. (3) Morrissey/Sukkanha   Walkover
      QF (1) Coopersmith/Vidanov… def.     Katzarkov/Yu         84
-     QF (4) Barandas/Teodoro De… def.     Engelbrecht/Sorakubo 97
+     QF (4) Barandas/Teodoro De… def.     Engelbrecht/Sorakudo 97
      QF (3) Morrissey/Sukkanha   def.     Baptista/Damon       84
      QF (2) Piccoliori/Puig Llo… def.     Araya/Peneda         84
      16 (1) Coopersmith/Vidanov… def.     Ibanez Navarro/Maeh… 82
      16     Katzarkov/Yu         def.     Netto Koop/Oliveira  82
      16 (4) Barandas/Teodoro De… def.     Matos/Santiago       84
-     16     Engelbrecht/Sorakubo def.     Letizia/Picardi      86
+     16     Engelbrecht/Sorakudo def.     Letizia/Picardi      86
      16     Baptista/Damon       def.     Botsford/Lewis       83
      16 (3) Morrissey/Sukkanha   def.     Berghaus/Pena        85
      16     Araya/Peneda         def.     Chang/Maier          82
@@ -1266,7 +1266,7 @@
      32 (4) Barandas/Teodoro De… def.     Lopez Suero/Neiberl… 85
      32     Matos/Santiago       def.     Harris/Schnatz       83
      32     Letizia/Picardi      def.     Cook/Piette          80
-     32     Engelbrecht/Sorakubo def.     Benn/Benn            86
+     32     Engelbrecht/Sorakudo def.     Benn/Benn            86
      32     Baptista/Damon       def.     Candiotto/Rodriguez… Walkover
      32     Botsford/Lewis       def.     Guglielmetti/Medina  85
      32     Berghaus/Pena        def.     Bobrowski/Hire       84

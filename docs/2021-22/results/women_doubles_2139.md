@@ -766,14 +766,14 @@
  > Flight B
   > East
       F (2) Miletic/Velcea       def.     Colmenares/Retortil… 85
-     SF     Colmenares/Retortil… def.     Akbas/Morin-Kougoch… 62
+     SF     Colmenares/Retortil… def.     Akbas/Morin-Kougouc… 62
      SF (2) Miletic/Velcea       def.     Norin/Ossa           62
      QF     Colmenares/Retortil… def. (1) Long/Lodzki          64
-     QF     Akbas/Morin-Kougoch… def.     Garriguez/Timmermans 63
+     QF     Akbas/Morin-Kougouc… def.     Garrigues Melendez/… 63
      QF     Norin/Ossa           def.     Nash/Oliveira        63
      QF (2) Miletic/Velcea       def.     Mjos/Yaylali         63
      16     Colmenares/Retortil… def.     Matthews/Sommer      64
-     16     Garriguez/Timmermans def.     Menten/Hammoud       62
+     16     Garrigues Melendez/… def.     Menten/Hammoud       62
      16     Norin/Ossa           def.     Kentish/Smith        61
      16     Nash/Oliveira        def.     Salinas/Sumaia       62
      16     Mjos/Yaylali         def.     Pasini/Rizk          61
@@ -782,7 +782,7 @@
      SF     Pasini/Rizk          def.     Kentish/Smith        63
      QF     Kentish/Smith        def.     Salinas/Sumaia       60
   > North
-     SF (1) Long/Lodzki          def.     Garriguez/Timmermans 62
+     SF (1) Long/Lodzki          def.     Garrigues Melendez/… 62
      SF     Nash/Oliveira        def.     Mjos/Yaylali         61
 ~~~
 

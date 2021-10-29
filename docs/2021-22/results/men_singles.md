@@ -1030,33 +1030,37 @@
 
 <a name="21-75985"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   64th Annual Southern California Intercollegiate Championships
   Dates: Oct 28-31, 2021
   Host: ITA
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Qualifying Draw
   > Main
-     32     Blaine Hovenier     vs   Kameron DeHart       Thu @ 14:30
-     32     Mason Marks         vs   Argote Mariano       Thu @ 14:30
-     32     Younes Kodiji       vs   Diego Castillo       Thu @ 13:30
-     32 (3) Sebastian Herrera   vs   Jiri Novak           Thu @ 14:30
-     32     Tomas Gomez Gomez   vs   Sofian Tayebi        Thu @ 13:30
-     32     John Zisette        vs   Adrian Daoust        Thu @ 15:00
-     32     Caleb Wilkins       vs   Carlos Solorzano     Thu @ 13:30
-     32     Loic Van Zeggelaar  vs   Ethan Smith          Thu @ 13:30
-     32     Leyton Bohren       vs   Mac Caldwell         Thu @ 13:30
-     32     Wyatt Anderson      vs   Huntley Allen        Thu @ 16:30
-     32     Grzegorz Rudnicki   vs   Julien Sanseverino   Thu @ 16:30
-     32     Barnaby Thorold     vs   Andy Hess            Thu @ 13:30
+     32     Blaine Hovenier    def.  Kameron DeHart       62 60
+     32     Argote Mariano     def.  Mason Marks          62 60
+     32     Younes Kodiji      def.  Diego Castillo       76(3) 61
+     32     Jeffrey Fradkin    def.  Kyle Sillman         63 62
+     32 (3) Sebastian Herrera  def.  Jiri Novak           36 75 Def.
+     32     Josh Williams      def.  Dylan Parsley        60 60
+     32     Tomas Gomez Gomez  def.  Sofian Tayebi        63 64
+     32     John Zisette       def.  Adrian Daoust        60 62
+     32     Caleb Wilkins      def.  Carlos Solorzano     36 61 [8]
+     32     Leo Hibi           def.  Jan Simon            61 75
+     32     Loic Van Zeggelaar def.  Ethan Smith          64 64
+     32 (4) Adam Large         def.  Ryan Nuno            36 63 [8]
+     32     Leyton Bohren      def.  Mac Caldwell         62 62
+     32     Huntley Allen      def.  Wyatt Anderson       63 62
+     32     Grzegorz Rudnicki  def.  Julien Sanseverino   64 67(4) [11]
+     32     Barnaby Thorold    def.  Andy Hess            76(5) 76(1)
      64     Argote Mariano     def.  Antonio Rosales Var… 62 44 Ret.
-     64     Jeffrey Fradkin     vs   Harrison Cohen       Thu @ 11:30
+     64     Jeffrey Fradkin    def.  Harrison Cohen       61 61
      64     Jiri Novak         def.  Tommy Hays           62 62
-     64     Josh Williams       vs   James Caddies        Thu @ 11:30
+     64     Josh Williams      def.  James Caddies        76(6) 63
      64     Adrian Daoust      def.  Henry Habib          61 61
-     64     Jan Simon           vs   Danny Marsh          Thu @ 12:00
-     64     Ryan Nuno           vs   Josh Blinder         Thu @ 12:00
+     64     Jan Simon          def.  Danny Marsh          60 75
+     64     Ryan Nuno          def.  Josh Blinder         60 61
 ~~~
 
 Return to the [Top](./men_singles_2143.md) &#124; [Home Page](../../index.md)

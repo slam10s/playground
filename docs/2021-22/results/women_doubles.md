@@ -9,9 +9,12 @@
 - 10/22/2021 - [ITA Division I Women's Northwest Regional Championship](#21-52217) ([Results](#21-52217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StanfordUniversityW/Tournaments/Overview/069089F9-1C02-43BD-82B5-B68774093F12" target="_blank">Draws</a>)  
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
+- 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
+- 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
+- 10/29/2021 - [Wofford Fall Invite](#21-77110) ([Results](#21-77110) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Draws</a>)  
+- 10/29/2021 - [Shark Bite Invite](#21-28680) ([Results](#21-28680) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Elon Fall Invitational</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Rice Invite</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Tennessee Fall Invitational</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
@@ -24,12 +27,9 @@
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Gamecock Shootout</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">NIU Huskie Indoor Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Roberta Alison Fall Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Wofford Fall Invite</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Royal Rumble 2</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Shark Bite Invite</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Slug Invite - hosted by West Valley College</a>  
 
 <a name="21-46458"></a>
@@ -632,6 +632,102 @@
      32     Gonzalez-Ballbe/Jan… def.     Pachl/Nguyen         63
      32     Daries/Taylor        def.     Von Tersch Pohrer/M… 62
      32     Heynemans/Romain     def.     Meraz/Iglupas        63
+~~~
+
+<a name="21-68401"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Elon Fall Invitational
+  Dates: Oct 28-30, 2021
+  Host: Elon University (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Maroon
+  > East
+     QF  van Meeteren/Stange  vs   Houston/Joao       Fri @ 13:00
+     QF  Rogers/Kirch         vs   Allen/Galvin       Fri @ 13:00
+     QF  Cricchio/Manolescu   vs   Exsted/Picazo      Fri @ 13:00
+     QF  Hackbirth/Husted     vs   Archer/ODea        Fri @ 13:00
+ > Gold
+  > East
+     QF  Ball/Saldh           vs   Radulova/Richtrova Fri @ 13:00
+     QF  Fernald/Saric        vs   Almborg/Burger     Fri @ 13:00
+     QF  Alhach/Gurholt       vs   Aksu/Cheng         Fri @ 13:00
+     QF  Hill/Gaines          vs   Reding/Tanik       Fri @ 13:00
+~~~
+
+<a name="21-24286"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  NIU Huskie Indoor Invitational
+  Dates: Oct 29-31, 2021
+  Host: Northern Illinois Univ. (W)
+══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight 1 Doubles
+  > East
+     QF  Smith/Salenko      vs   Stelse/Kuo          Fri @ 08:45
+     QF  Rakita/Dimitriev   vs   Kmoskova/Havlickova Fri @ 08:45
+     QF  Flodin/Fitch       vs   Lazarevic/Aly       Fri @ 08:45
+     QF  Pukhaeva/Dukic     vs   Lukyanova/Welch     Fri @ 09:30
+ > Flight 2 Doubles
+  > East
+     QF  Dukic/Andres       vs   Naves/Dmitrieva     Fri @ 09:30
+     QF  Odom/Le            vs   Ross/Trella         Fri @ 09:30
+     QF  Sueflohn/Hills     vs   Glozman/Chao        Fri @ 10:15
+     QF  Girbau/Skobkareva  vs   Kaminski/Robinson   Fri @ 10:15
+~~~
+
+<a name="21-77110"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  Wofford Fall Invite
+  Dates: Oct 29-31, 2021
+  Host: Wofford College (W)
+═════════════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Gold
+  > East
+     QF  Schoppe/Snyder        vs   Dickson/Dougah       Fri @ 2021-10-29T11:00
+     QF  Rice/Zukic            vs   Delsol/Ristic        Fri @ 2021-10-29T11:00
+     QF  Li/Goetz              vs   Muzik/Lee            Fri @ 2021-10-29T11:00
+     QF  Wilbur/Steryous       vs   Sanchez Quesada/Pie… Fri @ 2021-10-29T11:00
+ > Black
+  > East
+     QF  Jardim/Hellberg       vs   Watson/McPherron     Fri @ 2021-10-29T11:00
+     QF  Ifidzhen/Loudili      vs   Baykan/Schulson      Fri @ 2021-10-29T11:00
+     QF  Lacey/Leeman          vs   Kim/Pinedo           Fri @ 2021-10-29T11:00
+     QF  Toglukdemir/Cartled…  vs   Massie/Woods         Fri @ 2021-10-29T11:00
+ > White
+  > East
+     QF  Surcey/Roper          vs   Shulman/Fatemi       Fri @ 2021-10-29T11:00
+     QF  Steenkamp/Siegel      vs   Fischer/Sorensen     Fri @ 2021-10-29T11:00
+     QF  Brandow/Falk          vs   Roslund/Watts        Fri @ 11:45
+     QF  Cantrell/Gottiparthy  vs   Wilson/De Sousa      Fri @ 11:45
+ > Gray
+  > East
+     QF  Vdovychenko/Humbert   vs   Fyvie/Semmartin      Fri @ 11:45
+     QF  Yoon/Falcon           vs   Byers/Morkel         Fri @ 11:45
+~~~
+
+<a name="21-28680"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  Shark Bite Invite
+  Dates: Oct 29-31, 2021
+  Host: Nova Southeastern Univ. (W)
+═════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > East
+     QF  Wilberg/Khomchenko   vs   Goncharov/Snita      Fri @ 10:00
+     QF  Williams/Grib        vs   Wagner/Bihel         Fri @ 10:00
+     QF  Roquebert/Harrelson  vs   Kozar/Nosievici      Fri @ 10:00
+ > Flight B
+  > East
+     QF  Khan/Follin-Arbelet  vs   Busch/Dorsey         Fri @ 10:00
+     QF  Petrackova/Rana      vs   Araya/Peneda         Fri @ 10:00
+     QF  Palmgren/Tatini      vs   Sorakudo/Engelbrecht Fri @ 10:00
 ~~~
 
 Return to the [Top](./women_doubles_2143.md) &#124; [Home Page](../../index.md)

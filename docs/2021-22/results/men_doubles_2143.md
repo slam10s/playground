@@ -407,21 +407,31 @@
 
 <a name="21-75985"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   64th Annual Southern California Intercollegiate Championships
   Dates: Oct 28-31, 2021
   Host: ITA
-═══════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
+ > Main Draw
+  > Main
+     16 (1) Allen/Steinhausen     vs      Hibi/Yoshida         Fri @ 10:00
+     16     Caddies/Thorold       vs      De Samucewicz/Rudni… Fri @ 10:00
+     16 (3) Jordan/Vedri-Castel…  vs      Nuno/Bohren          Fri @ 10:00
+     16     Van Zeggelaar/Ander…  vs      Sillman/Zisette      Fri @ 10:00
+     16     Parsley/Smith         vs      Williams/Castillo    Fri @ 10:00
+     16     Simon/Smiej           vs  (4) Chakravarthi/Krall   Fri @ 10:00
+     16     Neos/Pankin           vs      Jackson/Barretto     Fri @ 11:00
+     16     Mariano/Novak         vs  (2) Davies/Norfeldt      Fri @ 11:00
  > Qualifying Draw
   > Main
-     16     Williams/Castillo    def.  Large/Daoust     82
-     16 (3) Hibi/Yoshida         def.  Hess/Sanseverino 84
-     16     Parsley/Smith        def.  Kodiji/Tayebi    87(4)
-     16     Caddies/Thorold      def.  Caldwell/Marsh   83
-     16 (4) De Samucewicz/Rudni… def.  Cohen/Wilkins    84
-     16     Van Zeggelaar/Ander… def.  Blinder/Marks    84
-     16 (2) Sillman/Zisette      def.  Simon/Smiej      87(3)
+     16     Williams/Castillo    def.     Large/Daoust         82
+     16 (3) Hibi/Yoshida         def.     Hess/Sanseverino     84
+     16     Parsley/Smith        def.     Kodiji/Tayebi        87(4)
+     16     Caddies/Thorold      def.     Caldwell/Marsh       83
+     16 (4) De Samucewicz/Rudni… def.     Cohen/Wilkins        84
+     16     Van Zeggelaar/Ander… def.     Blinder/Marks        84
+     16 (2) Sillman/Zisette      def.     Simon/Smiej          87(3)
 ~~~
 
 Return to the [Top](./men_doubles_2143.md) &#124; [Home Page](../../index.md)
