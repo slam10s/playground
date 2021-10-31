@@ -10,17 +10,15 @@
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
 - 10/28/2021 - [64th Annual Southern California Intercollegiate Championships](#21-75985) ([Results](#21-75985) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
+- 10/29/2021 - [Saint Leo Hidden Duals - Men](#21-17543) ([Results](#21-17543) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Crimson Halloween Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Gamecock Scramble</a>  
+- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Seahawk Team Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Virginia Tech Halloween Clash</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Saint Leo Hidden Duals - Men</a>  
-
-**Upcoming Tournaments**  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
 
 <a name="21-69139"></a>
 ~~~
@@ -59,11 +57,11 @@
 
 <a name="21-42333"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Carolina Regional Championship
   Dates: Oct 22-26, 2021
   Host: Duke University (M)
-══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main Draw
   > Main
@@ -417,10 +415,12 @@
  Men's Open Doubles
  > Main Draw
   > Main
-     QF (1) Allen/Steinhausen     vs      Caddies/Thorold      Sat @ 10:00
-     QF     Nuno/Bohren           vs      Van Zeggelaar/Ander… Sat @ 10:00
-     QF     Parsley/Smith         vs      Simon/Smiej          Sat @ 10:00
-     QF     Neos/Pankin           vs  (2) Davies/Norfeldt      Sat @ 10:00
+     SF (1) Allen/Steinhausen    def.     Nuno/Bohren          Walkover
+     SF     Simon/Smiej           vs      Neos/Pankin          Sun @ 10:00
+     QF (1) Allen/Steinhausen    def.     Caddies/Thorold      84
+     QF     Nuno/Bohren          def.     Van Zeggelaar/Ander… 85
+     QF     Simon/Smiej          def.     Parsley/Smith        86
+     QF     Neos/Pankin          def. (2) Davies/Norfeldt      86
      16 (1) Allen/Steinhausen    def.     Hibi/Yoshida         85
      16     Caddies/Thorold      def.     De Samucewicz/Rudni… 87(4)
      16     Nuno/Bohren          def. (3) Jordan/Vedri-Castel… 86
@@ -442,27 +442,86 @@
 
 <a name="21-84042"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
   Gonzaga Invitational
   Dates: Oct 29-31, 2021
   Host: Gonzaga University (M)
-══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Blue
   > East
-     QF  Gomez Galvan/Hann  vs   Stoeger/Martin      Fri @ 15:00
-     QF  Monteiro/Sitar     vs   Casino/Bascon       Fri @ 16:00
+      F  Tvedt/Penzlin         vs   Minakata/Kryvchun   Sun @ 09:00
+     SF  Tvedt/Penzlin        def.  Gomez Galvan/Hann   83
+     SF  Minakata/Kryvchun    def.  Casino/Bascon       86
+     QF  Tvedt/Penzlin        def.  Moortgat/Marquardt  86
+     QF  Gomez Galvan/Hann    def.  Stoeger/Martin      84
+     QF  Minakata/Kryvchun    def.  Ortega/Balce        84
+     QF  Casino/Bascon        def.  Monteiro/Sitar      84
+  > West
+      F  Moortgat/Marquardt    vs   Ortega/Balce        Sun @ 09:00
+     SF  Moortgat/Marquardt   def.  Stoeger/Martin      87(3)
+     SF  Ortega/Balce         def.  Monteiro/Sitar      85
+  > 3-4 Playoff
+      F  Gomez Galvan/Hann     vs   Casino/Bascon       Sun @ 10:00
+  > South
+      F  Stoeger/Martin        vs   Monteiro/Sitar      Sun @ 10:00
  > White
   > East
-     QF  Mueller/Sarlvik    vs   Salvador/Masala     Fri @ 15:00
-     QF  Andersson/Roider   vs   Zelver/Huppin       Fri @ 16:00
-     QF  Espinoza/Hsu       vs   Thielgaard/Hallgren Fri @ 16:00
+      F  de la Bassetiere/Br…  vs   Andersson/Roider    Sun @ 09:00
+     SF  de la Bassetiere/Br… def.  Mueller/Sarlvik     86
+     SF  Andersson/Roider     def.  Thielgaard/Hallgren 87(4)
+     QF  Mueller/Sarlvik      def.  Salvador/Masala     87(5)
+     QF  Andersson/Roider     def.  Zelver/Huppin       87(3)
+     QF  Thielgaard/Hallgren  def.  Espinoza/Hsu        87(3)
+  > West
+      F  Salvador/Masala       vs   Zelver/Huppin       Sun @ 09:00
+     SF  Zelver/Huppin        def.  Espinoza/Hsu        87(9)
+  > 3-4 Playoff
+      F  Mueller/Sarlvik       vs   Thielgaard/Hallgren Sun @ 10:00
  > Red
   > East
-     QF  Sciglitano/Benn    vs   Plutat/Fernandez    Fri @ 15:00
-     QF  Dillon/Thomas      vs   Asenov/Ramesh       Fri @ 15:00
-     QF  Jesser/De Vries    vs   Baldwin/Watkins     Fri @ 16:00
-     QF  Paz/Grimes         vs   Taylor/Duron        Fri @ 16:00
+      F  Asenov/Ramesh         vs   Taylor/Duron        Sun @ 09:00
+     SF  Asenov/Ramesh        def.  Sciglitano/Benn     87(5)
+     SF  Taylor/Duron         def.  Jesser/De Vries     87(4)
+     QF  Sciglitano/Benn      def.  Plutat/Fernandez    87(3)
+     QF  Asenov/Ramesh        def.  Dillon/Thomas       84
+     QF  Jesser/De Vries      def.  Baldwin/Watkins     Walkover
+     QF  Taylor/Duron         def.  Paz/Grimes          86
+  > West
+      F  Plutat/Fernandez      vs   Paz/Grimes          Sun @ 09:00
+     SF  Plutat/Fernandez     def.  Dillon/Thomas       81
+     SF  Paz/Grimes           def.  Baldwin/Watkins     Walkover
+  > 3-4 Playoff
+      F  Sciglitano/Benn       vs   Jesser/De Vries     Sun @ 10:00
+  > South
+      F  Dillon/Thomas         vs   Baldwin/Watkins     Sun @ 10:00
+~~~
+
+<a name="21-17543"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Saint Leo Hidden Duals - Men
+  Dates: Oct 29-31, 2021
+  Host: Saint Leo University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Friday
+  > Main
+     16  Faletto/van den Akk… def.  Del Granado/Lemken   61
+     16  Thiel/Trustfull      def.  Amilibia/Berner      76(2)
+     16  Bacella/Iriarte      def.  Nagoshi/Sohl         63
+     16  Golubev/Baumann      def.  Hertweck/Feggi       61
+     16  Altman/Nordblom      def.  Stenzer/McMurray     64
+     16  Korylco Bowers/Deni… def.  Fok Kow/Pham         64
+ > Saturday
+  > Main
+     16  Faletto/van den Akk… def.  Nordblom/Nagoshi     61
+     16  Hertweck/Fok Kow     def.  Thiel/Mensour        64
+     16  Bacella/Iriarte      def.  Pham/Feggi           62
+     16  Trustfull/Moreno     def.  Korylco Bowers/Deni… 64
+     16  Del Granado/Lemken   def.  Golubev/Baumann      75
+     16  Tatyanin/Holzmann    def.  McMurray/Polo        62
+     16  Sohl/Altman          def.  Amilibia/Berner      61
 ~~~
 
 Return to the [Top](./men_doubles_2143.md) &#124; [Home Page](../../index.md)

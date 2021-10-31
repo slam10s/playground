@@ -11,8 +11,10 @@
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 - 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
 - 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
+- 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Wofford Fall Invite](#21-77110) ([Results](#21-77110) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Draws</a>)  
 - 10/29/2021 - [Shark Bite Invite](#21-28680) ([Results](#21-28680) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Draws</a>)  
+- 10/30/2021 - [Slug Invite - hosted by West Valley College](#21-30727) ([Results](#21-30727) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Brown Quad</a>  
@@ -22,16 +24,11 @@
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Rice Invite</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Roberta Alison Fall Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Tennessee Fall Invitational</a>  
+- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/38F0263E-9612-4653-A277-431DF0FCCC45" target="_blank">Tennessee Fall Invitational</a>  
-
-**Upcoming Tournaments**  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Royal Rumble 2</a>  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Slug Invite - hosted by West Valley College</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -1458,176 +1455,521 @@
 
 <a name="21-68401"></a>
 ~~~
-═════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   Elon Fall Invitational
   Dates: Oct 28-30, 2021
   Host: Elon University (W)
-═════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Gold
   > East
-     QF  Mila Saric          vs   Semra Aksu        Fri @ 15:30
-     QF  Lizette Reding      vs   Alexandra Almborg Fri @ 15:30
-     QF  Elisa van Meeteren  vs   Erika Cheng       Fri @ 15:30
-     QF  Jade Houston        vs   Sibel Tanik       Fri @ 15:30
+      F  Mila Saric         def.  Sibel Tanik        63 61
+     SF  Mila Saric         def.  Alexandra Almborg  61 62
+     SF  Sibel Tanik        def.  Erika Cheng        61 75
+     QF  Mila Saric         def.  Semra Aksu         61 60
+     QF  Alexandra Almborg  def.  Lizette Reding     46 62 60
+     QF  Erika Cheng        def.  Elisa van Meeteren 61 62
+     QF  Sibel Tanik        def.  Jade Houston       76(5) 62
+  > West
+      F  Semra Aksu         def.  Elisa van Meeteren 62 63
+     SF  Semra Aksu         def.  Lizette Reding     64 64
+     SF  Elisa van Meeteren def.  Jade Houston       64 75
+  > 3-4 Playoff
+      F  Erika Cheng        def.  Alexandra Almborg  62 Ret.
+  > South
+      F  Lizette Reding     def.  Jade Houston       60 63
  > Maroon
   > East
-     QF  Julie Ball          vs   Dariya Radulova   Fri @ 15:30
-     QF  Raffaela Alhach     vs   Maretha Burger    Fri @ 15:30
-     QF  Hedda Gurholt       vs   Sabina Richtrova  Fri @ 15:30
-     QF  Kennedy Hill        vs   Victoria Saldh    Fri @ 15:30
+      F  Raffaela Alhach     vs   Hedda Gurholt      
+     SF  Raffaela Alhach    def.  Dariya Radulova    64 63
+     SF  Hedda Gurholt      def.  Victoria Saldh     62 60
+     QF  Dariya Radulova    def.  Julie Ball         Default
+     QF  Raffaela Alhach    def.  Maretha Burger     76(6) 46 63
+     QF  Hedda Gurholt      def.  Sabina Richtrova   61 61
+     QF  Victoria Saldh     def.  Kennedy Hill       57 64 63
+  > West
+      F  Sabina Richtrova   def.  Maretha Burger     62 61
+     SF  Maretha Burger     def.  Julie Ball         Walkover
+     SF  Sabina Richtrova   def.  Kennedy Hill       62 64
+  > 3-4 Playoff
+      F  Dariya Radulova     vs   Victoria Saldh     
+  > South
+      F  Kennedy Hill       def.  Julie Ball         Walkover
  > Powell
   > East
-     QF  Willa Rogers        vs   Hannah Gaines     Fri @ 15:30
-     QF  Emma Fernald        vs   Alison ODea       Fri @ 15:30
-     QF  Ine Stange          vs   Maria Picazo      Fri @ 15:30
-     QF  Kirsten Husted      vs   Olivia Archer     Fri @ 15:30
+      F  Emma Fernald        vs   Ine Stange         
+     SF  Emma Fernald       def.  Willa Rogers       62 64
+     SF  Ine Stange         def.  Olivia Archer      76(5) 62
+     QF  Willa Rogers       def.  Hannah Gaines      61 63
+     QF  Emma Fernald       def.  Alison ODea        76(5) 64
+     QF  Ine Stange         def.  Maria Picazo       64 61
+     QF  Olivia Archer      def.  Kirsten Husted     57 63 61
+  > West
+      F  Kirsten Husted     def.  Alison ODea        62 62
+     SF  Alison ODea        def.  Hannah Gaines      64 61
+     SF  Kirsten Husted     def.  Maria Picazo       61 61
+  > 3-4 Playoff
+      F  Willa Rogers        vs   Olivia Archer      
+  > South
+      F  Hannah Gaines       vs   Maria Picazo       
  > Acorn 1st Round Friday
   > Main
-     16  Anaiah Jones        vs   Elsa Kirch        Fri @ 16:30
-     16  Kensie Cricchio     vs   Shauna Galvin     Fri @ 16:30
-     16  Isabelle Exsted     vs   Sarah Allen       Fri @ 17:00
-     16  Lisa Fukutoku       vs   Lafilissa Joao    Fri @ 17:00
-     16  Lily Hackbirth      vs   Alisia Manolescu  Fri @ 17:00
+     16  Elsa Kirch         def.  Anaiah Jones       62 61
+     16  Kensie Cricchio    def.  Shauna Galvin      Walkover
+     16  Sarah Allen        def.  Isabelle Exsted    06 61 64
+     16  Lisa Fukutoku      def.  Lafilissa Joao     64 62
+     16  Alisia Manolescu   def.  Lily Hackbirth     60 60
  > Acorn 2nd Round Saturday
   > Main
-     16  Shauna Galvin       vs   Anaiah Jones      Sat @ 11:00
-     16  Lafilissa Joao      vs   Lily Hackbirth    Sat @ 11:00
-     16  Alisia Manolescu    vs   Isabelle Exsted   Sat @ 11:30
-     16  Sarah Allen         vs   Lisa Fukutoku     Sat @ 11:30
-     16  Elsa Kirch          vs   Kensie Cricchio   Sat @ 11:30
+     16  Anaiah Jones       def.  Shauna Galvin      Walkover
+     16  Lafilissa Joao     def.  Lily Hackbirth     61 63
+     16  Alisia Manolescu   def.  Isabelle Exsted    75 62
+     16  Sarah Allen        def.  Lisa Fukutoku      Walkover
+     16  Elsa Kirch          vs   Kensie Cricchio    
  > Acorn 3rd Round Saturday
   > Main
-     16  Shauna Galvin       vs   Alisia Manolescu  Sat @ 13:30
-     16  Sarah Allen         vs   Lily Hackbirth    Sat @ 13:30
-     16  Lafilissa Joao      vs   Elsa Kirch        Sat @ 13:30
-     16  Isabelle Exsted     vs   Kensie Cricchio   Sat @ 13:30
-     16  Anaiah Jones        vs   Lisa Fukutoku     Sat @ 13:30
+     16  Shauna Galvin       vs   Kensie Cricchio    
+     16  Sarah Allen        def.  Lily Hackbirth     62 64
+     16  Lafilissa Joao     def.  Alisia Manolescu   63 61
+     16  Isabelle Exsted    def.  Elsa Kirch         64 76(5)
+     16  Anaiah Jones        vs   Lisa Fukutoku      
+ > Phoenix
+  > Main
+     16  Maretha Burger     def.  Sarah Allen        62 63
+     16  Hedda Gurholt      def.  Dariya Radulova    76(5) 63
+     16  Ine Stange         def.  Willa Rogers       36 60 62
+     16  Emma Fernald       def.  Olivia Archer      62 64
+     16  Raffaela Alhach    def.  Victoria Saldh     64 61
 ~~~
 
 <a name="21-24286"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   NIU Huskie Indoor Invitational
   Dates: Oct 29-31, 2021
   Host: Northern Illinois Univ. (W)
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Flight 1
   > East
-     QF  Jana Lazarevic      vs   Vivian Glozman     Fri @ 12:30
-     QF  Erika Dimitriev     vs   Kristina Pukhaeva  Fri @ 12:30
-     QF  Anastasiya Salenko  vs   Sydney Fitch       Fri @ 13:15
-     QF  Habiba Aly          vs   Diana Lukyanova    Fri @ 14:00
+     SF  Vivian Glozman     def.  Erika Dimitriev    76(4) 61
+     SF  Sydney Fitch       def.  Diana Lukyanova    75 76(6)
+     QF  Vivian Glozman     def.  Jana Lazarevic     76(9) 62
+     QF  Erika Dimitriev    def.  Kristina Pukhaeva  62 63
+     QF  Sydney Fitch       def.  Anastasiya Salenko 57 62 [7]
+     QF  Diana Lukyanova    def.  Habiba Aly         63 46 [5]
+  > West
+      F  Jana Lazarevic      vs   Anastasiya Salenko Sun @ 09:00
+     SF  Jana Lazarevic     def.  Kristina Pukhaeva  62 60
+     SF  Anastasiya Salenko def.  Habiba Aly         Walkover
+  > South
+      F  Kristina Pukhaeva  def.  Habiba Aly         Walkover
  > Flight 2
   > East
-     QF  Anastasia Rakita    vs   Hailey Stelse      Fri @ 14:00
-     QF  Sonia Skobkareva    vs   Casey Smith        Fri @ 14:45
-     QF  Alexandra Kuo       vs   Katarina Dukic     Fri @ 15:30
-     QF  Reagan Welch        vs   Natalie Kmoskova   Fri @ 15:30
+      F  Hailey Stelse       vs   Reagan Welch       Sun @ 10:30
+     SF  Hailey Stelse      def.  Casey Smith        61 63
+     SF  Reagan Welch       def.  Alexandra Kuo      62 61
+     QF  Hailey Stelse      def.  Anastasia Rakita   Walkover
+     QF  Casey Smith        def.  Sonia Skobkareva   36 75 [7]
+     QF  Alexandra Kuo      def.  Katarina Dukic     76(6) 26 [7]
+     QF  Reagan Welch       def.  Natalie Kmoskova   Walkover
+  > West
+      F  Anastasia Rakita    vs   Katarina Dukic     Sun @ 10:30
+     SF  Anastasia Rakita   def.  Sonia Skobkareva   62 64
+     SF  Katarina Dukic     def.  Natalie Kmoskova   Walkover
+  > 3-4 Playoff
+      F  Casey Smith         vs   Alexandra Kuo      Sun @ 09:00
  > Flight 3
   > East
-     QF  Iuliia Dmitrieva    vs   Anna Marija Bukina Fri @ 16:15
-     QF  Sage Hills          vs   Alexis Odom        Fri @ 17:00
-     QF  Beata Havlickova    vs   Karina Chao        Fri @ 17:00
-     QF  Susana Andres       vs   Christy Robinson   Fri @ 17:45
+     SF  Alexis Odom        def.  Anna Marija Bukina 63 62
+     SF  Karina Chao        def.  Christy Robinson   61 60
+     QF  Anna Marija Bukina def.  Iuliia Dmitrieva   64 36 [10]
+     QF  Alexis Odom        def.  Sage Hills         61 62
+     QF  Karina Chao        def.  Beata Havlickova   63 61
+     QF  Christy Robinson   def.  Susana Andres      63 60
+  > West
+      F  Iuliia Dmitrieva    vs   Beata Havlickova   Sun @ 12:00
+     SF  Iuliia Dmitrieva   def.  Sage Hills         76(1) 64
+     SF  Beata Havlickova   def.  Susana Andres      62 61
+  > 3-4 Playoff
+      F  Anna Marija Bukina  vs   Christy Robinson   Sun @ 12:00
+  > South
+      F  Sage Hills          vs   Susana Andres      Sun @ 09:00
  > Flight 4
   > East
-     QF  Danina Hughes       vs   Andrea Le          Fri @ 18:30
-     QF  Angelica Ross       vs   Grace Sueflohn     Fri @ 18:30
-     QF  Isabella Flodin     vs   Sarah Markun       Fri @ 19:15
-     QF  Gabriella Kaminski  vs   Julia Huette       Fri @ 20:00
+      F  Angelica Ross       vs   Isabella Flodin    Sun @ 12:00
+     SF  Angelica Ross      def.  Andrea Le          36 76(5) [6]
+     SF  Isabella Flodin    def.  Julia Huette       61 60
+     QF  Andrea Le          def.  Danina Hughes      62 61
+     QF  Angelica Ross      def.  Grace Sueflohn     63 61
+     QF  Isabella Flodin    def.  Sarah Markun       60 60
+     QF  Julia Huette       def.  Gabriella Kaminski 26 62 [8]
+  > West
+      F  Grace Sueflohn      vs   Sarah Markun       Sun @ 09:00
+     SF  Grace Sueflohn     def.  Danina Hughes      62 60
+     SF  Sarah Markun       def.  Gabriella Kaminski 46 62 [3]
+  > 3-4 Playoff
+      F  Andrea Le           vs   Julia Huette       Sun @ 09:00
+  > South
+      F  Danina Hughes       vs   Gabriella Kaminski Sun @ 10:30
+ > Extra matches
+  > Main
+     QF  Diana Lukyanova     vs   Vivian Glozman     Sun @ 09:00
+     QF  Anastasiya Salenko def.  Katarina Dukic     67(5) 62 [7]
+     QF  Sydney Fitch        vs   Erika Dimitriev    Sun @ 09:00
+~~~
+
+<a name="21-82687"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Roberta Alison Fall Classic
+  Dates: Oct 29-30, 2021
+  Host: University Of Alabama (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Andie Daniell Singles Draw
+  > East
+      QF  Lesedi Jacobs        def.  Luminita Tutunaru    63 63
+      QF  Marta Perez Mur      def.  Mackenzie Clark      64 46 [9]
+      QF  Xinyu Cai            def.  Rachel Krzyzak       75 62
+ > Alba Cortina Pou Singles Draw
+  > East
+      QF  Lahari Yelamanchili  def.  Mary Brumfield       62 64
+      QF  Anaelle Leclercq-Fi… def.  Yu Fujioka           62 76(2)
+      QF  Sydney Pratt         def.  Rita Pinto           61 61
+      QF  Ava Markham          def.  Ola Pitak            62 64
+ > Jill Breslin Singles Draw
+  > East
+      QF  Hannah McColgan      def.  Camila Romero        36 61 [9]
+      QF  Nikola Kohoutova     def.  Katie Andreini       62 60
+      QF  Taylor Cataldi       def.  Alexandra Mikhailuk  62 64
+      QF  Alice Amendola       def.  Kasia Pitak          62 36 [4]
+ > Stefanie Leung Singles Draw
+  > East
+      QF  Alexandra Staicules… def.  Elysia Pool          26 64 [5]
+      QF  Madeline Meredith    def.  Emily Meyer          62 61
+      QF  Jiayun Zhu           def.  Charlotte Cartledge  62 63
+      QF  Aino Alkio           def.  Anna Parkhomenko     64 61
+ > Paulina Bigos Singles Draw
+  > East
+      QF  Lillian Gabrielsen   def.  Sydney Clarke        62 46 [7]
+      QF  Annie Clark          def.  Kristen Borland      75 67(2) [8]
+      QF  Monique Woog         def.  Kiley Rabjohns       64 62
+      QF  Mila Mejic           def.  Lily Walther         64 63
+ > Alice Tunaru Singles Draw
+  > East
+      QF  Brooke Theis         def.  Marta Falceto        46 62 [6]
+      QF  Otoha Aoki           def.  Anastasiia Khokhlova 64 63
+      QF  Xiaowei Hu           def.  Vanessa Mellynchuk   64 26 [9]
+      QF  Anastasia Astakhova  def.  Ariel Johnson        75 64
+ > Beth Cleino Singles Draw
+  > East
+      QF  Adelaide Lavery      def.  Dolavee Tumthong     62 64
+      QF  Annalisa Smith       def.  Sayda Hernandez      64 61
+      QF  Charlotte Russell    def.  Kristina Kukaras     63 62
+      QF  Lara van der Merwe   def.  Chhinda Som          61 64
+ > Patti Farmer Singles Draw
+  > East
+      16  Cora Barber          def.  Andrea Widing        67(5) 60 [7]
+      16  Alexandra Ferreira … def.  Sophia Mitchell      60 63
+      16  Sean Mullen          def.  Enya Ratkic          75 75
+      16  Michelle Ncube       def.  Ansley Cheshire      63 64
+      16  Olivia Elliott       def.  Michaela Hegarty     63 76(3)
+ > Big Al Singles Draw
+  > Main
+     128  Petra Sedlackova     def.  Ava Markham          64 76(2)
+     128  Katie Andreini       def.  Kristina Kukaras     62 63
+     128  Camila Romero        def.  Anastasia Astakhova  64 64
+     128  Alexandra Staicules… def.  Annie Clark          60 61
+     128  Monique Woog         def.  Mila Mejic           62 62
+     128  Madeline Meredith    def.  Ariel Johnson        46 61 [7]
+     128  Emily Meyer          def.  Kasia Pitak          63 63
+     128  Andrea Widing        def.  Dolavee Tumthong     26 63 [2]
+     128  Ola Pitak            def.  Taylor Cataldi       62 62
+     128  Ansley Cheshire      def.  Michaela Hegarty     61 61
+     128  Sayda Hernandez      def.  Sophia Mitchell      62 75
+     128  Alexandra Mikhailuk  def.  Xiaowei Hu           76(1) 60
+     128  Vanessa Mellynchuk   def.  Olivia Elliott       16 61 [5]
+     128  Alexandra Ferreira … def.  Anastasiia Khokhlova 63 64
+     128  Charlotte Cartledge  def.  Marta Falceto        61 26 [8]
+     128  Sydney Clarke        def.  Michelle Ncube       76(6) 75
 ~~~
 
 <a name="21-77110"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   Wofford Fall Invite
   Dates: Oct 29-31, 2021
   Host: Wofford College (W)
-═══════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Gold
   > East
-     QF  Lily Woods            vs   Hunter Roper       Fri @ 12:00
-     QF  Salma Loudili         vs   Lize Alet Morkel   Fri @ 12:00
-     QF  Katherine Muzik       vs   Teodora Ristic     Fri @ 12:00
-     QF  Eliza McPherron       vs   Sara Snyder        Fri @ 12:00
+      F  Lize Alet Morkel      vs   Sara Snyder         Sun @ 09:15
+     SF  Lize Alet Morkel     def.  Lily Woods          76(6) 26 [6]
+     SF  Sara Snyder          def.  Katherine Muzik     76(3) 61
+     QF  Lily Woods           def.  Hunter Roper        63 64
+     QF  Lize Alet Morkel     def.  Salma Loudili       26 75 [5]
+     QF  Katherine Muzik      def.  Teodora Ristic      Walkover
+     QF  Sara Snyder          def.  Eliza McPherron     62 75
+  > West
+      F  Salma Loudili         vs   Eliza McPherron     Sun @ 09:15
+     SF  Salma Loudili        def.  Hunter Roper        26 63 [7]
+     SF  Eliza McPherron      def.  Teodora Ristic      Walkover
+  > 3-4 Playoff
+      F  Lily Woods            vs   Katherine Muzik     Sun @ 09:15
+  > South
+      F  Hunter Roper         def.  Teodora Ristic      Walkover
  > Terrier
   > East
-     QF  Ellie Schoppe         vs   Christina Watson   Fri @ 12:00
-     QF  Jess Leeman           vs   Ami Grace Dougah   Fri @ 12:30
-     QF  Lilie Steryous        vs   Emma Cartledge     Fri @ 12:00
-     QF  Thea Rice             vs   Ji Youn Lee        Fri @ 12:30
+      F  Ami Grace Dougah      vs   Ji Youn Lee         Sun @ 10:00
+     SF  Ami Grace Dougah     def.  Ellie Schoppe       75 60
+     SF  Ji Youn Lee          def.  Lilie Steryous      60 62
+     QF  Ellie Schoppe        def.  Christina Watson    64 63
+     QF  Ami Grace Dougah     def.  Jess Leeman         75 64
+     QF  Lilie Steryous       def.  Emma Cartledge      64 75
+     QF  Ji Youn Lee          def.  Thea Rice           62 46 [6]
+  > West
+      F  Jess Leeman           vs   Thea Rice           Sun @ 09:15
+     SF  Jess Leeman          def.  Christina Watson    16 61 [8]
+     SF  Thea Rice            def.  Emma Cartledge      62 63
+  > 3-4 Playoff
+      F  Ellie Schoppe         vs   Lilie Steryous      Sun @ 09:15
+  > South
+      F  Christina Watson      vs   Emma Cartledge      Sun @ 09:15
  > Black
   > East
-     QF  Claudia Sanchez Que…  vs   Manon Delsol       Fri @ 12:30
-     QF  Soomin Kim            vs   Linge Steenkamp    Fri @ 12:30
-     QF  Alexa Goetz           vs   Elizabeth Massie   Fri @ 12:30
-     QF  Melissa Ifidzhen      vs   Ellie Schulson     Fri @ 13:45
+      F  Claudia Sanchez Que…  vs   Ellie Schulson      Sun @ 10:00
+     SF  Claudia Sanchez Que… def.  Linge Steenkamp     75 46 [9]
+     SF  Ellie Schulson       def.  Elizabeth Massie    46 62 [3]
+     QF  Claudia Sanchez Que… def.  Manon Delsol        76(3) 11 Ret.
+     QF  Linge Steenkamp      def.  Soomin Kim          61 63
+     QF  Elizabeth Massie     def.  Alexa Goetz         75 57 [2]
+     QF  Ellie Schulson       def.  Melissa Ifidzhen    63 63
+  > West
+      F  Soomin Kim            vs   Alexa Goetz         Sun @ 10:45
+     SF  Soomin Kim           def.  Manon Delsol        Walkover
+     SF  Alexa Goetz          def.  Melissa Ifidzhen    61 60
+  > 3-4 Playoff
+      F  Linge Steenkamp       vs   Elizabeth Massie    Sun @ 10:00
+  > South
+      F  Melissa Ifidzhen     def.  Manon Delsol        Walkover
  > Conquer
   > East
-     QF  Ilayda Baykan         vs   Elin Hellberg      Fri @ 13:45
-     QF  Jessica Fatemi        vs   Malin Falk         Fri @ 13:45
-     QF  Lucianna Piedra       vs   Brianna Wilbur     Fri @ 13:45
-     QF  Rosie Dickson         vs   Nejla Zukic        Fri @ 13:45
+      F  Ilayda Baykan         vs   Rosie Dickson       Sun @ 10:45
+     SF  Ilayda Baykan        def.  Malin Falk          64 61
+     SF  Rosie Dickson        def.  Lucianna Piedra     64 61
+     QF  Ilayda Baykan        def.  Elin Hellberg       63 62
+     QF  Malin Falk           def.  Jessica Fatemi      60 63
+     QF  Lucianna Piedra      def.  Brianna Wilbur      64 64
+     QF  Rosie Dickson        def.  Nejla Zukic         62 61
+  > West
+      F  Elin Hellberg         vs   Nejla Zukic         Sun @ 09:15
+     SF  Elin Hellberg        def.  Jessica Fatemi      61 62
+     SF  Nejla Zukic          def.  Brianna Wilbur      61 46 [9]
+  > 3-4 Playoff
+      F  Malin Falk            vs   Lucianna Piedra     Sun @ 09:15
+  > South
+      F  Jessica Fatemi        vs   Brianna Wilbur      Sun @ 10:45
  > White
   > East
-     QF  Emily Brandow         vs   Emily Surcey       Fri @ 13:45
-     QF  Sofia Pinedo          vs   Georgia Fischer    Fri @ 14:15
-     QF  Mina Toglukdemir      vs   Alexa Wilson       Fri @ 14:15
+      F  Emily Surcey          vs   Mina Toglukdemir    Sun @ 10:45
+     SF  Emily Surcey         def.  Maria Jardim        60 60
+     SF  Mina Toglukdemir     def.  Georgia Fischer     36 62 [8]
+     QF  Emily Surcey         def.  Emily Brandow       63 36 [8]
+     QF  Georgia Fischer      def.  Sofia Pinedo        46 62 [8]
+     QF  Mina Toglukdemir     def.  Alexa Wilson        63 63
+  > West
+      F  Emily Brandow         vs   Alexa Wilson        Sun @ 10:45
+     SF  Alexa Wilson         def.  Sofia Pinedo        64 36 [5]
+  > 3-4 Playoff
+      F  Maria Jardim          vs   Georgia Fischer     Sun @ 11:30
  > Prevail
   > East
-     QF  Courtney Fyvie        vs   Beth Lacey         Fri @ 14:15
-     QF  Amulika Gottiparthy   vs   Sofiia Vdovychenko Fri @ 14:15
-     QF  Emma Sorensen         vs   Stephanie Shulman  Fri @ 2021-10-29T15:30
+      F  Xuanjin Li            vs   Amulika Gottiparthy Sun @ 11:30
+     SF  Xuanjin Li           def.  Beth Lacey          16 64 [7]
+     SF  Amulika Gottiparthy  def.  Stephanie Shulman   46 62 [5]
+     QF  Beth Lacey           def.  Courtney Fyvie      60 62
+     QF  Amulika Gottiparthy  def.  Sofiia Vdovychenko  64 62
+     QF  Stephanie Shulman    def.  Emma Sorensen       63 61
+  > West
+      F  Courtney Fyvie        vs   Sofiia Vdovychenko  Sun @ 10:45
+     SF  Sofiia Vdovychenko   def.  Emma Sorensen       61 57 [4]
+  > 3-4 Playoff
+      F  Beth Lacey            vs   Stephanie Shulman   Sun @ 11:30
  > Gray
   > East
-     QF  Breda Brennan         vs   Kendall Byers      Fri @ 2021-10-29T15:30
-     QF  Madison Dennett       vs   Melody Cantrell    Fri @ 2021-10-29T15:30
-     QF  Rebecca Brody         vs   Elise Semmartin    Fri @ 15:30
-     QF  Lauren Yoon           vs   Emely Kahrs        Fri @ 2021-10-29T16:00
+      F  Breda Brennan         vs   Rebecca Brody       Sun @ 10:45
+     SF  Breda Brennan        def.  Madison Dennett     63 61
+     SF  Rebecca Brody        def.  Emely Kahrs         Walkover
+     QF  Breda Brennan        def.  Kendall Byers       60 62
+     QF  Madison Dennett      def.  Melody Cantrell     62 61
+     QF  Rebecca Brody        def.  Elise Semmartin     62 75
+     QF  Emely Kahrs          def.  Lauren Yoon         64 62
+  > West
+      F  Kendall Byers         vs   Elise Semmartin     Sun @ 12:15
+     SF  Kendall Byers        def.  Melody Cantrell     63 62
+     SF  Elise Semmartin      def.  Lauren Yoon         62 46 [5]
+  > 3-4 Playoff
+      F  Madison Dennett       vs   Emely Kahrs         Sun @ 12:15
+  > South
+      F  Melody Cantrell       vs   Lauren Yoon         Sun @ 12:15
  > Wofford
   > East
-     QF  Katie Watts           vs   Yasmine Humbert    Fri @ 2021-10-29T16:00
-     QF  Sam Falcon            vs   Ari Siegel         Fri @ 2021-10-29T16:00
-     QF  Arya Dudipala         vs   Camryn McClure     Fri @ 16:00
-     QF  Ansley Hardeman       vs   Valentina De Sousa Fri @ 15:30
+      F  Sam Falcon            vs   Ansley Hardeman     Sun @ 12:15
+     SF  Sam Falcon           def.  Yasmine Humbert     60 36 [5]
+     SF  Ansley Hardeman      def.  Camryn McClure      63 63
+     QF  Yasmine Humbert      def.  Katie Watts         63 63
+     QF  Sam Falcon           def.  Ari Siegel          62 61
+     QF  Camryn McClure       def.  Arya Dudipala       76(4) 36 [6]
+     QF  Ansley Hardeman      def.  Valentina De Sousa  75 63
+  > West
+      F  Ari Siegel            vs   Valentina De Sousa  Sun @ 12:15
+     SF  Ari Siegel           def.  Katie Watts         64 64
+     SF  Valentina De Sousa   def.  Arya Dudipala       61 63
+  > 3-4 Playoff
+      F  Yasmine Humbert       vs   Camryn McClure      Sun @ 10:45
+  > South
+      F  Katie Watts           vs   Arya Dudipala       Sun @ 12:15
 ~~~
 
 <a name="21-28680"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   Shark Bite Invite
   Dates: Oct 29-31, 2021
   Host: Nova Southeastern Univ. (W)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Flight A
   > East
-     SF (1) Nicole Coopersmith    vs      Chantal Nosievici    Sat @ 09:45
-     SF     Ekaterina Grib        vs      Maeva Roquebert      Sat @ 09:45
+      F (1) Nicole Coopersmith    vs      Maeva Roquebert      Sun @ 10:00
+     SF (1) Nicole Coopersmith   def.     Chantal Nosievici    Walkover
+     SF     Maeva Roquebert      def.     Ekaterina Grib       Walkover
      QF (1) Nicole Coopersmith   def.     Maria Khomchenko     62 61
      QF     Chantal Nosievici    def.     Giorgia Pigato       63 36 [7]
      QF     Ekaterina Grib       def.     Jacqueline Wagner    Walkover
      QF     Maeva Roquebert      def. (2) Nika Kozar           60 16 [8]
+  > West
+      F     Giorgia Pigato        vs  (2) Nika Kozar           Sun @ 10:00
+     SF     Giorgia Pigato       def.     Maria Khomchenko     64 75
+     SF (2) Nika Kozar           def.     Jacqueline Wagner    Walkover
  > Flight B
   > East
      QF (1) Barbora Cibakova     def.     Irina Lapustina      Walkover
      QF     Vanja Vidanovic      def.     Savannah Williams    62 61
      QF     Eva Goncharov        def.     Anine Wilberg        64 46 [6]
      QF (2) Diane Follin-Arbelet def.     Florencia Araya      61 62
+  > West
+      F     Savannah Williams     vs      Anine Wilberg        Sun @ 11:30
+     SF     Savannah Williams    def.     Irina Lapustina      Walkover
+     SF     Anine Wilberg        def.     Florencia Araya      60 75
  > Flight C
   > East
+      F     Corbin Dorsey         vs  (2) Anna Baranovski      Sun @ 10:00
+     SF     Corbin Dorsey        def. (1) Karolina Snita       Walkover
+     SF (2) Anna Baranovski      def.     Kanon Sorakudo       63 63
      QF (1) Karolina Snita       def.     Tatiana Harrelson    61 64
      QF     Corbin Dorsey        def.     Karyna Bihel         Walkover
      QF     Kanon Sorakudo       def.     Nicoline Palmgren    62 36 [8]
      QF (2) Anna Baranovski      def.     Madalena Peneda      62 63
+  > West
+      F     Tatiana Harrelson     vs      Nicoline Palmgren    Sun @ 10:00
+     SF     Tatiana Harrelson    def.     Karyna Bihel         Walkover
+     SF     Nicoline Palmgren    def.     Madalena Peneda      63 63
  > Flight D
   > East
+      F (1) Eliska Petrackova     vs      Dakota Busch         Sun @ 10:00
+     SF (1) Eliska Petrackova    def.     Caitlyn Khan         61 76(4)
+     SF     Dakota Busch         def.     Mahika Rana          61 63
      QF     Caitlyn Khan         def.     Eleonora Guglielmet… Walkover
      QF     Mahika Rana          def.     Giulia Tatini        60 64
      QF     Dakota Busch         def. (2) Anique Engelbrecht   63 60
+  > West
+      F     Eleonora Guglielmet…  vs      Giulia Tatini        Sun @ 11:30
+     SF     Giulia Tatini        def. (2) Anique Engelbrecht   75 75
+  > 3-4 Playoff
+      F     Caitlyn Khan          vs      Mahika Rana          Sun @ 11:30
+ > Flight B East New
+  > Main
+      F     Eva Goncharov         vs      Vanja Vidanovic      Sun @ 10:00
+     SF     Eva Goncharov        def.     Barbora Cibakova     Walkover
+     SF     Vanja Vidanovic      def.     Diane Follin-Arbelet 62 67(5) [7]
+~~~
+
+<a name="21-30727"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  Slug Invite - hosted by West Valley College
+  Dates: Oct 30-31, 2021
+  Host: University Of California, Santa Cruz (W)
+═══════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight G
+  > Main
+     R5     Joslin Seaberg        vs      Angelina Powers      Sun @ 15:30
+     R4     Sam Scarlett          vs      Joslin Seaberg       Sun @ 13:30
+     R4     Natasha Sackx         vs      Angelina Powers      Sat @ 15:30
+     R3     Natasha Sackx         vs      Alexandria Rogers    Sun @ 13:30
+     R1     Natasha Sackx         vs      Sam Scarlett         Sat @ 12:00
+     R1     Joslin Seaberg        vs      Alexandria Rogers    Sat @ 12:00
+ > Flight B
+  > East
+     SF (1) Julia Ortega          vs      Alice Marques        Sat @ 13:30
+     SF     Sara Beckman          vs  (2) Sanne Brull          Sat @ 13:30
+     QF (1) Julia Ortega         def.     Annabelle Mulick     61 61
+     QF     Alice Marques        def.     Mari Carmen Bufkin   36 64 [7]
+     QF     Sara Beckman         def.     Zoe Coggins          63 61
+     QF (2) Sanne Brull          def.     Deimante Bulatovaite 62 62
+  > West
+     SF     Annabelle Mulick      vs      Mari Carmen Bufkin   Sat @ 13:30
+     SF     Zoe Coggins           vs      Deimante Bulatovaite Sat @ 13:30
+ > Flight A
+  > East
+     SF (1) Lea Falentin          vs      Maria Borodi         Sat @ 13:30
+     SF     Maria Vittoria Casu…  vs  (2) Audrey Rafols        Sat @ 13:30
+     QF (1) Lea Falentin         def.     Paulina Alvarez      46 61 [5]
+     QF     Maria Borodi         def.     Gina Dudley          26 63 [8]
+     QF     Maria Vittoria Casu… def.     Amber Huk            61 63
+     QF (2) Audrey Rafols        def.     Alice Di Matteo      61 57 [5]
+  > West
+     SF     Paulina Alvarez       vs      Gina Dudley          Sat @ 13:30
+     SF     Amber Huk             vs      Alice Di Matteo      Sat @ 13:30
+ > Flight C
+  > East
+     SF (1) Sylvie Van Cott       vs      Julia Rydel          Sat @ 14:00
+     SF     Kate Bolton           vs      Elise Leik           Sat @ 14:00
+     QF (1) Sylvie Van Cott      def.     Anna Hoerter         61 61
+     QF     Julia Rydel          def.     Tanner Rowland       75 26 [6]
+     QF     Kate Bolton          def.     Luisa Garcia         61 61
+     QF     Elise Leik           def. (2) Natalie Sprenger     63 76(4)
+  > West
+     SF     Anna Hoerter          vs      Tanner Rowland       Sat @ 14:00
+     SF     Luisa Garcia          vs  (2) Natalie Sprenger     Sat @ 14:00
+ > Flight D
+  > East
+     SF (1) Brennan Foreman       vs      Isabella Francis     Sat @ 14:30
+     SF     Julia Azzi            vs      Sylvana Talamantes   Sat @ 14:30
+     QF (1) Brennan Foreman      def.     Alyssa Tay           62 76(1)
+     QF     Isabella Francis     def.     Maya Young           67(3) 61 [6]
+     QF     Julia Azzi           def.     Seraphine Vossen     63 60
+     QF     Sylvana Talamantes   def. (2) Ella Lavender        63 64
+  > West
+     SF     Alyssa Tay            vs      Maya Young           Sat @ 14:30
+     SF     Seraphine Vossen      vs  (2) Ella Lavender        Sat @ 14:30
+ > Flight E
+  > East
+     QF (1) Zeynep Aynaci         vs      Antoinette Schreiber Sat @ 11:30
+     QF     Sophia Nguyen        def.     Gionna Parsa         61 60
+     QF     Haley Garcia          vs      Caro Groff           Sat @ 11:30
+     QF     Abigail Proktor       vs  (2) Lada Baglaeva        Sat @ 12:00
+ > Flight F
+  > Main
+     R3     Ghada Alajeely        vs      Brynn Mckenzie       Sun @ 13:00
+     R2     Ghada Alajeely        vs      Isabella Chacon      Sat @ 15:30
+     R2     Daniela Christian     vs      Brynn Mckenzie       Sat @ 15:30
+     R1     Ghada Alajeely       def.     Daniela Christian    64 6
+     R1     Isabella Chacon       vs      Brynn Mckenzie       Sat @ 12:00
 ~~~
 
 Return to the [Top](./women_singles_2143.md) &#124; [Home Page](../../index.md)

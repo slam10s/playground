@@ -14,6 +14,7 @@
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Wofford Fall Invite](#21-77110) ([Results](#21-77110) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Draws</a>)  
 - 10/29/2021 - [Shark Bite Invite](#21-28680) ([Results](#21-28680) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Draws</a>)  
+- 10/30/2021 - [Slug Invite - hosted by West Valley College](#21-30727) ([Results](#21-30727) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Brown Quad</a>  
@@ -25,13 +26,9 @@
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Rice Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Tennessee Fall Invitational</a>  
+- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/38F0263E-9612-4653-A277-431DF0FCCC45" target="_blank">Tennessee Fall Invitational</a>  
-
-**Upcoming Tournaments**  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Royal Rumble 2</a>  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Slug Invite - hosted by West Valley College</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -637,116 +634,239 @@
 
 <a name="21-68401"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
   Elon Fall Invitational
   Dates: Oct 28-30, 2021
   Host: Elon University (W)
-═══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Maroon
   > East
-     QF  van Meeteren/Stange  vs   Houston/Joao       Fri @ 13:00
-     QF  Rogers/Kirch         vs   Allen/Galvin       Fri @ 13:00
-     QF  Cricchio/Manolescu   vs   Exsted/Picazo      Fri @ 13:00
-     QF  Hackbirth/Husted     vs   Archer/ODea        Fri @ 13:00
+     SF  van Meeteren/Stange def.  Rogers/Kirch        82
+     SF  Cricchio/Manolescu  def.  Archer/ODea         85
+     QF  van Meeteren/Stange def.  Houston/Joao        86
+     QF  Rogers/Kirch        def.  Allen/Galvin        85
+     QF  Cricchio/Manolescu  def.  Exsted/Picazo       82
+     QF  Archer/ODea         def.  Hackbirth/Husted    82
+  > West
+      F  Houston/Joao         vs   Exsted/Picazo       Sat @ 09:00
+     SF  Houston/Joao        def.  Allen/Galvin        84
+     SF  Exsted/Picazo       def.  Hackbirth/Husted    85
+  > South
+      F  Hackbirth/Husted    def.  Allen/Galvin        Walkover
  > Gold
   > East
-     QF  Ball/Saldh           vs   Radulova/Richtrova Fri @ 13:00
-     QF  Fernald/Saric        vs   Almborg/Burger     Fri @ 13:00
-     QF  Alhach/Gurholt       vs   Aksu/Cheng         Fri @ 13:00
-     QF  Hill/Gaines          vs   Reding/Tanik       Fri @ 13:00
+     SF  Fernald/Saric       def.  Radulova/Richtrova  86
+     SF  Alhach/Gurholt      def.  Reding/Tanik        87(8)
+     QF  Radulova/Richtrova  def.  Ball/Saldh          83
+     QF  Fernald/Saric       def.  Almborg/Burger      86
+     QF  Alhach/Gurholt      def.  Aksu/Cheng          84
+     QF  Reding/Tanik        def.  Hill/Gaines         86
+  > West
+      F  Aksu/Cheng          def.  Ball/Saldh          82
+     SF  Ball/Saldh          def.  Almborg/Burger      86
+     SF  Aksu/Cheng          def.  Hill/Gaines         85
+  > South
+      F  Almborg/Burger      def.  Hill/Gaines         82
+ > Powell
+  > East
+     QF  Reding/Tanik        def.  Fernald/Saric       85
+     QF  Archer/ODea         def.  van Meeteren/Stange 87(3)
+     QF  Alhach/Gurholt      def.  Radulova/Richtrova  84
+     QF  Rogers/Kirch        def.  Cricchio/Manolescu  87(2)
 ~~~
 
 <a name="21-24286"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
   NIU Huskie Indoor Invitational
   Dates: Oct 29-31, 2021
   Host: Northern Illinois Univ. (W)
-══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight 1 Doubles
   > East
-     QF  Smith/Salenko      vs   Stelse/Kuo          Fri @ 08:45
-     QF  Rakita/Dimitriev   vs   Kmoskova/Havlickova Fri @ 08:45
-     QF  Flodin/Fitch       vs   Lazarevic/Aly       Fri @ 08:45
-     QF  Pukhaeva/Dukic     vs   Lukyanova/Welch     Fri @ 09:30
+      F  Lazarevic/Aly     def.  Stelse/Kuo          75
+     SF  Stelse/Kuo        def.  Rakita/Dimitriev    62
+     SF  Lazarevic/Aly     def.  Lukyanova/Welch     62
+     QF  Stelse/Kuo        def.  Smith/Salenko       64
+     QF  Rakita/Dimitriev  def.  Kmoskova/Havlickova 76(5)
+     QF  Lazarevic/Aly     def.  Flodin/Fitch        63
+     QF  Lukyanova/Welch   def.  Pukhaeva/Dukic      60
+  > West
+      F  Flodin/Fitch      def.  Smith/Salenko       62
+     SF  Smith/Salenko     def.  Kmoskova/Havlickova 76(7)
+     SF  Flodin/Fitch      def.  Pukhaeva/Dukic      63
  > Flight 2 Doubles
   > East
-     QF  Andres/Hughes      vs   Naves/Dmitrieva     Fri @ 09:30
-     QF  Odom/Le            vs   Ross/Trella         Fri @ 09:30
-     QF  Sueflohn/Hills     vs   Glozman/Chao        Fri @ 10:15
-     QF  Girbau/Skobkareva  vs   Kaminski/Robinson   Fri @ 10:15
+     SF  Odom/Le           def.  Naves/Dmitrieva     63
+     SF  Glozman/Chao      def.  Girbau/Skobkareva   62
+     QF  Naves/Dmitrieva   def.  Andres/Hughes       61
+     QF  Odom/Le           def.  Ross/Trella         63
+     QF  Glozman/Chao      def.  Sueflohn/Hills      61
+     QF  Girbau/Skobkareva def.  Kaminski/Robinson   64
+  > West
+      F  Ross/Trella       def.  Sueflohn/Hills      76(5)
+     SF  Ross/Trella       def.  Andres/Hughes       64
+     SF  Sueflohn/Hills    def.  Kaminski/Robinson   64
+  > South
+      F  Kaminski/Robinson def.  Andres/Hughes       62
+ > Extra matches
+  > Main
+     QF  Lukyanova/Welch   def.  Havlickova/Bukina   75
+     QF  Pukhaeva/Dukic    def.  Rakita/Dimitriev    63
+     QF  Girbau/Skobkareva def.  Odom/Le             76(4)
+     QF  Glozman/Chao      def.  Naves/Dmitrieva     62
 ~~~
 
 <a name="21-82687"></a>
 ~~~
-══════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Roberta Alison Fall Classic
   Dates: Oct 29-30, 2021
   Host: University Of Alabama (W)
-══════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Bentley/Stephenson- Round 1
   > Main
-     16  Woog/Tumthong      def.  Alkio/Rabjohns   64
-     16  Aoki/van der Merwe def.  Oerfice/Cheshire 76(6)
-     16  Smith/Ratkic       def.  Mitchell/Hegarty 63
-     16  Kukaras/Ncube      def.  Walther/Barber   62
+     16  Woog/Tumthong        def.  Alkio/Rabjohns       64
+     16  Aoki/van der Merwe   def.  Oerfice/Cheshire     76(6)
+     16  Smith/Ratkic         def.  Mitchell/Hegarty     63
+     16  Kukaras/Ncube        def.  Walther/Barber       62
  > Bentley/Stephenson - Round 2
   > Main
-     16  Aoki/van der Merwe def.  Woog/Tumthong    63
-     16  Smith/Ratkic       def.  Kukaras/Ncube    63
-     16  Walther/Barber     def.  Mitchell/Hegarty 61
+     16  Aoki/van der Merwe   def.  Woog/Tumthong        63
+     16  Smith/Ratkic         def.  Kukaras/Ncube        63
+     16  Walther/Barber       def.  Mitchell/Hegarty     61
+ > Routliffe/Jansen
+  > East
+      F  Pratt/McColgan       def.  Pitak/Pitak          62
+     SF  Pitak/Pitak          def.  Clark/Borland        64
+     SF  Pratt/McColgan       def.  Danailova/Pinto      61
+     QF  Pitak/Pitak          def.  Amendola/Jacobs      76(4)
+     QF  Clark/Borland        def.  Cai/Cataldi          62
+     QF  Danailova/Pinto      def.  Romero/Meyer         75
+     QF  Pratt/McColgan       def.  Krzyzak/Leclercq-Fi… 61
+  > West
+      F  Krzyzak/Leclercq-Fi… def.  Cai/Cataldi          63
+     SF  Cai/Cataldi          def.  Amendola/Jacobs      61
+     SF  Krzyzak/Leclercq-Fi… def.  Romero/Meyer         64
+  > 3-4 Playoff
+      F  Clark/Borland        def.  Danailova/Pinto      61
+  > South
+      F  Romero/Meyer         def.  Amendola/Jacobs      63
+ > Guarachi/Macfarlane Daines
+  > East
+      F  Theis/Lavery         def.  Mellynchuk/Ferreira… 61
+     SF  Mellynchuk/Ferreira… def.  Meredith/Astakhova   75
+     SF  Theis/Lavery         def.  Markham/Johnson      64
+     QF  Meredith/Astakhova   def.  Clark/Som            76(5)
+     QF  Mellynchuk/Ferreira… def.  Hernandez/Hu         63
+     QF  Theis/Lavery         def.  Khokhlova/Widing     64
+     QF  Markham/Johnson      def.  Mikhailuk/Falceto    75
+  > West
+      F  Clark/Som            def.  Mikhailuk/Falceto    63
+     SF  Clark/Som            def.  Hernandez/Hu         64
+     SF  Mikhailuk/Falceto    def.  Khokhlova/Widing     63
+  > 3-4 Playoff
+      F  Meredith/Astakhova   def.  Markham/Johnson      76(5)
+  > South
+      F  Khokhlova/Widing     def.  Hernandez/Hu         64
+ > Bentley/Stephenson- Round 3
+  > Main
+     QF  Woog/Tumthong        def.  Smith/Ratkic         62
+     QF  Aoki/van der Merwe   def.  Kukaras/Ncube        64
+     QF  Alkio/Rabjohns       def.  Walther/Barber       61
+     QF  Zhu/Mullen           def.  Mitchell/Hegarty     61
+ > Wilmink/Van Dijk
+  > East
+      F  Sedlackova/Parkhome… def.  Pool/Gabrielsen      61
+     SF  Pool/Gabrielsen      def.  Tutunaru/Fujioka     63
+     SF  Sedlackova/Parkhome… def.  Staiculescu/Mejic    60
+     QF  Tutunaru/Fujioka     def.  Perez Mur/Brumfield  63
+     QF  Pool/Gabrielsen      def.  Andreini/Cartledge   64
+     QF  Staiculescu/Mejic    def.  Clarke/White         63
+     QF  Sedlackova/Parkhome… def.  Yelamanchili/Russell 64
+  > West
+      F  Yelamanchili/Russell def.  Andreini/Cartledge   60
+     SF  Andreini/Cartledge   def.  Perez Mur/Brumfield  64
+     SF  Yelamanchili/Russell def.  Clarke/White         63
+  > 3-4 Playoff
+      F  Tutunaru/Fujioka     def.  Staiculescu/Mejic    63
+  > South
+      F  Clarke/White         def.  Perez Mur/Brumfield  63
 ~~~
 
 <a name="21-77110"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
   Wofford Fall Invite
   Dates: Oct 29-31, 2021
   Host: Wofford College (W)
-═════════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Gold
   > East
-     SF  Dickson/Dougah        vs   Rice/Zukic           Sat @ 09:00
-     SF  Li/Goetz              vs   Wilbur/Steryous      Sat @ 2021-10-30T09:00
+      F  Dickson/Dougah        vs   Li/Goetz             Sun @ 08:30
+     SF  Dickson/Dougah       def.  Rice/Zukic           61
+     SF  Li/Goetz             def.  Wilbur/Steryous      64
      QF  Dickson/Dougah       def.  Schoppe/Snyder       62
      QF  Rice/Zukic           def.  Delsol/Ristic        63
      QF  Li/Goetz             def.  Muzik/Lee            76(3)
      QF  Wilbur/Steryous      def.  Sanchez Quesada/Pie… 61
   > West
-     SF  Schoppe/Snyder        vs   Delsol/Ristic        Sat @ 09:00
-     SF  Muzik/Lee             vs   Sanchez Quesada/Pie… Sat @ 09:00
+      F  Schoppe/Snyder        vs   Sanchez Quesada/Pie… Sun @ 08:30
+     SF  Schoppe/Snyder       def.  Delsol/Ristic        Walkover
+     SF  Sanchez Quesada/Pie… def.  Muzik/Lee            75
+  > 3-4 Playoff
+      F  Rice/Zukic            vs   Wilbur/Steryous      Sun @ 08:30
+  > South
+      F  Muzik/Lee            def.  Delsol/Ristic        Walkover
  > Black
   > East
-     SF  Watson/McPherron      vs   Ifidzhen/Loudili     Sat @ 2021-10-30T09:00
-     SF  Kim/Pinedo            vs   Toglukdemir/Cartled… Sat @ 2021-10-30T09:00
+      F  Watson/McPherron      vs   Toglukdemir/Cartled… Sun @ 08:30
+     SF  Watson/McPherron     def.  Ifidzhen/Loudili     76(4)
+     SF  Toglukdemir/Cartled… def.  Kim/Pinedo           76(5)
      QF  Watson/McPherron     def.  Jardim/Hellberg      62
      QF  Ifidzhen/Loudili     def.  Baykan/Schulson      61
      QF  Kim/Pinedo           def.  Lacey/Leeman         64
      QF  Toglukdemir/Cartled… def.  Massie/Woods         64
   > West
-     SF  Jardim/Hellberg       vs   Baykan/Schulson      Sat @ 09:00
-     SF  Lacey/Leeman          vs   Massie/Woods         Sat @ 09:00
+      F  Baykan/Schulson       vs   Lacey/Leeman         Sun @ 08:30
+     SF  Baykan/Schulson      def.  Jardim/Hellberg      64
+     SF  Lacey/Leeman         def.  Massie/Woods         64
+  > 3-4 Playoff
+      F  Ifidzhen/Loudili      vs   Kim/Pinedo           Sun @ 08:30
+  > South
+      F  Jardim/Hellberg       vs   Massie/Woods         Sun @ 08:30
  > White
   > East
-     SF  Surcey/Roper          vs   Steenkamp/Siegel     Sat @ 2021-10-30T09:00
+      F  Steenkamp/Siegel      vs   Brandow/Falk         Sun @ 08:30
+     SF  Steenkamp/Siegel     def.  Surcey/Roper         76
+     SF  Brandow/Falk         def.  Wilson/De Sousa      75
      QF  Surcey/Roper         def.  Shulman/Fatemi       62
      QF  Steenkamp/Siegel     def.  Fischer/Sorensen     75
-     QF  Brandow/Falk          vs   Roslund/Watts        Fri @ 11:45
-     QF  Cantrell/Gottiparthy  vs   Wilson/De Sousa      Fri @ 11:45
+     QF  Brandow/Falk         def.  Roslund/Watts        63
+     QF  Wilson/De Sousa      def.  Cantrell/Gottiparthy 64
   > West
-     SF  Shulman/Fatemi        vs   Fischer/Sorensen     Sat @ 09:00
+      F  Fischer/Sorensen      vs   Cantrell/Gottiparthy Sun @ 08:30
+     SF  Fischer/Sorensen     def.  Shulman/Fatemi       62
+     SF  Cantrell/Gottiparthy def.  Roslund/Watts        63
+  > 3-4 Playoff
+      F  Surcey/Roper          vs   Wilson/De Sousa      Sun @ 08:30
+  > South
+      F  Shulman/Fatemi        vs   Roslund/Watts        Sun @ 08:30
  > Gray
   > East
-     SF  Hardeman/Brennan      vs   Vdovychenko/Humbert  Sat @ 09:45
-     SF  Yoon/Falcon           vs   McClure/Dennett      Sat @ 09:45
+      F  Vdovychenko/Humbert   vs   Yoon/Falcon          Sun @ 09:15
+     SF  Vdovychenko/Humbert  def.  Hardeman/Brennan     75
+     SF  Yoon/Falcon          def.  McClure/Dennett      62
      QF  Vdovychenko/Humbert  def.  Fyvie/Semmartin      60
      QF  Yoon/Falcon          def.  Byers/Morkel         75
   > West
-      F  Fyvie/Semmartin       vs   Byers/Morkel         Sat @ 10:30
+      F  Fyvie/Semmartin       vs   Byers/Morkel         Sun @ 09:15
+  > 3-4 Playoff
+      F  Hardeman/Brennan      vs   McClure/Dennett      Sun @ 09:15
 ~~~
 
 <a name="21-28680"></a>
@@ -759,22 +879,65 @@
  Women's Open Doubles
  > Flight A
   > East
-     SF  Coopersmith/Vidanov…  vs   Wilberg/Khomchenko   Sat @ 09:00
-     SF  Wagner/Bihel          vs   Kozar/Nosievici      Sat @ 09:00
+     SF  Coopersmith/Vidanov… def.  Wilberg/Khomchenko   60
+     SF  Kozar/Nosievici      def.  Wagner/Bihel         Walkover
      QF  Wilberg/Khomchenko   def.  Goncharov/Snita      64
      QF  Wagner/Bihel         def.  Williams/Grib        75
      QF  Kozar/Nosievici      def.  Roquebert/Harrelson  61
   > West
-     SF  Williams/Grib         vs   Roquebert/Harrelson  Sat @ 09:00
+      F  Goncharov/Snita       vs   Roquebert/Harrelson  Sun @ 09:00
+     SF  Roquebert/Harrelson  def.  Williams/Grib        Walkover
+  > 3-4 Playoff
+      F  Wilberg/Khomchenko    vs   Wagner/Bihel         Sun @ 09:00
  > Flight B
   > East
-     SF  Baranovski/Pigato     vs   Busch/Dorsey         Sat @ 09:00
-     SF  Araya/Peneda          vs   Palmgren/Tatini      Sat @ 09:00
+      F  Baranovski/Pigato     vs   Araya/Peneda         Sun @ 09:00
+     SF  Baranovski/Pigato    def.  Busch/Dorsey         60
+     SF  Araya/Peneda         def.  Palmgren/Tatini      63
      QF  Busch/Dorsey         def.  Khan/Follin-Arbelet  76(4)
      QF  Araya/Peneda         def.  Petrackova/Rana      64
      QF  Palmgren/Tatini      def.  Sorakudo/Engelbrecht 63
   > West
-     SF  Petrackova/Rana       vs   Sorakudo/Engelbrecht Sat @ 09:00
+      F  Khan/Follin-Arbelet   vs   Sorakudo/Engelbrecht Sun @ 09:00
+     SF  Sorakudo/Engelbrecht def.  Petrackova/Rana      63
+  > 3-4 Playoff
+      F  Busch/Dorsey          vs   Palmgren/Tatini      Sun @ 09:00
+~~~
+
+<a name="21-30727"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Slug Invite - hosted by West Valley College
+  Dates: Oct 30-31, 2021
+  Host: University Of California, Santa Cruz (W)
+══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > East
+     QF (1) Rafols/Dudley       def.     Beckman/Sprenger  83
+     QF     Borodi/Leik          vs      Comas Adam/Hellbe Sat @ 09:00
+     QF     Alvarez/Casucci      vs      Falentin/Marques  Sat @ 09:00
+     QF     Bufkin/Van Cott      vs  (2) Brull/Di Matteo   Sat @ 09:00
+ > Flight B
+  > East
+     QF (1) Huk/Talamantes       vs      Baglaeva/Lavender Sat @ 09:00
+     QF     Young/Tay            vs      Rydel/Coggins     Sat @ 09:00
+     QF     Foreman/Groff        vs      Francis/Rowland   Sat @ 09:00
+     QF     Bulatovaite/Hoerter  vs  (2) Mulick/Bolton     Sat @ 09:00
+ > Flight D
+  > Main
+     R3     Rogers/Alajeely      vs      Christian/Chacon  Sun @ 09:00
+     R3     Powers/Scarlett      vs      Sackx/Mckenzie    Sun @ 09:00
+     R1     Powers/Scarlett      vs      Rogers/Alajeely   Sat @ 09:00
+     R1     Christian/Chacon     vs      Sackx/Mckenzie    Sat @ 09:00
+ > Flight C
+  > Main
+     R5     Hu/Aynaci            vs      Azzi/Nguyen       Sun @ 10:00
+     R5     Garcia/Seaberg       vs      Proktor/Vossen    Sat @ 09:00
+     R4     Garcia/Schreiber     vs      Proktor/Vossen    Sun @ 10:00
+     R3     Hu/Aynaci            vs      Proktor/Vossen    Sun @ 09:00
+     R1     Garcia/Schreiber     vs      Hu/Aynaci         Sat @ 09:00
+     R1     Garcia/Seaberg       vs      Azzi/Nguyen       Sun @ 09:00
 ~~~
 
 Return to the [Top](./women_doubles_2143.md) &#124; [Home Page](../../index.md)

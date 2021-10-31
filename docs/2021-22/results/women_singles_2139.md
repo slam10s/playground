@@ -3604,21 +3604,21 @@
  > Draw
   > Main
       F (4) Carla Montaruli   def. (2) Bailey Greenwell  63 64
-     SF (4) Carla Montaruli   def. (1) Seraphina Vossen  62 62
-     SF (2) Bailey Greenwell  def. (3) Abigail Prokter   63 61
-     QF (1) Seraphina Vossen  def. (6) Sonya Hu          62 60
+     SF (4) Carla Montaruli   def. (1) Seraphine Vossen  62 62
+     SF (2) Bailey Greenwell  def. (3) Abigail Proktor   63 61
+     QF (1) Seraphine Vossen  def. (6) Sonya Hu          62 60
      QF (4) Carla Montaruli   def. (5) Brunia Boliscar   63 62
-     QF (3) Abigail Prokter   def.     Sarah White       60 63
+     QF (3) Abigail Proktor   def.     Sarah White       60 63
      QF (2) Bailey Greenwell  def.     Katelyn Crismon   60 63
-     16 (1) Seraphina Vossen  def.     Halie Gregory     62 60
+     16 (1) Seraphine Vossen  def.     Halie Gregory     62 60
      16 (6) Sonya Hu          def.     Sarah Crismon     61 60
      16 (5) Brunia Boliscar   def. (8) Sofia Mazzola     60 75
      16 (4) Carla Montaruli   def.     Michaela Llewelyn 62 60
-     16 (3) Abigail Prokter   def.     Gisseli Aguilar   60 60
+     16 (3) Abigail Proktor   def.     Gisseli Aguilar   60 60
      16     Sarah White       def.     Anahi Soto        61 60
      16     Katelyn Crismon   def. (7) Haley VanOrman    75 60
      16 (2) Bailey Greenwell  def.     Tayla Barry       60 60
-     32 (1) Seraphina Vossen  def.     Jasmine Pearson   60 60
+     32 (1) Seraphine Vossen  def.     Jasmine Pearson   60 60
      32     Halie Gregory     def.     Sarah Reade       61 62
      32     Sarah Crismon     def.     Calista McShane   36 64 [4]
      32 (6) Sonya Hu          def.     Melanie Mestre    60 60
@@ -3626,7 +3626,7 @@
      32 (8) Sofia Mazzola     def.     Natasha Sackx     60 61
      32     Michaela Llewelyn def.     Kendra Branch     46 62 [5]
      32 (4) Carla Montaruli   def.     Saige Fleming     61 61
-     32 (3) Abigail Prokter   def.     McKenna Rennoult  60 61
+     32 (3) Abigail Proktor   def.     McKenna Rennoult  60 61
      32     Gisseli Aguilar   def.     Emily Cowan       61 63
      32     Sarah White       def.     Jori Jacobs       63 64
      32 (7) Haley VanOrman    def.     Emily Laursen     61 61

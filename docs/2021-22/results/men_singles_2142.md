@@ -1164,11 +1164,11 @@
       16      Jett Middleton       def. (25) Eric Hadigian        61 26 76(4)
       16      Jose Dominguez Alon… def.      Loic Van Zeggelaar   36 76(3) [5]
       16      Stefano Tsorotiotis  def.      Conner Olsen         64 63
-      16      Blaz Seric           def.      Pelayo Rodriguez     76(6) 61
+      16      Blaz Seric           def.      Pelayo Rodriguez     Walkover
       16      Alex Mandma          def.      Corrado Summaria     75 36 [3]
       16      Marvin Schaber       def.      Jonathan Zheng Qi Z… 76(5) 60
       16      Karl Collins         def. (18) Ryder Jackson        76(4) 62
-      16      Fernando Fonseca     def.      Hendrik Inno         62 76(4)
+      16      Fernando Fonseca     def.      Hendrik Inno         Walkover
       32      Jett Middleton       def.      Sahm Irvine          62 60
       32 (25) Eric Hadigian        def.      Zach Ermert          63 60
       32      Jose Dominguez Alon… def.      Wyatt Anderson       64 63
@@ -1225,6 +1225,10 @@
       32      Nick Lagaev          def.      Ian Esses            64 46 [8]
       32      Grzegorz Rudnicki    def.      Josh Williams        62 Ret.
       32      John Bryan Otico     def.      Will Davies          64 76(6)
+ > Peter Smith Draw
+  > Main
+      SF      Fernando Fonseca     def.      Pelayo Rodriguez     62 76(3)
+      SF      Blaz Seric           def.      Hendrik Inno         76(6) 61
 ~~~
 
 <a name="21-41693"></a>

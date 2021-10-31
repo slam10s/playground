@@ -1737,10 +1737,10 @@
  Women's Open Doubles
  > Draw
   > Main
-      F (1) Vossen/Prokter     def. (3) VanOrman/Montaruli 50 Ret.
-     SF (1) Vossen/Prokter     def. (4) Boliscar/Branch    86
+      F (1) Vossen/Proktor     def. (3) VanOrman/Montaruli 50 Ret.
+     SF (1) Vossen/Proktor     def. (4) Boliscar/Branch    86
      SF (3) VanOrman/Montaruli def. (2) Greenwell/Mazzola  83
-     QF (1) Vossen/Prokter     def.     Aguilar/McShane    81
+     QF (1) Vossen/Proktor     def.     Aguilar/McShane    81
      QF (4) Boliscar/Branch    def.     Crismon/Crismon    81
      QF (3) VanOrman/Montaruli def.     Espino/Gregory     82
      QF (2) Greenwell/Mazzola  def.     White/Rennoult     82

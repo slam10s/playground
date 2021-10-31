@@ -10,17 +10,15 @@
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
 - 10/28/2021 - [64th Annual Southern California Intercollegiate Championships](#21-75985) ([Results](#21-75985) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
+- 10/29/2021 - [Saint Leo Hidden Duals - Men](#21-17543) ([Results](#21-17543) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Crimson Halloween Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Gamecock Scramble</a>  
+- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Seahawk Team Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Virginia Tech Halloween Clash</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Saint Leo Hidden Duals - Men</a>  
-
-**Upcoming Tournaments**  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
 
 <a name="21-69139"></a>
 ~~~
@@ -967,11 +965,11 @@
       16      Jett Middleton       def. (25) Eric Hadigian        61 26 76(4)
       16      Jose Dominguez Alon… def.      Loic Van Zeggelaar   36 76(3) [5]
       16      Stefano Tsorotiotis  def.      Conner Olsen         64 63
-      16      Blaz Seric           def.      Pelayo Rodriguez     76(6) 61
+      16      Blaz Seric           def.      Pelayo Rodriguez     Walkover
       16      Alex Mandma          def.      Corrado Summaria     75 36 [3]
       16      Marvin Schaber       def.      Jonathan Zheng Qi Z… 76(5) 60
       16      Karl Collins         def. (18) Ryder Jackson        76(4) 62
-      16      Fernando Fonseca     def.      Hendrik Inno         62 76(4)
+      16      Fernando Fonseca     def.      Hendrik Inno         Walkover
       32      Jett Middleton       def.      Sahm Irvine          62 60
       32 (25) Eric Hadigian        def.      Zach Ermert          63 60
       32      Jose Dominguez Alon… def.      Wyatt Anderson       64 63
@@ -1028,6 +1026,10 @@
       32      Nick Lagaev          def.      Ian Esses            64 46 [8]
       32      Grzegorz Rudnicki    def.      Josh Williams        62 Ret.
       32      John Bryan Otico     def.      Will Davies          64 76(6)
+ > Peter Smith Draw
+  > Main
+      SF      Fernando Fonseca     def.      Pelayo Rodriguez     62 76(3)
+      SF      Blaz Seric           def.      Hendrik Inno         76(6) 61
 ~~~
 
 <a name="21-75985"></a>
@@ -1040,23 +1042,46 @@
  Men's Open Singles
  > Main Draw
   > Main
-     16 (5) Phillip Jordan        vs      Stanislas De Samuce… Fri @ 16:00
-     32 (1) Sema Pankin           vs      Tomas Gomez Gomez    Fri @ 14:00
-     32     Blaine Hovenier       vs      Leyton Bohren        Fri @ 13:30
+      F (5) Phillip Jordan        vs  (2) Ryder Jackson        Sun @ 11:30
+     SF (5) Phillip Jordan       def. (4) Liam Krall           64 67(4) 75
+     SF (2) Ryder Jackson        def.     Issa Yoshida         60 63
+     QF (5) Phillip Jordan       def. (1) Sema Pankin          63 46 75
+     QF (4) Liam Krall           def.     David Norfeldt       63 75
+     QF     Issa Yoshida         def.     Will Davies          64 75
+     QF (2) Ryder Jackson        def. (6) Stefan Leustian      46 60 75
+     16 (1) Sema Pankin          def.     Leyton Bohren        63 60
+     16 (5) Phillip Jordan       def.     Stanislas De Samuce… 64 61
+     16 (4) Liam Krall           def.     Jeffrey Fradkin      46 62 64
+     16     David Norfeldt       def. (7) Julian Steinhausen   62 75
+     16     Will Davies          def.     Josh Williams        63 61
+     16     Issa Yoshida         def.     Yassine Smiej        64 62
+     16 (6) Stefan Leustian      def.     Leo Hibi             64 62
+     16 (2) Ryder Jackson        def.     Caleb Wilkins        62 60
+     32 (1) Sema Pankin          def.     Tomas Gomez Gomez    62 61
+     32     Leyton Bohren        def.     Blaine Hovenier      67(7) 62 63
      32 (5) Phillip Jordan       def.     Barnaby Thorold      62 63
      32     Stanislas De Samuce… def.     Huntley Allen        64 62
-     32 (4) Liam Krall            vs      Paul Barretto        Fri @ 14:30
-     32     Jeffrey Fradkin       vs      Eleftherios Neos     Fri @ 13:30
-     32 (7) Julian Steinhausen    vs      Argote Mariano       Fri @ 14:30
-     32     Adam Large            vs      David Norfeldt       Fri @ 14:30
-     32     Josh Williams         vs      Sebastian Herrera    Fri @ 13:00
-     32     Will Davies           vs  (8) Caleb Chakravarthi   Fri @ 14:30
-     32     Loic Van Zeggelaar    vs      Yassine Smiej        Fri @ 11:30
-     32     Issa Yoshida          vs  (3) Eric Hahn            Fri @ 11:30
-     32     Leo Hibi              vs      John Zisette         Fri @ 12:00
-     32     Younes Kodiji         vs  (6) Stefan Leustian      Fri @ 12:00
-     32     Grzegorz Rudnicki     vs      Caleb Wilkins        Fri @ 13:00
-     32     Alejandro Vedri-Cas…  vs  (2) Ryder Jackson        Fri @ 14:00
+     32 (4) Liam Krall           def.     Paul Barretto        62 67(3) 64
+     32     Jeffrey Fradkin      def.     Eleftherios Neos     63 60
+     32 (7) Julian Steinhausen   def.     Argote Mariano       63 60
+     32     David Norfeldt       def.     Adam Large           60 60
+     32     Josh Williams        def.     Sebastian Herrera    61 61
+     32     Will Davies          def. (8) Caleb Chakravarthi   61 57 76(5)
+     32     Yassine Smiej        def.     Loic Van Zeggelaar   75 64
+     32     Issa Yoshida         def. (3) Eric Hahn            61 46 63
+     32     Leo Hibi             def.     John Zisette         64 67(4) 62
+     32 (6) Stefan Leustian      def.     Younes Kodiji        62 61
+     32     Caleb Wilkins        def.     Grzegorz Rudnicki    57 63 62
+     32 (2) Ryder Jackson        def.     Alejandro Vedri-Cas… 63 63
+ > Round 1 Extra Matches
+  > Main
+     16     Ethan Smith          def.     Josh Blinder         57 63 [8]
+     16     Adrian Daoust        def.     Tommy Hays           64 76(6)
+     16     James Caddies        def.     Wyatt Anderson       63 62
+     16     Jan Simon            def.     Mac Caldwell         64 62
+     16     Danny Marsh          def.     Carlos Solorzano     76(5) 31 Ret.
+     16     Sofian Tayebi        def.     Julien Sanseverino   61 76(3)
+     16     Eric Hahn            def.     Diego Castillo       61 62
  > Qualifying Draw
   > Main
      32     Blaine Hovenier      def.     Kameron DeHart       62 60
@@ -1086,42 +1111,122 @@
 
 <a name="21-84042"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Gonzaga Invitational
   Dates: Oct 29-31, 2021
   Host: Gonzaga University (M)
-═════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Blue
   > East
-     16  Julien Penzlin      def.  Jan Lucca Marquardt  64 62
-     16  Lawrence Sciglitano  vs   Oliver Andersson     Fri @ 12:30
-     16  Gustav Thielgaard   def.  Manuel Balce         46 61 61
-     16  Bruno Casino         vs   Arthus de la Basset… Fri @ 13:00
-     16  Kyryll Kryvchun     def.  Nikolas Tvedt        75 64
-     16  Nejc Sitar           vs   Tom Hann             Fri @ 11:00
-     16  Francisco Bascon    def.  Joaquin Espinoza     60 62
-     16  Sam De Vries         vs   Matthew Hollingworth Fri @ 12:30
+      F  Oliver Andersson      vs   Tom Hann             Sun @ 11:00
+     SF  Oliver Andersson     def.  Gustav Thielgaard    61 61
+     SF  Tom Hann             def.  Matthew Hollingworth Walkover
+     QF  Oliver Andersson     def.  Julien Penzlin       63 61
+     QF  Gustav Thielgaard    def.  Arthus de la Basset… 60 63
+     QF  Tom Hann             def.  Kyryll Kryvchun      64 64
+     QF  Matthew Hollingworth def.  Francisco Bascon     62 36 60
+     16  Julien Penzlin       def.  Jan Lucca Marquardt  64 62
+     16  Oliver Andersson     def.  Lawrence Sciglitano  76(7) 75
+     16  Gustav Thielgaard    def.  Manuel Balce         46 61 61
+     16  Arthus de la Basset… def.  Bruno Casino         76(7) 75
+     16  Kyryll Kryvchun      def.  Nikolas Tvedt        75 64
+     16  Tom Hann             def.  Nejc Sitar           63 57 75
+     16  Francisco Bascon     def.  Joaquin Espinoza     60 62
+     16  Matthew Hollingworth def.  Sam De Vries         62 76(2)
+  > West
+     SF  Bruno Casino         def.  Jan Lucca Marquardt  36 61 [1]
+     SF  Nikolas Tvedt         vs   Joaquin Espinoza     Sat @ 15:30
+     QF  Jan Lucca Marquardt  def.  Lawrence Sciglitano  46 63 76(6)
+     QF  Bruno Casino         def.  Manuel Balce         62 62
+     QF  Nikolas Tvedt        def.  Nejc Sitar           76(5) 64
+     QF  Joaquin Espinoza     def.  Sam De Vries         26 76(5) [8]
  > White
   > East
-     16  Leon Roider          vs   Guillermo Martin     Fri @ 12:30
-     16  Mario Duron         def.  Caden Moortgat       67(6) 63 62
-     16  Oscar Brown         def.  Jeremy Mueller       62 36 63
-     16  Matteo Masala       def.  Manuel Monteiro      62 64
-     16  Ryo Minakata        def.  Milo Benn            62 62
-     16  Tommy Hsu           def.  Steven Paz           75 64
-     16  Moritz Stoeger      def.  Erik Sarlvik         61 63
-     16  Nils Plutat          vs   Pablo Gomez Galvan   Fri @ 12:30
+      F  Leon Roider           vs   Pablo Gomez Galvan   Sun @ 11:00
+     SF  Leon Roider          def.  Matteo Masala        60 76(4)
+     SF  Pablo Gomez Galvan   def.  Ryo Minakata         63 75
+     QF  Leon Roider          def.  Mario Duron          63 62
+     QF  Matteo Masala        def.  Oscar Brown          36 64 63
+     QF  Ryo Minakata         def.  Tommy Hsu            62 75
+     QF  Pablo Gomez Galvan   def.  Moritz Stoeger       61 30 Ret.
+     16  Leon Roider          def.  Guillermo Martin     62 63
+     16  Mario Duron          def.  Caden Moortgat       67(6) 63 62
+     16  Oscar Brown          def.  Jeremy Mueller       62 36 63
+     16  Matteo Masala        def.  Manuel Monteiro      62 64
+     16  Ryo Minakata         def.  Milo Benn            62 62
+     16  Tommy Hsu            def.  Steven Paz           75 64
+     16  Moritz Stoeger       def.  Erik Sarlvik         61 63
+     16  Pablo Gomez Galvan   def.  Nils Plutat          75 61
+  > West
+      F  Caden Moortgat        vs   Erik Sarlvik         Sun @ 11:00
+     SF  Caden Moortgat       def.  Manuel Monteiro      60 75
+     SF  Erik Sarlvik         def.  Milo Benn            16 76(5) [11]
+     QF  Caden Moortgat       def.  Guillermo Martin     64 62
+     QF  Manuel Monteiro      def.  Jeremy Mueller       26 64 [7]
+     QF  Milo Benn            def.  Steven Paz           63 61
+     QF  Erik Sarlvik         def.  Nils Plutat          67(5) 64 [6]
  > Red
   > East
-     16  Jesse Haas          def.  Andrew Vu            62 61
-     16  Marcos Zelver       def.  Erik Grimes          60 62
-     16  Jacob Huppin        def.  Sam Baldwin          Walkover
-     16  Alejandro Salvador  def.  Brady Thomas         63 62
-     16  Will Jesser          vs   Josh Watkins         Fri @ 11:00
-     16  Vivek Ramesh        def.  Bruno Ortega         61 63
-     16  Oliver Fernandez    def.  Alex Asenov          64 62
-     16  Drew Dillon          vs   Pontus Hallgren      Fri @ 12:30
+     QF  Jesse Haas           def.  Marcos Zelver        75 46 64
+     QF  Alejandro Salvador   def.  Jacob Huppin         61 63
+     QF  Vivek Ramesh         def.  Will Jesser          64 75
+     QF  Pontus Hallgren      def.  Oliver Fernandez     76(2) 62
+     16  Jesse Haas           def.  Andrew Vu            62 61
+     16  Marcos Zelver        def.  Erik Grimes          60 62
+     16  Jacob Huppin         def.  Sam Baldwin          Walkover
+     16  Alejandro Salvador   def.  Brady Thomas         63 62
+     16  Will Jesser          def.  Josh Watkins         62 63
+     16  Vivek Ramesh         def.  Bruno Ortega         61 63
+     16  Oliver Fernandez     def.  Alex Asenov          64 62
+     16  Pontus Hallgren      def.  Drew Dillon          63 62
+  > West
+     SF  Brady Thomas         def.  Erik Grimes          61 75
+     SF  Josh Watkins          vs   Alex Asenov          Sat @ 16:30
+     QF  Erik Grimes          def.  Andrew Vu            64 60
+     QF  Brady Thomas         def.  Sam Baldwin          Walkover
+     QF  Josh Watkins         def.  Bruno Ortega         76(5) 46 [8]
+     QF  Alex Asenov          def.  Drew Dillon          Walkover
+~~~
+
+<a name="21-17543"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Saint Leo Hidden Duals - Men
+  Dates: Oct 29-31, 2021
+  Host: Saint Leo University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Friday
+  > Main
+     32  Bruno Faletto        def.  Denis Golubev        64 62
+     32  Nicolas Bacella      def.  Mikkel Baumann       61 60
+     32  Vincent Thiel        def.  Mortiz Stenzer       62 62
+     32  Luis Iriarte         def.  Phillip McMurray     61 60
+     32  Willem van den Akker def.  David Polo           60 61
+     32  Hikaru Nagoshi       def.  Jose Moreno          62 61
+     32  Nikita Tatyanin      def.  Valentin Hertweck    64 64
+     32  Oscar Del Granado    def.  Eric Nordblom        61 62
+     32  Philipp Lemken       def.  Elliott Altman       60 60
+     32  Diego Amilibia       def.  Chris Fok Kow        36 75 [10]
+     32  Oscar Sohl           def.  Max Berner           63 61
+     32  Jacopo Denitto       def.  Matteo Feggi         64 75
+     32  Brian Pham           def.  Gabriel Korylco Bow… 46 61 [8]
+ > Saturday
+  > Main
+     32  Bruno Faletto        def.  Nikita Tatyanin      67(10) 63 60
+     32  Nicolas Bacella      def.  Oscar Del Granado    75 61
+     32  Philipp Lemken       def.  Vincent Thiel        76(1) 46 62
+     32  Luis Iriarte         def.  Cedric Holzmann      61 63
+     32  Willem van den Akker def.  Diego Amilibia       64 63
+     32  Jose Moreno          def.  Brian Pham           63 76(6)
+     32  Denis Golubev        def.  Valentin Hertweck    75 76(5)
+     32  Mikkel Baumann       def.  Chris Fok Kow        61 64
+     32  Matteo Feggi         def.  Phillip McMurray     64 63
+     32  Eric Nordblom        def.  David Polo           64 60
+     32  Jacopo Denitto       def.  Elliott Altman       64 76(4)
+     32  Oscar Sohl           def.  Gabriel Korylco Bow… 63 60
+     32  Max Berner           def.  Hikaru Nagoshi       64 75
 ~~~
 
 Return to the [Top](./men_singles_2143.md) &#124; [Home Page](../../index.md)

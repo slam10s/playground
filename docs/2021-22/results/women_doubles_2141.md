@@ -13,14 +13,15 @@
 - 10/16/2021 - [2021 Midwest Conference Women's Tennis Individual Tournament](#21-17879) ([Results](#21-17879) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">Draws</a>)  
 - 10/15/2021 - [American Rivers Conference Women's Individual Tournament](#21-35590) ([Results](#21-35590) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
+- 10/16/2021 - [Royal Rumble 2](#21-20820) ([Results](#21-20820) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Draws</a>)  
 
 <a name="21-27941"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
   C.L Varner Invitational
   Dates: Oct 8-12, 2021
   Host: Rollins College (M)
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Women Doubles A
   > East
@@ -52,11 +53,11 @@
 
 <a name="21-58015"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Brown Classic
   Dates: Oct 16-17, 2021
   Host: Brown University (W)
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Round A
   > Main
@@ -97,11 +98,11 @@
 
 <a name="21-74915"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   ITA Division I Women's Mountain Regional Championship
   Dates: Oct 14-17, 2021
   Host: Univ. Of Nevada, Las Vegas (W)
-═══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
@@ -229,11 +230,11 @@
 
 <a name="21-46458"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Southeast Regional Championship
   Dates: Oct 14-27, 2021
   Host: University Of Central Florida (W)
-════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main Draw 1
   > Main
@@ -288,11 +289,11 @@
 
 <a name="21-32447"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Southern Regional Championship
   Dates: Oct 14-19, 2021
   Host: University Of Alabama (W)
-═════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Main
   > Main
@@ -364,11 +365,11 @@
 
 <a name="21-76092"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Texas Regional Championship
   Dates: Oct 14-18, 2021
   Host: Texas Christian University (W)
-═════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw
   > Main
@@ -420,11 +421,11 @@
 
 <a name="21-82907"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Martha Thorn Invitational
   Dates: Oct 15-17, 2021
   Host: West Virginia University (W)
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > WVU v JMU
   > Main
@@ -460,11 +461,11 @@
 
 <a name="21-40542"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Viking Invitational
   Dates: Oct 15-17, 2021
   Host: Cleveland State University (W)
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Friday Doubles 1
   > Main
@@ -502,11 +503,11 @@
 
 <a name="21-17879"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
   2021 Midwest Conference Women's Tennis Individual Tournament
   Dates: Oct 16-17, 2021
   Host: Cornell College (W)
-═══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > #1 Doubles
   > Main
@@ -545,11 +546,11 @@
 
 <a name="21-35590"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   American Rivers Conference Women's Individual Tournament
   Dates: Oct 15-16, 2021
   Host: ITA
-═══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight A
   > Main
@@ -708,18 +709,57 @@
       F (1) Martins/Anzalotta    def. (2) McKenzie/Cherfus     62 26 64
      SF (1) Martins/Anzalotta    def.     Carvalho-Landell/Ga… 62 61
      SF (2) McKenzie/Cherfus     def. (3) Wild/Apisah          63 76
-     QF (1) Martins/Anzalotta    def.     Vossen/Prokter       60 60
+     QF (1) Martins/Anzalotta    def.     Vossen/Proktor       60 60
      QF     Carvalho-Landell/Ga… def. (4) Hernandez/Zungu      26 64 [8]
      QF (3) Wild/Apisah          def.     Beukes/Chen          62 63
      QF (2) McKenzie/Cherfus     def.     Warham/De Mata       62 62
   > West
       F (4) Hernandez/Zungu      def.     Beukes/Chen          62 60
-     SF (4) Hernandez/Zungu      def.     Vossen/Prokter       61 60
+     SF (4) Hernandez/Zungu      def.     Vossen/Proktor       61 60
      SF     Beukes/Chen          def.     Warham/De Mata       76(5) 62
   > 3-4 Playoff
       F (3) Wild/Apisah          def.     Carvalho-Landell/Ga… 76(4) 63
   > South
-      F     Warham/De Mata       def.     Vossen/Prokter       61 62
+      F     Warham/De Mata       def.     Vossen/Proktor       61 62
+~~~
+
+<a name="21-20820"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Royal Rumble 2
+  Dates: Oct 16-17, 2021
+  Host: Queens Univ. Of Charlotte (M)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Purple
+  > Main
+     R5  Kadyk/Guidantoni     def.  Hidalgo/Sheldrick    60
+     R5  Guidantoni/Ruetten   def.  Sinclaire/Kilbourne  61
+     R1  Kadyk/Guidantoni     def.  Bertran De Balanda/… 62
+ > Green
+  > Main
+     R5  Kosmrlj/Lopez        def.  Macias/Agarwal       61
+     R5  Wilson/Dennett       def.  Gagnon/Sinclaire     60
+     R3  Wilson/De Sousa      def.  Macias/Agarwal       60
+     R3  Sinclaire/Kilbourne  def.  Hidalgo/Sheldrick    63
+     R2  Wilson/De Sousa      def.  Kosmrlj/Lopez        62
+     R2  Gunfaus/Kosmrlj      def.  Hidalgo/Sheldrick    61
+ > Red
+  > Main
+     R7  Gunfaus/Ruetten      def.  Allard/Vollmin       61
+     R6  Berggren/Sambyakuga… def.  Bertran De Balanda/… 64
+     R5  Macias/Agarwal       def.  Vollmin/Gagnon       76(3)
+     R3  Gunfaus/Ruetten      def.  Leeman/Lacey         64
+     R2  Bertran De Balanda/… def.  Leeman/Lacey         76(4)
+     R1  Leeman/Lacey         def.  Allard/Khramtsova    61
+ > Blue
+  > Main
+     R5  Sanchez Quesada/Pie… def.  Binzari/Krieg        75
+     R4  Veselinova/Axelsson  def.  Binzari/Krieg        61
+     R3  Sanchez Quesada/Pie… def.  Veselinova/Axelsson  63
+     R2  Sambyakugari/Ciaccia def.  Sanchez Quesada/Pie… 64
+     R1  Veselinova/Axelsson  def.  Ciaccia/Lopez        64
+     R1  Sambyakugari/Ciaccia def.  Binzari/Krieg        63
 ~~~
 
 Return to the [Top](./women_doubles_2141.md) &#124; [Home Page](../../index.md)

@@ -13,14 +13,15 @@
 - 10/16/2021 - [2021 Midwest Conference Women's Tennis Individual Tournament](#21-17879) ([Results](#21-17879) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">Draws</a>)  
 - 10/15/2021 - [American Rivers Conference Women's Individual Tournament](#21-35590) ([Results](#21-35590) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
+- 10/16/2021 - [Royal Rumble 2](#21-20820) ([Results](#21-20820) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Draws</a>)  
 
 <a name="21-27941"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   C.L Varner Invitational
   Dates: Oct 8-12, 2021
   Host: Rollins College (M)
-═════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Women Singles A
   > East
@@ -526,11 +527,11 @@
 
 <a name="21-32447"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Southern Regional Championship
   Dates: Oct 14-19, 2021
   Host: University Of Alabama (W)
-═══════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Main
   > Main
@@ -725,11 +726,11 @@
 
 <a name="21-76092"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Texas Regional Championship
   Dates: Oct 14-18, 2021
   Host: Texas Christian University (W)
-════════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Women's Singles Q
   > Main
@@ -879,11 +880,11 @@
 
 <a name="21-82907"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   Martha Thorn Invitational
   Dates: Oct 15-17, 2021
   Host: West Virginia University (W)
-═════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > WVU v Louisville
   > Main
@@ -944,11 +945,11 @@
 
 <a name="21-40542"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   Viking Invitational
   Dates: Oct 15-17, 2021
   Host: Cleveland State University (W)
-═════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Friday Singles
   > Main
@@ -996,11 +997,11 @@
 
 <a name="21-17879"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   2021 Midwest Conference Women's Tennis Individual Tournament
   Dates: Oct 16-17, 2021
   Host: Cornell College (W)
-═════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > #1 Singles
   > Main
@@ -1072,11 +1073,11 @@
 
 <a name="21-35590"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   American Rivers Conference Women's Individual Tournament
   Dates: Oct 15-16, 2021
   Host: ITA
-══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Flight A
   > Main
@@ -1330,6 +1331,72 @@
       F (2) Destinee Martins     def. (4) Naomi McKenzie       61 61
   > South
       F     Jou Chen Chen        def.     Bailey Greenwell     61 62
+~~~
+
+<a name="21-20820"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Royal Rumble 2
+  Dates: Oct 16-17, 2021
+  Host: Queens Univ. Of Charlotte (M)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Blue
+  > Main
+     R5  Jill Morse           def.  Camilla Ciaccia      60 26 [8]
+     R5  Elena Gunfaus        def.  Jessica Binzari      62 64
+     R4  Jessica Binzari      def.  Viktorija Veselinova 46 61 [8]
+     R4  Camilla Ciaccia      def.  Jess Leeman          61 61
+     R2  Jess Leeman          def.  Jill Morse           63 63
+     R1  Jessica Binzari      def.  Jess Leeman          62 63
+ > Purple
+  > Main
+     R5  Alexa Wilson         def.  Alex Lopez           64 62
+     R4  Alexa Wilson         def.  Tamara Macias        62 63
+     R4  Amelie Allard        def.  Khushi Agarwal       62 61
+     R2  Saga Berggren        def.  Tamara Macias        63 63
+     R1  Alexa Wilson         def.  Elizabeth Vollmin    63 61
+ > Red
+  > Main
+     R6  Claudia Sanchez Que… def.  Viktorija Veselinova 76(5) 61
+     R4  Chole Kosmrlj        def.  Viktorija Veselinova 46 63 [7]
+     R4  Flaminia Guidantoni  def.  Amelie Allard        62 63
+     R3  Marie Bertran De Ba… def.  Tamara Macias        62 62
+     R2  Claudia Sanchez Que… def.  Amelie Allard        62 60
+     R1  Claudia Sanchez Que… def.  Elena Gunfaus        75 60
+ > Green
+  > Main
+     R7  Lucianna Piedra      def.  Ekaterina Khramtsova 61 61
+     R5  Lucianna Piedra      def.  Grace Sheldrick      61 63
+     R4  Alex Lopez           def.  Hanna Axelsson       64 36 [8]
+     R4  Lucianna Piedra      def.  Chole Kosmrlj        46 76(2) [6]
+     R3  Ekaterina Khramtsova def.  Suzuka Sambyakugari  63 16 [7]
+ > Teal
+  > Main
+     R3  Jadyn Kadyk          def.  Victoria Kilbourne   60 60
+     R1  Jadyn Kadyk          def.  Emma Hidalgo         62 62
+ > Pink
+  > Main
+     R5  Suzuka Sambyakugari  def.  Valentina De Sousa   61 46 [5]
+     R3  Valentina De Sousa   def.  Kalpaka Pradip       60 61
+     R2  Suzuka Sambyakugari  def.  Emma Hidalgo         75 63
+     R2  Valentina De Sousa   def.  Victoria Kilbourne   61 60
+ > Yellow
+  > Main
+     R7  Madison Dennett      def.  Kelsey Sinclaire     62 62
+     R7  Jessica Ruetten      def.  Khushi Agarwal       36 75 [7]
+     R6  Madison Dennett      def.  Jessica Ruetten      63 57 [6]
+     R5  Khushi Agarwal       def.  Madison Dennett      75 63
+     R2  Marie Bertran De Ba… def.  Flaminia Guidantoni  63 62
+     R1  Grace Sheldrick      def.  Jessica Ruetten      36 61 [9]
+ > Orange
+  > Main
+     R7  Beth Lacey           def.  Emma Hidalgo         61 60
+     R5  Beth Lacey           def.  Angelina Krieg       61 61
+     R3  Saga Berggren        def.  Elizabeth Vollmin    64 76(3)
+     R3  Angelina Krieg       def.  Walker Gagnon        61 62
+     R2  Jadyn Kadyk          def.  Angelina Krieg       61 62
+     R2  Flaminia Guidantoni  def.  Beth Lacey           75 61
 ~~~
 
 Return to the [Top](./women_singles_2141.md) &#124; [Home Page](../../index.md)
