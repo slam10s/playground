@@ -336,38 +336,6 @@
   Host: Old Dominion University (M)
 ══════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
- > Virginia
-  > Main
-     R3     Rayane Stable        def.     Malik Bhatnagar      76(3) 75
-     R3     Christiaan Worst     def.     Dimosthenis Taramon… 62 62
-     R2     Christiaan Worst     def.     Rayane Stable        57 62 [7]
-     R2     Dimosthenis Taramon… def.     Malik Bhatnagar      61 67(2) [6]
-     R1     Malik Bhatnagar      def.     Christiaan Worst     64 64
-     R1     Dimosthenis Taramon… def.     Rayane Stable        63 62
- > Pennsylvania
-  > Main
-     R3     Joseph Brailovsky    def.     William Karpinski    Walkover
-     R3     Matisse Bobichon     def.     Codie Van Schalkwyk  63 62
-     R2     Matisse Bobichon     def.     William Karpinski    67(4) 64 [7]
-     R2     Joseph Brailovsky    def.     Codie Van Schalkwyk  63 36 [5]
-     R1     Matisse Bobichon     def.     Joseph Brailovsky    26 64 [7]
-     R1     Codie Van Schalkwyk  def.     William Karpinski    36 62 [8]
- > Maryland
-  > Main
-     R3     Scott Sculley        def.     Chen Ruo             76(2) 63
-     R3     Louis Gorregues      def.     Joaquim Almeida      61 64
-     R2     Joaquim Almeida      def.     Scott Sculley        76(4) 46 [3]
-     R2     Louis Gorregues      def.     Chen Ruo             76(2) 61
-     R1     Joaquim Almeida      def.     Chen Ruo             64 63
-     R1     Louis Gorregues      def.     Scott Sculley        64 64
- > Delaware
-  > Main
-     R3     Oliver Nolan         def.     Thibault Frumholz    Walkover
-     R3     Harrison Brown       def.     James Wilkinson      62 64
-     R2     Harrison Brown       def.     Oliver Nolan         63 61
-     R2     James Wilkinson      def.     Thibault Frumholz    67 61 [8]
-     R1     Harrison Brown       def.     Thibault Frumholz    75 62
-     R1     James Wilkinson      def.     Oliver Nolan         75 75
  > Main draw
   > Main
       F     Francois Le Tallec   def. (2) Inaki Montes de la … 30 Ret.
@@ -401,6 +369,38 @@
      32     Inigo Torre Martin   def.     Alexander Kiefer     36 64 64
      32     Chikaya Sato         def.     Yevhen Sirous        76(6) 36 64
      32 (2) Inaki Montes de la … def.     Ryan Fishback        62 64
+ > Virginia
+  > Main
+     R3     Rayane Stable        def.     Malik Bhatnagar      76(3) 75
+     R3     Christiaan Worst     def.     Dimosthenis Taramon… 62 62
+     R2     Christiaan Worst     def.     Rayane Stable        57 62 [7]
+     R2     Dimosthenis Taramon… def.     Malik Bhatnagar      61 67(2) [6]
+     R1     Malik Bhatnagar      def.     Christiaan Worst     64 64
+     R1     Dimosthenis Taramon… def.     Rayane Stable        63 62
+ > Pennsylvania
+  > Main
+     R3     Joseph Brailovsky    def.     William Karpinski    Walkover
+     R3     Matisse Bobichon     def.     Codie Van Schalkwyk  63 62
+     R2     Matisse Bobichon     def.     William Karpinski    67(4) 64 [7]
+     R2     Joseph Brailovsky    def.     Codie Van Schalkwyk  63 36 [5]
+     R1     Matisse Bobichon     def.     Joseph Brailovsky    26 64 [7]
+     R1     Codie Van Schalkwyk  def.     William Karpinski    36 62 [8]
+ > Maryland
+  > Main
+     R3     Scott Sculley        def.     Chen Ruo             76(2) 63
+     R3     Louis Gorregues      def.     Joaquim Almeida      61 64
+     R2     Joaquim Almeida      def.     Scott Sculley        76(4) 46 [3]
+     R2     Louis Gorregues      def.     Chen Ruo             76(2) 61
+     R1     Joaquim Almeida      def.     Chen Ruo             64 63
+     R1     Louis Gorregues      def.     Scott Sculley        64 64
+ > Delaware
+  > Main
+     R3     Oliver Nolan         def.     Thibault Frumholz    Walkover
+     R3     Harrison Brown       def.     James Wilkinson      62 64
+     R2     Harrison Brown       def.     Oliver Nolan         63 61
+     R2     James Wilkinson      def.     Thibault Frumholz    67 61 [8]
+     R1     Harrison Brown       def.     Thibault Frumholz    75 62
+     R1     James Wilkinson      def.     Oliver Nolan         75 75
  > Consolation
   > Main
      QF     Nicola Vidal         def.     Michael Shepheard    62 06 [6]
@@ -796,18 +796,6 @@
   Host: Michigan State University (M)
 ══════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
- > MSU Men's FMC
-  > Main
-       32      Marino Jakic         def.      Jonny Yaffe          64 76(4)
-       32      Nathan Favier        def.      Javier Sanchez Prad… 61 64
-       32      Brogan Pierce        def.      Erik Gran            61 75
-       32      JuandeDios Abboud    def.      Zane Kohrs           76 64
-       32      Lars Minsaas         def.      Cole Shoults         62 63
-       32      Kazuki Matsuno       def.      Maximiliano Sandova… 62 63
-       32      Marko Galic          def.      Jakub Zamorski       63 64
-       32      Vlad Meluta          def.      Austin Staiger       61 63
-       32      Adam Kovac           def.      Ferdinand Schlueter  46 63 [6]
-       32      Hugo Chatras         def.      Diego Herrera        64 62
  > Main Draw
   > Main
         F  (3) James Trotter        def.  (7) Jj Tracy             63 64
@@ -884,6 +872,18 @@
        32      Graydon Lair         def.      Alex Zederbauer      46 64 [5]
        32      Jacob Bickersteth    def.      Lucas Horve          62 64
        32      Alex Petrov          def.      Patorn Hanchaikul    61 62
+ > MSU Men's FMC
+  > Main
+       32      Marino Jakic         def.      Jonny Yaffe          64 76(4)
+       32      Nathan Favier        def.      Javier Sanchez Prad… 61 64
+       32      Brogan Pierce        def.      Erik Gran            61 75
+       32      JuandeDios Abboud    def.      Zane Kohrs           76 64
+       32      Lars Minsaas         def.      Cole Shoults         62 63
+       32      Kazuki Matsuno       def.      Maximiliano Sandova… 62 63
+       32      Marko Galic          def.      Jakub Zamorski       63 64
+       32      Vlad Meluta          def.      Austin Staiger       61 63
+       32      Adam Kovac           def.      Ferdinand Schlueter  46 63 [6]
+       32      Hugo Chatras         def.      Diego Herrera        64 62
  > Arranged Matches
   > Main
         F      Nick Beaty           def.      Lenard Soha          76(4) 64

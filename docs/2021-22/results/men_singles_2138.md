@@ -2509,6 +2509,36 @@
      64  Talman Ramsey       def.  Wil Dotson           64 61
      64  Tshepo Mosarwa      def.  Mark Motlow          76(6) 60
      64  Antonio Mora        def.  Kelsey Smilye        60 60
+ > Main Draw Consolation
+  > Main
+     QF  Sujay Sharma        def.  Ryan Stafford        64 61
+     QF  Santiago Suarez     def.  Tanner Debardelaben  63 63
+     QF  Noah Koch           def.  Eli Ingleson         75 61
+     QF  Daniel Cohen        def.  David Phillips       60 63
+     16  Sujay Sharma        def.  Faraz Ghamgosar      36 64 64
+     16  Ryan Stafford       def.  Ashton Whitt         63 63
+     16  Santiago Suarez     def.  Zoe Raymond          64 63
+     16  Tanner Debardelaben def.  Alberto Nunez        60 61
+     16  Noah Koch           def.  Henry Murray         64 46 63
+     16  Eli Ingleson        def.  Bohdan Zhylchuk      63 46 76(5)
+     16  David Phillips      def.  Vincent Claussen     63 60
+     16  Daniel Cohen        def.  Kelsey Smilye        62 62
+     32  Sujay Sharma        def.  Brady St Martin      63 61
+     32  Faraz Ghamgosar     def.  Gabriel Williams     16 62 63
+     32  Ryan Stafford       def.  John Kimball         63 63
+     32  Ashton Whitt        def.  Ameya Dani           67(3) 53 Ret.
+     32  Santiago Suarez     def.  Houston Medlock      62 61
+     32  Zoe Raymond         def.  Ethan Gibson         61 60
+     32  Tanner Debardelaben def.  Berto LeRoux         61 61
+     32  Alberto Nunez       def.  Emerson Dean         75 60
+     32  Henry Murray        def.  Gleb Ibragimov       Walkover
+     32  Noah Koch           def.  Gill Dunn            62 76(5)
+     32  Bohdan Zhylchuk     def.  Pushkar Shinde       64 76(8)
+     32  Eli Ingleson        def.  Ej Stolmeijer        63 61
+     32  Vincent Claussen    def.  Hamilton Jackson     64 60
+     32  David Phillips      def.  Diego Lopez Barahona 36 35 Ret.
+     32  Daniel Cohen        def.  Wil Dotson           76(3) 46 60
+     32  Kelsey Smilye       def.  Mark Motlow          Walkover
  > B1
   > Main
       F  Liam Baer           def.  Hugh Graham          Walkover
@@ -2593,36 +2623,6 @@
      16  Connor Murphy       def.  Luke Mitchell        61 75
      16  Matthew Ridden      def.  Jacob Lehmann        64 60
      16  David Netherton     def.  Cainan Black         63 75
- > Main Draw Consolation
-  > Main
-     QF  Sujay Sharma        def.  Ryan Stafford        64 61
-     QF  Santiago Suarez     def.  Tanner Debardelaben  63 63
-     QF  Noah Koch           def.  Eli Ingleson         75 61
-     QF  Daniel Cohen        def.  David Phillips       60 63
-     16  Sujay Sharma        def.  Faraz Ghamgosar      36 64 64
-     16  Ryan Stafford       def.  Ashton Whitt         63 63
-     16  Santiago Suarez     def.  Zoe Raymond          64 63
-     16  Tanner Debardelaben def.  Alberto Nunez        60 61
-     16  Noah Koch           def.  Henry Murray         64 46 63
-     16  Eli Ingleson        def.  Bohdan Zhylchuk      63 46 76(5)
-     16  David Phillips      def.  Vincent Claussen     63 60
-     16  Daniel Cohen        def.  Kelsey Smilye        62 62
-     32  Sujay Sharma        def.  Brady St Martin      63 61
-     32  Faraz Ghamgosar     def.  Gabriel Williams     16 62 63
-     32  Ryan Stafford       def.  John Kimball         63 63
-     32  Ashton Whitt        def.  Ameya Dani           67(3) 53 Ret.
-     32  Santiago Suarez     def.  Houston Medlock      62 61
-     32  Zoe Raymond         def.  Ethan Gibson         61 60
-     32  Tanner Debardelaben def.  Berto LeRoux         61 61
-     32  Alberto Nunez       def.  Emerson Dean         75 60
-     32  Henry Murray        def.  Gleb Ibragimov       Walkover
-     32  Noah Koch           def.  Gill Dunn            62 76(5)
-     32  Bohdan Zhylchuk     def.  Pushkar Shinde       64 76(8)
-     32  Eli Ingleson        def.  Ej Stolmeijer        63 61
-     32  Vincent Claussen    def.  Hamilton Jackson     64 60
-     32  David Phillips      def.  Diego Lopez Barahona 36 35 Ret.
-     32  Daniel Cohen        def.  Wil Dotson           76(3) 46 60
-     32  Kelsey Smilye       def.  Mark Motlow          Walkover
  > B1 Consolation
   > Main
       F  Matthew Bulow       def.  Quinn McNamara       76(5) 75

@@ -1200,23 +1200,6 @@
   Host: Pomona Pitzer Colleges (M)
 ════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
- > Back Draw
-  > Main
-      F     Hall/Varade          def.     Sundar/Gonzalgo      84
-     SF     Hall/Varade          def.     Cabacungan/Somervil… 86
-     SF     Sundar/Gonzalgo      def.     Carroll/Li           85
-     QF     Hall/Varade          def.     Will/Staicu          84
-     QF     Cabacungan/Somervil… def.     Chen/Tjoa            87(5)
-     QF     Carroll/Li           def.     Oconnor/Zhang        86
-     QF     Sundar/Gonzalgo      def.     Lilov/Watson         86
-     16     Will/Staicu          def.     Lebby/Carroll        85
-     16     Hall/Varade          def.     Rothermel/Griffin    84
-     16     Cabacungan/Somervil… def.     Igna/Jackson         87(5)
-     16     Chen/Tjoa            def.     Wilkins/Cohen        87(5)
-     16     Oconnor/Zhang        def.     Hays/Sanseverino     Walkover
-     16     Carroll/Li           def.     Blinder/DeHart       Walkover
-     16     Sundar/Gonzalgo      def.     Cinco/Van der Veer   86
-     16     Lilov/Watson         def.     Gundakaram/Srinivas… 85
  > Main Draw
   > Main
       F     Comadena/Kelley      def. (8) Martin/Arimilli      26 63 [9]
@@ -1250,6 +1233,23 @@
      32 (6) Yip/Hester           def.     Sundar/Gonzalgo      87(7)
      32     Steinhauser/Lee      def.     Gundakaram/Srinivas… 82
      32 (2) Freer/Robinson       def.     Lilov/Watson         87(5)
+ > Back Draw
+  > Main
+      F     Hall/Varade          def.     Sundar/Gonzalgo      84
+     SF     Hall/Varade          def.     Cabacungan/Somervil… 86
+     SF     Sundar/Gonzalgo      def.     Carroll/Li           85
+     QF     Hall/Varade          def.     Will/Staicu          84
+     QF     Cabacungan/Somervil… def.     Chen/Tjoa            87(5)
+     QF     Carroll/Li           def.     Oconnor/Zhang        86
+     QF     Sundar/Gonzalgo      def.     Lilov/Watson         86
+     16     Will/Staicu          def.     Lebby/Carroll        85
+     16     Hall/Varade          def.     Rothermel/Griffin    84
+     16     Cabacungan/Somervil… def.     Igna/Jackson         87(5)
+     16     Chen/Tjoa            def.     Wilkins/Cohen        87(5)
+     16     Oconnor/Zhang        def.     Hays/Sanseverino     Walkover
+     16     Carroll/Li           def.     Blinder/DeHart       Walkover
+     16     Sundar/Gonzalgo      def.     Cinco/Van der Veer   86
+     16     Lilov/Watson         def.     Gundakaram/Srinivas… 85
 ~~~
 
 <a name="21-95358"></a>
