@@ -1314,7 +1314,7 @@
  > Singles 2
   > Main
      64  Kaya Gore            def.  Ayato Arakaki        61 36 [3]
-     64  Javier Casasola Mon… def.  Charles Morkel       76(5) 63
+     64  Charles Morkel       def.  Javier Casasola Mon… 76(3) 63
      64  Sam Hodges           def.  Peter Alester Magal… 63 57 [5]
      64  Griffin Schlesinger  def.  Kemal Karagozoglu    46 63 [1]
      64  Shaurya Veer Sood    def.  Stefan Mitrovic      62 46 [6]

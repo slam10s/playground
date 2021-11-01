@@ -9,6 +9,7 @@
 - 9/10/2021 - [Warhawk Invite](#21-43648) ([Results](#21-43648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfLouisianaMonroeW/Tournaments/Overview/54708D1F-C66A-43B0-AD2A-D851EE9A1A35" target="_blank">Draws</a>)  
 - 9/10/2021 - [Women's Drake Invite](#21-32364) ([Results](#21-32364) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/51EAC500-8BA9-4BA4-A244-CED3E726C5FE" target="_blank">Draws</a>)  
 - 9/10/2021 - [Angelo State SlamFest](#21-31047) ([Results](#21-31047) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AngeloStateUniversityW/Tournaments/Overview/AF7EE133-54BC-4F7C-A60D-0E1A114F1191" target="_blank">Draws</a>)  
+- 9/10/2021 - [Limestone Women's Challenger](#21-92220) ([Results](#21-92220) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityW/Tournaments/Overview/CD512B83-10FF-46E4-86C6-2C34954D0D21" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [University of Findlay/Findlay YMCA East Fall Invite](#21-72676) ([Results](#21-72676) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
@@ -16,7 +17,6 @@
 
 **Tournaments without Matches**  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityW/Tournaments/Overview/CD512B83-10FF-46E4-86C6-2C34954D0D21" target="_blank">Limestone Women's Challenger</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Wallach Invitational</a>  
@@ -443,6 +443,31 @@
       F  Gonzalez/Israel-Lew… def.  Wahl/Chisholm        81
   > Playoff 3
       F  Hosking/Vaudiau      def.  Shethia/Le           82
+~~~
+
+<a name="21-92220"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  Limestone Women's Challenger
+  Dates: Sep 10-11, 2021
+  Host: Limestone University (W)
+══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight One Doubles
+  > Main
+     R3  Delsol/Ristic   def.  Kiszner/Khriapko     63
+     R3  Hellberg/Jardim def.  Picinini/Valentini   63
+     R3  Dolfi/Radu      def.  Fyvie/Roslund        63
+     R2  Delsol/Ristic   def.  Acco/Adair           62
+     R2  Hellberg/Jardim def.  Elsborg/Ineson       60
+     R2  Panchal/Aramni  def.  Dolfi/Radu           60
+     R1  Delsol/Ristic   def.  Glogowski-Watson/Kl… 62
+     R1  Acco/Adair      def.  Kiszner/Khriapko     63
+     R1  Elsborg/Ineson  def.  Picinini/Valentini   61
+     R1  Hellberg/Jardim def.  Vendrell/Prinz       60
+     R1  Dolfi/Radu      def.  Aparicio/Benefield   63
+     R1  Panchal/Aramni  def.  Fyvie/Roslund        76(5)
+     R1  Watts/Semmartin def.  Braziel/White        60
 ~~~
 
 <a name="21-79025"></a>

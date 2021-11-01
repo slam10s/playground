@@ -18,6 +18,7 @@
 - 9/16/2021 - [BAC Invitational](#21-94974) ([Results](#21-94974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">Draws</a>)  
 - 9/15/2021 - [Battle of the Blue Ridge, Weekend One](#21-96874) ([Results](#21-96874) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SweetBriarCollegeW/Tournaments/Overview/4FB76F6F-BB1C-4A77-92A3-CC5A5BFD60A4" target="_blank">Draws</a>)  
 - 9/18/2021 - [Big Red Invitational](#21-52871) ([Results](#21-52871) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DenisonUniversityW/Tournaments/Overview/8C55E0CC-605C-4584-8311-FA3093162009" target="_blank">Draws</a>)  
+- 9/17/2021 - [Division II Women's East ITA Regional Championships](#21-70129) ([Results](#21-70129) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
@@ -32,7 +33,6 @@
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Division II Women's East ITA Regional Championships</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">PP/CMS Invite</a>  
 
 <a name="21-14330"></a>
@@ -903,6 +903,54 @@
      R4  Storrer/Henson      def.  Hoog/Patel        87(3)
      R4  Wang/Karnam         def.  Mueller/Walter    85
      R3  Kan/Georgiades      def.  McMahon/Wolf      80
+~~~
+
+<a name="21-70129"></a>
+~~~
+════════════════════════════════════════════════════════════════════
+  Division II Women's East ITA Regional Championships
+  Dates: Sep 17-20, 2021
+  Host: Queens College/NY (M)
+════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F (3) Mor/Geslin           def. (1) Antao/Solorzano Val… 62 62
+     SF (1) Antao/Solorzano Val… def. (5) Kallmunzerova/Hubic… 86
+     SF (3) Mor/Geslin           def. (2) Quagliardi/Federici  84
+     QF (1) Antao/Solorzano Val… def.     Bahamon Lopez/Franc… 98(4)
+     QF (5) Kallmunzerova/Hubic… def. (4) Ulander/Makal        84
+     QF (3) Mor/Geslin           def. (6) Fernandez/Lilligren  80
+     QF (2) Quagliardi/Federici  def. (8) Blas/Gak Anagrova    82
+     16 (1) Antao/Solorzano Val… def.     Azcona/Jimeno        84
+     16     Bahamon Lopez/Franc… def. (7) Ling/Schmidt         86
+     16 (5) Kallmunzerova/Hubic… def.     Shankar/Andric       85
+     16 (4) Ulander/Makal        def.     Nunez/Pepper         97
+     16 (3) Mor/Geslin           def.     Ramos Moreno/Nel     84
+     16 (6) Fernandez/Lilligren  def.     Markaryan/Ormesher   86
+     16 (8) Blas/Gak Anagrova    def.     Etienne/Andrade      82
+     16 (2) Quagliardi/Federici  def.     Rubio-Talayero/Stas… 80
+     32 (1) Antao/Solorzano Val… def.     Palero/Mulder        84
+     32     Azcona/Jimeno        def.     Anwar/Wijnsema       98(2)
+     32     Bahamon Lopez/Franc… def.     Mallavre/De Souza    84
+     32 (7) Ling/Schmidt         def.     Chaves/Kielan        97
+     32 (5) Kallmunzerova/Hubic… def.     Rodriguez/Carreras   84
+     32     Shankar/Andric       def.     Wise/Garcia          84
+     32     Nunez/Pepper         def.     Pavlovets/Villegas … 84
+     32 (4) Ulander/Makal        def.     Le/Mazurek           85
+     32 (3) Mor/Geslin           def.     Baur/Gonzalez        80
+     32     Ramos Moreno/Nel     def.     Hotaki/Koitabashi    80
+     32     Markaryan/Ormesher   def.     DOcchio/Dereban      82
+     32 (6) Fernandez/Lilligren  def.     Shvetsov/Roberge     81
+     32 (8) Blas/Gak Anagrova    def.     Niggemeier/Riedel    84
+     32     Etienne/Andrade      def.     Mbaye/Mukeherjee     82
+     32     Rubio-Talayero/Stas… def.     Chappelle/McCormack  85
+     32 (2) Quagliardi/Federici  def.     Loria/Carra          85
+     64     Palero/Mulder        def.     Sze/Semerly          82
+     64     Rodriguez/Carreras   def.     Swaan/Trifunovic     98(6)
+     64     Le/Mazurek           def.     Espejo/Ndunduma      86
+     64     Baur/Gonzalez        def.     Haag/Vassalluzzo     98(4)
+     64     Loria/Carra          def.     Scime/Del Leon       81
 ~~~
 
 <a name="21-14491"></a>

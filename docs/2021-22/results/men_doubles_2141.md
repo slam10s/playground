@@ -4,11 +4,13 @@
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/11/2021 - [Belmont Fall Invite](#21-28974) ([Results](#21-28974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/7B6195EA-4B1E-4B0F-8B5E-7E14B47D14DB" target="_blank">Draws</a>)  
 - 10/15/2021 - [Bulldog Cup](#21-69055) ([Results](#21-69055) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Draws</a>)  
+- 10/15/2021 - [Commodore Classic](#21-21760) ([Results](#21-21760) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-23395) ([Results](#21-23395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-08423) ([Results](#21-08423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Northeast Regional Championship](#21-34853) ([Results](#21-34853) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-05800) ([Results](#21-05800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Men's Southern Regional Championship](#21-67380) ([Results](#21-67380) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Texas Regional Championship](#21-59010) ([Results](#21-59010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">Draws</a>)  
 - 10/15/2021 - [Louisville Invitational](#21-27355) ([Results](#21-27355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Draws</a>)  
 - 10/15/2021 - [San Diego State Fall Invite](#21-62211) ([Results](#21-62211) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">Draws</a>)  
@@ -17,8 +19,6 @@
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
 - 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Wesleyan Invitational</a>  
 
 <a name="21-27941"></a>
@@ -107,6 +107,33 @@
      16  Richards/Lin         def.  Malinen/Spolidorio  86
      16  Clegg/Sardo          def.  Koschtojan/Vollbach 87(6)
      16  Bolin/Matic          def.  Grueber/Richardson  82
+~~~
+
+<a name="21-21760"></a>
+~~~
+═══════════════════════════════════════════════════════════
+  Commodore Classic
+  Dates: Oct 15-17, 2021
+  Host: Vanderbilt University (M)
+═══════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Matches Day 1
+  > Main
+     16  (8) McDaniel/Martin   def. (51) Ross/Troost       85
+     16 (19) Harwell/Freeman   def.      Dong/Chopra       86
+     16      Ferreira/Klopper  def.      McKinney/Guerrero 84
+ > Matches Day 2
+  > Main
+     16      Kiger/Cernoch     def. (51) Ross/Troost       87
+     16      Kania/Zapp        def. (19) Harwell/Freeman   83
+     16      Ferreira/Klopper  def.      Li/Murphy         82
+     16      Robb-Wilcox/Sisam def.      Watane/Dillon     82
+ > Matches Day 3
+  > Main
+     16 (19) Harwell/Freeman   def.      Bogdanovich/Uribe 81
+     16      Taylor/Stevenson  def. (51) Ross/Troost       86
+     16      Ferreira/Klopper  def.      Fanlo/Alemany     86
+     16      Robb-Wilcox/Sisam def.      Edgar/Rock        84
 ~~~
 
 <a name="21-23395"></a>
@@ -364,6 +391,20 @@
      32     Frank/Worn           def.     Balce/Sarlvik        85
      32     Andersson/Roider     def.     Kiselkov/Stipic      84
      32     Dillon/Thomas        def.     Harrison/Krause      86
+~~~
+
+<a name="21-67380"></a>
+~~~
+═════════════════════════════════════════════════════════
+  ITA Division I Men's Southern Regional Championship
+  Dates: Oct 14-19, 2021
+  Host: Auburn University (M)
+═════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Consolation
+  > Main
+     SF  Rodriguez/Andre    def.  Tortora/Richey       86
+     SF  Petrovic/Hoeijmans def.  Jeanne-Grandinot/Jo… 84
 ~~~
 
 <a name="21-59010"></a>

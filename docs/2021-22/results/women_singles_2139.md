@@ -21,6 +21,7 @@
 - 10/1/2021 - [ITA Division I Women's Northeasts Regional Championship](#21-17427) ([Results](#21-17427) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">Draws</a>)  
 - 9/29/2021 - [Kitty Harrison invitational](#21-98114) ([Results](#21-98114) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
+- 10/1/2021 - [Ragin' Cajun Classic](#21-46636) ([Results](#21-46636) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Draws</a>)  
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [UH Fall Invitational](#21-25235) ([Results](#21-25235) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHoustonW/Tournaments/Overview/81CEAFCF-07E3-42B0-BDDF-CB7D5F8E881B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Utah Invite](#21-47623) ([Results](#21-47623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahW/Tournaments/Overview/7AF1E32C-8707-429F-A3C2-89B494D4EF50" target="_blank">Draws</a>)  
@@ -39,7 +40,6 @@
 
 **Tournaments without Matches**  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/19C5EAFF-4E4C-4DBD-83F9-4FE76D915740" target="_blank">ITA Division I Women's Northeast Regional Championship</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Ragin' Cajun Classic</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1048F1D3-F372-4A0C-9A4A-3F0D57040FE9" target="_blank">Rocket Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
@@ -2515,6 +2515,39 @@
      R1     Svetlana Teterina    def.     Melody Cantrell      62 60
      R1     Sofia Gonzalez       def.     Tania Herrera        62 63
      R1     Alexandra Ferreira … def.     Balsen Kaya          76(4) 63
+~~~
+
+<a name="21-46636"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Ragin' Cajun Classic
+  Dates: Oct 1-2, 2021
+  Host: University Of Louisiana (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > UL vs McNeese
+  > Main
+     QF  Tanisha Kashyap      def.  Matilde Mulatero     62 61
+     QF  Carla Urchoeguia     def.  Natalia Mora Ballo   75 60
+     QF  Nikol Dobrilova      def.  Yukina Abe           63 62
+     QF  Momoko Yoshimura     def.  Ariane Monlleo Sanc… 62 26 [5]
+ > McNeese vs Lamar
+  > Main
+     16  Elena Rodriguez      def.  Aina Domingo Bernab… 75 75
+     16  Emmeline Polevoi     def.  Matilde Mulatero     62 60
+     16  Ana Jolic            def.  Natalia Mora Ballo   60 60
+     16  Alba Perez           def.  Yukina Abe           60 61
+     16  Noelia Lorca         def.  Tiana Fox            62 Ret.
+     16  Ariane Monlleo Sanc… def.  Elena Rubio          61 46 [5]
+ > UL vs Lamar
+  > Main
+     16  Tanisha Kashyap      def.  Elena Rodriguez      76(4) 64
+     16  Carla Urchoeguia     def.  Emmeline Polevoi     63 61
+     16  Ana Jolic            def.  Nikol Dobrilova      64 64
+     16  Alba Perez           def.  Lana Brezanin        63 62
+     16  Momoko Yoshimura     def.  Noelia Lorca         76(4) 62
+     16  Elena Rubio          def.  Angel Santiago       67(4) 75 [4]
+     16  Anna Katherine Harv… def.  Jayci Wong           61 60
 ~~~
 
 <a name="21-09694"></a>

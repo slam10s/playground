@@ -20,6 +20,7 @@
 - 9/17/2021 - [Division III Men's Northwest ITA Regional Championships](#21-72414) ([Results](#21-72414) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/293CC684-E897-42E1-A5D8-010605E71990" target="_blank">Draws</a>)  
 - 9/19/2021 - [Firebird Challenge](#21-51274) ([Results](#21-51274) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarthageCollegeM/Tournaments/Overview/0360BE02-00EA-4704-B66F-2ED3ACEF18A1" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
+- 9/18/2021 - [Limestone Men's Challenger](#21-84230) ([Results](#21-84230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityM/Tournaments/Overview/BD22EB5E-C006-486B-9907-D53E0DC6FA01" target="_blank">Draws</a>)  
 - 9/18/2021 - [Middlebury Invitational 2021](#21-64248) ([Results](#21-64248) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/97C4AA58-56BC-46A0-8287-9B7C41BD76A7" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
 - 9/17/2021 - [NAIA Men's & Women’s South ITA Regional Championships](#21-84466) ([Results](#21-84466) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaGwinnettCollegeM/Tournaments/Overview/AB87DC72-EBD1-473D-908A-61D759A5EEAC" target="_blank">Draws</a>)  
@@ -32,7 +33,6 @@
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/D340CAAE-2400-4107-B71A-028FCF6F67DA" target="_blank">Penn Invitational</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
-- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityM/Tournaments/Overview/BD22EB5E-C006-486B-9907-D53E0DC6FA01" target="_blank">Limestone Men's Challenger</a>  
 - 9/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SwarthmoreCollegeM/Tournaments/Overview/EBF37285-C88B-4F3E-B6EA-6C0DE013DBB8" target="_blank">Swat Men's Tennis Invite</a>  
 
 <a name="21-01301"></a>
@@ -106,63 +106,63 @@
  Men's Open Singles
  > Blue
   > Main
-     32  Teodor Giusca        def.  Bojan Jankulovski    36 61 61
-     32  Dan Martin           def.  Ryuhei Azuma         46 76(4) 64
-     32  Juan Martin Jalif    def.  Jorge Plans Gonzalez 46 76(4) 76(5)
-     32  Casper Christensen   def.  Tim Pitts            76(9) 06 40 Ret.
-     32  Yizhou Liu           def.  Ilarion Danilchenko  64 60
-     32  Spencer Whitaker     def.  Franco Aubone        61 61
-     32  Oren Vasser          def.  Maxwell Smith        61 61
-     32  Jackson Ross         def.  Andrew Puscas        76(6) 61
-     32  Trey Stinchcomb      def.  Joshua Raab          67(4) 62 75
-     32  Spencer Gray         def.  Daniel Labrador      64 76(4)
+     32  Teodor Giusca        def.  Bojan Jankulovski   36 61 61
+     32  Ryuhei Azuma         def.  Dan Martin          46 76(4) 64
+     32  Jorge Plans Gonzalez def.  Juan Martin Jalif   46 76(4) 76(5)
+     32  Casper Christensen   def.  Tim Pitts           76(9) 06 40 Ret.
+     32  Yizhou Liu           def.  Ilarion Danilchenko 64 60
+     32  Spencer Whitaker     def.  Franco Aubone       61 61
+     32  Oren Vasser          def.  Maxwell Smith       61 61
+     32  Jackson Ross         def.  Andrew Puscas       76(6) 61
+     32  Trey Stinchcomb      def.  Josh Raab           67(4) 62 75
+     32  Spencer Gray         def.  Daniel Labrador     64 76(4)
  > Red
   > Main
-     16  Tyler Stice          def.  George Harwell       61 62
-     16  Joubert Klopper      def.  Jan Galka            76(2) 61
-     16  Raul Dobai           def.  Marcus Ferreira      36 60 62
-     16  Tad McClean          def.  Michael Ross         63 57 62
-     16  Will Nolan           def.  Maxwell Freeman      61 62
-     16  Jackson Ross         def.  Connor Robb-Wilcox   62 61
-     16  Macsen Sisam         def.  Spencer Gray         26 75 75
+     16  Tyler Stice          def.  George Harwell      61 62
+     16  Joubert Klopper      def.  Jan Galka           76(2) 61
+     16  Raul Dobai           def.  Marcus Ferreira     36 60 62
+     16  Tad McClean          def.  Michael Ross        63 57 62
+     16  Will Nolan           def.  Maxwell Freeman     61 62
+     16  Jackson Ross         def.  Connor Robb-Wilcox  62 61
+     16  Macsen Sisam         def.  Spencer Gray        26 75 75
  > Green
   > Main
-     16  Teodor Giusca        def.  Joubert Klopper      63 76(1)
-     16  George Harwell       def.  Ryuhei Azuma         64 36 64
-     16  Jorge Plans Gonzalez def.  Marcus Ferreira      64 46 76(1)
-     16  Yizhou Liu           def.  Michael Ross         63 36 64
-     16  Spencer Whitaker     def.  Macsen Sisam         63 75
-     16  Tim Pitts            def.  Maxwell Freeman      61 62
-     16  Connor Robb-Wilcox   def.  Trey Stinchcomb      75 75
+     16  Teodor Giusca        def.  Joubert Klopper     63 76(1)
+     16  George Harwell       def.  Ryuhei Azuma        64 36 64
+     16  Jorge Plans Gonzalez def.  Marcus Ferreira     64 46 76(1)
+     16  Yizhou Liu           def.  Michael Ross        63 36 64
+     16  Spencer Whitaker     def.  Macsen Sisam        63 75
+     16  Tim Pitts            def.  Maxwell Freeman     61 62
+     16  Connor Robb-Wilcox   def.  Trey Stinchcomb     75 75
  > Purple
   > Main
-     16  Tyler Stice          def.  Juan Martin Jalif    64 63
-     16  Finlay Murgett       def.  Bojan Jankulovski    64 46 63
-     16  Jan Galka            def.  Dan Martin           64 26 63
-     16  Oren Vasser          def.  Raul Dobai           67(5) 64 63
-     16  Will Nolan           def.  Casper Christensen   60 62
-     16  Tad McClean          def.  Franco Aubone        36 76(3) 61
-     16  Jackson Ross         def.  Daniel Labrador      64 63
-     16  Spencer Gray         def.  Maxwell Smith        46 64 63
+     16  Tyler Stice          def.  Juan Martin Jalif   64 63
+     16  Finlay Murgett       def.  Bojan Jankulovski   64 46 63
+     16  Jan Galka            def.  Dan Martin          64 26 63
+     16  Oren Vasser          def.  Raul Dobai          67(5) 64 63
+     16  Will Nolan           def.  Casper Christensen  60 62
+     16  Tad McClean          def.  Franco Aubone       36 76(3) 61
+     16  Jackson Ross         def.  Daniel Labrador     64 63
+     16  Spencer Gray         def.  Maxwell Smith       46 64 63
  > Orange
   > Main
-     16  George Harwell       def.  Bojan Jankulovski    62 62
-     16  Marcus Ferreira      def.  Juan Martin Jalif    75 75
-     16  Joubert Klopper      def.  Oren Vasser          62 64
-     16  Dan Martin           def.  Michael Ross         76(6) 75
-     16  Franco Aubone        def.  Connor Robb-Wilcox   62 57 64
-     16  Casper Christensen   def.  Maxwell Freeman      16 64 63
-     16  Macsen Sisam         def.  Ilarion Danilchenko  61 63
+     16  George Harwell       def.  Bojan Jankulovski   62 62
+     16  Marcus Ferreira      def.  Juan Martin Jalif   75 75
+     16  Joubert Klopper      def.  Oren Vasser         62 64
+     16  Dan Martin           def.  Michael Ross        76(6) 75
+     16  Franco Aubone        def.  Connor Robb-Wilcox  62 57 64
+     16  Casper Christensen   def.  Maxwell Freeman     16 64 63
+     16  Macsen Sisam         def.  Ilarion Danilchenko 61 63
  > Yellow
   > Main
-     16  Tyler Stice          def.  Teodor Giusca        26 62 75
-     16  Tad McClean          def.  Maxwell Smith        57 64 64
-     16  Jorge Plans Gonzalez def.  Finlay Murgett       64 67(1) 61
-     16  Jan Galka            def.  Spencer Whitaker     60 63
-     16  Raul Dobai           def.  Tim Pitts            75 63
-     16  Will Nolan           def.  Andrew Puscas        67(6) 63 61
-     16  Jackson Ross         def.  Trey Stinchcomb      63 76(5)
-     16  Spencer Gray         def.  Daniel Labrador      60 60
+     16  Tyler Stice          def.  Teodor Giusca       26 62 75
+     16  Tad McClean          def.  Maxwell Smith       57 64 64
+     16  Jorge Plans Gonzalez def.  Finlay Murgett      64 67(1) 61
+     16  Jan Galka            def.  Spencer Whitaker    60 63
+     16  Raul Dobai           def.  Tim Pitts           75 63
+     16  Will Nolan           def.  Andrew Puscas       67(6) 63 61
+     16  Jackson Ross         def.  Trey Stinchcomb     63 76(5)
+     16  Spencer Gray         def.  Daniel Labrador     60 60
 ~~~
 
 <a name="21-69307"></a>
@@ -1579,6 +1579,42 @@
   > Consolation
      QQ     Hunter Royal         def.     Zach Gonsor          97
      QQ     Eduardo Rojas        def.     Nick Smeltzer        85
+~~~
+
+<a name="21-84230"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Limestone Men's Challenger
+  Dates: Sep 18-19, 2021
+  Host: Limestone University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight 1 Singles
+  > Main
+     R3  Maxwell Benson       def.  John Spring          60 64
+     R3  Cathal Butler        def.  Takafumi Mimata      63 30 Ret.
+     R3  Dusan Milanovic      def.  Leopold Morel        60 60
+     R3  Georgije Babic       def.  Jack Lee             60 64
+     R3  Louka Queguiner      def.  Sebastian Rogerson   61 60
+     R2  Maxwell Benson       def.  Hugo Salmeron        60 64
+     R2  Merlin Bellett       def.  Takafumi Mimata      61 76(5)
+     R2  Nicholas McKinney    def.  Cathal Butler        76(3) 63
+     R2  Alex Lepine          def.  Leopold Morel        61 62
+     R1  Hugo Salmeron        def.  John Spring          36 76(2) [5]
+     R1  Maxwell Benson       def.  Luis Zamorano        60 61
+     R1  Nicholas McKinney    def.  Takafumi Mimata      61 63
+     R1  Cathal Butler        def.  Merlin Bellett       61 36 [3]
+     R1  Julien Pereira       def.  Leopold Morel        60 61
+     R1  Dusan Milanovic      def.  Alex Lepine          61 62
+     R1  Lucas Rodrigues      def.  Jack Lee             63 62
+     R1  Georgije Babic       def.  Numa Lemieux-Monette 62 61
+     R1  Juan Sebastian Domi… def.  Paul Berrouet        61 62
+     R1  Emilio Samhan        def.  Gregoire Legrand     63 62
+     R1  Javier Matos         def.  Juan Luis Yanine     63 62
+     R1  Pedro Cardoso        def.  Jorjay Paladines     60 75
+     R1  Daniel Martens       def.  Sebastian Rogerson   62 62
+     R1  Teodor Cariov        def.  Louka Queguiner      61 62
+     R1  Wes Koehler          def.  Vance Mercer         63 64
 ~~~
 
 <a name="21-64248"></a>

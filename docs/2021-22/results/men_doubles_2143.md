@@ -9,16 +9,16 @@
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
 - 10/28/2021 - [64th Annual Southern California Intercollegiate Championships](#21-75985) ([Results](#21-75985) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">Draws</a>)  
+- 10/29/2021 - [Crimson Halloween Invite](#21-48385) ([Results](#21-48385) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
+- 10/29/2021 - [Virginia Tech Halloween Clash](#21-26801) ([Results](#21-26801) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Draws</a>)  
 - 10/29/2021 - [Saint Leo Hidden Duals - Men](#21-17543) ([Results](#21-17543) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Crimson Halloween Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Gamecock Scramble</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Seahawk Team Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Virginia Tech Halloween Clash</a>  
 
 <a name="21-69139"></a>
 ~~~
@@ -407,16 +407,17 @@
 
 <a name="21-75985"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   64th Annual Southern California Intercollegiate Championships
   Dates: Oct 28-31, 2021
   Host: ITA
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main Draw
   > Main
+      F     Neos/Pankin          def. (1) Allen/Steinhausen    86
      SF (1) Allen/Steinhausen    def.     Nuno/Bohren          Walkover
-     SF     Simon/Smiej           vs      Neos/Pankin          Sun @ 10:00
+     SF     Neos/Pankin          def.     Simon/Smiej          83
      QF (1) Allen/Steinhausen    def.     Caddies/Thorold      84
      QF     Nuno/Bohren          def.     Van Zeggelaar/Ander… 85
      QF     Simon/Smiej          def.     Parsley/Smith        86
@@ -440,17 +441,47 @@
      16 (2) Sillman/Zisette      def.     Simon/Smiej          87(3)
 ~~~
 
+<a name="21-48385"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Crimson Halloween Invite
+  Dates: Oct 29-31, 2021
+  Host: Harvard University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Friday 10/29
+  > Main
+     16  Lam/Lam            def.  Knox-Jones/Pauli   76(4)
+     16  Feldman/Komatineni def.  Widdecombe/Chang   63
+     16  Chong/Mu           def.  Chari/Pritzker     63
+     16  Dean/Sun           def.  Jachuck/Walker     76(5)
+     16  Lefevre/Neal       def.  Lins/Korsgaard     64
+     16  Oberg/Reilly       def.  Sajonz/Pawlowski   62
+ > Saturday 10/30 round 2
+  > Main
+     QF  Dean/Sun           def.  Lam/Lam            76(5)
+     QF  Lefevre/Neal       def.  Chong/Mu           61
+     QF  Jachuck/Walker     def.  Feldman/Komatineni 61
+     QF  Sun/Thornton       def.  Oberg/Reilly       64
+ > Saturday 10/30 round 1
+  > Main
+     QF  Lefevre/Neal       def.  Feldman/Komatineni 62
+     QF  Oberg/Reilly       def.  Chong/Mu           63
+     QF  Lins/Sun           def.  Dean/Sun           62
+     QF  Jachuck/Walker     def.  Lam/Lam            63
+~~~
+
 <a name="21-84042"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   Gonzaga Invitational
   Dates: Oct 29-31, 2021
   Host: Gonzaga University (M)
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Blue
   > East
-      F  Tvedt/Penzlin         vs   Minakata/Kryvchun   Sun @ 09:00
+      F  Tvedt/Penzlin        def.  Minakata/Kryvchun   85
      SF  Tvedt/Penzlin        def.  Gomez Galvan/Hann   83
      SF  Minakata/Kryvchun    def.  Casino/Bascon       86
      QF  Tvedt/Penzlin        def.  Moortgat/Marquardt  86
@@ -458,29 +489,27 @@
      QF  Minakata/Kryvchun    def.  Ortega/Balce        84
      QF  Casino/Bascon        def.  Monteiro/Sitar      84
   > West
-      F  Moortgat/Marquardt    vs   Ortega/Balce        Sun @ 09:00
+      F  Moortgat/Marquardt   def.  Ortega/Balce        82
      SF  Moortgat/Marquardt   def.  Stoeger/Martin      87(3)
      SF  Ortega/Balce         def.  Monteiro/Sitar      85
   > 3-4 Playoff
-      F  Gomez Galvan/Hann     vs   Casino/Bascon       Sun @ 10:00
-  > South
-      F  Stoeger/Martin        vs   Monteiro/Sitar      Sun @ 10:00
+      F  Casino/Bascon        def.  Gomez Galvan/Hann   84
  > White
   > East
-      F  de la Bassetiere/Br…  vs   Andersson/Roider    Sun @ 09:00
+      F  de la Bassetiere/Br… def.  Andersson/Roider    87(4)
      SF  de la Bassetiere/Br… def.  Mueller/Sarlvik     86
      SF  Andersson/Roider     def.  Thielgaard/Hallgren 87(4)
      QF  Mueller/Sarlvik      def.  Salvador/Masala     87(5)
      QF  Andersson/Roider     def.  Zelver/Huppin       87(3)
      QF  Thielgaard/Hallgren  def.  Espinoza/Hsu        87(3)
   > West
-      F  Salvador/Masala       vs   Zelver/Huppin       Sun @ 09:00
+      F  Salvador/Masala      def.  Zelver/Huppin       83
      SF  Zelver/Huppin        def.  Espinoza/Hsu        87(9)
   > 3-4 Playoff
-      F  Mueller/Sarlvik       vs   Thielgaard/Hallgren Sun @ 10:00
+      F  Thielgaard/Hallgren  def.  Mueller/Sarlvik     84
  > Red
   > East
-      F  Asenov/Ramesh         vs   Taylor/Duron        Sun @ 09:00
+      F  Taylor/Duron         def.  Asenov/Ramesh       85
      SF  Asenov/Ramesh        def.  Sciglitano/Benn     87(5)
      SF  Taylor/Duron         def.  Jesser/De Vries     87(4)
      QF  Sciglitano/Benn      def.  Plutat/Fernandez    87(3)
@@ -488,13 +517,51 @@
      QF  Jesser/De Vries      def.  Baldwin/Watkins     Walkover
      QF  Taylor/Duron         def.  Paz/Grimes          86
   > West
-      F  Plutat/Fernandez      vs   Paz/Grimes          Sun @ 09:00
      SF  Plutat/Fernandez     def.  Dillon/Thomas       81
      SF  Paz/Grimes           def.  Baldwin/Watkins     Walkover
-  > 3-4 Playoff
-      F  Sciglitano/Benn       vs   Jesser/De Vries     Sun @ 10:00
-  > South
-      F  Dillon/Thomas         vs   Baldwin/Watkins     Sun @ 10:00
+~~~
+
+<a name="21-26801"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Virginia Tech Halloween Clash
+  Dates: Oct 29-31, 2021
+  Host: Virginia Tech (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight 1 extra Matches
+  > Main
+      F  Thompson/Shepheard def.  Pernas/Lombisano   63
+ > Flight 1
+  > Main
+     16  Rengifo/Vargas     def.  Taramonlis/Silva   64
+     16  Lobo/Badra         def.  Severin/Raptis     61
+     16  Khamis/Lamas       def.  Hagen/Crane        64
+     16  Botzer/Ross        def.  Fishback/Sculley   76(6)
+     16  Ariza/Maia         def.  Woodall/Allen      64
+     16  Pernas/Lombisano   def.  Mujan/Katlaps      63
+     16  Harper/Ix          def.  Vergine/Whitehead  60
+ > Flight 2
+  > Main
+     16  Botzer/Ross        def.  Taramonlis/Silva   63
+     16  Woodall/Allen      def.  Severin/Raptis     64
+     16  Lobo/Lombisano     def.  Hagen/Crane        64
+     16  Thompson/Harper    def.  Mujan/Katlaps      64
+     16  Bernstine/Ix       def.  Vergine/Whitehead  61
+     16  Shepheard/Fishback def.  Rengifo/Vargas     63
+     16  Lobo/Badra         def.  Ariza/Maia         64
+     16  Thompson/Ix        def.  Khamis/Lamas       76(8)
+ > Flight 2 Extra Matches
+  > Main
+     SF  Harper/Bernstine   def.  Pernas/Lombisano   63
+ > Flight 3
+  > Main
+     16  Botzer/Allen       def.  Rengifo/Vargas     61
+     16  Khamis/Lamas       def.  Crane/Silva        62
+     16  Zabala/Lombisano   def.  Vergine/Whitehead  61
+     16  Severin/Raptis     def.  Shepheard/Fishback 64
+     16  Thompson/Maia      def.  Hagen/Crane        62
+     16  Mujan/Katlaps      def.  Harper/Bernstine   75
 ~~~
 
 <a name="21-17543"></a>
@@ -522,6 +589,15 @@
      16  Del Granado/Lemken   def.  Golubev/Baumann      75
      16  Tatyanin/Holzmann    def.  McMurray/Polo        62
      16  Sohl/Altman          def.  Amilibia/Berner      61
+ > Sunday
+  > Main
+     16  Golubev/Baumann      def.  Faletto/van den Akk… 63
+     16  Thiel/Mensour        def.  McMurray/Polo        60
+     16  Bacella/Iriarte      def.  Amilibia/Berner      63
+     16  Trustfull/Moreno     def.  Sohl/Altman          75
+     16  Del Granado/Lemken   def.  Nordblom/Feggi       63
+     16  Tatyanin/Holzmann    def.  Hertweck/Fok Kow     62
+     16  Korylco Bowers/Deni… def.  Nagoshi/Baehr        64
 ~~~
 
 Return to the [Top](./men_doubles_2143.md) &#124; [Home Page](../../index.md)

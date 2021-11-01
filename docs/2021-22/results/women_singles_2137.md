@@ -18,6 +18,7 @@
 - 9/16/2021 - [BAC Invitational](#21-94974) ([Results](#21-94974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">Draws</a>)  
 - 9/15/2021 - [Battle of the Blue Ridge, Weekend One](#21-96874) ([Results](#21-96874) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SweetBriarCollegeW/Tournaments/Overview/4FB76F6F-BB1C-4A77-92A3-CC5A5BFD60A4" target="_blank">Draws</a>)  
 - 9/18/2021 - [Big Red Invitational](#21-52871) ([Results](#21-52871) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DenisonUniversityW/Tournaments/Overview/8C55E0CC-605C-4584-8311-FA3093162009" target="_blank">Draws</a>)  
+- 9/17/2021 - [Division II Women's East ITA Regional Championships](#21-70129) ([Results](#21-70129) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
@@ -32,7 +33,6 @@
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Division II Women's East ITA Regional Championships</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">PP/CMS Invite</a>  
 
 <a name="21-14330"></a>
@@ -1525,6 +1525,86 @@
  > Draw 4
   > Main
      R1  Susan Biederstedt  def.  Julia Gillin       63 62
+~~~
+
+<a name="21-70129"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  Division II Women's East ITA Regional Championships
+  Dates: Sep 17-20, 2021
+  Host: Queens College/NY (M)
+═════════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw
+  > Main
+       F (16) Natalie Kallmunzero… def.      Neus Ramos Moreno    64 63
+      SF      Neus Ramos Moreno    def.      Isabella Barona      64 64
+      SF (16) Natalie Kallmunzero… def. (11) Ivana Andric         76(3) 57 [9]
+      QF      Isabella Barona      def.  (8) Alexxa Etienne       36 64 [7]
+      QF      Neus Ramos Moreno    def.      Caroline Fawzy       63 76(3)
+      QF (16) Natalie Kallmunzero… def.      Annunciata De Souza  61 62
+      QF (11) Ivana Andric         def. (14) Liria Loria          60 46 [5]
+      16      Isabella Barona      def. (15) Jessica Purdy        75 57 [7]
+      16  (8) Alexxa Etienne       def. (12) Samanta Villegas Ro… 61 64
+      16      Neus Ramos Moreno    def.      Fiona Pepper         60 62
+      16      Caroline Fawzy       def.      Birdem Oz            75 63
+      16 (16) Natalie Kallmunzero… def.  (3) Cristina Solorzano … 60 64
+      16      Annunciata De Souza  def.  (6) Frida Rubio-Talayero 36 63 [6]
+      16 (14) Liria Loria          def.      Emma Markaryan       62 64
+      16 (11) Ivana Andric         def.      Begona Gomar Perez   62 64
+      32      Isabella Barona      def.      Alyssa Baur          16 64 [7]
+      32 (15) Jessica Purdy        def.      Claudia Bahamon Lop… 61 60
+      32 (12) Samanta Villegas Ro… def.      Rupkatha Mukeherjee  63 60
+      32  (8) Alexxa Etienne       def.      Louisa Junghanns     64 16 [4]
+      32      Neus Ramos Moreno    def.      Himani Mor           62 26 [12]
+      32      Fiona Pepper         def.  (9) Paula Palero         60 40 Ret.
+      32      Caroline Fawzy       def. (13) Carlota Garcia       62 67(5) [5]
+      32      Birdem Oz            def.      Isabella Andrade     61 64
+      32  (3) Cristina Solorzano … def.      Kirsten Wijnsema     62 62
+      32 (16) Natalie Kallmunzero… def.      Valentina Ivankovic  63 62
+      32      Annunciata De Souza  def.      Meri Jimeno          61 63
+      32  (6) Frida Rubio-Talayero def.      Carolina Chaves      75 64
+      32      Emma Markaryan       def.      Gaayatri Shankar     62 63
+      32 (14) Liria Loria          def.      Charlotte Kordonowy  36 63 [2]
+      32 (11) Ivana Andric         def.      Oceane Mallavre      62 63
+      32      Begona Gomar Perez   def.      Annika Wise          63 61
+      64      Isabella Barona      def.  (1) Maja Makal           76(1) 61
+      64      Alyssa Baur          def.      Zoe Asterio Correa   36 64 [8]
+      64      Claudia Bahamon Lop… def.      Marta Nunez          75 62
+      64 (15) Jessica Purdy        def.      Samantha Ormesher    62 75
+      64 (12) Samanta Villegas Ro… def.      Brianna Shvetsov     60 60
+      64      Rupkatha Mukeherjee  def.      Rosemary Esquivel    67(4) 63 [8]
+      64      Louisa Junghanns     def.      Karim Carreras       36 76(4) [7]
+      64  (8) Alexxa Etienne       def.      Briana Gonzalez      61 61
+      64      Himani Mor           def.  (7) Steffi Antao         64 63
+      64      Neus Ramos Moreno    def.      Alexandra Dereban    60 60
+      64      Fiona Pepper         def.      Gabriela Sciarrotta  26 62 [4]
+      64  (9) Paula Palero         def.      Caitlyn Sze          63 60
+      64 (13) Carlota Garcia       def.      Amanda Franstedt     06 76(5) [7]
+      64      Caroline Fawzy       def.      Christina Stasiuk    64 46 [6]
+      64      Birdem Oz            def.      Hannah Niggemeier    61 62
+      64      Isabella Andrade     def.  (4) Maria Penalver       64 Ret.
+      64  (3) Cristina Solorzano … def.      Gianna Vassalluzzo   61 60
+      64      Kirsten Wijnsema     def.      Nicole Mika          61 57 [3]
+      64      Valentina Ivankovic  def.      Julie Riedel         62 63
+      64 (16) Natalie Kallmunzero… def.      Julia Chappelle      61 61
+      64      Annunciata De Souza  def.      Viktoriia Pavlovets  63 61
+      64      Meri Jimeno          def.      Myka Williams        62 62
+      64      Carolina Chaves      def.      Isha Mbaye           62 61
+      64  (6) Frida Rubio-Talayero def.      Yana Semerly         63 62
+      64      Gaayatri Shankar     def.  (5) Karina Blas          46 75 [4]
+      64      Emma Markaryan       def.      Nele Haag            46 75 [8]
+      64      Charlotte Kordonowy  def.      Cara McCormack       64 63
+      64 (14) Liria Loria          def.      Mariona Franco Mart… 62 63
+      64 (11) Ivana Andric         def.      Kyriakitsa Scime     62 61
+      64      Oceane Mallavre      def.      Steffy Espejo        61 57 [5]
+      64      Annika Wise          def.      Victoria Azcona      61 46 [5]
+      64      Begona Gomar Perez   def.  (2) Magdalena Hubickova  36 64 [10]
+     128      Isabella Barona      def.      Ava OBrien           60 60
+     128      Himani Mor           def.      Andrea Sandoval      62 76(3)
+     128      Isabella Andrade     def.      Chloe Certain        62 64
+     128      Yana Semerly         def.      Yinett Del Leon      61 61
+     128      Gaayatri Shankar     def.      Sophie Roberge       62 62
 ~~~
 
 <a name="21-14491"></a>

@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 10/14/2021 - [ITA Division I Men's Northeast Regional Championship](#21-34853) ([Results](#21-34853) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Men's Southern Regional Championship](#21-67380) ([Results](#21-67380) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">Draws</a>)  
 - 10/22/2021 - [Islander Open](#21-65872) ([Results](#21-65872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/A170BFCF-49FB-4619-AEA2-0BF545C38F08" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Men's Atlantic Super Regional Championship](#21-69139) ([Results](#21-69139) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OldDominionUniversityM/Tournaments/Overview/E9C8EB3D-E4DF-474A-A6B4-6B1FEA7BE33A" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Men's Carolina Regional Championship](#21-42333) ([Results](#21-42333) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/3619E668-F531-4330-85DA-E1542DDFC2FD" target="_blank">Draws</a>)  
@@ -17,7 +18,6 @@
 - 10/22/2021 - [YTF Southeastern Invitational](#21-42214) ([Results](#21-42214) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
 - 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaM/Tournaments/Overview/A9056FEF-25AD-4F2E-9338-1E7D25480DA0" target="_blank">UNA Men's Classic</a>  
 - 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/7E100217-7269-401A-99AA-F3C782FC0593" target="_blank">MIT Classic</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">MIT Invite</a>  
@@ -101,6 +101,20 @@
      16     Olive-Blanco/Shah    def.     Odani/Garcia         87(3)
      16     Janackovic/Jagtiani  def.     James/Guberman       83
      16     Kleiman/Learner      def.     Sedeno Nieto/Villal… 86
+~~~
+
+<a name="21-67380"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  ITA Division I Men's Southern Regional Championship
+  Dates: Oct 14-19, 2021
+  Host: Auburn University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Consolation
+  > Main
+     SF  Rodriguez/Andre    def.  Tortora/Richey       86
+     SF  Petrovic/Hoeijmans def.  Jeanne-Grandinot/Jo… 84
 ~~~
 
 <a name="21-65872"></a>

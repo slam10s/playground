@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
+- 9/17/2021 - [Division II Women's East ITA Regional Championships](#21-70129) ([Results](#21-70129) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
@@ -9,9 +10,12 @@
 - 9/24/2021 - [2021 Cougar Classic](#21-92191) ([Results](#21-92191) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WashingtonStateUnivW/Tournaments/Overview/9A9D66AE-29DF-4655-8EE8-5EF2ECFA897B" target="_blank">Draws</a>)  
 - 9/24/2021 - [Bedford Cup](#21-07919) ([Results](#21-07919) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMarylandCollegeParkW/Tournaments/Overview/8A78BA09-B02F-4068-AC07-16F05B3F86EB" target="_blank">Draws</a>)  
 - 9/23/2021 - [Bedford Cup in the Mountains](#21-10883) ([Results](#21-10883) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyW/Tournaments/Overview/44119D33-0728-4FB2-8652-70606D860005" target="_blank">Draws</a>)  
+- 9/24/2021 - [Bethany Moore Invitational](#21-68010) ([Results](#21-68010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BallStateUniversityW/Tournaments/Overview/9CD0F50F-A060-4554-94BC-D6D303944F81" target="_blank">Draws</a>)  
 - 9/24/2021 - [Bluejay Invite](#21-97501) ([Results](#21-97501) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CreightonUniversityW/Tournaments/Overview/9CFAB6A8-8E2B-42E6-9D2D-9A4EECB3CAEB" target="_blank">Draws</a>)  
 - 9/24/2021 - [Bulldog Invitational](#21-92623) ([Results](#21-92623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Draws</a>)  
+- 9/24/2021 - [Charleston Southern Invitational](#21-91616) ([Results](#21-91616) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CharlestonSouthernUnivW/Tournaments/Overview/0DAD2A4A-3B08-46CE-A853-2E2C8A41E803" target="_blank">Draws</a>)  
 - 9/26/2021 - [Crimson Clash Invitational](#21-92387) ([Results](#21-92387) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/752CCDFE-B4CA-43BC-B2A3-ECA8A986B374" target="_blank">Draws</a>)  
+- 9/25/2021 - [Emily McNall Classic](#21-01576) ([Results](#21-01576) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCAshevilleW/Tournaments/Overview/0D572E9B-B482-4879-8E99-EF01542FECFB" target="_blank">Draws</a>)  
 - 9/24/2021 - [Hoosier Classic](#21-26995) ([Results](#21-26995) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IndianaUniversityW/Tournaments/Overview/1DDCC0A9-FDC4-4049-818C-9AE7035D2525" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
 - 9/24/2021 - [Natchitoches Women's Care/Lady Demon Collegiate Invitational](#21-03887) ([Results](#21-03887) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Draws</a>)  
@@ -28,6 +32,7 @@
 - 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
+- 9/25/2021 - [Division III Women's Southeast ITA Regional Championships](#21-12873) ([Results](#21-12873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Central ITA Regional Championships](#21-33883) ([Results](#21-33883) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CowleyCountyCCM/Tournaments/Overview/BC95B2DD-9F42-4CC1-B3FD-B28A7F6354E1" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Southeast ITA Regional Championships](#21-59818) ([Results](#21-59818) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AbrahamBaldwinCollegeM/Tournaments/Overview/0C49FE79-13DE-4D89-BE12-0363D7D96FAE" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Southwest ITA Regional Small College Championships](#21-74781) ([Results](#21-74781) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TylerJrCollegeM/Tournaments/Overview/AFDCB501-9485-41C1-8697-2065AFF6AC47" target="_blank">Draws</a>)  
@@ -37,17 +42,12 @@
 - 9/23/2021 - [NAIA Men’s & Women's Central East ITA Regional Championships](#21-30614) ([Results](#21-30614) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OlivetNazareneUniversityM/Tournaments/Overview/64071334-93D8-4F00-A376-DE31F2A79DBC" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Division II Women's East ITA Regional Championships</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BallStateUniversityW/Tournaments/Overview/9CD0F50F-A060-4554-94BC-D6D303944F81" target="_blank">Bethany Moore Invitational</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CharlestonSouthernUnivW/Tournaments/Overview/0DAD2A4A-3B08-46CE-A853-2E2C8A41E803" target="_blank">Charleston Southern Invitational</a>  
-- 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCAshevilleW/Tournaments/Overview/0D572E9B-B482-4879-8E99-EF01542FECFB" target="_blank">Emily McNall Classic</a>  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityW/Tournaments/Overview/1CE6B392-5A54-43F9-A9F6-BAC5D49C0747" target="_blank">Lehigh Women's Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityW/Tournaments/Overview/7BB7BD29-7CFA-40C8-8B1A-907141B28F7E" target="_blank">Purdue Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/DA20527E-5D36-4FBF-A32B-A3905E6A333C" target="_blank">SMU Fall Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/D09BC058-0102-4062-90BE-1A0436D0E2C9" target="_blank">UNA Women's Tennis Classic</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternIllinoisUniversityW/Tournaments/Overview/F071C84F-6B2D-4B81-8D42-5B11D51EAB94" target="_blank">Western Illinois University Fall Invite</a>  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityOHW/Tournaments/Overview/3BA7BF0C-17C2-4B58-BBA3-BBA1627F8304" target="_blank">Xavier Invitational</a>  
-- 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Division III Women's Southeast ITA Regional Championships</a>  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/30A7E87D-28B1-49C9-A378-10FD9FB57350" target="_blank">SLU Women's Invitational</a>  
 
 <a name="21-02376"></a>
@@ -78,6 +78,54 @@
  > Extra Match
   > Main
       F (1) Makoric/Novak       def.     Masic/Staiculescu    60
+~~~
+
+<a name="21-70129"></a>
+~~~
+════════════════════════════════════════════════════════════════════
+  Division II Women's East ITA Regional Championships
+  Dates: Sep 17-20, 2021
+  Host: Queens College/NY (M)
+════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F (3) Mor/Geslin           def. (1) Antao/Solorzano Val… 62 62
+     SF (1) Antao/Solorzano Val… def. (5) Kallmunzerova/Hubic… 86
+     SF (3) Mor/Geslin           def. (2) Quagliardi/Federici  84
+     QF (1) Antao/Solorzano Val… def.     Bahamon Lopez/Franc… 98(4)
+     QF (5) Kallmunzerova/Hubic… def. (4) Ulander/Makal        84
+     QF (3) Mor/Geslin           def. (6) Fernandez/Lilligren  80
+     QF (2) Quagliardi/Federici  def. (8) Blas/Gak Anagrova    82
+     16 (1) Antao/Solorzano Val… def.     Azcona/Jimeno        84
+     16     Bahamon Lopez/Franc… def. (7) Ling/Schmidt         86
+     16 (5) Kallmunzerova/Hubic… def.     Shankar/Andric       85
+     16 (4) Ulander/Makal        def.     Nunez/Pepper         97
+     16 (3) Mor/Geslin           def.     Ramos Moreno/Nel     84
+     16 (6) Fernandez/Lilligren  def.     Markaryan/Ormesher   86
+     16 (8) Blas/Gak Anagrova    def.     Etienne/Andrade      82
+     16 (2) Quagliardi/Federici  def.     Rubio-Talayero/Stas… 80
+     32 (1) Antao/Solorzano Val… def.     Palero/Mulder        84
+     32     Azcona/Jimeno        def.     Anwar/Wijnsema       98(2)
+     32     Bahamon Lopez/Franc… def.     Mallavre/De Souza    84
+     32 (7) Ling/Schmidt         def.     Chaves/Kielan        97
+     32 (5) Kallmunzerova/Hubic… def.     Rodriguez/Carreras   84
+     32     Shankar/Andric       def.     Wise/Garcia          84
+     32     Nunez/Pepper         def.     Pavlovets/Villegas … 84
+     32 (4) Ulander/Makal        def.     Le/Mazurek           85
+     32 (3) Mor/Geslin           def.     Baur/Gonzalez        80
+     32     Ramos Moreno/Nel     def.     Hotaki/Koitabashi    80
+     32     Markaryan/Ormesher   def.     DOcchio/Dereban      82
+     32 (6) Fernandez/Lilligren  def.     Shvetsov/Roberge     81
+     32 (8) Blas/Gak Anagrova    def.     Niggemeier/Riedel    84
+     32     Etienne/Andrade      def.     Mbaye/Mukeherjee     82
+     32     Rubio-Talayero/Stas… def.     Chappelle/McCormack  85
+     32 (2) Quagliardi/Federici  def.     Loria/Carra          85
+     64     Palero/Mulder        def.     Sze/Semerly          82
+     64     Rodriguez/Carreras   def.     Swaan/Trifunovic     98(6)
+     64     Le/Mazurek           def.     Espejo/Ndunduma      86
+     64     Baur/Gonzalez        def.     Haag/Vassalluzzo     98(4)
+     64     Loria/Carra          def.     Scime/Del Leon       81
 ~~~
 
 <a name="21-14491"></a>
@@ -370,7 +418,7 @@
      QF  Davidescu/Sorkin     def.  La/Yang              61
      QF  Badawi/Laas          def.  Feodorov/Markovic    76(4)
      QF  Marinkovikj/Wiesmann def.  Askarova/Montana     61
-     16  Ashton/Willy         def.  Saleh/Salvi          75
+     16  Ashton/Willy         def.  El Sayed/Salvi       75
      16  Svendsen/Honrubia    def.  Nannery/Trella       60
      16  La/Yang              def.  Miranda/Bach         61
      16  Davidescu/Sorkin     def.  Rothfeld/Lawson      61
@@ -386,10 +434,10 @@
      SF  Bell/Vesikallio      def.  Jacobs/Pospischill   63
      QF  Wirt/Hashiguchi      def.  Decker/Aguirre       60
   > North
-      F  Bendetti/Coburn      def.  Saleh/Salvi          63
-     SF  Saleh/Salvi          def.  Rothfeld/Lawson      62
+      F  Bendetti/Coburn      def.  El Sayed/Salvi       63
+     SF  El Sayed/Salvi       def.  Rothfeld/Lawson      62
      SF  Bendetti/Coburn      def.  Bodewes/Ramirez      60
-     QF  Saleh/Salvi          def.  Nannery/Trella       Walkover
+     QF  El Sayed/Salvi       def.  Nannery/Trella       Walkover
      QF  Rothfeld/Lawson      def.  Miranda/Bach         Walkover
      QF  Bodewes/Ramirez      def.  Haliou/Assenmacher   64
   > Northeast
@@ -520,6 +568,42 @@
      32  Millard/Davis        def.  Villarejo/Van Baelen 63
 ~~~
 
+<a name="21-68010"></a>
+~~~
+════════════════════════════════════════════════════════
+  Bethany Moore Invitational
+  Dates: Sep 24-25, 2021
+  Host: Ball State University (W)
+════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > Main
+      F  Rosas Garcia/Marko def.  Peeler/Kaplan       87
+     SF  Peeler/Kaplan      def.  Stanmore/Minich     86
+     SF  Rosas Garcia/Marko def.  Davies/Lukacs       86
+     QF  Stanmore/Minich    def.  Carbone/Stejskalova 85
+     QF  Peeler/Kaplan      def.  Patel/Glazbrook     83
+     QF  Davies/Lukacs      def.  Milner/Burgersdijk  81
+     QF  Rosas Garcia/Marko def.  Barrett/Lepinay     83
+  > Consolation
+      F  Barrett/Lepinay    def.  Patel/Glazbrook     64
+     SQ  Patel/Glazbrook    def.  Carbone/Stejskalova 62
+     SQ  Barrett/Lepinay    def.  Milner/Burgersdijk  76
+ > Flight B
+  > Main
+      F  Braun/Desai         vs   Polishchuk/Malykh   
+     SF  Braun/Desai        def.  Milano/Heaton       83
+     SF  Polishchuk/Malykh  def.  Hultqvist/Melnizki  82
+     QF  Milano/Heaton      def.  Masarikova/Rigazio  87
+     QF  Braun/Desai        def.  Maganuco/Shetty     81
+     QF  Polishchuk/Malykh  def.  Tylek/Cavestro      84
+     QF  Hultqvist/Melnizki def.  Piatek/Pommiers     85
+  > Consolation
+      F  Maganuco/Shetty    def.  Piatek/Pommiers     60
+     SQ  Maganuco/Shetty    def.  Masarikova/Rigazio  64
+     SQ  Piatek/Pommiers    def.  Tylek/Cavestro      63
+~~~
+
 <a name="21-97501"></a>
 ~~~
 ════════════════════════════════════════════════════════════════
@@ -600,6 +684,57 @@
      QF  Lin/Bretkelly        def.  Reddy/Hofflander  60
 ~~~
 
+<a name="21-91616"></a>
+~~~
+══════════════════════════════════════════════════════════
+  Charleston Southern Invitational
+  Dates: Sep 24-25, 2021
+  Host: Charleston Southern Univ. (W)
+══════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Charleston Southern vs. Appalachian State A
+  > Main
+      F  DiStaulo/Boyd       def.  Ryan-Bovey/Jansen    75
+ > Davidson vs. Campbell A
+  > Main
+      F  Kopecka/Pennings    def.  Gladstone/Truluck    62
+ > Davidson vs. Campbell B
+  > Main
+      F  Ranaivo/Cook        def.  Heiderscheit/Patter… 64
+ > Additional Doubles
+  > Main
+     QF  Fullana/Marti       def.  Shea/Anyanwu         61
+     QF  Jusufbegovic/Murphy def.  Porges/Gines         75
+     QF  Jusufbegovic/Boyd   def.  Anyanwu/Porges       62
+ > Charleston So. vs. Davidson A
+  > Main
+      F  Man/Marti           def.  Heiderscheit/Truluck 75
+ > Charleston So. vs. Davidson B
+  > Main
+      F  Fullana/Singh       def.  Shea/Porges          63
+ > Charleston So. vs. Davidson C
+  > Main
+      F  Jusufbegovic/Boyd   def.  Patterson/Gladstone  60
+ > App State vs. Campbell A
+  > Main
+      F  Cook/Kopecka        def.  Murphy/Dodridge      63
+ > App State vs. Campbell B
+  > Main
+      F  Ranaivo/Gines       def.  Jansen/Aleshina      64
+ > Charleston So. vs. Campbell A
+  > Main
+      F  Man/Marti           def.  Pennings/Cook        63
+ > Charleston So. vs. Campbell B
+  > Main
+      F  Cauthen/Pyritz      def.  Kopecka/Ranaivo      61
+ > App State vs. Davidson A
+  > Main
+      F  Gladstone/Truluck   def.  Ryan-Bovey/Jansen    64
+ > App State vs. Davidson B
+  > Main
+      F  Murphy/Dodridge     def.  Heiderscheit/Shea    63
+~~~
+
 <a name="21-92387"></a>
 ~~~
 ════════════════════════════════════════════════════════
@@ -614,6 +749,39 @@
      QF  Yaloz/Tan         def.  Lim/You              61
      QF  Fischer/Arbitman  def.  Kleynerman/Kostirko  62
      QF  Nguyen/Sharma     def.  Snyder/Marculescu    64
+~~~
+
+<a name="21-01576"></a>
+~~~
+═══════════════════════════════════════════════════════════
+  Emily McNall Classic
+  Dates: Sep 25-26, 2021
+  Host: UNC Asheville (W)
+═══════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+     16  Dickson/Dougah       def.  Lacey/Leeman         62
+     16  Siegel/Steenkamp     def.  Piedra/Sanchez Ques… 75
+     16  Love/Faureng         def.  De Sousa/Dennett     62
+     16  Quiceno/Petit        def.  Pezzuco/Smith        64
+     16  Foldeak/Uljanov      def.  Bueno/Rojas          63
+     16  Benavides/King       def.  Beckmann/Hernandez   60
+ > Draw B
+  > Main
+     16  Dickson/Dougah       def.  Pezzuco/Smith        75
+     16  Siegel/Steenkamp     def.  Foldeak/Uljanov      75
+     16  Benavides/King       def.  Love/Faureng         75
+     16  Quiceno/Petit        def.  Lacey/Leeman         64
+     16  Piedra/Sanchez Ques… def.  Bueno/Rojas          61
+     16  De Sousa/Dennett     def.  Beckmann/Hernandez   61
+ > Draw C
+  > Main
+     16  Siegel/Steenkamp     def.  Bueno/Rojas          61
+     16  Love/Faureng         def.  Beckmann/Hernandez   60
+     16  Piedra/Sanchez Ques… def.  Pezzuco/Smith        63
+     16  Lacey/Leeman         def.  Foldeak/Uljanov      63
+     16  Benavides/King       def.  De Sousa/Dennett     64
 ~~~
 
 <a name="21-26995"></a>
@@ -1621,6 +1789,82 @@
      16Q  Shinall/Perez        def.  Bedford/Nelson       83
      16Q  Carter/Rylander      def.  McDonald/Rader       82
      16Q  Gardner/Tuttle       def.  Bloom/Lau            84
+~~~
+
+<a name="21-12873"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  Division III Women's Southeast ITA Regional Championships
+  Dates: Sep 25-27, 2021
+  Host: Univ. Of Mary Washington (W)
+═══════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Championship Doubles
+  > Main
+      F (1) Cornwall/Zheng       def. (8) Givone/Zhou          62 67(5) [8]
+     SF (1) Cornwall/Zheng       def. (3) de Souza/Wandling    86
+     SF (8) Givone/Zhou          def. (7) Chang/Devireddy      82
+     QF (1) Cornwall/Zheng       def. (5) Xu/Varma             81
+     QF (3) de Souza/Wandling    def.     Kimmey/Beckner       84
+     QF (7) Chang/Devireddy      def.     Garcia-Molina/Combs  87(3)
+     QF (8) Givone/Zhou          def. (2) Moghtader/Quinn      87(5)
+     16 (1) Cornwall/Zheng       def.     Coleman/Hagino       82
+     16 (5) Xu/Varma             def.     Oh/Esterowitz        86
+     16 (3) de Souza/Wandling    def.     Angell/Bedi          83
+     16     Kimmey/Beckner       def.     Lacksen/Donovan      85
+     16 (7) Chang/Devireddy      def.     Qiang/Yang           81
+     16     Garcia-Molina/Combs  def. (4) Garcia/Carlton       82
+     16 (8) Givone/Zhou          def.     Snelson/Bueller      82
+     16 (2) Moghtader/Quinn      def.     Harris/Anderson      81
+     32 (1) Cornwall/Zheng       def.     Bader/Huynh          82
+     32     Coleman/Hagino       def.     Chalker/Mikos        82
+     32 (5) Xu/Varma             def.     Meng/White           84
+     32     Oh/Esterowitz        def.     Perry/Landau         82
+     32 (3) de Souza/Wandling    def.     Watts/Padron Castil… 82
+     32     Angell/Bedi          def.     Brewster/Zalameda    83
+     32     Kimmey/Beckner       def. (6) Trate/Yermal         83
+     32     Lacksen/Donovan      def.     Goitz/Michel         83
+     32     Qiang/Yang           def.     Kumaran/Stutz        83
+     32 (7) Chang/Devireddy      def.     Pham/Lavin           86
+     32     Garcia-Molina/Combs  def.     Emery/Nesbeth        81
+     32 (4) Garcia/Carlton       def.     Glen/Bauer           82
+     32     Snelson/Bueller      def.     Cuellar/Tamesis      87(5)
+     32 (8) Givone/Zhou          def.     Delp/Weis            82
+     32     Harris/Anderson      def.     Russell/Freedman     82
+     32 (2) Moghtader/Quinn      def.     Moss/Waters          83
+ > B2 Doubles
+  > Main
+      F     Garcia/Ryhsen        def.     Alfaro/Andrade       83
+     SF     Alfaro/Andrade       def.     Simonson/Cassidy     83
+     SF     Garcia/Ryhsen        def.     Armour/Knighton      82
+     QF     Simonson/Cassidy     def.     Sjostrom Krook/Ten … 86
+     QF     Alfaro/Andrade       def.     Vinsonhaler/Samer    86
+     QF     Armour/Knighton      def.     Sensenbrenner/Stamb… 85
+     QF     Garcia/Ryhsen        def.     Pindzola/Barrett     84
+     16     Sjostrom Krook/Ten … def.     Crawford/Hoover      85
+     16     Simonson/Cassidy     def.     Livingston/Dickerson 81
+     16     Alfaro/Andrade       def.     Daggett/Victor       87(3)
+     16     Vinsonhaler/Samer    def.     Skove/Zudov          80
+     16     Armour/Knighton      def.     Carter/Cooper        87(3)
+     16     Garcia/Ryhsen        def.     March Okuyama/Bidwe… 82
+     16     Pindzola/Barrett     def.     Wrenn/Kotany         85
+ > B1 Doubles
+  > Main
+      F     Tobin/Fitzgerald     def.     Brown/Lewis          84
+     SF     Tobin/Fitzgerald     def.     Teefey/Teefey        81
+     SF     Brown/Lewis          def.     Diaz-Nazario/Nguyen  84
+     QF     Tobin/Fitzgerald     def.     Gunning/Zeilstra     84
+     QF     Teefey/Teefey        def.     Patino/Simhambhalta  85
+     QF     Diaz-Nazario/Nguyen  def.     Lippens/Lombardt     86
+     QF     Brown/Lewis          def.     Russano/Williams     80
+     16     Tobin/Fitzgerald     def.     Schetselaar/Arnold   81
+     16     Gunning/Zeilstra     def.     Borga/Womack         86
+     16     Patino/Simhambhalta  def.     Covington/Caplice    87(3)
+     16     Teefey/Teefey        def.     Dover/Christine      85
+     16     Lippens/Lombardt     def.     Sherman/Harrison     85
+     16     Diaz-Nazario/Nguyen  def.     Guilarte/Caro        87(5)
+     16     Russano/Williams     def.     Keister/Nesselrodt   83
+     16     Brown/Lewis          def.     Santos/Elkhansa      81
 ~~~
 
 <a name="21-33883"></a>

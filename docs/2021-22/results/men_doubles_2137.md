@@ -18,6 +18,7 @@
 - 9/17/2021 - [Division III Men's Northwest ITA Regional Championships](#21-72414) ([Results](#21-72414) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/293CC684-E897-42E1-A5D8-010605E71990" target="_blank">Draws</a>)  
 - 9/19/2021 - [Firebird Challenge](#21-51274) ([Results](#21-51274) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarthageCollegeM/Tournaments/Overview/0360BE02-00EA-4704-B66F-2ED3ACEF18A1" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
+- 9/18/2021 - [Limestone Men's Challenger](#21-84230) ([Results](#21-84230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityM/Tournaments/Overview/BD22EB5E-C006-486B-9907-D53E0DC6FA01" target="_blank">Draws</a>)  
 - 9/18/2021 - [Middlebury Invitational 2021](#21-64248) ([Results](#21-64248) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/97C4AA58-56BC-46A0-8287-9B7C41BD76A7" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
 - 9/17/2021 - [NAIA Men's & Women’s South ITA Regional Championships](#21-84466) ([Results](#21-84466) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaGwinnettCollegeM/Tournaments/Overview/AB87DC72-EBD1-473D-908A-61D759A5EEAC" target="_blank">Draws</a>)  
@@ -32,7 +33,6 @@
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
-- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityM/Tournaments/Overview/BD22EB5E-C006-486B-9907-D53E0DC6FA01" target="_blank">Limestone Men's Challenger</a>  
 - 9/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SwarthmoreCollegeM/Tournaments/Overview/EBF37285-C88B-4F3E-B6EA-6C0DE013DBB8" target="_blank">Swat Men's Tennis Invite</a>  
 
 <a name="21-01301"></a>
@@ -866,6 +866,34 @@
      QQ     Ayala/Thompson       def.     Nyugen/Tennant       75
      QQ     Bornemeier/Martin    def.     Mulder/Schorg        63
      QQ     Pacheco/Rodriguez B… def.     DeLeo/Swaney         64
+~~~
+
+<a name="21-84230"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Limestone Men's Challenger
+  Dates: Sep 18-19, 2021
+  Host: Limestone University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight 1 Doubles
+  > Main
+     R3  Butler/Spring        def.  Salmeron/Mimata      60
+     R3  Dominguez Collado/M… def.  Pereira/Zamorano     60
+     R3  Lemieux-Monette/Lep… def.  Koehler/Zamorano     64
+     R3  Benson/Milanovic     def.  Morel/Queguiner      61
+     R2  Dominguez Collado/M… def.  Butler/Spring        61
+     R2  Salmeron/Mimata      def.  Pereira/Zamorano     75
+     R2  Benson/Milanovic     def.  Koehler/Zamorano     62
+     R2  Lemieux-Monette/Lep… def.  Morel/Queguiner      64
+     R2  Cardoso/Cariov       def.  Paladines/Rogerson   63
+     R2  Babic/Matos          def.  Bellett/Legrand      60
+     R1  Dominguez Collado/M… def.  Salmeron/Mimata      63
+     R1  Butler/Spring        def.  Pereira/Zamorano     62
+     R1  Benson/Milanovic     def.  Lemieux-Monette/Lep… 60
+     R1  Koehler/Zamorano     def.  Morel/Queguiner      61
+     R1  Cardoso/Cariov       def.  Bellett/Legrand      63
+     R1  Martens/Mercer       def.  Berrouet/Davies      64
 ~~~
 
 <a name="21-64248"></a>

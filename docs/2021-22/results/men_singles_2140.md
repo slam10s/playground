@@ -1641,7 +1641,7 @@
      R6  David Alvarez Moreno def.  William Schneideman 63 64
      R5  Tamirlan Teberikov   def.  Anshumat Srivastava 64 67(4) [4]
      R2  Kyle Weekes          def.  William Schneideman 61 61
-     R1  Liam Wickwire        def.  William Schneideman 76(4) 64
+     R1  William Schneideman  def.  Liam Wickwire       76(4) 64
      R1  Clement Mainguy      def.  Kyle Weekes         63 62
  > Flight 7
   > Main

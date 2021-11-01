@@ -6,6 +6,7 @@
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 10/1/2021 - [Aggie Invitational](#21-92523) ([Results](#21-92523) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaDavisM/Tournaments/Overview/8C1469E6-3A8C-48A5-A340-2EB9734F03E4" target="_blank">Draws</a>)  
+- 10/1/2021 - [Arizona Wildcat Invitational](#21-91278) ([Results](#21-91278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Draws</a>)  
 - 9/30/2021 - [BU Invite](#21-39279) ([Results](#21-39279) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityM/Tournaments/Overview/A2243BD0-B01D-447E-89E6-9F9C5E5F85DA" target="_blank">Draws</a>)  
 - 10/2/2021 - [Davidson College Invite](#21-95483) ([Results](#21-95483) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Draws</a>)  
 - 10/1/2021 - [Hagedorn Hidden Dual](#21-03884) ([Results](#21-03884) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Draws</a>)  
@@ -31,7 +32,6 @@
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Arizona Wildcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Beeman/Drobac Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">EIU Panther Hidden Duals</a>  
@@ -341,6 +341,50 @@
  > Sunday Extra
   > Main
       F  Aksenoks/Brinkman def.  Ali/Rodriguez    84
+~~~
+
+<a name="21-91278"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Arizona Wildcat Invitational
+  Dates: Oct 1-3, 2021
+  Host: University of Arizona (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Blue
+  > East
+      F  Horwood/Sakagawa     def.  Maggs/Pierleoni      63
+     SF  Horwood/Sakagawa     def.  Andersson/Roider     75
+     SF  Maggs/Pierleoni      def.  Akkermans/Clarke     61
+     QF  Horwood/Sakagawa     def.  Dillon/Steele        75
+     QF  Andersson/Roider     def.  Grant/Novak          63
+     QF  Maggs/Pierleoni      def.  Buzonics/Groves      64
+     QF  Akkermans/Clarke     def.  Gomez Galvan/Hann    64
+  > West
+      F  Grant/Novak          def.  Buzonics/Groves      61
+     SF  Grant/Novak          def.  Dillon/Steele        64
+     SF  Buzonics/Groves      def.  Gomez Galvan/Hann    76(3)
+  > 3-4 Playoff
+      F  Andersson/Roider     def.  Akkermans/Clarke     64
+  > South
+      F  Gomez Galvan/Hann    def.  Dillon/Steele        63
+ > Red
+  > East
+      F  Strom/Olsen          def.  Samaha/Prieto        64
+     SF  Strom/Olsen          def.  Sulen/Schaefer       64
+     SF  Samaha/Prieto        def.  McDonald/de la Bass… 64
+     QF  Strom/Olsen          def.  Donovan/Purne        64
+     QF  Sulen/Schaefer       def.  Van Zeggelaar/De Sa… 64
+     QF  McDonald/de la Bass… def.  Menard/Simecek       64
+     QF  Samaha/Prieto        def.  Anderson/Rudnicki    63
+  > West
+      F  Menard/Simecek       def.  Van Zeggelaar/De Sa… 63
+     SF  Van Zeggelaar/De Sa… def.  Donovan/Purne        63
+     SF  Menard/Simecek       def.  Anderson/Rudnicki    63
+  > 3-4 Playoff
+      F  Sulen/Schaefer       def.  McDonald/de la Bass… 75
+  > South
+      F  Donovan/Purne        def.  Anderson/Rudnicki    75
 ~~~
 
 <a name="21-39279"></a>

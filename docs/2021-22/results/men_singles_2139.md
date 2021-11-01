@@ -6,6 +6,7 @@
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 10/1/2021 - [Aggie Invitational](#21-92523) ([Results](#21-92523) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaDavisM/Tournaments/Overview/8C1469E6-3A8C-48A5-A340-2EB9734F03E4" target="_blank">Draws</a>)  
+- 10/1/2021 - [Arizona Wildcat Invitational](#21-91278) ([Results](#21-91278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Draws</a>)  
 - 9/30/2021 - [BU Invite](#21-39279) ([Results](#21-39279) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityM/Tournaments/Overview/A2243BD0-B01D-447E-89E6-9F9C5E5F85DA" target="_blank">Draws</a>)  
 - 10/2/2021 - [Davidson College Invite](#21-95483) ([Results](#21-95483) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Draws</a>)  
 - 10/1/2021 - [EIU Panther Hidden Duals](#21-91236) ([Results](#21-91236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">Draws</a>)  
@@ -32,7 +33,6 @@
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Arizona Wildcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Beeman/Drobac Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Division III Men's Northeast ITA Regional Championships</a>  
@@ -724,6 +724,87 @@
      32  James Bell        def.  Loris Zisswiller  64 75
      32  Santiago Hinojosa def.  Matheo Coupu      63 26 76(4)
      32  Satchel Benn      def.  Matthew Rodriguez 75 16 62
+~~~
+
+<a name="21-91278"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Arizona Wildcat Invitational
+  Dates: Oct 1-3, 2021
+  Host: University of Arizona (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Blue
+  > East
+      F  Louis Menard         def.  Gustaf Strom         60 46 61
+     SF  Gustaf Strom         def.  Pablo Gomez Galvan   63 63
+     SF  Louis Menard         def.  Joel Pierleoni       76(5) 36 64
+     QF  Gustaf Strom         def.  Alexander Groves     76(5) 61
+     QF  Pablo Gomez Galvan   def.  Jiri Novak           61 62
+     QF  Joel Pierleoni       def.  Tom Hann             16 75 63
+     QF  Louis Menard         def.  Dominik Buzonics     64 62
+  > West
+      F  Dominik Buzonics     def.  Jiri Novak           75 64
+     SF  Jiri Novak           def.  Alexander Groves     76(10) 62
+     SF  Dominik Buzonics     def.  Tom Hann             75 36 62
+  > 3-4 Playoff
+      F  Pablo Gomez Galvan   def.  Joel Pierleoni       76(3) 63
+  > South
+      F  Alexander Groves     def.  Tom Hann             61 62
+ > Red
+  > East
+      F  Leon Roider          def.  Hiroki Sakagawa      75 75
+     SF  Hiroki Sakagawa      def.  Oliver Andersson     61 76(5)
+     SF  Leon Roider          def.  Freddie Grant        76(6) 76(3)
+     QF  Oliver Andersson     def.  Martin Simecek       26 60 61
+     QF  Hiroki Sakagawa      def.  Marcus Sulen         62 60
+     QF  Leon Roider          def.  Christopher Steele   63 61
+     QF  Freddie Grant        def.  Georgio Samaha       64 64
+  > West
+      F  Georgio Samaha       def.  Marcus Sulen         06 63 64
+     SF  Marcus Sulen         def.  Martin Simecek       60 46 62
+     SF  Georgio Samaha       def.  Christopher Steele   63 64
+  > 3-4 Playoff
+      F  Oliver Andersson     def.  Freddie Grant        63 64
+  > South
+      F  Martin Simecek       def.  Christopher Steele   75 62
+ > White
+  > East
+      F  Arthus de la Basset… def.  Alexander Maggs      63 63
+     SF  Arthus de la Basset… def.  Gijs Akkermans       62 61
+     SF  Alexander Maggs      def.  Jared Horwood        36 64 61
+     QF  Arthus de la Basset… def.  Loic Van Zeggelaar   64 62
+     QF  Gijs Akkermans       def.  Austreberto Carlon   63 63
+     QF  Jared Horwood        def.  Stanislas De Samuce… 64 46 63
+     QF  Alexander Maggs      def.  Morgan Donovan       61 62
+  > West
+     SF  Loic Van Zeggelaar   def.  Austreberto Carlon   Walkover
+     SF  Stanislas De Samuce… def.  Morgan Donovan       62 63
+ > Gray
+  > East
+      F  Daniel Dillon        def.  Corey Clarke         64 64
+     SF  Corey Clarke         def.  Conner Olsen         62 57 63
+     SF  Daniel Dillon        def.  Nicolas Prieto       62 64
+     QF  Conner Olsen         def.  Joachim Schaefer     64 61
+     QF  Corey Clarke         def.  Wyatt Anderson       61 61
+     QF  Daniel Dillon        def.  Theo McDonald        62 64
+     QF  Nicolas Prieto       def.  Ryan Ford            61 62
+     16  Joachim Schaefer     def.  Cameron Khan         61 62
+     16  Corey Clarke         def.  Mikael Purne         64 64
+     16  Daniel Dillon        def.  Grzegorz Rudnicki    62 76(3)
+     16  Ryan Ford            def.  Andrew Hoffman       61 46 61
+  > West
+      F  Grzegorz Rudnicki    def.  Mikael Purne         64 64
+     SF  Mikael Purne         def.  Cameron Khan         62 62
+     SF  Grzegorz Rudnicki    def.  Andrew Hoffman       60 60
+  > North
+      F  Theo McDonald        def.  Joachim Schaefer     Walkover
+     SF  Joachim Schaefer     def.  Wyatt Anderson       26 62 60
+     SF  Theo McDonald        def.  Ryan Ford            61 62
+  > 3-4 Playoff
+      F  Conner Olsen         def.  Nicolas Prieto       63 64
+  > Northwest
+      F  Wyatt Anderson       def.  Ryan Ford            62 63
 ~~~
 
 <a name="21-39279"></a>
@@ -1873,29 +1954,73 @@
 
 <a name="21-54933"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Ron Wesbrooks Invitational
   Dates: Oct 1-3, 2021
   Host: Lamar University (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > East
-      F  Daniel Sancho Arbizu def.  Campbell Salmon 63 63
-     SF  Daniel Sancho Arbizu def.  Emilio Vila     63 62
-     SF  Campbell Salmon      def.  Diego Dalisay   64 76(1)
-     QF  Daniel Sancho Arbizu def.  Alex Stafford   60 62
-     QF  Emilio Vila          def.  Trinity Grear   61 64
-     QF  Campbell Salmon      def.  Jorge Juarez    36 62 [7]
-     QF  Diego Dalisay        def.  Max Amling      75 62
+      F  Daniel Sancho Arbizu def.  Campbell Salmon      63 63
+     SF  Daniel Sancho Arbizu def.  Emilio Vila          63 62
+     SF  Campbell Salmon      def.  Diego Dalisay        64 76(1)
+     QF  Daniel Sancho Arbizu def.  Alex Stafford        60 62
+     QF  Emilio Vila          def.  Trinity Grear        61 64
+     QF  Campbell Salmon      def.  Jorge Juarez         36 62 [7]
+     QF  Diego Dalisay        def.  Max Amling           75 62
   > West
-      F  Trinity Grear        def.  Max Amling      63 62
-     SF  Trinity Grear        def.  Alex Stafford   61 62
-     SF  Max Amling           def.  Jorge Juarez    60 63
+      F  Trinity Grear        def.  Max Amling           63 62
+     SF  Trinity Grear        def.  Alex Stafford        61 62
+     SF  Max Amling           def.  Jorge Juarez         60 63
   > 3-4 Playoff
-      F  Emilio Vila           vs   Diego Dalisay   
+      F  Emilio Vila           vs   Diego Dalisay        
   > South
-      F  Alex Stafford        def.  Jorge Juarez    64 64
+      F  Alex Stafford        def.  Jorge Juarez         64 64
+ > Flight B
+  > East
+      F  Juan Jose Rodriguez… def.  Matt Shearer         64 63
+     SF  Juan Jose Rodriguez… def.  Ethan Dunn           46 62 [8]
+     SF  Matt Shearer         def.  Filippo Salsini      62 46 [4]
+     QF  Juan Jose Rodriguez… def.  Diego Hatem Arias    63 63
+     QF  Ethan Dunn           def.  John Zisette         16 63 [11]
+     QF  Filippo Salsini      def.  Juan Malham          61 63
+     QF  Matt Shearer         def.  Martin Garcia-Ripol… 46 61 [10]
+  > West
+      F  Martin Garcia-Ripol… def.  John Zisette         76(4) 64
+     SF  John Zisette         def.  Diego Hatem Arias    63 62
+     SF  Martin Garcia-Ripol… def.  Juan Malham          62 63
+  > 3-4 Playoff
+      F  Ethan Dunn           def.  Filippo Salsini      61 62
+  > South
+      F  Juan Malham          def.  Diego Hatem Arias    67(3) 63 [6]
+ > Flight C
+  > East
+      F  Jakob Mosvold        def.  Joshua Taylor        76(5) 61
+     SF  Joshua Taylor        def.  Alvaro Saint Martin  75 36 [8]
+     SF  Jakob Mosvold        def.  Brandon Do           67(9) 61 [7]
+     QF  Alvaro Saint Martin  def.  Arthur Bugeaud       63 60
+     QF  Joshua Taylor        def.  Joseph Gonzales      60 61
+     QF  Jakob Mosvold        def.  Eli Susser           76(3) 63
+     QF  Brandon Do           def.  Adrien Blackwell     61 61
+  > West
+      F  Arthur Bugeaud       def.  Eli Susser           61 64
+     SF  Arthur Bugeaud       def.  Joseph Gonzales      60 60
+     SF  Eli Susser           def.  Adrien Blackwell     63 64
+  > 3-4 Playoff
+      F  Alvaro Saint Martin  def.  Brandon Do           63 62
+  > South
+      F  Joseph Gonzales      def.  Adrien Blackwell     60 76(2)
+ > Flight D
+  > Main
+     R3  Caleb Eaton          def.  Jonah Smith          64 67(4) [8]
+     R2  Peter Blair          def.  Jonah Smith          60 63
+     R1  Kyle Pham            def.  Jaydn Boone          60 60
+     R1  Peter Blair          def.  Caleb Eaton          62 60
+ > Extra matches Flight D
+  > Main
+     SF  Peter Blair          def.  Kyle Pham            75 Ret.
+     SF  Caleb Eaton          def.  Jaydn Boone          76(4) 67(3) [5]
 ~~~
 
 <a name="21-25425"></a>
@@ -3072,19 +3197,6 @@
        F     Foster Evans         def.     Jhayden Pappas       26 60 [8]
       SQ     Jhayden Pappas       def.     Darby Rogers         87(2)
       SQ     Foster Evans         def.     Mattes Wobbeler      Walkover
- > B7 Singles
-  > Main
-       F     Samuel Sheats        def.     Tyler Brice          63 63
-      SF     Tyler Brice          def.     Bennett Gazor        64 75
-      SF     Samuel Sheats        def.     Wayne Russell        60 63
-      QF     Tyler Brice          def.     Evgeniy Bogdasaryan  33 Ret.
-      QF     Bennett Gazor        def.     Adam Payne           Walkover
-      QF     Wayne Russell        def.     Mason Pitcher        62 46 [10]
-      QF     Samuel Sheats        def.     Justin Schuetz       63 Ret.
-  > Consolation
-       F     Mason Pitcher        def.     Adam Payne           Walkover
-      SQ     Adam Payne           def.     Evgeniy Bogdasaryan  Walkover
-      SQ     Mason Pitcher        def.     Justin Schuetz       Walkover
  > B8 Singles
   > Main
        F     Omosesan Adebamgbe   def.     Alex Kulvivat        60 63
@@ -3098,6 +3210,19 @@
        F     Christian Gruyon     def.     Jeffrey Bauer        46 64 [3]
       SQ     Jeffrey Bauer        def.     Cooper Brewen        Walkover
       SQ     Christian Gruyon     def.     Kier Nacua           62 64
+ > B7 Singles
+  > Main
+       F     Justin Schuetz       def.     Tyler Brice          63 63
+      SF     Tyler Brice          def.     Bennett Gazor        64 75
+      SF     Justin Schuetz       def.     Wayne Russell        60 63
+      QF     Tyler Brice          def.     Evgeniy Bogdasaryan  33 Ret.
+      QF     Bennett Gazor        def.     Adam Payne           Walkover
+      QF     Wayne Russell        def.     Mason Pitcher        62 46 [10]
+      QF     Justin Schuetz       def.     Samuel Sheats        63 Ret.
+  > Consolation
+       F     Mason Pitcher        def.     Adam Payne           Walkover
+      SQ     Adam Payne           def.     Evgeniy Bogdasaryan  Walkover
+      SQ     Mason Pitcher        def.     Samuel Sheats        Walkover
 ~~~
 
 <a name="21-76964"></a>

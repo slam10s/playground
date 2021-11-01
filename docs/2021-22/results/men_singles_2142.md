@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 10/14/2021 - [ITA Division I Men's Northeast Regional Championship](#21-34853) ([Results](#21-34853) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Men's Southern Regional Championship](#21-67380) ([Results](#21-67380) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">Draws</a>)  
 - 10/22/2021 - [Islander Open](#21-65872) ([Results](#21-65872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/A170BFCF-49FB-4619-AEA2-0BF545C38F08" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Men's Atlantic Super Regional Championship](#21-69139) ([Results](#21-69139) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OldDominionUniversityM/Tournaments/Overview/E9C8EB3D-E4DF-474A-A6B4-6B1FEA7BE33A" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Men's Carolina Regional Championship](#21-42333) ([Results](#21-42333) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/3619E668-F531-4330-85DA-E1542DDFC2FD" target="_blank">Draws</a>)  
@@ -17,7 +18,6 @@
 - 10/22/2021 - [YTF Southeastern Invitational](#21-42214) ([Results](#21-42214) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">ITA Division I Men's Southern Regional Championship</a>  
 - 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaM/Tournaments/Overview/A9056FEF-25AD-4F2E-9338-1E7D25480DA0" target="_blank">UNA Men's Classic</a>  
 - 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/7E100217-7269-401A-99AA-F3C782FC0593" target="_blank">MIT Classic</a>  
 - 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">MIT Invite</a>  
@@ -177,6 +177,115 @@
       64      Trevor Masi          def.      Walker Oberg         62 62
       64      Charlie James        def.      Matthew Garcia       64 62
       64      Shervin Dehmoubed    def.      Jonathan Garcia      61 64
+~~~
+
+<a name="21-67380"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  ITA Division I Men's Southern Regional Championship
+  Dates: Oct 14-19, 2021
+  Host: Auburn University (M)
+═══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Main Draw
+  > Main
+       F  Nikola Slavic        def.  Tad McClean          62 46 64
+      SF  Nikola Slavic        def.  Finn Reynolds        63 63
+      SF  Tad McClean          def.  Jan Galka            26 62 62
+      QF  Finn Reynolds        def.  Carles Hernandez     64 62
+      QF  Nikola Slavic        def.  Simon Junk           61 64
+      QF  Jan Galka            def.  Rafael De Alba       60 61
+      QF  Tad McClean          def.  Filip Planinsek      63 62
+      16  Finn Reynolds        def.  Enzo Aguiard         62 63
+      16  Carles Hernandez     def.  Carles Anton         46 62 61
+      16  Nikola Slavic        def.  Vlad Lobak           62 75
+      16  Simon Junk           def.  Raul Dobai           76(4) 62
+      16  Rafael De Alba       def.  Alberto Colas        63 75
+      16  Jan Galka            def.  German Samofalov     62 64
+      16  Tad McClean          def.  Fynn Kuenkler        62 62
+      16  Filip Planinsek      def.  Boris Kozlov         62 62
+      32  Finn Reynolds        def.  Finlay Murgett       62 36 60
+      32  Enzo Aguiard         def.  Roman Postolka       61 75
+      32  Carles Anton         def.  Gabriel Diaz Freire  46 62 61
+      32  Carles Hernandez     def.  Billy Suarez         64 64
+      32  Nikola Slavic        def.  Juan Martin          75 62
+      32  Vlad Lobak           def.  Dhruv Sunish         76 76(8)
+      32  Simon Junk           def.  Davide Tortora       36 64 63
+      32  Raul Dobai           def.  Sebastien Collard    61 61
+      32  Rafael De Alba       def.  Michal Lusovsky      75 16 63
+      32  Alberto Colas        def.  John Hallquist Lith… 64 63
+      32  German Samofalov     def.  Olimjon Nabiev       63 76(5)
+      32  Jan Galka            def.  Florian Broska       64 46 75
+      32  Tad McClean          def.  Lukas Engelhardt     63 46 61
+      32  Fynn Kuenkler        def.  Jim Hendrikx         60 75
+      32  Boris Kozlov         def.  Gregor Ramskogler    64 46 62
+      32  Filip Planinsek      def.  Tyler Stice          76(5) 26 64
+ > Qualifying
+  > Main
+      16  Lukas Engelhardt     def.  Nicolas Simkin       62 61
+      16  Fynn Kuenkler        def.  Jackson Ross         67(5) 76 62
+      16  Olimjon Nabiev       def.  Luc Hoeijmans        63 64
+      16  Roman Postolka       def.  Joao Ferreira        26 64 63
+      16  Sebastien Collard    def.  Jakob Cadonau        60 63
+      16  Gabriel Diaz Freire  def.  Pelayo Antuna        75 62
+      16  Vlad Lobak           def.  Rudi Christiansen    75 21 Ret.
+      16  Rafael De Alba       def.  David Jeanne-Grandi… 61 61
+      32  Lukas Engelhardt     def.  Nick Watson          64 62
+      32  Nicolas Simkin       def.  Karlo Kajin          63 57 63
+      32  Jackson Ross         def.  Joao Graca           64 16 63
+      32  Fynn Kuenkler        def.  Louis Delcour        60 46 60
+      32  Luc Hoeijmans        def.  Noah Martens         61 64
+      32  Olimjon Nabiev       def.  Chris Tasker         57 62 60
+      32  Roman Postolka       def.  Charlie Barry        60 62
+      32  Joao Ferreira        def.  Calin Postea         63 64
+      32  Jakob Cadonau        def.  Javier Llinares      62 36 62
+      32  Sebastien Collard    def.  Alex Bancila         75 46 61
+      32  Pelayo Antuna        def.  Vasil Dimitrov       62 63
+      32  Gabriel Diaz Freire  def.  Pawin Jirapoomdaje   61 62
+      32  Rudi Christiansen    def.  Benji Jacobson       75 60
+      32  Vlad Lobak           def.  Vicente Arbelaez Pr… 62 75
+      32  David Jeanne-Grandi… def.  Maxime St-Hilaire    61 75
+      32  Rafael De Alba       def.  Kacper Dworak        64 57 63
+      64  Lukas Engelhardt     def.  Vanja Dobrnjac       64 60
+      64  Nick Watson          def.  Juan Rodriguez       60 63
+      64  Nicolas Simkin       def.  Luka Petrovic        62 26 63
+      64  Karlo Kajin          def.  Christopher Cahour   63 63
+      64  Joao Graca           def.  Nicolas Rodriguez    76(4) 61
+      64  Jackson Ross         def.  Vojtech Podzemny     61 62
+      64  Louis Delcour        def.  Alexander Gima       36 64 62
+      64  Fynn Kuenkler        def.  Lucas Dini           60 46 60
+      64  Noah Martens         def.  Maj Tomac            64 64
+      64  Olimjon Nabiev       def.  Chris Andre          63 62
+      64  Chris Tasker         def.  Spencer Gray         60 63
+      64  Roman Postolka       def.  Matis Amier          63 16 63
+      64  Charlie Barry        def.  Maxime Hillhouse     61 62
+      64  Joao Ferreira        def.  Javier Montoya       62 61
+      64  Calin Postea         def.  Pasawee Reansuwong   63 64
+      64  Javier Llinares      def.  Thomas Norwood       46 62 62
+      64  Jakob Cadonau        def.  Ben Koch             76 61
+      64  Alex Bancila         def.  Jb Pickard           61 62
+      64  Sebastien Collard    def.  Kristofer Johnson    63 61
+      64  Vasil Dimitrov       def.  Samrakshyak Bajrach… 67(8) 64 63
+      64  Pelayo Antuna        def.  Mohamed Ali Bellalo… 61 63
+      64  Pawin Jirapoomdaje   def.  Manuel Bernard       63 26 61
+      64  Rudi Christiansen    def.  Walker Stearns       63 62
+      64  Benji Jacobson       def.  Ruan Du Preez        36 63 64
+      64  Vicente Arbelaez Pr… def.  Nikola Puric         62 60
+      64  Vlad Lobak           def.  Oriol Fillat Gimenez 76(4) 26 75
+      64  David Jeanne-Grandi… def.  Josh Raab            36 75 64
+      64  Maxime St-Hilaire    def.  Athanasios Spyropou… 75 62
+      64  Kacper Dworak        def.  Jordi Blanchar       64 61
+      64  Rafael De Alba       def.  Matthew Gooch        61 75
+     128  Juan Rodriguez       def.  Seth Richey          64 75
+     128  Christopher Cahour   def.  Will Gray            76(1) 46 63
+     128  Nicolas Rodriguez    def.  Alexander Vishnevsk… 62 63
+     128  Noah Martens         def.  Martin Vasquez       61 62
+     128  Chris Andre          def.  Alejandro Sanchez G… 63 75
+     128  Matis Amier          def.  Harrison Williams    63 61
+     128  Ben Koch             def.  Antoine Audrain      76(6) 64
+     128  Mohamed Ali Bellalo… def.  Chase Parker         63 63
+     128  Ruan Du Preez        def.  Alan Sanson          36 63 75
+     128  Nikola Puric         def.  Francisco Erramuspe  61 62
 ~~~
 
 <a name="21-65872"></a>
@@ -1540,7 +1649,6 @@
      QF  Joaquin Bianchi      def.  Alex Blanchar        61 75
   > Consolation
      SQ  Enrique Sanchez      def.  Gonzalo Fernandez    60 63
-     SQ  Stefan Andrei        def.  Alex Blanchar        62 67(4) [5]
   > Playoff 3-4
       F  Alex Martinez Roca   def.  Baptiste Mercier     76(4) 64
  > Singles Flight 2
