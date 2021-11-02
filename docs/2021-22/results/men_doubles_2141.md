@@ -19,6 +19,7 @@
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisM/Tournaments/Overview/4DAD8F21-9326-420E-B8FB-259D52500DC0" target="_blank">Fighting Illini Invite</a>  
 - 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Wesleyan Invitational</a>  
 
 <a name="21-27941"></a>

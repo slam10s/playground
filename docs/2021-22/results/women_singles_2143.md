@@ -28,15 +28,14 @@
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Tennessee Fall Invitational</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/38F0263E-9612-4653-A277-431DF0FCCC45" target="_blank">Tennessee Fall Invitational</a>  
 
 <a name="21-46458"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Southeast Regional Championship
   Dates: Oct 14-27, 2021
   Host: University Of Central Florida (W)
-═════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Main Draw
   > Main
@@ -815,11 +814,11 @@
 
 <a name="21-52217"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
   ITA Division I Women's Northwest Regional Championship
   Dates: Oct 22-26, 2021
   Host: Stanford University (W)
-═════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Main
   > Main
@@ -1455,11 +1454,11 @@
 
 <a name="21-71605"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   Brown Quad
   Dates: Oct 29-31, 2021
   Host: Brown University (W)
-═════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Day A
   > Main
@@ -1496,7 +1495,7 @@
      32  Maxi Duncan         def.  Alexandra Benedetto 62 62
      32  Sophia Reddy        def.  Rachel Eason        64 75
      32  Mihaela Marculescu  def.  Britany Lau         75 16 [7]
-     32  Olivia Mariotti     def.  Rachel Lim          63 63
+     32  Rachel Lim          def.  Olivia Mariotti     63 63
      32  Sany Gawande        def.  Gabriella Soliman   62 26 [8]
      32  Addison Ahlstrom    def.  Demi Snyder         57 63 [3]
      32  Anna Zhang          def.  Maria Aguiar        61 62
@@ -1509,11 +1508,11 @@
 
 <a name="21-68401"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   Elon Fall Invitational
   Dates: Oct 28-30, 2021
   Host: Elon University (W)
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Gold
   > East
@@ -1529,7 +1528,7 @@
      SF  Semra Aksu         def.  Lizette Reding     64 64
      SF  Elisa van Meeteren def.  Jade Houston       64 75
   > 3-4 Playoff
-      F  Erika Cheng        def.  Alexandra Almborg  62 Ret.
+      F  Erika Cheng        def.  Alexandra Almborg  52 Ret.
   > South
       F  Lizette Reding     def.  Jade Houston       60 63
  > Maroon
@@ -1552,7 +1551,7 @@
  > Powell
   > East
       F  Emma Fernald        vs   Ine Stange         
-     SF  Emma Fernald       def.  Willa Rogers       62 64
+     SF  Emma Fernald       def.  Willa Rogers       16 61 62
      SF  Ine Stange         def.  Olivia Archer      76(5) 62
      QF  Willa Rogers       def.  Hannah Gaines      61 63
      QF  Emma Fernald       def.  Alison ODea        76(5) 64
@@ -1579,7 +1578,7 @@
      16  Lafilissa Joao     def.  Lily Hackbirth     61 63
      16  Alisia Manolescu   def.  Isabelle Exsted    75 62
      16  Sarah Allen        def.  Lisa Fukutoku      Walkover
-     16  Elsa Kirch          vs   Kensie Cricchio    
+     16  Elsa Kirch         def.  Kensie Cricchio    Default
  > Acorn 3rd Round Saturday
   > Main
      16  Shauna Galvin       vs   Kensie Cricchio    
@@ -1587,22 +1586,22 @@
      16  Lafilissa Joao     def.  Alisia Manolescu   63 61
      16  Isabelle Exsted    def.  Elsa Kirch         64 76(5)
      16  Anaiah Jones        vs   Lisa Fukutoku      
- > Phoenix
+ > Extra Matches
   > Main
      16  Maretha Burger     def.  Sarah Allen        62 63
      16  Hedda Gurholt      def.  Dariya Radulova    76(5) 63
-     16  Ine Stange         def.  Willa Rogers       36 60 62
+     16  Ine Stange         def.  Willa Rogers       46 60 62
      16  Emma Fernald       def.  Olivia Archer      62 64
      16  Raffaela Alhach    def.  Victoria Saldh     64 61
 ~~~
 
 <a name="21-24286"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   NIU Huskie Indoor Invitational
   Dates: Oct 29-31, 2021
   Host: Northern Illinois Univ. (W)
-═══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Flight 1
   > East
@@ -1954,11 +1953,16 @@
  Women's Open Singles
  > Flight G
   > Main
+     R5     Alexandria Rogers    def.     Sam Scarlett         83
+     R5     Joslin Seaberg       def.     Angelina Powers      63 26 [4]
+     R4     Joslin Seaberg       def.     Sam Scarlett         60 61
      R4     Angelina Powers      def.     Natasha Sackx        61 60
+     R3     Natasha Sackx        def.     Alexandria Rogers    Walkover
      R1     Sam Scarlett         def.     Natasha Sackx        61 61
      R1     Joslin Seaberg       def.     Alexandria Rogers    62 63
  > Flight B
   > East
+      F     Sara Beckman         def. (1) Julia Ortega         06 64 [7]
      SF (1) Julia Ortega         def.     Alice Marques        76(4) 60
      SF     Sara Beckman         def. (2) Sanne Brull          61 64
      QF (1) Julia Ortega         def.     Annabelle Mulick     61 61
@@ -1966,10 +1970,16 @@
      QF     Sara Beckman         def.     Zoe Coggins          63 61
      QF (2) Sanne Brull          def.     Deimante Bulatovaite 62 62
   > West
+      F     Mari Carmen Bufkin   def.     Deimante Bulatovaite 75 63
      SF     Mari Carmen Bufkin   def.     Annabelle Mulick     Walkover
      SF     Deimante Bulatovaite def.     Zoe Coggins          62 62
+  > 3-4 Playoff
+      F     Alice Marques        def. (2) Sanne Brull          76(11) 75
+  > South
+      F     Zoe Coggins          def.     Annabelle Mulick     Walkover
  > Flight A
   > East
+      F (1) Lea Falentin         def. (2) Audrey Rafols        63 61
      SF (1) Lea Falentin         def.     Maria Borodi         75 64
      SF (2) Audrey Rafols        def.     Maria Vittoria Casu… 64 67(3) [6]
      QF (1) Lea Falentin         def.     Paulina Alvarez      46 61 [5]
@@ -1977,10 +1987,16 @@
      QF     Maria Vittoria Casu… def.     Amber Huk            61 63
      QF (2) Audrey Rafols        def.     Alice Di Matteo      61 57 [5]
   > West
+      F     Gina Dudley          def.     Alice Di Matteo      Walkover
      SF     Gina Dudley          def.     Paulina Alvarez      63 61
      SF     Alice Di Matteo      def.     Amber Huk            63 76(6)
+  > 3-4 Playoff
+      F     Maria Borodi         def.     Maria Vittoria Casu… 62 61
+  > South
+      F     Paulina Alvarez      def.     Amber Huk            64 62
  > Flight C
   > East
+      F     Elise Leik           def. (1) Sylvie Van Cott      63 60
      SF (1) Sylvie Van Cott      def.     Julia Rydel          63 75
      SF     Elise Leik           def.     Kate Bolton          60 61
      QF (1) Sylvie Van Cott      def.     Anna Hoerter         61 61
@@ -1988,10 +2004,16 @@
      QF     Kate Bolton          def.     Luisa Garcia         61 61
      QF     Elise Leik           def. (2) Natalie Sprenger     63 76(4)
   > West
+      F (2) Natalie Sprenger     def.     Tanner Rowland       64 26 [5]
      SF     Tanner Rowland       def.     Anna Hoerter         63 63
      SF (2) Natalie Sprenger     def.     Luisa Garcia         63 63
+  > 3-4 Playoff
+      F     Kate Bolton          def.     Julia Rydel          67(5) 63 [5]
+  > South
+      F     Luisa Garcia         def.     Anna Hoerter         36 62 [6]
  > Flight D
   > East
+      F (1) Brennan Foreman      def.     Julia Azzi           61 64
      SF (1) Brennan Foreman      def.     Isabella Francis     75 61
      SF     Julia Azzi           def.     Sylvana Talamantes   62 26 [6]
      QF (1) Brennan Foreman      def.     Alyssa Tay           62 76(1)
@@ -1999,8 +2021,13 @@
      QF     Julia Azzi           def.     Seraphine Vossen     63 60
      QF     Sylvana Talamantes   def. (2) Ella Lavender        63 64
   > West
+      F (2) Ella Lavender        def.     Alyssa Tay           75 61
      SF     Alyssa Tay           def.     Maya Young           57 62 [8]
      SF (2) Ella Lavender        def.     Seraphine Vossen     62 63
+  > 3-4 Playoff
+      F     Sylvana Talamantes   def.     Isabella Francis     61 64
+  > South
+      F     Seraphine Vossen     def.     Maya Young           46 63 [3]
  > Flight E
   > East
      SF     Antoinette Schreiber def.     Sophia Nguyen        46 61 [3]
@@ -2010,10 +2037,17 @@
      QF     Caro Groff           def.     Haley Garcia         64 62
      QF (2) Lada Baglaeva        def.     Abigail Proktor      61 64
   > West
+      F     Haley Garcia         def.     Gionna Parsa         60 61
      SF     Gionna Parsa         def. (1) Zeynep Aynaci        Walkover
      SF     Haley Garcia         def.     Abigail Proktor      06 63 [3]
+  > 3-4 Playoff
+      F     Caro Groff           def.     Sophia Nguyen        75 36 [7]
+  > South
+      F     Abigail Proktor      def. (1) Zeynep Aynaci        75 64
  > Flight F
   > Main
+     R3     Daniela Christian    def.     Isabella Chacon      60 64
+     R3     Ghada Alajeely       def.     Brynn Mckenzie       60 60
      R2     Ghada Alajeely       def.     Isabella Chacon      61 60
      R2     Daniela Christian    def.     Brynn Mckenzie       61 60
      R1     Ghada Alajeely       def.     Daniela Christian    64 60

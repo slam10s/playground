@@ -1051,7 +1051,7 @@
      QF (2) Ryder Jackson        def. (6) Stefan Leustian      46 60 75
      16 (1) Sema Pankin          def.     Leyton Bohren        63 60
      16 (5) Phillip Jordan       def.     Stanislas De Samuce… 64 61
-     16 (4) Liam Krall           def.     Jeffrey Fradkin      46 62 64
+     16 (4) Liam Krall           def.     Jeffrey Fradkin      64 26 64
      16     David Norfeldt       def. (7) Julian Steinhausen   62 75
      16     Will Davies          def.     Josh Williams        63 61
      16     Issa Yoshida         def.     Yassine Smiej        64 62
@@ -1194,7 +1194,7 @@
       F  Nikolas Tvedt        def.  Bruno Casino         76(5) 64
      SF  Bruno Casino         def.  Jan Lucca Marquardt  36 61 [1]
      SF  Nikolas Tvedt        def.  Joaquin Espinoza     61 63
-     QF  Jan Lucca Marquardt  def.  Lawrence Sciglitano  46 63 76(6)
+     QF  Jan Lucca Marquardt  def.  Lawrence Sciglitano  46 63 [6]
      QF  Bruno Casino         def.  Manuel Balce         62 62
      QF  Nikolas Tvedt        def.  Nejc Sitar           76(5) 64
      QF  Joaquin Espinoza     def.  Sam De Vries         26 76(5) [8]
@@ -1213,7 +1213,7 @@
      16  Matteo Masala        def.  Manuel Monteiro      62 64
      16  Ryo Minakata         def.  Milo Benn            62 62
      16  Tommy Hsu            def.  Steven Paz           75 64
-     16  Moritz Stoeger       def.  Erik Sarlvik         61 63
+     16  Moritz Stoeger       def.  Erik Sarlvik         63 61
      16  Pablo Gomez Galvan   def.  Nils Plutat          75 61
   > West
       F  Caden Moortgat       def.  Erik Sarlvik         63 64

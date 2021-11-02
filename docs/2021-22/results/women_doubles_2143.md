@@ -28,7 +28,6 @@
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Tennessee Fall Invitational</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/38F0263E-9612-4653-A277-431DF0FCCC45" target="_blank">Tennessee Fall Invitational</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -634,11 +633,11 @@
 
 <a name="21-71605"></a>
 ~~~
-═══════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════
   Brown Quad
   Dates: Oct 29-31, 2021
   Host: Brown University (W)
-═══════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Day A
   > Main
@@ -658,7 +657,7 @@
      16  Edwards/Mahajan     def.  Marculescu/Snyder 63
  > Day C
   > Main
-     16  Lau/Benedetto       def.  Duncan/Daujotaite 63
+     16  Duncan/Daujotaite   def.  Lau/Benedetto     63
      16  Reddy/Hofflander    def.  Lim/Gawande       75
      16  Peus/Mariotti       def.  Marculescu/Snyder 63
      16  Lopez/Aguiar        def.  Bhan/Zhang        64
@@ -699,9 +698,11 @@
       F  Aksu/Cheng          def.  Ball/Saldh          82
      SF  Ball/Saldh          def.  Almborg/Burger      86
      SF  Aksu/Cheng          def.  Hill/Gaines         85
+  > 3-4 Playoff
+      F  Radulova/Richtrova   vs   Reding/Tanik        
   > South
       F  Almborg/Burger      def.  Hill/Gaines         82
- > Powell
+ > Extra Matches
   > East
      QF  Reding/Tanik        def.  Fernald/Saric       85
      QF  Archer/ODea         def.  van Meeteren/Stange 87(3)
@@ -711,11 +712,11 @@
 
 <a name="21-24286"></a>
 ~~~
-════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════
   NIU Huskie Indoor Invitational
   Dates: Oct 29-31, 2021
   Host: Northern Illinois Univ. (W)
-════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight 1 Doubles
   > East
@@ -940,32 +941,59 @@
 
 <a name="21-30727"></a>
 ~~~
-════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   Slug Invite - hosted by West Valley College
   Dates: Oct 30-31, 2021
   Host: University Of California, Santa Cruz (W)
-════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Flight A
   > East
-     QF (1) Rafols/Dudley     def.     Beckman/Sprenger    83
-     QF     Borodi/Leik       def.     Comas Adam/Hellbe   83
-     QF     Falentin/Marques  def.     Alvarez/Casucci     83
-     QF (2) Brull/Di Matteo   def.     Bufkin/Van Cott     85
+      F (1) Rafols/Dudley       def.     Falentin/Marques    86
+     SF (1) Rafols/Dudley       def.     Borodi/Leik         85
+     SF     Falentin/Marques    def. (2) Brull/Di Matteo     85
+     QF (1) Rafols/Dudley       def.     Beckman/Sprenger    83
+     QF     Borodi/Leik         def.     Comas Adam/Hellbe   83
+     QF     Falentin/Marques    def.     Alvarez/Casucci     83
+     QF (2) Brull/Di Matteo     def.     Bufkin/Van Cott     85
+  > West
+      F     Bufkin/Van Cott     def.     Comas Adam/Hellbe   87(4)
+     SF     Comas Adam/Hellbe   def.     Beckman/Sprenger    86
+     SF     Bufkin/Van Cott     def.     Alvarez/Casucci     82
+  > 3-4 Playoff
+      F     Borodi/Leik         def. (2) Brull/Di Matteo     82
+  > South
+      F     Alvarez/Casucci     def.     Beckman/Sprenger    82
  > Flight B
   > East
-     QF     Baglaeva/Lavender def. (1) Huk/Talamantes      86
-     QF     Rydel/Coggins     def.     Young/Tay           87(2)
-     QF     Foreman/Groff     def.     Francis/Rowland     84
-     QF (2) Mulick/Bolton     def.     Bulatovaite/Hoerter 84
+      F     Rydel/Coggins       def. (2) Mulick/Bolton       86
+     SF     Rydel/Coggins       def.     Baglaeva/Lavender   87(6)
+     SF (2) Mulick/Bolton       def.     Foreman/Groff       87(5)
+     QF     Baglaeva/Lavender   def. (1) Huk/Talamantes      86
+     QF     Rydel/Coggins       def.     Young/Tay           87(2)
+     QF     Foreman/Groff       def.     Francis/Rowland     84
+     QF (2) Mulick/Bolton       def.     Bulatovaite/Hoerter 84
+  > West
+      F (1) Huk/Talamantes      def.     Bulatovaite/Hoerter 83
+     SF (1) Huk/Talamantes      def.     Young/Tay           82
+     SF     Bulatovaite/Hoerter def.     Francis/Rowland     80
+  > 3-4 Playoff
+      F     Baglaeva/Lavender   def.     Foreman/Groff       85
+  > South
+      F     Francis/Rowland     def.     Young/Tay           87(2)
  > Flight D
   > Main
-     R1     Rogers/Alajeely   def.     Powers/Scarlett     86
-     R1     Christian/Chacon  def.     Sackx/Mckenzie      80
+     R3     Rogers/Alajeely     def.     Christian/Chacon    84
+     R3     Powers/Scarlett     def.     Sackx/Mckenzie      83
+     R1     Rogers/Alajeely     def.     Powers/Scarlett     86
+     R1     Christian/Chacon    def.     Sackx/Mckenzie      80
  > Flight C
   > Main
-     R5     Garcia/Seaberg    def.     Proktor/Vossen      84
-     R1     Garcia/Schreiber  def.     Hu/Aynaci           84
+     R5     Garcia/Seaberg      def.     Proktor/Vossen      84
+     R4     Garcia/Schreiber    def.     Proktor/Vossen      87(4)
+     R3     Hu/Aynaci           def.     Proktor/Vossen      87(4)
+     R1     Garcia/Schreiber    def.     Hu/Aynaci           84
+     R1     Garcia/Seaberg      def.     Azzi/Nguyen         83
 ~~~
 
 Return to the [Top](./women_doubles_2143.md) &#124; [Home Page](../../index.md)

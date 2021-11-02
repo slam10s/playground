@@ -6,6 +6,7 @@
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaTechM/Tournaments/Overview/E04A8772-9C21-4B5A-B6E0-55C939AC5A86" target="_blank">GT Invitational</a>  
 - 11/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3C0D3BF7-1EA0-4314-9798-02FE691DD86E" target="_blank">ITA National Fall Championships</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/EBFDB9EE-65DF-40EA-8395-B821B7EA07B0" target="_blank">Jack Kramer Invitational</a>  
+- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/904B03DF-C1F9-40F4-BE7B-ACF330F850AB" target="_blank">MAC Invite</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfThePacificM/Tournaments/Overview/32DAC0A6-A705-4382-880F-230A39E21F42" target="_blank">Pacific Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivM/Tournaments/Overview/4DFFAD56-EAA9-4394-8451-1B5126D73B7A" target="_blank">Ralston/Neufeld Coaches Challenge</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">San Diego Veterans Tennis Classic</a>  

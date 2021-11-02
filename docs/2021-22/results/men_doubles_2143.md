@@ -482,7 +482,7 @@
  > Blue
   > East
       F  Tvedt/Penzlin        def.  Minakata/Kryvchun   85
-     SF  Tvedt/Penzlin        def.  Gomez Galvan/Hann   83
+     SF  Tvedt/Penzlin        def.  Gomez Galvan/Hann   82
      SF  Minakata/Kryvchun    def.  Casino/Bascon       86
      QF  Tvedt/Penzlin        def.  Moortgat/Marquardt  86
      QF  Gomez Galvan/Hann    def.  Stoeger/Martin      84
@@ -490,10 +490,12 @@
      QF  Casino/Bascon        def.  Monteiro/Sitar      84
   > West
       F  Moortgat/Marquardt   def.  Ortega/Balce        82
-     SF  Moortgat/Marquardt   def.  Stoeger/Martin      87(3)
+     SF  Moortgat/Marquardt   def.  Stoeger/Martin      87(7)
      SF  Ortega/Balce         def.  Monteiro/Sitar      85
   > 3-4 Playoff
       F  Casino/Bascon        def.  Gomez Galvan/Hann   84
+  > South
+      F  Monteiro/Sitar       def.  Stoeger/Martin      Walkover
  > White
   > East
       F  de la Bassetiere/Br… def.  Andersson/Roider    87(4)
@@ -517,8 +519,14 @@
      QF  Jesser/De Vries      def.  Baldwin/Watkins     Walkover
      QF  Taylor/Duron         def.  Paz/Grimes          86
   > West
+      F  Paz/Grimes           def.  Plutat/Fernandez    Walkover
      SF  Plutat/Fernandez     def.  Dillon/Thomas       81
      SF  Paz/Grimes           def.  Baldwin/Watkins     Walkover
+  > 3-4 Playoff
+      F  Sciglitano/Benn      def.  Jesser/De Vries     84
+ > Red South
+  > Main
+      F  Monteiro/Sitar       def.  Paz/Grimes          87(6)
 ~~~
 
 <a name="21-26801"></a>
