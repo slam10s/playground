@@ -13,5 +13,6 @@
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">San Diego Veterans Tennis Classic</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3BD3D9A3-1CE7-4BB9-93E6-7D1ECED07DFE" target="_blank">Southern Conference Men's & Women's Fall Tennis Championships</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityM/Tournaments/Overview/CDBF110F-C481-4F40-9B58-54D68D17F9A2" target="_blank">Wake Forest Invite</a>  
+- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityM/Tournaments/Overview/5278617F-5593-42A8-B7B3-52F442BE8917" target="_blank">Yale Invitational</a>  
 
 Return to the [Top](./men_doubles_2144.md) &#124; [Home Page](../../index.md)
