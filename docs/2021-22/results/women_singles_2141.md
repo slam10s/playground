@@ -893,7 +893,7 @@
      16  Rhea Verma           def.  Ting-Pei Chang       26 62 [7]
      16  Kendall Kovick       def.  Chelsea Sawyer       46 76 [9]
      16  Tatiana Simova       def.  Camilla Bossi        26 76 [3]
-     16  Dina Chaika          def.  Anastaiia Bovolskaia 64 63
+     16  Dina Chaika          def.  Anastasia Bovolskaya 64 63
      16  Momoko Nagato        def.  Tyra Richardson      61 63
      16  Michaela Kucharova   def.  Joy Callwood         64 60
  > JMU v PSU
@@ -907,7 +907,7 @@
      16  Gracey Hirsch        def.  Shannon McCarthy     64 75
  > Extra Matches Day 1
   > Main
-      F  Penny Hsieh          def.  Alexandra Prudente   76(4) 63
+      F  Pei Ju Hsieh         def.  Alexandra Prudente   76(4) 63
  > PSU v Louisville
   > Main
      16  Sofiya Chekhlystova  def.  Chelsea Sawyer       61 62
@@ -921,7 +921,7 @@
      16  Daria Afanasyeva     def.  Ting-Pei Chang       63 26 [5]
      16  Daniela Voloh        def.  Kendall Kovick       46 63 [8]
      16  Kylie Moulin         def.  Camilla Bossi        64 36 [6]
-     16  Anastaiia Bovolskaia def.  Amanda Nord          62 57 [6]
+     16  Anastasia Bovolskaya def.  Amanda Nord          62 57 [6]
      16  Momoko Nagato        def.  Hope Moulin          76 60
      16  Michaela Kucharova   def.  Michelle Los Arcos   62 64
  > Extra Matches Day 2
@@ -940,7 +940,7 @@
      16  Sofiya Chekhlystova  def.  Ting-Pei Chang       63 60
      16  Gabby OGorman        def.  Kendall Kovick       61 61
      16  Karly Friedland      def.  Camilla Bossi        63 64
-     16  Anastaiia Bovolskaia def.  Sydney Weinberg      76(1) 62
+     16  Anastasia Bovolskaya def.  Sydney Weinberg      76(1) 62
      16  Olivia Ryan          def.  Momoko Nagato        16 76(3) [8]
      16  Michaela Kucharova   def.  Gracey Hirsch        64 60
 ~~~

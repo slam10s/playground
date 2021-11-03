@@ -126,7 +126,7 @@
       64      Anca Craciun         def. (24) Nastasya Semenovski  64 75
       64      Ana Jover            def. (10) Lauren Lemonds       63 62
       64 (29) Justine Leong        def.      Vasavi Ganesan       64 63
-      64  (6) Denise Stoica        def.      Cali Fuller          62 61
+      64  (6) Denise Stoica        def.      Calista Fuller       62 61
       64 (27) Maria Olivia Castedo def.      Florencia Fuentes    63 62
       64 (14) Megan Heuser         def.      Katarina Dukic       63 60
       64 (30) Nicole Stephens      def.      Maru Poppe           57 63 61
@@ -155,7 +155,7 @@
      128      Anca Craciun         def.      Allison McConnell    62 64
      128      Ana Jover            def.      Sabina Brichackova   76(5) 61
      128      Vasavi Ganesan       def.      Christine Gouws      64 64
-     128      Cali Fuller          def.      Tara Damnjanovic     75 64
+     128      Calista Fuller       def.      Tara Damnjanovic     75 64
      128      Florencia Fuentes    def.      Dagmar Zdrubecka     61 60
      128      Maru Poppe           def.      Kiley Rabjohns       36 63 61
      128      Charlotte Gisclon    def.      Kristina Pukhaeva    64 60
@@ -1920,7 +1920,7 @@
       64      Malin Falk           def.      Sabina Richtrova     63 64
       64  (8) Maria Juliana Parra… def.      Melissa Ifidzhen     61 61
       64      Lisa Fukutoku        def.      Gabrielle Clairotte  60 63
-      64 (14) Hope Moulin          def.      Penny Hsieh          60 26 62
+      64 (14) Hope Moulin          def.      Pei Ju Hsieh         60 26 62
       64      Emily Dunbar         def.      Annie Clark          60 62
       64      Dariya Radulova      def.      Nicole Kiefer        76(1) 64
       64 (11) Momoko Nagato        def.      Briee Joliff         61 60
@@ -1956,7 +1956,7 @@
      128      Andrea Campodonico   def.      Elisa van Meeteren   64 63
      128      Madi Ballow          def.      Kirsten Husted       36 61 [7]
      128      Chhinda Som          def.      Melissa Ifidzhen     63 75
-     128      Penny Hsieh          def.      Gabrielle Clairotte  46 63 [7]
+     128      Pei Ju Hsieh         def.      Gabrielle Clairotte  46 63 [7]
      128      Annie Clark          def.      Briee Joliff         63 61
      128      Eloise Saraty        def.      Emma Nurgazieva      63 61
      128      Erika Cheng          def.      Natalia Nikolopoulou 75 26 [5]
@@ -2182,7 +2182,7 @@
      QF  Carly Briggs         def.  Mariana Manyoma Vel… 60 63
      16  Lucia Quiterio       def.  Mia Rabinowitz       62 60
      16  Sydney Berlin        def.  Miska Kadleckova     63 75
-     16  Kelly Chen           def.  Sabhyata Nihalani    61 63
+     16  Kelly Chen           def.  Saby Nihalani        61 63
      16  Tatsiana Sasnouskaya def.  Maia Sung            46 61 76(2)
      16  Christina Hand       def.  Yu Chen              26 76(7) 76(9)
      16  Mariana Manyoma Vel… def.  Sofia Munera         Default
@@ -2191,7 +2191,7 @@
       F  Miska Kadleckova     def.  Maia Sung            46 63 76(8)
      SF  Miska Kadleckova     def.  Mia Rabinowitz       61 61
      SF  Maia Sung            def.  Kacie Harvey         Default
-     QF  Miska Kadleckova     def.  Sabhyata Nihalani    57 64 76(4)
+     QF  Miska Kadleckova     def.  Saby Nihalani        57 64 76(4)
      QF  Maia Sung            def.  Yu Chen              76(9) 26 76(8)
   > North
       F  Lucia Quiterio       def.  Christina Hand       64 63
@@ -2200,7 +2200,7 @@
   > 3-4 Playoff
       F  Kelly Chen           def.  Tatsiana Sasnouskaya Default
   > South
-      F  Yu Chen              def.  Sabhyata Nihalani    63 16 76(4)
+      F  Yu Chen              def.  Saby Nihalani        63 16 76(4)
   > Southwest
       F  Kacie Harvey         def.  Mia Rabinowitz       62 62
   > Northwest
@@ -2247,7 +2247,7 @@
  > Extra Matches
   > Main
      QF  Stephanie Schrage    def.  Nina Geissler        16 64 76(7)
-     QF  Sofia Cabezas        def.  Sabhyata Nihalani    63 63
+     QF  Sofia Cabezas        def.  Saby Nihalani        63 63
      QF  Ruxi Schech          def.  Amber ODell          64 64
      QF  Raffaela Alhach      def.  Sara McClure         61 62
 ~~~

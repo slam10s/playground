@@ -1594,7 +1594,7 @@
       64      Anca Craciun         def. (24) Nastasya Semenovski  64 75
       64      Ana Jover            def. (10) Lauren Lemonds       63 62
       64 (29) Justine Leong        def.      Vasavi Ganesan       64 63
-      64  (6) Denise Stoica        def.      Cali Fuller          62 61
+      64  (6) Denise Stoica        def.      Calista Fuller       62 61
       64 (27) Maria Olivia Castedo def.      Florencia Fuentes    63 62
       64 (14) Megan Heuser         def.      Katarina Dukic       63 60
       64 (30) Nicole Stephens      def.      Maru Poppe           57 63 61
@@ -1623,7 +1623,7 @@
      128      Anca Craciun         def.      Allison McConnell    62 64
      128      Ana Jover            def.      Sabina Brichackova   76(5) 61
      128      Vasavi Ganesan       def.      Christine Gouws      64 64
-     128      Cali Fuller          def.      Tara Damnjanovic     75 64
+     128      Calista Fuller       def.      Tara Damnjanovic     75 64
      128      Florencia Fuentes    def.      Dagmar Zdrubecka     61 60
      128      Maru Poppe           def.      Kiley Rabjohns       36 63 61
      128      Charlotte Gisclon    def.      Kristina Pukhaeva    64 60
@@ -2180,22 +2180,22 @@
  Women's Open Singles
  > WVU v Radford
   > Main
-     16  Salma Loudili        def.  Anastaiia Bovolskaia 62 63
+     16  Salma Loudili        def.  Anastasia Bovolskaya 62 63
      16  Camilla Bossi        def.  Melissa Ifidzhen     76 62
      16  Kendall Kovick       def.  Malin Falk           62 Ret.
      16  Ting-Pei Chang       def.  Emily Brandow        62 61
      16  Michaela Kucharova   def.  Katelyn Fruehauf     64 62
      16  Momoko Nagato        def.  Camryn McClure       64 62
-     16  Penny Hsieh          def.  Marielle Leahy       60 61
+     16  Pei Ju Hsieh         def.  Marielle Leahy       60 61
  > WVU v WVSU, WVU v MU
   > Main
      16  Kendall Kovick       def.  Gaya Solomon         62 46 [11]
      16  Ting-Pei Chang       def.  Tuva Wallin          63 64
      16  Camilla Bossi        def.  Julia Daszkiewicz    60 62
-     16  Anastaiia Bovolskaia def.  Maya Haidari         64 62
+     16  Anastasia Bovolskaya def.  Maya Haidari         64 62
      16  Michaela Kucharova   def.  Lea Rolland          60 60
      16  Momoko Nagato        def.  Kara Joseph          62 62
-     16  Penny Hsieh          def.  Audrey Grigore       61 60
+     16  Pei Ju Hsieh         def.  Audrey Grigore       61 60
  > WVU v Marshall
   > Main
      16  Ting-Pei Chang       def.  Emma Vanderheyden    63 06 [7]
@@ -2203,7 +2203,7 @@
      16  Camilla Bossi        def.  Sophia Hurrion       76 62
      16  Michaela Kucharova   def.  Jutte Van Hansewyck  63 62
      16  Liz Stefancic        def.  Momoko Nagato        64 60
-     16  Penny Hsieh          def.  Rieke Gillar         60 61
+     16  Pei Ju Hsieh         def.  Rieke Gillar         60 61
 ~~~
 
 <a name="21-50226"></a>

@@ -1135,17 +1135,17 @@
  > WVU v MU
   > Main
      QF  Bossi/Chang       def.  Ballow/Van Hansewyck 64
-     QF  Nagato/Bovolskaia def.  Clairotte/Vanderhey… 75
+     QF  Nagato/Bovolskaya def.  Clairotte/Vanderhey… 75
      QF  Kovick/Kucharova  def.  Gillar/Stefancic     76(4)
  > WVU v Villanova
   > Main
      QF  Bossi/Chang       def.  Strande/Grigorian    61
-     QF  Nagato/Bovolskaia def.  Kapp/Fisher          63
+     QF  Nagato/Bovolskaya def.  Kapp/Fisher          63
      QF  Kovick/Kucharova  def.  Steffen/Brogan       63
  > WVU v Radford
   > Main
      QF  Bossi/Chang       def.  Ifidzhen/Loudili     75
-     QF  Nagato/Bovolskaia def.  Brandow/Falk         63
+     QF  Nagato/Bovolskaya def.  Brandow/Falk         63
      QF  Kovick/Kucharova  def.  Fruehauf/McClure     63
 ~~~
 

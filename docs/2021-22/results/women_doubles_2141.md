@@ -453,7 +453,7 @@
   > Main
      QF  Bossi/Chang          def.  Sawyer/Simova     64
      QF  Kovick/Kucharova     def.  Richardson/Chaika 64
-     QF  Bovolskaia/Nagato    def.  Callwood/Verma    62
+     QF  Bovolskaya/Nagato    def.  Callwood/Verma    62
  > JMU v PSU
   > Main
      QF  OGorman/Chekhlystova def.  Afanasyeva/Moulin 61

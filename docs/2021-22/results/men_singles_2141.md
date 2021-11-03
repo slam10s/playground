@@ -552,7 +552,7 @@
       64 (15) Michael Sun          def.      Jonathan Olive-Blan… 64 46 62
       64 (32) Aj Woodman           def.      Jayden Templeman     60 36 64
       64 (30) Steven Sun           def.      Diego Serra Sparrow  62 64
-      64  (2) Alex Kotzen          def.      Cheng Tang           61 61
+      64  (2) Alex Kotzen          def.      Rex Tang             61 61
      128      Nicholas Lorenz      def.      Diego Huttepain      26 63 76(4)
      128      Jan Semerak          def.      Manuel Alonso        62 60
      128      David Lins           def.      Zack Elliott         67(4) 63 76(5)
@@ -584,7 +584,7 @@
      128      Jonathan Olive-Blan… def.      Rohan Gupta          63 57 75
      128      Jayden Templeman     def.      Daniel Webb          61 63
      128      Diego Serra Sparrow  def.      Sebastian Pinos      62 63
-     128      Cheng Tang           def.      Stijn Paardekooper   64 60
+     128      Rex Tang             def.      Stijn Paardekooper   64 60
  > Qualifying Singles Draw
   > Main
       32  (1) Carl Gustavson       def.      Jordan Paul          61 62

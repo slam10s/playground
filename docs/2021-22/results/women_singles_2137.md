@@ -266,12 +266,12 @@
      SF  Eleonora Molinaro    def.  Madeline Atway      63 63
      SF  Jess Dawson          def.  Samantha Buyckx     57 64 61
      QF  Madeline Atway       def.  Karolina Berankova  63 76(7)
-     QF  Eleonora Molinaro    def.  Sabhyata Nihalani   57 62 75
+     QF  Eleonora Molinaro    def.  Saby Nihalani       57 62 75
      QF  Samantha Buyckx      def.  Amy Stevens         62 64
      QF  Jess Dawson          def.  Alexandra Mikhailuk 64 61
   > West
-      F  Sabhyata Nihalani    def.  Amy Stevens         60 62
-     SF  Sabhyata Nihalani    def.  Karolina Berankova  16 63 62
+      F  Saby Nihalani        def.  Amy Stevens         60 62
+     SF  Saby Nihalani        def.  Karolina Berankova  16 63 62
      SF  Amy Stevens          def.  Alexandra Mikhailuk Walkover
   > 3-4 Playoff
       F  Madeline Atway       def.  Samantha Buyckx     57 64 75
@@ -1088,7 +1088,7 @@
       F  Olivia Czerwonka     def.  Mariona Perez        64 64
      SF  Mariona Perez        def.  Bozana Lojpur        16 75 [5]
      SF  Olivia Czerwonka     def.  Giulia Turconi       61 61
-     QF  Mariona Perez        def.  Cali Fuller          26 61 [8]
+     QF  Mariona Perez        def.  Calista Fuller       26 61 [8]
      QF  Bozana Lojpur        def.  Gabrielle Ochalik    
      QF  Olivia Czerwonka     def.  Alexandra Abyasova   60 46 [8]
      QF  Giulia Turconi       def.  Yuliya Kizelbasheva  16 76(6) [7]
@@ -1096,8 +1096,8 @@
       F  Bozana Lojpur        def.  Giulia Turconi       64 64
  > Flight 2 - Back Draw
   > Main
-      F  Alexandra Abyasova   def.  Cali Fuller          62 75
-     SF  Cali Fuller          def.  Gabrielle Ochalik    06 63
+      F  Alexandra Abyasova   def.  Calista Fuller       62 75
+     SF  Calista Fuller       def.  Gabrielle Ochalik    06 63
      SF  Alexandra Abyasova   def.  Yuliya Kizelbasheva  75 46 [3]
   > Playoff 3-4
       F  Yuliya Kizelbasheva  def.  Gabrielle Ochalik    61 63
