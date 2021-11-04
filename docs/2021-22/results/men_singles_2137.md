@@ -977,9 +977,9 @@
  > Flight C
   > East
       F  Jonathan Garcia     def.  Mike Thomas         63 60
-     SF  Jonathan Garcia     def.  Rex Tang            61 Ret.
+     SF  Jonathan Garcia     def.  Cheng Tang          61 Ret.
      SF  Mike Thomas         def.  Anshumat Srivastava 64 75
-     QF  Rex Tang            def.  Jake Huarte         63 64
+     QF  Cheng Tang          def.  Jake Huarte         63 64
      QF  Jonathan Garcia     def.  Charlie Levinson    63 64
      QF  Anshumat Srivastava def.  Samuel Townes       63 64
      QF  Mike Thomas         def.  Carlos Carvalho     34 Ret.
