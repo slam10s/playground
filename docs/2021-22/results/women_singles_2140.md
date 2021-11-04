@@ -1563,7 +1563,7 @@
      64  Yashna Yellayi     def.  Margaryta Bilokin   46 64 62
      64  Samantha Gillas    def.  Elisabeth Desmarais 62 63
      64  Michelle Bacalla   def.  Elizabeth Ferdman   64 62
-     64  Lauren Lemonds     def.  Cali Fuller         63 62
+     64  Lauren Lemonds     def.  Calista Fuller      63 62
      64  Charlotte Gisclon  def.  Katarina Dukic      64 64
      64  Tia Mukherjee      def.  Lea Forste-Dinell   62 62
      64  Tamara Malazonia   def.  Monique Karoub      62 26 64
