@@ -9,11 +9,14 @@
 - 10/22/2021 - [ITA Division I Women's Northwest Regional Championship](#21-52217) ([Results](#21-52217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StanfordUniversityW/Tournaments/Overview/069089F9-1C02-43BD-82B5-B68774093F12" target="_blank">Draws</a>)  
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
+- 10/29/2021 - [Brown Quad](#21-71605) ([Results](#21-71605) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Draws</a>)  
+- 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
 - 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
 - 10/28/2021 - [Tennessee Fall Invitational](#21-92398) ([Results](#21-92398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Draws</a>)  
 - 10/29/2021 - [Wofford Fall Invite](#21-77110) ([Results](#21-77110) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Draws</a>)  
+- 10/29/2021 - [Shark Bite Invite](#21-28680) ([Results](#21-28680) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Draws</a>)  
 - 10/30/2021 - [Slug Invite - hosted by West Valley College](#21-30727) ([Results](#21-30727) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
@@ -628,6 +631,85 @@
      32     Heynemans/Romain     def.     Meraz/Iglupas        63
 ~~~
 
+<a name="21-71605"></a>
+~~~
+══════════════════════════════════════════════════════════════
+  Brown Quad
+  Dates: Oct 29-31, 2021
+  Host: Brown University (W)
+══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Day A
+  > Main
+     16  Lopez/Aguiar        def.  Lau/Benedetto     62
+     16  Hofflander/Ahlstrom def.  Edwards/Mahajan   64
+     16  Peus/Mariotti       def.  Wilcox/Irani      61
+     16  Marculescu/You      def.  Bhan/Zhang        75
+     16  Kerr/Amineni        def.  Eason/Lim         63
+     16  Gawande/Snyder      def.  Xu/Tewolde        62
+ > Day B
+  > Main
+     16  Bhan/Zhang          def.  Lau/Benedetto     63
+     16  Kerr/Amineni        def.  Peus/Mariotti     75
+     16  Reddy/Hofflander    def.  Xu/Tewolde        64
+     16  Wood/Strugnell      def.  Newman/Ahlstrom   63
+     16  Lopez/Aguiar        def.  Lim/Gawande       64
+     16  Edwards/Mahajan     def.  Marculescu/Snyder 63
+ > Day C
+  > Main
+     16  Duncan/Daujotaite   def.  Lau/Benedetto     63
+     16  Reddy/Hofflander    def.  Lim/Gawande       75
+     16  Peus/Mariotti       def.  Marculescu/Snyder 63
+     16  Lopez/Aguiar        def.  Bhan/Zhang        64
+     16  Kerr/Amineni        def.  Edwards/Mahajan   63
+     16  Wood/Strugnell      def.  Wilcox/Irani      60
+~~~
+
+<a name="21-68401"></a>
+~~~
+═════════════════════════════════════════════════════════════════
+  Elon Fall Invitational
+  Dates: Oct 28-30, 2021
+  Host: Elon University (W)
+═════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Maroon
+  > East
+     SF  van Meeteren/Stange def.  Rogers/Kirch        82
+     SF  Cricchio/Manolescu  def.  Archer/ODea         85
+     QF  van Meeteren/Stange def.  Houston/Joao        86
+     QF  Rogers/Kirch        def.  Allen/Galvin        85
+     QF  Cricchio/Manolescu  def.  Exsted/Picazo       82
+     QF  Archer/ODea         def.  Hackbirth/Husted    82
+  > West
+     SF  Houston/Joao        def.  Allen/Galvin        84
+     SF  Exsted/Picazo       def.  Hackbirth/Husted    85
+  > South
+      F  Hackbirth/Husted    def.  Allen/Galvin        Walkover
+ > Gold
+  > East
+     SF  Fernald/Saric       def.  Radulova/Richtrova  86
+     SF  Alhach/Gurholt      def.  Reding/Tanik        87(8)
+     QF  Radulova/Richtrova  def.  Ball/Saldh          83
+     QF  Fernald/Saric       def.  Almborg/Burger      86
+     QF  Alhach/Gurholt      def.  Aksu/Cheng          84
+     QF  Reding/Tanik        def.  Hill/Gaines         86
+  > West
+      F  Aksu/Cheng          def.  Ball/Saldh          82
+     SF  Ball/Saldh          def.  Almborg/Burger      86
+     SF  Aksu/Cheng          def.  Hill/Gaines         85
+  > 3-4 Playoff
+      F  Radulova/Richtrova   vs   Reding/Tanik        
+  > South
+      F  Almborg/Burger      def.  Hill/Gaines         82
+ > Extra Matches
+  > East
+     QF  Reding/Tanik        def.  Fernald/Saric       85
+     QF  Archer/ODea         def.  van Meeteren/Stange 87(3)
+     QF  Alhach/Gurholt      def.  Radulova/Richtrova  84
+     QF  Rogers/Kirch        def.  Cricchio/Manolescu  87(2)
+~~~
+
 <a name="21-24286"></a>
 ~~~
 ══════════════════════════════════════════════════════════════
@@ -901,6 +983,42 @@
       F  Byers/Morkel         def.  Fyvie/Semmartin      63
   > 3-4 Playoff
       F  Hardeman/Brennan     def.  McClure/Dennett      63
+~~~
+
+<a name="21-28680"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Shark Bite Invite
+  Dates: Oct 29-31, 2021
+  Host: Nova Southeastern Univ. (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > East
+      F  Coopersmith/Vidanov… def.  Kozar/Nosievici      Walkover
+     SF  Coopersmith/Vidanov… def.  Wilberg/Khomchenko   60
+     SF  Kozar/Nosievici      def.  Wagner/Bihel         Walkover
+     QF  Wilberg/Khomchenko   def.  Goncharov/Snita      64
+     QF  Wagner/Bihel         def.  Williams/Grib        75
+     QF  Kozar/Nosievici      def.  Roquebert/Harrelson  61
+  > West
+      F  Goncharov/Snita      def.  Roquebert/Harrelson  62
+     SF  Roquebert/Harrelson  def.  Williams/Grib        Walkover
+  > 3-4 Playoff
+      F  Wilberg/Khomchenko   def.  Wagner/Bihel         76(6)
+ > Flight B
+  > East
+      F  Baranovski/Pigato    def.  Araya/Peneda         60
+     SF  Baranovski/Pigato    def.  Busch/Dorsey         60
+     SF  Araya/Peneda         def.  Palmgren/Tatini      63
+     QF  Busch/Dorsey         def.  Khan/Follin-Arbelet  76(4)
+     QF  Araya/Peneda         def.  Petrackova/Rana      64
+     QF  Palmgren/Tatini      def.  Sorakudo/Engelbrecht 63
+  > West
+      F  Sorakudo/Engelbrecht def.  Khan/Follin-Arbelet  76(5)
+     SF  Sorakudo/Engelbrecht def.  Petrackova/Rana      63
+  > 3-4 Playoff
+      F  Busch/Dorsey         def.  Palmgren/Tatini      63
 ~~~
 
 <a name="21-30727"></a>

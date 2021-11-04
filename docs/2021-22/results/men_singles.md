@@ -1,5 +1,8 @@
 <a name="top"></a>[<< Prev](men_singles_2143.md) &nbsp; **Week #44 - Nov 1-7, 2021** &nbsp; [Next >>](men_singles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2144.md) &#124; [Women](./women_singles_2144.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2144.md) &#124; [Doubles](./men_doubles_2144.md)
 
+**Tournamets with Matches**  
+- 11/4/2021 - [ITA National Fall Championships](#21-38622) ([Results](#21-38622) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3C0D3BF7-1EA0-4314-9798-02FE691DD86E" target="_blank">Draws</a>)  
+
 **Tournaments without Matches**  
 - 11/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/DD67ADCD-C4E7-4314-A846-4FCDAD89FABC" target="_blank">Big Ten Indoors</a>  
 
@@ -16,5 +19,33 @@
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityM/Tournaments/Overview/CDBF110F-C481-4F40-9B58-54D68D17F9A2" target="_blank">Wake Forest Invite</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityM/Tournaments/Overview/5278617F-5593-42A8-B7B3-52F442BE8917" target="_blank">Yale Invitational</a>  
 - 11/6/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BarryUniversityM/Tournaments/Overview/66BDBB63-461D-4097-ACA4-DB44D0B1C672" target="_blank">Buccaneers Invitational</a>  
+
+<a name="21-38622"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  ITA National Fall Championships
+  Dates: Nov 4-7, 2021
+  Host: ITA
+════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Men's Singles
+  > Main
+     32 (1) Clement Chidekh   vs      Tad McClean          Thu @ 12:00
+     32     Franco Capalbo    vs      Andrew Rogers        Thu @ 12:00
+     32 (8) Jj Tracy          vs      Juan Carlos Aguilar  Thu @ 11:30
+     32     Aleksa Bucan      vs      Alex Kotzen          Thu @ 10:45
+     32 (3) August Holmgren   vs      Jeffrey von der Sch… Thu @ 11:45
+     32     Finn Reynolds    def.     James Trotter        64 64
+     32     Alafia Ayeni     def. (6) Gabriel Diallo       63 75
+     32     Taha Baadi        vs      Mason Beiler         Thu @ 11:45
+     32     Trey Hilderbrand def.     Nikola Slavic        62 26 60
+     32     Andrew Zhang      vs  (5) Matej Vocel          Thu @ 11:30
+     32     Pietro Fellin     vs      Andres Martin        Thu @ 09:00
+     32 (4) Stefan Dostanic  def.     Francois Musitelli   61 64
+     32     James Davis      def.     Francois Le Tallec   62 66(3) Ret.
+     32     Alvaro Regalado   vs  (7) Andre Ilagan         Thu @ 11:30
+     32     Sven Lah         def.     Max Westphal         61 60
+     32 (2) Arthur Fery      def.     Jordan Hasson        63 63
+~~~
 
 Return to the [Top](./men_singles_2144.md) &#124; [Home Page](../../index.md)

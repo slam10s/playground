@@ -10,12 +10,14 @@
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
 - 10/29/2021 - [Crimson Halloween Invite](#21-48385) ([Results](#21-48385) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
+- 10/29/2021 - [Virginia Tech Halloween Clash](#21-26801) ([Results](#21-26801) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Draws</a>)  
 - 10/29/2021 - [Saint Leo Hidden Duals - Men](#21-17543) ([Results](#21-17543) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">64th Annual Southern California Intercollegiate Championships</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Gamecock Scramble</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Seahawk Team Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 
 <a name="21-69139"></a>
@@ -1171,6 +1173,76 @@
      QF  Brady Thomas         def.  Sam Baldwin          Walkover
      QF  Josh Watkins         def.  Bruno Ortega         76(5) 46 [8]
      QF  Alex Asenov          def.  Drew Dillon          Walkover
+~~~
+
+<a name="21-26801"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  Virginia Tech Halloween Clash
+  Dates: Oct 29-31, 2021
+  Host: Virginia Tech (M)
+═════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight 1
+  > Main
+     32  Frazier Rengifo      def.  Dimosthenis Taramon… 75 64
+     32  Dimitri Badra        def.  Guilherme Severin    63 57 63
+     32  Yusuf Khamis         def.  Konstantinos Raptis  60 62
+     32  Andres Silva         def.  Hugo Lobo            75 64
+     32  Thiago Pernas        def.  Robert Hagen         62 61
+     32  Juan Jose Vargas     def.  Raphael Mujan        62 46 75
+     32  Juan Sebastian Zaba… def.  Karlis Katlaps       62 60
+     32  Francisco Lamas      def.  William Crane        63 61
+     32  Bar Botzer           def.  Ryan Fishback        64 64
+     32  Gianni Ross          def.  Alvaro Ariza         62 61
+     32  Hugo Maia            def.  Jackson Allen        61 60
+     32  Michael Shepheard    def.  William Woodall      61 63
+     32  Frank Thompson       def.  Juan Lombisano       62 63
+     32  Ryan Bernstine       def.  Dylan Whitehead      61 60
+     32  Matt Harper          def.  Manfredi Vergine     63 26 76(5)
+ > Flight 1 Extra Matches
+  > Main
+     32  Thiago Pernas        def.  Scott Sculley        60 60
+     32  Alex Ix              def.  Juan Jose Vargas     63 75
+ > Flight 2
+  > Main
+     32  Bar Botzer           def.  Dimosthenis Taramon… 61 75
+     32  Gianni Ross          def.  Guilherme Severin    62 64
+     32  Jackson Allen        def.  Konstantinos Raptis  64 46 75
+     32  William Woodall      def.  Andres Silva         46 76(5) 76(5)
+     32  Hugo Lobo            def.  Robert Hagen         63 64
+     32  Alex Ix              def.  Raphael Mujan        63 60
+     32  Matt Harper          def.  Karlis Katlaps       26 62 63
+     32  Ryan Bernstine       def.  William Crane        46 61 76(5)
+     32  Juan Lombisano       def.  Manfredi Vergine     61 62
+     32  Ryan Fishback        def.  Frazier Rengifo      75 64
+     32  Hugo Maia            def.  Dimitri Badra        64 64
+     32  Yusuf Khamis         def.  Alvaro Ariza         75 61
+     32  Thiago Pernas        def.  Frank Thompson       62 63
+ > Flight 2 Extra Matches
+  > Main
+     32  Hugo Lobo            def.  Michael Shepheard    64 75
+     32  Juan Sebastian Zaba… def.  Alex Ix              64 76(4)
+     32  Matt Harper          def.  Francisco Lamas      67(4) 64 61
+     32  Ryan Bernstine       def.  Juan Jose Vargas     63 64
+ > Flight 3
+  > Main
+     32  Bar Botzer           def.  Frazier Rengifo      62 26 64
+     32  Dimitri Badra        def.  Jackson Allen        76(4) 75
+     32  Yusuf Khamis         def.  William Woodall      62 26 76(1)
+     32  Konstantinos Raptis  def.  Hugo Lobo            75 64
+     32  Thiago Pernas        def.  Andres Silva         62 63
+     32  Juan Jose Vargas     def.  William Crane        63 46 76(4)
+     32  Francisco Lamas      def.  Manfredi Vergine     63 63
+     32  Juan Lombisano       def.  Dylan Whitehead      63 61
+     32  Ryan Fishback        def.  Dimosthenis Taramon… 76(3) 61
+     32  Hugo Maia            def.  Guilherme Severin    76(4) 64
+     32  Frank Thompson       def.  Robert Hagen         61 26 75
+     32  Matt Harper          def.  Raphael Mujan        64 62
+     32  Ryan Bernstine       def.  Karlis Katlaps       64 62
+ > Flight 3 Extra Matches
+  > Main
+     32  Michael Shepheard    def.  Konstantinos Raptis  62 75
 ~~~
 
 <a name="21-17543"></a>

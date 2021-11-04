@@ -1,5 +1,8 @@
 <a name="top"></a>[<< Prev](women_doubles_2143.md) &nbsp; **Week #44 - Nov 1-7, 2021** &nbsp; [Next >>](women_doubles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2144.md) &#124; [***Women***](./women_doubles_2144.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2144.md) &#124; [***Doubles***](./women_doubles_2144.md)
 
+**Tournamets with Matches**  
+- 11/4/2021 - [ITA National Fall Championships](#21-38622) ([Results](#21-38622) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3C0D3BF7-1EA0-4314-9798-02FE691DD86E" target="_blank">Draws</a>)  
+
 **Tournaments without Matches**  
 - 11/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Harvard Fall Invitational</a>  
 
@@ -22,5 +25,33 @@
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Stetson Invite #2</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfTulsaW/Tournaments/Overview/9EC94FD0-CD14-417E-AF67-50993725A2A1" target="_blank">The Hurricane Invite</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityAtBuffaloSUNYW/Tournaments/Overview/B0B719F8-A62E-4D29-A341-820B59C4A6C8" target="_blank">UB Fall Invite</a>  
+
+<a name="21-38622"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  ITA National Fall Championships
+  Dates: Nov 4-7, 2021
+  Host: ITA
+══════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+     32 (1) Brylin/Killingsworth  vs      Mize/Kareisova       Thu @ 14:30
+     32     Schneider/Masic       vs      Buzkova/Mihaljevic   Thu @ 14:30
+     32 (7) Herrero Linana/Kryw…  vs      Canete/Canete        Thu @ 17:30
+     32     Han/Ewing             vs      Bryzgalova/Curnic    Thu @ 17:00
+     32 (4) Crawley/Scotty        vs      Gong/Kung            Thu @ 15:00
+     32     Collard/Shaikh        vs      Ma/Blake             Thu @ 15:00
+     32 (6) Collns/Chavatipon     vs      Tcherkes-Zade/Rutow… Thu @ 16:00
+     32     Bencheikh/Hiser       vs      Kadleckova/Cabezas   Thu @ 15:00
+     32     McColgan/Pratt        vs      Subhash/Munera       Thu @ 16:15
+     32     Naklo/Hsieh           vs  (8) Morra/Tanguilig      Thu @ 17:00
+     32     Cross/Rice            vs      Madurawe/Yepifanova  Thu @ 16:30
+     32     Lewis/Pietrowicz      vs  (3) Sasnouskaya/Starodu… Thu @ 13:30
+     32     Briggs/Zein           vs      Alsola/Richardson    Thu @ 13:30
+     32     Richterova/Dalla-Bo…  vs  (5) Flores/Zaar          Thu @ 16:30
+     32     Wagle/Ong             vs      Frayman/Joyce        Thu @ 17:00
+     32     Cantos Siemers/Ratl…  vs  (2) Makarova/Goldsmith   Thu @ 17:00
+~~~
 
 Return to the [Top](./women_doubles_2144.md) &#124; [Home Page](../../index.md)

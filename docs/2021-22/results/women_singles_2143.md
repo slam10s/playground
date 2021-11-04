@@ -9,11 +9,14 @@
 - 10/22/2021 - [ITA Division I Women's Northwest Regional Championship](#21-52217) ([Results](#21-52217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StanfordUniversityW/Tournaments/Overview/069089F9-1C02-43BD-82B5-B68774093F12" target="_blank">Draws</a>)  
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
+- 10/29/2021 - [Brown Quad](#21-71605) ([Results](#21-71605) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Draws</a>)  
+- 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
 - 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
 - 10/28/2021 - [Tennessee Fall Invitational](#21-92398) ([Results](#21-92398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Draws</a>)  
 - 10/29/2021 - [Wofford Fall Invite](#21-77110) ([Results](#21-77110) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Draws</a>)  
+- 10/29/2021 - [Shark Bite Invite](#21-28680) ([Results](#21-28680) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Draws</a>)  
 - 10/30/2021 - [Slug Invite - hosted by West Valley College](#21-30727) ([Results](#21-30727) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
@@ -1449,6 +1452,149 @@
        F      Khim Iglupas         def.      Madison Kim          64 61
 ~~~
 
+<a name="21-71605"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Brown Quad
+  Dates: Oct 29-31, 2021
+  Host: Brown University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day A
+  > Main
+     32  Maria Aguiar        def.  Britany Lau         62 62
+     32  Alexandra Benedetto def.  Laura Lopez         64 64
+     32  Natasha Irani       def.  Sophia Reddy        76(4) 60
+     32  Muskan Mahajan      def.  Lindsey Hofflander  64 64
+     32  Sophie Edwards      def.  Addison Ahlstrom    61 64
+     32  Olivia Mariotti     def.  Hailey Wilcox       60 60
+     32  Sasha Wood          def.  Rachel Eason        62 76(3)
+     32  Akanksha Bhan       def.  Mihaela Marculescu  64 64
+     32  Angel You           def.  Melissa Sakar       62 63
+     32  Jennifer Kerr       def.  Sany Gawande        62 62
+     32  Rachel Lim          def.  Anna Zhang          64 64
+     32  Michelle Xu         def.  Demi Snyder         60 63
+ > Day B
+  > Main
+     32  Akanksha Bhan       def.  Britany Lau         63 62
+     32  Alexandra Benedetto def.  Melissa Sakar       76(5) 46 [7]
+     32  Sophia Reddy        def.  Sasha Wood          75 75
+     32  Anna Zhang          def.  Lindsey Hofflander  63 64
+     32  Clarine Lerby       def.  Olivia Mariotti     64 76(6)
+     32  Shivani Amineni     def.  Addison Ahlstrom    64 64
+     32  Michelle Xu         def.  Ryan Peus           62 64
+     32  Sophia Strugnell    def.  Gabriella Soliman   75 26 [6]
+     32  Hailey Wilcox       def.  Selena Williams     60 60
+     32  Maria Aguiar        def.  Rachel Eason        76(5) 62
+     32  Mihaela Marculescu  def.  Muskan Mahajan      63 64
+     32  Laura Lopez         def.  Sany Gawande        76(5) 76(4)
+     32  Natasha Irani       def.  Rachel Lim          62 36 [3]
+     32  Sophie Edwards      def.  Demi Snyder         62 64
+ > Day C
+  > Main
+     32  Maxi Duncan         def.  Alexandra Benedetto 62 62
+     32  Sophia Reddy        def.  Rachel Eason        64 75
+     32  Mihaela Marculescu  def.  Britany Lau         75 16 [7]
+     32  Rachel Lim          def.  Olivia Mariotti     63 63
+     32  Sany Gawande        def.  Gabriella Soliman   62 26 [8]
+     32  Addison Ahlstrom    def.  Demi Snyder         57 63 [3]
+     32  Anna Zhang          def.  Maria Aguiar        61 62
+     32  Natasha Irani       def.  Jennifer Kerr       63 36 [5]
+     32  Melissa Sakar       def.  Laura Lopez         63 75
+     32  Clarine Lerby       def.  Sophie Edwards      46 62 [5]
+     32  Sasha Wood          def.  Muskan Mahajan      76 61
+     32  Shivani Amineni     def.  Hailey Wilcox       62 63
+~~~
+
+<a name="21-68401"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Elon Fall Invitational
+  Dates: Oct 28-30, 2021
+  Host: Elon University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Gold
+  > East
+      F  Mila Saric         def.  Sibel Tanik        63 61
+     SF  Mila Saric         def.  Alexandra Almborg  61 62
+     SF  Sibel Tanik        def.  Erika Cheng        61 75
+     QF  Mila Saric         def.  Semra Aksu         61 60
+     QF  Alexandra Almborg  def.  Lizette Reding     46 62 60
+     QF  Erika Cheng        def.  Elisa van Meeteren 61 62
+     QF  Sibel Tanik        def.  Jade Houston       76(5) 62
+  > West
+      F  Semra Aksu         def.  Elisa van Meeteren 62 63
+     SF  Semra Aksu         def.  Lizette Reding     64 64
+     SF  Elisa van Meeteren def.  Jade Houston       64 75
+  > 3-4 Playoff
+      F  Erika Cheng        def.  Alexandra Almborg  52 Ret.
+  > South
+      F  Lizette Reding     def.  Jade Houston       60 63
+ > Maroon
+  > East
+      F  Raffaela Alhach     vs   Hedda Gurholt      
+     SF  Raffaela Alhach    def.  Dariya Radulova    64 63
+     SF  Hedda Gurholt      def.  Victoria Saldh     62 60
+     QF  Dariya Radulova    def.  Julie Ball         Default
+     QF  Raffaela Alhach    def.  Maretha Burger     76(6) 46 63
+     QF  Hedda Gurholt      def.  Sabina Richtrova   61 61
+     QF  Victoria Saldh     def.  Kennedy Hill       57 64 63
+  > West
+      F  Sabina Richtrova   def.  Maretha Burger     62 61
+     SF  Maretha Burger     def.  Julie Ball         Walkover
+     SF  Sabina Richtrova   def.  Kennedy Hill       62 64
+  > 3-4 Playoff
+      F  Dariya Radulova     vs   Victoria Saldh     
+  > South
+      F  Kennedy Hill       def.  Julie Ball         Walkover
+ > Powell
+  > East
+      F  Emma Fernald        vs   Ine Stange         
+     SF  Emma Fernald       def.  Willa Rogers       16 61 62
+     SF  Ine Stange         def.  Olivia Archer      76(5) 62
+     QF  Willa Rogers       def.  Hannah Gaines      61 63
+     QF  Emma Fernald       def.  Alison ODea        76(5) 64
+     QF  Ine Stange         def.  Maria Picazo       64 61
+     QF  Olivia Archer      def.  Kirsten Husted     57 63 61
+  > West
+      F  Kirsten Husted     def.  Alison ODea        62 62
+     SF  Alison ODea        def.  Hannah Gaines      64 61
+     SF  Kirsten Husted     def.  Maria Picazo       61 61
+  > 3-4 Playoff
+      F  Willa Rogers        vs   Olivia Archer      
+  > South
+      F  Hannah Gaines       vs   Maria Picazo       
+ > Acorn 1st Round Friday
+  > Main
+     16  Elsa Kirch         def.  Anaiah Jones       62 61
+     16  Kensie Cricchio    def.  Shauna Galvin      Walkover
+     16  Sarah Allen        def.  Isabelle Exsted    06 61 64
+     16  Lisa Fukutoku      def.  Lafilissa Joao     64 62
+     16  Alisia Manolescu   def.  Lily Hackbirth     60 60
+ > Acorn 2nd Round Saturday
+  > Main
+     16  Anaiah Jones       def.  Shauna Galvin      Walkover
+     16  Lafilissa Joao     def.  Lily Hackbirth     61 63
+     16  Alisia Manolescu   def.  Isabelle Exsted    75 62
+     16  Sarah Allen        def.  Lisa Fukutoku      Walkover
+     16  Elsa Kirch         def.  Kensie Cricchio    Default
+ > Acorn 3rd Round Saturday
+  > Main
+     16  Shauna Galvin       vs   Kensie Cricchio    
+     16  Sarah Allen        def.  Lily Hackbirth     62 64
+     16  Lafilissa Joao     def.  Alisia Manolescu   63 61
+     16  Isabelle Exsted    def.  Elsa Kirch         64 76(5)
+     16  Anaiah Jones        vs   Lisa Fukutoku      
+ > Extra Matches
+  > Main
+     16  Maretha Burger     def.  Sarah Allen        62 63
+     16  Hedda Gurholt      def.  Dariya Radulova    76(5) 63
+     16  Ine Stange         def.  Willa Rogers       46 60 62
+     16  Emma Fernald       def.  Olivia Archer      62 64
+     16  Raffaela Alhach    def.  Victoria Saldh     64 61
+~~~
+
 <a name="21-24286"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -1872,6 +2018,66 @@
       F  Yasmine Humbert      def.  Camryn McClure       64 67(4) [8]
   > South
       F  Arya Dudipala        def.  Katie Watts          61 62
+~~~
+
+<a name="21-28680"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  Shark Bite Invite
+  Dates: Oct 29-31, 2021
+  Host: Nova Southeastern Univ. (W)
+═══════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight A
+  > East
+      F (1) Nicole Coopersmith   def.     Maeva Roquebert      63 62
+     SF (1) Nicole Coopersmith   def.     Chantal Nosievici    Walkover
+     SF     Maeva Roquebert      def.     Ekaterina Grib       Walkover
+     QF (1) Nicole Coopersmith   def.     Maria Khomchenko     62 61
+     QF     Chantal Nosievici    def.     Giorgia Pigato       63 36 [7]
+     QF     Ekaterina Grib       def.     Jacqueline Wagner    Walkover
+     QF     Maeva Roquebert      def. (2) Nika Kozar           60 16 [8]
+  > West
+     SF     Giorgia Pigato       def.     Maria Khomchenko     64 75
+     SF (2) Nika Kozar           def.     Jacqueline Wagner    Walkover
+ > Flight B
+  > East
+     QF (1) Barbora Cibakova     def.     Irina Lapustina      Walkover
+     QF     Vanja Vidanovic      def.     Savannah Williams    62 61
+     QF     Eva Goncharov        def.     Anine Wilberg        64 46 [6]
+     QF (2) Diane Follin-Arbelet def.     Florencia Araya      61 62
+  > West
+     SF     Savannah Williams    def.     Irina Lapustina      Walkover
+     SF     Anine Wilberg        def.     Florencia Araya      60 75
+ > Flight C
+  > East
+      F (2) Anna Baranovski      def.     Corbin Dorsey        61 36 [8]
+     SF     Corbin Dorsey        def. (1) Karolina Snita       Walkover
+     SF (2) Anna Baranovski      def.     Kanon Sorakudo       63 63
+     QF (1) Karolina Snita       def.     Tatiana Harrelson    61 64
+     QF     Corbin Dorsey        def.     Karyna Bihel         Walkover
+     QF     Kanon Sorakudo       def.     Nicoline Palmgren    62 36 [8]
+     QF (2) Anna Baranovski      def.     Madalena Peneda      62 63
+  > West
+     SF     Tatiana Harrelson    def.     Karyna Bihel         Walkover
+     SF     Nicoline Palmgren    def.     Madalena Peneda      63 63
+ > Flight D
+  > East
+      F (1) Eliska Petrackova    def.     Dakota Busch         62 63
+     SF (1) Eliska Petrackova    def.     Caitlyn Khan         61 76(4)
+     SF     Dakota Busch         def.     Mahika Rana          61 63
+     QF     Caitlyn Khan         def.     Eleonora Guglielmet… Walkover
+     QF     Mahika Rana          def.     Giulia Tatini        60 64
+     QF     Dakota Busch         def. (2) Anique Engelbrecht   63 60
+  > West
+     SF     Giulia Tatini        def. (2) Anique Engelbrecht   75 75
+  > 3-4 Playoff
+      F     Caitlyn Khan         def.     Mahika Rana          67(5) 75 [9]
+ > Flight B East New
+  > Main
+      F     Vanja Vidanovic      def.     Eva Goncharov        63 63
+     SF     Eva Goncharov        def.     Barbora Cibakova     Walkover
+     SF     Vanja Vidanovic      def.     Diane Follin-Arbelet 62 67(5) [7]
 ~~~
 
 <a name="21-30727"></a>
