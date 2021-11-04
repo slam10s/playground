@@ -10,18 +10,21 @@
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
 - 10/29/2021 - [Crimson Halloween Invite](#21-48385) ([Results](#21-48385) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
+- 10/29/2021 - [Saint Leo Hidden Duals - Men](#21-17543) ([Results](#21-17543) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">64th Annual Southern California Intercollegiate Championships</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Gamecock Scramble</a>  
+- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 
 <a name="21-69139"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Super Regional Championship
   Dates: Oct 22-25, 2021
   Host: Old Dominion University (M)
-════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main draw
   > Main
@@ -1168,6 +1171,60 @@
      QF  Brady Thomas         def.  Sam Baldwin          Walkover
      QF  Josh Watkins         def.  Bruno Ortega         76(5) 46 [8]
      QF  Alex Asenov          def.  Drew Dillon          Walkover
+~~~
+
+<a name="21-17543"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Saint Leo Hidden Duals - Men
+  Dates: Oct 29-31, 2021
+  Host: Saint Leo University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Friday
+  > Main
+     32  Bruno Faletto        def.  Denis Golubev        64 62
+     32  Nicolas Bacella      def.  Mikkel Baumann       61 60
+     32  Vincent Thiel        def.  Mortiz Stenzer       62 62
+     32  Luis Iriarte         def.  Phillip McMurray     61 60
+     32  Willem van den Akker def.  David Polo           60 61
+     32  Hikaru Nagoshi       def.  Jose Moreno          62 61
+     32  Nikita Tatyanin      def.  Valentin Hertweck    64 64
+     32  Oscar Del Granado    def.  Eric Nordblom        61 62
+     32  Philipp Lemken       def.  Elliott Altman       60 60
+     32  Diego Amilibia       def.  Chris Fok Kow        36 75 [10]
+     32  Oscar Sohl           def.  Max Berner           63 61
+     32  Jacopo Denitto       def.  Matteo Feggi         64 75
+     32  Brian Pham           def.  Gabriel Korylco Bow… 46 61 [8]
+ > Saturday
+  > Main
+     32  Bruno Faletto        def.  Nikita Tatyanin      67(10) 63 60
+     32  Nicolas Bacella      def.  Oscar Del Granado    75 61
+     32  Philipp Lemken       def.  Vincent Thiel        76(1) 46 62
+     32  Luis Iriarte         def.  Cedric Holzmann      61 63
+     32  Willem van den Akker def.  Diego Amilibia       64 63
+     32  Jose Moreno          def.  Brian Pham           63 76(6)
+     32  Denis Golubev        def.  Valentin Hertweck    75 76(5)
+     32  Mikkel Baumann       def.  Chris Fok Kow        61 64
+     32  Matteo Feggi         def.  Phillip McMurray     64 63
+     32  Eric Nordblom        def.  David Polo           64 60
+     32  Jacopo Denitto       def.  Elliott Altman       64 76(4)
+     32  Oscar Sohl           def.  Gabriel Korylco Bow… 63 60
+     32  Max Berner           def.  Hikaru Nagoshi       64 75
+ > Sunday
+  > Main
+     32  Bruno Faletto        def.  Oscar Sohl           62 62
+     32  Nicolas Bacella      def.  Matteo Feggi         61 63
+     32  Vincent Thiel        def.  Eric Nordblom        64 62
+     32  Valentin Hertweck    def.  Luis Iriarte         46 64 [5]
+     32  Willem van den Akker def.  Chris Fok Kow        64 46 [9]
+     32  Max Berner           def.  Jose Moreno          61 63
+     32  Denis Golubev        def.  Nikita Tatyanin      61 60
+     32  Oscar Del Granado    def.  Mikkel Baumann       63 61
+     32  Philipp Lemken       def.  Phillip McMurray     63 60
+     32  Cedric Holzmann      def.  David Polo           60 60
+     32  Jacopo Denitto       def.  Hikaru Nagoshi       63 63
+     32  Diego Amilibia       def.  Jacob Baehr          62 62
 ~~~
 
 Return to the [Top](./men_singles_2143.md) &#124; [Home Page](../../index.md)

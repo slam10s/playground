@@ -1,7 +1,9 @@
 <a name="top"></a>[<< Prev](women_doubles_2144.md) &nbsp; **Week #45 - Nov 8-14, 2021** &nbsp; [Next >>](women_doubles_2202.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2145.md) &#124; [***Women***](./women_doubles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2145.md) &#124; [***Doubles***](./women_doubles_2145.md)
 
-**Upcoming Tournaments**  
+**Tournaments without Matches**  
 - 11/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Harvard Fall Invitational</a>  
+
+**Upcoming Tournaments**  
 - 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CaliforniaStateUniversityNorthridgeW/Tournaments/Overview/170B0D52-C31D-4AA5-A14A-C44E18B58FF4" target="_blank">Csun Invitational 2021</a>  
 - 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1A40265D-8EC6-44FD-9EB9-1733C02C74CC" target="_blank">SDSU Fall Tennis Classic # 2</a>  
 - 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/BF7768E0-4750-49B0-9B29-7EB1AC4016D9" target="_blank">Texas A&M Invitational</a>  

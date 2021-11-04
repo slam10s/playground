@@ -9,16 +9,22 @@
 - 10/22/2021 - [ITA Division I Women's Northwest Regional Championship](#21-52217) ([Results](#21-52217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StanfordUniversityW/Tournaments/Overview/069089F9-1C02-43BD-82B5-B68774093F12" target="_blank">Draws</a>)  
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
+- 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
+- 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
+- 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
 - 10/28/2021 - [Tennessee Fall Invitational](#21-92398) ([Results](#21-92398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Draws</a>)  
+- 10/29/2021 - [Wofford Fall Invite](#21-77110) ([Results](#21-77110) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Draws</a>)  
 - 10/30/2021 - [Slug Invite - hosted by West Valley College](#21-30727) ([Results](#21-30727) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">College of Charleston Halloween Tournament</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">FIU Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Gamecock Shootout</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
+- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -1443,6 +1449,223 @@
        F      Khim Iglupas         def.      Madison Kim          64 61
 ~~~
 
+<a name="21-24286"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  NIU Huskie Indoor Invitational
+  Dates: Oct 29-31, 2021
+  Host: Northern Illinois Univ. (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight 1
+  > East
+     SF  Vivian Glozman     def.  Erika Dimitriev    76(4) 61
+     SF  Sydney Fitch       def.  Diana Lukyanova    75 76(6)
+     QF  Vivian Glozman     def.  Jana Lazarevic     76(9) 62
+     QF  Erika Dimitriev    def.  Kristina Pukhaeva  62 63
+     QF  Sydney Fitch       def.  Anastasiya Salenko 57 62 [7]
+     QF  Diana Lukyanova    def.  Habiba Aly         63 46 [5]
+  > West
+      F  Jana Lazarevic     def.  Anastasiya Salenko 62 63
+     SF  Jana Lazarevic     def.  Kristina Pukhaeva  62 60
+     SF  Anastasiya Salenko def.  Habiba Aly         Walkover
+  > South
+      F  Kristina Pukhaeva  def.  Habiba Aly         Walkover
+ > Flight 2
+  > East
+      F  Hailey Stelse      def.  Reagan Welch       16 62 [9]
+     SF  Hailey Stelse      def.  Casey Smith        61 63
+     SF  Reagan Welch       def.  Alexandra Kuo      62 61
+     QF  Hailey Stelse      def.  Anastasia Rakita   Walkover
+     QF  Casey Smith        def.  Sonia Skobkareva   36 75 [7]
+     QF  Alexandra Kuo      def.  Katarina Dukic     76(6) 26 [7]
+     QF  Reagan Welch       def.  Natalie Kmoskova   Walkover
+  > West
+      F  Anastasia Rakita   def.  Katarina Dukic     Walkover
+     SF  Anastasia Rakita   def.  Sonia Skobkareva   62 64
+     SF  Katarina Dukic     def.  Natalie Kmoskova   Walkover
+  > 3-4 Playoff
+      F  Alexandra Kuo      def.  Casey Smith        76 62
+ > Flight 3
+  > East
+     SF  Alexis Odom        def.  Anna Marija Bukina 63 62
+     SF  Karina Chao        def.  Christy Robinson   61 60
+     QF  Anna Marija Bukina def.  Iuliia Dmitrieva   64 36 [10]
+     QF  Alexis Odom        def.  Sage Hills         61 62
+     QF  Karina Chao        def.  Beata Havlickova   63 61
+     QF  Christy Robinson   def.  Susana Andres      63 60
+  > West
+     SF  Iuliia Dmitrieva   def.  Sage Hills         76(1) 64
+     SF  Beata Havlickova   def.  Susana Andres      62 61
+  > South
+      F  Sage Hills         def.  Susana Andres      06 76(2) [8]
+ > Flight 4
+  > East
+      F  Angelica Ross      def.  Isabella Flodin    61 46 [1]
+     SF  Angelica Ross      def.  Andrea Le          36 76(5) [6]
+     SF  Isabella Flodin    def.  Julia Huette       61 60
+     QF  Andrea Le          def.  Danina Hughes      62 61
+     QF  Angelica Ross      def.  Grace Sueflohn     63 61
+     QF  Isabella Flodin    def.  Sarah Markun       60 60
+     QF  Julia Huette       def.  Gabriella Kaminski 26 62 [8]
+  > West
+      F  Grace Sueflohn     def.  Sarah Markun       61 60
+     SF  Grace Sueflohn     def.  Danina Hughes      62 60
+     SF  Sarah Markun       def.  Gabriella Kaminski 46 62 [3]
+  > 3-4 Playoff
+      F  Andrea Le          def.  Julia Huette       63 61
+  > South
+      F  Danina Hughes      def.  Gabriella Kaminski 62 67(5) [8]
+ > Extra matches
+  > Main
+     16  Anastasiya Salenko def.  Katarina Dukic     67(5) 62 [7]
+     16  Vivian Glozman     def.  Diana Lukyanova    26 64 [5]
+     16  Sydney Fitch       def.  Erika Dimitriev    60 63
+     16  Karina Chao        def.  Iuliia Dmitrieva   40 42
+     16  Alexis Odom        def.  Anastasia Rakita   35 53 [5]
+~~~
+
+<a name="21-30411"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  Rice Invite
+  Dates: Oct 28-31, 2021
+  Host: Rice University (W)
+═════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day 1
+  > Main
+     64  Alison Zipoli        def.  Drew Morris          62 64
+     64  Diae El Jardi        def.  Reka Patel           36 64 76(4)
+     64  Emma Gretzky         def.  Federica Trevisan    61 76(4)
+     64  Saara Orav           def.  Cambelle Bouchard    75 63
+     64  Victoria Smirnova    def.  Yijia Jiao           64 67(3) 76(4)
+     64  Momoka Horiguchi     def.  Anastasia Smirnova   63 61
+     64  Gianna Pielet        def.  Gabriela Giraldo     62 64
+     64  Laura Slisane        def.  Renee McBryde        46 75 62
+     64  Isa Di Laura         def.  Azul Pedemonti       16 62 75
+     64  Sophie Gerits        def.  Kayal Gownder        64 75
+     64  Jeanette Mireles     def.  Tara Gorinsek        63 63
+     64  Ellie Pittman        def.  Ana Paula Jimenez    36 63 60
+     64  Leah Heimuli         def.  Sarina Reinertsen    64 26 63
+     64  Emilee Astle         def.  Carla Pons           76(4) 63
+     64  Madison Smith        def.  Maria Dzemeshkevich  75 61
+     64  Liz Chileno          def.  Blanca Cortijo Parr… 26 64 64
+     64  Nika Novikova        def.  Elena Trencheva      75 62
+     64  Ioana Dumitrescu     def.  Manasi Reddy         63 61
+ > Day 2
+  > Main
+     64  Alison Zipoli        def.  Leah Heimuli         63 76(4)
+     64  Emilee Astle         def.  Diae El Jardi        76(4) 62
+     64  Saara Orav           def.  Sarina Reinertsen    60 76(5)
+     64  Anastasia Smirnova   def.  Carla Pons           63 60
+     64  Federica Trevisan    def.  Momoka Horiguchi     63 63
+     64  Maria Dzemeshkevich  def.  Yijia Jiao           63 61
+     64  Madison Smith        def.  Sophie Gerits        60 61
+     64  Tara Gorinsek        def.  Azul Pedemonti       64 26 63
+     64  Ana Paula Jimenez    def.  Laura Slisane        75 62
+     64  Ioana Dumitrescu     def.  Elena Trencheva      54 Ret.
+     64  Blanca Cortijo Parr… def.  Nika Novikova        62 61
+     64  Renee McBryde        def.  Liz Chileno          76(5) 36 64
+     64  Gianna Pielet        def.  Drew Morris          62 62
+     64  Ellie Pittman        def.  Reka Patel           26 60 63
+     64  Isa Di Laura         def.  Emma Gretzky         63 64
+     64  Elise Robbins        def.  Cambelle Bouchard    64 75
+     64  Jeanette Mireles     def.  Gabriela Giraldo     60 61
+     64  Katya Townsend       def.  Manasi Reddy         60 60
+ > Day 3
+  > Main
+     64  Gianna Pielet        def.  Alison Zipoli        63 64
+     64  Diae El Jardi        def.  Isa Di Laura         64 63
+     64  Federica Trevisan    def.  Ellie Pittman        62 64
+     64  Saara Orav           def.  Renee McBryde        26 63 64
+     64  Jeanette Mireles     def.  Leah Heimuli         36 76(4) 61
+     64  Madison Smith        def.  Katya Townsend       64 46 64
+     64  Laura Slisane        def.  Drew Morris          64 36 63
+     64  Gabriela Giraldo     def.  Reka Patel           61 61
+     64  Sophie Gerits        def.  Emma Gretzky         75 64
+     64  Maria Dzemeshkevich  def.  Cambelle Bouchard    61 60
+     64  Yijia Jiao           def.  Blanca Cortijo Parr… 24 Ret.
+     64  Elise Robbins        def.  Manasi Reddy         63 46 62
+     64  Kayal Gownder        def.  Emilee Astle         46 63 63
+~~~
+
+<a name="21-82687"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Roberta Alison Fall Classic
+  Dates: Oct 29-30, 2021
+  Host: University Of Alabama (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Andie Daniell Singles Draw
+  > East
+      QF  Lesedi Jacobs        def.  Luminita Tutunaru    63 63
+      QF  Marta Perez Mur      def.  Mackenzie Clark      64 46 [9]
+      QF  Xinyu Cai            def.  Rachel Krzyzak       75 62
+ > Alba Cortina Pou Singles Draw
+  > East
+      QF  Lahari Yelamanchili  def.  Mary Brumfield       62 64
+      QF  Anaelle Leclercq-Fi… def.  Yu Fujioka           62 76(2)
+      QF  Sydney Pratt         def.  Rita Pinto           61 61
+      QF  Ava Markham          def.  Ola Pitak            62 64
+ > Jill Breslin Singles Draw
+  > East
+      QF  Hannah McColgan      def.  Camila Romero        36 61 [9]
+      QF  Nikola Kohoutova     def.  Katie Andreini       62 60
+      QF  Taylor Cataldi       def.  Alexandra Mikhailuk  62 64
+      QF  Alice Amendola       def.  Kasia Pitak          62 36 [4]
+ > Stefanie Leung Singles Draw
+  > East
+      QF  Alexandra Staicules… def.  Elysia Pool          26 64 [5]
+      QF  Madeline Meredith    def.  Emily Meyer          62 61
+      QF  Jiayun Zhu           def.  Charlotte Cartledge  62 63
+      QF  Aino Alkio           def.  Anna Parkhomenko     64 61
+ > Paulina Bigos Singles Draw
+  > East
+      QF  Lillian Gabrielsen   def.  Sydney Clarke        62 46 [7]
+      QF  Annie Clark          def.  Kristen Borland      75 67(2) [8]
+      QF  Monique Woog         def.  Kiley Rabjohns       64 62
+      QF  Mila Mejic           def.  Lily Walther         64 63
+ > Alice Tunaru Singles Draw
+  > East
+      QF  Brooke Theis         def.  Marta Falceto        46 62 [6]
+      QF  Otoha Aoki           def.  Anastasiia Khokhlova 64 63
+      QF  Xiaowei Hu           def.  Vanessa Mellynchuk   64 26 [9]
+      QF  Anastasia Astakhova  def.  Ariel Johnson        75 64
+ > Beth Cleino Singles Draw
+  > East
+      QF  Adelaide Lavery      def.  Dolavee Tumthong     62 64
+      QF  Annalisa Smith       def.  Sayda Hernandez      64 61
+      QF  Charlotte Russell    def.  Kristina Kukaras     63 62
+      QF  Lara van der Merwe   def.  Chhinda Som          61 64
+ > Patti Farmer Singles Draw
+  > East
+      16  Cora Barber          def.  Andrea Widing        67(5) 60 [7]
+      16  Alexandra Ferreira … def.  Sophia Mitchell      60 63
+      16  Sean Mullen          def.  Enya Ratkic          75 75
+      16  Michelle Ncube       def.  Ansley Cheshire      63 64
+      16  Olivia Elliott       def.  Michaela Hegarty     63 76(3)
+ > Big Al Singles Draw
+  > Main
+     128  Petra Sedlackova     def.  Ava Markham          64 76(2)
+     128  Katie Andreini       def.  Kristina Kukaras     62 63
+     128  Camila Romero        def.  Anastasia Astakhova  64 64
+     128  Alexandra Staicules… def.  Annie Clark          60 61
+     128  Monique Woog         def.  Mila Mejic           62 62
+     128  Madeline Meredith    def.  Ariel Johnson        46 61 [7]
+     128  Emily Meyer          def.  Kasia Pitak          63 63
+     128  Andrea Widing        def.  Dolavee Tumthong     26 63 [2]
+     128  Ola Pitak            def.  Taylor Cataldi       62 62
+     128  Ansley Cheshire      def.  Michaela Hegarty     61 61
+     128  Sayda Hernandez      def.  Sophia Mitchell      62 75
+     128  Alexandra Mikhailuk  def.  Xiaowei Hu           76(1) 60
+     128  Vanessa Mellynchuk   def.  Olivia Elliott       16 61 [5]
+     128  Alexandra Ferreira … def.  Anastasiia Khokhlova 63 64
+     128  Charlotte Cartledge  def.  Marta Falceto        61 26 [8]
+     128  Sydney Clarke        def.  Michelle Ncube       76(6) 75
+~~~
+
 <a name="21-92398"></a>
 ~~~
 ═════════════════════════════════════════════════════════════════════════
@@ -1513,6 +1736,142 @@
      16  Esther Adeshina     def.  Dasha Kourkina       64 61
      16  MaryAnn Rompf       def.  Callie Creath        62 46 76(2)
      16  Yufei Long          def.  Kylie Duckworth      75 76(5)
+~~~
+
+<a name="21-77110"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Wofford Fall Invite
+  Dates: Oct 29-31, 2021
+  Host: Wofford College (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Gold
+  > East
+      F  Sara Snyder          def.  Lize Alet Morkel     63 61
+     SF  Lize Alet Morkel     def.  Lily Woods           76(6) 26 [6]
+     SF  Sara Snyder          def.  Katherine Muzik      76(3) 61
+     QF  Lily Woods           def.  Hunter Roper         63 64
+     QF  Lize Alet Morkel     def.  Salma Loudili        26 75 [5]
+     QF  Katherine Muzik      def.  Teodora Ristic       Walkover
+     QF  Sara Snyder          def.  Eliza McPherron      62 75
+  > West
+      F  Eliza McPherron      def.  Salma Loudili        63 46 [4]
+     SF  Salma Loudili        def.  Hunter Roper         26 63 [7]
+     SF  Eliza McPherron      def.  Teodora Ristic       Walkover
+  > 3-4 Playoff
+      F  Katherine Muzik      def.  Lily Woods           64 62
+  > South
+      F  Hunter Roper         def.  Teodora Ristic       Walkover
+ > Terrier
+  > East
+      F  Ami Grace Dougah     def.  Ji Youn Lee          60 64
+     SF  Ami Grace Dougah     def.  Ellie Schoppe        75 60
+     SF  Ji Youn Lee          def.  Lilie Steryous       60 62
+     QF  Ellie Schoppe        def.  Christina Watson     64 63
+     QF  Ami Grace Dougah     def.  Jess Leeman          75 64
+     QF  Lilie Steryous       def.  Emma Cartledge       64 75
+     QF  Ji Youn Lee          def.  Thea Rice            62 46 [6]
+  > West
+      F  Thea Rice            def.  Jess Leeman          76(1) 64
+     SF  Jess Leeman          def.  Christina Watson     16 61 [8]
+     SF  Thea Rice            def.  Emma Cartledge       62 63
+  > 3-4 Playoff
+      F  Ellie Schoppe        def.  Lilie Steryous       63 60
+ > Black
+  > East
+      F  Ellie Schulson       def.  Claudia Sanchez Que… 60 61
+     SF  Claudia Sanchez Que… def.  Linge Steenkamp      75 46 [9]
+     SF  Ellie Schulson       def.  Elizabeth Massie     46 62 [3]
+     QF  Claudia Sanchez Que… def.  Manon Delsol         76(3) 11 Ret.
+     QF  Linge Steenkamp      def.  Soomin Kim           61 63
+     QF  Elizabeth Massie     def.  Alexa Goetz          75 57 [2]
+     QF  Ellie Schulson       def.  Melissa Ifidzhen     63 63
+  > West
+      F  Soomin Kim           def.  Alexa Goetz          61 63
+     SF  Soomin Kim           def.  Manon Delsol         Walkover
+     SF  Alexa Goetz          def.  Melissa Ifidzhen     61 60
+  > 3-4 Playoff
+      F  Linge Steenkamp      def.  Elizabeth Massie     63 57 [6]
+  > South
+      F  Melissa Ifidzhen     def.  Manon Delsol         Walkover
+ > Conquer
+  > East
+      F  Ilayda Baykan        def.  Rosie Dickson        Walkover
+     SF  Ilayda Baykan        def.  Malin Falk           64 61
+     SF  Rosie Dickson        def.  Lucianna Piedra      64 61
+     QF  Ilayda Baykan        def.  Elin Hellberg        63 62
+     QF  Malin Falk           def.  Jessica Fatemi       60 63
+     QF  Lucianna Piedra      def.  Brianna Wilbur       64 64
+     QF  Rosie Dickson        def.  Nejla Zukic          62 61
+  > West
+      F  Elin Hellberg        def.  Nejla Zukic          61 16 [7]
+     SF  Elin Hellberg        def.  Jessica Fatemi       61 62
+     SF  Nejla Zukic          def.  Brianna Wilbur       61 46 [9]
+  > 3-4 Playoff
+      F  Malin Falk           def.  Lucianna Piedra      61 26 [8]
+  > South
+      F  Brianna Wilbur       def.  Jessica Fatemi       60 61
+ > White
+  > East
+      F  Mina Toglukdemir     def.  Emily Surcey         26 63 [8]
+     SF  Emily Surcey         def.  Maria Jardim         60 60
+     SF  Mina Toglukdemir     def.  Georgia Fischer      36 62 [8]
+     QF  Emily Surcey         def.  Emily Brandow        63 36 [8]
+     QF  Georgia Fischer      def.  Sofia Pinedo         46 62 [8]
+     QF  Mina Toglukdemir     def.  Alexa Wilson         63 63
+  > West
+      F  Emily Brandow        def.  Alexa Wilson         75 75
+     SF  Alexa Wilson         def.  Sofia Pinedo         64 36 [5]
+  > 3-4 Playoff
+      F  Georgia Fischer      def.  Maria Jardim         46 61 [3]
+ > Prevail
+  > East
+      F  Amulika Gottiparthy  def.  Xuanjin Li           60 62
+     SF  Xuanjin Li           def.  Beth Lacey           16 64 [7]
+     SF  Amulika Gottiparthy  def.  Stephanie Shulman    46 62 [5]
+     QF  Beth Lacey           def.  Courtney Fyvie       60 62
+     QF  Amulika Gottiparthy  def.  Sofiia Vdovychenko   64 62
+     QF  Stephanie Shulman    def.  Emma Sorensen        63 61
+  > West
+      F  Sofiia Vdovychenko   def.  Courtney Fyvie       64 57 [4]
+     SF  Sofiia Vdovychenko   def.  Emma Sorensen        61 57 [4]
+  > 3-4 Playoff
+      F  Beth Lacey           def.  Stephanie Shulman    64 63
+ > Gray
+  > East
+      F  Breda Brennan        def.  Rebecca Brody        61 62
+     SF  Breda Brennan        def.  Madison Dennett      63 61
+     SF  Rebecca Brody        def.  Emely Kahrs          Walkover
+     QF  Breda Brennan        def.  Kendall Byers        60 62
+     QF  Madison Dennett      def.  Melody Cantrell      62 61
+     QF  Rebecca Brody        def.  Elise Semmartin      62 75
+     QF  Emely Kahrs          def.  Lauren Yoon          64 62
+  > West
+      F  Elise Semmartin      def.  Kendall Byers        75 61
+     SF  Kendall Byers        def.  Melody Cantrell      63 62
+     SF  Elise Semmartin      def.  Lauren Yoon          62 46 [5]
+  > 3-4 Playoff
+      F  Madison Dennett      def.  Emely Kahrs          Walkover
+  > South
+      F  Lauren Yoon          def.  Melody Cantrell      Walkover
+ > Wofford
+  > East
+      F  Sam Falcon           def.  Ansley Hardeman      64 62
+     SF  Sam Falcon           def.  Yasmine Humbert      60 36 [5]
+     SF  Ansley Hardeman      def.  Camryn McClure       63 63
+     QF  Yasmine Humbert      def.  Katie Watts          63 63
+     QF  Sam Falcon           def.  Ari Siegel           62 61
+     QF  Camryn McClure       def.  Arya Dudipala        76(4) 36 [6]
+     QF  Ansley Hardeman      def.  Valentina De Sousa   75 63
+  > West
+      F  Valentina De Sousa   def.  Ari Siegel           Walkover
+     SF  Ari Siegel           def.  Katie Watts          64 64
+     SF  Valentina De Sousa   def.  Arya Dudipala        61 63
+  > 3-4 Playoff
+      F  Yasmine Humbert      def.  Camryn McClure       64 67(4) [8]
+  > South
+      F  Arya Dudipala        def.  Katie Watts          61 62
 ~~~
 
 <a name="21-30727"></a>

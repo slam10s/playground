@@ -1088,7 +1088,7 @@
       F  Olivia Czerwonka     def.  Mariona Perez        64 64
      SF  Mariona Perez        def.  Bozana Lojpur        16 75 [5]
      SF  Olivia Czerwonka     def.  Giulia Turconi       61 61
-     QF  Mariona Perez        def.  Calista Fuller       26 61 [8]
+     QF  Mariona Perez        def.  Cali Fuller          26 61 [8]
      QF  Bozana Lojpur        def.  Gabrielle Ochalik    
      QF  Olivia Czerwonka     def.  Alexandra Abyasova   60 46 [8]
      QF  Giulia Turconi       def.  Yuliya Kizelbasheva  16 76(6) [7]
@@ -1096,8 +1096,8 @@
       F  Bozana Lojpur        def.  Giulia Turconi       64 64
  > Flight 2 - Back Draw
   > Main
-      F  Alexandra Abyasova   def.  Calista Fuller       62 75
-     SF  Calista Fuller       def.  Gabrielle Ochalik    06 63
+      F  Alexandra Abyasova   def.  Cali Fuller          62 75
+     SF  Cali Fuller          def.  Gabrielle Ochalik    06 63
      SF  Alexandra Abyasova   def.  Yuliya Kizelbasheva  75 46 [3]
   > Playoff 3-4
       F  Yuliya Kizelbasheva  def.  Gabrielle Ochalik    61 63
