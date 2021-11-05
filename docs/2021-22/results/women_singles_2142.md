@@ -46,11 +46,11 @@
      16  (9) Evgeniya Levashova  def.  (5) Carly Briggs        62 61
      16 (12) Petra Hule          def.  (8) Morgan Coppoc       62 64
      16      Marie Mattel        def. (14) Alicia Dudeney      76(5) 61
-     16 (16) Mell Reasco         def.      Andreea Velcea      63 75
+     16 (16) Mell Reasco         def.      Andreeea Velcea     63 75
      16      Catherine Gulihur   def.      Daevenia Achong     64 63
      16 (10) Emma Shelton        def.  (7) Ava Hrastar         63 63
      16 (15) Ania Hertel         def.  (2) Isabella Pfennig    46 61 62
-     32  (1) Meg Kowalski        def.      Grace Shumacher     62 60
+     32  (1) Meg Kowalski        def.      Grace Schumacher    62 60
      32 (13) Kylie Bilchev       def.      Eden Richardson     62 67(4) 76(6)
      32  (5) Carly Briggs        def.      Vic Allen           61 67(1) 60
      32  (9) Evgeniya Levashova  def.      Kamila Umarova      57 64 62
@@ -58,7 +58,7 @@
      32 (12) Petra Hule          def.      Mahak Jain          26 63 75
      32      Marie Mattel        def.  (3) Lea Ma              64 16 63
      32 (14) Alicia Dudeney      def.      Gia Cohen           62 60
-     32      Andreea Velcea      def.      Aylen Hubeaut       63 64
+     32      Andreeea Velcea     def.      Aylen Hubeaut       63 64
      32 (16) Mell Reasco         def.      Bente Spee          75 63
      32      Catherine Gulihur   def.  (6) Marlee Zein         63 64
      32      Daevenia Achong     def. (11) Carol Lee           63 63
@@ -67,7 +67,7 @@
      32 (15) Ania Hertel         def.      Nandini Sharma      62 63
      32  (2) Isabella Pfennig    def.      Yasmine Kabbaj      63 75
      64  (1) Meg Kowalski        def.      Angel Carney        64 62
-     64      Grace Shumacher     def.      Ji Youn Lee         63 61
+     64      Grace Schumacher    def.      Ji Youn Lee         63 61
      64      Eden Richardson     def.      Jaleesa Leslie      61 57 41 Ret.
      64 (13) Kylie Bilchev       def.      Millie-Mae Matthews 20 Ret.
      64  (5) Carly Briggs        def.      Monika Dedaj        63 63
@@ -83,7 +83,7 @@
      64      Gia Cohen           def.      Sierra Sandy        60 62
      64 (14) Alicia Dudeney      def.      Selene Kentish      60 61
      64      Aylen Hubeaut       def.  (4) Valeriya Zeleva     62 Ret.
-     64      Andreea Velcea      def.      Alice Amendola      64 64
+     64      Andreeea Velcea     def.      Alice Amendola      64 64
      64      Bente Spee          def.      Amber MGinnis       61 62
      64 (16) Mell Reasco         def.      Kate Sharabura      64 46 63
      64  (6) Marlee Zein         def.      Fanny Norin         61 64
@@ -194,7 +194,7 @@
      64      Nina Geissler        def.      Otoha Aoki           64 62
      64 (14) Ludmila Kareisova    def.      Tjasa Klevisar       63 76(5)
      64      Adeline Flach        def.      Vanessa Mellynchuk   36 60 62
-     64  (7) Georgie Axon         def.      Anaelle Leclercq-Fi… 64 63
+     64  (7) Georgie Axon         def.      Anaelle Leclerq-Fic… 64 63
      64      Chloe Cirotte        def.      Aina Domingo Bernab… 61 64
      64 (10) Ena Babic            def.      Lily Walther         46 64 60
      64      Ola Pitak            def.      Delien Klienhans     61 61
@@ -268,7 +268,7 @@
      64      Charlotte Russell    def.      Romane Mosse         75 26 [2]
      64      Ella Tuomela         def.      Enya Ratkic          63 76(6)
      64      Leonie Schuknecht    def.      Viktorie Wojcikova   67(6) 61 [6]
-     64      Anaelle Leclercq-Fi… def.      Yu Chen              76(4) 76(5)
+     64      Anaelle Leclerq-Fic… def.      Yu Chen              76(4) 76(5)
      64      Jiayun Zhu           def.      Daniela Hernandez    46 75 [11]
      64      Thitirat Kanaphuet   def.      Shaye Longwell       63 61
      64      Kelsey Mize          def.      Anastasia Astakhova  36 63 [3]
@@ -283,7 +283,7 @@
      64      Rachel Krzyzak       def.      Mackenzie Clark      63 64
      64      Alexandra Mikhailuk  def.      Lillian Gabrielsen   62 64
      64      Charlotte Russell    def.      Anastasiia Khokhlova 06 64 61
-     64      Anaelle Leclercq-Fi… def.      Kasia Pitak          76(4) 60
+     64      Anaelle Leclerq-Fic… def.      Kasia Pitak          76(4) 60
      64      Alexandra Ferreira … def.      Olivia Elliott       63 62
      64      Elysia Pool          def.      Anastasia Astakhova  63 64
      64      Lily Walther         def.      Enya Ratkic          57 64 [2]
@@ -896,7 +896,7 @@
      16 (4) Melodie Collard      def.     Marta Perez Mur      63 61
      16 (5) Tatsiana Sasnouskaya def.     Maria Juliana Parra… 61 63
      16     Sofiya Chekhlystova  def. (6) Marina Alcaide       57 76(6) 62
-     16 (3) Elaine Chervinsky    def.     Anastasia Bovolskaya 76(3) 63
+     16 (3) Elaine Chervinsky    def.     Anastaiia Bovolskaia 76(3) 63
      16     Sara Ziodato         def.     Alexandra Viktorovi… 64 63
      16 (2) Yuliia Starodubtseva def.     Yvonna Zuffova       61 62
      32 (1) Natasha Subhash      def.     Momoko Nagato        61 60
@@ -909,7 +909,7 @@
      32 (5) Tatsiana Sasnouskaya def.     Hedda Gurholt        61 61
      32 (6) Marina Alcaide       def.     Francesca Feodorov   63 62
      32     Sofiya Chekhlystova  def.     Hibah Shaikh         60 63
-     32     Anastasia Bovolskaya def.     Jillian Taggart      63 76(7)
+     32     Anastaiia Bovolskaia def.     Jillian Taggart      63 76(7)
      32 (3) Elaine Chervinsky    def.     Selma Cadar          63 46 76(4)
      32     Alexandra Viktorovi… def. (7) Paola Exposito Diaz… 62 36 63
      32     Sara Ziodato         def.     Mary Brumfield       64 62
@@ -935,7 +935,7 @@
      32     Stella Wiesmann      def.     Mary Brumfield       61 63
      32     Hedda Gurholt        def.     Katarina Marinkovikj 76(3) 36 [5]
      32     Alina Lebedeva       def.     Esther Lovato        36 64 [8]
-     32     Pei Ju Hsieh         def.     Francesca Feodorov   63 62
+     32     Penny Hsieh          def.     Francesca Feodorov   63 62
      32     Nicole Kiefer        def.     Momoko Nagato        06 64 [7]
      32     Maria Juliana Parra… def.     Hibah Shaikh         64 46 [4]
  > Another Sunday Match

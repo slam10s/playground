@@ -824,15 +824,15 @@
      QF     Berry/Boy            def. (2) Leslie/Christians    64
      16     Filip/Schieroni      def.     Umarova/Skrobonja    63
      16 (3) Sharma/Mattel        def.     Hubeaut/Sandy        60
-     16     Bardet/Ferding       def.     Eland/Shumacher      62
+     16     Bardet/Ferding       def.     Eland/Schumacher     62
      16     Bekrar/Kabbaj        def.     Kudelova/MGinnis     64
      16 (4) De Oliveira/Dudeney  def.     Davis/Yardley        61
      16     Berry/Boy            def.     Cohen/Dovgopolyi     62
   > West
       F     Umarova/Skrobonja    def.     Kudelova/MGinnis     63
-     SF     Umarova/Skrobonja    def.     Eland/Shumacher      63
+     SF     Umarova/Skrobonja    def.     Eland/Schumacher     63
      SF     Kudelova/MGinnis     def.     Cohen/Dovgopolyi     62
-     QF     Eland/Shumacher      def.     Hubeaut/Sandy        62
+     QF     Eland/Schumacher     def.     Hubeaut/Sandy        62
      QF     Kudelova/MGinnis     def.     Davis/Yardley        63
   > North
      SF     Filip/Schieroni      def.     Bardet/Ferding       Walkover
@@ -842,10 +842,10 @@
  > Flight B
   > East
       F (2) Miletic/Velcea       def.     Colmenares/Retortil… 85
-     SF     Colmenares/Retortil… def.     Akbas/Morin-Kougouc… 62
+     SF     Colmenares/Retortil… def.     Akbas/Morin-Kougoch… 62
      SF (2) Miletic/Velcea       def.     Norin/Ossa           62
      QF     Colmenares/Retortil… def. (1) Long/Lodzki          64
-     QF     Akbas/Morin-Kougouc… def.     Garrigues Melendez/… 63
+     QF     Akbas/Morin-Kougoch… def.     Garrigues Melendez/… 63
      QF     Norin/Ossa           def.     Nash/Oliveira        63
      QF (2) Miletic/Velcea       def.     Mjos/Yaylali         63
      16     Colmenares/Retortil… def.     Matthews/Sommer      64

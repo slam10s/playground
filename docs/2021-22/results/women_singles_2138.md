@@ -1753,7 +1753,7 @@
      32  Kelsey Mize          def.  Manami Ukita         62 60
      32  Anna Turco           def.  Sydney Oerfice       61 61
      32  Dinara Alloyarova    def.  Eesha Gudiseva       61 63
-     32  Anaelle Leclercq-Fi… def.  Alee Clayton         64 26 61
+     32  Anaelle Leclerq-Fic… def.  Alee Clayton         64 26 61
      32  Mell Reasco          def.  Rachel Krzyzak       46 61 62
      32  Loudmilla Bencheikh  def.  Karine-Marion Job    61 63
      32  Tiphanie Fiquet      def.  Lea Ma               63 61
@@ -1771,7 +1771,7 @@
      32  Elysia Pool          def.  Ioana Gheorghita     67(2) 63 76(4)
      32  Ludmila Kareisova    def.  Florentine Dekkers   46 64 63
      32  Rachel Krzyzak       def.  Maria Linares        36 41 Ret.
-     32  Dinara Alloyarova    def.  Anaelle Leclercq-Fi… 64 63
+     32  Dinara Alloyarova    def.  Anaelle Leclerq-Fic… 64 63
      32  Karine-Marion Job    def.  Kelsey Mize          64 76(2)
      32  Reka Zadori          def.  Manami Ukita         62 60
      32  Lea Ma               def.  Loudmilla Bencheikh  75 62
@@ -1793,7 +1793,7 @@
      32  Rosanna Maffei       def.  Mai Nirundorn        63 36 64
      32  Loudmilla Bencheikh  def.  Sabina Machalova     64 63
      32  Petra Sedlackova     def.  Rachel Krzyzak       76(5) 57 63
-     32  Anaelle Leclercq-Fi… def.  Ansley Cheshire      62 62
+     32  Anaelle Leclerq-Fic… def.  Ansley Cheshire      62 62
 ~~~
 
 <a name="21-47703"></a>
@@ -2180,22 +2180,22 @@
  Women's Open Singles
  > WVU v Radford
   > Main
-     16  Salma Loudili        def.  Anastasia Bovolskaya 62 63
+     16  Salma Loudili        def.  Anastaiia Bovolskaia 62 63
      16  Camilla Bossi        def.  Melissa Ifidzhen     76 62
      16  Kendall Kovick       def.  Malin Falk           62 Ret.
      16  Ting-Pei Chang       def.  Emily Brandow        62 61
      16  Michaela Kucharova   def.  Katelyn Fruehauf     64 62
      16  Momoko Nagato        def.  Camryn McClure       64 62
-     16  Pei Ju Hsieh         def.  Marielle Leahy       60 61
+     16  Penny Hsieh          def.  Marielle Leahy       60 61
  > WVU v WVSU, WVU v MU
   > Main
      16  Kendall Kovick       def.  Gaya Solomon         62 46 [11]
      16  Ting-Pei Chang       def.  Tuva Wallin          63 64
      16  Camilla Bossi        def.  Julia Daszkiewicz    60 62
-     16  Anastasia Bovolskaya def.  Maya Haidari         64 62
+     16  Anastaiia Bovolskaia def.  Maya Haidari         64 62
      16  Michaela Kucharova   def.  Lea Rolland          60 60
      16  Momoko Nagato        def.  Kara Joseph          62 62
-     16  Pei Ju Hsieh         def.  Audrey Grigore       61 60
+     16  Penny Hsieh          def.  Audrey Grigore       61 60
  > WVU v Marshall
   > Main
      16  Ting-Pei Chang       def.  Emma Vanderheyden    63 06 [7]
@@ -2203,7 +2203,7 @@
      16  Camilla Bossi        def.  Sophia Hurrion       76 62
      16  Michaela Kucharova   def.  Jutte Van Hansewyck  63 62
      16  Liz Stefancic        def.  Momoko Nagato        64 60
-     16  Pei Ju Hsieh         def.  Rieke Gillar         60 61
+     16  Penny Hsieh          def.  Rieke Gillar         60 61
 ~~~
 
 <a name="21-50226"></a>

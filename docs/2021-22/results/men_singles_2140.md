@@ -217,7 +217,7 @@
      256      Tadeas Paroulek      def.      Edoardo Graziani     63 64
      256      Gavin Young          def. (LL) Max McKennon         64 36 63
      256      Alexander Hoogmarte… def. (17) Leyton Cronje        46 61 62
-     256 (11) Noah Schachter       def.      Finlay Murgett       64 63
+     256 (11) Noah Schachter       def.      Finn Murgett         64 63
      256  (Q) Filippo Moroni       def.      Athell Bennett       62 61
      256      Ewen Lumsden         def.      Bradley Frye         63 75
      256      Harris Walker        def. (17) Joshua Charlton      75 61
@@ -250,7 +250,7 @@
       64      David Stevenson      def.      Kyryll Kryvchun      63 64
       64      Oscar Cutting        def.      Sebastian Arcila     62 64
       64      Timothy Sah          def.      Loris Pourroy        67(3) 61 63
-      64      Matthis Ross         def.      Finlay Murgett       67(5) 62 61
+      64      Matthis Ross         def.      Finn Murgett         67(5) 62 61
       64      Leyton Cronje        def.      Rafael Marques Da S… 63 46 62
       64      Quinn Vandecasteele  def.      Charles Bertimon     76(6) 62
       64      Joshua Charlton      def.      Carles Anton         76(3) 62

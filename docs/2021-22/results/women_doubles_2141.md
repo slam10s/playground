@@ -302,12 +302,12 @@
       F      Hiser/Bencheikh      def.      Mize/Kareisova       63 60
      SF      Mize/Kareisova       def.      Kohoutova/Tutunaru   64 26 [5]
      SF      Hiser/Bencheikh      def.  (2) Antonaki/Racine      36 75 [8]
-     QF      Kohoutova/Tutunaru   def.  (7) Leclercq-Ficher/Pool 86
+     QF      Kohoutova/Tutunaru   def.  (7) Leclerq-Ficher/Pool  86
      QF      Mize/Kareisova       def.      Parkhomenko/Sedlack… 84
      QF      Hiser/Bencheikh      def.  (8) Cubitt/Carrington    86
      QF  (2) Antonaki/Racine      def.      Zadori/Gabrielsen    87(1)
      16      Kohoutova/Tutunaru   def.  (1) Flach/Axon           83
-     16  (7) Leclercq-Ficher/Pool def.      Medik/Burton         84
+     16  (7) Leclerq-Ficher/Pool  def.      Medik/Burton         84
      16      Mize/Kareisova       def.  (3) Adaloglou/Cirotte    86
      16      Parkhomenko/Sedlack… def. (14) Khokhlova/Widing     83
      16  (8) Cubitt/Carrington    def.      Dohnalova/Wojcikova  82
@@ -316,7 +316,7 @@
      16  (2) Antonaki/Racine      def.  (9) Borland/Lavery       83
      32  (1) Flach/Axon           def.      Klevisar/Minetti     85
      32      Kohoutova/Tutunaru   def. (12) Raquin/Urchoeguia    81
-     32  (7) Leclercq-Ficher/Pool def.      Mellynchuk/Ferreira… 85
+     32  (7) Leclerq-Ficher/Pool  def.      Mellynchuk/Ferreira… 85
      32      Medik/Burton         def. (15) Pitak/Pitak          85
      32  (3) Adaloglou/Cirotte    def.      Schuknecht/Tetruash… 80
      32      Mize/Kareisova       def. (11) White/Clarke         86
@@ -453,7 +453,7 @@
   > Main
      QF  Bossi/Chang          def.  Sawyer/Simova     64
      QF  Kovick/Kucharova     def.  Richardson/Chaika 64
-     QF  Bovolskaya/Nagato    def.  Callwood/Verma    62
+     QF  Bovolskaia/Nagato    def.  Callwood/Verma    62
  > JMU v PSU
   > Main
      QF  OGorman/Chekhlystova def.  Afanasyeva/Moulin 61

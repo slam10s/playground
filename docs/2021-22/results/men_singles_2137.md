@@ -137,7 +137,7 @@
  > Purple
   > Main
      16  Tyler Stice          def.  Juan Martin Jalif   64 63
-     16  Finlay Murgett       def.  Bojan Jankulovski   64 46 63
+     16  Finn Murgett         def.  Bojan Jankulovski   64 46 63
      16  Jan Galka            def.  Dan Martin          64 26 63
      16  Oren Vasser          def.  Raul Dobai          67(5) 64 63
      16  Will Nolan           def.  Casper Christensen  60 62
@@ -157,7 +157,7 @@
   > Main
      16  Tyler Stice          def.  Teodor Giusca       26 62 75
      16  Tad McClean          def.  Maxwell Smith       57 64 64
-     16  Jorge Plans Gonzalez def.  Finlay Murgett      64 67(1) 61
+     16  Jorge Plans Gonzalez def.  Finn Murgett        64 67(1) 61
      16  Jan Galka            def.  Spencer Whitaker    60 63
      16  Raul Dobai           def.  Tim Pitts           75 63
      16  Will Nolan           def.  Andrew Puscas       67(6) 63 61

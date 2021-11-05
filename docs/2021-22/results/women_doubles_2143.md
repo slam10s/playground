@@ -11,6 +11,7 @@
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 - 10/29/2021 - [Brown Quad](#21-71605) ([Results](#21-71605) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Draws</a>)  
 - 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
+- 10/29/2021 - [Gamecock Shootout](#21-95444) ([Results](#21-95444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Draws</a>)  
 - 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
@@ -22,7 +23,6 @@
 **Tournaments without Matches**  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">College of Charleston Halloween Tournament</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">FIU Invitational</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Gamecock Shootout</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
@@ -710,6 +710,46 @@
      QF  Rogers/Kirch        def.  Cricchio/Manolescu  87(2)
 ~~~
 
+<a name="21-95444"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  Gamecock Shootout
+  Dates: Oct 29-31, 2021
+  Host: University Of South Carolina (W)
+═══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw 1
+  > Main
+     16  Bartolome/Keberle def.  Linn/Boesing         61
+     16  Doyle/Petchey     def.  Schurhamer/Bruetting 62
+     16  Nylander/Jakeway  def.  Beavin/Balthazor     75
+     16  Kelly/Craciun     def.  Beavin/White         60
+     16  Davies/Gretkowski def.  Marzal/Allen         62
+     16  Mills/Tulenko     def.  Fliegner/Hammond     62
+     16  Mulville/Cruz     def.  Ratliff/Atway        63
+     16  Narboni/Couch     def.  Jones/Schoenly       62
+ > Draw 3
+  > Main
+     16  Boulais/Ratliff   def.  Bartolome/Keberle    60
+     16  Marzal/Allen      def.  Doyle/Petchey        64
+     16  Nylander/Jakeway  def.  Fliegner/Hammond     60
+     16  Kelly/Craciun     def.  Jones/Atway          63
+     16  Davies/Gretkowski def.  Linn/Boesing         61
+     16  Mills/Tulenko     def.  Schurhamer/Bruetting 76(7)
+     16  Mulville/Cruz     def.  Beavin/Balthazor     75
+     16  Narboni/Couch     def.  Beavin/White         62
+ > Draw 2
+  > Main
+     16  Davies/Gretkowski def.  Bartolome/Keberle    63
+     16  Doyle/Petchey     def.  Mills/Tulenko        63
+     16  Mulville/Cruz     def.  Nylander/Jakeway     64
+     16  Narboni/Couch     def.  Kelly/Craciun        64
+     16  Boulais/Ratliff   def.  Linn/Boesing         60
+     16  Fliegner/Hammond  def.  Schurhamer/Bruetting 60
+     16  Beavin/Balthazor  def.  Allen/Jones          63
+     16  Atway/Schoenly    def.  Beavin/White         61
+~~~
+
 <a name="21-24286"></a>
 ~~~
 ══════════════════════════════════════════════════════════════
@@ -820,11 +860,11 @@
      QF  Pitak/Pitak          def.  Amendola/Jacobs      76(4)
      QF  Clark/Borland        def.  Cai/Cataldi          62
      QF  Danailova/Pinto      def.  Romero/Meyer         75
-     QF  Pratt/McColgan       def.  Krzyzak/Leclercq-Fi… 61
+     QF  Pratt/McColgan       def.  Krzyzak/Leclerq-Fic… 61
   > West
-      F  Krzyzak/Leclercq-Fi… def.  Cai/Cataldi          63
+      F  Krzyzak/Leclerq-Fic… def.  Cai/Cataldi          63
      SF  Cai/Cataldi          def.  Amendola/Jacobs      61
-     SF  Krzyzak/Leclercq-Fi… def.  Romero/Meyer         64
+     SF  Krzyzak/Leclerq-Fic… def.  Romero/Meyer         64
   > 3-4 Playoff
       F  Clark/Borland        def.  Danailova/Pinto      61
   > South

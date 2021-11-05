@@ -821,7 +821,7 @@
       16  Jan Galka            def.  German Samofalov     62 64
       16  Tad McClean          def.  Fynn Kuenkler        62 62
       16  Filip Planinsek      def.  Boris Kozlov         62 62
-      32  Finn Reynolds        def.  Finlay Murgett       62 36 60
+      32  Finn Reynolds        def.  Finn Murgett         62 36 60
       32  Enzo Aguiard         def.  Roman Postolka       61 75
       32  Carles Anton         def.  Gabriel Diaz Freire  46 62 61
       32  Carles Hernandez     def.  Billy Suarez         64 64

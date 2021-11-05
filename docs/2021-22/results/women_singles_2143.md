@@ -11,6 +11,8 @@
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 - 10/29/2021 - [Brown Quad](#21-71605) ([Results](#21-71605) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Draws</a>)  
 - 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
+- 10/29/2021 - [FIU Invitational](#21-24854) ([Results](#21-24854) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">Draws</a>)  
+- 10/29/2021 - [Gamecock Shootout](#21-95444) ([Results](#21-95444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Draws</a>)  
 - 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
@@ -21,8 +23,6 @@
 
 **Tournaments without Matches**  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">College of Charleston Halloween Tournament</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">FIU Invitational</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Gamecock Shootout</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
@@ -50,11 +50,11 @@
      16  (9) Evgeniya Levashova  def.  (5) Carly Briggs        62 61
      16 (12) Petra Hule          def.  (8) Morgan Coppoc       62 64
      16      Marie Mattel        def. (14) Alicia Dudeney      76(5) 61
-     16 (16) Mell Reasco         def.      Andreea Velcea      63 75
+     16 (16) Mell Reasco         def.      Andreeea Velcea     63 75
      16      Catherine Gulihur   def.      Daevenia Achong     64 63
      16 (10) Emma Shelton        def.  (7) Ava Hrastar         63 63
      16 (15) Ania Hertel         def.  (2) Isabella Pfennig    46 61 62
-     32  (1) Meg Kowalski        def.      Grace Shumacher     62 60
+     32  (1) Meg Kowalski        def.      Grace Schumacher    62 60
      32 (13) Kylie Bilchev       def.      Eden Richardson     62 67(4) 76(6)
      32  (5) Carly Briggs        def.      Vic Allen           61 67(1) 60
      32  (9) Evgeniya Levashova  def.      Kamila Umarova      57 64 62
@@ -62,7 +62,7 @@
      32 (12) Petra Hule          def.      Mahak Jain          26 63 75
      32      Marie Mattel        def.  (3) Lea Ma              64 16 63
      32 (14) Alicia Dudeney      def.      Gia Cohen           62 60
-     32      Andreea Velcea      def.      Aylen Hubeaut       63 64
+     32      Andreeea Velcea     def.      Aylen Hubeaut       63 64
      32 (16) Mell Reasco         def.      Bente Spee          75 63
      32      Catherine Gulihur   def.  (6) Marlee Zein         63 64
      32      Daevenia Achong     def. (11) Carol Lee           63 63
@@ -71,7 +71,7 @@
      32 (15) Ania Hertel         def.      Nandini Sharma      62 63
      32  (2) Isabella Pfennig    def.      Yasmine Kabbaj      63 75
      64  (1) Meg Kowalski        def.      Angel Carney        64 62
-     64      Grace Shumacher     def.      Ji Youn Lee         63 61
+     64      Grace Schumacher    def.      Ji Youn Lee         63 61
      64      Eden Richardson     def.      Jaleesa Leslie      61 57 41 Ret.
      64 (13) Kylie Bilchev       def.      Millie-Mae Matthews 20 Ret.
      64  (5) Carly Briggs        def.      Monika Dedaj        63 63
@@ -87,7 +87,7 @@
      64      Gia Cohen           def.      Sierra Sandy        60 62
      64 (14) Alicia Dudeney      def.      Selene Kentish      60 61
      64      Aylen Hubeaut       def.  (4) Valeriya Zeleva     62 Ret.
-     64      Andreea Velcea      def.      Alice Amendola      64 64
+     64      Andreeea Velcea     def.      Alice Amendola      64 64
      64      Bente Spee          def.      Amber MGinnis       61 62
      64 (16) Mell Reasco         def.      Kate Sharabura      64 46 63
      64  (6) Marlee Zein         def.      Fanny Norin         61 64
@@ -416,7 +416,7 @@
      16 (4) Melodie Collard      def.     Marta Perez Mur      63 61
      16 (5) Tatsiana Sasnouskaya def.     Maria Juliana Parra… 61 63
      16     Sofiya Chekhlystova  def. (6) Marina Alcaide       57 76(6) 62
-     16 (3) Elaine Chervinsky    def.     Anastasia Bovolskaya 76(3) 63
+     16 (3) Elaine Chervinsky    def.     Anastaiia Bovolskaia 76(3) 63
      16     Sara Ziodato         def.     Alexandra Viktorovi… 64 63
      16 (2) Yuliia Starodubtseva def.     Yvonna Zuffova       61 62
      32 (1) Natasha Subhash      def.     Momoko Nagato        61 60
@@ -429,7 +429,7 @@
      32 (5) Tatsiana Sasnouskaya def.     Hedda Gurholt        61 61
      32 (6) Marina Alcaide       def.     Francesca Feodorov   63 62
      32     Sofiya Chekhlystova  def.     Hibah Shaikh         60 63
-     32     Anastasia Bovolskaya def.     Jillian Taggart      63 76(7)
+     32     Anastaiia Bovolskaia def.     Jillian Taggart      63 76(7)
      32 (3) Elaine Chervinsky    def.     Selma Cadar          63 46 76(4)
      32     Alexandra Viktorovi… def. (7) Paola Exposito Diaz… 62 36 63
      32     Sara Ziodato         def.     Mary Brumfield       64 62
@@ -455,7 +455,7 @@
      32     Stella Wiesmann      def.     Mary Brumfield       61 63
      32     Hedda Gurholt        def.     Katarina Marinkovikj 76(3) 36 [5]
      32     Alina Lebedeva       def.     Esther Lovato        36 64 [8]
-     32     Pei Ju Hsieh         def.     Francesca Feodorov   63 62
+     32     Penny Hsieh          def.     Francesca Feodorov   63 62
      32     Nicole Kiefer        def.     Momoko Nagato        06 64 [7]
      32     Maria Juliana Parra… def.     Hibah Shaikh         64 46 [4]
  > Another Sunday Match
@@ -1595,6 +1595,92 @@
      16  Raffaela Alhach    def.  Victoria Saldh     64 61
 ~~~
 
+<a name="21-24854"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  FIU Invitational
+  Dates: Oct 29-31, 2021
+  Host: Florida International University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw
+  > Main
+     32  Kamila Umarova       def.  Martina Kudelova     61 64
+     32  Yasmine Kabbaj       def.  Katerina Filip       60 62
+     32  Andreeea Velcea      def.  Greta Schieroni      62 61
+     32  Andjela Skrobonja    def.  Amber MGinnis        61 62
+     32  Kristina Miletic     def.  Millie-Mae Matthews  60 60
+     32  Basak Akbas          def.  Carina Sommer        64 63
+     32  Juana Larranaga      def.  Ines Bekrar          16 64 75
+     32  Seira Shimizu        def.  Cecilia Alcobe-Gari… 26 63 62
+     32  Rut Galindo          def.  Audelia Morin-Kougo… 64 62
+     32  Csilla Fodor         def.  Amelie Boy           61 62
+     32  Carmen Gallardo Gue… def.  Alexandria Mjos      64 60
+     32  Tara Milic           def.  Grace Eland          67(5) 75 62
+     32  Margriet Timmermans  def.  Nathalia Gasparin    75 61
+~~~
+
+<a name="21-95444"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  Gamecock Shootout
+  Dates: Oct 29-31, 2021
+  Host: University Of South Carolina (W)
+══════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day 1
+  > Main
+     32  Jackie Nylander   def.  Natalie Boesing    63 62
+     32  Hadley Doyle      def.  Delaney Schurhamer 61 26 60
+     32  Lexi Keberle      def.  Katie Beavin       60 60
+     32  Merri Kelly       def.  Norah Balthazor    62 64
+     32  Claudia Bartolome def.  Emma Beavin        61 60
+     32  Anca Craciun      def.  Logan White        60 61
+     32  Nicole Petchey    def.  Sara Linn          60 60
+     32  Katherine Jakeway def.  Veronika Bruetting 61 61
+     32  Sydni Ratliff     def.  Megan Davies       75 75
+     32  Lucia Marzal      def.  Gracie Mulville    63 62
+     32  Nicole Hammond    def.  Allie Gretkowski   46 63 63
+     32  Elise Mills       def.  Isabelle Boulais   63 26 61
+     32  Julia Fliegner    def.  Ana Cruz           62 36 63
+     32  Kolie Allen       def.  Chloe Narboni      64 75
+     32  Lindsay Tulenko   def.  Madeline Atway     63 26 [5]
+     32  Dani Schoenly     def.  Kendall Couch      62 62
+ > Day 2
+  > Main
+     32  Megan Davies      def.  Jackie Nylander    26 61 64
+     32  Elise Mills       def.  Hadley Doyle       60 64
+     32  Lexi Keberle      def.  Gracie Mulville    62 62
+     32  Chloe Narboni     def.  Merri Kelly        60 75
+     32  Ana Cruz          def.  Nicole Petchey     57 62 [11]
+     32  Anca Craciun      def.  Kendall Couch      62 75
+     32  Katherine Jakeway def.  Logan White        63 62
+     32  Lucia Marzal      def.  Natalie Boesing    61 60
+     32  Nicole Hammond    def.  Delaney Schurhamer 61 60
+     32  Julia Fliegner    def.  Norah Balthazor    61 61
+     32  Kolie Allen       def.  Katie Beavin       60 62
+     32  Madeline Atway    def.  Emma Beavin        64 63
+     32  Dani Schoenly     def.  Sara Linn          76(5) 67(5) [7]
+     32  Claudia Bartolome def.  Veronika Bruetting 61 60
+ > Day 3
+  > Main
+     32  Megan Davies      def.  Natalie Boesing    60 61
+     32  Elise Mills       def.  Delaney Schurhamer 64 64
+     32  Allie Gretkowski  def.  Norah Balthazor    64 62
+     32  Katie Beavin      def.  Chloe Narboni      64 46 [10]
+     32  Ana Cruz          def.  Emma Beavin        61 61
+     32  Gracie Mulville   def.  Sara Linn          60 63
+     32  Kendall Couch     def.  Logan White        60 64
+     32  Lucia Marzal      def.  Jackie Nylander    61 62
+     32  Sydni Ratliff     def.  Lexi Keberle       36 63 61
+     32  Isabelle Boulais  def.  Hadley Doyle       62 61
+     32  Claudia Bartolome def.  Kolie Allen        64 60
+     32  Nicole Hammond    def.  Nicole Petchey     64 16 [8]
+     32  Julia Fliegner    def.  Katherine Jakeway  62 61
+     32  Madeline Atway    def.  Merri Kelly        75 46 [5]
+     32  Anca Craciun      def.  Dani Schoenly      60 63
+~~~
+
 <a name="21-24286"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -1752,7 +1838,7 @@
  > Alba Cortina Pou Singles Draw
   > East
       QF  Lahari Yelamanchili  def.  Mary Brumfield       62 64
-      QF  Anaelle Leclercq-Fi… def.  Yu Fujioka           62 76(2)
+      QF  Anaelle Leclerq-Fic… def.  Yu Fujioka           62 76(2)
       QF  Sydney Pratt         def.  Rita Pinto           61 61
       QF  Ava Markham          def.  Ola Pitak            62 64
  > Jill Breslin Singles Draw
@@ -1986,7 +2072,7 @@
       F  Beth Lacey           def.  Stephanie Shulman    64 63
  > Gray
   > East
-      F  Breda Brennan        def.  Rebecca Brody        61 62
+      F  Breda Brennan        def.  Rebecca Brody        64 62
      SF  Breda Brennan        def.  Madison Dennett      63 61
      SF  Rebecca Brody        def.  Emely Kahrs          Walkover
      QF  Breda Brennan        def.  Kendall Byers        60 62

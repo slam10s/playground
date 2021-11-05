@@ -947,7 +947,7 @@
  > Saturday Doubles
   > Main
      16  Grant/Hertel         def.  Job/Linares          61
-     16  Hiser/Bencheikh      def.  Machalova/Leclercq-… 60
+     16  Hiser/Bencheikh      def.  Machalova/Leclerq-F… 60
      16  Kowalski/Nirundorn   def.  Alloyarova/Ukita     62
      16  Coppoc/Reasco        def.  Dekkers/Gheorghita   64
      16  Sedlackova/Parkhome… def.  Mize/Pool            63
@@ -959,7 +959,7 @@
      16  Hiser/Bencheikh      def.  Alloyarova/Turco     64
      16  Job/Linares          def.  Sedlackova/Parkhome… 62
      16  Coppoc/Reasco        def.  Mize/Pool            61
-     16  Kowalski/Ma          def.  Leclercq-Ficher/Gab… 63
+     16  Kowalski/Ma          def.  Leclerq-Ficher/Gabr… 63
      16  Grant/Hertel         def.  Machalova/Kareisova  60
      16  Clayton/Nirundorn    def.  Kareisova/Zadori     64
 ~~~
@@ -1135,17 +1135,17 @@
  > WVU v MU
   > Main
      QF  Bossi/Chang       def.  Ballow/Van Hansewyck 64
-     QF  Nagato/Bovolskaya def.  Clairotte/Vanderhey… 75
+     QF  Nagato/Bovolskaia def.  Clairotte/Vanderhey… 75
      QF  Kovick/Kucharova  def.  Gillar/Stefancic     76(4)
  > WVU v Villanova
   > Main
      QF  Bossi/Chang       def.  Strande/Grigorian    61
-     QF  Nagato/Bovolskaya def.  Kapp/Fisher          63
+     QF  Nagato/Bovolskaia def.  Kapp/Fisher          63
      QF  Kovick/Kucharova  def.  Steffen/Brogan       63
  > WVU v Radford
   > Main
      QF  Bossi/Chang       def.  Ifidzhen/Loudili     75
-     QF  Nagato/Bovolskaya def.  Brandow/Falk         63
+     QF  Nagato/Bovolskaia def.  Brandow/Falk         63
      QF  Kovick/Kucharova  def.  Fruehauf/McClure     63
 ~~~
 
