@@ -15,12 +15,24 @@
   Host: Baylor University (M)
 ═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
- > Draw
+ > Compass Draw Draw
   > East
-     QF  Han/Anselmo        vs      Arevalo/Collier    Fri @ 11:00
-     QF  Allen/Pini         vs  (2) Wallin/Azoides     Fri @ 11:00
-     16  McDonald/Arimilli  vs      Schlageter/Mandlik Fri @ 11:00
-     16  Sekiguchi/Ribero   vs      Braverman/Muza     Fri @ 11:00
+      F     Martinez/Hotard    def.     Arevalo/Collier    87(6)
+     SF     Arevalo/Collier    def.     Schlageter/Mandlik 82
+     SF     Martinez/Hotard    def. (2) Wallin/Azoides     84
+     QF     Schlageter/Mandlik def. (1) Brumm/Soto         85
+     QF     Arevalo/Collier    def.     Han/Anselmo        85
+     QF     Martinez/Hotard    def.     Sekiguchi/Ribero   84
+     QF (2) Wallin/Azoides     def.     Allen/Pini         83
+     16     Schlageter/Mandlik def.     McDonald/Arimilli  86
+     16     Sekiguchi/Ribero   def.     Braverman/Muza     86
+  > West
+      F     Braverman/Muza     def.     McDonald/Arimilli  Walkover
+  > North
+     SF     Han/Anselmo        def. (1) Brumm/Soto         85
+     SF     Allen/Pini         def.     Sekiguchi/Ribero   87(5)
+  > 3-4 Playoff
+      F (2) Wallin/Azoides     def.     Schlageter/Mandlik Default
 ~~~
 
 Return to the [Top](./men_doubles_2145.md) &#124; [Home Page](../../index.md)
