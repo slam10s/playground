@@ -14,6 +14,7 @@
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 - 10/22/2021 - [The Georgia Invitational](#21-36554) ([Results](#21-36554) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaW/Tournaments/Overview/01A4B27D-4D73-4167-8630-758894B435E5" target="_blank">Draws</a>)  
+- 10/23/2021 - [2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship](#21-05827) ([Results](#21-05827) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">Draws</a>)  
 - 10/21/2021 - [Crusader Invitational](#21-41693) ([Results](#21-41693) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Draws</a>)  
 - 10/22/2021 - [Eagle Invitational](#21-28500) ([Results](#21-28500) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Draws</a>)  
 - 10/22/2021 - [GSC Fall Individual Tournament](#21-93512) ([Results](#21-93512) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">Draws</a>)  
@@ -23,7 +24,6 @@
 
 **Tournaments without Matches**  
 - 10/19/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Butler Tournament</a>  
-- 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -853,6 +853,55 @@
      16  Reasco/Clayton     def.  Kattenberg/Leslie  85
      16  Dudeney/Spee       def.  Shvets/Rodilosso   87(4)
      16  Frayman/Joyce      def.  Zeleva/Levashova   82
+~~~
+
+<a name="21-05827"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════════════════
+  2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship
+  Dates: Oct 23-24, 2021
+  Host: Univ. Of Wisconsin, Whitewater (W)
+═══════════════════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > 1 Flight
+  > Main
+      F  Bruno/Kraft      def.  Henderson/Franta   86
+     SF  Henderson/Franta def.  Covek/Koepp        87(5)
+     SF  Bruno/Kraft      def.  Steinert/Hierl     87(7)
+     QF  Covek/Koepp      def.  Couves/Sandry      82
+     QF  Bruno/Kraft      def.  Spicer/Nolde       81
+     QF  Steinert/Hierl   def.  Courteau/Budzinski 82
+  > Consolation
+      F  Couves/Sandry    def.  Spicer/Nolde       81
+     SQ  Spicer/Nolde     def.  Courteau/Budzinski 84
+  > Playoff 3-4
+      F  Covek/Koepp      def.  Steinert/Hierl     87(5)
+ > 2 Flight
+  > Main
+      F  Palen/Fuchs      def.  Bailey/Kalinka     82
+     SF  Palen/Fuchs      def.  Leithold/Hess      81
+     SF  Bailey/Kalinka   def.  Rueth/Day          83
+     QF  Leithold/Hess    def.  Becker/Kent        84
+     QF  Bailey/Kalinka   def.  Heinert/Gallion    80
+     QF  Rueth/Day        def.  Pattee/Stitt       80
+  > Consolation
+      F  Becker/Kent      def.  Heinert/Gallion    83
+     SQ  Heinert/Gallion  def.  Pattee/Stitt       82
+  > Playoff 3-4
+      F  Rueth/Day        def.  Leithold/Hess      84
+ > 3 Flight
+  > Main
+      F  Brooks/Nelson    def.  Bigelow/Ha         81
+     SF  Bigelow/Ha       def.  Henes/Leithold     82
+     SF  Brooks/Nelson    def.  Riegle/Graf        82
+     QF  Henes/Leithold   def.  Reed/Ragsdale      83
+     QF  Riegle/Graf      def.  Kent/Rennie        81
+     QF  Brooks/Nelson    def.  Rivera/Schwichow   80
+  > Consolation
+      F  Kent/Rennie      def.  Reed/Ragsdale      84
+     SQ  Kent/Rennie      def.  Rivera/Schwichow   80
+  > Playoff 3-4
+      F  Riegle/Graf      def.  Henes/Leithold     83
 ~~~
 
 <a name="21-41693"></a>

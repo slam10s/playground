@@ -20,6 +20,7 @@
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
 - 9/24/2021 - [Natchitoches Women's Care/Lady Demon Collegiate Invitational](#21-03887) ([Results](#21-03887) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Draws</a>)  
 - 9/24/2021 - [Ole Miss Fall Invite](#21-39692) ([Results](#21-39692) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMississippiW/Tournaments/Overview/5CF07ED7-A131-45ED-8D93-E6058EED2536" target="_blank">Draws</a>)  
+- 9/24/2021 - [Purdue Invite](#21-45740) ([Results](#21-45740) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityW/Tournaments/Overview/7BB7BD29-7CFA-40C8-8B1A-907141B28F7E" target="_blank">Draws</a>)  
 - 9/23/2021 - [Ranked College Spotlight](#21-47703) ([Results](#21-47703) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthCarolinaStateUnivW/Tournaments/Overview/2CBD0E5F-B8C8-4667-972F-0BCB4951BB75" target="_blank">Draws</a>)  
 - 9/24/2021 - [Samford Round Robin #1](#21-74651) ([Results](#21-74651) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityW/Tournaments/Overview/EC00D221-086D-4EE8-BBFA-A8A76ACB92CB" target="_blank">Draws</a>)  
 - 9/24/2021 - [Stetson Invite](#21-76161) ([Results](#21-76161) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/EDD70DAB-65CC-4E26-BC6B-D0CC66FD5BAC" target="_blank">Draws</a>)  
@@ -43,7 +44,6 @@
 
 **Tournaments without Matches**  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityW/Tournaments/Overview/1CE6B392-5A54-43F9-A9F6-BAC5D49C0747" target="_blank">Lehigh Women's Invite</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityW/Tournaments/Overview/7BB7BD29-7CFA-40C8-8B1A-907141B28F7E" target="_blank">Purdue Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/DA20527E-5D36-4FBF-A32B-A3905E6A333C" target="_blank">SMU Fall Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/D09BC058-0102-4062-90BE-1A0436D0E2C9" target="_blank">UNA Women's Tennis Classic</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternIllinoisUniversityW/Tournaments/Overview/F071C84F-6B2D-4B81-8D42-5B11D51EAB94" target="_blank">Western Illinois University Fall Invite</a>  
@@ -418,7 +418,7 @@
      QF  Davidescu/Sorkin     def.  La/Yang              61
      QF  Badawi/Laas          def.  Feodorov/Markovic    76(4)
      QF  Marinkovikj/Wiesmann def.  Askarova/Montana     61
-     16  Ashton/Willy         def.  El Sayed/Salvi       75
+     16  Ashton/Willy         def.  Saleh/Salvi          75
      16  Svendsen/Honrubia    def.  Nannery/Trella       60
      16  La/Yang              def.  Miranda/Bach         61
      16  Davidescu/Sorkin     def.  Rothfeld/Lawson      61
@@ -434,10 +434,10 @@
      SF  Bell/Vesikallio      def.  Jacobs/Pospischill   63
      QF  Wirt/Hashiguchi      def.  Decker/Aguirre       60
   > North
-      F  Bendetti/Coburn      def.  El Sayed/Salvi       63
-     SF  El Sayed/Salvi       def.  Rothfeld/Lawson      62
+      F  Bendetti/Coburn      def.  Saleh/Salvi          63
+     SF  Saleh/Salvi          def.  Rothfeld/Lawson      62
      SF  Bendetti/Coburn      def.  Bodewes/Ramirez      60
-     QF  El Sayed/Salvi       def.  Nannery/Trella       Walkover
+     QF  Saleh/Salvi          def.  Nannery/Trella       Walkover
      QF  Rothfeld/Lawson      def.  Miranda/Bach         Walkover
      QF  Bodewes/Ramirez      def.  Haliou/Assenmacher   64
   > Northeast
@@ -962,6 +962,50 @@
      16  Kowalski/Ma          def.  Leclerq-Ficher/Gabr… 63
      16  Grant/Hertel         def.  Machalova/Kareisova  60
      16  Clayton/Nirundorn    def.  Kareisova/Zadori     64
+~~~
+
+<a name="21-45740"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Purdue Invite
+  Dates: Sep 24-26, 2021
+  Host: Purdue University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Purdue/Butler, Miami/UL
+  > Main
+     16  Verma/Di Palma       def.  Ramasamy/Rico        61
+     16  Denysiewicz-Slowek/… def.  Simova/Sawyer        63
+     16  Zalukar/Valentinsson def.  Chaika/Gorchanyuk    62
+     16  Richardson/Callwood  def.  Ushio/Long           62
+     16  Gasparin/Fodor       def.  Boesing/Linn         63
+     16  Schurhamer/Balthazor def.  Milic/Larranaga      61
+     16  Shimizu/Gallardo Gu… def.  Beavin/Bruetting     63
+ > Purdue/Miami, Butler/UL
+  > Main
+     32  Verma/Di Palma       def.  Boesing/Schurhamer   62
+     32  Gorchanyuk/Richards… def.  Linn/Bruetting       63
+     32  Sawyer/Chaika        def.  Balthazor/Beavin     63
+     32  Ramasamy/Rico        def.  Gasparin/Fodor       61
+     32  Milic/Larranaga      def.  Denysiewicz-Slowek/… 62
+     32  Shimizu/Galindo      def.  Zalukar/Valentinsson 63
+ > Purdue/UL, Butler/Miami 1
+  > Main
+     32  Ramasamy/Rico        def.  Boesing/Linn         64
+     32  Denysiewicz-Slowek/… def.  Schurhamer/White     61
+     32  Zalukar/Valentinsson def.  Bruetting/Balthazor  62
+     32  Ushio/Long           def.  Beavin/Leblebijian   61
+     32  Verma/Di Palma       def.  Milic/Larranaga      61
+     32  Sawyer/Chaika        def.  Gasparin/Galindo     64
+     32  Fodor/Gallardo Guev… def.  Gorchanyuk/Richards… 75
+ > Purdue/UL, Butler/Miami 2
+  > Main
+     32  Ramasamy/Rico        def.  Boesing/Schurhamer   63
+     32  Zalukar/Ushio        def.  Linn/Bruetting       75
+     32  Balthazor/Beavin     def.  Valentinsson/Long    61
+     32  Simova/Sawyer        def.  Larranaga/Gasparin   64
+     32  Gorchanyuk/Richards… def.  Fodor/Galindo        61
+     32  Gallardo Guevara/Mi… def.  Callwood/Chaika      76(4)
 ~~~
 
 <a name="21-47703"></a>

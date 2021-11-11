@@ -21,6 +21,7 @@
 - 10/8/2021 - [USC Women of Troy Invitational](#21-75174) ([Results](#21-75174) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F" target="_blank">Draws</a>)  
 - 10/8/2021 - [Wildcat Invite](#21-77667) ([Results](#21-77667) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
+- 10/9/2021 - [Enchanted Valley Showdown](#21-89530) ([Results](#21-89530) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Women's Invitational](#21-77230) ([Results](#21-77230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE" target="_blank">Draws</a>)  
 - 10/9/2021 - [Middlebury Invitational](#21-32206) ([Results](#21-32206) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889" target="_blank">Draws</a>)  
 - 10/8/2021 - [Rumble by the River](#21-16089) ([Results](#21-16089) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NortheasternStateUW/Tournaments/Overview/6CDF33CD-A0E5-4CA9-BD9D-2F5B12B0FE50" target="_blank">Draws</a>)  
@@ -29,7 +30,6 @@
 
 **Tournaments without Matches**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
 
 <a name="21-03077"></a>
@@ -438,6 +438,11 @@
      R1  Teona Velkoska      def.  Honoka Nakanishi     75 75
      R1  Lera Valeeva        def.  Kate Miley           62 61
      R1  Manuela Barriga     def.  Yasmine Humbert      46 75 [8]
+ > Extra Match
+  > Main
+     R5  Rebecca Brody       def.  Kate Miley           75 76(2)
+     R3  Ana Rodrigues       def.  Sumomo Hamanaga      67(2) 64 [2]
+     R1  Lara Unkovich       def.  Brooke Buehler       60 60
 ~~~
 
 <a name="21-68924"></a>
@@ -508,7 +513,7 @@
      128  Willa Rogers         def.  Lindsay Tulenko      63 46 [6]
      128  Elinor Storkaas      def.  Bruna Sampaio        62 63
      128  Maretha Burger       def.  Kendall Couch        36 64 [3]
-     128  Tess Fisher          def.  Laylo Bakhodirova    60 63
+     128  Laylo Bakhodirova    def.  Tess Fisher          60 63
      128  Katie Andreini       def.  Jackeline Lopez      60 75
      128  Chloe Brown          def.  Alejandra Morales    64 36 [5]
      128  Semra Aksu           def.  Sydney Kaplan        63 57 [7]
@@ -1684,6 +1689,82 @@
   > West
       F  Eve Robinson         def.  Karyna Bazilevych    Walkover
      SF  Karyna Bazilevych    def.  Julia Triska         61 60
+~~~
+
+<a name="21-89530"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Enchanted Valley Showdown
+  Dates: Oct 9-10, 2021
+  Host: Young Harris College (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day 1 Round 1
+  > Main
+     64  Mireia Turro         def.  Frankee Hendricks    76(5) 61
+     64  Lieselotte Hartlohn… def.  Carlie Davis         62 61
+     64  Cyba Ozzor           def.  Maria Lopez          62 61
+     64  Isabelle Barfoot     def.  Yaritza Gonzalez     61 62
+     64  Courtney Piltaver    def.  Reagan Sommariva     61 61
+     64  Whitney Hamilton     def.  Andi Billingsly      61 60
+     64  Jing Dong            def.  Lily Aranyos         75 63
+     64  Joselyne Chapui      def.  Paola Socarras       61 62
+     64  Meghan Mallath       def.  Laura Seib           67(3) 62 [6]
+     64  Daniella Galeano     def.  Yureni Gomez         76(4) 61
+     64  Sydney Wright        def.  Molly Hencken        26 63 [4]
+     64  Bailee Wilson        def.  Hannah Farmer        63 61
+ > Day 1 Round 2
+  > Main
+     64  Juana Zambrano       def.  Louise Ratiu         16 75 [2]
+     64  Jing Dong            def.  Evelin Gouveia       62 62
+     64  MaryWynn Brannon     def.  Yureni Gomez         76(5) 64
+     64  Leanna Wood          def.  Sally Brannon        26 64 [7]
+     64  Ana Carla Resende    def.  Lisa Kirr            61 75
+     64  Micaela Maiz         def.  Summer Reeves        75 61
+     64  Natasha Forrest      def.  Mirjana Ragastovac   75 64
+     64  Julia Speiser        def.  Sierra Donaldson     64 62
+     64  Anita Chornei        def.  Lauren Trammell      61 76(3)
+     64  Maria Ulloa          def.  Hayden Smith         60 63
+     64  Lily Aranyos         def.  Lieselotte Hartlohn… 76(3) 63
+     64  Eva Dirr             def.  Laura Seib           61 Ret.
+     64  Cyba Ozzor           def.  Paola Socarras       75 61
+     64  Isabelle Barfoot     def.  Molly Hencken        62 61
+     64  Rachel Rodrigues     def.  Anna Steiner         62 46 [4]
+ > Day 1 Round 3
+  > Main
+     64  Frankee Hendricks    def.  Juana Zambrano       61 75
+     64  Evelin Gouveia       def.  Maria Lopez          62 75
+     64  Sally Brannon        def.  Carlie Davis         63 36 [6]
+     64  MaryWynn Brannon     def.  Yaritza Gonzalez     62 62
+ > Day 2 Round 1
+  > Main
+     64  Micaela Maiz         def.  Mireia Turro         61 36 [4]
+     64  Lisa Kirr            def.  Lieselotte Hartlohn… 63 61
+     64  Eva Dirr             def.  Mirjana Ragastovac   61 64
+     64  Cyba Ozzor           def.  Lauren Trammell      60 63
+     64  Hayden Smith         def.  Courtney Piltaver    61 63
+     64  Rachel Rodrigues     def.  Lauren Good          62 62
+     64  Summer Reeves        def.  Juana Zambrano       63 62
+     64  MaryWynn Brannon     def.  Natasha Forrest      16 55 Ret.
+     64  Julia Speiser        def.  Sally Brannon        62 60
+     64  Maria Ulloa          def.  Evelin Gouveia       61 Ret.
+     64  Anita Chornei        def.  Sydney Wright        60 60
+     64  Ana Carla Resende    def.  Louise Ratiu         60 61
+     64  Jing Dong            def.  Hannah Price         75 64
+ > Day 2 Round 2
+  > Main
+     64  Jing Dong            def.  Micaela Maiz         46 63 [7]
+     64  Lisa Kirr            def.  Joselyne Chapui      61 64
+     64  Sierra Donaldson     def.  Louise Ratiu         62 67(5) [6]
+     64  Lauren Trammell      def.  Meghan Mallath       64 61
+     64  Hayden Smith         def.  Catarina Marcko Fer… 60 61
+     64  Yureni Gomez         def.  Larissa Wieser       63 63
+     64  Maria Ulloa          def.  Bailee Wilson        62 62
+ > Day 2 Round 3
+  > Main
+     64  Meghan Mallath       def.  Summer Reeves        63 46 [6]
+     64  Julia Speiser        def.  Joselyne Chapui      62 64
+     64  Anita Chornei        def.  Yureni Gomez         60 61
 ~~~
 
 <a name="21-77230"></a>

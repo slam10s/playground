@@ -5,6 +5,7 @@
 - 10/11/2021 - [Belmont Fall Invite](#21-28974) ([Results](#21-28974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/7B6195EA-4B1E-4B0F-8B5E-7E14B47D14DB" target="_blank">Draws</a>)  
 - 10/15/2021 - [Bulldog Cup](#21-69055) ([Results](#21-69055) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Draws</a>)  
 - 10/15/2021 - [Commodore Classic](#21-21760) ([Results](#21-21760) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Draws</a>)  
+- 10/15/2021 - [Fighting Illini Invite](#21-10431) ([Results](#21-10431) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisM/Tournaments/Overview/4DAD8F21-9326-420E-B8FB-259D52500DC0" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-23395) ([Results](#21-23395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-08423) ([Results](#21-08423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Northeast Regional Championship](#21-34853) ([Results](#21-34853) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">Draws</a>)  
@@ -18,18 +19,18 @@
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 - 10/16/2021 - [Purdue University Northwest Fall Invitational](#21-60014) ([Results](#21-60014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityNorthwestM/Tournaments/Overview/A63832A0-768B-401A-B044-F7960762A033" target="_blank">Draws</a>)  
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
+- 10/16/2021 - [Wesleyan Invitational](#21-80073) ([Results](#21-80073) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisM/Tournaments/Overview/4DAD8F21-9326-420E-B8FB-259D52500DC0" target="_blank">Fighting Illini Invite</a>  
-- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Wesleyan Invitational</a>  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BallStateUniversityM/Tournaments/Overview/D509D00E-445B-4F77-802B-9FBFF2D92EB7" target="_blank">Ball State Fall Invite</a>  
 
 <a name="21-27941"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   C.L Varner Invitational
   Dates: Oct 8-12, 2021
   Host: Rollins College (M)
-════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Hidden Dual
   > Main
@@ -86,11 +87,11 @@
 
 <a name="21-28974"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Belmont Fall Invite
   Dates: Oct 11-12, 2021
   Host: Belmont University (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Belmont vs. Lipscomb
   > Main
@@ -143,11 +144,11 @@
 
 <a name="21-69055"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Bulldog Cup
   Dates: Oct 15-17, 2021
   Host: Drake University (M)
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Singles Round 1 (Friday)
   > Main
@@ -195,48 +196,138 @@
 
 <a name="21-21760"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
   Commodore Classic
   Dates: Oct 15-17, 2021
   Host: Vanderbilt University (M)
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Matches Day 1
   > Main
-     32       Macsen Sisam     def.       Pablo Schelcher 62 63
-     32       Joubert Klopper  def.  (26) Marcus McDaniel 75 76
-     32  (42) George Harwell   def.  (31) Andres Martin   64 57 75
-     32       Maxwell Freeman  def.       Keshav Chopra   75 46 64
-     32       Chen Dong        def. (123) Marcus Ferreira 75 62
-     32       Angel Guerrero   def.       Siim Troost     64 36 75
-     32       Brandon McKinney def.       Michael Ross    76 36 63
+     32       Macsen Sisam       def.       Pablo Schelcher    62 63
+     32       Joubert Klopper    def.  (26) Marcus McDaniel    75 76
+     32  (42) George Harwell     def.  (31) Andres Martin      64 57 75
+     32       Maxwell Freeman    def.       Keshav Chopra      75 46 64
+     32       Chen Dong          def. (123) Marcus Ferreira    75 62
+     32       Angel Guerrero     def.       Siim Troost        64 36 75
+     32       Brandon McKinney   def.       Michael Ross       76 36 63
+     32       Christopher Li     def.       Pablo Alemany      36 75 63
+     32       Peter Murphy       def.       Maksim Bogdanovich 75 60
+     32       Anuj Watane        def.       Pedro Uribe        61 61
+     32       Casey Kania        def.       Sam Edgar          86
+     32       Harry Rock         def.       Mark Dillon        75 76
+     32       Brian Cernoch      def.       Jeremy Taylor      46 63 62
+     32       Mac Kiger          def.  (76) David Stevenson    75 26 62
+     32       Logan Zapp         def.       Pau Fanlo          63 64
  > Matches Day 2
   > Main
-     32  (42) George Harwell   def.  (44) Brian Cernoch   75 64
-     32       Michael Ross     def.       Mark Dillon     63 63
-     32 (123) Marcus Ferreira  def.       Logan Zapp      61 62
-     32       Maxwell Freeman  def.       Anuj Watane     62 61
-     32       Peter Murphy     def.       Macsen Sisam    46 63 60
-     32       Christopher Li   def.       Siim Troost     60 64
-     32       Joubert Klopper  def.       Mac Kiger       76 76
+     32  (42) George Harwell     def.  (44) Brian Cernoch      75 64
+     32       Michael Ross       def.       Mark Dillon        63 63
+     32 (123) Marcus Ferreira    def.       Logan Zapp         61 62
+     32       Maxwell Freeman    def.       Anuj Watane        62 61
+     32       Peter Murphy       def.       Macsen Sisam       46 63 60
+     32       Christopher Li     def.       Siim Troost        60 64
+     32       Joubert Klopper    def.       Mac Kiger          76 76
+     32       Chen Dong          def.       Pau Fanlo          61 61
+     32  (76) David Stevenson    def.       Marcus McDaniel    75 62
+     32       Angel Guerrero     def.       Sam Edgar          64 63
+     32       Harry Rock         def.       Keshav Chopra      46 61 61
+     32       Pablo Alemany      def.       Brandon McKinney   64 26 63
+     32       Jeremy Taylor      def.       Andres Martin      16 64 76
  > Matches Day 3
   > Main
-     32       Pablo Alemany    def.       Michael Ross    63 63
-     32       Siim Troost      def.       Sam Edgar       63 62
-     32       Maxwell Freeman  def.       Pau Fanlo       61 63
-     32  (42) George Harwell   def.       Jeremy Taylor   63 62
-     32       Joubert Klopper  def.  (76) David Stevenson 63 75
-     32       Harry Rock       def. (123) Marcus Ferreira 76 26 [4]
-     32       Macsen Sisam     def.       Pedro Uribe     63 26 63
+     32       Pablo Alemany      def.       Michael Ross       63 63
+     32       Siim Troost        def.       Sam Edgar          63 62
+     32       Maxwell Freeman    def.       Pau Fanlo          61 63
+     32  (42) George Harwell     def.       Jeremy Taylor      63 62
+     32       Joubert Klopper    def.  (76) David Stevenson    63 75
+     32       Harry Rock         def. (123) Marcus Ferreira    76 26 [4]
+     32       Macsen Sisam       def.       Pedro Uribe        63 26 63
+     32       Logan Zapp         def.       Chen Dong          63 36 61
+     32       Brian Cernoch      def.       Andres Martin      36 75 64
+     32       Angel Guerrero     def.       Peter Murphy       75 75
+     32       Pablo Schelcher    def.       Christopher Li     62 61
+     32       Mac Kiger          def.       Marcus McDaniel    64 64
+     32       Keshav Chopra      def.       Anuj Watane        62 64
+     32       Maksim Bogdanovich def.       Casey Kania        84
+~~~
+
+<a name="21-10431"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  Fighting Illini Invite
+  Dates: Oct 15-17, 2021
+  Host: University Of Illinois (M)
+═══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > ILL vs. ASU, MTSU
+  > Main
+     32  Lucas Horve          def.  Jonah Wilson         63 00 Ret.
+     32  Hunter Heck          def.  Christian Lerby      61 75
+     32  Alex Petrov          def.  Jacob Bullard        61 63
+     32  George Stoupe        def.  Nic Meister          64 67(4) 61
+     32  Gabrielius Guzauskas def.  Spencer Brachman     63 64
+     32  Alex Brown           def.  Nicola Cigna         60 76(1)
+     32  Olivier Stuart       def.  Murphy Cassone       46 62 61
+ > ILL vs. TEN
+  > Main
+     32  Adam Walton          def.  Olivier Stuart       64 76(9)
+     32  Emile Hudd           def.  Hunter Heck          64 60
+     32  Shunsuke Mitsui      def.  Lucas Horve          63 60
+     32  Martim Prata         def.  Alex Petrov          63 63
+     32  Johannus Monday      def.  Alex Brown           76(5) 75
+     32  Mark Wallner         def.  John Chin            63 61
+     32  Conor Gannon         def.  Gabrielius Guzauskas 76(4) 63
+     32  Angel Diaz           def.  Nic Meister          62 63
+ > MTSU vs. ASU, TEN
+  > Main
+     32  Martim Prata         def.  Chris Edge           64 76(3)
+     32  Oskar Brostrom Poul… def.  Nicola Cigna         64 64
+     32  Murphy Cassone       def.  Francisco Rocha      62 63
+     32  Pavel Motl           def.  Jacob Bullard        63 63
+     32  Johannus Monday      def.  Stepan Holis         64 60
+     32  Mark Wallner         def.  John Chin            63 61
+     32  George Stoupe        def.  Lucas Olivier        64 64
+     32  Spencer Brachman     def.  Mattia Bernardi      62 60
+     32  Stijn Slump          def.  Christian Lerby      46 76(5) 30 Ret.
+ > ILL, TEN vs. MTSU
+  > Main
+     32  Chris Edge           def.  Lucas Horve          06 63 75
+     32  Oskar Brostrom Poul… def.  Nic Meister          64 76(5)
+     32  Francisco Rocha      def.  Gabrielius Guzauskas 63 62
+     32  Hunter Heck          def.  Pavel Motl           64 61
+     32  Alex Petrov          def.  Stepan Holis         61 61
+     32  Lucas Olivier        def.  Kweisi Kenyatte      63 Ret.
+     32  Alex Brown           def.  Stijn Slump          64 16 64
+     32  Mark Wallner         def.  Mattia Bernardi      61 60
+     32  Angel Diaz           def.  John Chin            64 61
+ > ASU vs. TEN
+  > Main
+     32  Johannus Monday      def.  Murphy Cassone       75 62
+     32  Adam Walton          def.  Nicola Cigna         64 67(4) 62
+     32  Martim Prata         def.  Spencer Brachman     61 64
+     32  Emile Hudd           def.  George Stoupe        75 60
+     32  Shunsuke Mitsui      def.  Jacob Bullard        60 63
+ > MTSU vs. TEN, ASU
+  > Main
+     32  Martim Prata         def.  Oskar Brostrom Poul… 46 76(6) 63
+     32  Shunsuke Mitsui      def.  Pavel Motl           63 61
+     32  Chris Edge           def.  Angel Diaz           64 76(3)
+     32  Johannus Monday      def.  Francisco Rocha      64 61
+     32  Emile Hudd           def.  Stepan Holis         64 62
+     32  Mark Wallner         def.  Lucas Olivier        61 61
+     32  Conor Gannon         def.  Mattia Bernardi      64 61
+     32  John Chin            def.  Moritz Hoffmann      64 61
+     32  Adam Walton          def.  Stijn Slump          63 63
 ~~~
 
 <a name="21-23395"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Regional Championship
   Dates: Oct 14-17, 2021
   Host: U.S. Naval Academy (M)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main
   > Main
@@ -407,11 +498,11 @@
 
 <a name="21-08423"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Regional Championship
   Dates: Oct 14-17, 2021
   Host: Liberty University (M)
-═══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
@@ -553,7 +644,7 @@
       64 (15) Michael Sun          def.      Jonathan Olive-Blan… 64 46 62
       64 (32) Aj Woodman           def.      Jayden Templeman     60 36 64
       64 (30) Steven Sun           def.      Diego Serra Sparrow  62 64
-      64  (2) Alex Kotzen          def.      Cheng Tang           61 61
+      64  (2) Alex Kotzen          def.      Rex Tang             61 61
      128      Nicholas Lorenz      def.      Diego Huttepain      26 63 76(4)
      128      Jan Semerak          def.      Manuel Alonso        62 60
      128      David Lins           def.      Zack Elliott         67(4) 63 76(5)
@@ -585,7 +676,7 @@
      128      Jonathan Olive-Blan… def.      Rohan Gupta          63 57 75
      128      Jayden Templeman     def.      Daniel Webb          61 63
      128      Diego Serra Sparrow  def.      Sebastian Pinos      62 63
-     128      Cheng Tang           def.      Stijn Paardekooper   64 60
+     128      Rex Tang             def.      Stijn Paardekooper   64 60
  > Qualifying Singles Draw
   > Main
       32  (1) Carl Gustavson       def.      Jordan Paul          61 62
@@ -640,11 +731,11 @@
 
 <a name="21-05800"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: Saint Mary's College/CA (M)
-══════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
@@ -734,11 +825,11 @@
 
 <a name="21-10002"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: University Of Oregon (M)
-═════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
@@ -799,11 +890,11 @@
 
 <a name="21-67380"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Southern Regional Championship
   Dates: Oct 14-19, 2021
   Host: Auburn University (M)
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main Draw
   > Main
@@ -838,11 +929,29 @@
       32  Fynn Kuenkler        def.  Jim Hendrikx         60 75
       32  Boris Kozlov         def.  Gregor Ramskogler    64 46 62
       32  Filip Planinsek      def.  Tyler Stice          76(5) 26 64
+ > Consolation
+  > Main
+      64  Spencer Gray         def.  Joao Ferreira        60 75
+      64  John Hallquist Lith… def.  Finn Murgett         63 46 60
+      64  Sebastien Collard    def.  Davide Tortora       26 75 63
+      64  Florian Broska       def.  Jakob Cadonau        62 64
+      64  Lukas Engelhardt     def.  Jim Hendrikx         62 64
+      64  Tyler Stice          def.  Gregor Ramskogler    60 64
+      64  Alex Bancila         def.  Kacper Dworak        36 63 60
+      64  Benji Jacobson       def.  Alejandro Sanchez G… 64 75
+      64  Luc Hoeijmans        def.  Maxime St-Hilaire    64 76(2)
+      64  Walker Stearns       def.  Seth Richey          64 62
+      64  Vasil Dimitrov       def.  Javier Montoya       75 62
+      64  Charlie Barry        def.  Karlo Kajin          62 64
+      64  Josh Raab            def.  Oriol Fillat Gimenez 61 64
+      64  Juan Martin          def.  Dhruv Sunish         62 63
+      64  Matthew Gooch        def.  Martin Vasquez       75 62
+      64  Pawin Jirapoomdaje   def.  Jb Pickard           63 62
+      64  Pasawee Reansuwong   def.  Nikola Puric         63 62
  > Qualifying
   > Main
       16  Lukas Engelhardt     def.  Nicolas Simkin       62 61
       16  Fynn Kuenkler        def.  Jackson Ross         67(5) 76 62
-      16  Olimjon Nabiev       def.  Luc Hoeijmans        63 64
       16  Roman Postolka       def.  Joao Ferreira        26 64 63
       16  Sebastien Collard    def.  Jakob Cadonau        60 63
       16  Gabriel Diaz Freire  def.  Pelayo Antuna        75 62
@@ -872,6 +981,7 @@
       64  Jackson Ross         def.  Vojtech Podzemny     61 62
       64  Louis Delcour        def.  Alexander Gima       36 64 62
       64  Fynn Kuenkler        def.  Lucas Dini           60 46 60
+      64  Luc Hoeijmans        def.  David Pata           64 46 64
       64  Noah Martens         def.  Maj Tomac            64 64
       64  Olimjon Nabiev       def.  Chris Andre          63 62
       64  Chris Tasker         def.  Spencer Gray         60 63
@@ -1083,11 +1193,11 @@
 
 <a name="21-27355"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Louisville Invitational
   Dates: Oct 15-17, 2021
   Host: University Of Louisville (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw A
   > East
@@ -1194,11 +1304,11 @@
 
 <a name="21-62211"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   San Diego State Fall Invite
   Dates: Oct 15-17, 2021
   Host: San Diego State University (M)
-══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Day One Singles
   > Main
@@ -1234,11 +1344,11 @@
 
 <a name="21-41868"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   UTC-Steve Baras Invitational
   Dates: Oct 15-17, 2021
   Host: Univ. Of Tennessee, Chattanooga (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Utc/ttu
   > Main
@@ -1317,11 +1427,11 @@
 
 <a name="21-00186"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Cup
   Dates: Oct 14-17, 2021
   Host: ITA
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Division II
   > East
@@ -1437,11 +1547,11 @@
 
 <a name="21-98443"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Saint Leo Lion Fall Invitational - Men
   Dates: Oct 15-17, 2021
   Host: Saint Leo University (M)
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > East
@@ -1516,6 +1626,68 @@
  > Extra Matches
   > Main
       F  Jacob Turley         def.  Richard Freemann     76(4) 62
+~~~
+
+<a name="21-80073"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Wesleyan Invitational
+  Dates: Oct 16-17, 2021
+  Host: Wesleyan University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > A Main
+  > Main
+      F (1) Tristan Bradley  def.     Andrew Finkelman  63 76(4)
+     SF (1) Tristan Bradley  def.     Reid Staples      67(1) 76(3) [8]
+     SF     Andrew Finkelman def.     Ethan Bradley     75 62
+     QF (1) Tristan Bradley  def.     Peter Anker       76(2) 63
+     QF     Reid Staples     def. (3) Noah Lilienthal   63 67(4) [8]
+     QF     Andrew Finkelman def. (4) Kian Yazdi        60 61
+     QF     Ethan Bradley    def.     Oscar Yang        76(5) 75
+     16 (1) Tristan Bradley  def.     Ole Lepsoe        76(6) 61
+     16     Peter Anker      def.     Beekman Schaeffer 62 61
+     16     Reid Staples     def.     Zihao Yuan        62 62
+     16 (3) Noah Lilienthal  def.     Zach Hilty        64 62
+     16 (4) Kian Yazdi       def.     Neel Epstein      61 64
+     16     Andrew Finkelman def.     Wesley Zhang      60 64
+     16     Oscar Yang       def.     Ben Mitchell      61 61
+     16     Ethan Bradley    def. (2) Robby Ward        26 76(5) [12]
+ > B Main
+  > Main
+      F (4) Harry Portnoy    def. (1) Jack Flores       75 26 [7]
+     SF (1) Jack Flores      def. (3) Joe Mairs         46 64 [4]
+     SF (4) Harry Portnoy    def.     Nicholas Garcia   63 00 Ret.
+     QF (1) Jack Flores      def.     Jose Gonzalez     61 63
+     QF (3) Joe Mairs        def.     Geoff Golan       63 61
+     QF (4) Harry Portnoy    def.     Brady Anderson    61 63
+     QF     Nicholas Garcia  def.     David Vilys       36 62 [5]
+     16 (1) Jack Flores      def.     Clark Davis       60 60
+     16     Jose Gonzalez    def.     Max Kim           76(9) 75
+     16     Geoff Golan      def.     Yasha Laskin      63 63
+     16 (3) Joe Mairs        def.     Max Lee           64 75
+     16 (4) Harry Portnoy    def.     Bryan Schick      62 60
+     16     Brady Anderson   def.     Sujan Garapati    63 62
+     16     Nicholas Garcia  def.     Ryan Hyun         61 64
+     16     David Vilys      def. (2) Pieter Breuker    76(4) 76(6)
+ > B Backdraw
+  > Main
+      F     Pieter Breuker   def.     Sujan Garapati    62 60
+     SF     Pieter Breuker   def.     Max Kim           64 62
+     SF     Sujan Garapati   def.     Max Lee           76(4) 63
+     QF     Max Kim          def.     Clark Davis       60 62
+     QF     Pieter Breuker   def.     Ryan Hyun         64 60
+     QF     Sujan Garapati   def.     Bryan Schick      63 62
+     QF     Max Lee          def.     Yasha Laskin      76(6) 64
+ > A Backdraw
+  > Main
+      F     Ole Lepsoe       def.     Ben Mitchell      61 57 [9]
+     SF     Ole Lepsoe       def.     Zihao Yuan        Walkover
+     SF     Ben Mitchell     def.     Neel Epstein      67(2) 64 [6]
+     QF     Ole Lepsoe       def.     Zach Hilty        60 64
+     QF     Zihao Yuan       def.     Clay Gaieski      62 62
+     QF     Neel Epstein     def.     Wesley Zhang      67(6) 64 [7]
+     QF     Ben Mitchell     def.     Robby Ward        67(7) 61 [8]
 ~~~
 
 Return to the [Top](./men_singles_2141.md) &#124; [Home Page](../../index.md)

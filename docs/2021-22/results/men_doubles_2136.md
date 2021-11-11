@@ -4,6 +4,7 @@
 - 9/10/2021 - [10th Annual Villanova Invitation](#21-56790) ([Results](#21-56790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VillanovaUniversityM/Tournaments/Overview/831641B3-DB8F-4BD7-8D82-8308402A7AF5" target="_blank">Draws</a>)  
 - 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-26104) ([Results](#21-26104) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/B00BE0B9-F219-49D7-880F-72F7FA07C012" target="_blank">Draws</a>)  
 - 9/10/2021 - [2021 Dar Walters Classic](#21-19264) ([Results](#21-19264) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">Draws</a>)  
+- 9/10/2021 - [Battle of the Beach](#21-65691) ([Results](#21-65691) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Draws</a>)  
 - 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
 - 9/10/2021 - [Knoxville Showdown](#21-83681) ([Results](#21-83681) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/85DF336A-C5C2-4C22-AC59-717D6414EA8A" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
@@ -18,8 +19,8 @@
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Battle of the Beach</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">PTC College Invitational</a>  
 
 <a name="21-56790"></a>
 ~~~
@@ -292,6 +293,34 @@
  > Flight 5
   > Main
       F  Waldman/Vroman      def.  Zelver/Espinoza    64
+~~~
+
+<a name="21-65691"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Battle of the Beach
+  Dates: Sep 10-12, 2021
+  Host: Florida State University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Friday Doubles
+  > Main
+     QF  Arcila/Thongoana     def.  Han/Hotard           82
+     QF  Hasson/Schlageter    def.  Bernard/Dous Karpen… 86
+     QF  Bollipalli/Oliveira  def.  Descarrega/Bermejo   83
+     QF  Cabrera/Cordeiro     def.  Gomez-Montesa/Tudor… 87(6)
+ > Saturday Doubles
+  > Main
+     QF  Han/Hotard           def.  Descarrega/Bermejo   87(5)
+     QF  Hasson/Schlageter    def.  Cabrera/Cordeiro     82
+     QF  Bollipalli/Oliveira  def.  Arcila/Thongoana     82
+     QF  Gomez-Montesa/Tudor… def.  Bernard/Dous Karpen… 85
+ > Sunday Doubles
+  > Main
+     QF  Bollipalli/Oliveira  def.  Han/Hotard           87(1)
+     QF  Gomez-Montesa/Tudor… def.  Hasson/Schlageter    82
+     QF  Arcila/Thongoana     def.  Descarrega/Bermejo   87(6)
+     QF  Bernard/Dous Karpen… def.  Cabrera/Cordeiro     83
 ~~~
 
 <a name="21-36446"></a>

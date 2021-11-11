@@ -14,13 +14,13 @@
 - 10/21/2021 - [Crusader Invitational](#21-41693) ([Results](#21-41693) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Draws</a>)  
 - 10/22/2021 - [Eagle Invitational](#21-28500) ([Results](#21-28500) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Draws</a>)  
 - 10/22/2021 - [GSC Fall Individual Tournament](#21-93512) ([Results](#21-93512) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">Draws</a>)  
+- 10/23/2021 - [MIT Classic](#21-15791) ([Results](#21-15791) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/7E100217-7269-401A-99AA-F3C782FC0593" target="_blank">Draws</a>)  
+- 10/22/2021 - [MIT Invite](#21-83746) ([Results](#21-83746) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">Draws</a>)  
 - 10/22/2021 - [MSU Invitational](#21-16812) ([Results](#21-16812) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">Draws</a>)  
 - 10/22/2021 - [YTF Southeastern Invitational](#21-42214) ([Results](#21-42214) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaM/Tournaments/Overview/A9056FEF-25AD-4F2E-9338-1E7D25480DA0" target="_blank">UNA Men's Classic</a>  
-- 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/7E100217-7269-401A-99AA-F3C782FC0593" target="_blank">MIT Classic</a>  
-- 10/22/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">MIT Invite</a>  
 
 <a name="21-34853"></a>
 ~~~
@@ -94,7 +94,7 @@
       64 (15) Michael Sun          def.      Jonathan Olive-Blan… 64 46 62
       64 (32) Aj Woodman           def.      Jayden Templeman     60 36 64
       64 (30) Steven Sun           def.      Diego Serra Sparrow  62 64
-      64  (2) Alex Kotzen          def.      Cheng Tang           61 61
+      64  (2) Alex Kotzen          def.      Rex Tang             61 61
      128      Nicholas Lorenz      def.      Diego Huttepain      26 63 76(4)
      128      Jan Semerak          def.      Manuel Alonso        62 60
      128      David Lins           def.      Zack Elliott         67(4) 63 76(5)
@@ -126,7 +126,7 @@
      128      Jonathan Olive-Blan… def.      Rohan Gupta          63 57 75
      128      Jayden Templeman     def.      Daniel Webb          61 63
      128      Diego Serra Sparrow  def.      Sebastian Pinos      62 63
-     128      Cheng Tang           def.      Stijn Paardekooper   64 60
+     128      Rex Tang             def.      Stijn Paardekooper   64 60
  > Qualifying Singles Draw
   > Main
       32  (1) Carl Gustavson       def.      Jordan Paul          61 62
@@ -220,11 +220,29 @@
       32  Fynn Kuenkler        def.  Jim Hendrikx         60 75
       32  Boris Kozlov         def.  Gregor Ramskogler    64 46 62
       32  Filip Planinsek      def.  Tyler Stice          76(5) 26 64
+ > Consolation
+  > Main
+      64  Spencer Gray         def.  Joao Ferreira        60 75
+      64  John Hallquist Lith… def.  Finn Murgett         63 46 60
+      64  Sebastien Collard    def.  Davide Tortora       26 75 63
+      64  Florian Broska       def.  Jakob Cadonau        62 64
+      64  Lukas Engelhardt     def.  Jim Hendrikx         62 64
+      64  Tyler Stice          def.  Gregor Ramskogler    60 64
+      64  Alex Bancila         def.  Kacper Dworak        36 63 60
+      64  Benji Jacobson       def.  Alejandro Sanchez G… 64 75
+      64  Luc Hoeijmans        def.  Maxime St-Hilaire    64 76(2)
+      64  Walker Stearns       def.  Seth Richey          64 62
+      64  Vasil Dimitrov       def.  Javier Montoya       75 62
+      64  Charlie Barry        def.  Karlo Kajin          62 64
+      64  Josh Raab            def.  Oriol Fillat Gimenez 61 64
+      64  Juan Martin          def.  Dhruv Sunish         62 63
+      64  Matthew Gooch        def.  Martin Vasquez       75 62
+      64  Pawin Jirapoomdaje   def.  Jb Pickard           63 62
+      64  Pasawee Reansuwong   def.  Nikola Puric         63 62
  > Qualifying
   > Main
       16  Lukas Engelhardt     def.  Nicolas Simkin       62 61
       16  Fynn Kuenkler        def.  Jackson Ross         67(5) 76 62
-      16  Olimjon Nabiev       def.  Luc Hoeijmans        63 64
       16  Roman Postolka       def.  Joao Ferreira        26 64 63
       16  Sebastien Collard    def.  Jakob Cadonau        60 63
       16  Gabriel Diaz Freire  def.  Pelayo Antuna        75 62
@@ -254,6 +272,7 @@
       64  Jackson Ross         def.  Vojtech Podzemny     61 62
       64  Louis Delcour        def.  Alexander Gima       36 64 62
       64  Fynn Kuenkler        def.  Lucas Dini           60 46 60
+      64  Luc Hoeijmans        def.  David Pata           64 46 64
       64  Noah Martens         def.  Maj Tomac            64 64
       64  Olimjon Nabiev       def.  Chris Andre          63 62
       64  Chris Tasker         def.  Spencer Gray         60 63
@@ -997,6 +1016,15 @@
      16     Mann Shah            def.     Jack Pulliam         62 63
      16     Issa Yoshida         def.     Phuc Huynh           46 75 [10]
      16     Arthur Neuhaus       def.     Tomas Kopczynski     61 64
+ > Sunday Extra Matches
+  > Main
+     SF     Guillaume Dalmasso   def.     Jack Pulliam         63 64
+     SF     Jesper Klov-Nilsson  def.     Nitzan Ricklis       64 76(5)
+ > Extra Matches
+  > Main
+     SF     Oscar Brown          def.     Boris Reckow         64 63
+     QF     Boris Reckow         def.     Jack Pulliam         64 76(8)
+     QF     Ori Maior            def.     Leo Hibi             63 75
 ~~~
 
 <a name="21-64282"></a>
@@ -1628,6 +1656,103 @@
      16  Thibault Jacq        def.  Pedro Gomez          42 42
      16  Nutti Jokinen        def.  Alonso Reid          42 42
      16  Illia Dehodiuk       def.  Seth Macute          40 42
+~~~
+
+<a name="21-15791"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  MIT Classic
+  Dates: Oct 23-24, 2021
+  Host: Massachusetts Inst. Of Tech. (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Round 1
+  > Main
+     32  Max Motlagh       def.  Johann Sajonz     62 64
+     32  Dion Loutas       def.  Matt Campbell     63 63
+     32  Oliver Worth      def.  Jose Robalino     64 75
+     32  Will Kasten       def.  Adrian Pawlowski  76(4) 64
+     32  Gabe Brown        def.  Jake Vassel       75 63
+     32  Ben Letzer        def.  Shreekar Eedara   60 36 76(4)
+     32  Jj Bianchi        def.  Jonah Dickson     62 62
+     32  Connor Mcdonald   def.  Cole Knutsen      61 61
+ > Round 3
+  > Main
+     32  Max Motlagh       def.  Daniel Milavsky   76(4) 57 [10]
+     32  David Lins        def.  Oliver Worth      62 Ret.
+     32  Niels Korsgaard   def.  Will Kasten       75 63
+     32  Jj Bianchi        def.  David Arkow       62 62
+     32  Jake Vassel       def.  Sundeep Chakladar 61 75
+     32  Shreekar Eedara   def.  Daniel Sharygin   57 75 [5]
+     32  Connor Mcdonald   def.  Wayne Nelms       64 26 [6]
+     32  Bennett Turner    def.  Benjamin Ebanks   64 62
+     32  Ryan Xiao         def.  Johann Sajonz     64 62
+ > Round 2
+  > Main
+     32  Jj Bianchi        def.  Derek Shen        63 60
+     32  Jake Vassel       def.  Richter Jordaan   64 63
+     32  Shreekar Eedara   def.  Daniel Papacica   64 63
+     32  Connor Mcdonald   def.  Carl Grant        60 62
+     32  Wayne Nelms       def.  Bennett Turner    57 75 [9]
+     32  Anesh Jayasundera def.  Benjamin Ebanks   63 64
+     32  David Lins        def.  Johann Sajonz     61 62
+     32  Daniel Milavsky   def.  Dion Loutas       62 62
+ > Round 4
+  > Main
+     32  David Lins        def.  Daniel Papacica   62 61
+     32  Daniel Milavsky   def.  Derek Shen        60 61
+     32  David Arkow       def.  Richter Jordaan   46 61 63
+     32  Niels Korsgaard   def.  Daniel Antov      75 63
+ > Round 5
+  > Main
+     32  David Lins        def.  Dion Loutas       62 60
+     32  Daniel Milavsky   def.  Johann Sajonz     61 62
+     32  David Arkow       def.  Gabe Brown        75 63
+     32  Niels Korsgaard   def.  Will Kasten       75 63
+     32  Adrian Pawlowski  def.  Kailas Kahler     26 62 [7]
+     32  Daniel Papacica   def.  Jose Robalino     46 63 [5]
+~~~
+
+<a name="21-83746"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════════
+  MIT Invite
+  Dates: Oct 22-22, 2021
+  Host: Massachusetts Inst. Of Tech. (M)
+══════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > MIT Invite Singles
+  > Main
+      F (2) Isaac Gorelik     def. (1) Rishabh Sharda    26 62 62
+     SF (1) Rishabh Sharda    def.     Daniel Antov      60 61
+     SF (2) Isaac Gorelik     def.     Jack Moldenhauer  62 60
+     QF (1) Rishabh Sharda    def.     Paris Pentousis   46 64 62
+     QF     Daniel Antov      def.     Harris Foulkes    36 62 60
+     QF     Jack Moldenhauer  def.     Josh Belandres    60 61
+     QF (2) Isaac Gorelik     def.     Derek Shen        75 61
+     16 (1) Rishabh Sharda    def.     Kobe Ellenbogen   63 61
+     16     Paris Pentousis   def.     William Turchetta 62 61
+     16     Daniel Antov      def.     Jeff Chen         63 64
+     16     Harris Foulkes    def.     Ryan Xiao         26 62 63
+     16     Jack Moldenhauer  def.     Dylan Walters     60 61
+     16     Josh Belandres    def.     Kailas Kahler     57 75 61
+     16     Derek Shen        def.     Micah Elias       61 60
+     16 (2) Isaac Gorelik     def.     Simon Kauppila    62 75
+     32 (1) Rishabh Sharda    def.     Daniel Papacica   62 64
+     32     Kobe Ellenbogen   def.     Colt Tegtmeier    76(6) 60
+     32     Paris Pentousis   def.     Richter Jordaan   61 61
+     32     William Turchetta def.     Colin Fox         61 63
+     32     Jeff Chen         def.     Carlo Hayden      76(4) 61
+     32     Daniel Antov      def.     Ed Opie           36 64 63
+     32     Ryan Xiao         def.     Derin Acaroglu    60 64
+     32     Harris Foulkes    def.     Aaron Basye       26 62 63
+     32     Jack Moldenhauer  def.     Daniel Sharygin   63 62
+     32     Kailas Kahler     def.     Shaw Rhinelander  62 63
+     32     Josh Belandres    def.     Adam Tzeng        63 61
+     32     Derek Shen        def.     Hunter Levine     36 62 62
+     32     Micah Elias       def.     Vuk Vuksanovic    62 61
+     32     Simon Kauppila    def.     Zach Ostrow       60 61
+     32 (2) Isaac Gorelik     def.     Sundeep Chakladar 64 62
 ~~~
 
 <a name="21-16812"></a>

@@ -5,7 +5,9 @@
 - 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 - 10/8/2021 - [2021 UCSB Fall Classic](#21-88210) ([Results](#21-88210) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">Draws</a>)  
+- 10/8/2021 - [5th Annual REDBIRD INVITATIONAL](#21-90248) ([Results](#21-90248) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">Draws</a>)  
 - 10/7/2021 - [Bulldawg Invitational](#21-11157) ([Results](#21-11157) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Draws</a>)  
+- 10/8/2021 - [Clemson Hidden Duals](#21-41768) ([Results](#21-41768) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/FA5825C1-E156-45E3-AB26-60077E129770" target="_blank">Draws</a>)  
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [Loyola Classic](#21-67948) ([Results](#21-67948) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Draws</a>)  
 - 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
@@ -14,13 +16,9 @@
 - 10/8/2021 - [Youngstown State Hidden Duals](#21-93245) ([Results](#21-93245) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/8/2021 - [Crusader Shootout](#21-83735) ([Results](#21-83735) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Draws</a>)  
+- 10/9/2021 - [Enchanted Valley Showdown](#21-89530) ([Results](#21-89530) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Invitational](#21-99765) ([Results](#21-99765) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Draws</a>)  
 - 10/9/2021 - [Wallach Invitational 2021](#21-27918) ([Results](#21-27918) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/FA5825C1-E156-45E3-AB26-60077E129770" target="_blank">Clemson Hidden Duals</a>  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 
 <a name="21-73796"></a>
 ~~~
@@ -677,7 +675,7 @@
       QF      Aj Wilkins           def.      Victor Simoes        Walkover
       QF      Geoffrey Youngs      def.      Carlos Franch        63 62
       QF      Kole Kolilnski       def.      Ryan Fonseca         61 61
-      16      Colin Chapman        def.      Ethan Beckerman      75 60
+      16      Colin Chapman        def.      Ethan Beckerman      62 16 [7]
       16      Tyler Grosz          def.      Alex Palomar         Walkover
       16      Aj Wilkins           def.      Jack Geurkink        67(5) 64 [9]
       16      Victor Simoes        def.      Ethan Hietala        Walkover
@@ -962,6 +960,88 @@
      R3  Nitzan Ricklis       def.  Stefano Tsorotiotis  16 64 61
 ~~~
 
+<a name="21-90248"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  5th Annual REDBIRD INVITATIONAL
+  Dates: Oct 8-10, 2021
+  Host: Illinois State University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Day 1
+  > Main
+     64  Olle Sonesson Lidho… def.  Leighton Brandon     64 60
+     64  Matt Clegg           def.  Tyler Carlin         64 75
+     64  Pelle Strandberg     def.  Leon Huck            62 57 [6]
+     64  Lars Minsaas         def.  Francesco Tacconni   75 67 [8]
+     64  Diego Herrera        def.  Paul Reynolds        63 75
+     64  Jack Batchelor       def.  Dominick Cuchran     75 64
+     64  Oscar Alvarez        def.  Shaddy Khalafallah   64 75
+     64  Adam Behun           def.  Will Tennison        64 64
+     64  Ryota Fukushima      def.  Xavier Ecarma        60 62
+     64  Theo Ortis           def.  Michael Staff        63 61
+     64  Gustavo Schwebel     def.  Sven Moser           62 64
+     64  Phasu Sirinit        def.  Anthony Nguyen       62 62
+     64  Christos Kyrillou    def.  Zane Kohrs           26 75 [3]
+     64  Thomas Wallace       def.  Zacharias Rasmusson  61 26 [8]
+     64  Matija Matic         def.  Jan Jauch            62 63
+     64  Gabriel Sardo        def.  Nathan Balthazor     64 76
+     64  Felipe Lopez         def.  Will Ulrich          62 46 [0]
+     64  Pavel Badaiants      def.  Ruslan Pultz         60 61
+     64  Emil Berglund        def.  Shu-Lun Chang        75 64
+     64  Antonio Matteo Iaqu… def.  Jonathan Sadowski    60 61
+     64  Jona Gitschel        def.  Kushal Marri         63 63
+     64  Kevin Kruzel         def.  Pau Riera            63 62
+     64  Ammar Wazir          def.  Max Pilipovic-Kljaj… 61 63
+ > Day 2
+  > Main
+     64  Leon Huck            def.  Olle Sonesson Lidho… 63 75
+     64  Diego Herrera        def.  Oscar Alvarez        63 62
+     64  Dominick Cuchran     def.  Adam Behun           61 46 63
+     64  Pelle Strandberg     def.  Leighton Brandon     63 60
+     64  Francesco Tacconni   def.  Tyler Carlin         60 64
+     64  Paul Reynolds        def.  Shaddy Khalafallah   63 76
+     64  Jack Batchelor       def.  Will Tennison        62 76
+     64  Ryota Fukushima      def.  Gustavo Schwebel     61 36 75
+     64  Theo Ortis           def.  Anthony Nguyen       60 61
+     64  Matija Matic         def.  Christos Kyrillou    67 62 62
+     64  Gabriel Sardo        def.  Thomas Wallace       26 61 75
+     64  Sven Moser           def.  Xavier Ecarma        64 75
+     64  Phasu Sirinit        def.  Michael Staff        62 60
+     64  Jan Jauch            def.  Zane Kohrs           64 63
+     64  Zacharias Rasmusson  def.  Nathan Balthazor     63 64
+     64  Emil Berglund        def.  Pavel Badaiants      36 63 63
+     64  Antonio Matteo Iaqu… def.  Kevin Kruzel         63 62
+     64  Ammar Wazir          def.  Jona Gitschel        62 64
+     64  Melker Isaksson      def.  Will Ulrich          63 46 76
+     64  Shu-Lun Chang        def.  Ruslan Pultz         60 Ret.
+     64  Pau Riera            def.  Jonathan Sadowski    61 63
+     64  Max Pilipovic-Kljaj… def.  Kushal Marri         60 60
+ > Day 3
+  > Main
+     64  Leon Huck            def.  Diego Herrera        62 63
+     64  Lars Minsaas         def.  Dominick Cuchran     57 63 63
+     64  Olle Sonesson Lidho… def.  Oscar Alvarez        76 61
+     64  Pelle Strandberg     def.  Paul Reynolds        63 63
+     64  Jack Batchelor       def.  Francesco Tacconni   76 36 60
+     64  Shaddy Khalafallah   def.  Leighton Brandon     67 63 63
+     64  Will Tennison        def.  Tyler Carlin         61 64
+     64  Matija Matic         def.  Ryota Fukushima      63 75
+     64  Theo Ortis           def.  Gabriel Sardo        64 76
+     64  Christos Kyrillou    def.  Gustavo Schwebel     60 63
+     64  Anthony Nguyen       def.  Thomas Wallace       36 64 75
+     64  Sven Moser           def.  Zane Kohrs           64 26 76
+     64  Phasu Sirinit        def.  Zacharias Rasmusson  63 36 75
+     64  Jan Jauch            def.  Xavier Ecarma        63 26 75
+     64  Michael Staff        def.  Nathan Balthazor     46 63 62
+     64  Ammar Wazir          def.  Emil Berglund        75 26 76
+     64  Felipe Lopez         def.  Antonio Matteo Iaqu… 63 60
+     64  Pavel Badaiants      def.  Jona Gitschel        62 63
+     64  Melker Isaksson      def.  Pau Riera            64 76
+     64  Max Pilipovic-Kljaj… def.  Shu-Lun Chang        67 61 62
+     64  Will Ulrich          def.  Jonathan Sadowski    64 62
+~~~
+
 <a name="21-11157"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1103,6 +1183,63 @@
      SF     Ilarion Danilchenko  def.     Hikaru Takeda        46 61 62
 ~~~
 
+<a name="21-41768"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Clemson Hidden Duals
+  Dates: Oct 8-10, 2021
+  Host: Clemson University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Day 1 (Oct. 8, 2021)
+  > Main
+     64  Teodor Giusca        def.  Carles Hernandez     64 62
+     64  Ryuhei Azuma         def.  Gregor Ramskogler    62 64
+     64  Jorge Plans Gonzalez def.  Davide Tortora       26 76(5) 75
+     64  Alberto Colas        def.  Spencer Whitaker     62 67(5) 61
+     64  Daniel Labrador      def.  Seth Richey          62 62
+     64  Andrew Puscas        def.  Jagger Saylor        62 64
+     64  Matt Pitts           def.  Mac Rogers           63 61
+     64  Maxwell Smith        def.  Omar El Kadi         75 62
+     64  Yizhou Liu           def.  Nishanth Basavareddy 61 61
+     64  Josh Wilson          def.  Patrick Fletchall    63 63
+     64  Rafael Marques Da S… def.  Carson Haskins       64 64
+     64  Christiaan Worst     def.  Michael Andre        63 61
+     64  Thando Longwe-Smit   def.  Luka Vukovic         76(3) 64
+     64  Ilya Tiraspolsky     def.  Deji Thomas-Smith    75 64
+     64  Vikash Singh         def.  Zion Heaven          63 46 62
+ > Day 2 (Oct. 9, 2021)
+  > Main
+     64  Ryuhei Azuma         def.  Patrick Fletchall    46 62 63
+     64  Teodor Giusca        def.  Carson Haskins       64 62
+     64  Jorge Plans Gonzalez def.  Michael Andre        64 76(4)
+     64  Luka Vukovic         def.  Yizhou Liu           61 46 76(1)
+     64  Spencer Whitaker     def.  Ilya Tiraspolsky     75 60
+     64  Matt Pitts           def.  Vikash Singh         75 64
+     64  Maxwell Smith        def.  Mac Rogers           46 62 62
+     64  Zion Heaven          def.  Daniel Labrador      63 63
+     64  Josh Wilson          def.  Alberto Colas        76(6) 06 64
+     64  Rafael Marques Da S… def.  Gregor Ramskogler    63 76(5)
+     64  Carles Hernandez     def.  Christiaan Worst     62 46 76(6)
+     64  Davide Tortora       def.  Thando Longwe-Smit   64 67(2) 63
+     64  Deji Thomas-Smith    def.  Seth Richey          61 63
+ > Day 3 (Oct. 10, 2021)
+  > Main
+     64  Josh Wilson          def.  Ryuhei Azuma         60 64
+     64  Teodor Giusca        def.  Rafael Marques Da S… 36 63 64
+     64  Jorge Plans Gonzalez def.  Christiaan Worst     63 36 76(3)
+     64  Spencer Whitaker     def.  Thando Longwe-Smit   75 26 64
+     64  Yizhou Liu           def.  Deji Thomas-Smith    64 63
+     64  Matt Pitts           def.  Zion Heaven          75 76(5)
+     64  Goncalo Ferreira     def.  Tim Pitts            64 60
+     64  Daniel Labrador      def.  Jagger Saylor        62 46 62
+     64  Alberto Colas        def.  Patrick Fletchall    67(5) 63 76
+     64  Davide Tortora       def.  Carson Haskins       62 64
+     64  Carles Hernandez     def.  Luka Vukovic         62 62
+     64  Gregor Ramskogler    def.  Michael Andre        36 62 63
+     64  Vikash Singh         def.  Seth Richey          60 60
+~~~
+
 <a name="21-80207"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════════════
@@ -1185,6 +1322,12 @@
   > North
      SF     Sandeep Mohandoss    def.     Max Damm             Walkover
      SF (2) Tom Pisane           def.     Joe Ellis            64 62
+ > Extra Match 1
+  > Main
+      F     Clement Hamel        def.     Bryn Nahrung         61 61
+ > Extra Match 2
+  > Main
+      F     Clement Hamel        def.     Tom Pisane           63 60
 ~~~
 
 <a name="21-67948"></a>
@@ -1800,6 +1943,67 @@
      R3  Tshepo Mosarwa    def.  Kofi Bowe        64 75
      R3  Nicolo Iacoboni   def.  Jerome Adonis    60 63
      R3  Alessandro Iriu   def.  Justin Green     75 61
+ > BAC vs NCW
+  > Main
+      F  Alex Turner       def.  Andrea Fanzaga   64 63
+~~~
+
+<a name="21-89530"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Enchanted Valley Showdown
+  Dates: Oct 9-10, 2021
+  Host: Young Harris College (W)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Round 1 - Day 1
+  > Main
+     64  Dylan Valentine      def.  Nicholas Cary        64 62
+     64  Kent Shiell          def.  Philippe Zehender    63 46 [10]
+     64  Kai Lloveras         def.  Gavin Salton         36 60 [5]
+     64  Xaveam Can Wijk      def.  Killian Sinclair     61 63
+     64  Sergi Martinez       def.  Elijah Buerkle       61 57 [9]
+     64  Francisco Aron Mart… def.  Rien Alderliesten    16 63 [3]
+     64  Jesus Garcia Gil     def.  Marc Janse           64 62
+     64  Marnix Van Dalen     def.  Nicolas Ramirez Rib… 64 76(6)
+     64  Gjorgji Jankulovski  def.  Diego Garcia Gil     36 75 [10]
+     64  Rintaro Oka          def.  Bruno Medeiros       76(5) 62
+     64  Ids Waterbolk        def.  Andrew Johnston      26 63 [5]
+     64  Denis Muratovic      def.  Lars Hordijk         64 62
+     64  Alexandre Laplante   def.  Alexandre Schiltz    62 36 [5]
+     64  Jules Dugue          def.  Janis Auslands       16 61 [2]
+     64  Julius Ziebart       def.  Eric DelValle        63 64
+     64  Arka Ganguly         def.  Ruben Gonzalez       61 62
+     64  Dylan Kamel          def.  Ethan Carter         60 75
+     64  Jonathan De Jesus    def.  Caleb McCurry        64 63
+ > Round 1 - Day 2
+  > Main
+     64  Joaquin Minguez Rib… def.  Bruno Medeiros       61 62
+     64  Pieke Bouman         def.  Andrew Johnston      62 75
+     64  Diego Garcia Gil     def.  Herman Ronnberg      62 60
+     64  Nicolo Marchetti     def.  Ruben Gonzalez       62 62
+     64  Jordi Dasi           def.  Caleb McCurry        64 62
+     64  Marc Janse           def.  Julius Ziebart       63 62
+     64  Marnix Van Dalen     def.  Jules Dugue          62 63
+     64  Gjorgji Jankulovski  def.  Alexandre Laplante   63 46 [8]
+     64  Rintaro Oka          def.  Dylan Kamel          60 76(5)
+     64  Ids Waterbolk        def.  Arka Ganguly         64 60
+     64  Richard Dulganov     def.  Jonathan De Jesus    63 60
+ > Round 2 - Day 2
+  > Main
+     64  Nicolo Marchetti     def.  Ethan Carter         60 60
+     64  Rodrigo Mendoza      def.  Marc Janse           16 64 [7]
+     64  Gjorgji Jankulovski  def.  Romeo Luque          64 63
+     64  Rintaro Oka          def.  Joaquin Minguez Rib… 64 64
+     64  Ids Waterbolk        def.  Pieke Bouman         76 62
+     64  Richard Dulganov     def.  Janis Auslands       62 62
+     64  Lars Hordijk         def.  Eric DelValle        63 63
+     64  Jesus Garcia Gil     def.  Dylan Valentine      75 64
+     64  Nicolas Ramirez Rib… def.  Killian Sinclair     64 62
+     64  Philippe Zehender    def.  Diego Garcia Gil     62 64
+     64  Gavin Salton         def.  Andrew Johnston      67(2) 61 [3]
+     64  Jordi Dasi           def.  Sergi Martinez       63 75
+     64  Rien Alderliesten    def.  Denis Muratovic      64 64
 ~~~
 
 <a name="21-99765"></a>

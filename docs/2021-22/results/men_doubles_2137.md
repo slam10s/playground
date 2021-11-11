@@ -11,6 +11,8 @@
 - 9/18/2021 - [Lehigh Men's Tennis Invite](#21-40280) ([Results](#21-40280) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityM/Tournaments/Overview/DC12F12F-6866-4F1B-A1DE-CB27F27A4E6F" target="_blank">Draws</a>)  
 - 9/17/2021 - [Men's Drake Invite](#21-75794) ([Results](#21-75794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/85AE0B8E-86E0-4EAE-A572-CE5DC0BA3FB7" target="_blank">Draws</a>)  
 - 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
+- 9/17/2021 - [OSU Invitational](#21-91661) ([Results](#21-91661) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityM/Tournaments/Overview/D4F405A0-9744-41D5-B40A-884B0F1AADEF" target="_blank">Draws</a>)  
+- 9/17/2021 - [Penn Invitational](#21-89457) ([Results](#21-89457) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/D340CAAE-2400-4107-B71A-028FCF6F67DA" target="_blank">Draws</a>)  
 - 9/17/2021 - [Purdue Fall Invitational](#21-96062) ([Results](#21-96062) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityM/Tournaments/Overview/64471B4A-D6CD-4810-BD4A-167F65AB8D67" target="_blank">Draws</a>)  
 - 9/17/2021 - [The Star Group Binghamton Championships](#21-12886) ([Results](#21-12886) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BinghamtonUniversitySUNYM/Tournaments/Overview/45217160-5C07-4F1E-8FB5-6C5FBC28805F" target="_blank">Draws</a>)  
 - 9/16/2021 - [BAC Invitational](#21-94974) ([Results](#21-94974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">Draws</a>)  
@@ -28,8 +30,6 @@
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOklahomaM/Tournaments/Overview/C4392CA9-3D72-477E-9550-4FE92C5723E8" target="_blank">Lakes Tennis Club Invite</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityM/Tournaments/Overview/D4F405A0-9744-41D5-B40A-884B0F1AADEF" target="_blank">OSU Invitational</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/D340CAAE-2400-4107-B71A-028FCF6F67DA" target="_blank">Penn Invitational</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
@@ -80,38 +80,26 @@
   Host: Auburn University (M)
 ═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
- > Blue
-  > Main
-     16  Azuma/Whitaker       def.  Aubone/Christensen   86
-     16  Vasser/Jalif         def.  Pitts/Smith          86
-     16  Martin/Danilchenko   def.  Giusca/Liu           86
-     16  Gray/Jankulovski     def.  Stinchcomb/Puscas    86
-     16  Plans Gonzalez/Labr… def.  Raab/Ross            98(8)
  > Red
   > Main
-     QF  McClean/Murgett      def.  Harwell/Freeman      98(4)
-     QF  Nolan/Dobai          def.  Sisam/Klopper        97
-     QF  Stice/Galka          def.  Ross/Robb-Wilcox     84
- > Green
-  > Main
-     QF  Harwell/Freeman      def.  Giusca/Liu           86
-     QF  Ferreira/Ross        def.  Azuma/Whitaker       81
-     QF  Klopper/Robb-Wilcox  def.  Stinchcomb/Pitts     84
+     QF  McClean/Murgett     def.  Harwell/Freeman      98(4)
+     QF  Nolan/Dobai         def.  Sisam/Klopper        97
+     QF  Stice/Galka         def.  Ross/Robb-Wilcox     84
  > Purple
   > Main
-     QF  Stice/Galka          def.  Martin/Aubone        83
-     QF  Vasser/Jalif         def.  Dobai/Labrador       98(1)
-     QF  McClean/Nolan        def.  Christensen/Jankulo… 84
+     QF  Stice/Galka         def.  Martin/Aubone        83
+     QF  Vasser/Jalif        def.  Dobai/Labrador       98(1)
+     QF  McClean/Nolan       def.  Christensen/Jankulo… 84
  > Orange
   > Main
-     QF  Martin/Aubone        def.  Harwell/Freeman      84
-     QF  Ferreira/Ross        def.  Vasser/Jalif         84
-     QF  Klopper/Robb-Wilcox  def.  Christensen/Jankulo… 85
+     QF  Martin/Aubone       def.  Harwell/Freeman      84
+     QF  Ferreira/Ross       def.  Vasser/Jalif         84
+     QF  Klopper/Robb-Wilcox def.  Christensen/Jankulo… 85
  > Yellow
   > Main
-     QF  Giusca/Liu           def.  Dobai/Murgett        86
-     QF  Stice/Galka          def.  Pitts/Whitaker       98(1)
-     QF  McClean/Nolan        def.  Smith/Puscas         85
+     QF  Giusca/Liu          def.  Dobai/Murgett        86
+     QF  Stice/Galka         def.  Pitts/Whitaker       98(1)
+     QF  McClean/Nolan       def.  Smith/Puscas         85
 ~~~
 
 <a name="21-69307"></a>
@@ -467,6 +455,62 @@
      16     Hoeyeraal/Lagaev     def. (4) Hasson/Mandlik       62
      16     Norfeldt/Mareschal-… def.     San Andres/Drogovic  75
      16 (2) Bertimon/Stable      def.     Gates/Lair           62
+~~~
+
+<a name="21-91661"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  OSU Invitational
+  Dates: Sep 17-19, 2021
+  Host: Oklahoma State University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw 1
+  > Main
+     16  Allen/Pini           def.  Ovil/Mrsic           84
+     16  Lo/Richards          def.  Raina/Pesoli         87(4)
+     16  Gleason/Moreno Loza… def.  Hampe/Gale           84
+ > Draw 2
+  > Main
+     16  Hampe/Gale           def.  Hammond/Verboven     86
+     16  Allen/Pini           def.  Siddall/Thelwall Jo… 86
+     16  Di Marco/Gaber       def.  Raina/Pesoli         81
+     16  Mueller/Dixit        def.  Ovil/Mrsic           85
+     16  Lo/Richards          def.  Maruyama/Wiedenhorn  87(7)
+ > Draw 3
+  > Main
+     16  Mueller/Dixit        def.  Hammond/Verboven     87(5)
+     16  Allen/Pini           def.  Gleason/Moreno Loza… 82
+     16  Hietaranta/Wiedenho… def.  Raina/Pesoli         83
+     16  Hampe/Gale           def.  Lo/Richards          87(7)
+     16  Mrsic/Lin            def.  Siddall/Thelwall Jo… 83
+     16  Di Marco/Gaber       def.  Grueber/Richards     81
+~~~
+
+<a name="21-89457"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Penn Invitational
+  Dates: Sep 17-19, 2021
+  Host: Univ. Of Pennsylvania (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+     32  Bhatnagar/Sengul    def.  Mao/Sinha           64
+     32  Morgan/Eala         def.  Frumholz/Raquin     62
+     32  McCarthy/Paquette   def.  Bossem/Byers        63
+     32  Delmas/Gorregues    def.  Ctverak/Sato        62
+     32  Saadi/Janes         def.  Salgado/Zraidi      62
+     32  Sharma/Rozanov      def.  Hammitt/Jagtiani    63
+     32  Jesudason/De Soussa def.  Bickel/Suh          62
+     32  Fellows/Morgenstern def.  Janackovic/Radionov 65
+     32  Sanchez/Wogen       def.  Grande/Yang         60
+     32  Graziani/Zhu        def.  Antuna/Garcia       82
+     32  Parikh/Gupta        def.  Bhakar/de Camelis   86
+     32  Hildebrandt/Smith   def.  James/Gustavson     83
+     32  Lim/Sai             def.  Felcher/Loru        83
+     32  Goodman/Gangoli     def.  Kaneda/Mosejzcuk    81
 ~~~
 
 <a name="21-96062"></a>

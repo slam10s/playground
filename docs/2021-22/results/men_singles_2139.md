@@ -7,6 +7,7 @@
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 10/1/2021 - [Aggie Invitational](#21-92523) ([Results](#21-92523) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaDavisM/Tournaments/Overview/8C1469E6-3A8C-48A5-A340-2EB9734F03E4" target="_blank">Draws</a>)  
 - 10/1/2021 - [Arizona Wildcat Invitational](#21-91278) ([Results](#21-91278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Draws</a>)  
+- 10/1/2021 - [Beeman/Drobac Invite](#21-89128) ([Results](#21-89128) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Draws</a>)  
 - 9/30/2021 - [BU Invite](#21-39279) ([Results](#21-39279) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityM/Tournaments/Overview/A2243BD0-B01D-447E-89E6-9F9C5E5F85DA" target="_blank">Draws</a>)  
 - 10/2/2021 - [Davidson College Invite](#21-95483) ([Results](#21-95483) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Draws</a>)  
 - 10/1/2021 - [EIU Panther Hidden Duals](#21-91236) ([Results](#21-91236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">Draws</a>)  
@@ -23,21 +24,20 @@
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
 - 9/30/2021 - [Division II Men’s South Central ITA Regional Championships](#21-08149) ([Results](#21-08149) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/BFA79EEC-3303-4163-86EB-C0E9E19BBADE" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men's Central ITA Regional Championships](#21-43730) ([Results](#21-43730) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/4C90304B-D821-474C-BB23-F898C365EF87" target="_blank">Draws</a>)  
+- 10/1/2021 - [Division III Men's Northeast ITA Regional Championships](#21-45022) ([Results](#21-45022) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s Southeast ITA Regional Championships](#21-50059) ([Results](#21-50059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonM/Tournaments/Overview/8701EF80-DDC5-4BB0-861B-552EB3F1C862" target="_blank">Draws</a>)  
 - 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
+- 9/29/2021 - [NAIA Men’s & Women's Midwest ITA Regional Championships](#21-24046) ([Results](#21-24046) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
 - 10/2/2021 - [Panther Classic](#21-52083) ([Results](#21-52083) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/BA2B3B31-CD0C-40C8-96BC-A0F69FEED591" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Beeman/Drobac Invite</a>  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Division III Men's Northeast ITA Regional Championships</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
-- 9/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">NAIA Men’s & Women's Midwest ITA Regional Championships</a>  
 
 <a name="21-15825"></a>
 ~~~
@@ -805,6 +805,94 @@
       F  Conner Olsen         def.  Nicolas Prieto       63 64
   > Northwest
       F  Wyatt Anderson       def.  Ryan Ford            62 63
+~~~
+
+<a name="21-89128"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  Beeman/Drobac Invite
+  Dates: Oct 1-3, 2021
+  Host: Michigan State University (M)
+═════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Singles Round 1
+  > Main
+     128  Joaquin Caballer     def.  Kazuki Matsuno       61 26 [0]
+     128  Benjamin George      def.  Josh Portnoy         46 63 [6]
+     128  David Mizrahi        def.  Max Sheldon          75 75
+     128  Graydon Lair         def.  Kyle Tang            63 64
+     128  Carson Gates         def.  Jagger Saylor        61 62
+     128  Jarreau Campbell     def.  Mac Rogers           60 63
+     128  Ferdinand Schlueter  def.  Reed Crocker         64 26 [9]
+     128  Nic Meister          def.  Nishanth Basavareddy 63 60
+     128  Fran San Andres      def.  Ilya Tiraspolsky     76(3) 64
+     128  Michael Andre        def.  Stefan Drogovic      75 76
+     128  Jean-Marc Malkowski  def.  Hunter Heck          63 61
+     128  Peter Conklin        def.  Lucas Horve          76(3) 26 [5]
+     128  Alex Petrov          def.  Brogan Pierce        61 63
+     128  Gabrielius Guzauskas def.  Jackson Boone        62 62
+     128  Aditya Vashistha     def.  Tin Krstulovic       60 63
+     128  Matthew Che          def.  Ian Brady            76 60
+     128  Felix Nordby         def.  Anthony Pero         64 64
+     128  Natan Spear          def.  Luke Baylis          63 61
+ > Singles Round 2
+  > Main
+     128  Gabrielius Guzauskas def.  Jarreau Campbell     61 62
+     128  Alex Petrov          def.  Carson Gates         63 62
+     128  Aditya Vashistha     def.  David Mizrahi        64 61
+     128  Matthew Che          def.  Kyle Tang            63 64
+     128  Ilya Tiraspolsky     def.  Natan Spear          63 62
+     128  Felix Nordby         def.  Michael Andre        76 63
+     128  Jean-Marc Malkowski  def.  Benjamin George      62 75
+     128  Peter Conklin        def.  Joaquin Caballer     16 61 [10]
+     128  Hunter Heck          def.  Max Sheldon          60 76(1)
+     128  Lucas Horve          def.  Graydon Lair         64 63
+     128  Tin Krstulovic       def.  Nishanth Basavareddy 63 75
+     128  Jagger Saylor        def.  Ian Brady            63 62
+     128  Josh Portnoy         def.  Mac Rogers           64 61
+     128  Ferdinand Schlueter  def.  Kazuki Matsuno       63 60
+     128  Fran San Andres      def.  Anthony Pero         63 26 [6]
+     128  Luke Baylis          def.  Stefan Drogovic      61 36 [5]
+     128  Nic Meister          def.  Jackson Boone        57 63 [4]
+     128  Brogan Pierce        def.  Reed Crocker         64 64
+ > Singles Round 3
+  > Main
+     128  Max Sheldon          def.  Felix Nordby         76(3) 57 [5]
+     128  Natan Spear          def.  Graydon Lair         63 62
+     128  Fran San Andres      def.  Nic Meister          76(4) 26 [8]
+     128  Stefan Drogovic      def.  Reed Crocker         46 64 [3]
+     128  Luke Baylis          def.  Jackson Boone        64 64
+     128  Brogan Pierce        def.  Anthony Pero         62 76(9)
+     128  Jarreau Campbell     def.  Joaquin Caballer     63 64
+     128  Carson Gates         def.  Benjamin George      06 62 [8]
+     128  Josh Portnoy         def.  Nishanth Basavareddy 64 64
+     128  Kazuki Matsuno       def.  Mac Rogers           60 62
+     128  Alex Petrov          def.  Aditya Vashistha     76(4) 36 [4]
+     128  Matthew Che          def.  Gabrielius Guzauskas 61 26 [10]
+     128  Hunter Heck          def.  David Mizrahi        64 67(10) [8]
+     128  Lucas Horve          def.  Kyle Tang            63 62
+     128  Ilya Tiraspolsky     def.  Peter Conklin        62 36 [9]
+     128  Michael Andre        def.  Jean-Marc Malkowski  62 60
+     128  Tin Krstulovic       def.  Jagger Saylor        75 36 [8]
+     128  Ferdinand Schlueter  def.  Ian Brady            75 75
+ > Singles Round 4
+  > Main
+     128  Aditya Vashistha     def.  Michael Andre        46 63 [4]
+     128  Matthew Che          def.  Ilya Tiraspolsky     62 62
+     128  Alex Petrov          def.  Jean-Marc Malkowski  16 64 [8]
+     128  Gabrielius Guzauskas def.  Peter Conklin        67(4) 63 [11]
+     128  David Mizrahi        def.  Carson Gates         46 75 [8]
+     128  Kyle Tang            def.  Jarreau Campbell     64 64
+     128  Hunter Heck          def.  Felix Nordby         61 64
+     128  Lucas Horve          def.  Natan Spear          62 76(3)
+     128  Tin Krstulovic       def.  Kazuki Matsuno       64 76(5)
+     128  Josh Portnoy         def.  Ian Brady            64 36 [7]
+     128  Luke Baylis          def.  Nishanth Basavareddy 62 62
+     128  Benjamin George      def.  Nic Meister          63 64
+     128  Reed Crocker         def.  Joaquin Caballer     63 64
+     128  Fran San Andres      def.  Max Sheldon          62 63
+     128  Graydon Lair         def.  Stefan Drogovic      64 63
+     128  Brogan Pierce        def.  Jagger Saylor        60 62
 ~~~
 
 <a name="21-39279"></a>
@@ -2603,6 +2691,98 @@
      32Q     Trey Kernan          def.     Daniel McGarry       62 61
 ~~~
 
+<a name="21-45022"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Division III Men's Northeast ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: Hobart College (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Main Draw Singles
+  > Main
+      F  John Rado            def.  Yudai Teruyama       62 26 63
+     SF  Yudai Teruyama       def.  Abraham Yohannes     63 63
+     SF  John Rado            def.  Emilio Van Cotthem   62 76(6)
+     QF  Abraham Yohannes     def.  Aiden Drover-Mattin… 63 76(5)
+     QF  Yudai Teruyama       def.  Zachary Portnoy      61 64
+     QF  Emilio Van Cotthem   def.  Alex Yang            62 61
+     QF  John Rado            def.  Igor Visnevskij      63 62
+     16  Aiden Drover-Mattin… def.  Benjamin Almquist    64 61
+     16  Abraham Yohannes     def.  Krish Vennam         64 63
+     16  Yudai Teruyama       def.  Justin Wain          46 62 63
+     16  Zachary Portnoy      def.  Connor Griff         63 64
+     16  Alex Yang            def.  Noah Williamson      64 61
+     16  Emilio Van Cotthem   def.  Harry Lyu            36 62 61
+     16  John Rado            def.  Matthew Michibata    60 61
+     16  Igor Visnevskij      def.  Nikola Kilibarda     60 63
+     32  Aiden Drover-Mattin… def.  Nicolas Luis Vega    63 60
+     32  Benjamin Almquist    def.  Alper Kulturel       76(2) 62
+     32  Krish Vennam         def.  Thomas Shung         61 61
+     32  Abraham Yohannes     def.  Brendan Jimenez      75 64
+     32  Justin Wain          def.  Noah Gulla           62 60
+     32  Yudai Teruyama       def.  Zachary Freier       61 60
+     32  Zachary Portnoy      def.  Winter Fagerberg     63 46 62
+     32  Connor Griff         def.  Kai Yuminaga         63 60
+     32  Noah Williamson      def.  Adrian Tsui          62 76(3)
+     32  Alex Yang            def.  Aidan OBrien         61 60
+     32  Harry Lyu            def.  Nathan Turtledove    62 61
+     32  Emilio Van Cotthem   def.  Pasquale Procaccino  60 63
+     32  Matthew Michibata    def.  Giannos Binopoulos   60 63
+     32  John Rado            def.  Jacob Linares        62 61
+     32  Igor Visnevskij      def.  Jay Wong             63 64
+     32  Nikola Kilibarda     def.  Theo Bourghelle      64 63
+     64  Aiden Drover-Mattin… def.  Akul Telluri         61 63
+     64  Nicolas Luis Vega    def.  August LePique       60 60
+     64  Benjamin Almquist    def.  Kaan Ayman           62 62
+     64  Alper Kulturel       def.  Brennan Bull         62 60
+     64  Krish Vennam         def.  Joe Reiner           63 60
+     64  Thomas Shung         def.  Joseph He            46 60 62
+     64  Brendan Jimenez      def.  Adam Heilbronner     75 63
+     64  Abraham Yohannes     def.  Sean Danahy          61 60
+     64  Justin Wain          def.  Ben Jacobs           76(5) 76(3)
+     64  Noah Gulla           def.  Ryan Lalik           61 62
+     64  Yudai Teruyama       def.  Brody Pinto          61 61
+     64  Zachary Freier       def.  Siddharth Byreddy    62 63
+     64  Zachary Portnoy      def.  James Balon          64 60
+     64  Winter Fagerberg     def.  Derek Jordan         61 61
+     64  Connor Griff         def.  Alejandro Ley        63 63
+     64  Kai Yuminaga         def.  Eric Dubilirer       64 64
+     64  Adrian Tsui          def.  Brian Wang           75 61
+     64  Noah Williamson      def.  Grahith Movva        62 62
+     64  Aidan OBrien         def.  Kenny Elliott        63 64
+     64  Alex Yang            def.  Mihajlo Ivanovic     62 62
+     64  Nathan Turtledove    def.  Nihal Kothari        64 62
+     64  Harry Lyu            def.  Arun Guruswamy       64 61
+     64  Pasquale Procaccino  def.  Kyle Gorman          60 60
+     64  Emilio Van Cotthem   def.  Tristan Thiebaut     64 62
+     64  Giannos Binopoulos   def.  Nicolas Gritz        64 63
+     64  Matthew Michibata    def.  Rumaish Khastgir     62 63
+     64  Jacob Linares        def.  Suhas Krishnan       76(5) 46 64
+     64  John Rado            def.  Edvin Strandberg     63 61
+     64  Igor Visnevskij      def.  Minos Stavrakas      60 62
+     64  Jay Wong             def.  Dominic Vito         60 60
+     64  Nikola Kilibarda     def.  Nick Grosso          62 62
+     64  Theo Bourghelle      def.  Matthew Reinhold     60 61
+ > Consolation Matches
+  > Main
+     R3  Hyat Oyer            def.  Jordi Julia          81
+     R2  Adam Heilbronner     def.  Ryan Weiss           85
+     R2  Alejandro Ley        def.  Ben Jacobs           85
+     R1  Ryan Weiss           def.  Nick Weitzman        85
+     R1  Adam Heilbronner     def.  Nicolas Luis Vega    85
+     R1  Minos Stavrakas      def.  Aidan OBrien         83
+     R1  Brody Pinto          def.  Jordi Julia          87(5)
+     R1  Hyat Oyer            def.  Ian Schunk           83
+     R1  Ben Jacobs           def.  Derek Jordan         87
+     R1  Alejandro Ley        def.  James Balon          83
+     R1  Olaf de Lange        def.  Giannos Binopoulos   87(4)
+     R1  Dorian Makarski      def.  Jacob Dornsife       82
+     R1  Mason Spottek        def.  Kenny Elliott        82
+     R1  Matthew Reinhold     def.  Gerard Loras         81
+     R1  Derek Jordan         def.  Brody Pinto          83
+~~~
+
 <a name="21-64584"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════════════
@@ -2906,7 +3086,7 @@
       QF      Aj Wilkins           def.      Victor Simoes        Walkover
       QF      Geoffrey Youngs      def.      Carlos Franch        63 62
       QF      Kole Kolilnski       def.      Ryan Fonseca         61 61
-      16      Colin Chapman        def.      Ethan Beckerman      75 60
+      16      Colin Chapman        def.      Ethan Beckerman      62 16 [7]
       16      Tyler Grosz          def.      Alex Palomar         Walkover
       16      Aj Wilkins           def.      Jack Geurkink        67(5) 64 [9]
       16      Victor Simoes        def.      Ethan Hietala        Walkover
@@ -3384,6 +3564,160 @@
       QF     Justin Humphrey      def.     Kaleb Parish         82
       QF     Cameron Garrett      def.     Robert Mills         82
       QF     Jack Owens           def.     Caleb Beech          83
+~~~
+
+<a name="21-24046"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════════
+  NAIA Men’s & Women's Midwest ITA Regional Championships
+  Dates: Sep 29 - Oct 3
+  Host: Indiana Wesleyan University (M)
+══════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > Main
+       F  (2) Jeremias Rocco       def.  (1) Martin Carrizo       63 62
+      SF  (1) Martin Carrizo       def.  (5) Max Rozas            57 76(5) [4]
+      SF  (2) Jeremias Rocco       def.  (3) Leo Sprovieri        63 61
+      QF  (1) Martin Carrizo       def.      Karl Wurth           76(5) 61
+      QF  (5) Max Rozas            def.  (4) Sergio Conde         60 64
+      QF  (3) Leo Sprovieri        def.      Jakub Federowicz     61 63
+      QF  (2) Jeremias Rocco       def.  (7) Alejo Bagnera        63 61
+      16  (1) Martin Carrizo       def.      Francisco Faundez    61 62
+      16      Karl Wurth           def.  (9) Marcos Salazar       63 75
+      16  (5) Max Rozas            def. (12) Isaac Steiner        62 46 [7]
+      16  (4) Sergio Conde         def.      Mariano Jalif        46 76(2) [8]
+      16  (3) Leo Sprovieri        def.      Nils Messin          61 60
+      16      Jakub Federowicz     def.  (6) Malik Omarkhanov     36 76(5) [7]
+      16  (7) Alejo Bagnera        def.      Alexander Tamarro    76(7) 61
+      16  (2) Jeremias Rocco       def. (15) Martin Stanchev      75 60
+      32  (1) Martin Carrizo       def.      Ramiro Candia        61 62
+      32      Francisco Faundez    def.      Insee Akarapan       64 64
+      32  (9) Marcos Salazar       def.      Anastasis Lavdas     75 76(6)
+      32      Karl Wurth           def.      Dmitrii Voshchenkov  60 64
+      32  (5) Max Rozas            def.      Mateo Ameller        62 63
+      32 (12) Isaac Steiner        def.      Kayra Kargin         61 75
+      32      Mariano Jalif        def.      Alfredo Huamani Tel… 61 60
+      32  (4) Sergio Conde         def.      Tyler Sinclair       62 62
+      32  (3) Leo Sprovieri        def.      Philippe Labbe       62 63
+      32      Nils Messin          def.      Justo Villanueva     62 60
+      32      Jakub Federowicz     def.      Connor Mogle         60 62
+      32  (6) Malik Omarkhanov     def.      Jorge Rodriguez      60 62
+      32  (7) Alejo Bagnera        def.      Michel Zobel         64 60
+      32      Alexander Tamarro    def. (10) Hunter Sylvester     60 46 [13]
+      32 (15) Martin Stanchev      def.      Pablo Lopez Real     63 62
+      32  (2) Jeremias Rocco       def.      Joel Mast            60 63
+      64  (1) Martin Carrizo       def.      Lee Chan             61 60
+      64      Ramiro Candia        def.      Pedro Scattolon      61 60
+      64      Insee Akarapan       def.      Alvaro Trillo-Sanch… 60 60
+      64      Francisco Faundez    def. (16) David Sandi          75 16 [8]
+      64  (9) Marcos Salazar       def.      Armando Lopez        75 62
+      64      Anastasis Lavdas     def.      Jerod May            63 63
+      64      Dmitrii Voshchenkov  def.      Valentin Mussi       63 63
+      64      Karl Wurth           def.  (8) Teodor Zlatar        62 46 [6]
+      64  (5) Max Rozas            def.      Mark Griffin         63 46 [3]
+      64      Mateo Ameller        def.      Andre Baltazar       61 62
+      64      Kayra Kargin         def.      Lucca de Oliveira A… 62 62
+      64 (12) Isaac Steiner        def.      Joey Blasi           60 61
+      64      Mariano Jalif        def. (13) Juan Avellaneda      64 26 [8]
+      64      Alfredo Huamani Tel… def.      Jerad Bos            63 62
+      64      Tyler Sinclair       def.      Trey Thixton         75 62
+      64  (4) Sergio Conde         def.      Nicolas Doria        60 62
+      64  (3) Leo Sprovieri        def.      Fabricio Galvan      63 63
+      64      Philippe Labbe       def.      Ulises Barradas      61 62
+      64      Justo Villanueva     def.      Andrew Ilett         63 62
+      64      Nils Messin          def. (14) Agustin Cortes       61 26 [3]
+      64      Jakub Federowicz     def. (11) Facundo Paredes      64 61
+      64      Connor Mogle         def.      Jonah Anderson       61 36 [4]
+      64      Jorge Rodriguez      def.      Justin Haggard       61 61
+      64  (6) Malik Omarkhanov     def.      Kevin Bollmann       63 60
+      64  (7) Alejo Bagnera        def.      Alex Serwatka        46 64 [2]
+      64      Michel Zobel         def.      Moises Sosa          75 62
+      64      Alexander Tamarro    def.      David Ayguavives     75 61
+      64 (10) Hunter Sylvester     def.      Illia Turaba         61 61
+      64 (15) Martin Stanchev      def.      Jones McNamar        63 60
+      64      Pablo Lopez Real     def.      Nils Hammarsten      75 63
+      64      Joel Mast            def.      Pedro Orelanna       36 63 [9]
+      64  (2) Jeremias Rocco       def.      Andrew Hare          60 60
+ > Flight B
+  > Main
+       F      Francisco Margaria   def.      Alejandro Perez San… 82
+      SF      Alejandro Perez San… def.      Gustavo Marangoni    83
+      SF      Francisco Margaria   def.      Jake Giles           81
+      QF      Gustavo Marangoni    def.      Greg Fulling         84
+      QF      Alejandro Perez San… def.      Ethan Gray           83
+      QF      Francisco Margaria   def.      Rafael Mendes        84
+      QF      Jake Giles           def.      Jacob Wittenbaum     Walkover
+      16      Greg Fulling         def.      Gavin Dardeen        86
+      16      Gustavo Marangoni    def.      Jannis Schneider     81
+      16      Ethan Gray           def.      Ashwin Bhat          85
+      16      Alejandro Perez San… def.      Brendan Bentley      83
+      16      Rafael Mendes        def.      Kye Barrett          84
+      16      Francisco Margaria   def.      Grant Wayner         82
+      16      Jacob Wittenbaum     def.      Wes Troyer           86
+      16      Jake Giles           def.      Alex Rajal           85
+      32      Greg Fulling         def.      Austin Faucett       81
+      32      Gavin Dardeen        def.      Drew Hall            82
+      32      Jannis Schneider     def.      Eli Franks           Walkover
+      32      Gustavo Marangoni    def.      Cade Burman          Walkover
+      32      Ashwin Bhat          def.      Diego Tapia          87(3)
+      32      Ethan Gray           def.      Ivan Antinori        84
+      32      Alejandro Perez San… def.      Niko Rongos          82
+      32      Brendan Bentley      def.      Austin Kuklak        86
+      32      Rafael Mendes        def.      Clayton Amburgy      80
+      32      Kye Barrett          def.      Diego Colombo        86
+      32      Francisco Margaria   def.      Mario Gomez          86
+      32      Wes Troyer           def.      Jace Gilman          81
+      32      Jacob Wittenbaum     def.      Jalen Maust          81
+      32      Jake Giles           def.      Will Daigle          82
+      32      Alex Rajal           def.      Dominick Brock       80
+      64      Austin Faucett       def.      Sam Soper            26 64 [10]
+      64      Drew Hall            def.      Lukas Obel           63 36 [7]
+      64      Jannis Schneider     def.      Caleb Tripp          60 60
+      64      Gustavo Marangoni    def.      Conner Murphy        60 60
+      64      Ashwin Bhat          def.      Charlie Dobben       60 62
+      64      Ivan Antinori        def.      Jai Kashyap          60 60
+      64      Ethan Gray           def.      Steve Mullaney       60 60
+      64      Alejandro Perez San… def.      Nicolas Graber       62 61
+      64      Austin Kuklak        def.      Nicholas Archer      62 60
+      64      Rafael Mendes        def.      Nathan Richelle      64 64
+      64      Kye Barrett          def.      Carter Jones         61 62
+      64      Mario Gomez          def.      Jack Fauser          61 76
+      64      Francisco Margaria   def.      Cristian Rodriguez   61 60
+      64      Grant Wayner         def.      Jerid Inman          Walkover
+      64      Wes Troyer           def.      Ryan Loganadhan      Walkover
+      64      Jacob Wittenbaum     def.      Ryan MacLean         64 67(6) [7]
+      64      Jalen Maust          def.      Caleb Cole           63 61
+      64      Jake Giles           def.      Garrett Dalton       36 76(5) [5]
+      64      Alex Rajal           def.      Jared Thomas         63 61
+  > Consolation
+       F      Ryan MacLean         def.      Lukas Obel           81
+      SF      Lukas Obel           def.      Nicolas Graber       84
+      SF      Ryan MacLean         def.      Diego Colombo        84
+      QF      Lukas Obel           def.      Conner Murphy        84
+      QF      Nicolas Graber       def.      Charlie Dobben       81
+      QF      Diego Colombo        def.      Cristian Rodriguez   83
+      QF      Ryan MacLean         def.      Garrett Dalton       84
+      16      Lukas Obel           def.      Sam Soper            82
+      16      Conner Murphy        def.      Caleb Tripp          86
+      16      Charlie Dobben       def.      Jai Kashyap          86
+      16      Nicolas Graber       def.      Nicholas Archer      82
+      16      Diego Colombo        def.      Clayton Amburgy      82
+      16      Cristian Rodriguez   def.      Jerid Inman          Walkover
+      16      Ryan MacLean         def.      Ryan Loganadhan      82
+      16      Garrett Dalton       def.      Jared Thomas         Walkover
+      32      Caleb Tripp          def.      Eli Franks           Walkover
+      32      Conner Murphy        def.      Cade Burman          Walkover
+      32      Charlie Dobben       def.      Diego Tapia          Walkover
+      32      Nicolas Graber       def.      Niko Rongos          81
+      32      Clayton Amburgy      def.      Nathan Richelle      Walkover
+      32      Diego Colombo        def.      Carter Jones         83
+      32      Ryan Loganadhan      def.      Jace Gilman          83
+      32      Garrett Dalton       def.      Will Daigle          83
+      32      Jared Thomas         def.      Dominick Brock       80
+     32Q      Jai Kashyap          def.      Steve Mullaney       82
+     32Q      Cristian Rodriguez   def.      Jack Fauser          85
+     32Q      Ryan MacLean         def.      Caleb Cole           80
 ~~~
 
 <a name="21-30655"></a>

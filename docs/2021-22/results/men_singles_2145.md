@@ -4,6 +4,7 @@
 - 11/5/2021 - [Big 12 Individuals](#21-20291) ([Results](#21-20291) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityM/Tournaments/Overview/E0ED1E84-1CD4-4CE2-BFCD-F695030458D5" target="_blank">Draws</a>)  
 
 **Upcoming Tournaments**  
+- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/530778D7-293A-4C49-A1E2-1FF11D725D81" target="_blank">Duck Invite</a>  
 - 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaMarymountUniversityM/Tournaments/Overview/5B7216DB-15C4-4F1D-8629-8EAF987FE5AE" target="_blank">LMU Invite</a>  
 - 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/398E1516-D93D-455D-B5B2-0D3057E5FCF8" target="_blank">Navy Invitational</a>  
 

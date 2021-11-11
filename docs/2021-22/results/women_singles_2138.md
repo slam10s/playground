@@ -20,11 +20,11 @@
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
 - 9/24/2021 - [Natchitoches Women's Care/Lady Demon Collegiate Invitational](#21-03887) ([Results](#21-03887) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57" target="_blank">Draws</a>)  
 - 9/24/2021 - [Ole Miss Fall Invite](#21-39692) ([Results](#21-39692) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMississippiW/Tournaments/Overview/5CF07ED7-A131-45ED-8D93-E6058EED2536" target="_blank">Draws</a>)  
+- 9/24/2021 - [Purdue Invite](#21-45740) ([Results](#21-45740) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityW/Tournaments/Overview/7BB7BD29-7CFA-40C8-8B1A-907141B28F7E" target="_blank">Draws</a>)  
 - 9/23/2021 - [Ranked College Spotlight](#21-47703) ([Results](#21-47703) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthCarolinaStateUnivW/Tournaments/Overview/2CBD0E5F-B8C8-4667-972F-0BCB4951BB75" target="_blank">Draws</a>)  
 - 9/24/2021 - [Samford Round Robin #1](#21-74651) ([Results](#21-74651) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityW/Tournaments/Overview/EC00D221-086D-4EE8-BBFA-A8A76ACB92CB" target="_blank">Draws</a>)  
 - 9/24/2021 - [SMU Fall Invite](#21-08553) ([Results](#21-08553) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/DA20527E-5D36-4FBF-A32B-A3905E6A333C" target="_blank">Draws</a>)  
 - 9/24/2021 - [Stetson Invite](#21-76161) ([Results](#21-76161) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/EDD70DAB-65CC-4E26-BC6B-D0CC66FD5BAC" target="_blank">Draws</a>)  
-- 9/24/2021 - [Thunder in the Mountains](#21-26764) ([Results](#21-26764) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/6F07BB8D-7FC6-4D88-B1F7-809501FCD0B1" target="_blank">Draws</a>)  
 - 9/24/2021 - [University of Minnesota Gopher Invitational](#21-50226) ([Results](#21-50226) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
@@ -44,7 +44,7 @@
 
 **Tournaments without Matches**  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityW/Tournaments/Overview/1CE6B392-5A54-43F9-A9F6-BAC5D49C0747" target="_blank">Lehigh Women's Invite</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityW/Tournaments/Overview/7BB7BD29-7CFA-40C8-8B1A-907141B28F7E" target="_blank">Purdue Invite</a>  
+- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/6F07BB8D-7FC6-4D88-B1F7-809501FCD0B1" target="_blank">Thunder in the Mountains</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/D09BC058-0102-4062-90BE-1A0436D0E2C9" target="_blank">UNA Women's Tennis Classic</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternIllinoisUniversityW/Tournaments/Overview/F071C84F-6B2D-4B81-8D42-5B11D51EAB94" target="_blank">Western Illinois University Fall Invite</a>  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityOHW/Tournaments/Overview/3BA7BF0C-17C2-4B58-BBA3-BBA1627F8304" target="_blank">Xavier Invitational</a>  
@@ -764,13 +764,13 @@
  Women's Open Singles
  > Flight A
   > East
-      F  Aya El Sayed         def.  Stella Wiesmann      57 64 [7]
+      F  Aya Saleh            def.  Stella Wiesmann      57 64 [7]
      SF  Stella Wiesmann      def.  Juleta Honrubia      75 61
-     SF  Aya El Sayed         def.  Aliza Askarova       64 75
+     SF  Aya Saleh            def.  Aliza Askarova       64 75
      QF  Juleta Honrubia      def.  Nina Sorkin          16 75 [8]
      QF  Stella Wiesmann      def.  Jojo Bach            61 61
      QF  Aliza Askarova       def.  Minorka Miranda      76(6) 21 Ret.
-     QF  Aya El Sayed         def.  Amira Badawi         63 46 [8]
+     QF  Aya Saleh            def.  Amira Badawi         63 46 [8]
      16  Juleta Honrubia      def.  Avantika Willy       76(9) 63
      16  Stella Wiesmann      def.  Chloe Bendetti       36 75 [4]
      16  Minorka Miranda      def.  Gabriela Davidescu   63 36 [8]
@@ -1796,6 +1796,61 @@
      32  Anaelle Leclerq-Fic… def.  Ansley Cheshire      62 62
 ~~~
 
+<a name="21-45740"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Purdue Invite
+  Dates: Sep 24-26, 2021
+  Host: Purdue University (W)
+══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Purdue/UL, Miami/Butler
+  > Main
+     64  Brindtha Ramasamy    def.  Natalie Boesing      61 63
+     64  Laura Rico           def.  Nishitha Saravanan   61 62
+     64  Catherine Denysiewi… def.  Norah Balthazor      61 61
+     64  Katie Beavin         def.  Emilia Valentinsson  63 63
+     64  Emma Beavin          def.  Mayu Ushio           62 64
+     64  Sarah Dev            def.  Sara Linn            62 76(5)
+     64  Sara Zalukar         def.  Hallie Leblebijian   64 62
+     64  Nancy Cabanas        def.  Makensie Long        64 64
+     64  Csilla Fodor         def.  Andrea Di Palma      64 21 Ret.
+     64  Chelsea Sawyer       def.  Juana Larranaga      62 46 61
+     64  Rhea Verma           def.  Seira Shimizu        61 64
+     64  Dina Chaika          def.  Tara Milic           64 36 63
+     64  Carmen Gallardo Gue… def.  Sasha Gorchanyuk     76(1) 63
+     64  Rut Galindo          def.  Tyra Richardson      61 75
+ > Purdue/Butler, Miami/UL
+  > Main
+     64  Csilla Fodor         def.  Natalie Boesing      26 62 62
+     64  Juana Larranaga      def.  Delaney Schurhamer   64 62
+     64  Seira Shimizu        def.  Norah Balthazor      46 61 63
+     64  Katie Beavin         def.  Carmen Gallardo Gue… 57 62 61
+     64  Tara Milic           def.  Sara Linn            63 60
+     64  Rut Galindo          def.  Emma Beavin          64 64
+     64  Andrea Di Palma      def.  Brindtha Ramasamy    63 62
+     64  Rhea Verma           def.  Laura Rico           67(3) 63 63
+     64  Tatiana Simova       def.  Sara Zalukar         76(6) 63
+     64  Sasha Gorchanyuk     def.  Catherine Denysiewi… 36 61 75
+     64  Dina Chaika          def.  Emilia Valentinsson  64 60
+     64  Tyra Richardson      def.  Sarah Dev            46 60 64
+     64  Mayu Ushio           def.  Joy Callwood         64 46 63
+ > Purdue/Miami, Butler/UL
+  > Main
+     64  Csilla Fodor         def.  Brindtha Ramasamy    63 62
+     64  Laura Rico           def.  Juana Larranaga      64 57 64
+     64  Nishitha Saravanan   def.  Seira Shimizu        63 64
+     64  Catherine Denysiewi… def.  Tara Milic           76(6) 60
+     64  Carmen Gallardo Gue… def.  Sara Zalukar         75 61
+     64  Rut Galindo          def.  Emilia Valentinsson  64 46 63
+     64  Rhea Verma           def.  Natalie Boesing      63 62
+     64  Chelsea Sawyer       def.  Delaney Schurhamer   63 62
+     64  Norah Balthazor      def.  Dina Chaika          64 46 64
+     64  Sasha Gorchanyuk     def.  Katie Beavin         76(2) 64
+     64  Tyra Richardson      def.  Emma Beavin          63 36 64
+     64  Joy Callwood         def.  Sara Linn            64 46 75
+~~~
+
 <a name="21-47703"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════════
@@ -2177,33 +2232,6 @@
   Dates: Sep 24-26, 2021
   Host: West Virginia University (W)
 ═════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > WVU v Radford
-  > Main
-     16  Salma Loudili        def.  Anastaiia Bovolskaia 62 63
-     16  Camilla Bossi        def.  Melissa Ifidzhen     76 62
-     16  Kendall Kovick       def.  Malin Falk           62 Ret.
-     16  Ting-Pei Chang       def.  Emily Brandow        62 61
-     16  Michaela Kucharova   def.  Katelyn Fruehauf     64 62
-     16  Momoko Nagato        def.  Camryn McClure       64 62
-     16  Penny Hsieh          def.  Marielle Leahy       60 61
- > WVU v WVSU, WVU v MU
-  > Main
-     16  Kendall Kovick       def.  Gaya Solomon         62 46 [11]
-     16  Ting-Pei Chang       def.  Tuva Wallin          63 64
-     16  Camilla Bossi        def.  Julia Daszkiewicz    60 62
-     16  Anastaiia Bovolskaia def.  Maya Haidari         64 62
-     16  Michaela Kucharova   def.  Lea Rolland          60 60
-     16  Momoko Nagato        def.  Kara Joseph          62 62
-     16  Penny Hsieh          def.  Audrey Grigore       61 60
- > WVU v Marshall
-  > Main
-     16  Ting-Pei Chang       def.  Emma Vanderheyden    63 06 [7]
-     16  Madi Ballow          def.  Kendall Kovick       75 26 [5]
-     16  Camilla Bossi        def.  Sophia Hurrion       76 62
-     16  Michaela Kucharova   def.  Jutte Van Hansewyck  63 62
-     16  Liz Stefancic        def.  Momoko Nagato        64 60
-     16  Penny Hsieh          def.  Rieke Gillar         60 61
 ~~~
 
 <a name="21-50226"></a>

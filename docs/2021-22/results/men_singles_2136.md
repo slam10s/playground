@@ -4,6 +4,7 @@
 - 9/10/2021 - [10th Annual Villanova Invitation](#21-56790) ([Results](#21-56790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VillanovaUniversityM/Tournaments/Overview/831641B3-DB8F-4BD7-8D82-8308402A7AF5" target="_blank">Draws</a>)  
 - 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-26104) ([Results](#21-26104) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/B00BE0B9-F219-49D7-880F-72F7FA07C012" target="_blank">Draws</a>)  
 - 9/10/2021 - [2021 Dar Walters Classic](#21-19264) ([Results](#21-19264) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">Draws</a>)  
+- 9/10/2021 - [Battle of the Beach](#21-65691) ([Results](#21-65691) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Draws</a>)  
 - 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
 - 9/10/2021 - [Knoxville Showdown](#21-83681) ([Results](#21-83681) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/85DF336A-C5C2-4C22-AC59-717D6414EA8A" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
@@ -18,8 +19,8 @@
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Battle of the Beach</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
+- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">PTC College Invitational</a>  
 
 <a name="21-56790"></a>
 ~~~
@@ -518,6 +519,46 @@
      R1  Johnny Mascagni     def.  Sam Baldwin         64 63
 ~~~
 
+<a name="21-65691"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Battle of the Beach
+  Dates: Sep 10-12, 2021
+  Host: Florida State University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Friday Singles
+  > Main
+     16  Justin Schlageter    def.  Sergio Gomez-Montesa 76(5) 62
+     16  Nathan Han           def.  Alvin Tudorica       62 76(2)
+     16  Bruno Oliveira       def.  Jordan Hasson        63 36 75
+     16  Rithvik Bollipalli   def.  Welsh Hotard         76(5) 76(4)
+     16  Richard Thongoana    def.  Tomas Descarrega     76(5) 62
+     16  Sebastian Arcila     def.  Juan Cabrera         63 75
+     16  Pedro Cordeiro       def.  Joshua Dous Karpens… 36 76(4) 75
+     16  Facundo Bermejo      def.  John Bernard         63 61
+ > Saturday Singles
+  > Main
+     16  Justin Schlageter    def.  Sebastian Arcila     63 67(5) 61
+     16  Nathan Han           def.  Richard Thongoana    63 64
+     16  Jordan Hasson        def.  Joshua Dous Karpens… 75 61
+     16  John Bernard         def.  Welsh Hotard         76(4) 63
+     16  Sergio Gomez-Montesa def.  Juan Cabrera         63 63
+     16  Bruno Oliveira       def.  Tomas Descarrega     63 61
+     16  Alvin Tudorica       def.  Facundo Bermejo      75 60
+     16  Rithvik Bollipalli   def.  Pedro Cordeiro       63 64
+ > Sunday Singles
+  > Main
+     16  Sergio Gomez-Montesa def.  Richard Thongoana    76(3) 62
+     16  Bruno Oliveira       def.  Sebastian Arcila     75 36 63
+     16  Joshua Dous Karpens… def.  Rithvik Bollipalli   76(4) Ret.
+     16  John Bernard         def.  Alvin Tudorica       76(4) 62
+     16  Justin Schlageter    def.  Facundo Bermejo      46 64 Ret.
+     16  Nathan Han           def.  Pedro Cordeiro       60 46 61
+     16  Jordan Hasson        def.  Juan Cabrera         61 62
+     16  Welsh Hotard         def.  Tomas Descarrega     57 75 61
+~~~
+
 <a name="21-36446"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════
@@ -773,14 +814,14 @@
      16  Justin Barki         def.  Finn Macnamara       63 64
      16  Santiago Galan       def.  Filippos Astreinidis 64 63
      16  Simon Wibler         def.  Bill Duo             06 63 76(8)
-     16  Alan Kam             def.  Cheng Tang           64 62
+     16  Alan Kam             def.  Rex Tang             64 62
      16  Jason Hildebrandt    def.  Theo Dean            63 64
      16  Shervin Dehmoubed    def.  Zach Smith           36 75 76(10)
  > Day 2
   > Main
      16  Bill Duo             def.  Robby Shymansky      46 63 [5]
      16  Zachery Lim          def.  Simon Wibler         64 64
-     16  Cheng Tang           def.  Tal Goodman          63 16 76(3)
+     16  Rex Tang             def.  Tal Goodman          63 16 76(3)
      16  Jason Hildebrandt    def.  Finn Macnamara       63 62
      16  Zach Smith           def.  Santiago Galan       46 62 64
      16  Justin Barki         def.  Theo Dean            62 62
@@ -793,7 +834,7 @@
      16  Jason Hildebrandt    def.  Justin Barki         46 63 [7]
      16  Zach Smith           def.  Filippos Astreinidis 26 61 60
      16  Simon Wibler         def.  Robby Shymansky      62 26 62
-     16  Cheng Tang           def.  Renaud Lefevre       76(3) 36 [8]
+     16  Rex Tang             def.  Renaud Lefevre       76(3) 36 [8]
  > Extra Match 1
   > Main
       F  Bill Duo             def.  Renaud Lefevre       63 62

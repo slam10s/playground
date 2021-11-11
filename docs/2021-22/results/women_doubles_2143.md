@@ -11,6 +11,7 @@
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 - 10/29/2021 - [Brown Quad](#21-71605) ([Results](#21-71605) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Draws</a>)  
 - 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
+- 10/29/2021 - [FIU Invitational](#21-24854) ([Results](#21-24854) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gamecock Shootout](#21-95444) ([Results](#21-95444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Draws</a>)  
 - 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
@@ -22,7 +23,6 @@
 
 **Tournaments without Matches**  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">College of Charleston Halloween Tournament</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">FIU Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
@@ -710,6 +710,39 @@
      QF  Rogers/Kirch        def.  Cricchio/Manolescu  87(2)
 ~~~
 
+<a name="21-24854"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  FIU Invitational
+  Dates: Oct 29-31, 2021
+  Host: Florida International University (W)
+═══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Friday
+  > Main
+     16  Bekrar/Kabbaj        def.  Gasparin/Galindo  75
+     16  Skrobonja/Umarova    def.  Larranaga/Milic   61
+     16  Miletic/Velcea       def.  Fodor/Shimizu     62
+     16  Filip/Kudelova       def.  Mjos/Timmermans   64
+     16  MGinnis/Matthews     def.  Boy/Yaylali       63
+     16  Eland/Garrigues Mel… def.  Schieroni/Sommer  62
+ > Saturday (A)
+  > Main
+     16  Bekrar/Kabbaj        def.  Timmermans/Boy    64
+     16  Mjos/Eland           def.  Skrobonja/Umarova 62
+     16  Filip/Kudelova       def.  Milic/Fodor       62
+     16  Gallardo Guevara/Ga… def.  MGinnis/Matthews  76(5)
+     16  Larranaga/Galindo    def.  Schieroni/Sommer  61
+ > Saturday (B)
+  > Main
+     16  Timmermans/Boy       def.  Fodor/Gasparin    64
+     16  Galindo/Milic        def.  Mjos/Eland        62
+     16  Akbas/Alcobe-Garibay def.  Larranaga/Shimizu 63
+     16  Bekrar/Kabbaj        def.  Filip/Kudelova    63
+     16  Schieroni/Sommer     def.  Miletic/Velcea    62
+     16  Skrobonja/Umarova    def.  MGinnis/Matthews  62
+~~~
+
 <a name="21-95444"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════
@@ -1059,6 +1092,13 @@
      SF  Sorakudo/Engelbrecht def.  Petrackova/Rana      63
   > 3-4 Playoff
       F  Busch/Dorsey         def.  Palmgren/Tatini      63
+ > Extra
+  > Main
+     16  Goncharov/Snita      def.  Williams/Grib        61
+     16  Roquebert/Harrelson  def.  Khan/Follin-Arbelet  63
+ > Extra 2
+  > Main
+      F  Petrackova/Rana      def.  Williams/Grib        64
 ~~~
 
 <a name="21-30727"></a>

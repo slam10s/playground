@@ -14,6 +14,7 @@
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 - 10/22/2021 - [The Georgia Invitational](#21-36554) ([Results](#21-36554) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaW/Tournaments/Overview/01A4B27D-4D73-4167-8630-758894B435E5" target="_blank">Draws</a>)  
+- 10/23/2021 - [2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship](#21-05827) ([Results](#21-05827) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">Draws</a>)  
 - 10/21/2021 - [Crusader Invitational](#21-41693) ([Results](#21-41693) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Draws</a>)  
 - 10/22/2021 - [Eagle Invitational](#21-28500) ([Results](#21-28500) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Draws</a>)  
 - 10/22/2021 - [GSC Fall Individual Tournament](#21-93512) ([Results](#21-93512) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">Draws</a>)  
@@ -23,7 +24,6 @@
 
 **Tournaments without Matches**  
 - 10/19/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Butler Tournament</a>  
-- 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship</a>  
 
 <a name="21-46458"></a>
 ~~~
@@ -1109,7 +1109,6 @@
       QF  Mille Haagensen      def.  Amber Hochstatter    60 62
  > Extra Matches III
   > Main
-      32  Mei Ishimura         def.  Darinka Stepan       61 62
       32  Sumomo Hamanaga      def.  Nore Heinitz         60 63
       32  Vanessa Reinicke     def.  Andrea Jansson       61 61
       32  Nina Zdravkovic      def.  Jordan Schifano      63 06 [3]
@@ -1978,6 +1977,94 @@
      32  Nandini Sharma     def.  Nathalie Rodilosso 60 60
      32  Marie Mattel       def.  Victoria Hu        61 63
      32  Neha Velaga        def.  Jaleesa Leslie     36 76(4) 62
+~~~
+
+<a name="21-05827"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════════════════
+  2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship
+  Dates: Oct 23-24, 2021
+  Host: Univ. Of Wisconsin, Whitewater (W)
+═══════════════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > 1 Flight
+  > Main
+      F  Kimmy Steinert    def.  Autum Bruno       63 62
+     SF  Kimmy Steinert    def.  Lauren Couves     60 60
+     SF  Autum Bruno       def.  Elaine Franta     60 60
+     QF  Lauren Couves     def.  Barbara Covek     62 60
+     QF  Elaine Franta     def.  Michelle Spicer   64 63
+     QF  Autum Bruno       def.  Kailey Courteau   60 60
+  > Consolation
+      F  Michelle Spicer   def.  Barbara Covek     57 62 [3]
+     SQ  Michelle Spicer   def.  Kailey Courteau   64 60
+  > Playoff 3-4
+      F  Elaine Franta     def.  Lauren Couves     61 62
+ > 2 Flight
+  > Main
+      F  Tasha Bailey      def.  Gianna Nikoleit   61 62
+     SF  Gianna Nikoleit   def.  Faith Leithold    63 62
+     SF  Tasha Bailey      def.  Clare Palen       57 76(2) [8]
+     QF  Faith Leithold    def.  Alexis Budzinski  60 60
+     QF  Clare Palen       def.  Annie Sandry      60 60
+     QF  Tasha Bailey      def.  Alysa Pattee      60 61
+  > Consolation
+      F  Alysa Pattee      def.  Alexis Budzinski  63 61
+     SQ  Alysa Pattee      def.  Annie Sandry      64 46 [6]
+  > Playoff 3-4
+      F  Clare Palen       def.  Faith Leithold    61 46 [2]
+ > 3 Flight
+  > Main
+      F  Olivia Kraft      def.  Kellie Hierl      63 62
+     SF  Olivia Kraft      def.  Jenna Koepp       63 63
+     SF  Kellie Hierl      def.  Lindsey Henderson 26 76(7) [9]
+     QF  Jenna Koepp       def.  Ellie Becker      63 64
+     QF  Kellie Hierl      def.  Jenna Nolde       60 60
+     QF  Lindsey Henderson def.  Emma Heinert      63 64
+  > Consolation
+      F  Emma Heinert      def.  Ellie Becker      64 75
+     SQ  Emma Heinert      def.  Jenna Nolde       60 64
+  > Playoff 3-4
+      F  Lindsey Henderson def.  Jenna Koepp       62 64
+ > 4 Flight
+  > Main
+      F  Samantha Fuchs    def.  Kellie Ha         61 64
+     SF  Samantha Fuchs    def.  Kaitlyn Hess      62 62
+     SF  Kellie Ha         def.  Hannah Riegle     61 62
+     QF  Kaitlyn Hess      def.  Mariah Kent       60 63
+     QF  Hannah Riegle     def.  Chloe Struss      60 61
+     QF  Kellie Ha         def.  Hannah Stitt      60 60
+  > Consolation
+      F  Mariah Kent       def.  Chloe Struss      63 62
+     SQ  Chloe Struss      def.  Hannah Stitt      61 61
+  > Playoff 3-4
+      F  Hannah Riegle     def.  Kaitlyn Hess      36 62 [5]
+ > 5 Flight
+  > Main
+      F  Alexa Brooks      def.  Courtney Day      06 62 [8]
+     SF  Courtney Day      def.  Chloe Leithold    36 60 [0]
+     SF  Alexa Brooks      def.  Morgan Graf       64 64
+     QF  Chloe Leithold    def.  Erin Gallion      61 75
+     QF  Alexa Brooks      def.  Anna Kent         61 63
+     QF  Morgan Graf       def.  Alessandra Rivera 60 61
+  > Consolation
+      F  Anna Kent         def.  Erin Gallion      64 63
+     SQ  Anna Kent         def.  Alessandra Rivera 61 60
+  > Playoff 3-4
+      F  Morgan Graf       def.  Chloe Leithold    62 63
+ > 6 Flight
+  > Main
+      F  Kaitlyn Kalinka   def.  Molly Rueth       64 75
+     SF  Molly Rueth       def.  Kaylee Woelfel    61 62
+     SF  Kaitlyn Kalinka   def.  Morgan Nelson     62 62
+     QF  Kaylee Woelfel    def.  Kyrstin Hanson    63 63
+     QF  Kaitlyn Kalinka   def.  Karyn Duddeck     63 60
+     QF  Morgan Nelson     def.  Jade Schwichow    60 60
+  > Consolation
+      F  Kyrstin Hanson    def.  Karyn Duddeck     63 76(2)
+     SQ  Karyn Duddeck     def.  Jade Schwichow    60 61
+  > Playoff 3-4
+      F  Morgan Nelson     def.  Kaylee Woelfel    60 60
 ~~~
 
 <a name="21-41693"></a>

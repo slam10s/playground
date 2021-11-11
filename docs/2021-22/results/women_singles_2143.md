@@ -629,7 +629,6 @@
       QF  Mille Haagensen      def.  Amber Hochstatter    60 62
  > Extra Matches III
   > Main
-      32  Mei Ishimura         def.  Darinka Stepan       61 62
       32  Sumomo Hamanaga      def.  Nore Heinitz         60 63
       32  Vanessa Reinicke     def.  Andrea Jansson       61 61
       32  Nina Zdravkovic      def.  Jordan Schifano      63 06 [3]
@@ -1603,7 +1602,7 @@
   Host: Florida International University (W)
 ═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
- > Draw
+ > Friday
   > Main
      32  Kamila Umarova       def.  Martina Kudelova     61 64
      32  Yasmine Kabbaj       def.  Katerina Filip       60 62
@@ -1618,6 +1617,31 @@
      32  Carmen Gallardo Gue… def.  Alexandria Mjos      64 60
      32  Tara Milic           def.  Grace Eland          67(5) 75 62
      32  Margriet Timmermans  def.  Nathalia Gasparin    75 61
+ > Saturday
+  > Main
+     32  Csilla Fodor         def.  Yasmine Kabbaj       61 61
+     32  Carmen Gallardo Gue… def.  Kamila Umarova       63 76(5)
+     32  Andjela Skrobonja    def.  Tara Milic           64 61
+     32  Andreeea Velcea      def.  Juana Larranaga      60 61
+     32  Seira Shimizu        def.  Kristina Miletic     64 62
+     32  Ines Bekrar          def.  Rut Galindo          06 32 Ret.
+     32  Cecilia Alcobe-Gari… def.  Carina Sommer        62 62
+     32  Amelie Boy           def.  Martina Kudelova     63 76(5)
+     32  Katerina Filip       def.  Alexandria Mjos      67(5) 63 76
+     32  Amber MGinnis        def.  Grace Eland          75 62
+     32  Greta Schieroni      def.  Margriet Timmermans  64 62
+ > Sunday
+  > Main
+     32  Csilla Fodor         def.  Martina Kudelova     64 64
+     32  Carmen Gallardo Gue… def.  Katerina Filip       64 63
+     32  Tara Milic           def.  Greta Schieroni      63 61
+     32  Amber MGinnis        def.  Nathalia Gasparin    36 61 [5]
+     32  Juana Larranaga      def.  Carina Sommer        61 61
+     32  Seira Shimizu        def.  Audelia Morin-Kougo… 75 64
+     32  Yasmine Kabbaj       def.  Amelie Boy           57 63 [5]
+     32  Basak Akbas          def.  Alexandria Mjos      36 63 [3]
+     32  Ines Bekrar          def.  Grace Eland          60 62
+     32  Margriet Timmermans  def.  Cecilia Alcobe-Gari… 26 62 [5]
 ~~~
 
 <a name="21-95444"></a>
@@ -1644,7 +1668,7 @@
      32  Elise Mills       def.  Isabelle Boulais   63 26 61
      32  Julia Fliegner    def.  Ana Cruz           62 36 63
      32  Kolie Allen       def.  Chloe Narboni      64 75
-     32  Lindsay Tulenko   def.  Madeline Atway     63 26 [5]
+     32  Madeline Atway    def.  Lindsay Tulenko    36 62 [5]
      32  Dani Schoenly     def.  Kendall Couch      62 62
  > Day 2
   > Main
@@ -1913,7 +1937,7 @@
      64  Daria Kuczer        def.  Casie Wooten         75 63
      64  Samantha Martinelli def.  Esther Adeshina      75 67(5) 75
      64  Eleonora Molinaro   def.  Brooke Killingsworth 76(6) 16 76(5)
-     64  Callie Creath       def.  Peyton Pesavento     61 63
+     64  Peyton Pesavento    def.  Callie Creath        61 63
      64  Katherine Duong     def.  Carla Girbau         75 62
      64  Fiona Arrese        def.  Josie Frazier        67 64 61
      64  Ashley Yeah         def.  Carlota Molina       57 62 62
@@ -2164,6 +2188,18 @@
       F     Vanja Vidanovic      def.     Eva Goncharov        63 63
      SF     Eva Goncharov        def.     Barbora Cibakova     Walkover
      SF     Vanja Vidanovic      def.     Diane Follin-Arbelet 62 67(5) [7]
+ > Extra
+  > Main
+     16     Nika Kozar           def.     Savannah Williams    75 60
+     16     Corbin Dorsey        def.     Eleonora Guglielmet… 61 61
+     16     Eva Goncharov        def.     Ekaterina Grib       62 75
+     16     Florencia Araya      def.     Nicoline Palmgren    64 75
+     16     Kanon Sorakudo       def.     Giulia Tatini        60 60
+ > Extra 2
+  > Main
+     QF     Ekaterina Grib       def.     Anique Engelbrecht   62 61
+     QF     Savannah Williams    def.     Madalena Peneda      60 62
+     QF     Nika Kozar           def.     Tatiana Harrelson    63 60
 ~~~
 
 <a name="21-30727"></a>

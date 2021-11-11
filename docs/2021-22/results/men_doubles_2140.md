@@ -5,7 +5,9 @@
 - 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 - 10/8/2021 - [2021 UCSB Fall Classic](#21-88210) ([Results](#21-88210) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">Draws</a>)  
+- 10/8/2021 - [5th Annual REDBIRD INVITATIONAL](#21-90248) ([Results](#21-90248) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">Draws</a>)  
 - 10/7/2021 - [Bulldawg Invitational](#21-11157) ([Results](#21-11157) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Draws</a>)  
+- 10/8/2021 - [Clemson Hidden Duals](#21-41768) ([Results](#21-41768) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/FA5825C1-E156-45E3-AB26-60077E129770" target="_blank">Draws</a>)  
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [Loyola Classic](#21-67948) ([Results](#21-67948) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Draws</a>)  
 - 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
@@ -18,8 +20,6 @@
 - 10/9/2021 - [Wallach Invitational 2021](#21-27918) ([Results](#21-27918) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">5th Annual REDBIRD INVITATIONAL</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/FA5825C1-E156-45E3-AB26-60077E129770" target="_blank">Clemson Hidden Duals</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 
 <a name="21-73796"></a>
@@ -351,6 +351,53 @@
      R1  Delisle/Keyser       def.  Matta/Stratakos      83
 ~~~
 
+<a name="21-90248"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  5th Annual REDBIRD INVITATIONAL
+  Dates: Oct 8-10, 2021
+  Host: Illinois State University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles Friday
+  > Main
+     32  Carlin/Brandon       def.  Clegg/Sonesson Lidh… 81
+     32  Huck/Minsaas         def.  Strandberg/Tacconni  87
+     32  Herrera/Cuchran      def.  Batchelor/Reynolds   87
+     32  Behun/Alvarez        def.  Khalafallah/Tennison 85
+     32  Fukushima/Ortis      def.  Staff/Ecarma         82
+     32  Nguyen/Schwebel      def.  Moser/Sirinit        84
+     32  Kyrillou/Wallace     def.  Kohrs/Rasmusson      84
+     32  Matic/Sardo          def.  Balthazor/Jauch      83
+     32  Gitschel/Iaquinto    def.  Marri/Sadowski       84
+     32  Wazir/Kruzel         def.  Riera/Pilipovic-Klj… 84
+ > Doubles Saturday
+  > Main
+     32  Huck/Minsaas         def.  Clegg/Sonesson Lidh… 87
+     32  Herrera/Cuchran      def.  Behun/Alvarez        87
+     32  Strandberg/Tacconni  def.  Carlin/Brandon       87
+     32  Batchelor/Reynolds   def.  Khalafallah/Tennison 85
+     32  Fukushima/Ortis      def.  Nguyen/Schwebel      85
+     32  Matic/Sardo          def.  Kyrillou/Wallace     82
+     32  Moser/Sirinit        def.  Staff/Ecarma         83
+     32  Kohrs/Rasmusson      def.  Balthazor/Jauch      84
+     32  Wazir/Kruzel         def.  Gitschel/Iaquinto    81
+     32  Chang/Isaksson       def.  Pultz/Ulrich         80
+     32  Riera/Pilipovic-Klj… def.  Marri/Sadowski       85
+ > Doubles Sunday
+  > Main
+     32  Herrera/Cuchran      def.  Huck/Minsaas         86
+     32  Clegg/Sonesson Lidh… def.  Behun/Alvarez        87
+     32  Strandberg/Tacconni  def.  Batchelor/Reynolds   83
+     32  Khalafallah/Tennison def.  Carlin/Brandon       87
+     32  Matic/Sardo          def.  Fukushima/Ortis      85
+     32  Kyrillou/Wallace     def.  Nguyen/Schwebel      85
+     32  Kohrs/Rasmusson      def.  Moser/Sirinit        86
+     32  Staff/Ecarma         def.  Balthazor/Jauch      83
+     32  Chang/Isaksson       def.  Riera/Pilipovic-Klj… 81
+     32  Pultz/Ulrich         def.  Marri/Sadowski       81
+~~~
+
 <a name="21-11157"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════
@@ -409,6 +456,44 @@
  > Doubles Extra Matches
   > Main
       F     Savva/Sokolovskiy   def.     Guerrero Alvarez/Ta… 84
+~~~
+
+<a name="21-41768"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Clemson Hidden Duals
+  Dates: Oct 8-10, 2021
+  Host: Clemson University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Blue
+  > Main
+     16  Azuma/Whitaker       def.  Hernandez/Colas      76(4)
+     16  Giusca/Puscas        def.  Ramskogler/Tortora   63
+     16  Worst/Thomas-Smith   def.  Andre/Tiraspolsky    76(4)
+     16  Haskins/Vukovic      def.  Wilson/Ferreira      63
+     16  Marques Da Silva/He… def.  Fletchall/Saylor     76(5)
+     16  El Kadi/Longwe-Smit  def.  Singh/Rogers         61
+ > Red
+  > Main
+     QF  Andre/Tiraspolsky    def.  Giusca/Puscas        76(1)
+     QF  Smith/Azuma          def.  Haskins/Vukovic      64
+     QF  Fletchall/Saylor     def.  Labrador/Plans Gonz… 63
+     QF  Liu/Pitts            def.  Singh/Rogers         75
+ > Green
+  > Main
+     QF  Worst/Thomas-Smith   def.  Ramskogler/Tortora   62
+     QF  Hernandez/Colas      def.  Wilson/Marques Da S… 63
+     QF  El Kadi/Longwe-Smit  def.  Richey/Basavareddy   63
+ > Yellow
+  > Main
+     QF  Worst/Thomas-Smith   def.  Azuma/Whitaker       64
+     QF  Wilson/Marques Da S… def.  Pitts/Giusca         63
+     QF  Haskins/Vukovic      def.  Hernandez/Colas      62
+     QF  Fletchall/Saylor     def.  Ramskogler/Tortora   63
+ > Brown
+  > Main
+      F  Liu/Plans Gonzalez   def.  El Kadi/Longwe-Smit  62
 ~~~
 
 <a name="21-80207"></a>

@@ -12,6 +12,7 @@
 - 11/5/2021 - [Mean Green Invite](#21-18352) ([Results](#21-18352) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthTexasW/Tournaments/Overview/EF6FA1CB-A90F-4BA0-B5BD-1D5B642D3C48" target="_blank">Draws</a>)  
 - 11/5/2021 - [San Diego Veterans Tennis Classic](#21-91602) ([Results](#21-91602) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">Draws</a>)  
 - 11/5/2021 - [Southern Conference Men's & Women's Fall Tennis Championships](#21-32980) ([Results](#21-32980) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3BD3D9A3-1CE7-4BB9-93E6-7D1ECED07DFE" target="_blank">Draws</a>)  
+- 11/5/2021 - [Stetson Invite #2](#21-71023) ([Results](#21-71023) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Draws</a>)  
 - 11/5/2021 - [The Hurricane Invite](#21-37091) ([Results](#21-37091) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfTulsaW/Tournaments/Overview/9EC94FD0-CD14-417E-AF67-50993725A2A1" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
@@ -22,7 +23,6 @@
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/13357FE4-447E-4166-A5B8-AA4028AFC248" target="_blank">Ragin' Cajun Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SantaClaraUniversityW/Tournaments/Overview/BBE3EA3C-9201-43BE-AD2E-553A4B616F3C" target="_blank">SCU/SJSU Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonW/Tournaments/Overview/FE307133-DF38-4D97-8DE6-D59D765D1738" target="_blank">Seahawk Ocean Classic</a>  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Stetson Invite #2</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityAtBuffaloSUNYW/Tournaments/Overview/B0B719F8-A62E-4D29-A341-820B59C4A6C8" target="_blank">UB Fall Invite</a>  
 
 <a name="21-16081"></a>
@@ -149,7 +149,7 @@
   Host: Dartmouth College (W)
 ══════════════════════════════════════════════════════════════════════════
  Women's Open Singles
- > Draw
+ > Friday Singles
   > Main
      32  Nicole Conard        def.  Mirabelle Bretkelly  76(7) 76(2)
      32  Ujvala Jupalli       def.  Jamie Kim            62 62
@@ -160,7 +160,7 @@
      32  Lexi Dewire          def.  Kathy Wang           61 62
      32  Renata Farima        def.  Jackeline Lopez      75 62
      32  Tess Fisher          def.  Anna Napadiy         Walkover
-     32  Danielle Hack        def.  Daira Cardenas       67(4) 63 [0]
+     32  Danielle Hack        def.  Daira Cardenas       76(3) 36 [0]
      32  Thamonpan Jonglerta… def.  Minchae Kim          63 75
      32  Mariya Krasakova     def.  Kristiana Zahare     63 60
  > Saturday Singles
@@ -186,7 +186,7 @@
      32  Ashley Hess          def.  Anna Napadiy         64 57 [12]
      32  Chidimma Okpara      def.  Thamonpan Jonglerta… 64 76(4)
      32  Nicole Conard        def.  Renata Farima        62 57 [5]
-     32  Mariya Krasakova     def.  Katie Weber          62 76(4)
+     32  Mariya Krasakova     def.  Katie Weber          62 76(3)
      32  Kathy Wang           def.  Kristiana Zahare     62 57 [9]
      32  Mirabelle Bretkelly  def.  Daira Cardenas       64 60
      32  Caroline Dunleavy    def.  Jackeline Lopez      62 75
@@ -231,6 +231,18 @@
      32  Angelica Ross    def.  Colby Kelley     62 63
      32  Iuliia Dmitrieva def.  Justine Linscott 60 61
      32  Anika Tylek      def.  Yana Gaskell     60 61
+ > Sunday
+  > Main
+     32  Erika Dimitriev  def.  Mayya Perova     63 46 60
+     32  Diana Lukyanova  def.  Nikki Milner     75 63
+     32  Anastasia Rakita def.  Iva Stejskalova  46 62 62
+     32  Reagan Welch     def.  Anika Tylek      62 63
+     32  Christy Robinson def.  Giorgia Cavestro 62 63
+     32  Ines Stephani    def.  Ines Absisan     61 60
+     32  Daria Walczak    def.  Addison Miller   75 64
+     32  Mille Haagensen  def.  Alexia Di Giulio 60 61
+     32  Jyun-Yi Lee      def.  Lillian Tiemeyer 60 62
+     32  Kelsey Neville   def.  Justine Linscott 60 60
 ~~~
 
 <a name="21-51873"></a>
@@ -298,7 +310,7 @@
  Women's Open Singles
  > Red
   > Main
-      F     Yolanda Lin           vs      Rimona Rouf          Sun @ 11:00
+      F     Yolanda Lin          def.     Rimona Rouf          67(4) 64 [8]
      SF     Yolanda Lin          def.     Andrea Cuquerella    46 76(4) [6]
      SF     Rimona Rouf          def.     Caroline Wernli      61 62
      QF     Yolanda Lin          def. (1) Aleksandra Dimitrij… 61 62
@@ -313,11 +325,12 @@
      16     Caroline Wernli      def.     Saffron Dowse        61 62
      16     Rimona Rouf          def. (2) Ashley Chang         76(4) 64
   > Consolation
+     QQ     Alex Arkhipov        def.     Andrea Redondo       64 46 [4]
      QQ     Kenzington Mann      def.     Aili Hietala         Walkover
      QQ     Saffron Dowse        def.     Claudia Reguant      Walkover
  > Green
   > Main
-      F     Maria Villarejo       vs      Luna Urso            Sun @ 08:00
+      F     Maria Villarejo      def.     Luna Urso            63 67(6) [7]
      SF     Maria Villarejo      def.     Rosie Sterk          64 61
      SF     Luna Urso            def.     Jana Tanevska        75 75
      QF     Maria Villarejo      def. (1) Mia Ljubas           64 67(5) [6]
@@ -330,7 +343,7 @@
      16     Jana Tanevska        def.     Jayanne Palma        63 60
  > Blue
   > Main
-      F (1) Iva Zelic             vs      Catherine Broerman   Sun @ 11:00
+      F (1) Iva Zelic            def.     Catherine Broerman   64 36 [6]
      SF (1) Iva Zelic            def.     Adrianna Sosnowska   46 63 [7]
      SF     Catherine Broerman   def.     Sally Pethybridge    76(3) 62
      QF (1) Iva Zelic            def.     Hikaru Sato          64 06 [6]
@@ -350,7 +363,7 @@
      QQ     Grace Haugen         def.     Melissa Huchet       63 67(5) [7]
  > Purple
   > Main
-      F (1) Zoey Weil             vs      Kianna Oda           Sun @ 11:00
+      F (1) Zoey Weil            def.     Kianna Oda           63 76(6)
      SF (1) Zoey Weil            def.     Katherine Jhang      61 62
      SF     Kianna Oda           def. (2) Tara Chilton         16 64 [8]
      QF (1) Zoey Weil            def.     Allison Mulville     62 63
@@ -370,6 +383,23 @@
      QQ     Jj Chen              def.     Olivia Oosterbaan    Walkover
      QQ     Marija Elenova       def.     Lauren Dunlap        60 62
      QQ     Isabella Foshee      def.     Felicia Jayasaputra  64 61
+ > Extra Matches
+  > Main
+     16     Freia Lawrence       def.     Katherine Jhang      62 61
+     16     Kelly Leung          def.     Jazmin Lerman        75 60
+     16     Luna Urso            def.     Annika Alcon         62 62
+     16     Neli Sunjic          def.     Lola O Lideadha      46 64 [9]
+     16     Ashley Chang         def.     Saffron Dowse        62 63
+     16     Megan Lang Gould     def.     Jj Chen              64 64
+     16     Nicole Horacek       def.     Adriene Pavek        64 64
+     16     Hikaru Sato          def.     Jayanne Palma        60 64
+     16     Frederikke Svarre L… def.     Jazmin Lerman        63 61
+     16     Neli Sunjic          def.     Kelly Leung          26 63 [5]
+     16     Marija Elenova       def.     Freia Lawrence       62 62
+     16     Tiegan Aitken        def.     Mia Ljubas           46 63 [5]
+     16     Lauren Dunlap        def.     Annika Alcon         63 61
+     16     Maria Goheen         def.     Aleksandra Dimitrij… 75 62
+     16     Adrianna Sosnowska   def.     Rosie Sterk          62 61
 ~~~
 
 <a name="21-38622"></a>
@@ -441,7 +471,7 @@
  Women's Open Singles
  > Draw
   > Main
-      F (1) Shiori Fukuda         vs  (2) Savannah Broadus     Sun @ 12:00
+      F (1) Shiori Fukuda        def. (2) Savannah Broadus     62 61
      SF (1) Shiori Fukuda        def. (3) Vanessa Wong         61 64
      SF (2) Savannah Broadus     def. (7) Anastasia Iamachkine 63 76(4)
      QF (1) Shiori Fukuda        def. (5) Astrid Olsen         64 63
@@ -637,25 +667,25 @@
      32  Shivani Manjanna     def.  Likhitha Kalava    46 75 [3]
  > Round 5
   > Main
-     32  Gabriela Davidescu    vs   Alexandra Almborg  Sun @ 10:45
-     32  Yelizaveta Karlova    vs   Esther Lovato      Sun @ 10:45
-     32  Nina Sorkin           vs   Willa Rogers       Sun @ 10:45
-     32  Anja Draskovic        vs   Maretha Burger     Sun @ 10:45
-     32  Shivani Manjanna      vs   Veronika Lebisova  Sun @ 10:45
-     32  Lina Sachica          vs   Micaela Ode Mitre  Sun @ 10:45
-     32  Elena DiBattista      vs   Eloise Saraty      Sun @ 10:45
-     32  Kathleen Percegona    vs   Elsa Kirch         Sun @ 10:45
-     32  Laura Schmitz         vs   Bruna Sampaio      Sun @ 10:45
-     32  Thassane Abrahim      vs   Nika Novikova      Sun @ 11:45
-     32  Eve Daniels           vs   Ioana Dumitrescu   Sun @ 11:45
+     32  Gabriela Davidescu   def.  Alexandra Almborg  57 61 61
+     32  Esther Lovato        def.  Yelizaveta Karlova 63 61
+     32  Nina Sorkin          def.  Willa Rogers       75 63
+     32  Maretha Burger       def.  Anja Draskovic     60 Ret.
+     32  Veronika Lebisova    def.  Shivani Manjanna   36 75 [4]
+     32  Micaela Ode Mitre    def.  Lina Sachica       60 60
+     32  Elena DiBattista     def.  Eloise Saraty      62 61
+     32  Kathleen Percegona   def.  Elsa Kirch         63 57 64
+     32  Laura Schmitz        def.  Bruna Sampaio      26 62 64
+     32  Thassane Abrahim     def.  Nika Novikova      64 62
+     32  Eve Daniels          def.  Ioana Dumitrescu   62 36 64
  > Round 6
   > Main
-     16  Saki Oyama            vs   Tara Gorinsek      Sun @ 14:45
-     16  Liisa Vehvilainen     vs   Momoka Horiguchi   Sun @ 14:45
-     16  Maria Ponomareva      vs   Ana Paula Jimenez  Sun @ 14:45
-     16  Lucie Devier          vs   Sarina Reinertsen  Sun @ 14:45
-     16  Kexuan Zhou           vs   Liz Chileno        Sun @ 14:45
-     16  Likhitha Kalava       vs   Carla Pons         Sun @ 14:45
+     16  Saki Oyama           def.  Tara Gorinsek      64 60
+     16  Liisa Vehvilainen    def.  Momoka Horiguchi   64 60
+     16  Maria Ponomareva     def.  Ana Paula Jimenez  64 57 76(6)
+     16  Lucie Devier         def.  Sarina Reinertsen  61 36 64
+     16  Kexuan Zhou          def.  Liz Chileno        36 64 60
+     16  Carla Pons           def.  Likhitha Kalava    64 75
 ~~~
 
 <a name="21-91602"></a>
@@ -676,6 +706,26 @@
      16  Cecile Morin         def.  Kacey Moore       75 61
      16  Alexandria Von Ters… def.  Katreina Corpuz   62 62
      16  Agustina Rimoldi Go… def.  Meghana Komarraju 75 62
+ > Women's Singles Purple Draw
+  > Main
+     16  Jessi Muljat         def.  Kacey Moore       62 61
+     16  Jillian Taggart      def.  Anthea Weiland    60 36 64
+     16  Katreina Corpuz      def.  Liza Hinrichs     61 62
+     16  Meghana Komarraju    def.  Milana Hrudka     62 62
+     16  Regina Pitts         def.  Adriana Tabares   60 63
+     16  Cecile Morin         def.  Ania Snissarenko  60 60
+     16  Alexandria Von Ters… def.  Julianna Sabile   61 60
+     16  Agustina Rimoldi Go… def.  Rachel Wagner     64 63
+ > Women's Singles Blue Draw
+  > Main
+     16  Jillian Taggart      def.  Adriana Tabares   63 62
+     16  Kacey Moore          def.  Ania Snissarenko  61 61
+     16  Katreina Corpuz      def.  Julianna Sabile   61 61
+     16  Meghana Komarraju    def.  Rachel Wagner     60 36 64
+     16  Regina Pitts         def.  Jessi Muljat      64 64
+     16  Cecile Morin         def.  Anthea Weiland    62 60
+     16  Alexandria Von Ters… def.  Liza Hinrichs     61 60
+     16  Agustina Rimoldi Go… def.  Milana Hrudka     60 60
 ~~~
 
 <a name="21-32980"></a>
@@ -701,7 +751,6 @@
      16 (3) Nicole Abel      def.     Ansley Hardeman   62 64
      16     Georgia Fischer  def.     Callie Billman    63 61
   > West
-      F     Emma van Hee      vs      Callie Billman    Sun @ 12:00
      SF     Emma van Hee     def.     Emma Sorensen     26 63 62
      SF     Callie Billman   def.     Lekha Varudandi   64 62
      QF     Lekha Varudandi  def.     Ansley Hardeman   61 46 64
@@ -735,13 +784,112 @@
      SF     Emely Kahrs      def.     Kristin Yordanova 76(3) 46 76(2)
      QF     Ellie Schulson   def.     Brianna Wilbur    63 61
   > North
-      F     Coco Bosman       vs  (3) Caroline Gibbens  Sun @ 10:30
      SF     Coco Bosman      def.     Ashley Popham     62 62
      SF (3) Caroline Gibbens def. (2) Lilie Steryous    60 36 61
   > 3-4 Playoff
       F     Ilayda Baykan    def. (4) Naya Tillitt      63 61
   > Northwest
       F (2) Lilie Steryous   def.     Ashley Popham     76(1) 60
+~~~
+
+<a name="21-71023"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Stetson Invite #2
+  Dates: Nov 5-7, 2021
+  Host: Stetson University (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > 1
+  > Main
+     F  Lee Barnard          def.  Anais Gabriel        63 64
+ > 2
+  > Main
+     F  Rachel Harden        def.  Muskan Gupta         41 04 [3]
+ > 3
+  > Main
+     F  Haleigh Porter       def.  Laetitia Rizk        42 35 [6]
+ > 4
+  > Main
+     F  Love-Star Alexis     def.  Elodie Foster        57 63 [7]
+ > 5
+  > Main
+     F  Tess Menten          def.  Lilly-Sophie Schmidt 61 62
+ > 6
+  > Main
+     F  Noa Cohen            def.  Aylen Hubeaut        41 42
+ > 7
+  > Main
+     F  Noa Cohen            def.  Muskan Gupta         61 64
+ > 8
+  > Main
+     F  Rachel Harden        def.  Laia Pasini          14 53 [3]
+ > 9
+  > Main
+     F  Anna Dovgopolyi      def.  Adrienne Clayton     42 40
+ > 10
+  > Main
+     F  Claudia Sumaia       def.  Anna Dovgopolyi      42 24 [6]
+ > 11
+  > Main
+     F  Lee Barnard          def.  Aylen Hubeaut        41 41
+ > 12
+  > Main
+     F  Love-Star Alexis     def.  Adrienne Clayton     41 40
+ > 13
+  > Main
+     F  Lilly-Sophie Schmidt def.  Susan Salinas        40 40
+ > 14
+  > Main
+     F  Tess Menten          def.  Claudia Sumaia       41 41
+ > 15
+  > Main
+     F  Lee Barnard          def.  Olivia Talbert       53 40
+ > 16
+  > Main
+     F  Aylen Hubeaut        def.  Ann Spurka           61
+ > 17
+  > Main
+     F  Anais Gabriel        def.  Ann Spurka           42 40
+ > 18
+  > Main
+     F  Noa Cohen            def.  Nicole Gasser        40 40
+ > 19
+  > Main
+     F  Alanna Di Francesco  def.  Nicole Gasser        60
+ > 20
+  > Main
+     F  Alanna Di Francesco  def.  Love-Star Alexis     24 42 [1]
+ > 21
+  > Main
+     F  Haleigh Porter       def.  Zoe Klapman          64
+ > 22
+  > Main
+     F  Lilly-Sophie Schmidt def.  Daliyah Hammoud      42 42
+ > 23
+  > Main
+     F  Elodie Foster        def.  Zoe Klapman          41 04 [6]
+ > 24
+  > Main
+     F  Adrienne Clayton     def.  Lenien Jamir         64
+ > 25
+  > Main
+     F  Laia Pasini          def.  Lenien Jamir         63 62
+ > 26
+  > Main
+     F  Lauren Landstrom     def.  Susan Salinas        60
+ > 27
+  > Main
+     F  Tess Menten          def.  Lauren Landstrom     41 41
+ > 28
+  > Main
+     F  Claudia Sumaia       def.  Jordyn Pax           63
+ > 29
+  > Main
+     F  Anna Dovgopolyi      def.  Jordyn Pax           42 43
+ > 30
+  > Main
+     F  Laetitia Rizk        def.  Sydney DeNardo       40 40
 ~~~
 
 <a name="21-37091"></a>

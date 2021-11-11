@@ -4,8 +4,10 @@
 - 11/5/2021 - [Big 12 Individuals](#21-20291) ([Results](#21-20291) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityM/Tournaments/Overview/E0ED1E84-1CD4-4CE2-BFCD-F695030458D5" target="_blank">Draws</a>)  
 - 11/4/2021 - [Big Ten Indoors](#21-98150) ([Results](#21-98150) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/DD67ADCD-C4E7-4314-A846-4FCDAD89FABC" target="_blank">Draws</a>)  
 - 11/5/2021 - [FGCU Collegiate Open](#21-07533) ([Results](#21-07533) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaGulfCoastUniversityM/Tournaments/Overview/C591B082-DA9F-4F69-A567-2A370930F114" target="_blank">Draws</a>)  
+- 11/5/2021 - [GT Invitational](#21-32736) ([Results](#21-32736) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaTechM/Tournaments/Overview/E04A8772-9C21-4B5A-B6E0-55C939AC5A86" target="_blank">Draws</a>)  
 - 11/4/2021 - [ITA National Fall Championships](#21-38622) ([Results](#21-38622) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3C0D3BF7-1EA0-4314-9798-02FE691DD86E" target="_blank">Draws</a>)  
 - 11/5/2021 - [Jack Kramer Invitational](#21-11431) ([Results](#21-11431) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/EBFDB9EE-65DF-40EA-8395-B821B7EA07B0" target="_blank">Draws</a>)  
+- 11/5/2021 - [MAC Invite](#21-92934) ([Results](#21-92934) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/904B03DF-C1F9-40F4-BE7B-ACF330F850AB" target="_blank">Draws</a>)  
 - 11/5/2021 - [Pacific Invitational](#21-54445) ([Results](#21-54445) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfThePacificM/Tournaments/Overview/32DAC0A6-A705-4382-880F-230A39E21F42" target="_blank">Draws</a>)  
 - 11/5/2021 - [Ralston/Neufeld Coaches Challenge](#21-70244) ([Results](#21-70244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivM/Tournaments/Overview/4DFFAD56-EAA9-4394-8451-1B5126D73B7A" target="_blank">Draws</a>)  
 - 11/5/2021 - [San Diego Veterans Tennis Classic](#21-91602) ([Results](#21-91602) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">Draws</a>)  
@@ -15,8 +17,8 @@
 - 11/6/2021 - [Buccaneers Invitational](#21-92061) ([Results](#21-92061) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BarryUniversityM/Tournaments/Overview/66BDBB63-461D-4097-ACA4-DB44D0B1C672" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaTechM/Tournaments/Overview/E04A8772-9C21-4B5A-B6E0-55C939AC5A86" target="_blank">GT Invitational</a>  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/904B03DF-C1F9-40F4-BE7B-ACF330F850AB" target="_blank">MAC Invite</a>  
+- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/22A40DEC-6CB7-4C7E-841A-7CC786AEE57F" target="_blank">Clemson Hidden Duals</a>  
+- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/A51E4801-DD54-4C66-A187-7820D7D7ACAF" target="_blank">Liberty Dual</a>  
 
 <a name="21-20291"></a>
 ~~~
@@ -81,6 +83,7 @@
      32  Suzanne/Sachdev      def.  Bengtsson/Goli       60
      32  Pickens/Nordby       def.  Williams/Matsuno     63
   > West
+      F  Thieneman/Blekher    def.  Williams/Matsuno     64
      SF  Thieneman/Blekher    def.  Mukherjee/Portnoy    64
      SF  Williams/Matsuno     def.  Nuzhny/Popovic       76(3)
      QF  Thieneman/Blekher    def.  Crocker/Sheldon      61
@@ -89,7 +92,7 @@
      QF  Williams/Matsuno     def.  Bengtsson/Goli       63
      16  Thieneman/Blekher    def.  Welch/Morgan         61
   > North
-      F  Baylis/Gates         def.  Pickens/Nordby       64
+      F  Pickens/Nordby       def.  Baylis/Gates         64
      SF  Baylis/Gates         def.  Kenyatte/Montsi      75
      SF  Pickens/Nordby       def.  Meister/Petrov       63
      QF  Kenyatte/Montsi      def.  Hietaranta/Maruyama  61
@@ -97,7 +100,6 @@
      QF  Meister/Petrov       def.  Saylor/Singh         63
      QF  Pickens/Nordby       def.  Suzanne/Sachdev      61
   > Northeast
-     SF  Soha/Vile            def.  Pratt/Parts          63
      SF  Forman/Spear         def.  Andre/Haskins        62
   > Southwest
      SF  Crocker/Sheldon      def.  Basavareddy/Rogers   64
@@ -141,6 +143,37 @@
      16  Johnson/Damm       def.  Bilsey/Malkowski     64
      16  Oncins/Wilson      def.  Corsillo/Vashistha   76(3)
      16  Stefanacci/Maciel  def.  Ho/Halpin            63
+~~~
+
+<a name="21-32736"></a>
+~~~
+════════════════════════════════════════════════════════════
+  GT Invitational
+  Dates: Nov 5-7, 2021
+  Host: Georgia Tech (M)
+════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Friday, November 5
+  > Main
+     16  Schelcher/Chopra   def.  Broska/Ramskogler 75
+     16  Tortora/Malesevic  def.  Dong/Guerrero     63
+     16  Engelhardt/Cadonau def.  Hernandez/Colas   63
+     16  Stearns/Lithen     def.  Maughan/Padilha   64
+ > Friday, November 5 add'l
+  > Main
+      F  Dong/Guerrero      def.  Lazo/Tymes        64
+ > Saturday November 6
+  > Main
+     QF  Engelhardt/Cadonau def.  Lazo/Tymes        63
+     QF  Broska/Ramskogler  def.  Stearns/Lithen    62
+     QF  Maughan/Padilha    def.  Tortora/Malesevic 62
+     QF  Dong/Guerrero      def.  Hernandez/Colas   76(1)
+ > Sunday November 7
+  > Main
+     QF  Engelhardt/Cadonau def.  Maughan/Padilha   63
+     QF  Broska/Ramskogler  def.  Dong/Guerrero     63
+     QF  Tortora/Malesevic  def.  Stearns/Lithen    76(4)
+     QF  Lazo/Tymes         def.  Hernandez/Colas   62
 ~~~
 
 <a name="21-38622"></a>
@@ -215,7 +248,7 @@
       F (1) Vandecasteele/Charl… def. (2) Malbasic/Hassey      84
      SF (1) Vandecasteele/Charl… def.     Carlsson Halldin/Su… 83
      SF (2) Malbasic/Hassey      def.     Fradkin/Wild         82
-     QF (1) Vandecasteele/Charl… def.     Brady/Masjuan        86
+     QF (1) Vandecasteele/Charl… def.     Brady/Masjuan        98(7)
      QF     Carlsson Halldin/Su… def.     Lee/Hovenier         84
      QF     Fradkin/Wild         def.     Barretto/Jackson     Walkover
      QF (2) Malbasic/Hassey      def.     Tsorotiotis/Brunkow  81
@@ -224,6 +257,62 @@
      16     Carlsson Halldin/Su… def.     Stater/Schaber       86
      16     Fradkin/Wild         def.     Castro/Tyler         86
      16     Tsorotiotis/Brunkow  def.     Klov-Nilsson/Vandec… 84
+~~~
+
+<a name="21-92934"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  MAC Invite
+  Dates: Nov 5-7, 2021
+  Host: Western Michigan University (M)
+═══════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight 1
+  > East
+     SF  Schlueter/Kuszynski def.  Malinen/Spolidorio   87(4)
+     SF  Arzhankin/Lohse     def.  Verma/Pergel         86
+     QF  Schlueter/Kuszynski def.  Kovacevic/de Negri   86
+     QF  Malinen/Spolidorio  def.  Tang/Wibler          82
+     QF  Verma/Pergel        def.  Ortega/Valentinsson  87(5)
+     QF  Arzhankin/Lohse     def.  Sornlaksup/Shoults   83
+  > West
+      F  Sornlaksup/Shoults  def.  Kovacevic/de Negri   87(5)
+     SF  Kovacevic/de Negri  def.  Tang/Wibler          85
+     SF  Sornlaksup/Shoults  def.  Ortega/Valentinsson  85
+  > South
+      F  Ortega/Valentinsson def.  Tang/Wibler          87(5)
+ > Flight 2
+  > East
+      F  Koschtojan/Vollbach def.  Adams/Orlando        86
+     SF  Adams/Orlando       def.  George/Pierce        86
+     SF  Koschtojan/Vollbach def.  Simmons/Webster      85
+     QF  George/Pierce       def.  Kovac/Szczesny       87(4)
+     QF  Adams/Orlando       def.  Srivastava/Weekes    83
+     QF  Koschtojan/Vollbach def.  Macnamara/Snaiders   85
+     QF  Simmons/Webster     def.  Caballer/Honnappa    86
+  > West
+      F  Macnamara/Snaiders  def.  Kovac/Szczesny       84
+     SF  Kovac/Szczesny      def.  Srivastava/Weekes    86
+     SF  Macnamara/Snaiders  def.  Caballer/Honnappa    85
+  > 3-4 Playoff
+      F  George/Pierce       def.  Simmons/Webster      84
+  > South
+      F  Srivastava/Weekes   def.  Caballer/Honnappa    83
+ > Round 3 Doubles
+  > Main
+     SF  Malinen/Spolidorio  def.  Arzhankin/Lohse      85
+     SF  Verma/Pergel        def.  Schlueter/Kuszynski  83
+ > Flight 3
+  > East
+      F  Boone/Wetoszka      def.  Herran/Wojtalik      85
+     SF  Boone/Wetoszka      def.  Ben Ari/Crawford     86
+     SF  Herran/Wojtalik     def.  Hasting/Owen         86
+     QF  Ben Ari/Crawford    def.  Krefting/VanDonslear 87(3)
+     QF  Hasting/Owen        def.  Galic/Meluta         86
+  > West
+      F  Galic/Meluta        def.  Krefting/VanDonslear 86
+  > 3-4 Playoff
+      F  Hasting/Owen        def.  Ben Ari/Crawford     83
 ~~~
 
 <a name="21-54445"></a>
@@ -238,46 +327,57 @@
   > Main
      R5  Saini/Alam         def.  Watt/Ramos         62
      R5  Davis/Wong         def.  Dalmasso/Neuhaus   64
-     R5  Davis/Volgin       def.  Fonseca/Weststrate 76(5)
+     R5  Davis/Volgin       def.  Inno/Keyser        76(5)
+     R4  Watt/Ramos         def.  Davis/Wong         75
      R4  Dalmasso/Neuhaus   def.  Davis/Volgin       63
-     R4  Fonseca/Weststrate def.  Saini/Alam         64
+     R4  Inno/Keyser        def.  Saini/Alam         64
      R2  Davis/Wong         def.  Davis/Volgin       64
      R2  Dalmasso/Neuhaus   def.  Saini/Alam         76(2)
-     R2  Watt/Ramos         def.  Fonseca/Weststrate 63
+     R2  Watt/Ramos         def.  Inno/Keyser        63
+     R1  Watt/Ramos         def.  Davis/Volgin       63
      R1  Davis/Wong         def.  Saini/Alam         64
+     R1  Inno/Keyser        def.  Dalmasso/Neuhaus   63
  > Doubles 2
   > Main
+     R5  Fonseca/Weststrate def.  Shah/Bell          63
+     R5  Lumsden/Suko       def.  Divkovic/Potts     62
      R4  Shah/Bell          def.  Amar/Park          61
      R4  Lumsden/Suko       def.  Torres/Morgan      61
-     R4  Divkovic/Potts     def.  Inno/Keyser        62
+     R4  Divkovic/Potts     def.  Fonseca/Weststrate 62
      R3  Shah/Bell          def.  Torres/Morgan      76(5)
      R3  Amar/Park          def.  Divkovic/Potts     62
      R2  Amar/Park          def.  Lumsden/Suko       62
-     R2  Inno/Keyser        def.  Torres/Morgan      62
+     R2  Fonseca/Weststrate def.  Torres/Morgan      62
      R1  Shah/Bell          def.  Lumsden/Suko       75
-     R1  Amar/Park          def.  Inno/Keyser        64
+     R1  Amar/Park          def.  Fonseca/Weststrate 64
+     R1  Torres/Morgan      def.  Divkovic/Potts     63
  > Doubles 3
   > Main
      R5  Pulliam/Yamaguchi  def.  Puttergill/McCaig  64
+     R5  Necz/Brinkman      def.  Ali/Rodriguez      61
      R5  Reckow/Rincon      def.  Hootman/Pham       61
      R4  Pulliam/Yamaguchi  def.  Necz/Brinkman      62
      R4  Puttergill/McCaig  def.  Hootman/Pham       75
      R3  Puttergill/McCaig  def.  Reckow/Rincon      75
      R3  Pulliam/Yamaguchi  def.  Ali/Rodriguez      61
+     R3  Necz/Brinkman      def.  Hootman/Pham       62
+     R2  Reckow/Rincon      def.  Necz/Brinkman      62
      R2  Ali/Rodriguez      def.  Puttergill/McCaig  75
+     R1  Pulliam/Yamaguchi  def.  Reckow/Rincon      76(8)
+     R1  Ali/Rodriguez      def.  Hootman/Pham       76(1)
 ~~~
 
 <a name="21-70244"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Ralston/Neufeld Coaches Challenge
   Dates: Nov 5-7, 2021
   Host: Southern Methodist Univ. (M)
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
-      F  Sillman/Zisette       vs   Redelijk/Stafford    Sun @ 09:00
+      F  Sillman/Zisette      def.  Redelijk/Stafford    76(5)
      SF  Sillman/Zisette      def.  Andrei/Scharfenberg  76(5)
      SF  Redelijk/Stafford    def.  Bradshaw/Ford        76(4)
      QF  Sillman/Zisette      def.  Abbey/Muniz          63
@@ -285,7 +385,6 @@
      QF  Bradshaw/Ford        def.  Siqueira-Girondi/Fl… 62
      QF  Redelijk/Stafford    def.  Garcia-Arrabal/Simo… 63
   > Consolation
-      F  Neumaier/Schwieger    vs   Garcia-Arrabal/Simo… Sun @ 09:00
      SQ  Neumaier/Schwieger   def.  Abbey/Muniz          64
      SQ  Garcia-Arrabal/Simo… def.  Siqueira-Girondi/Fl… 62
 ~~~
@@ -310,15 +409,21 @@
      QF  Scemanenco/Auffray def.  Niranjan/Sharrma   75
      QF  Segraves/Thompson  def.  Cole/Rodriguez     76(5)
      QF  Garner/Dabek       def.  Devineni/Silberman 63
+ > Blue Draw
+  > Main
+     QF  Davies/Kasday      def.  Cole/Rodriguez     62
+     QF  Niranjan/Sharrma   def.  Devineni/Silberman 60
+     QF  Garner/Dabek       def.  Rikkonen/Blair     63
+     QF  Segraves/Thompson  def.  Scemanenco/Auffray 63
 ~~~
 
 <a name="21-32980"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   Southern Conference Men's & Women's Fall Tennis Championships
   Dates: Nov 5-7, 2021
   Host: ITA
-════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > East
@@ -335,7 +440,6 @@
      16     Bencrdic/Shoemake def.     Knapp/Zuckerman   64
      16     Graham/Young      def.     Koliev/Macleod    75
   > West
-      F (4) Grewe/Rogowski     vs      Koliev/Macleod    Sun @ 09:00
      SF (4) Grewe/Rogowski    def.     Darby/Kamienicki  62
      SF     Koliev/Macleod    def.     Knapp/Zuckerman   62
      QF (4) Grewe/Rogowski    def.     Nash/Nevenhoven   76(21)
@@ -345,10 +449,6 @@
      SF     Graham/Young      def. (3) Ray/Horn          62
   > 3-4 Playoff
       F     Bencrdic/Shoemake def. (1) Endler/Fullett    Walkover
-  > Southwest
-      F     Darby/Kamienicki   vs      Knapp/Zuckerman   Sun @ 09:00
-  > Northwest
-      F     Barrow/Flynn       vs  (3) Ray/Horn          Sun @ 09:00
 ~~~
 
 <a name="21-91916"></a>
@@ -406,6 +506,8 @@
       F     Dun/Roumpis          def.     Ozzor/Thiergard      64
      SF     Dun/Roumpis          def.     Gongora/Pinzon       64
      SF     Ozzor/Thiergard      def.     Aaldering/Suk        61
+  > 3-4 Playoff
+      F     Queiroz/Zipay        def.     Erwin/Warning        62
   > South
       F     Aaldering/Suk        def.     Gongora/Pinzon       64
  > A1 Doubles
@@ -484,6 +586,21 @@
      32  Motlagh/Campbell     def.  Feldman/Komatineni   62
      32  Eedara/Fung          def.  Morkel/Schlesinger   76(3)
      32  Gore/Hodges          def.  Vassel/Jayasundera   63
+~~~
+
+<a name="21-92061"></a>
+~~~
+═══════════════════════════════════════════════════════
+  Buccaneers Invitational
+  Dates: Nov 6-7, 2021
+  Host: Barry University (M)
+═══════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > Main
+     SF  Ortega/Ibanez def.  Zick/Simkiss       76(6)
+     QF  Zick/Simkiss  def.  Feggi/Hertweck     64
+     QF  Ortega/Ibanez def.  Del Granado/Lemken 76(6)
 ~~~
 
 Return to the [Top](./men_doubles_2144.md) &#124; [Home Page](../../index.md)

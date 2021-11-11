@@ -8,15 +8,15 @@
 - 10/22/2021 - [ITA Division I Men's Northwest Super Regional Championship](#21-64957) ([Results](#21-64957) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonM/Tournaments/Overview/FCD50A53-E765-4641-A4EF-4F8678B573CA" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
+- 10/28/2021 - [64th Annual Southern California Intercollegiate Championships](#21-75985) ([Results](#21-75985) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">Draws</a>)  
 - 10/29/2021 - [Crimson Halloween Invite](#21-48385) ([Results](#21-48385) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Draws</a>)  
+- 10/29/2021 - [Gamecock Scramble](#21-06171) ([Results](#21-06171) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
 - 10/29/2021 - [Rice Fall Challenge](#21-45244) ([Results](#21-45244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityM/Tournaments/Overview/014D4049-2DA7-4F05-A176-8C88B48C0A0E" target="_blank">Draws</a>)  
 - 10/29/2021 - [Virginia Tech Halloween Clash](#21-26801) ([Results](#21-26801) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Draws</a>)  
 - 10/29/2021 - [Saint Leo Hidden Duals - Men](#21-17543) ([Results](#21-17543) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">64th Annual Southern California Intercollegiate Championships</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Gamecock Scramble</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Seahawk Team Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
@@ -690,6 +690,15 @@
      16     Mann Shah            def.     Jack Pulliam         62 63
      16     Issa Yoshida         def.     Phuc Huynh           46 75 [10]
      16     Arthur Neuhaus       def.     Tomas Kopczynski     61 64
+ > Sunday Extra Matches
+  > Main
+     SF     Guillaume Dalmasso   def.     Jack Pulliam         63 64
+     SF     Jesper Klov-Nilsson  def.     Nitzan Ricklis       64 76(5)
+ > Extra Matches
+  > Main
+     SF     Oscar Brown          def.     Boris Reckow         64 63
+     QF     Boris Reckow         def.     Jack Pulliam         64 76(8)
+     QF     Ori Maior            def.     Leo Hibi             63 75
 ~~~
 
 <a name="21-64282"></a>
@@ -1040,6 +1049,81 @@
   Dates: Oct 28-31, 2021
   Host: ITA
 ════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Main Draw
+  > Main
+      F (2) Ryder Jackson        def. (5) Phillip Jordan       63 62
+     SF (5) Phillip Jordan       def. (4) Liam Krall           64 67(4) 75
+     SF (2) Ryder Jackson        def.     Issa Yoshida         60 63
+     QF (5) Phillip Jordan       def. (1) Sema Pankin          63 46 75
+     QF (4) Liam Krall           def.     David Norfeldt       63 75
+     QF     Issa Yoshida         def.     Will Davies          64 75
+     QF (2) Ryder Jackson        def. (6) Stefan Leustian      46 60 75
+     16 (1) Sema Pankin          def.     Leyton Bohren        63 60
+     16 (5) Phillip Jordan       def.     Stanislas De Samuce… 64 61
+     16 (4) Liam Krall           def.     Jeffrey Fradkin      64 26 64
+     16     David Norfeldt       def. (7) Julian Steinhausen   62 75
+     16     Will Davies          def.     Josh Williams        63 61
+     16     Issa Yoshida         def.     Yassine Smiej        64 62
+     16 (6) Stefan Leustian      def.     Leo Hibi             64 62
+     16 (2) Ryder Jackson        def.     Caleb Wilkins        62 60
+     32 (1) Sema Pankin          def.     Tomas Gomez Gomez    62 61
+     32     Leyton Bohren        def.     Blaine Hovenier      67(7) 62 63
+     32 (5) Phillip Jordan       def.     Barnaby Thorold      62 63
+     32     Stanislas De Samuce… def.     Huntley Allen        64 62
+     32 (4) Liam Krall           def.     Paul Barretto        62 67(3) 64
+     32     Jeffrey Fradkin      def.     Eleftherios Neos     63 60
+     32 (7) Julian Steinhausen   def.     Argote Mariano       63 60
+     32     David Norfeldt       def.     Adam Large           60 60
+     32     Josh Williams        def.     Sebastian Herrera    61 61
+     32     Will Davies          def. (8) Caleb Chakravarthi   61 57 76(5)
+     32     Yassine Smiej        def.     Loic Van Zeggelaar   75 64
+     32     Issa Yoshida         def. (3) Eric Hahn            61 46 63
+     32     Leo Hibi             def.     John Zisette         64 67(4) 62
+     32 (6) Stefan Leustian      def.     Younes Kodiji        62 61
+     32     Caleb Wilkins        def.     Grzegorz Rudnicki    57 63 62
+     32 (2) Ryder Jackson        def.     Alejandro Vedri-Cas… 63 63
+ > Round 1 Extra Matches
+  > Main
+     16     Ethan Smith          def.     Josh Blinder         57 63 [8]
+     16     Adrian Daoust        def.     Tommy Hays           64 76(6)
+     16     James Caddies        def.     Wyatt Anderson       63 62
+     16     Jan Simon            def.     Mac Caldwell         64 62
+     16     Danny Marsh          def.     Carlos Solorzano     76(5) 31 Ret.
+     16     Sofian Tayebi        def.     Julien Sanseverino   61 76(3)
+     16     Eric Hahn            def.     Diego Castillo       61 62
+ > Round 2 Extra Matches
+  > Main
+     16     Adrian Daoust        def.     Mac Caldwell         75 76(5)
+     16     Kyle Sillman         def.     Josh Blinder         67(4) 61 [3]
+     16     Leo Hibi             def.     Blaine Hovenier      62 62
+     16     John Zisette         def.     Mason Marks          60 62
+     16     Paul Barretto        def.     Eric Hahn            62 64
+ > Qualifying Draw
+  > Main
+     32     Blaine Hovenier      def.     Kameron DeHart       62 60
+     32     Argote Mariano       def.     Mason Marks          62 60
+     32     Younes Kodiji        def.     Diego Castillo       76(3) 61
+     32     Jeffrey Fradkin      def.     Kyle Sillman         63 62
+     32 (3) Sebastian Herrera    def.     Jiri Novak           36 75 Def.
+     32     Josh Williams        def.     Dylan Parsley        60 60
+     32     Tomas Gomez Gomez    def.     Sofian Tayebi        63 64
+     32     John Zisette         def.     Adrian Daoust        60 62
+     32     Caleb Wilkins        def.     Carlos Solorzano     36 61 [8]
+     32     Leo Hibi             def.     Jan Simon            61 75
+     32     Loic Van Zeggelaar   def.     Ethan Smith          64 64
+     32 (4) Adam Large           def.     Ryan Nuno            36 63 [8]
+     32     Leyton Bohren        def.     Mac Caldwell         62 62
+     32     Huntley Allen        def.     Wyatt Anderson       63 62
+     32     Grzegorz Rudnicki    def.     Julien Sanseverino   64 67(4) [11]
+     32     Barnaby Thorold      def.     Andy Hess            76(5) 76(1)
+     64     Argote Mariano       def.     Antonio Rosales Var… 62 44 Ret.
+     64     Jeffrey Fradkin      def.     Harrison Cohen       61 61
+     64     Jiri Novak           def.     Tommy Hays           62 62
+     64     Josh Williams        def.     James Caddies        76(6) 63
+     64     Adrian Daoust        def.     Henry Habib          61 61
+     64     Jan Simon            def.     Danny Marsh          60 75
+     64     Ryan Nuno            def.     Josh Blinder         60 61
 ~~~
 
 <a name="21-48385"></a>
@@ -1089,6 +1173,67 @@
      32  David Arkow      def.  Sam Feldman          76(6) 76(4)
      32  Brian Chong      def.  Johann Sajonz        26 64 63
      32  Matthew Mu       def.  Elisha Thornton      76(5) 67(1) [7]
+~~~
+
+<a name="21-06171"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Gamecock Scramble
+  Dates: Oct 29-31, 2021
+  Host: University Of South Carolina (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Day 1
+  > Main
+     32  Connor Thomson       def.  Richard Thongoana    63 60
+     32  Toby Samuel          def.  Andreja Petrovic     64 63
+     32  Raphael Lambling     def.  John Bernard         63 64
+     32  Jake Beasley         def.  Rahul Dhokia         63 63
+     32  Carter Morgan        def.  Bryn Nahrung         62 75
+     32  Anish Sriniketh      def.  Juan Sebastian Domi… 26 63 63
+     32  Kenner Taylor        def.  Nicholas McKinney    61 62
+     32  Raphael Perot        def.  Dusan Milanovic      63 64
+     32  Noah Schachter       def.  Taha Baadi           62 75
+     32  Filippo Moroni       def.  Pierce Rollins       67(3) 64 61
+     32  Siddhant Banthia     def.  Matthis Ross         62 62
+     32  Giulio Perego        def.  Juan Lopez De Azcona 63 16 63
+     32  Robert Maciag        def.  Luke Casper          63 61
+     32  Matthew Thomson      def.  Stefan Storch        67(3) 61 63
+     32  Austin Abbrat        def.  Maxwell Benson       62 63
+ > Day 2
+  > Main
+     32  Toby Samuel          def.  Filippo Moroni       63 62
+     32  Taha Baadi           def.  Connor Thomson       36 76(5) 64
+     32  Siddhant Banthia     def.  Raphael Perot        76(9) 76(2)
+     32  Robert Maciag        def.  Raphael Lambling     26 62 64
+     32  Juan Lopez De Azcona def.  Matthis Ross         61 62
+     32  Matthew Thomson      def.  Carter Morgan        36 61 62
+     32  Austin Abbrat        def.  Jake Beasley         26 61 64
+     32  Noah Schachter       def.  Richard Thongoana    75 63
+     32  Luke Casper          def.  Maxwell Benson       64 64
+     32  Andreja Petrovic     def.  Giulio Perego        62 63
+     32  Pierce Rollins       def.  Dusan Milanovic      46 63 75
+     32  Rahul Dhokia         def.  John Bernard         16 75 64
+     32  Stefan Storch        def.  Nicholas McKinney    64 63
+     32  Anish Sriniketh      def.  Bryn Nahrung         64 62
+     32  Juan Sebastian Domi… def.  Kenner Taylor        75 61
+ > Day 3
+  > Main
+     32  Daniel Rodrigues     def.  Noah Schachter       62 36 64
+     32  Toby Samuel          def.  Giulio Perego        62 36 64
+     32  Connor Thomson       def.  Pierce Rollins       63 75
+     32  Raphael Lambling     def.  Matthis Ross         63 64
+     32  Anish Sriniketh      def.  Carter Morgan        75 46 64
+     32  Maxwell Benson       def.  Stefan Storch        64 36 62
+     32  Rahul Dhokia         def.  Nicholas McKinney    63 62
+     32  Austin Abbrat        def.  Juan Sebastian Domi… 75 62
+     32  Taha Baadi           def.  Richard Thongoana    62 61
+     32  Siddhant Banthia     def.  Andreja Petrovic     76(1) 63
+     32  Robert Maciag        def.  Dusan Milanovic      57 64 76(4)
+     32  Filippo Moroni       def.  Raphael Perot        63 63
+     32  Luke Casper          def.  Juan Lopez De Azcona 16 63 62
+     32  Matthew Thomson      def.  John Bernard         63 62
+     32  Kenner Taylor        def.  Bryn Nahrung         60 61
 ~~~
 
 <a name="21-84042"></a>
