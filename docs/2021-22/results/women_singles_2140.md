@@ -11,7 +11,6 @@
 - 10/8/2021 - [Georgia Southern Fall Shootout](#21-23829) ([Results](#21-23829) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Draws</a>)  
 - 10/4/2021 - [ITA Women's All-American Championship](#21-68261) ([Results](#21-68261) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">Draws</a>)  
 - 10/8/2021 - [Jimmy Powell Invitational](#21-66349) ([Results](#21-66349) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Draws</a>)  
-- 10/8/2021 - [June Stewart](#21-72773) ([Results](#21-72773) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">Draws</a>)  
 - 10/8/2021 - [Long Beach State Fall Tournament](#21-66132) ([Results](#21-66132) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Draws</a>)  
 - 10/8/2021 - [MVC Individual Championships](#21-95059) ([Results](#21-95059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">Draws</a>)  
 - 10/8/2021 - [Navy Blue and Gold Invitational](#21-53408) ([Results](#21-53408) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C" target="_blank">Draws</a>)  
@@ -30,6 +29,7 @@
 
 **Tournaments without Matches**  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
+- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">June Stewart</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
 
 <a name="21-03077"></a>
@@ -926,38 +926,11 @@
 
 <a name="21-72773"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   June Stewart
   Dates: Oct 8-10, 2021
   Host: Vanderbilt University (W)
-═════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > Matches Day 1
-  > Main
-     32  Dasha Kourkina      def.  Kida Ferrari      62 61
-     32  Anna Ross           def.  Josie Frazier     75 60
-     32  Holly Staff         def.  Katherine Duong   64 16 64
-     32  Yufei Long          def.  Kathryn Treiber   64 06 61
-     32  Megan Heuser        def.  Amy Stevens       64 62
-     32  Ashley Yeah         def.  Marcella Cruz     64 61
-     32  Christin Hsieh      def.  MaryAnn Rompf     63 62
- > Matches Day 2
-  > Main
-     32  Amy Stevens         def.  Maya Tahan        64 36 63
-     32  Holly Staff         def.  Daevenia Achong   62 62
-     32  Anessa Lee          def.  Kate Popova       63 61
-     32  Marcella Cruz       def.  Christin Hsieh    63 46 64
-     32  Anna Ross           def.  Eden Richardson   63 16 76
-     32  Diana Khodan        def.  Dasha Kourkina    62 63
-     32  Audrey Boch-Collins def.  Yufei Long        63 75
- > Matches Day 3
-  > Main
-     32  Yufei Long          def.  Kate Popova       62 60
-     32  Anna Ross           def.  Carla Girbau      60 62
-     32  Marcella Cruz       def.  Fiona Arrese      62 61
-     32  Dasha Kourkina      def.  Maialen Morante   64 61
-     32  Amy Stevens         def.  Florencia Urrutia 63 75
-     32  Holly Staff         def.  Carlota Molina    64 64
+═══════════════════════════════════════════════════════════════════════
 ~~~
 
 <a name="21-66132"></a>

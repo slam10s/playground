@@ -10,6 +10,7 @@
 - 9/10/2021 - [Women's Drake Invite](#21-32364) ([Results](#21-32364) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/51EAC500-8BA9-4BA4-A244-CED3E726C5FE" target="_blank">Draws</a>)  
 - 9/10/2021 - [Angelo State SlamFest](#21-31047) ([Results](#21-31047) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AngeloStateUniversityW/Tournaments/Overview/AF7EE133-54BC-4F7C-A60D-0E1A114F1191" target="_blank">Draws</a>)  
 - 9/10/2021 - [Limestone Women's Challenger](#21-92220) ([Results](#21-92220) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityW/Tournaments/Overview/CD512B83-10FF-46E4-86C6-2C34954D0D21" target="_blank">Draws</a>)  
+- 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [University of Findlay/Findlay YMCA East Fall Invite](#21-72676) ([Results](#21-72676) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
@@ -18,7 +19,6 @@
 **Tournaments without Matches**  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">PTC College Invitational</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Wallach Invitational</a>  
 
@@ -469,6 +469,57 @@
      R1  Dolfi/Radu      def.  Aparicio/Benefield   63
      R1  Panchal/Aramni  def.  Fyvie/Roslund        76(5)
      R1  Watts/Semmartin def.  Braziel/White        60
+~~~
+
+<a name="21-98528"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  PTC College Invitational
+  Dates: Sep 10-12, 2021
+  Host: ITA
+══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Women's Flight B
+  > Main
+     R5     Yuksel/Mehn         def.     Aylward/Impalea      Walkover
+     R5     Blackwell/Chambers  def.     Mille/Romero         Walkover
+     R4     Aylward/Impalea     def.     Mille/Romero         Walkover
+     R4     Fernandez/Howeler   def.     Blackwell/Chambers   60
+     R3     Fernandez/Howeler   def.     Yuksel/Mehn          61
+     R3     Aylward/Impalea     def.     Blackwell/Chambers   62
+     R2     Fernandez/Howeler   def.     Mille/Romero         76(2)
+     R2     Yuksel/Mehn         def.     Blackwell/Chambers   60
+     R1     Fernandez/Howeler   def.     Aylward/Impalea      62
+     R1     Yuksel/Mehn         def.     Mille/Romero         63
+ > Women's Flight A
+  > Main
+      F     Maher/Kronsbein     def. (1) Weber/Voloshyna      64
+     SF (1) Weber/Voloshyna     def. (4) Batth/King           61
+     SF     Maher/Kronsbein     def.     Guerrero/Chistov     64
+     QF (1) Weber/Voloshyna     def.     Schipper/Montserrat  75
+     QF (4) Batth/King          def.     Nwokolo/Caballero    75
+     QF     Maher/Kronsbein     def.     Still/Vukovic        62
+     QF     Guerrero/Chistov    def. (2) Jacobs/Valtere       63
+     16 (1) Weber/Voloshyna     def.     Aguirre/Kharb        75
+     16     Schipper/Montserrat def.     Crawford/Cassetori   60
+     16 (4) Batth/King          def.     Enderink/Kos         64
+     16     Nwokolo/Caballero   def.     Weng/Rozados         64
+     16     Maher/Kronsbein     def.     Hill/Berger          63
+     16     Still/Vukovic       def. (3) Donecker/Rogel       62
+     16     Guerrero/Chistov    def.     Wise/Mikael          63
+     16 (2) Jacobs/Valtere      def.     Smith/Martinez       60
+     32     Aguirre/Kharb       def.     Prudencio/Katoudi    62
+     32     Schipper/Montserrat def. (5) Clayton/Lowe         61
+     32     Crawford/Cassetori  def.     Farmer/Hencken       75
+     32     Enderink/Kos        def.     Krusling/Beasley     75
+     32     Weng/Rozados        def. (8) Karatantcheva/Marti… 63
+     32     Nwokolo/Caballero   def.     Chapman/Sakakibara   60
+     32     Hill/Berger         def.     Davis/Lopez          64
+     32     Maher/Kronsbein     def. (6) Vaughan/Schott       64
+     32     Still/Vukovic       def.     Cunningham/White     61
+     32     Guerrero/Chistov    def.     Bentz/Ferenczy       63
+     32     Wise/Mikael         def. (7) Peterson/Seib        61
+     32     Smith/Martinez      def.     Croes/Kotsiou        Walkover
 ~~~
 
 <a name="21-79025"></a>

@@ -31,6 +31,7 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/33892848-1169-45C0-9F04-4F97158D4D11" target="_blank">Samford Fall Invite #1</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
 - 9/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SwarthmoreCollegeM/Tournaments/Overview/EBF37285-C88B-4F3E-B6EA-6C0DE013DBB8" target="_blank">Swat Men's Tennis Invite</a>  
@@ -188,7 +189,7 @@
      16 (4) Louis Menard         def.     Arthur Serafim       60 10 Ret.
      16 (3) Mattia Ros           def.     Umit Ege Cankus      63 62
      16     Johnny Mascagni      def.     Daan Van Dijk        57 64 63
-     16     Tristan Sarap        def.     Aj Woodman           63 64
+     16     Tristan Sarap        def.     AJ Woodman           63 64
      16     Javier Ruiz Medina   def. (2) Matt Summers         63 64
      32     Arjun Kersten        def.     Diego Huttepain      64 64
      32     Elyes Marouani       def.     Martin Simecek       26 64 63
@@ -200,7 +201,7 @@
      32     Johnny Mascagni      def.     Corey Clarke         64 67(3) 63
      32     Daan Van Dijk        def. (5) Sebastian Buxman     75 57 62
      32     Tristan Sarap        def. (5) Robert Baylon        76(4) 64
-     32     Aj Woodman           def.     Jamieson Nathan      63 64
+     32     AJ Woodman           def.     Jamieson Nathan      63 64
      32     Javier Ruiz Medina   def.     Jordan Azuma         67(4) 63 63
   > West
       F (5) Sebastian Buxman     def.     Nejc Sitar           63 60
@@ -221,7 +222,7 @@
      QF     Arjun Kersten        def.     Elyes Marouani       Walkover
      QF     Justin Waldman       def.     Arthur Serafim       Walkover
      QF     Daan Van Dijk        def.     Umit Ege Cankus      62 67(5) [10]
-     QF (2) Matt Summers         def.     Aj Woodman           64 64
+     QF (2) Matt Summers         def.     AJ Woodman           64 64
   > South
      SF     Martin Simecek       def.     Hiroki Fujita        Walkover
      SF     Corey Clarke         def.     Jamieson Nathan      Walkover
@@ -285,7 +286,6 @@
   > Main
      16     Sergi Mico Fenollar  def.     Patricio Garcia Mur… 63 61
      16     Javier Ruiz Medina   def.     Peter Sallay         64 63
-     16     Matt Summers         def.     Arjun Kersten        64 60
      16     Luke Wolf            def.     Umit Ege Cankus      63 61
      16     Jack Ninteman        def.     Will Kesterson       63 46 [7]
      16     Wikus Robbertse      def.     Gabriel Chavez       60 21 Ret.
@@ -355,7 +355,7 @@
      32  Victor Castro        def.  Shreekar Eedara      62 36 62
      32  Diego Serra Sparrow  def.  Connor Mcdonald      62 61
      32  Max Motlagh          def.  Andrew Ilie          63 64
-     32  Jj Bianchi           def.  Alex Knox-Jones      62 46 64
+     32  jj Bianchi           def.  Alex Knox-Jones      62 46 64
      32  Alejandro Quiles     def.  Niels Van Noord      63 26 61
      32  Hikaru Takeda        def.  Charlie Penman       63 61
      32  Luke Neal            def.  Teague Burger        75 75
@@ -1135,13 +1135,13 @@
       F  Mikey Weitz         def.  Andre Singer        75 63
  > Flight F
   > East
-      F  Jj Henderson        def.  Jonah Murphy        67(3) 63 [5]
+      F  JJ Henderson        def.  Jonah Murphy        67(3) 63 [5]
      SF  Jonah Murphy        def.  Michael Rooney      64 63
-     SF  Jj Henderson        def.  Juan Bejarano-Gamez 64 61
+     SF  JJ Henderson        def.  Juan Bejarano-Gamez 64 61
      QF  Jonah Murphy        def.  Nick Potter         76(3) 63
      QF  Michael Rooney      def.  Henrik Lindeman     63 64
      QF  Juan Bejarano-Gamez def.  Hassan Elalami      62 62
-     QF  Jj Henderson        def.  Benito Vlassis      63 62
+     QF  JJ Henderson        def.  Benito Vlassis      63 62
   > West
      SF  Henrik Lindeman     def.  Nick Potter         62 75
      SF  Hassan Elalami      def.  Benito Vlassis      62 75

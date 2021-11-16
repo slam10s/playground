@@ -11,7 +11,9 @@
 - 9/10/2021 - [Orange Lawn Fall Invitational](#21-93144) ([Results](#21-93144) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Draws</a>)  
 - 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
+- 9/11/2021 - [2021 CCIW Fall Invitational](#21-67914) ([Results](#21-67914) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillikinUniversityM/Tournaments/Overview/EC2D06D4-33B6-4D12-AD7F-0FFF3E553D26" target="_blank">Draws</a>)  
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
+- 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
 - 9/11/2021 - [St. Lawrence University Fall Classic](#21-93996) ([Results](#21-93996) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/3699D952-856D-4724-8FE8-12BD2237BE35" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/10/2021 - [Warhawk Fall Invitational](#21-36572) ([Results](#21-36572) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Draws</a>)  
@@ -20,7 +22,6 @@
 
 **Tournaments without Matches**  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">PTC College Invitational</a>  
 
 <a name="21-56790"></a>
 ~~~
@@ -586,6 +587,67 @@
      32  Serra/Serra          def.  Theaker/Flisberg  60
 ~~~
 
+<a name="21-67914"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  2021 CCIW Fall Invitational
+  Dates: Sep 11-12, 2021
+  Host: Millikin University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight 1
+  > East
+      F  Vilarroig Martinez/… def.  Ferruzzi/Krzewinski  87(6)
+     SF  Ferruzzi/Krzewinski  def.  Hermange/Panosso     84
+     SF  Vilarroig Martinez/… def.  Amadike/Moore        87(3)
+     QF  Ferruzzi/Krzewinski  def.  Gonzalez Fernandez/… 87(5)
+     QF  Hermange/Panosso     def.  Burk/Triantafel      84
+     QF  Vilarroig Martinez/… def.  Phillips/Wolf        87(3)
+     QF  Amadike/Moore        def.  Cassens/Hart         82
+  > West
+      F  Gonzalez Fernandez/… def.  Phillips/Wolf        83
+     SF  Gonzalez Fernandez/… def.  Burk/Triantafel      84
+     SF  Phillips/Wolf        def.  Cassens/Hart         83
+  > 3-4 Playoff
+      F  Amadike/Moore        def.  Hermange/Panosso     83
+  > South
+      F  Cassens/Hart         def.  Burk/Triantafel      81
+ > Flight 2
+  > East
+      F  Schulte/Welker       def.  Owens/Maack          84
+     SF  Owens/Maack          def.  Sengphommachanh/Red  80
+     SF  Schulte/Welker       def.  Broach/Erickson      81
+     QF  Owens/Maack          def.  Turnbull/Cross       80
+     QF  Sengphommachanh/Red  def.  Boudreau/Vayara      85
+     QF  Broach/Erickson      def.  Hofland/Barter       84
+     QF  Schulte/Welker       def.  Nair/McCoy           80
+  > West
+      F  Boudreau/Vayara      def.  Nair/McCoy           81
+     SF  Boudreau/Vayara      def.  Turnbull/Cross       83
+     SF  Nair/McCoy           def.  Hofland/Barter       81
+  > 3-4 Playoff
+      F  Sengphommachanh/Red  def.  Broach/Erickson      83
+  > South
+      F  Turnbull/Cross       def.  Hofland/Barter       80
+ > Flight 3
+  > East
+      F  Marino/Friese        def.  Blomquist/Mears      81
+     SF  Marino/Friese        def.  Caldwell/Naylor      80
+     SF  Blomquist/Mears      def.  Dyer/Saint-Paul      86
+     QF  Marino/Friese        def.  Gonzales/Urraca Moz… 83
+     QF  Caldwell/Naylor      def.  Nowell/Pierson       83
+     QF  Dyer/Saint-Paul      def.  Sibley-Diggs/Cortez  82
+     QF  Blomquist/Mears      def.  McCaffery/Strupp     81
+  > West
+      F  Gonzales/Urraca Moz… def.  McCaffery/Strupp     82
+     SF  Gonzales/Urraca Moz… def.  Nowell/Pierson       80
+     SF  McCaffery/Strupp     def.  Sibley-Diggs/Cortez  85
+  > 3-4 Playoff
+      F  Dyer/Saint-Paul      def.  Caldwell/Naylor      84
+  > South
+      F  Sibley-Diggs/Cortez  def.  Nowell/Pierson       82
+~~~
+
 <a name="21-17243"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════
@@ -620,6 +682,61 @@
       F  Belli De Oliveira/G… def.  Doherty/Ivanov       Walkover
      SQ  Doherty/Ivanov       def.  Richardson/Parisien  84
      SQ  Belli De Oliveira/G… def.  Thatcher/Szarek      81
+~~~
+
+<a name="21-98528"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  PTC College Invitational
+  Dates: Sep 10-12, 2021
+  Host: ITA
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Men's Doubles Flight B
+  > Main
+     R5     Molina/Waldrop       def.     Farren/Johns         Walkover
+     R5     Hess/Johnson         def.     Johnson/Tran         Walkover
+     R4     Hess/Johnson         def.     Farren/Johns         Walkover
+     R4     Pavitt/Viedma        def.     Johnson/Tran         61
+     R3     Pavitt/Viedma        def.     Molina/Waldrop       61
+     R3     Johnson/Tran         def.     Farren/Johns         Walkover
+     R2     Pavitt/Viedma        def.     Hess/Johnson         60
+     R2     Molina/Waldrop       def.     Johnson/Tran         60
+     R1     Pavitt/Viedma        def.     Farren/Johns         60
+     R1     Molina/Waldrop       def.     Hess/Johnson         60
+ > Men's Doubles Flight A
+  > Main
+      F (4) Stahlbrand/Agudelo   def.     Grasmuck/Maria       76(9)
+     SF (4) Stahlbrand/Agudelo   def. (1) Stafford/Golindano   63
+     SF     Grasmuck/Maria       def.     Marcheschi/Lopes Po… 62
+     QF (1) Stafford/Golindano   def.     Lloveras/Avendano    61
+     QF (4) Stahlbrand/Agudelo   def.     Cary/Shiell          61
+     QF     Marcheschi/Lopes Po… def.     McCarthy/Barry       64
+     QF     Grasmuck/Maria       def.     Crespo/Makhanya      63
+     16 (1) Stafford/Golindano   def.     Emmerson-Hiini/Roman 64
+     16     Lloveras/Avendano    def. (8) Kimaszweski/Rodrigu… 64
+     16 (4) Stahlbrand/Agudelo   def.     Praschan/Vos         62
+     16     Cary/Shiell          def.     Segreda/Willis       61
+     16     McCarthy/Barry       def.     Balda/Ibrahim        64
+     16     Marcheschi/Lopes Po… def. (3) Barbera/Hernandez G… 75
+     16     Grasmuck/Maria       def.     Rowe/Aron Martin     63
+     16     Crespo/Makhanya      def. (2) Ferreira/Ortega      62
+     32 (1) Stafford/Golindano   def.     Briand/Normand       62
+     32     Emmerson-Hiini/Roman def.     Bodson/Ernberg       75
+     32 (8) Kimaszweski/Rodrigu… def.     Day/Lloyd-Evans      Walkover
+     32     Lloveras/Avendano    def.     Rodriguez/Karlsson   62
+     32 (4) Stahlbrand/Agudelo   def.     Gonzalez/Fassioli    64
+     32     Praschan/Vos         def.     Sreekumar/Musanhu    61
+     32     Segreda/Willis       def. (7) Stone/Tylehed        75
+     32     Cary/Shiell          def.     Velasco/Cardoso      62
+     32     McCarthy/Barry       def.     Aguirre Arana/Johns… 61
+     32     Balda/Ibrahim        def. (5) Holgersson/Marmeste… 75
+     32     Marcheschi/Lopes Po… def.     Stamps/Crabtree      61
+     32 (3) Barbera/Hernandez G… def.     Cassini/Alvarez      61
+     32     Rowe/Aron Martin     def.     Badran/Burgos        63
+     32     Grasmuck/Maria       def. (6) Nunez/Rojas          63
+     32     Crespo/Makhanya      def.     Nordberg/Beck        64
+     32 (2) Ferreira/Ortega      def.     Zoglio/Morant        60
 ~~~
 
 <a name="21-93996"></a>

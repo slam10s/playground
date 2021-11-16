@@ -3,10 +3,12 @@
 **Tournamets with Matches**  
 - 11/5/2021 - [Big 12 Individuals](#21-20291) ([Results](#21-20291) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityM/Tournaments/Overview/E0ED1E84-1CD4-4CE2-BFCD-F695030458D5" target="_blank">Draws</a>)  
 - 11/4/2021 - [Big Ten Indoors](#21-98150) ([Results](#21-98150) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/DD67ADCD-C4E7-4314-A846-4FCDAD89FABC" target="_blank">Draws</a>)  
+- 11/5/2021 - [Clemson Hidden Duals](#21-14095) ([Results](#21-14095) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/22A40DEC-6CB7-4C7E-841A-7CC786AEE57F" target="_blank">Draws</a>)  
 - 11/5/2021 - [FGCU Collegiate Open](#21-07533) ([Results](#21-07533) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaGulfCoastUniversityM/Tournaments/Overview/C591B082-DA9F-4F69-A567-2A370930F114" target="_blank">Draws</a>)  
 - 11/5/2021 - [GT Invitational](#21-32736) ([Results](#21-32736) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaTechM/Tournaments/Overview/E04A8772-9C21-4B5A-B6E0-55C939AC5A86" target="_blank">Draws</a>)  
 - 11/4/2021 - [ITA National Fall Championships](#21-38622) ([Results](#21-38622) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3C0D3BF7-1EA0-4314-9798-02FE691DD86E" target="_blank">Draws</a>)  
 - 11/5/2021 - [Jack Kramer Invitational](#21-11431) ([Results](#21-11431) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/EBFDB9EE-65DF-40EA-8395-B821B7EA07B0" target="_blank">Draws</a>)  
+- 11/5/2021 - [Liberty Dual](#21-62931) ([Results](#21-62931) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/A51E4801-DD54-4C66-A187-7820D7D7ACAF" target="_blank">Draws</a>)  
 - 11/5/2021 - [MAC Invite](#21-92934) ([Results](#21-92934) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/904B03DF-C1F9-40F4-BE7B-ACF330F850AB" target="_blank">Draws</a>)  
 - 11/5/2021 - [Pacific Invitational](#21-54445) ([Results](#21-54445) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfThePacificM/Tournaments/Overview/32DAC0A6-A705-4382-880F-230A39E21F42" target="_blank">Draws</a>)  
 - 11/5/2021 - [Ralston/Neufeld Coaches Challenge](#21-70244) ([Results](#21-70244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivM/Tournaments/Overview/4DFFAD56-EAA9-4394-8451-1B5126D73B7A" target="_blank">Draws</a>)  
@@ -17,8 +19,7 @@
 - 11/6/2021 - [Buccaneers Invitational](#21-92061) ([Results](#21-92061) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BarryUniversityM/Tournaments/Overview/66BDBB63-461D-4097-ACA4-DB44D0B1C672" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/22A40DEC-6CB7-4C7E-841A-7CC786AEE57F" target="_blank">Clemson Hidden Duals</a>  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/A51E4801-DD54-4C66-A187-7820D7D7ACAF" target="_blank">Liberty Dual</a>  
+- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/9FFB9E4B-F5D2-482B-9395-1971FCF5B506" target="_blank">CCB Collegiate Invite hosted by Samford University</a>  
 
 <a name="21-20291"></a>
 ~~~
@@ -50,11 +51,11 @@
 
 <a name="21-98150"></a>
 ~~~
-════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   Big Ten Indoors
   Dates: Nov 4-7, 2021
   Host: Michigan State University (M)
-════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Main Doubles Draw
   > East
@@ -83,16 +84,12 @@
      32  Suzanne/Sachdev      def.  Bengtsson/Goli       60
      32  Pickens/Nordby       def.  Williams/Matsuno     63
   > West
-      F  Thieneman/Blekher    def.  Williams/Matsuno     64
-     SF  Thieneman/Blekher    def.  Mukherjee/Portnoy    64
-     SF  Williams/Matsuno     def.  Nuzhny/Popovic       76(3)
      QF  Thieneman/Blekher    def.  Crocker/Sheldon      61
      QF  Mukherjee/Portnoy    def.  Basavareddy/Rogers   61
      QF  Nuzhny/Popovic       def.  Lair/Campbell        63
      QF  Williams/Matsuno     def.  Bengtsson/Goli       63
      16  Thieneman/Blekher    def.  Welch/Morgan         61
   > North
-      F  Pickens/Nordby       def.  Baylis/Gates         64
      SF  Baylis/Gates         def.  Kenyatte/Montsi      75
      SF  Pickens/Nordby       def.  Meister/Petrov       63
      QF  Kenyatte/Montsi      def.  Hietaranta/Maruyama  61
@@ -107,15 +104,73 @@
   > Northwest
      SF  Dudek/Brancatelli    def.  Hietaranta/Maruyama  62
      SF  Suzanne/Sachdev      def.  Saylor/Singh         75
+ > Doubles Round 2
+  > Main
+     32  Fletchall/Saylor     def.  Bengtsson/Goli       62
+     32  Andre/Haskins        def.  Hietaranta/Maruyama  63
+     32  Thieneman/Blekher    def.  Welch/Morgan         63
+     32  Galus/Wozniak        def.  Soha/Vile            62
+     32  Crocker/Sheldon      def.  Suzanne/Sachdev      76(3)
+     32  Forman/Spear         def.  Nuzhny/Popovic       64
+ > Soha/Vile v Thieneman/Bleckher
+  > Main
+     32  Soha/Vile            def.  Thieneman/Blekher    63
+ > Swapped Partners
+  > Main
+      F  Pratt/Parts          def.  Williams/Matsuno     64
+     SF  Pratt/Parts          def.  Mukherjee/Portnoy    64
+     SF  Williams/Matsuno     def.  Popovic/Dzhurinskiy  76(3)
+ > North Finals
+  > Main
+      F  Pickens/Thieneman    def.  Baylis/Gates         64
+~~~
+
+<a name="21-14095"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Clemson Hidden Duals
+  Dates: Nov 5-7, 2021
+  Host: Clemson University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+     32  Grevelius/Croyder    def.  Azuma/Giusca         63
+     32  Stewart/Henning      def.  Whitaker/Dica        64
+     32  Plans Gonzalez/Smith def.  Perez Pena/Johnston  64
+     32  Pitts/Puscas         def.  Paulsell/Debru       75
+     32  Bertimon/Bertimon    def.  Bernardi/Brostrom P… 63
+     32  Bonetto/Greif        def.  Sun/Lefevre          63
+     32  Torre Martin/Bobich… def.  Holis/Chin           64
+     32  Dean/Reilly          def.  Olivier/Puscas       61
+ > Day 2
+  > Main
+     32  Whitaker/Smith       def.  Bertimon/Bertimon    75
+     32  Azuma/Plans Gonzalez def.  Sun/Lefevre          61
+     32  Giusca/Dica          def.  Dean/Reilly          62
+     32  Torre Martin/Bobich… def.  Pitts/Puscas         64
+     32  Bonetto/Greif        def.  Stewart/Henning      64
+     32  Grevelius/Croyder    def.  Bernardi/Brostrom P… 60
+     32  Holis/Poritzky       def.  Paulsell/Debru       61
+     32  Perez Pena/Johnston  def.  Olivier/Chin         76(1)
+ > Day 3
+  > Main
+     32  Azuma/Whitaker       def.  Bonetto/Greif        75
+     32  Brostrom Poulsen/Ol… def.  Smith/Giusca         63
+     32  Pitts/Stinchcomb     def.  Bernardi/Holis       62
+     32  Bertimon/Bertimon    def.  Stewart/Henning      64
+     32  Grevelius/Croyder    def.  Sun/Lefevre          62
+     32  Torre Martin/Bobich… def.  Perez Pena/Johnston  63
+     32  Dean/Reilly          def.  Paulsell/Debru       61
 ~~~
 
 <a name="21-07533"></a>
 ~~~
-══════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════
   FGCU Collegiate Open
   Dates: Nov 5-7, 2021
   Host: Florida Gulf Coast University (M)
-══════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Day One
   > Main
@@ -147,11 +202,11 @@
 
 <a name="21-32736"></a>
 ~~~
-════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
   GT Invitational
   Dates: Nov 5-7, 2021
   Host: Georgia Tech (M)
-════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Friday, November 5
   > Main
@@ -259,13 +314,50 @@
      16     Tsorotiotis/Brunkow  def.     Klov-Nilsson/Vandec… 84
 ~~~
 
+<a name="21-62931"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Liberty Dual
+  Dates: Nov 5-7, 2021
+  Host: Liberty University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Friday
+  > Main
+     16  Nolan/Lalami         def.  Gupta/Parikh         64
+     16  Gangoli/Hildebrandt  def.  Maldoner/Sirous      64
+     16  Graziani/Goodman     def.  Tobisch/Van Schalkw… 64
+     16  Thomas-Smith/Worst   def.  Eala/Morgan          64
+     16  Bhatnagar/Bossem     def.  Marques Da Silva/Lo… 64
+     16  Karman/Sengul        def.  Wilson/Heaven        63
+     16  Ferreira/El Kadi     def.  Saadi/Sato           75
+ > Saturday
+  > Main
+     16  Eala/Morgan          def.  Maldoner/Lalami      64
+     16  Bhatnagar/Bossem     def.  Nolan/Van Schalkwyk  64
+     16  Karman/Sengul        def.  Sirous/Tobisch       75
+     16  Thomas-Smith/Worst   def.  Graziani/Zhu         63
+     16  Marques Da Silva/Lo… def.  Gupta/Parikh         63
+     16  Wilson/Heaven        def.  Hildebrandt/Lim      62
+     16  Ferreira/El Kadi     def.  Jurick/Goodman       63
+ > Sunday
+  > Main
+     16  Graziani/Zhu         def.  Eala/Morgan          63
+     16  Gupta/Parikh         def.  Bhatnagar/Bossem     63
+     16  Karman/Sengul        def.  Hildebrandt/Goodman  62
+     16  Saadi/Sato           def.  Lim/Gangoli          62
+     16  Sirous/Lalami        def.  Thomas-Smith/Worst   63
+     16  Maldoner/Van Schalk… def.  Marques Da Silva/Lo… 64
+     16  Nolan/Tobisch        def.  Wilson/Heaven        64
+~~~
+
 <a name="21-92934"></a>
 ~~~
-═══════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   MAC Invite
   Dates: Nov 5-7, 2021
   Host: Western Michigan University (M)
-═══════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight 1
   > East
@@ -317,11 +409,11 @@
 
 <a name="21-54445"></a>
 ~~~
-════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
   Pacific Invitational
   Dates: Nov 5-7, 2021
   Host: University Of The Pacific (M)
-════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Doubles 1
   > Main
@@ -369,11 +461,11 @@
 
 <a name="21-70244"></a>
 ~~~
-════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   Ralston/Neufeld Coaches Challenge
   Dates: Nov 5-7, 2021
   Host: Southern Methodist Univ. (M)
-════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
@@ -391,11 +483,11 @@
 
 <a name="21-91602"></a>
 ~~~
-════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
   San Diego Veterans Tennis Classic
   Dates: Nov 5-7, 2021
   Host: University Of San Diego (M)
-════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
@@ -590,17 +682,30 @@
 
 <a name="21-92061"></a>
 ~~~
-═══════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════
   Buccaneers Invitational
   Dates: Nov 6-7, 2021
   Host: Barry University (M)
-═══════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight A
   > Main
-     SF  Ortega/Ibanez def.  Zick/Simkiss       76(6)
-     QF  Zick/Simkiss  def.  Feggi/Hertweck     64
-     QF  Ortega/Ibanez def.  Del Granado/Lemken 76(6)
+      F  Ortega/Ibanez     def.  Barrios/Kilani     62
+     SF  Ortega/Ibanez     def.  Zick/Simkiss       76(6)
+     SF  Barrios/Kilani    def.  Popescu/Giuliato   75
+     QF  Zick/Simkiss      def.  Feggi/Hertweck     64
+     QF  Ortega/Ibanez     def.  Del Granado/Lemken 76(6)
+     QF  Barrios/Kilani    def.  Carlsten/Hasegawa  63
+     QF  Popescu/Giuliato  def.  Nagoshi/Nordblom   Walkover
+ > Flight B
+  > Main
+      F  Holzmann/Tatyanin def.  Nouws/Marrero      60
+     SF  Nouws/Marrero     def.  McLeod/Cazaban     63
+     SF  Holzmann/Tatyanin def.  Fok Kow/Sohl       63
+     QF  Nouws/Marrero     def.  Fernandez/Binaghi  75
+     QF  McLeod/Cazaban    def.  Amilibia/Denitto   61
+     QF  Fok Kow/Sohl      def.  Orevad/den Hartog  64
+     QF  Holzmann/Tatyanin def.  Santamaria/Rosi    61
 ~~~
 
 Return to the [Top](./men_doubles_2144.md) &#124; [Home Page](../../index.md)

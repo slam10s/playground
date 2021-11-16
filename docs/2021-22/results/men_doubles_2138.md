@@ -15,6 +15,7 @@
 - 9/24/2021 - [Rancher Collegiate Invitational](#21-29345) ([Results](#21-29345) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/8D7F2E07-AC4A-4E21-9AD6-185AA3004B4C" target="_blank">Draws</a>)  
 - 9/24/2021 - [Roadrunner Invitational](#21-84395) ([Results](#21-84395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTexasSanAntonioM/Tournaments/Overview/E7F7F76A-E6C1-4F1D-AFAC-36B9F1DB36FF" target="_blank">Draws</a>)  
 - 9/24/2021 - [Southern Intercollegiates](#21-18330) ([Results](#21-18330) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/B89A76E9-2709-4BFC-AAB2-ED109F32123C" target="_blank">Draws</a>)  
+- 9/25/2021 - [Southern Miss Men's Tennis Invitational](#21-39341) ([Results](#21-39341) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthernMississippiM/Tournaments/Overview/6381F499-3F70-463D-B86B-F6D5B23A4ADB" target="_blank">Draws</a>)  
 - 9/24/2021 - [UVA Orange & Blue Classic](#21-08100) ([Results](#21-08100) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaM/Tournaments/Overview/CF3502B7-78F4-4CCB-AB88-CC54F61E06F0" target="_blank">Draws</a>)  
 - 9/25/2021 - [Wabash Hidden Duals](#21-62669) ([Results](#21-62669) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WabashCollegeM/Tournaments/Overview/F852092B-DFCA-4C1A-8C98-83E3D2CDF000" target="_blank">Draws</a>)  
 - 9/24/2021 - [American Rivers Conference Men's Individual Tournament](#21-25873) ([Results](#21-25873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">Draws</a>)  
@@ -37,7 +38,6 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
-- 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthernMississippiM/Tournaments/Overview/6381F499-3F70-463D-B86B-F6D5B23A4ADB" target="_blank">Southern Miss Men's Tennis Invitational</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoM/Tournaments/Overview/82163CFE-9C1D-409A-B99B-CD82AF62340D" target="_blank">Toledo Rocket Invitational</a>  
 
 <a name="21-02376"></a>
@@ -798,6 +798,46 @@
      16  Jackson/Barretto    def.  Grevelius/Croyder   86
      16  Johnston/Paulsell   def.  Flynn/Macleod       84
      16  Wayenburg/Georgadze def.  Debru/Perez Pena    86
+~~~
+
+<a name="21-39341"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Southern Miss Men's Tennis Invitational
+  Dates: Sep 25-26, 2021
+  Host: Univ. Of Southern Mississippi (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Saturday 1
+  > Main
+     QF  Spyropoulos/Lusovsky def.  Audrain/Sunish       63
+     QF  Vasquez/Podzemny     def.  Gima/Sanson          76
+     QF  Bradbary/Puric       def.  Cahour/Reansuwong    64
+ > Saturday 2
+  > Main
+     QF  Audrain/Sunish       def.  Collard/Clements     76
+     QF  Bosman/St-Hilaire    def.  Gima/Sanson          76
+     QF  Montoya/Delcour      def.  Cahour/Reansuwong    76
+ > Sunday 1
+  > Main
+     QF  Lusovsky/Podzemny    def.  Sanson/Sunish        63
+     QF  Audrain/Cahour       def.  Spyropoulos/Bradbary 62
+     QF  Jirapoomdaje/Gima    def.  Puric/Vasquez        63
+ > Sunday 2
+  > Main
+     QF  Collard/St-Hilaire   def.  Sanson/Sunish        64
+     QF  Delcour/Clements     def.  Audrain/Cahour       75
+     QF  Gima/Reansuwong      def.  Montoya/Bosman       64
+ > Saturday 3
+  > Main
+     QF  Spyropoulos/Lusovsky def.  Collard/Clements     62
+     QF  Bosman/St-Hilaire    def.  Vasquez/Podzemny     64
+     QF  Bradbary/Puric       def.  Montoya/Delcour      75
+ > Sunday 3
+  > Main
+     QF  Collard/St-Hilaire   def.  Lusovsky/Podzemny    64
+     QF  Delcour/Clements     def.  Spyropoulos/Bradbary 62
+     QF  Montoya/Bosman       def.  Puric/Vasquez        63
 ~~~
 
 <a name="21-08100"></a>

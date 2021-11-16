@@ -516,8 +516,6 @@
      16  Millard/Davis        def.  Oreshkina/Malinak    64
   > West
      QF  Guo/Dalla-Bona       def.  Cho/Lang Gould       60
-  > North
-     SF  Garcia-Reboredo/Cuq… def.  Millard/Davis        76(6)
  > Bravo
   > East
       F  Buzkova/Mihaljevic   def.  Beazley/Duhl         63
@@ -546,11 +544,8 @@
  > Third Round
   > Main
      32  Villarejo/Van Baelen def.  Flodin/Yun-Thayer    64
-     32  Odom/Chao            def.  Cho/Lang Gould       63
      32  Oreshkina/Malinak    def.  Guo/Dalla-Bona       76(5)
      32  Stelse/Le            def.  Jayasaputra/Chen     62
-     32  Melville/Burger      def.  Markova/Neyestani    61
-     32  Cormier/Zehender     def.  O Lideadha/O Lidead… 63
      32  Garcia-Reboredo/Cuq… def.  Millard/Davis        76(6)
      32  Balzert/Puzak        def.  Pavek/Urso           63
  > Final Day

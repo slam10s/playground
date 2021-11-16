@@ -37,6 +37,7 @@
 
 **Tournaments without Matches**  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/AFC105E4-5C32-4449-AF16-1FE48E08770E" target="_blank">Samford Fall Invite #2</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
 
 <a name="21-15825"></a>
@@ -779,7 +780,7 @@
      QF     Gedney/Stuart        def. (1) Marinescu/Maughan    Walkover
      QF (3) Botti/Salmeron       def.     Jeanne-Grandinot/Jo… Walkover
      QF     Mulas/Jacq           def. (4) Jadoun/Diaz          63
-     QF     Barrow/Flynn         def. (2) Lazo/Padilha         64
+     QF     Barrow/Flynn         def. (2) Lazo/Padilha         Walkover
   > North
       F     Suk/Dun              def.     Murillo/Osap         64
      SF     Suk/Dun              def.     Brewer/Nunez         61

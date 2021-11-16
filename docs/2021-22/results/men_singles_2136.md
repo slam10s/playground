@@ -11,7 +11,9 @@
 - 9/10/2021 - [Orange Lawn Fall Invitational](#21-93144) ([Results](#21-93144) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Draws</a>)  
 - 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
+- 9/11/2021 - [2021 CCIW Fall Invitational](#21-67914) ([Results](#21-67914) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillikinUniversityM/Tournaments/Overview/EC2D06D4-33B6-4D12-AD7F-0FFF3E553D26" target="_blank">Draws</a>)  
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
+- 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
 - 9/11/2021 - [St. Lawrence University Fall Classic](#21-93996) ([Results](#21-93996) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/3699D952-856D-4724-8FE8-12BD2237BE35" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/10/2021 - [Warhawk Fall Invitational](#21-36572) ([Results](#21-36572) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Draws</a>)  
@@ -20,7 +22,6 @@
 
 **Tournaments without Matches**  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">PTC College Invitational</a>  
 
 <a name="21-56790"></a>
 ~~~
@@ -197,7 +198,7 @@
      F  William Gatti        def.  Ryan Hellinger       36 76(4) [3]
  > Singles Match 56
   > Main
-     F  Collin Klumb         def.  Nick Charanjiva      76(4) 36 [5]
+     F  Nick Charanjiva      def.  Collin Klumb         76(4) 36 [5]
  > Singles Match 57
   > Main
      F  Mark Blekhman        def.  James Yu             84
@@ -571,7 +572,7 @@
   > Main
      32  Trey Hilderbrand   def.  Ben Shelton        57 64 64
      32  Blaise Bicknell    def.  Kento Yamada       46 76(2) 64
-     32  Mattias Siimar     def.  Jc Roddick         63 64
+     32  Mattias Siimar     def.  JC Roddick         63 64
      32  Andres Andrade     def.  Bryan Triana       63 63
      32  Abedallah Shelbayh def.  Bogdan Pavel       63 36 62
      32  Joshua Goodger     def.  Cooper White       61 62
@@ -597,7 +598,7 @@
      32  Daniel Rodrigues   def.  Trey Hilderbrand   64 26 76(6)
      32  Connor Thomson     def.  Bogdan Pavel       63 62
      32  Raphael Lambling   def.  Bryan Triana       61 62
-     32  Jc Roddick         def.  Jake Beasley       76(5) 64
+     32  JC Roddick         def.  Jake Beasley       76(5) 64
      32  James Story        def.  Cooper White       63 61
      32  Quinn Synder       def.  Carter Morgan      76(4) 64
  > Day Three Matches
@@ -611,7 +612,7 @@
      32  Robin Catry        def.  Trey Hilderbrand   62 61
      32  Braden Shick       def.  Kento Yamada       46 63 41 Ret.
      32  Martins Rocens     def.  Bogdan Pavel       46 63 62
-     32  Jc Roddick         def.  Damien Salvestre   75 62
+     32  JC Roddick         def.  Damien Salvestre   75 62
      32  Fons Van Sambeek   def.  Bryan Triana       76(1) 64
      32  Quinn Synder       def.  Joseph Schrader    61 64
      32  Cooper White       def.  Collin Shick       62 62
@@ -630,7 +631,7 @@
      64  Alex Kotzen          def.  Gabriel Diallo       62 63
      64  Francois Musitelli   def.  Alex Finkelstein     63 Ret.
      64  Joshua Lapadat       def.  Hugo Hashimoto       76(1) 57 63
-     64  Jj Mercer            def.  Ishaan Ravichander   61 63
+     64  JJ Mercer            def.  Ishaan Ravichander   61 63
      64  Yasha Zemel          def.  Austen Huang         76(3) 61
      64  Roko Horvat          def.  Alexandre LeBlanc    62 63
      64  Jonathan Sorbo       def.  Theo Winegar         76(3) 36 63
@@ -653,7 +654,7 @@
      64  Angel Diaz           def.  Henry Ruger          63 36 64
      64  Daniel De Jonge      def.  Francois Musitelli   76(2) 64
      64  Andrew Rogers        def.  Joshua Lapadat       46 76(4) 64
-     64  Jj Mercer            def.  Tim Zeitvogel        76(10) 61
+     64  JJ Mercer            def.  Tim Zeitvogel        76(10) 61
      64  Alexandre LeBlanc    def.  Linus Carlsson Hall… 63 62
      64  Yasha Zemel          def.  Eric Hadigian        64 75
      64  Corrado Summaria     def.  Jonathan Sorbo       75 64
@@ -1080,6 +1081,115 @@
      64  Bruno Serra          def.  William Crane        63 63
 ~~~
 
+<a name="21-67914"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  2021 CCIW Fall Invitational
+  Dates: Sep 11-12, 2021
+  Host: Millikin University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight 1
+  > East
+      F  Ramon Vilarroig Mar… def.  Arthur Hermange      63 76(6)
+     SF  Ramon Vilarroig Mar… def.  Daniel Moore         63 62
+     SF  Arthur Hermange      def.  Myles Krzewinski     64 64
+     QF  Ramon Vilarroig Mar… def.  Demetrios Triantafel 60 60
+     QF  Daniel Moore         def.  Ben Hart             61 60
+     QF  Myles Krzewinski     def.  Clayton Maack        64 62
+     QF  Arthur Hermange      def.  Javier Suarez Balse… 62 64
+  > West
+      F  Javier Suarez Balse… def.  Ben Hart             64 60
+     SF  Ben Hart             def.  Demetrios Triantafel 60 63
+     SF  Javier Suarez Balse… def.  Clayton Maack        64 75
+  > South
+      F  Clayton Maack        def.  Demetrios Triantafel 75 26 [3]
+ > Flight 2
+  > East
+      F  Guillermo Gonzalez … def.  Nicolas Welker       64 60
+     SF  Nicolas Welker       def.  Theodor Wolf         62 60
+     SF  Guillermo Gonzalez … def.  Tripp Schulte        64 75
+     QF  Nicolas Welker       def.  Carter Burk          60 60
+     QF  Theodor Wolf         def.  Andy Hinch           46 61 [7]
+     QF  Guillermo Gonzalez … def.  Holden Owens         62 60
+     QF  Tripp Schulte        def.  Leonardo Panosso     63 26 [6]
+  > West
+      F  Leonardo Panosso     def.  Carter Burk          61 62
+     SF  Carter Burk          def.  Andy Hinch           64 63
+     SF  Leonardo Panosso     def.  Holden Owens         62 61
+  > 3-4 Playoff
+      F  Theodor Wolf         def.  Tripp Schulte        64 57 [5]
+  > South
+      F  Holden Owens         def.  Andy Hinch           63 75
+ > Flight 3
+  > East
+      F  Yanozie Amadike      def.  Deepak Vayara        63 63
+     SF  Yanozie Amadike      def.  Cole Phillips        62 63
+     SF  Deepak Vayara        def.  Matt Sengphommachanh 64 46 [6]
+     QF  Cole Phillips        def.  Ryan McCoy           64 60
+     QF  Yanozie Amadike      def.  Eliot Saint-Paul     61 63
+     QF  Matt Sengphommachanh def.  Cory Erickson        60 62
+     QF  Deepak Vayara        def.  Evan Turnbull        62 62
+  > West
+      F  Eliot Saint-Paul     def.  Evan Turnbull        36 76(4) [6]
+     SF  Eliot Saint-Paul     def.  Ryan McCoy           62 62
+     SF  Evan Turnbull        def.  Cory Erickson        63 60
+  > 3-4 Playoff
+      F  Matt Sengphommachanh def.  Cole Phillips        63 76(7)
+  > South
+      F  Ryan McCoy           def.  Cory Erickson        61 64
+ > Flight 4
+  > East
+     SF  Cooper Ferruzzi      def.  Steven Mears         63 75
+     SF  Nick Marino          def.  Morgan Red           26 63 [5]
+     QF  Cooper Ferruzzi      def.  Luke Barter          60 61
+     QF  Steven Mears         def.  Justin Caldwell      61 61
+     QF  Morgan Red           def.  Justin Cassens       64 75
+     QF  Nick Marino          def.  Shanku Nair          63 76(4)
+  > West
+      F  Justin Cassens       def.  Luke Barter          62 64
+     SF  Luke Barter          def.  Justin Caldwell      64 60
+     SF  Justin Cassens       def.  Shanku Nair          75 63
+  > South
+      F  Shanku Nair          def.  Justin Caldwell      60 61
+ > Flight 5
+  > East
+      F  Hayden Friese        def.  Kyle Boudreau        76(6) 64
+     SF  Kyle Boudreau        def.  Ezekiel Cross        60 61
+     SF  Hayden Friese        def.  Dieter Gonzales      76(7) 62
+     QF  Kyle Boudreau        def.  Ian Hofland          60 61
+     QF  Ezekiel Cross        def.  James Broach         62 62
+     QF  Dieter Gonzales      def.  Jesse Dyer           75 62
+     QF  Hayden Friese        def.  Jack McCaffery       61 62
+  > West
+      F  Jesse Dyer           def.  James Broach         63 60
+     SF  James Broach         def.  Ian Hofland          46 61 [5]
+     SF  Jesse Dyer           def.  Jack McCaffery       64 75
+  > 3-4 Playoff
+      F  Dieter Gonzales      def.  Ezekiel Cross        60 63
+ > Flight 6
+  > East
+     SF  Daniel Urraca Mozos  def.  Reiss Naylor         60 64
+     SF  Douglas Blomquist    def.  Jordan Sibley-Diggs  61 61
+     QF  Daniel Urraca Mozos  def.  Ben Pierson          60 60
+     QF  Reiss Naylor         def.  Emilio Rodriguez     61 61
+     QF  Jordan Sibley-Diggs  def.  Ryan Strupp          76(3) 64
+     QF  Douglas Blomquist    def.  David Russ           61 63
+  > West
+      F  David Russ           def.  Ben Pierson          62 26 [7]
+     SF  Ben Pierson          def.  Emilio Rodriguez     76(4) 75
+     SF  David Russ           def.  Ryan Strupp          76(5) 61
+  > 3-4 Playoff
+      F  Reiss Naylor         def.  Jordan Sibley-Diggs  76(4) 63
+  > South
+      F  Ryan Strupp          def.  Emilio Rodriguez     62 61
+ > Flight 7
+  > Main
+     R3  Jordan Nowell        def.  Joshua Cortez        57 64 [6]
+     R2  Joshua Cortez        def.  Josiah Bailey        62 26 [5]
+     R1  Jordan Nowell        def.  Josiah Bailey        64 57
+~~~
+
 <a name="21-17243"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -1138,6 +1248,136 @@
      QF  Joe Steele           def.  Timothy Richardson   61 62
   > Consolation
      SQ  Ryan Gase            def.  Brayden Doherty      63 62
+~~~
+
+<a name="21-98528"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════
+  PTC College Invitational
+  Dates: Sep 10-12, 2021
+  Host: ITA
+════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Men's Flight C
+  > Main
+       F     Federico Roman       def.     Munyaradzi Musanhu   63 63
+      SF     Munyaradzi Musanhu   def.     Graham Waldrop       63 60
+      SF     Federico Roman       def.     Cameron Johnson      61 61
+      QF     Munyaradzi Musanhu   def. (1) Gabriel Aguirre Ara… 62 76(1)
+      QF     Graham Waldrop       def.     Dean Zoglio          64 62
+      QF     Cameron Johnson      def. (3) Qijun Li             61 63
+      QF     Federico Roman       def. (2) Michael Hess         60 60
+      16     Munyaradzi Musanhu   def.     Jaden Johnson        60 61
+      16     Dean Zoglio          def. (4) Hunter Johnson       61 60
+      16     Graham Waldrop       def.     Hank Terrell         61 60
+      16     Cameron Johnson      def.     Thinh Tran           61 61
+      16     Federico Roman       def.     Matt Morant          61 60
+  > Consolation
+       F (1) Gabriel Aguirre Ara… def. (3) Qijun Li             63 63
+      SF (1) Gabriel Aguirre Ara… def.     Hank Terrell         61 61
+      SF (3) Qijun Li             def. (2) Michael Hess         75 62
+      QF (1) Gabriel Aguirre Ara… def.     Jaden Johnson        60 62
+      QF (3) Qijun Li             def.     Thinh Tran           61 63
+      QF (2) Michael Hess         def.     Matt Morant          Walkover
+      QQ     Hank Terrell         def. (4) Hunter Johnson       16 61 [1]
+ > Men's Flight A
+  > Main
+       F (1) Armando Ferreira     def. (2) Jonas Grasmuck       75 67(3) [6]
+      SF (1) Armando Ferreira     def. (3) Diego Agudelo        60 46 [9]
+      SF (2) Jonas Grasmuck       def. (8) Kristoffer Stahlbra… 60 62
+      QF (1) Armando Ferreira     def. (5) Nelson Stafford      75 64
+      QF (3) Diego Agudelo        def. (7) Nicholas Cary        76(3) Ret.
+      QF (8) Kristoffer Stahlbra… def. (4) Liam Day             26 76(2) [8]
+      QF (2) Jonas Grasmuck       def.     Oscar Marmestedt     63 63
+      16 (1) Armando Ferreira     def.     Kent Shiell          75 64
+      16 (5) Nelson Stafford      def.     Alex Kostka          62 36 [6]
+      16 (3) Diego Agudelo        def.     Andres Golindano     75 67(6) [1]
+      16 (7) Nicholas Cary        def.     Johan Holgersson     60 62
+      16 (8) Kristoffer Stahlbra… def.     Kornel Kimaszweski   61 62
+      16 (4) Liam Day             def.     Israel Rojas         46 60 [8]
+      16     Oscar Marmestedt     def.     Kai Lloveras         57 64 [1]
+      16 (2) Jonas Grasmuck       def.     Hannes Tylehed       61 60
+      32 (1) Armando Ferreira     def.     Diego Rodriguez      63 62
+      32     Kent Shiell          def.     Martin Barbera       62 76(1)
+      32 (5) Nelson Stafford      def.     Manav Sreekumar      Walkover
+      32     Alex Kostka          def.     Elios Briand         63 63
+      32 (3) Diego Agudelo        def.     Javier Crespo        75 64
+      32     Andres Golindano     def.     Sarvesh Maria        62 36 [6]
+      32 (7) Nicholas Cary        def.     Gregory Normand      75 61
+      32     Johan Holgersson     def.     Julio Lopes Polesi   62 62
+      32     Kornel Kimaszweski   def.     Renzo Fassioli       36 63 [6]
+      32 (8) Kristoffer Stahlbra… def.     Aditya Balda         62 62
+      32     Israel Rojas         def.     Julian Gonzalez      62 60
+      32 (4) Liam Day             def.     Stefano Avendano     63 61
+      32     Kai Lloveras         def.     Parker Willis        63 62
+      32     Oscar Marmestedt     def. (6) Thembokwahke Makhan… 36 63 [7]
+      32     Hannes Tylehed       def.     Adam Ibrahim         46 61 [2]
+      32 (2) Jonas Grasmuck       def.     Victor Nunez         75 61
+  > Consolation
+       F     Stefano Avendano     def.     Javier Crespo        16 63 [5]
+      SF     Javier Crespo        def.     Elios Briand         61 64
+      SF     Stefano Avendano     def. (6) Thembokwahke Makhan… 75 46 [3]
+      QF     Elios Briand         def.     Diego Rodriguez      76(3) 75
+      QF     Javier Crespo        def.     Julio Lopes Polesi   61 62
+      QF     Stefano Avendano     def.     Aditya Balda         26 63 [6]
+      QF (6) Thembokwahke Makhan… def.     Victor Nunez         46 63 [1]
+     16Q     Diego Rodriguez      def.     Martin Barbera       61 63
+     16Q     Elios Briand         def.     Manav Sreekumar      Walkover
+     16Q     Javier Crespo        def.     Sarvesh Maria        60 60
+     16Q     Julio Lopes Polesi   def.     Gregory Normand      75 64
+     16Q     Aditya Balda         def.     Renzo Fassioli       Walkover
+     16Q     Stefano Avendano     def.     Julian Gonzalez      62 36 [1]
+     16Q (6) Thembokwahke Makhan… def.     Parker Willis        64 60
+     16Q     Victor Nunez         def.     Adam Ibrahim         62 61
+ > Men's Flight B
+  > Main
+       F     Hassan Badran        def.     David Velasco        63 46 [7]
+      SF     David Velasco        def. (8) Juan Camilo Burgos   64 75
+      SF     Hassan Badran        def.     Brad Beck            62 63
+      QF     David Velasco        def.     Arthur McCarthy      36 64 [5]
+      QF (8) Juan Camilo Burgos   def.     Kristen Pavitt       36 62 [1]
+      QF     Brad Beck            def. (3) Andres Viedma        46 60 [8]
+      QF     Hassan Badran        def. (6) Philip Nordberg      62 62
+      16     Arthur McCarthy      def.     Tuur Vos             36 62 [8]
+      16     David Velasco        def. (5) Ruben Emmerson-Hiini Walkover
+      16     Kristen Pavitt       def.     Wilhelm Karlsson     63 64
+      16 (8) Juan Camilo Burgos   def.     Lucas Cardoso        64 76(6)
+      16     Brad Beck            def.     Liam Barry           61 67(6) [6]
+      16 (3) Andres Viedma        def.     Kyle Praschan        64 76(4)
+      16 (6) Philip Nordberg      def.     Mario Molina         60 62
+      16     Hassan Badran        def.     Francisco Aron Mart… 63 64
+      32     Tuur Vos             def. (1) Leonel Hernandez Go… 64 61
+      32     Arthur McCarthy      def.     Fabian Segreda       63 64
+      32 (5) Ruben Emmerson-Hiini def.     David Bodson         63 62
+      32     David Velasco        def.     James Rodriguez      61 61
+      32     Kristen Pavitt       def. (4) Harri Lloyd-Evans    Walkover
+      32     Wilhelm Karlsson     def.     Cole Farren          60 61
+      32 (8) Juan Camilo Burgos   def.     Adam Ernberg         62 64
+      32     Lucas Cardoso        def.     Dylan Johns          60 60
+      32     Brad Beck            def.     Santiago Alvarez     62 64
+      32     Liam Barry           def. (7) Diego Ortega         26 50 Ret.
+      32     Kyle Praschan        def.     Alex Crabtree        61 62
+      32 (3) Andres Viedma        def.     Thiago Bertolani     60 60
+      32     Mario Molina         def.     Anthony Cassini      64 64
+      32 (6) Philip Nordberg      def.     Charlie Stamps       64 61
+      32     Francisco Aron Mart… def.     Freddie Stone        63 61
+      32     Hassan Badran        def. (2) Enzo Marcheschi      61 64
+  > Consolation
+       F (2) Enzo Marcheschi      def.     Adam Ernberg         26 61 [1]
+      SF     Adam Ernberg         def.     David Bodson         61 61
+      SF (2) Enzo Marcheschi      def.     Santiago Alvarez     62 60
+      QF     David Bodson         def. (1) Leonel Hernandez Go… 64 64
+      QF     Adam Ernberg         def.     Cole Farren          60 60
+      QF     Santiago Alvarez     def.     Alex Crabtree        46 13 Ret.
+      QF (2) Enzo Marcheschi      def.     Anthony Cassini      62 61
+     16Q (1) Leonel Hernandez Go… def.     Fabian Segreda       75 63
+     16Q     David Bodson         def.     James Rodriguez      62 61
+     16Q     Cole Farren          def. (4) Harri Lloyd-Evans    Walkover
+     16Q     Adam Ernberg         def.     Dylan Johns          60 60
+     16Q     Santiago Alvarez     def. (7) Diego Ortega         Walkover
+     16Q     Alex Crabtree        def.     Thiago Bertolani     62 62
+     16Q     Anthony Cassini      def.     Charlie Stamps       57 62 [3]
+     16Q (2) Enzo Marcheschi      def.     Freddie Stone        64 46 [6]
 ~~~
 
 <a name="21-93996"></a>

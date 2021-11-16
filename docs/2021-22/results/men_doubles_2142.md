@@ -111,16 +111,16 @@
   Host: Auburn University (M)
 ═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
- > Main
+ > Main Draw
   > Main
       F  Planinsek/Martin     def.  Lobak/Diaz Freire    62 76(4)
      SF  Lobak/Diaz Freire    def.  Murgett/Dobai        63 76(5)
      SF  Planinsek/Martin     def.  Du Preez/Bajracharya 64 62
-     QF  Murgett/Dobai        def.  Slavic/Junk          87
+     QF  Murgett/Dobai        def.  Slavic/Junk          87(5)
      QF  Lobak/Diaz Freire    def.  Aguiard/Samofalov    82
      QF  Planinsek/Martin     def.  Hernandez/Colas      83
      QF  Du Preez/Bajracharya def.  Stice/Galka          85
-     16  Slavic/Junk          def.  Broska/Ramskogler    86
+     16  Slavic/Junk          def.  Broska/Ramskogler    84
      16  Murgett/Dobai        def.  Suarez/Kuenkler      84
      16  Aguiard/Samofalov    def.  Lusovsky/Spyropoulos 85
      16  Lobak/Diaz Freire    def.  Cadonau/Engelhardt   85
@@ -128,6 +128,7 @@
      16  Planinsek/Martin     def.  Kozlov/Watson        81
      16  Du Preez/Bajracharya def.  Collard/St-Hilaire   86
      16  Stice/Galka          def.  Reynolds/Lithen      87(5)
+     32  Broska/Ramskogler    def.  Norwood/Vishnevskiy  86
      32  Slavic/Junk          def.  Dimitrov/Fillat Gim… 84
      32  Suarez/Kuenkler      def.  Koch/Graca           85
      32  Murgett/Dobai        def.  Gima/Audrain         87(2)
@@ -142,6 +143,7 @@
      32  Du Preez/Bajracharya def.  Bancila/De Alba      86
      32  Reynolds/Lithen      def.  Postolka/Puric       84
      32  Stice/Galka          def.  Antuna/Anton         84
+     64  Norwood/Vishnevskiy  def.  Jeanne-Grandinot/Jo… 83
      64  Dimitrov/Fillat Gim… def.  Hendrikx/Gray        84
      64  Koch/Graca           def.  Tasker/Simkin        86
      64  Gima/Audrain         def.  Rodriguez/Andre      86
@@ -154,7 +156,7 @@
      64  Postea/Dworak        def.  Christiansen/Ferrei… Walkover
      64  Du Preez/Bajracharya def.  Tortora/Richey       86
      64  Postolka/Puric       def.  Cahour/Nabiev        Walkover
-     64  Antuna/Anton         def.  Norwood/Vishnevskiy  86
+     64  Antuna/Anton         def.  Andonov/Pata         80
  > Consolation
   > Main
      SF  Rodriguez/Andre      def.  Tortora/Richey       86

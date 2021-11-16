@@ -50,7 +50,7 @@
      16      Catherine Gulihur   def.      Daevenia Achong     64 63
      16 (10) Emma Shelton        def.  (7) Ava Hrastar         63 63
      16 (15) Ania Hertel         def.  (2) Isabella Pfennig    46 61 62
-     32  (1) Meg Kowalski        def.      Grace Schumacher    62 60
+     32  (1) Meg Kowalski        def.      Grace Shumacher     62 60
      32 (13) Kylie Bilchev       def.      Eden Richardson     62 67(4) 76(6)
      32  (5) Carly Briggs        def.      Vic Allen           61 67(1) 60
      32  (9) Evgeniya Levashova  def.      Kamila Umarova      57 64 62
@@ -67,7 +67,7 @@
      32 (15) Ania Hertel         def.      Nandini Sharma      62 63
      32  (2) Isabella Pfennig    def.      Yasmine Kabbaj      63 75
      64  (1) Meg Kowalski        def.      Angel Carney        64 62
-     64      Grace Schumacher    def.      Ji Youn Lee         63 61
+     64      Grace Shumacher     def.      Ji Youn Lee         63 61
      64      Eden Richardson     def.      Jaleesa Leslie      61 57 41 Ret.
      64 (13) Kylie Bilchev       def.      Millie-Mae Matthews 20 Ret.
      64  (5) Carly Briggs        def.      Monika Dedaj        63 63

@@ -37,6 +37,7 @@
 
 **Tournaments without Matches**  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
+- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/AFC105E4-5C32-4449-AF16-1FE48E08770E" target="_blank">Samford Fall Invite #2</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
 
 <a name="21-15825"></a>
@@ -226,7 +227,7 @@
       64  (3) Francisco Rocha      def.      Arthur Toledo        64 60
       64 (16) Frazier Rengifo      def.      Maxwell Freeman      76(3) 61
       64  (9) Shunsuke Mitsui      def.      Julen Morgan         Walkover
-      64      Pau Fanlo            def. (16) Jj Mercer            62 61
+      64      Pau Fanlo            def. (16) JJ Mercer            62 61
       64  (5) Jeremie Casabon      def.      Drew Michael         76(4) 63
       64 (16) Carlos Vicente       def.      Marco Pennelli       75 26 62
       64      Ian Cruz             def.  (9) Chris Edge           76(5) 63
@@ -269,7 +270,7 @@
      128      Maxwell Freeman      def.      David Mizrahi        67(3) 75 75
      128  (9) Shunsuke Mitsui      def.      Brett Winters        61 62
      128      Julen Morgan         def.      Tom Berry            26 63 61
-     128 (16) Jj Mercer            def.      Kerim Hyatt          63 62
+     128 (16) JJ Mercer            def.      Kerim Hyatt          63 62
      128      Pau Fanlo            def.      Ronit Hiryur         63 61
      128  (5) Jeremie Casabon      def.      Carlos Salas Tulla   62 61
      128      Drew Michael         def.      Anton Damberg        61 63
@@ -1167,12 +1168,12 @@
        F      Ben Shelton          def.      August Holmgren      63 64
       SF      Ben Shelton          def.      Clement Chidekh      63 60
       SF      August Holmgren      def.  (Q) Andre Ilagan         64 63
-      QF      Ben Shelton          def.  (Q) Jj Tracy             76(7) 75
+      QF      Ben Shelton          def.  (Q) JJ Tracy             76(7) 75
       QF      Clement Chidekh      def.  (6) Gabriel Diallo       61 36 64
       QF  (Q) Andre Ilagan         def.      Alex Kotzen          16 61 62
       QF      August Holmgren      def.      Mason Beiler         62 64
       16      Ben Shelton          def.  (9) Ronnie Hohmann       63 62
-      16  (Q) Jj Tracy             def.      Alexandre Reco       76(5) 46 64
+      16  (Q) JJ Tracy             def.      Alexandre Reco       76(5) 46 64
       16      Clement Chidekh      def.  (Q) Stefan Dostanic      46 63 63
       16  (6) Gabriel Diallo       def.      Andres Martin        76(1) 62
       16  (Q) Andre Ilagan         def.      Cannon Kingsley      64 62
@@ -1182,7 +1183,7 @@
       32      Ben Shelton          def.  (1) Daniel Rodrigues     63 20 Ret.
       32  (9) Ronnie Hohmann       def.      Arthur Fery          63 76(5)
       32      Alexandre Reco       def.  (5) Trent Bryde          76(4) 60
-      32  (Q) Jj Tracy             def.  (9) Nikola Slavic        63 63
+      32  (Q) JJ Tracy             def.  (9) Nikola Slavic        63 63
       32  (Q) Stefan Dostanic      def.      Francisco Rocha      46 63 61
       32      Clement Chidekh      def.      Ryan Goetz           64 62
       32  (6) Gabriel Diallo       def.  (Q) Daniel De Jonge      26 63 76(2)
@@ -1202,7 +1203,7 @@
       64  (5) Trent Bryde          def.  (Q) Henry Schulenburg    61 26 64
       64      Alexandre Reco       def. (LL) Emmanuel Coste       64 26 76(2)
       64  (9) Nikola Slavic        def.      James Davis          63 64
-      64  (Q) Jj Tracy             def.      Stefan Hampe         61 64
+      64  (Q) JJ Tracy             def.      Stefan Hampe         61 64
       64      Francisco Rocha      def.  (3) Luc Fomba            76(4) 64
       64  (Q) Stefan Dostanic      def.      Brian Cernoch        64 60
       64      Ryan Goetz           def.  (9) Matej Vocel          36 62 63
@@ -1267,7 +1268,7 @@
       64  (Q) Eric Hadigian        def. (17) Joshua Lapadat       64 64
       64      Tim Zeitvogel        def.      Geronimo Busleiman   63 46 76(3)
       64      Francois Musitelli   def.      Simon Arca Costas    63 61
-      64 (17) Jj Tracy             def.      Max Basing           76(4) 60
+      64 (17) JJ Tracy             def.      Max Basing           76(4) 60
       64      Trey Hilderbrand     def.      Blake Croyder        63 36 64
       64      Andre Ilagan         def.      Stijn Slump          62 57 60
       64      Tadeas Paroulek      def.      Gavin Young          64 64
@@ -1290,7 +1291,7 @@
      128      Francois Musitelli   def.      Justin Boulais       64 62
      128      Simon Arca Costas    def.      Filip Malbasic       26 75 75
      128      Max Basing           def.      Connor Di Marco      62 64
-     128 (17) Jj Tracy             def.  (Q) Carlos Hassey        16 64 61
+     128 (17) JJ Tracy             def.  (Q) Carlos Hassey        16 64 61
      128      Blake Croyder        def.  (8) Siem Woldeab         76(4) 75
      128      Trey Hilderbrand     def. (LL) Carl Emil Overbeck   64 36 64
      128      Andre Ilagan         def.      Jacob Brumm          64 62
@@ -1336,7 +1337,7 @@
      256      Max Basing           def.  (7) James Story          76(9) 76(5)
      256      Connor Di Marco      def.      Kyle Frankel         63 16 64
      256  (Q) Carlos Hassey        def.      Ronan Jachuck        36 63 63
-     256 (17) Jj Tracy             def.  (Q) Justin Schlageter    63 62
+     256 (17) JJ Tracy             def.  (Q) Justin Schlageter    63 62
      256  (8) Siem Woldeab         def.  (Q) Oscar Pinto Sansano  62 60
      256      Blake Croyder        def.      Thomas Bosancic      62 64
      256      Trey Hilderbrand     def.      Marin Delmas         36 63 63
@@ -2913,7 +2914,7 @@
       32 (4) Tristan Munteanu    def.     Riley Visaya        62 61
       32     Christian Anderson  def.     Nathan Butterfield  61 62
       32     Dominik Stefanov    def. (8) Pim Van der Veer    62 64
-      32     Tommy Hays          def.     Jj Niven            76(4) 61
+      32     Tommy Hays          def.     JJ Niven            76(4) 61
       32     Michael Cabacungan  def.     Dennis Isak         61 61
       32 (7) Julien Sanseverino  def.     Nick Griffin        61 63
       32     Seth Lipe           def.     Vinicius Torres     61 64
@@ -2924,16 +2925,16 @@
       32     Mason Lebby         def. (2) Hangyu Ai           36 63 [10]
   > Consolation
        F     Aaron Moylan        def. (2) Hangyu Ai           61 61
-      SF     Aaron Moylan        def.     Jj Niven            75 63
+      SF     Aaron Moylan        def.     JJ Niven            75 63
       SF (2) Hangyu Ai           def.     Nick Griffin        64 46 [8]
       QF     Aaron Moylan        def.     Shawn Rothermel     62 46 [5]
-      QF     Jj Niven            def.     Nathan Butterfield  63 62
+      QF     JJ Niven            def.     Nathan Butterfield  63 62
       QF     Nick Griffin        def.     Alex Atwell         50 Ret.
       QF (2) Hangyu Ai           def. (6) Luke Watson         64 36 [4]
      16Q     Shawn Rothermel     def.     Nicholas Solimene   62 62
      16Q     Aaron Moylan        def.     Leyton Ramos        61 62
      16Q     Nathan Butterfield  def.     Riley Visaya        60 61
-     16Q     Jj Niven            def. (8) Pim Van der Veer    64 63
+     16Q     JJ Niven            def. (8) Pim Van der Veer    64 63
      16Q     Nick Griffin        def.     Dennis Isak         Walkover
      16Q     Alex Atwell         def.     Vinicius Torres     64 60
      16Q (6) Luke Watson         def.     Ahmed Amer          64 57 [6]
@@ -3352,11 +3353,11 @@
       SQ     James McKenzie       def.     Chris Catan          75 64
  > B5 Singles
   > Main
-       F     Tj Rudden            def.     Ryohei Kawai         61 62
-      SF     Tj Rudden            def.     Josh Bottrell        62 62
+       F     TJ Rudden            def.     Ryohei Kawai         61 62
+      SF     TJ Rudden            def.     Josh Bottrell        62 62
       SF     Ryohei Kawai         def.     Luke McMUllen        57 64 [8]
       QF     Josh Bottrell        def.     Matthew Ray          Walkover
-      QF     Tj Rudden            def.     Dawson Driscoll      63 62
+      QF     TJ Rudden            def.     Dawson Driscoll      63 62
       QF     Ryohei Kawai         def.     Priyan Desilva       62 63
       QF     Luke McMUllen        def.     Anthony Casale       63 63
   > Consolation
@@ -3418,12 +3419,12 @@
       F  (2) Ravi Nelson        def.  (1) Junyong Kim        64 32 Ret.
      SF  (1) Junyong Kim        def. (10) Parker Perdue      62 62
      SF  (2) Ravi Nelson        def.  (5) Robin Sharma       Walkover
-     QF  (1) Junyong Kim        def.  (8) Dj Sobrepena       62 64
+     QF  (1) Junyong Kim        def.  (8) DJ Sobrepena       62 64
      QF (10) Parker Perdue      def.  (3) Micah Erwin        63 06 [4]
      QF  (5) Robin Sharma       def.  (4) Zac Prince         75 63
      QF  (2) Ravi Nelson        def.  (7) Justin Le          62 60
      16  (1) Junyong Kim        def.      Jason Eissayou     61 60
-     16  (8) Dj Sobrepena       def.      Kyle Sahara        60 60
+     16  (8) DJ Sobrepena       def.      Kyle Sahara        60 60
      16 (10) Parker Perdue      def.  (6) Diego Camarillo    60 60
      16  (3) Micah Erwin        def.      Spencer Hill       62 60
      16  (4) Zac Prince         def. (15) Gage Biery         61 61
@@ -3433,7 +3434,7 @@
      32  (1) Junyong Kim        def.      Aaron Macagba      60 61
      32      Jason Eissayou     def. (13) Jason Hom          76(5) 57 [8]
      32      Kyle Sahara        def.  (9) Hunter Bradac      64 76(4)
-     32  (8) Dj Sobrepena       def.      Sam Kassis         64 61
+     32  (8) DJ Sobrepena       def.      Sam Kassis         64 61
      32  (6) Diego Camarillo    def.      Wyatt McCune       62 61
      32 (10) Parker Perdue      def.      Yurro Zabala       61 60
      32      Spencer Hill       def. (14) Diego Rodriguez    75 64
@@ -3718,6 +3719,39 @@
      32Q      Jai Kashyap          def.      Steve Mullaney       82
      32Q      Cristian Rodriguez   def.      Jack Fauser          85
      32Q      Ryan MacLean         def.      Caleb Cole           80
+ > Flight A Conso
+  > Main
+       F      Teodor Zlatar        def.      Pedro Orelanna       Walkover
+      SF      Teodor Zlatar        def.      Andre Baltazar       63 Ret.
+      SF      Pedro Orelanna       def.      Agustin Cortes       Walkover
+      QF      Teodor Zlatar        def.      Pedro Scattolon      16 60 [5]
+      QF      Andre Baltazar       def.      Nicolas Doria        63 61
+      QF      Agustin Cortes       def.      Kevin Bollmann       62 62
+      QF      Pedro Orelanna       def.      Illia Turaba         61 60
+      16      Pedro Scattolon      def.      Alvaro Trillo-Sanch… 61 62
+      16      Teodor Zlatar        def.      Armando Lopez        76(3) 62
+      16      Andre Baltazar       def.      Joey Blasi           62 64
+      16      Nicolas Doria        def.      Juan Avellaneda      76(4) 57 [7]
+      16      Agustin Cortes       def.      Ulises Barradas      60 61
+      16      Kevin Bollmann       def.      Moises Sosa          61 63
+      16      Illia Turaba         def.      Jonah Anderson       36 61 [8]
+      16      Pedro Orelanna       def.      Jones McNamar        62 63
+      32      Pedro Scattolon      def.      Lee Chan             26 62 [5]
+      32      Alvaro Trillo-Sanch… def.      David Sandi          Walkover
+      32      Armando Lopez        def.      Jerod May            63 63
+      32      Teodor Zlatar        def.      Valentin Mussi       63 64
+      32      Andre Baltazar       def.      Mark Griffin         63 61
+      32      Joey Blasi           def.      Lucca de Oliveira A… 61 61
+      32      Juan Avellaneda      def.      Jerad Bos            64 63
+      32      Nicolas Doria        def.      Trey Thixton         64 63
+      32      Ulises Barradas      def.      Fabricio Galvan      Walkover
+      32      Agustin Cortes       def.      Andrew Ilett         62 62
+      32      Moises Sosa          def.      Facundo Paredes      Walkover
+      32      Kevin Bollmann       def.      Justin Haggard       60 61
+      32      Jonah Anderson       def.      Alex Serwatka        Walkover
+      32      Illia Turaba         def.      David Ayguavives     Walkover
+      32      Jones McNamar        def.      Nils Hammarsten      46 63 [7]
+      32      Pedro Orelanna       def.      Andrew Hare          60 61
 ~~~
 
 <a name="21-30655"></a>

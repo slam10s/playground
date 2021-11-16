@@ -61,7 +61,7 @@
       32 (26) Daniel Milavsky      def.  (3) Karl Poling          75 75
       32  (8) Max Westphal         def. (29) Adit Sinha           63 64
       32 (31) Niels Van Noord      def. (19) Kaya Gore            64 63
-      32 (15) Michael Sun          def. (32) Aj Woodman           64 46 63
+      32 (15) Michael Sun          def. (32) AJ Woodman           64 46 63
       32  (2) Alex Kotzen          def. (30) Steven Sun           61 63
       64  (1) Alafia Ayeni         def.      Nicholas Lorenz      61 61
       64 (20) Carlos Guerrero Alv… def.      Jan Semerak          76(6) 63
@@ -92,7 +92,7 @@
       64 (19) Kaya Gore            def.      Xandy Hammitt        63 75
       64 (31) Niels Van Noord      def.      Aidan Reilly         63 61
       64 (15) Michael Sun          def.      Jonathan Olive-Blan… 64 46 62
-      64 (32) Aj Woodman           def.      Jayden Templeman     60 36 64
+      64 (32) AJ Woodman           def.      Jayden Templeman     60 36 64
       64 (30) Steven Sun           def.      Diego Serra Sparrow  62 64
       64  (2) Alex Kotzen          def.      Rex Tang             61 61
      128      Nicholas Lorenz      def.      Diego Huttepain      26 63 76(4)
@@ -220,29 +220,73 @@
       32  Fynn Kuenkler        def.  Jim Hendrikx         60 75
       32  Boris Kozlov         def.  Gregor Ramskogler    64 46 62
       32  Filip Planinsek      def.  Tyler Stice          76(5) 26 64
+ > Consolation 2
+  > Main
+      32  Spencer Gray         def.  Joao Ferreira        60 75
+      32  John Hallquist Lith… def.  Finn Murgett         63 46 [4]
+      32  Sebastien Collard    def.  Davide Tortora       26 75 63
+      32  Florian Broska       def.  Jakob Cadonau        62 64
+      32  Lukas Engelhardt     def.  Jim Hendrikx         62 64
+      32  Tyler Stice          def.  Gregor Ramskogler    60 64
+      32  Alex Bancila         def.  Kacper Dworak        36 63 [5]
+      32  Benji Jacobson       def.  Alejandro Sanchez G… 64 75
+      32  Luc Hoeijmans        def.  Maxime St-Hilaire    64 76(2)
+      32  Walker Stearns       def.  Seth Richey          64 62
+      32  Vasil Dimitrov       def.  Javier Montoya       75 62
+      32  Charlie Barry        def.  Karlo Kajin          62 64
+      32  Oriol Fillat Gimenez def.  Josh Raab            61 64
+      32  Juan Martin          def.  Dhruv Sunish         62 63
  > Consolation
   > Main
-      64  Spencer Gray         def.  Joao Ferreira        60 75
-      64  John Hallquist Lith… def.  Finn Murgett         63 46 60
-      64  Sebastien Collard    def.  Davide Tortora       26 75 63
-      64  Florian Broska       def.  Jakob Cadonau        62 64
-      64  Lukas Engelhardt     def.  Jim Hendrikx         62 64
-      64  Tyler Stice          def.  Gregor Ramskogler    60 64
-      64  Alex Bancila         def.  Kacper Dworak        36 63 60
-      64  Benji Jacobson       def.  Alejandro Sanchez G… 64 75
-      64  Luc Hoeijmans        def.  Maxime St-Hilaire    64 76(2)
-      64  Walker Stearns       def.  Seth Richey          64 62
-      64  Vasil Dimitrov       def.  Javier Montoya       75 62
-      64  Charlie Barry        def.  Karlo Kajin          62 64
-      64  Josh Raab            def.  Oriol Fillat Gimenez 61 64
-      64  Juan Martin          def.  Dhruv Sunish         62 63
-      64  Matthew Gooch        def.  Martin Vasquez       75 62
-      64  Pawin Jirapoomdaje   def.  Jb Pickard           63 62
-      64  Pasawee Reansuwong   def.  Nikola Puric         63 62
+     128  Luka Petrovic        def.  Spencer Gray         64 60
+     128  JB Pickard           def.  Kristofer Johnson    61 61
+     128  David Pata           def.  Pasawee Reansuwong   61 75
+     128  Vojtech Podzemny     def.  Javier Montoya       64 64
+     128  Alan Sanson          def.  Lucas Dini           36 63 61
+     128  Antoine Audrain      def.  Alejandro Sanchez G… 62 75
+     128  Josh Raab            def.  Maxime Hillhouse     61 63
+     128  Walker Stearns       def.  Athanasios Spyropou… 64 62
+     128  Will Gray            def.  Matis Amier          64 75
+     128  Vanja Dobrnjac       def.  Alexander Gima       61 60
+     128  Mohamed Ali Bellalo… def.  Francisco Erramuspe  61 60
+     128  Maj Tomac            def.  Seth Richey          62 60
+     128  Thomas Norwood       def.  Chase Parker         60 61
+     128  Manuel Bernard       def.  Alexander Vishnevsk… 62 63
+     128  Juan Rodriguez       def.  Martin Vasquez       64 76(2)
+     128  Jordi Blanchar       def.  Christopher Cahour   61 61
+     128  Ben Koch             def.  Nikola Puric         61 63
+     128  Chris Andre          def.  Matthew Gooch        62 63
+ > Consolation 3
+  > Main
+      32  Alex Bancila         def.  Mohamed Ali Bellalo… 60 20 Ret.
+      32  Matthew Gooch        def.  Martin Vasquez       75 62
+      32  Karlo Kajin          def.  Will Gray            60 61
+      32  Pawin Jirapoomdaje   def.  JB Pickard           63 62
+      32  Luka Petrovic        def.  Vasil Dimitrov       67(8) 75 [8]
+      32  Louis Delcour        def.  Charlie Barry        36 75 [7]
+      32  Kacper Dworak        def.  Luc Hoeijmans        64 64
+      32  Chase Parker         def.  Seth Richey          46 75 [6]
+      32  Pasawee Reansuwong   def.  Nikola Puric         63 62
+      32  Spencer Gray         def.  Vojtech Podzemny     62 60
+      32  Josh Raab            def.  Benji Jacobson       06 64 [4]
+      32  Walker Stearns       def.  Alexander Gima       62 21 Ret.
+      32  Maxime St-Hilaire    def.  Jackson Ross         50 Ret.
+      32  Oriol Fillat Gimenez def.  Antoine Audrain      61 63
+      32  Calin Postea         def.  Javier Montoya       76(2) 36 [4]
+ > Extra Match
+  > Main
+      QF  Luka Petrovic        def.  Harrison Williams    12 Ret.
+      QF  Oriol Fillat Gimenez def.  Spencer Gray         63 43 Ret.
+      QF  Ruan Du Preez        def.  Josh Raab            75 63
+ > Extra Match 2
+  > Main
+      SF  Luka Petrovic        def.  Joao Ferreira        64 62
+      SF  Spencer Gray         def.  Calin Postea         64 Ret.
  > Qualifying
   > Main
       16  Lukas Engelhardt     def.  Nicolas Simkin       62 61
       16  Fynn Kuenkler        def.  Jackson Ross         67(5) 76 62
+      16  Olimjon Nabiev       def.  Luc Hoeijmans        63 64
       16  Roman Postolka       def.  Joao Ferreira        26 64 63
       16  Sebastien Collard    def.  Jakob Cadonau        60 63
       16  Gabriel Diaz Freire  def.  Pelayo Antuna        75 62
@@ -282,7 +326,7 @@
       64  Calin Postea         def.  Pasawee Reansuwong   63 64
       64  Javier Llinares      def.  Thomas Norwood       46 62 62
       64  Jakob Cadonau        def.  Ben Koch             76 61
-      64  Alex Bancila         def.  Jb Pickard           61 62
+      64  Alex Bancila         def.  JB Pickard           61 62
       64  Sebastien Collard    def.  Kristofer Johnson    63 61
       64  Vasil Dimitrov       def.  Samrakshyak Bajrach… 67(8) 64 63
       64  Pelayo Antuna        def.  Mohamed Ali Bellalo… 61 63
@@ -817,17 +861,17 @@
  Men's Open Singles
  > Main Draw
   > Main
-        F  (3) James Trotter        def.  (7) Jj Tracy             63 64
-       SF  (7) Jj Tracy             def.      Trice Pickens        61 62
+        F  (3) James Trotter        def.  (7) JJ Tracy             63 64
+       SF  (7) JJ Tracy             def.      Trice Pickens        61 62
        SF  (3) James Trotter        def.  (2) Ondrej Styler        62 10 Ret.
        QF      Trice Pickens        def. (11) Robert Cash          63 64
-       QF  (7) Jj Tracy             def. (12) Olivier Stuart       62 62
+       QF  (7) JJ Tracy             def. (12) Olivier Stuart       62 62
        QF  (3) James Trotter        def.  (8) Patrick Maloney      62 67(5) 63
        QF  (2) Ondrej Styler        def. (13) Justin Boulais       76(8) 36 76(5)
        16 (11) Robert Cash          def.  (1) Axel Nefve           63 64
        16      Trice Pickens        def.  (6) Vito Tonejc          61 61
        16 (12) Olivier Stuart       def.  (4) Andrew Fenty         64 75
-       16  (7) Jj Tracy             def. (10) Gavin Young          16 61 76(4)
+       16  (7) JJ Tracy             def. (10) Gavin Young          16 61 76(4)
        16  (8) Patrick Maloney      def. (16) Kweisi Kenyatte      64 76(3)
        16  (3) James Trotter        def.      Max Sheldon          62 63
        16 (13) Justin Boulais       def.      Nino Ehrenschneider  64 46 76(3)
@@ -838,7 +882,7 @@
        32      Trice Pickens        def.      Brian Bilsey         61 61
        32  (4) Andrew Fenty         def.      Brian Berdusco       61 61
        32 (12) Olivier Stuart       def.      Anton Arzhankin      46 61 64
-       32  (7) Jj Tracy             def.      Sebastian Vile       61 63
+       32  (7) JJ Tracy             def.      Sebastian Vile       61 63
        32 (10) Gavin Young          def.      Benjamin George      63 64
        32 (16) Kweisi Kenyatte      def.      Jack Winkler         64 40 Ret.
        32  (8) Patrick Maloney      def.      Connor Fu            75 60
@@ -860,7 +904,7 @@
        64      Brian Berdusco       def.      Pedro Alvarez        57 63 76(3)
        64 (12) Olivier Stuart       def.      Laurentiu Mandocescu 64 60
        64      Anton Arzhankin      def.      Robin Parts          76(5) 64
-       64  (7) Jj Tracy             def.      Nick Williams        61 61
+       64  (7) JJ Tracy             def.      Nick Williams        61 61
        64      Sebastian Vile       def.      Clark Bilinovich     60 60
        64 (10) Gavin Young          def.      Nic Meister          61 57 63
        64      Benjamin George      def.      Braeden Ho           67(2) 60 76(4)
@@ -897,7 +941,6 @@
        32      Nathan Favier        def.      Javier Sanchez Prad… 61 64
        32      Brogan Pierce        def.      Erik Gran            61 75
        32      JuandeDios Abboud    def.      Zane Kohrs           76 64
-       32      Lars Minsaas         def.      Cole Shoults         62 63
        32      Kazuki Matsuno       def.      Maximiliano Sandova… 62 63
        32      Marko Galic          def.      Jakub Zamorski       63 64
        32      Vlad Meluta          def.      Austin Staiger       61 63
@@ -1042,13 +1085,13 @@
      SF  (5) Andres Martin        def.      Dominik Barton       61 62
      QF      Alvaro Fernandez Ho… def.      Richard Thongoana    61 64
      QF (14) Trey Hilderbrand     def.      Nate Bonetto         75 75
-     QF      Dominik Barton       def.      Jc Roddick           61 62
+     QF      Dominik Barton       def.      JC Roddick           61 62
      QF  (5) Andres Martin        def.  (2) Philip Henning       76(6) 26 62
      16      Richard Thongoana    def.      William Grant        76(6) 46 62
      16      Alvaro Fernandez Ho… def.      Bogdan Pavel         76(6) 63
      16      Nate Bonetto         def. (11) Blake Croyder        76(3) 62
      16 (14) Trey Hilderbrand     def.      Andreja Petrovic     46 76(4) 75
-     16      Jc Roddick           def.      Keshav Chopra        64 64
+     16      JC Roddick           def.      Keshav Chopra        64 64
      16      Dominik Barton       def. (15) Dan Martin           64 46 64
      16  (5) Andres Martin        def. (13) Bojan Jankulovski    67(4) 63 61
      16  (2) Philip Henning       def. (16) Abedallah Shelbayh   64 26 62
@@ -1060,7 +1103,7 @@
      32 (11) Blake Croyder        def.      Kevin Huempfner      76(7) 46 63
      32      Andreja Petrovic     def.  (6) Chase Ferguson       60 62
      32 (14) Trey Hilderbrand     def.      Erik Grevelius       63 63
-     32      Jc Roddick           def.  (9) Loris Pourroy        63 64
+     32      JC Roddick           def.  (9) Loris Pourroy        63 64
      32      Keshav Chopra        def.      Bruno Oliveira       76(2) 62
      32 (15) Dan Martin           def.      Antonio Muniz-Hidal… 76(6) 61
      32      Dominik Barton       def.      Pablo Schelcher      63 62
@@ -1084,7 +1127,7 @@
      64      Andreja Petrovic     def.      Patrick Kotan        75 62
      64 (14) Trey Hilderbrand     def.      Andrei Duarte        67(1) 75 60
      64      Erik Grevelius       def.      Munuel Goncalves     62 61
-     64      Jc Roddick           def.      Juan Lopez           62 62
+     64      JC Roddick           def.      Juan Lopez           62 62
      64  (9) Loris Pourroy        def.      Sergio Gomez-Montesa 63 64
      64      Keshav Chopra        def.      Mathis Debru         61 64
      64      Bruno Oliveira       def.  (7) Joshua Goodger       63 16 76(4)
@@ -1674,22 +1717,22 @@
      32  Will Kasten       def.  Adrian Pawlowski  76(4) 64
      32  Gabe Brown        def.  Jake Vassel       75 63
      32  Ben Letzer        def.  Shreekar Eedara   60 36 76(4)
-     32  Jj Bianchi        def.  Jonah Dickson     62 62
+     32  jj Bianchi        def.  Jonah Dickson     62 62
      32  Connor Mcdonald   def.  Cole Knutsen      61 61
  > Round 3
   > Main
      32  Max Motlagh       def.  Daniel Milavsky   76(4) 57 [10]
      32  David Lins        def.  Oliver Worth      62 Ret.
      32  Niels Korsgaard   def.  Will Kasten       75 63
-     32  Jj Bianchi        def.  David Arkow       62 62
+     32  jj Bianchi        def.  David Arkow       62 62
      32  Jake Vassel       def.  Sundeep Chakladar 61 75
      32  Shreekar Eedara   def.  Daniel Sharygin   57 75 [5]
      32  Connor Mcdonald   def.  Wayne Nelms       64 26 [6]
      32  Bennett Turner    def.  Benjamin Ebanks   64 62
-     32  Ryan Xiao         def.  Johann Sajonz     64 62
+     32  Derek Shen        def.  Johann Sajonz     64 62
  > Round 2
   > Main
-     32  Jj Bianchi        def.  Derek Shen        63 60
+     32  jj Bianchi        def.  Derek Shen        63 60
      32  Jake Vassel       def.  Richter Jordaan   64 63
      32  Shreekar Eedara   def.  Daniel Papacica   64 63
      32  Connor Mcdonald   def.  Carl Grant        60 62

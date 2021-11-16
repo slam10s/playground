@@ -1,29 +1,93 @@
 <a name="top"></a>[<< Prev](women_singles_2143.md) &nbsp; **Week #44 - Nov 1-7, 2021** &nbsp; [Next >>](women_singles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2144.md) &#124; [***Women***](./women_singles_2144.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2144.md) &#124; [Doubles](./women_doubles_2144.md)
 
 **Tournamets with Matches**  
+- 11/5/2021 - [ASU Thunderbird Invitational](#21-50924) ([Results](#21-50924) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ArizonaStateUniversityW/Tournaments/Overview/539AAEB8-CB2F-46ED-8DAD-69DE1A5FEC2B" target="_blank">Draws</a>)  
 - 11/5/2021 - [Big 12 Fall Invite](#21-16081) ([Results](#21-16081) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityW/Tournaments/Overview/09F853AD-B55F-4E36-A946-000C8F2276A0" target="_blank">Draws</a>)  
 - 11/5/2021 - [Big Green Invite](#21-85102) ([Results](#21-85102) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/5276B6E4-164E-442F-9176-B1F0E580208C" target="_blank">Draws</a>)  
 - 11/5/2021 - [Bulldog Classic](#21-78423) ([Results](#21-78423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/3B50645F-F80E-42E8-8DC4-58667C1C1A01" target="_blank">Draws</a>)  
 - 11/5/2021 - [FGCU Collegiate Open](#21-51873) ([Results](#21-51873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaGulfCoastUniversityW/Tournaments/Overview/366369DF-D1D6-4447-B214-C4B5012C2F42" target="_blank">Draws</a>)  
 - 11/5/2021 - [Gonzaga Invite BULLDOG](#21-49592) ([Results](#21-49592) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityW/Tournaments/Overview/92D5D3EA-78F6-46C4-B8B6-24485A28CE1D" target="_blank">Draws</a>)  
+- 11/4/2021 - [Harvard Fall Invitational](#21-06527) ([Results](#21-06527) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Draws</a>)  
 - 11/4/2021 - [ITA National Fall Championships](#21-38622) ([Results](#21-38622) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3C0D3BF7-1EA0-4314-9798-02FE691DD86E" target="_blank">Draws</a>)  
 - 11/5/2021 - [Jack Kramer Invitational](#21-11431) ([Results](#21-11431) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/EBFDB9EE-65DF-40EA-8395-B821B7EA07B0" target="_blank">Draws</a>)  
 - 11/5/2021 - [John Cade Invitational](#21-78019) ([Results](#21-78019) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivW/Tournaments/Overview/E7E24596-5A63-454E-9711-8B3FDC25E020" target="_blank">Draws</a>)  
 - 11/5/2021 - [Mean Green Invite](#21-18352) ([Results](#21-18352) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthTexasW/Tournaments/Overview/EF6FA1CB-A90F-4BA0-B5BD-1D5B642D3C48" target="_blank">Draws</a>)  
+- 11/5/2021 - [Ragin' Cajun Invitational](#21-05390) ([Results](#21-05390) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/13357FE4-447E-4166-A5B8-AA4028AFC248" target="_blank">Draws</a>)  
 - 11/5/2021 - [San Diego Veterans Tennis Classic](#21-91602) ([Results](#21-91602) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">Draws</a>)  
+- 11/5/2021 - [Seahawk Ocean Classic](#21-51929) ([Results](#21-51929) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonW/Tournaments/Overview/FE307133-DF38-4D97-8DE6-D59D765D1738" target="_blank">Draws</a>)  
 - 11/5/2021 - [Southern Conference Men's & Women's Fall Tennis Championships](#21-32980) ([Results](#21-32980) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3BD3D9A3-1CE7-4BB9-93E6-7D1ECED07DFE" target="_blank">Draws</a>)  
 - 11/5/2021 - [Stetson Invite #2](#21-71023) ([Results](#21-71023) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Draws</a>)  
 - 11/5/2021 - [The Hurricane Invite](#21-37091) ([Results](#21-37091) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfTulsaW/Tournaments/Overview/9EC94FD0-CD14-417E-AF67-50993725A2A1" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ArizonaStateUniversityW/Tournaments/Overview/539AAEB8-CB2F-46ED-8DAD-69DE1A5FEC2B" target="_blank">ASU Thunderbird Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityW/Tournaments/Overview/F28FCCEF-4BC1-4442-AA94-59500ADE80D8" target="_blank">Gonzaga Invite</a>  
-- 11/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Harvard Fall Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMiamiW/Tournaments/Overview/E7F97784-0CD7-4253-8BB3-955C95162E60" target="_blank">Miami Fall Invite</a>  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/13357FE4-447E-4166-A5B8-AA4028AFC248" target="_blank">Ragin' Cajun Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SantaClaraUniversityW/Tournaments/Overview/BBE3EA3C-9201-43BE-AD2E-553A4B616F3C" target="_blank">SCU/SJSU Invitational</a>  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonW/Tournaments/Overview/FE307133-DF38-4D97-8DE6-D59D765D1738" target="_blank">Seahawk Ocean Classic</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityAtBuffaloSUNYW/Tournaments/Overview/B0B719F8-A62E-4D29-A341-820B59C4A6C8" target="_blank">UB Fall Invite</a>  
+
+<a name="21-50924"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════
+  ASU Thunderbird Invitational
+  Dates: Nov 5-7, 2021
+  Host: Arizona State University (W)
+════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day One -- SINGLES
+  > Main
+     64  Selin Ovunc          def.  Giulia Morlet        67(7) 76(7) 76(7)
+     64  Ariana Arseneault    def.  Cali Jankowski       76(7) 26 62
+     64  Georgie Axon         def.  Marianna Argyrokast… 62 62
+     64  Adeline Flach        def.  Anca Craciun         63 61
+     64  Solymar Colling      def.  Patricija Spaka      62 36 61
+     64  Domenika Turkovic    def.  Elizabeth Goldsmith  64 61
+     64  Sedona Gallagher     def.  Victoria Kalaitzis   75 46 62
+     64  Claudia De Las Heras def.  Lanie Van Linge      60 63
+     64  Lucia Marzal         def.  Sloane Morra         63 63
+     64  Danielle Willson     def.  Isabelle Boulais     61 75
+     64  Grace Piper          def.  Kolie Allen          64 64
+     64  Luna Dormet          def.  Leyden Games         57 75 63
+     64  Jaedan Brown         def.  Jada Bui             60 63
+     64  Andrea Cerdan        def.  Valentina Ivanov     64 62
+     64  Hannah Viller Moell… def.  Julia Fliegner       62 60
+     64  Nicole Hammond       def.  Makenna Thiel        62 75
+ > Day Two -- SINGLES
+  > Main
+     64  Domenika Turkovic    def.  Jaedan Brown         64 64
+     64  Julia Fliegner       def.  Marianna Argyrokast… 57 63 62
+     64  Giulia Morlet        def.  Andrea Cerdan        61 64
+     64  Patricija Spaka      def.  Nicole Hammond       64 75
+     64  Sedona Gallagher     def.  Grace Piper          76(6) 36 62
+     64  Sloane Morra         def.  Cali Jankowski       63 Ret.
+     64  Anca Craciun         def.  Leyden Games         62 63
+     64  Isabelle Lee         def.  Lanie Van Linge      61 61
+     64  Valentina Ivanov     def.  Solymar Colling      75 46 76(6)
+     64  Elizabeth Goldsmith  def.  Hannah Viller Moell… 64 67(6) 76(6)
+     64  Victoria Kalaitzis   def.  Makenna Thiel        63 60
+     64  Lucia Marzal         def.  Selin Ovunc          63 63
+     64  Ariana Arseneault    def.  Isabelle Boulais     75 41 Ret.
+     64  Georgie Axon         def.  Kolie Allen          64 67(6) 61
+     64  Adeline Flach        def.  Luna Dormet          62 60
+ > Day 2 -- (1 bonus match)
+  > Main
+      F  Marianna Argyrokast… def.  Claudia De Las Heras 63 61
+ > Day Three -- SINGLES
+  > Main
+     32  Selin Ovunc          def.  Danielle Willson     76(6) 63
+     32  Ariana Arseneault    def.  Grace Piper          63 62
+     32  Makenna Thiel        def.  Adeline Flach        62 63
+     32  Isabelle Lee         def.  Anca Craciun         62 75
+     32  Solymar Colling      def.  Jaedan Brown         62 76(6)
+     32  Julia Fliegner       def.  Victoria Kalaitzis   62 76(6)
+     32  Claudia De Las Heras def.  Nicole Hammond       62 76(6)
+     32  Georgie Axon         def.  Leyden Games         46 76(6) 62
+     32  Elizabeth Goldsmith  def.  Sedona Gallagher     62 63
+     32  Lucia Marzal         def.  Patricija Spaka      63 62
+     32  Natasha Hill         def.  Lanie Van Linge      75 64
+     32  Domenika Turkovic    def.  Andrea Cerdan        63 76(6)
+     32  Marianna Argyrokast… def.  Kolie Allen          76(6) 63
+     32  Hannah Viller Moell… def.  Giulia Morlet        76(6) 67(6) 62
+~~~
 
 <a name="21-16081"></a>
 ~~~
@@ -372,7 +436,7 @@
      QF (2) Tara Chilton         def.     Sol O Lideadha       61 61
      16 (1) Zoey Weil            def.     Lola O Lideadha      62 63
      16     Allison Mulville     def.     Neli Sunjic          75 60
-     16     Frederikke Svarre L… def.     Jj Chen              62 60
+     16     Frederikke Svarre L… def.     JJ Chen              62 60
      16     Katherine Jhang      def.     Olivia Oosterbaan    Walkover
      16     Kianna Oda           def.     Marija Elenova       67(4) 61 [7]
      16     Misaki Kobayashi     def.     Lauren Dunlap        63 46 [2]
@@ -380,7 +444,7 @@
      16 (2) Tara Chilton         def.     Isabella Foshee      75 61
   > Consolation
      QQ     Neli Sunjic          def.     Lola O Lideadha      46 64 [9]
-     QQ     Jj Chen              def.     Olivia Oosterbaan    Walkover
+     QQ     JJ Chen              def.     Olivia Oosterbaan    Walkover
      QQ     Marija Elenova       def.     Lauren Dunlap        60 62
      QQ     Isabella Foshee      def.     Felicia Jayasaputra  64 61
  > Extra Matches
@@ -390,7 +454,7 @@
      16     Luna Urso            def.     Annika Alcon         62 62
      16     Neli Sunjic          def.     Lola O Lideadha      46 64 [9]
      16     Ashley Chang         def.     Saffron Dowse        62 63
-     16     Megan Lang Gould     def.     Jj Chen              64 64
+     16     Megan Lang Gould     def.     JJ Chen              64 64
      16     Nicole Horacek       def.     Adriene Pavek        64 64
      16     Hikaru Sato          def.     Jayanne Palma        60 64
      16     Frederikke Svarre L… def.     Jazmin Lerman        63 61
@@ -400,6 +464,78 @@
      16     Lauren Dunlap        def.     Annika Alcon         63 61
      16     Maria Goheen         def.     Aleksandra Dimitrij… 75 62
      16     Adrianna Sosnowska   def.     Rosie Sterk          62 61
+~~~
+
+<a name="21-06527"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Harvard Fall Invitational
+  Dates: Nov 4-9, 2021
+  Host: Harvard University (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Harvard vs Wiconsin 1
+  > Main
+     16  Ava Markham         def.  Maxi Duncan         64 36 [4]
+     16  Rachel Arbitman     def.  Alina Mukhortova    62 36 [10]
+     16  Denise Stoica       def.  Iveta Daujotaite    26 63 [8]
+     16  Taylor Cataldi      def.  Sany Gawande        62 64
+     16  Ariel Johnson       def.  Mihaela Marculescu  63 62
+     16  Nastasya Semenovski def.  Demi Snyder         62 63
+     16  Rachel Lim          def.  Charmaine Seah      64 26 [9]
+ > Harvard vs BC
+  > Main
+     16  Maxi Duncan         def.  Laura Lopez         63 61
+     16  Maria Aguiar        def.  Rachel Arbitman     64 Ret.
+     16  Iveta Daujotaite    def.  Sophie Edwards      63 75
+     16  Holly Fischer       def.  Natasha Irani       60 76(4)
+     16  Amy Huang           def.  Hailey Wilcox       64 63
+     16  Sophia Ho           def.  Muskan Mahajan      63 62
+ > Harvard vs Minnesota
+  > Main
+     16  Rachel Hanford      def.  Maxi Duncan         64 26 [6]
+     16  Emilee Duong        def.  Holly Fischer       62 61
+     16  Vasiliki Karvouni   def.  Rachel Lim          76(3) 63
+     16  Iveta Daujotaite    def.  Anfisa Danilchenko  26 64 [4]
+     16  Maria Rizzolo       def.  Mihaela Marculescu  61 36 [8]
+     16  Dalila Said         def.  Sany Gawande        64 62
+     16  Sophia Ho           def.  Lucy Lu             61 46 [11]
+     16  Chelsea Williams    def.  Zeyneb Sarioglan    61 62
+ > BC vs Wisconsin
+  > Main
+     16  Ava Markham         def.  Maria Aguiar        63 62
+     16  Denise Stoica       def.  Natasha Irani       62 61
+     16  Laura Lopez         def.  Alina Mukhortova    64 63
+     16  Taylor Cataldi      def.  Sophie Edwards      46 61 [7]
+     16  Ariel Johnson       def.  Muskan Mahajan      46 75 [9]
+     16  Hailey Wilcox       def.  Mia Larrain         63 64
+ > BC vs Minnesota
+  > Main
+     16  Rachel Hanford      def.  Laura Lopez         63 36 [8]
+     16  Emilee Duong        def.  Maria Aguiar        63 62
+     16  Sophie Edwards      def.  Vasiliki Karvouni   67(4) 76(3) [8]
+     16  Natasha Irani       def.  Maria Rizzolo       64 64
+     16  Dalila Said         def.  Hailey Wilcox       61 63
+     16  Anfisa Danilchenko  def.  Muskan Mahajan      62 60
+ > BU vs Wisconsin
+  > Main
+     16  Ava Markham         def.  Erica Di Battista   62 63
+     16  Denise Stoica       def.  Michelle Kleynerman 63 76(4)
+     16  Victoria Carlsten   def.  Taylor Cataldi      16 62 [10]
+     16  Shelly Yaloz        def.  Ariel Johnson       64 63
+     16  Nastasya Semenovski def.  Emily Kim           64 63
+     16  Charmaine Seah      def.  Sydney Sharma       64 63
+     16  Mia Larrain         def.  Sofia Kostirko      16 Ret.
+ > BU vs Min
+  > Main
+     16  Rachel Hanford      def.  Erica Di Battista   62 62
+     16  Emilee Duong        def.  Michelle Kleynerman 64 64
+     16  Vasiliki Karvouni   def.  Victoria Carlsten   67(3) 64 [3]
+     16  Dalila Said         def.  Shelly Yaloz        64 06 [8]
+     16  Anfisa Danilchenko  def.  Emily Kim           62 63
+     16  Maria Rizzolo       def.  Sydney Sharma       64 76(5)
+     16  Sofia Kostirko      def.  Zeyneb Sarioglan    87(5)
+     16  Lucy Lu             def.  Stephanie Nguyen    64
 ~~~
 
 <a name="21-38622"></a>
@@ -557,8 +693,6 @@
      SF     Dina Chaika          def.     Gia Cohen            60 64
   > 3-4 Playoff
       F     Alexandra Mikhailuk  def.     Andrea Beltran       46 61 63
-  > South
-      F     Gia Cohen            def.     Toni Nelson          60 62
  > Grey
   > East
       F (1) Mahak Jain           def. (2) Tamara Racine        75 61
@@ -688,6 +822,77 @@
      16  Carla Pons           def.  Likhitha Kalava    64 75
 ~~~
 
+<a name="21-05390"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Ragin' Cajun Invitational
+  Dates: Nov 5-6, 2021
+  Host: University Of Louisiana (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw 1
+  > Main
+      F  Mackenzie Clark      def.  Ebru Zeynep Yazgan   26 63 [9]
+     SF  Mackenzie Clark      def.  Sarah Medik          63 Ret.
+     SF  Ebru Zeynep Yazgan   def.  Lucie Raquin         62 60
+     QF  Mackenzie Clark      def.  Victoria Maria- Mar… 64 62
+     QF  Sarah Medik          def.  Carla Urchoeguia     62 62
+     QF  Ebru Zeynep Yazgan   def.  Lahari Yelamanchili  63 75
+     QF  Lucie Raquin         def.  Sophia Sara-Safarova 64 61
+ > Draw 1 Back
+  > Main
+     SF  Carla Urchoeguia     def.  Victoria Maria- Mar… 62 62
+     SF  Lahari Yelamanchili  def.  Sophia Sara-Safarova 64 64
+ > Draw 2
+  > Main
+      F  Simona Maksimovic    def.  Jessie Mount         64 57 [7]
+     SF  Jessie Mount         def.  Brooke Theis         75 67(2) [8]
+     SF  Simona Maksimovic    def.  Monique Burton       57 62 [2]
+     QF  Jessie Mount         def.  Nikol Dobrilova      62 61
+     QF  Brooke Theis         def.  Suhana Das           64 64
+     QF  Simona Maksimovic    def.  Charlotte Russell    26 76(5) 75
+     QF  Monique Burton       def.  Adelaide Lavery      26 75 63
+ > Draw 2 Back
+  > Main
+     QF  Nikol Dobrilova      def.  Charlotte Russell    64 26 [6]
+     QF  Suhana Das           def.  Adelaide Lavery      76(8) 46 [7]
+     QF  Carla Urchoeguia     def.  Sophia Sara-Safarova 26 61 [7]
+     QF  Lahari Yelamanchili  def.  Victoria Maria- Mar… 60 61
+ > Draw 3
+  > Main
+     SF  Kristen Borland      def.  Momoko Yoshimura     76(3) 62
+     SF  Jiayun Zhu           def.  Clara Tardivel       26 62 [9]
+     QF  Kristen Borland      def.  Morgan Forshag       62 75
+     QF  Momoko Yoshimura     def.  Lily Walther         64 46 [9]
+     QF  Jiayun Zhu           def.  Constanza Cruz       62 63
+     QF  Clara Tardivel       def.  Angel Santiago       60 75
+ > Draw 3 Back
+  > Main
+     QF  Morgan Forshag       def.  Lily Walther         16 64 [12]
+     QF  Kristen Borland      def.  Clara Tardivel       64 63
+     QF  Jiayun Zhu           def.  Momoko Yoshimura     60 64
+     QF  Adelaide Lavery      def.  Nikol Dobrilova      06 Ret.
+ > Draw 4
+  > Main
+      F  Alyssa Richter       def.  Anna Katherine Harv… 63 75
+     SF  Anna Katherine Harv… def.  Sean Mullen          62 63
+     SF  Alyssa Richter       def.  Cora Barber          61 Ret.
+     QF  Sean Mullen          def.  Carla Bouygues       62 60
+     QF  Alyssa Richter       def.  Laura Lopez-Velez    64 64
+     QF  Cora Barber          def.  Catarina Zheng       75 61
+ > Draw 4 Back
+  > Main
+     SF  Sean Mullen          def.  Laura Lopez-Velez    63 62
+     SF  Lily Walther         def.  Constanza Cruz       Walkover
+     QF  Laura Lopez-Velez    def.  Catarina Zheng       61 63
+     QF  Constanza Cruz       def.  Angel Santiago       75 Ret.
+ > Day 2. Matches
+  > Main
+     QF  Brooke Theis         def.  Morgan Forshag       57 64 [7]
+     QF  Suhana Das           def.  Charlotte Russell    57 63 [4]
+     QF  Clara Tardivel       def.  Lily Walther         64 63
+~~~
+
 <a name="21-91602"></a>
 ~~~
 ═════════════════════════════════════════════════════════════════
@@ -713,19 +918,47 @@
      16  Katreina Corpuz      def.  Liza Hinrichs     61 62
      16  Meghana Komarraju    def.  Milana Hrudka     62 62
      16  Regina Pitts         def.  Adriana Tabares   60 63
-     16  Cecile Morin         def.  Ania Snissarenko  60 60
+     16  Cecile Morin         def.  Ania Snissarenko  61 61
      16  Alexandria Von Ters… def.  Julianna Sabile   61 60
      16  Agustina Rimoldi Go… def.  Rachel Wagner     64 63
  > Women's Singles Blue Draw
   > Main
      16  Jillian Taggart      def.  Adriana Tabares   63 62
-     16  Kacey Moore          def.  Ania Snissarenko  61 61
+     16  Kacey Moore          def.  Ania Snissarenko  60 75
      16  Katreina Corpuz      def.  Julianna Sabile   61 61
      16  Meghana Komarraju    def.  Rachel Wagner     60 36 64
      16  Regina Pitts         def.  Jessi Muljat      64 64
      16  Cecile Morin         def.  Anthea Weiland    62 60
      16  Alexandria Von Ters… def.  Liza Hinrichs     61 60
      16  Agustina Rimoldi Go… def.  Milana Hrudka     60 60
+~~~
+
+<a name="21-51929"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  Seahawk Ocean Classic
+  Dates: Nov 5-7, 2021
+  Host: UNC Wilmington (W)
+══════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Davidson vs. James Madison
+  > Main
+     64  Daria Afanasyeva   def.  Josie Schaffer       36 61 [4]
+     64  Kylie Moulin       def.  Liz Truluck          76(3) 63
+     64  Daniela Voloh      def.  Kavya Patel          36 75 [2]
+     64  Emma Heiderscheit  def.  Amanda Nord          75 75
+     64  Daniela Porges     def.  Hope Moulin          36 64 [4]
+     64  Mira Gladstone     def.  Michelle Los Arcos   26 61 [7]
+     64  Alexandra Prudente def.  Franny Shea          63 61
+     64  Shannon McCarthy   def.  Linden Patterson     36 75 [9]
+ > East Carolina vs. Campbell
+  > Main
+     64  Mialy Ranaivo      def.  Martina Muzzolon     64 64
+     64  Marissa Pennings   def.  Alisa Diercksen      60 62
+     64  Rhona Cook         def.  Ines Bachir el Bouh… 64 46 [8]
+     64  Alisha Hussain     def.  Anna Kopecka         75 62
+     64  Sandra Gines       def.  Anne Lou Champion    60 76(4)
+     64  Mariana Ossa       def.  Laura Becker         36 64 [6]
 ~~~
 
 <a name="21-32980"></a>
@@ -832,7 +1065,7 @@
      F  Claudia Sumaia       def.  Anna Dovgopolyi      42 24 [6]
  > 11
   > Main
-     F  Lee Barnard          def.  Aylen Hubeaut        41 41
+     F  Aylen Hubeaut        def.  Lee Barnard          41 41
  > 12
   > Main
      F  Love-Star Alexis     def.  Adrienne Clayton     41 40

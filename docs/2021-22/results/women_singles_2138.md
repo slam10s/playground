@@ -1025,21 +1025,21 @@
      16  Toni Nelson          def.  Luna Urso            60 60
      16  Mihaela Kaftanova    def.  Ellen Puzak          64 63
      16  Alex Arkhipov        def.  Alexis Odom          64 64
-     16  Elinor Beazley       def.  Jj Chen              62 64
+     16  Elinor Beazley       def.  JJ Chen              62 64
      16  Chunxi Guo           def.  Tatum Burger         75 36 64
   > West
      SF  Lucia Malinak        def.  Luna Urso            62 75
      SF  Tatum Burger         def.  Alexis Odom          46 63 [6]
      QF  Lucia Malinak        def.  Freia Lawrence       Walkover
      QF  Alexis Odom          def.  Ellen Puzak          62 26 [9]
-     QF  Tatum Burger         def.  Jj Chen              64 46 [8]
+     QF  Tatum Burger         def.  JJ Chen              64 46 [8]
   > North
      SF  Ava Neyestani        def.  Alyse Cormier        63 60
      SF  Elinor Beazley       def.  Alex Arkhipov        Walkover
   > 3-4 Playoff
       F  Karina Chao          def.  Mihaela Kaftanova    63 62
   > South
-     SF  Jj Chen              def.  Ellen Puzak          64 62
+     SF  JJ Chen              def.  Ellen Puzak          64 62
   > Southwest
       F  Alexis Odom          def.  Luna Urso            60 61
  > Delta
@@ -1074,7 +1074,7 @@
      64  Hailey Stelse        def.  Maria Villarejo      61 60
      64  Megan Lang Gould     def.  Felicia Jayasaputra  63 64
      64  Ava Neyestani        def.  Ellen Puzak          63 36 [6]
-     64  Jj Chen              def.  Alyse Cormier        63 36 [7]
+     64  JJ Chen              def.  Alyse Cormier        63 36 [7]
      64  Elinor Beazley       def.  Jazmin Lerman        62 76(5)
      64  Annabel Davis        def.  Adriene Pavek        61 63
  > Other Matches

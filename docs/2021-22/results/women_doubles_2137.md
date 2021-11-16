@@ -1,6 +1,7 @@
 <a name="top"></a>[<< Prev](women_doubles_2136.md) &nbsp; **Week #37 - Sep 13-19, 2021** &nbsp; [Next >>](women_doubles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2137.md) &#124; [***Women***](./women_doubles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2137.md) &#124; [***Doubles***](./women_doubles_2137.md)
 
 **Tournamets with Matches**  
+- 9/17/2021 - [2021 Columbia University Invitational](#21-78345) ([Results](#21-78345) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D" target="_blank">Draws</a>)  
 - 9/17/2021 - [Brown Invitational](#21-14330) ([Results](#21-14330) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/8EA19D28-8C5F-436E-80F9-E515FC4507EA" target="_blank">Draws</a>)  
 - 9/17/2021 - [Debbie Southern Furman Fall Classic](#21-22147) ([Results](#21-22147) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FurmanUniversityW/Tournaments/Overview/3803B600-6726-48B5-820F-B45C3CF8E5DF" target="_blank">Draws</a>)  
 - 9/17/2021 - [Elon Invitational](#21-46904) ([Results](#21-46904) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A" target="_blank">Draws</a>)  
@@ -32,9 +33,71 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D" target="_blank">2021 Columbia University Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">PP/CMS Invite</a>  
+
+<a name="21-78345"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  2021 Columbia University Invitational
+  Dates: Sep 17-19, 2021
+  Host: Columbia University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight E
+  > Main
+      F  Salvi/Sandra         def.  Ordonez/Breunich     64
+     SF  Salvi/Sandra         def.  Alferova/Sullivan    62
+     SF  Ordonez/Breunich     def.  Raiszadeh/Ziff       64
+     QF  Raiszadeh/Ziff       def.  Watton/Jorjoliani    61
+ > Flight B
+  > Main
+      F  Fonte/Kanapatskaya   def.  Bouzgarrou/Haakanss… 62
+     SF  Fonte/Kanapatskaya   def.  Perez Mur/Miranda    63
+     SF  Bouzgarrou/Haakanss… def.  Rimondini/Sakar      64
+     QF  Fonte/Kanapatskaya   def.  Wilkins/Safont       63
+     QF  Perez Mur/Miranda    def.  Adiaconitei/Stein    63
+     QF  Rimondini/Sakar      def.  Kuzina/Dancenco      64
+     QF  Bouzgarrou/Haakanss… def.  Gong/Shrivistava     63
+  > Consolation
+     SQ  Adiaconitei/Stein    def.  Wilkins/Safont       76(7)
+     SQ  Kuzina/Dancenco      def.  Gong/Shrivistava     76(9)
+ > Flight D
+  > Main
+      F  Brodsky/Strugnell    def.  Gallo/Roshkoff       64
+     SF  Brodsky/Strugnell    def.  Lopez/Devarakonda    75
+     SF  Gallo/Roshkoff       def.  Brumfield/Feodorov   75
+     QF  Brodsky/Strugnell    def.  Soyer/Walle          61
+     QF  Lopez/Devarakonda    def.  Balog/Savu           62
+     QF  Brumfield/Feodorov   def.  Saravanan/Badawi     62
+     QF  Gallo/Roshkoff       def.  Storkaas/Compuesto   75
+  > Consolation
+     SQ  Soyer/Walle          def.  Balog/Savu           64
+     SQ  Saravanan/Badawi     def.  Storkaas/Compuesto   64
+ > Flight C
+  > Main
+      F  Amineni/Kerr         def.  Lerby/Xu             64
+     SF  Amineni/Kerr         def.  Maheshwari/Smith     64
+     SF  Lerby/Xu             def.  Seah/Semenovski      76(2)
+     QF  Amineni/Kerr         def.  Erechtchenko/Maduel  75
+     QF  Maheshwari/Smith     def.  de Lucas/Nielsen     63
+     QF  Lerby/Xu             def.  Bach/Cadar           63
+     QF  Seah/Semenovski      def.  Nguyen/El Ashram     61
+  > Consolation
+     SQ  de Lucas/Nielsen     def.  Erechtchenko/Maduel  76(1)
+     SQ  Bach/Cadar           def.  Nguyen/El Ashram     61
+ > Flight A
+  > Main
+     SF  Haynes/Wood          def.  Bryzgalova/Wang      76(7)
+     SF  Rutlauka/Chan        def.  Kimoto/Ito           63
+     QF  Bryzgalova/Wang      def.  Dunleavy/Bretkelly   76(8)
+     QF  Haynes/Wood          def.  Cataldi/Mukhortova   64
+     QF  Rutlauka/Chan        def.  Maquet/Schech        63
+     QF  Kimoto/Ito           def.  Huang/Mi             60
+  > Consolation
+     SQ  Cataldi/Mukhortova   def.  Dunleavy/Bretkelly   64
+     SQ  Maquet/Schech        def.  Huang/Mi             62
+~~~
 
 <a name="21-14330"></a>
 ~~~
@@ -632,8 +695,7 @@
       F  Nobbs/Martin         def.  Borodina/Morgoshia   Walkover
  > Flight 2 - Main Draw Semis
   > Main
-      F  Hesham/Mintusova     def.  Yergler/Jovicic      84
-     SF  Hesham/Mintusova     def.  Damnjanovic/Abreu    86
+     SF  Hesham/Mintusova     def.  Damnjanovic/Abreu    Walkover
      SF  Yergler/Jovicic      def.  Kovacs/Bezmenova     82
   > Playoff 3-4
       F  Damnjanovic/Abreu    def.  Kovacs/Bezmenova     80

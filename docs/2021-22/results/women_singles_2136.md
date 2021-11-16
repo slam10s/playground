@@ -10,6 +10,7 @@
 - 9/10/2021 - [Women's Drake Invite](#21-32364) ([Results](#21-32364) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/51EAC500-8BA9-4BA4-A244-CED3E726C5FE" target="_blank">Draws</a>)  
 - 9/10/2021 - [Angelo State SlamFest](#21-31047) ([Results](#21-31047) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AngeloStateUniversityW/Tournaments/Overview/AF7EE133-54BC-4F7C-A60D-0E1A114F1191" target="_blank">Draws</a>)  
 - 9/10/2021 - [Limestone Women's Challenger](#21-92220) ([Results](#21-92220) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityW/Tournaments/Overview/CD512B83-10FF-46E4-86C6-2C34954D0D21" target="_blank">Draws</a>)  
+- 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [University of Findlay/Findlay YMCA East Fall Invite](#21-72676) ([Results](#21-72676) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
@@ -18,7 +19,6 @@
 **Tournaments without Matches**  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
 - 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">PTC College Invitational</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Wallach Invitational</a>  
 
@@ -848,6 +848,126 @@
      R1  Courtney Fyvie      def.  Alexandra Dolfi      61 36 [8]
      R1  Emilia Roslund      def.  Hannah Panchal       64 75
      R1  Roberta Aramni      def.  Katie Watts          63 64
+~~~
+
+<a name="21-98528"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════
+  PTC College Invitational
+  Dates: Sep 10-12, 2021
+  Host: ITA
+═════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Women's Flight C
+  > Main
+      R5     Ingrid Martinez      def.     Caley Chambers       Walkover
+      R5     Abbgail Kelly        def.     Claire Blackwell     Walkover
+      R4     Ingrid Martinez      def.     Abbgail Kelly        61 61
+      R4     Emma Pope            def.     Claire Blackwell     Walkover
+      R3     Emma Pope            def.     Caley Chambers       60 60
+      R3     Ingrid Martinez      def.     Claire Blackwell     64 61
+      R2     Emma Pope            def.     Abbgail Kelly        61 60
+      R2     Claire Blackwell     def.     Caley Chambers       Walkover
+      R1     Emma Pope            def.     Ingrid Martinez      64 46 [8]
+      R1     Caley Chambers       def.     Abbgail Kelly        76(4) 64
+ > Women's Flight B
+  > Main
+       F (7) Angelina Jacobs      def. (4) Zyanya Rogel         64 61
+      SF (7) Angelina Jacobs      def.     Tilde Howeler        46 64 [6]
+      SF (4) Zyanya Rogel         def. (6) Selina Donecker      Walkover
+      QF     Tilde Howeler        def.     Bipasha Mehn         64 64
+      QF (7) Angelina Jacobs      def. (3) Madelyn Schott       63 64
+      QF (4) Zyanya Rogel         def.     Hannah Farmer        64 62
+      QF (6) Selina Donecker      def.     Maria Impalea        64 06 [7]
+      16     Tilde Howeler        def. (1) Lana Vukovic         60 60
+      16     Bipasha Mehn         def. (5) Anya King            63 62
+      16 (3) Madelyn Schott       def.     Ashlen Chapman       63 61
+      16 (7) Angelina Jacobs      def.     Katie Lowe           61 62
+      16     Hannah Farmer        def.     Elizabeth Still      36 61 [1]
+      16 (4) Zyanya Rogel         def.     Laura Seib           76(3) 63
+      16 (6) Selina Donecker      def.     Luciana Prudencio    61 46 [1]
+      16     Maria Impalea        def. (2) Hannah Hill          63 62
+      32 (1) Lana Vukovic         def.     Mitzy Enderink       64 76(2)
+      32     Tilde Howeler        def.     Molly Hencken        62 67(6) [4]
+      32 (5) Anya King            def.     Ioanna Katoudi       62 61
+      32     Bipasha Mehn         def.     Naomi Sakakibara     61 61
+      32 (3) Madelyn Schott       def.     Alexandra Romero     Walkover
+      32     Ashlen Chapman       def.     Whitney Crawford     64 62
+      32 (7) Angelina Jacobs      def.     Maria Lopez          46 64 [7]
+      32     Katie Lowe           def.     Karlyn Ray           60 61
+      32     Elizabeth Still      def.     Emily Anne Beasley   61 60
+      32     Hannah Farmer        def. (8) Camryn Cassetori     46 62 [1]
+      32     Laura Seib           def.     Camille Cunningham   61 60
+      32 (4) Zyanya Rogel         def.     Preeti Koli          60 61
+      32     Luciana Prudencio    def.     Madison Clayton      62 76(3)
+      32 (6) Selina Donecker      def.     Jessica Aylward      61 63
+      32     Maria Impalea        def.     Chloe Smith          62 62
+      32 (2) Hannah Hill          def.     Natalie White        62 62
+  > Consolation
+       F     Maria Lopez          def.     Madison Clayton      60 61
+      SF     Maria Lopez          def.     Ioanna Katoudi       60 61
+      SF     Madison Clayton      def. (8) Camryn Cassetori     Walkover
+      QF     Ioanna Katoudi       def.     Mitzy Enderink       46 64 [5]
+      QF     Maria Lopez          def.     Whitney Crawford     61 60
+      QF (8) Camryn Cassetori     def.     Preeti Koli          62 64
+      QF     Madison Clayton      def.     Natalie White        75 62
+     16Q     Mitzy Enderink       def.     Molly Hencken        63 60
+     16Q     Ioanna Katoudi       def.     Naomi Sakakibara     64 64
+     16Q     Whitney Crawford     def.     Alexandra Romero     Walkover
+     16Q     Maria Lopez          def.     Karlyn Ray           60 62
+     16Q (8) Camryn Cassetori     def.     Emily Anne Beasley   75 60
+     16Q     Preeti Koli          def.     Camille Cunningham   46 61 [1]
+     16Q     Madison Clayton      def.     Jessica Aylward      36 61 [1]
+     16Q     Natalie White        def.     Chloe Smith          61 62
+ > Women's Flight A
+  > Main
+       F (1) Emma Bentz           def. (2) Ameek Batth          62 60
+      SF (1) Emma Bentz           def.     Nele Weber           64 64
+      SF (2) Ameek Batth          def.     Elliott Peterson     63 62
+      QF (1) Emma Bentz           def.     Kayla Vaughan        76(3) 26 [7]
+      QF     Nele Weber           def.     Rupal Kharb          60 26 [6]
+      QF     Elliott Peterson     def. (8) Hermon Mikael        61 Ret.
+      QF (2) Ameek Batth          def. (6) Alejandra Guerrero   63 67(4) [5]
+      16 (1) Emma Bentz           def.     Maren Kronsbein      75 60
+      16     Kayla Vaughan        def.     Luize Valtere        64 60
+      16     Rupal Kharb          def.     Silvia Fernandez     60 62
+      16     Nele Weber           def. (7) Larissa Berger       63 06 [1]
+      16 (8) Hermon Mikael        def.     Osonye Nwokolo       63 61
+      16     Elliott Peterson     def. (4) Liza Voloshyna       16 64 [7]
+      16 (6) Alejandra Guerrero   def.     Deike Schipper       62 62
+      16 (2) Ameek Batth          def.     Alexandra Mille      61 64
+      32 (1) Emma Bentz           def.     Maria Kotsiou        63 60
+      32     Maren Kronsbein      def.     Marta Rozados        64 62
+      32     Kayla Vaughan        def. (5) Dora Kos             64 62
+      32     Luize Valtere        def.     Eimear Maher         63 46 [7]
+      32     Rupal Kharb          def. (3) Ingrid Montserrat    26 64 [1]
+      32     Silvia Fernandez     def.     Darja Chistov        60 63
+      32 (7) Larissa Berger       def.     Paige Wise           36 75 [1]
+      32     Nele Weber           def.     Czarina Aguirre      64 46 [5]
+      32     Osonye Nwokolo       def.     Ece Yuksel           61 Ret.
+      32 (8) Hermon Mikael        def.     Elisa Weng           64 64
+      32     Elliott Peterson     def.     Gabriel Karatantche… 61 63
+      32 (4) Liza Voloshyna       def.     Szilvia Ferenczy     60 31 Ret.
+      32     Deike Schipper       def.     Grace Krusling       63 60
+      32 (6) Alejandra Guerrero   def.     Isabella Pita        62 61
+      32     Alexandra Mille      def.     Isabella Caballero   63 46 [1]
+      32 (2) Ameek Batth          def.     Julie Martincova     60 61
+  > Consolation
+       F (3) Ingrid Montserrat    def.     Grace Krusling       63 76(2)
+      SF (3) Ingrid Montserrat    def.     Eimear Maher         62 Ret.
+      SF     Grace Krusling       def.     Gabriel Karatantche… Walkover
+      QF     Eimear Maher         def.     Maria Kotsiou        63 60
+      QF (3) Ingrid Montserrat    def.     Paige Wise           61 67(4) [6]
+      QF     Gabriel Karatantche… def.     Ece Yuksel           63 62
+      QF     Grace Krusling       def.     Isabella Caballero   63 76(4)
+     16Q     Maria Kotsiou        def.     Marta Rozados        Walkover
+     16Q     Eimear Maher         def. (5) Dora Kos             57 61 [10]
+     16Q (3) Ingrid Montserrat    def.     Darja Chistov        62 62
+     16Q     Paige Wise           def.     Czarina Aguirre      61 63
+     16Q     Ece Yuksel           def.     Elisa Weng           61 60
+     16Q     Gabriel Karatantche… def.     Szilvia Ferenczy     Walkover
+     16Q     Grace Krusling       def.     Isabella Pita        63 61
+     16Q     Isabella Caballero   def.     Julie Martincova     63 76(4)
 ~~~
 
 <a name="21-79025"></a>

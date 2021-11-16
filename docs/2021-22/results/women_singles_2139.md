@@ -1288,10 +1288,10 @@
   > Main
      R7  Bhakti Shah          def.  Saffron Dowse        62 64
      R5  Emily Rees           def.  Jazmin Lerman        76(3) 26 62
-     R5  Mariajose Hernandez  def.  Jj Chen              61 62
+     R5  Mariajose Hernandez  def.  JJ Chen              61 62
      R4  Bhakti Shah          def.  Mariajose Hernandez  63 62
      R3  Nicole Discenza      def.  Emily Rees           61 61
-     R3  Jj Chen              def.  Saffron Dowse        63 61
+     R3  JJ Chen              def.  Saffron Dowse        63 61
      R2  Jazmin Lerman        def.  Jayanne Palma        06 63 [6]
      R1  Nicole Discenza      def.  Jayanne Palma        64 75
 ~~~
@@ -1558,7 +1558,7 @@
      32     Nadja Bay Christians def.     Summer Yardley       62 62
      32     Bente Spee           def.     Sean Lodzki          62 61
      32     Jaleesa Leslie       def.     Fanny Norin          76(2) 63
-     32     Greta Schieroni      def.     Grace Schumacher     64 76(5)
+     32     Greta Schieroni      def.     Grace Shumacher      64 76(5)
      32     Martina Kudelova     def.     Sydney Berlin        64 36 [6]
      32     Yasmine Kabbaj       def.     Emma Bardet          61 62
      32     Amelie Boy           def.     Emily De Oliveira    75 64
@@ -1566,15 +1566,15 @@
      32     Annabelle Davis      def.     Noa Cohen            61 46 [4]
      32     Alexandria Mjos      def.     Afrika Smith         61 61
   > West
-      F     Andjela Skrobonja    def.     Grace Schumacher     61 60
-     SF     Grace Schumacher     def.     Summer Yardley       64 61
+      F     Andjela Skrobonja    def.     Grace Shumacher      61 60
+     SF     Grace Shumacher      def.     Summer Yardley       64 61
      SF     Andjela Skrobonja    def.     Sydney Berlin        26 63 [5]
      QF     Summer Yardley       def.     Emily De Oliveira    76(5) 64
-     QF     Grace Schumacher     def.     Aylen Hubeaut        64 62
+     QF     Grace Shumacher      def.     Aylen Hubeaut        64 62
      QF     Sydney Berlin        def.     Sean Lodzki          61 60
      QF     Andjela Skrobonja    def.     Afrika Smith         60 60
      16     Summer Yardley       def.     Katerina Filip       61 63
-     16     Grace Schumacher     def.     Fanny Norin          64 75
+     16     Grace Shumacher      def.     Fanny Norin          64 75
      16     Sydney Berlin        def.     Emma Bardet          76(6) 63
      16     Andjela Skrobonja    def.     Noa Cohen            63 61
   > North
@@ -4041,6 +4041,39 @@
      16      Jenna Lewis         def.      Laurel Sidle        81
      16      Lilianna Tubbergen  def.      Jordan Bucher       85
      16      Moana Martins       def.      Abigail Moreno      85
+ > Flight A Conso
+  > Main
+      F      Ellie Snider        def.      Eva Caballero       Walkover
+     SF      Eva Caballero       def.      Thaina Carvalho     Walkover
+     SF      Ellie Snider        def.      Katharina Bopst     46 61 [5]
+     QF      Thaina Carvalho     def.  (8) Ana Cetina          Walkover
+     QF      Eva Caballero       def. (11) Camila Caballero    75 63
+     QF      Katharina Bopst     def.      Regan Mellinger     60 57 [5]
+     QF      Ellie Snider        def.      Kyla Heckaman       64 62
+     16      Thaina Carvalho     def.      Alice Radde         63 61
+     16  (8) Ana Cetina          def.      Neo Mafuyeka        Walkover
+     16 (11) Camila Caballero    def.      Norma Padilla Paola 63 64
+     16      Eva Caballero       def.      Liza Lewis          64 67(4) [8]
+     16      Regan Mellinger     def.      Morgan Mast         63 62
+     16      Katharina Bopst     def.      Samantha Kohn       61 61
+     16      Ellie Snider        def.      Layla Jojo          61 60
+     16      Kyla Heckaman       def.      Alexa Elpers        75 63
+     32      Thaina Carvalho     def.      Veronika Kovalchuk  61 64
+     32      Alice Radde         def.      Casey Clark         64 63
+     32      Neo Mafuyeka        def.      Tea Vrkic           60 64
+     32  (8) Ana Cetina          def.      Desiree Ahlberg     75 62
+     32      Norma Padilla Paola def.      Ana Sofia Marquez   63 63
+     32 (11) Camila Caballero    def.      Niki Polce          60 60
+     32      Eva Caballero       def.      Regina Faber        60 60
+     32      Liza Lewis          def.      Dayana Morejon      64 61
+     32      Regan Mellinger     def.      Holly Schlatter     62 61
+     32      Morgan Mast         def.      Betija Dusele       Walkover
+     32      Samantha Kohn       def.      Josie Yarbrough     Walkover
+     32      Katharina Bopst     def.      Nora Ribeiro        64 63
+     32      Ellie Snider        def.      Meaghan Godzisz     61 61
+     32      Layla Jojo          def.      Semmie Moore        26 Ret.
+     32      Kyla Heckaman       def.      Jessica Henline     60 64
+     32      Alexa Elpers        def.      Annsley Mann        61 62
 ~~~
 
 <a name="21-30655"></a>

@@ -491,17 +491,17 @@
  Men's Open Singles
  > Main Draw
   > Main
-        F  (3) James Trotter        def.  (7) Jj Tracy             63 64
-       SF  (7) Jj Tracy             def.      Trice Pickens        61 62
+        F  (3) James Trotter        def.  (7) JJ Tracy             63 64
+       SF  (7) JJ Tracy             def.      Trice Pickens        61 62
        SF  (3) James Trotter        def.  (2) Ondrej Styler        62 10 Ret.
        QF      Trice Pickens        def. (11) Robert Cash          63 64
-       QF  (7) Jj Tracy             def. (12) Olivier Stuart       62 62
+       QF  (7) JJ Tracy             def. (12) Olivier Stuart       62 62
        QF  (3) James Trotter        def.  (8) Patrick Maloney      62 67(5) 63
        QF  (2) Ondrej Styler        def. (13) Justin Boulais       76(8) 36 76(5)
        16 (11) Robert Cash          def.  (1) Axel Nefve           63 64
        16      Trice Pickens        def.  (6) Vito Tonejc          61 61
        16 (12) Olivier Stuart       def.  (4) Andrew Fenty         64 75
-       16  (7) Jj Tracy             def. (10) Gavin Young          16 61 76(4)
+       16  (7) JJ Tracy             def. (10) Gavin Young          16 61 76(4)
        16  (8) Patrick Maloney      def. (16) Kweisi Kenyatte      64 76(3)
        16  (3) James Trotter        def.      Max Sheldon          62 63
        16 (13) Justin Boulais       def.      Nino Ehrenschneider  64 46 76(3)
@@ -512,7 +512,7 @@
        32      Trice Pickens        def.      Brian Bilsey         61 61
        32  (4) Andrew Fenty         def.      Brian Berdusco       61 61
        32 (12) Olivier Stuart       def.      Anton Arzhankin      46 61 64
-       32  (7) Jj Tracy             def.      Sebastian Vile       61 63
+       32  (7) JJ Tracy             def.      Sebastian Vile       61 63
        32 (10) Gavin Young          def.      Benjamin George      63 64
        32 (16) Kweisi Kenyatte      def.      Jack Winkler         64 40 Ret.
        32  (8) Patrick Maloney      def.      Connor Fu            75 60
@@ -534,7 +534,7 @@
        64      Brian Berdusco       def.      Pedro Alvarez        57 63 76(3)
        64 (12) Olivier Stuart       def.      Laurentiu Mandocescu 64 60
        64      Anton Arzhankin      def.      Robin Parts          76(5) 64
-       64  (7) Jj Tracy             def.      Nick Williams        61 61
+       64  (7) JJ Tracy             def.      Nick Williams        61 61
        64      Sebastian Vile       def.      Clark Bilinovich     60 60
        64 (10) Gavin Young          def.      Nic Meister          61 57 63
        64      Benjamin George      def.      Braeden Ho           67(2) 60 76(4)
@@ -571,7 +571,6 @@
        32      Nathan Favier        def.      Javier Sanchez Prad… 61 64
        32      Brogan Pierce        def.      Erik Gran            61 75
        32      JuandeDios Abboud    def.      Zane Kohrs           76 64
-       32      Lars Minsaas         def.      Cole Shoults         62 63
        32      Kazuki Matsuno       def.      Maximiliano Sandova… 62 63
        32      Marko Galic          def.      Jakub Zamorski       63 64
        32      Vlad Meluta          def.      Austin Staiger       61 63
@@ -716,13 +715,13 @@
      SF  (5) Andres Martin        def.      Dominik Barton       61 62
      QF      Alvaro Fernandez Ho… def.      Richard Thongoana    61 64
      QF (14) Trey Hilderbrand     def.      Nate Bonetto         75 75
-     QF      Dominik Barton       def.      Jc Roddick           61 62
+     QF      Dominik Barton       def.      JC Roddick           61 62
      QF  (5) Andres Martin        def.  (2) Philip Henning       76(6) 26 62
      16      Richard Thongoana    def.      William Grant        76(6) 46 62
      16      Alvaro Fernandez Ho… def.      Bogdan Pavel         76(6) 63
      16      Nate Bonetto         def. (11) Blake Croyder        76(3) 62
      16 (14) Trey Hilderbrand     def.      Andreja Petrovic     46 76(4) 75
-     16      Jc Roddick           def.      Keshav Chopra        64 64
+     16      JC Roddick           def.      Keshav Chopra        64 64
      16      Dominik Barton       def. (15) Dan Martin           64 46 64
      16  (5) Andres Martin        def. (13) Bojan Jankulovski    67(4) 63 61
      16  (2) Philip Henning       def. (16) Abedallah Shelbayh   64 26 62
@@ -734,7 +733,7 @@
      32 (11) Blake Croyder        def.      Kevin Huempfner      76(7) 46 63
      32      Andreja Petrovic     def.  (6) Chase Ferguson       60 62
      32 (14) Trey Hilderbrand     def.      Erik Grevelius       63 63
-     32      Jc Roddick           def.  (9) Loris Pourroy        63 64
+     32      JC Roddick           def.  (9) Loris Pourroy        63 64
      32      Keshav Chopra        def.      Bruno Oliveira       76(2) 62
      32 (15) Dan Martin           def.      Antonio Muniz-Hidal… 76(6) 61
      32      Dominik Barton       def.      Pablo Schelcher      63 62
@@ -758,7 +757,7 @@
      64      Andreja Petrovic     def.      Patrick Kotan        75 62
      64 (14) Trey Hilderbrand     def.      Andrei Duarte        67(1) 75 60
      64      Erik Grevelius       def.      Munuel Goncalves     62 61
-     64      Jc Roddick           def.      Juan Lopez           62 62
+     64      JC Roddick           def.      Juan Lopez           62 62
      64  (9) Loris Pourroy        def.      Sergio Gomez-Montesa 63 64
      64      Keshav Chopra        def.      Mathis Debru         61 64
      64      Bruno Oliveira       def.  (7) Joshua Goodger       63 16 76(4)

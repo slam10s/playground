@@ -1007,9 +1007,6 @@
  > Extra Matches 5
   > Main
        F  (1) Nicolas Herrera Cue… def.      Christopher Steele   76(5) 62
- > Extra Matches 3
-  > Main
-      SF      Nicolas Herrera Cue… def.      Dominik Buzonics     63 62
 ~~~
 
 <a name="21-20374"></a>
@@ -1064,7 +1061,7 @@
       64  (3) Francisco Rocha      def.      Arthur Toledo        64 60
       64 (16) Frazier Rengifo      def.      Maxwell Freeman      76(3) 61
       64  (9) Shunsuke Mitsui      def.      Julen Morgan         Walkover
-      64      Pau Fanlo            def. (16) Jj Mercer            62 61
+      64      Pau Fanlo            def. (16) JJ Mercer            62 61
       64  (5) Jeremie Casabon      def.      Drew Michael         76(4) 63
       64 (16) Carlos Vicente       def.      Marco Pennelli       75 26 62
       64      Ian Cruz             def.  (9) Chris Edge           76(5) 63
@@ -1107,7 +1104,7 @@
      128      Maxwell Freeman      def.      David Mizrahi        67(3) 75 75
      128  (9) Shunsuke Mitsui      def.      Brett Winters        61 62
      128      Julen Morgan         def.      Tom Berry            26 63 61
-     128 (16) Jj Mercer            def.      Kerim Hyatt          63 62
+     128 (16) JJ Mercer            def.      Kerim Hyatt          63 62
      128      Pau Fanlo            def.      Ronit Hiryur         63 61
      128  (5) Jeremie Casabon      def.      Carlos Salas Tulla   62 61
      128      Drew Michael         def.      Anton Damberg        61 63
@@ -1387,6 +1384,9 @@
      32  Corrado Summaria     def.  Simao Alves          62 63
      32  Eric Hadigian        def.  Isaac Becroft        64 16 76(4)
      32  Pietro Fellin        def.  Ian Esses            62 61
+ > Extra Matches
+  > Main
+      F  Andre Ilagan         def.  Eric Hadigian        75 75
 ~~~
 
 <a name="21-84395"></a>
@@ -1563,7 +1563,7 @@
      64  Britton Johnston  def.  Danny Flynn       63 63
      64  Stefan Dostanic   def.  Matej Vocel       76(5) 64
      64  Justin Boulais    def.  Bradley Frye      61 64
-     64  Peter Makk        def.  Jj Tracy          61 76(4)
+     64  Peter Makk        def.  JJ Tracy          61 76(4)
      64  Robert Cash       def.  Sam Rubell        36 75 64
      64  Ryder Jackson     def.  Lancelot Carnello 64 16 61
  > SIC Singles RR
@@ -1579,7 +1579,7 @@
      64  Paul Barretto     def.  Eshan Talluri     62 62
      64  Cannon Kingsley   def.  Philip Henning    76(7) 64
      64  Matej Vocel       def.  Hamish Stewart    61 63
-     64  Jj Tracy          def.  Tristan McCormick 62 63
+     64  JJ Tracy          def.  Tristan McCormick 62 63
      64  Trent Bryde       def.  Justin Boulais    63 67(3) 75
      64  Robert Cash       def.  Miguel Perez Pena 63 60
      64  Thomas Paulsell   def.  Lucas Wayenburg   63 64
@@ -1590,7 +1590,7 @@
   > Main
      32  Matej Vocel       def.  Siem Woldeab      63 62
      32  Micah Braswell    def.  Justin Boulais    36 61 63
-     32  Jj Tracy          def.  Evin McDonald     63 63
+     32  JJ Tracy          def.  Evin McDonald     63 63
      32  Robert Cash       def.  Nevin Arimilli    67(5) 64 [3]
      32  Lancelot Carnello def.  Eshan Talluri     64 64
      32  Philip Henning    def.  Stefan Dostanic   46 64 64
@@ -2500,7 +2500,7 @@
      64  Ryan Olps           def.  Gill Dunn            63 60
      64  Peyton Erck         def.  Pushkar Shinde       63 76(5)
      64  Daniel Trudell      def.  Bohdan Zhylchuk      62 64
-     64  Jasper Gazzo        def.  Ej Stolmeijer        16 76(3) Ret.
+     64  Jasper Gazzo        def.  EJ Stolmeijer        16 76(3) Ret.
      64  Nicolo Iacoboni     def.  Hamilton Jackson     62 61
      64  Jax Harbour         def.  Vincent Claussen     64 60
      64  Jackson Davis       def.  David Phillips       61 62
@@ -2534,7 +2534,7 @@
      32  Henry Murray        def.  Gleb Ibragimov       Walkover
      32  Noah Koch           def.  Gill Dunn            62 76(5)
      32  Bohdan Zhylchuk     def.  Pushkar Shinde       64 76(8)
-     32  Eli Ingleson        def.  Ej Stolmeijer        63 61
+     32  Eli Ingleson        def.  EJ Stolmeijer        63 61
      32  Vincent Claussen    def.  Hamilton Jackson     64 60
      32  David Phillips      def.  Diego Lopez Barahona 36 35 Ret.
      32  Daniel Cohen        def.  Wil Dotson           76(3) 46 60
@@ -2586,7 +2586,7 @@
      16  Chris Bale          def.  Tom Smith            64 57 63
      16  Angel Vasquez       def.  Ryan Raugh           60 61
      16  Bo Williams         def.  Brian Graves         60 64
-     16  Patrick Dempsey     def.  Aj Rogers            67(9) 63 64
+     16  Patrick Dempsey     def.  AJ Rogers            67(9) 63 64
      16  Fant Smith          def.  Matthew Moore        62 63
      16  Chris Morton        def.  Aydan Grossman       63 63
      16  Ignacio Alia        def.  Cooper Kework        61 61
@@ -2616,7 +2616,7 @@
      QF  Jett Anderson       def.  Bohdan Higley        60 62
      QF  Matthew Ridden      def.  Connor Murphy        57 64 63
      QF  David Netherton     def.  Kody Dills           62 64
-     16  Jeb Barnette        def.  Jc Foster            64 26 62
+     16  Jeb Barnette        def.  JC Foster            64 26 62
      16  Reed Martinson      def.  Griffen Valiulis     54 Ret.
      16  Bohdan Higley       def.  Jason Ball           60 63
      16  Jett Anderson       def.  Colin Drawdy         60 60
@@ -2642,12 +2642,12 @@
      QF  Thomas Harrison     def.  Thomas Ngien         61 61
  > B3 Consolation
   > Main
-      F  Tom Smith           def.  Aj Rogers            75 64
+      F  Tom Smith           def.  AJ Rogers            75 64
      SF  Tom Smith           def.  Ryan Raugh           63 62
-     SF  Aj Rogers           def.  Cooper Kework        63 63
+     SF  AJ Rogers           def.  Cooper Kework        63 63
      QF  Tom Smith           def.  Bryce Livingston     62 62
      QF  Ryan Raugh          def.  Brian Graves         60 75
-     QF  Aj Rogers           def.  Matthew Moore        61 60
+     QF  AJ Rogers           def.  Matthew Moore        61 60
      QF  Cooper Kework       def.  Aydan Grossman       60 75
  > B4 Consolation
   > Main
@@ -2661,9 +2661,9 @@
  > B5 Consolation
   > Main
       F  Jason Ball          def.  Jacob Lehmann        Walkover
-     SF  Jason Ball          def.  Jc Foster            36 62 64
+     SF  Jason Ball          def.  JC Foster            36 62 64
      SF  Jacob Lehmann       def.  Kody Dills           36 76(6) 76(7)
-     QF  Jc Foster           def.  Griffen Valiulis     Walkover
+     QF  JC Foster           def.  Griffen Valiulis     Walkover
      QF  Jason Ball          def.  Colin Drawdy         60 63
      QF  Jacob Lehmann       def.  Luke Mitchell        16 63 75
      QF  Kody Dills          def.  Cainan Black         64 63
@@ -2863,7 +2863,7 @@
       16     Brayden Bolch        def.     Michael Woodard      64 62
       16     Parker Stewart       def.     Morgan Oglesbee      64 63
       16     Carter Marsh         def.     Jason Clark          62 60
-      16     Joshua Huang         def.     Cj Greenwell         61 61
+      16     Joshua Huang         def.     CJ Greenwell         61 61
       16     Joe Donaldson        def.     Kyle Smith           61 60
   > Consolation
       SF     Michael Woodard      def.     Romeo Rubio          Walkover
@@ -2871,7 +2871,7 @@
       QQ     Romeo Rubio          def.     Trent Lewis          67(4) 61 [7]
       QQ     Michael Woodard      def.     Aaron Salinas        62 62
       QQ     Morgan Oglesbee      def.     Jason Clark          63 62
-      QQ     Kyle Smith           def.     Cj Greenwell         75 61
+      QQ     Kyle Smith           def.     CJ Greenwell         75 61
 ~~~
 
 <a name="21-19898"></a>
@@ -3089,7 +3089,7 @@
      16  Ansh Shah            def.  Diego Maza           63 75
      16  Yuvraj Narang        def.  Ajay Mahenthiran     06 62 [7]
      16  Casey Hishinuma      def.  Nicholas Wernink     63 64
-     16  Silvio Cocito-Monoc  def.  Arjan Bedi           63 16 [6]
+     16  Silvio Cocito-Monoc  def.  Christian Provenzano 63 16 [6]
      16  Pranav Ikkurthy      def.  Ben Martin           36 63 [7]
      16  Max Vicario          def.  Nadeem Jones         62 61
      32  Vishwa Aduru         def.  Andy Mackler         62 62
@@ -3101,7 +3101,7 @@
      32  Casey Hishinuma      def.  Jaden DAbreo         Walkover
      32  Nicholas Wernink     def.  Anthony Kanam        61 64
      32  Silvio Cocito-Monoc  def.  Jake Louiselle       62 76(2)
-     32  Arjan Bedi           def.  Christian Provenzano 61 57 [7]
+     32  Christian Provenzano def.  Arjan Bedi           16 75 [7]
      32  Pranav Ikkurthy      def.  Ben Echikson         60 60
      32  Ben Martin           def.  Angelo Vidal         60 62
      32  Max Vicario          def.  Alex Wootton         60 60
@@ -3122,7 +3122,7 @@
      64  Casey Hishinuma      def.  Sam Topper           61 60
      64  Jaden DAbreo         def.  Ryan Patrick         64 63
      64  Nicholas Wernink     def.  James Dill           61 62
-     64  Anthony Kanam        def.  Jp Boyle             60 63
+     64  Anthony Kanam        def.  JP Boyle             60 63
      64  Silvio Cocito-Monoc  def.  Rohan Gold           63 60
      64  Jake Louiselle       def.  Christian Picot      62 75
      64  Christian Provenzano def.  Jacob Smith          36 60 [4]
@@ -3150,7 +3150,7 @@
      64  Rakkan Audeh         def.  Daniel Garcia        62 62
      64  Yuvraj Narang        def.  Jack Wagner          64 26 [4]
      64  Ryan Patrick         def.  Sam Topper           64 75
-     64  James Dill           def.  Jp Boyle             76(4) 64
+     64  James Dill           def.  JP Boyle             76(4) 64
      64  Christian Picot      def.  Rohan Gold           64 61
      64  Jacob Smith          def.  Sebastien Naginski   60 63
      64  Evan Dean            def.  Jackson Graham       62 60
@@ -3166,7 +3166,7 @@
      64  Daniel French        def.  Eric Zhang           63 63
      64  Daniel Garcia        def.  Jack Wagner          63 63
      64  Rakkan Audeh         def.  Blake Eason          64 63
-     64  Jp Boyle             def.  Sam Topper           61 61
+     64  JP Boyle             def.  Sam Topper           61 61
      64  Jacob Smith          def.  Rohan Gold           62 75
      64  Christian Picot      def.  Sebastien Naginski   63 61
      64  Arjan Bedi           def.  Jake Louiselle       64 46 [6]
@@ -3455,7 +3455,7 @@
      64  Ryan Patrick         def.  Kunal Seetha         75 63
      64  Milan Gonela         def.  James Dill           62 61
      64  Gabe Belli De Olive… def.  Patrick Johnson      75 62
-     64  Daniel Martinez Roca def.  Jp Boyle             64 36 [6]
+     64  Daniel Martinez Roca def.  JP Boyle             64 36 [6]
      64  Rohan Gold           def.  Logan Langovsky      67(4) 64 [8]
      64  Alex Wootton         def.  Matt Saunders        67(4) 64 [8]
      64  Sam Topper           def.  Connor Streeter      60 62
@@ -3484,7 +3484,7 @@
      64  Milan Gonela         def.  Kunal Seetha         61 61
      64  James Dill           def.  Gabe Belli De Olive… 75 36 [5]
      64  Ryan Patrick         def.  Patrick Johnson      64 62
-     64  Logan Langovsky      def.  Jp Boyle             62 16 [5]
+     64  Logan Langovsky      def.  JP Boyle             62 16 [5]
      64  Matt Saunders        def.  Rohan Gold           76(4) 36 [8]
      64  Alex Wootton         def.  Daniel Martinez Roca 64 36 [6]
      64  Sam Topper           def.  Grant Sarnowski      62 26 [2]

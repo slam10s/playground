@@ -494,16 +494,16 @@
   Host: Auburn University (M)
 ═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
- > Main
+ > Main Draw
   > Main
       F  Planinsek/Martin     def.  Lobak/Diaz Freire    62 76(4)
      SF  Lobak/Diaz Freire    def.  Murgett/Dobai        63 76(5)
      SF  Planinsek/Martin     def.  Du Preez/Bajracharya 64 62
-     QF  Murgett/Dobai        def.  Slavic/Junk          87
+     QF  Murgett/Dobai        def.  Slavic/Junk          87(5)
      QF  Lobak/Diaz Freire    def.  Aguiard/Samofalov    82
      QF  Planinsek/Martin     def.  Hernandez/Colas      83
      QF  Du Preez/Bajracharya def.  Stice/Galka          85
-     16  Slavic/Junk          def.  Broska/Ramskogler    86
+     16  Slavic/Junk          def.  Broska/Ramskogler    84
      16  Murgett/Dobai        def.  Suarez/Kuenkler      84
      16  Aguiard/Samofalov    def.  Lusovsky/Spyropoulos 85
      16  Lobak/Diaz Freire    def.  Cadonau/Engelhardt   85
@@ -511,6 +511,7 @@
      16  Planinsek/Martin     def.  Kozlov/Watson        81
      16  Du Preez/Bajracharya def.  Collard/St-Hilaire   86
      16  Stice/Galka          def.  Reynolds/Lithen      87(5)
+     32  Broska/Ramskogler    def.  Norwood/Vishnevskiy  86
      32  Slavic/Junk          def.  Dimitrov/Fillat Gim… 84
      32  Suarez/Kuenkler      def.  Koch/Graca           85
      32  Murgett/Dobai        def.  Gima/Audrain         87(2)
@@ -525,6 +526,7 @@
      32  Du Preez/Bajracharya def.  Bancila/De Alba      86
      32  Reynolds/Lithen      def.  Postolka/Puric       84
      32  Stice/Galka          def.  Antuna/Anton         84
+     64  Norwood/Vishnevskiy  def.  Jeanne-Grandinot/Jo… 83
      64  Dimitrov/Fillat Gim… def.  Hendrikx/Gray        84
      64  Koch/Graca           def.  Tasker/Simkin        86
      64  Gima/Audrain         def.  Rodriguez/Andre      86
@@ -537,7 +539,7 @@
      64  Postea/Dworak        def.  Christiansen/Ferrei… Walkover
      64  Du Preez/Bajracharya def.  Tortora/Richey       86
      64  Postolka/Puric       def.  Cahour/Nabiev        Walkover
-     64  Antuna/Anton         def.  Norwood/Vishnevskiy  86
+     64  Antuna/Anton         def.  Andonov/Pata         80
  > Consolation
   > Main
      SF  Rodriguez/Andre      def.  Tortora/Richey       86
@@ -712,11 +714,6 @@
      QF  Matarredona/Perez    def.  Damberg/Schlossmann 61
      QF  Bixby/Diniz          def.  Bolton/Becchis      63
      QF  Zhang/Tolbert        def.  Laner/Nolasco       64
- > Ttu/bel
-  > Main
-     QF  Berghaus/Grubert     def.  Kelly/Miyamoto      63
-     QF  Castro/Luis          def.  Holis/Sasagawa      64
-     QF  Vicente/Tosetto      def.  Toledo/Cruz         60
  > Ttu/gaso
   > Main
      QF  Castillo/Del Castil… def.  Vicente/Tosetto     64
@@ -845,6 +842,39 @@
       F (2) Fisicaro/Krolo       def.     Saint Martin/Shearer 63 75
   > South
       F     Parada/Toloza        def.     Ching/Shteyn         64 75
+~~~
+
+<a name="21-60014"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Purdue University Northwest Fall Invitational
+  Dates: Oct 16-17, 2021
+  Host: Purdue University Northwest (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > Main
+      F  Drenth/Grey          def.  Laws/Spicer          64
+     SF  Drenth/Grey          def.  Kah/Franssen         63
+     SF  Laws/Spicer          def.  Suler/Perez Plaza    76(8)
+     QF  Kah/Franssen         def.  Guerre/Lortie        75
+     QF  Drenth/Grey          def.  Sanchez Pradillo/Al… 64
+     QF  Laws/Spicer          def.  Flores Cepeda/Evyap… 76(3)
+     QF  Suler/Perez Plaza    def.  Mader/Koupil         62
+  > Consolation
+     SQ  Guerre/Lortie        def.  Sanchez Pradillo/Al… 61
+     SQ  Mader/Koupil         def.  Flores Cepeda/Evyap… 64
+ > Flight B
+  > Main
+      F  Steele/Karcz         def.  Zamorski/Sandoval D… 76(4)
+     SF  Steele/Karcz         def.  McDermott/Santangelo 64
+     SF  Zamorski/Sandoval D… def.  Deswal/Olivier       61
+     QF  Steele/Karcz         def.  Hawes/Schultz        63
+     QF  Zamorski/Sandoval D… def.  Okonski/Pluszczyk    61
+     QF  Deswal/Olivier       def.  Juliusson/Alvear     63
+  > Consolation
+     SF  McDermott/Santangelo def.  Hawes/Schultz        75
+     SQ  Okonski/Pluszczyk    def.  Juliusson/Alvear     64
 ~~~
 
 <a name="21-98443"></a>

@@ -1,29 +1,66 @@
 <a name="top"></a>[<< Prev](women_doubles_2143.md) &nbsp; **Week #44 - Nov 1-7, 2021** &nbsp; [Next >>](women_doubles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2144.md) &#124; [***Women***](./women_doubles_2144.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2144.md) &#124; [***Doubles***](./women_doubles_2144.md)
 
 **Tournamets with Matches**  
+- 11/5/2021 - [ASU Thunderbird Invitational](#21-50924) ([Results](#21-50924) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ArizonaStateUniversityW/Tournaments/Overview/539AAEB8-CB2F-46ED-8DAD-69DE1A5FEC2B" target="_blank">Draws</a>)  
 - 11/5/2021 - [Big 12 Fall Invite](#21-16081) ([Results](#21-16081) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityW/Tournaments/Overview/09F853AD-B55F-4E36-A946-000C8F2276A0" target="_blank">Draws</a>)  
 - 11/5/2021 - [Big Green Invite](#21-85102) ([Results](#21-85102) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/5276B6E4-164E-442F-9176-B1F0E580208C" target="_blank">Draws</a>)  
 - 11/5/2021 - [Bulldog Classic](#21-78423) ([Results](#21-78423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/3B50645F-F80E-42E8-8DC4-58667C1C1A01" target="_blank">Draws</a>)  
 - 11/5/2021 - [FGCU Collegiate Open](#21-51873) ([Results](#21-51873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaGulfCoastUniversityW/Tournaments/Overview/366369DF-D1D6-4447-B214-C4B5012C2F42" target="_blank">Draws</a>)  
 - 11/5/2021 - [Gonzaga Invite BULLDOG](#21-49592) ([Results](#21-49592) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityW/Tournaments/Overview/92D5D3EA-78F6-46C4-B8B6-24485A28CE1D" target="_blank">Draws</a>)  
+- 11/4/2021 - [Harvard Fall Invitational](#21-06527) ([Results](#21-06527) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Draws</a>)  
 - 11/4/2021 - [ITA National Fall Championships](#21-38622) ([Results](#21-38622) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3C0D3BF7-1EA0-4314-9798-02FE691DD86E" target="_blank">Draws</a>)  
 - 11/5/2021 - [Jack Kramer Invitational](#21-11431) ([Results](#21-11431) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/EBFDB9EE-65DF-40EA-8395-B821B7EA07B0" target="_blank">Draws</a>)  
 - 11/5/2021 - [John Cade Invitational](#21-78019) ([Results](#21-78019) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivW/Tournaments/Overview/E7E24596-5A63-454E-9711-8B3FDC25E020" target="_blank">Draws</a>)  
 - 11/5/2021 - [Mean Green Invite](#21-18352) ([Results](#21-18352) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthTexasW/Tournaments/Overview/EF6FA1CB-A90F-4BA0-B5BD-1D5B642D3C48" target="_blank">Draws</a>)  
+- 11/5/2021 - [Ragin' Cajun Invitational](#21-05390) ([Results](#21-05390) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/13357FE4-447E-4166-A5B8-AA4028AFC248" target="_blank">Draws</a>)  
 - 11/5/2021 - [San Diego Veterans Tennis Classic](#21-91602) ([Results](#21-91602) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">Draws</a>)  
+- 11/5/2021 - [Seahawk Ocean Classic](#21-51929) ([Results](#21-51929) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonW/Tournaments/Overview/FE307133-DF38-4D97-8DE6-D59D765D1738" target="_blank">Draws</a>)  
 - 11/5/2021 - [Southern Conference Men's & Women's Fall Tennis Championships](#21-32980) ([Results](#21-32980) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3BD3D9A3-1CE7-4BB9-93E6-7D1ECED07DFE" target="_blank">Draws</a>)  
 - 11/5/2021 - [Stetson Invite #2](#21-71023) ([Results](#21-71023) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Draws</a>)  
 - 11/5/2021 - [The Hurricane Invite](#21-37091) ([Results](#21-37091) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfTulsaW/Tournaments/Overview/9EC94FD0-CD14-417E-AF67-50993725A2A1" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ArizonaStateUniversityW/Tournaments/Overview/539AAEB8-CB2F-46ED-8DAD-69DE1A5FEC2B" target="_blank">ASU Thunderbird Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityW/Tournaments/Overview/F28FCCEF-4BC1-4442-AA94-59500ADE80D8" target="_blank">Gonzaga Invite</a>  
-- 11/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Harvard Fall Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMiamiW/Tournaments/Overview/E7F97784-0CD7-4253-8BB3-955C95162E60" target="_blank">Miami Fall Invite</a>  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/13357FE4-447E-4166-A5B8-AA4028AFC248" target="_blank">Ragin' Cajun Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SantaClaraUniversityW/Tournaments/Overview/BBE3EA3C-9201-43BE-AD2E-553A4B616F3C" target="_blank">SCU/SJSU Invitational</a>  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonW/Tournaments/Overview/FE307133-DF38-4D97-8DE6-D59D765D1738" target="_blank">Seahawk Ocean Classic</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityAtBuffaloSUNYW/Tournaments/Overview/B0B719F8-A62E-4D29-A341-820B59C4A6C8" target="_blank">UB Fall Invite</a>  
+
+<a name="21-50924"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  ASU Thunderbird Invitational
+  Dates: Nov 5-7, 2021
+  Host: Arizona State University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Day One -- DOUBLES
+  > Main
+     16  Boulais/Allen        def.  Argyrokastriti/Jank… 64
+     16  Turkovic/Spaka       def.  Dormet/Marzal        76(6)
+     16  Gallagher/Morlet     def.  Viller Moeller/Ivan… 63
+     16  Bui/Thiel            def.  Van Linge/Craciun    62
+     16  Colling/Goldsmith    def.  Axon/Flach           75
+     16  Ovunc/Arseneault     def.  De Las Heras/Kalait… 63
+     16  Brown/Fliegner       def.  Piper/Willson        76(6)
+     16  Hammond/Cerdan       def.  Morra/Lee            62
+ > Day Two Doubles
+  > Main
+     16  Colling/Goldsmith    def.  Gallagher/Morlet     64
+     16  Turkovic/Spaka       def.  Van Linge/Craciun    61
+     16  De Las Heras/Kalait… def.  Axon/Flach           64
+     16  Ovunc/Arseneault     def.  Hammond/Cerdan       61
+     16  Brown/Fliegner       def.  Viller Moeller/Ivan… 63
+     16  Boulais/Allen        def.  Piper/Games          75
+     16  Dormet/Marzal        def.  Willson/Morra        63
+ > Day Three Doubles
+  > Main
+     16  Turkovic/Spaka       def.  Brown/Fliegner       60
+     16  Gallagher/Morlet     def.  Hammond/Cerdan       75
+     16  Colling/Goldsmith    def.  Piper/Willson        63
+     16  De Las Heras/Kalait… def.  Van Linge/Craciun    61
+     16  Ovunc/Arseneault     def.  Marzal/Allen         61
+     16  Axon/Flach           def.  Morra/Lee            62
+~~~
 
 <a name="21-16081"></a>
 ~~~
@@ -239,6 +276,55 @@
      QQ     Jhang/Huchet         def.     Jayasaputra/Villare… 60
 ~~~
 
+<a name="21-06527"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Harvard Fall Invitational
+  Dates: Nov 4-9, 2021
+  Host: Harvard University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > HU vs Wis
+  > Main
+     QF  Duncan/Daujotaite    def.  Markham/Johnson      76(4)
+     QF  You/Marculescu       def.  Mukhortova/Semenovs… 76(2)
+     QF  Lim/Gawande          def.  Cataldi/Stoica       64
+     QF  Leschly/Snyder       def.  Larrain/Seah         64
+ > BC vs Min
+  > Main
+     QF  Lopez/Aguiar         def.  Hanford/Duong        76(4)
+     QF  Said/Rizzolo         def.  Wilcox/Edwards       64
+     QF  Danilchenko/Karvouni def.  Mahajan/Irani        64
+ > BU vs Min
+  > Main
+     QF  Hanford/Duong        def.  Di Battista/Kim      64
+     QF  Yaloz/Kleynerman     def.  Said/Rizzolo         75
+     QF  Danilchenko/Karvouni def.  Carlsten/Sharma      60
+     QF  Lu/Sarioglan         def.  Kostirko/Nguyen      64
+ > HU vs Min
+  > Main
+     QF  Hanford/Duong        def.  Duncan/Daujotaite    75
+     QF  You/Fischer          def.  Said/Rizzolo         62
+     QF  Lim/Gawande          def.  Lu/Danilchenko       76(4)
+     QF  Karvouni/Sarioglan   def.  Leschly/Snyder       62
+ > HU vs BC
+  > Main
+     QF  Lopez/Aguiar         def.  Duncan/You           60
+     QF  Daujotaite/Lim       def.  Wilcox/Edwards       75
+     QF  Arbitman/Fischer     def.  Mahajan/Irani        63
+ > BU vs Wisconsin
+  > Main
+     QF  Johnson/Semenovski   def.  Di Battista/Kim      76(3)
+     QF  Yaloz/Kleynerman     def.  Stoica/Mukhortova    75
+     QF  Carlsten/Sharma      def.  Cataldi/Seah         63
+     QF  Larrain/Markham      def.  Kostirko/Nguyen      61
+ > BC vs Wisconsin
+  > Main
+     QF  Lopez/Aguiar         def.  Markham/Mukhortova   62
+     QF  Semenovski/Seah      def.  Wilcox/Edwards       63
+     QF  Cataldi/Johnson      def.  Mahajan/Irani        75
+~~~
+
 <a name="21-38622"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════════════
@@ -418,6 +504,49 @@
      QF  Chileno/Jimenez      def.  Zhou/Kalava          84
 ~~~
 
+<a name="21-05390"></a>
+~~~
+═══════════════════════════════════════════════════════════
+  Ragin' Cajun Invitational
+  Dates: Nov 5-6, 2021
+  Host: University Of Louisiana (W)
+═══════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw 1
+  > Main
+     QF  Borland/Clark        def.  Maria- Marchesini/M… 61
+     QF  Theis/Lavery         def.  Urchoeguia/Zheng     62
+     QF  Raquin/Yoshimura     def.  Maksimovic/Sara-Saf… 64
+     QF  Russell/Yelamanchili def.  Burton/Medik         60
+ > Draw 2
+  > Main
+     QF  Walther/Mullen       def.  Cruz/Forshag         62
+     QF  Lopez-Velez/Bouygues def.  Brezanin/Santiago    63
+     QF  Richter/Yazgan       def.  Zhu/Barber           75
+ > Draw 1 Back
+  > Main
+     QF  Russell/Yelamanchili def.  Urchoeguia/Zheng     64
+     QF  Tardivel/Das         def.  Brezanin/Santiago    64
+     QF  Borland/Clark        def.  Maksimovic/Sara-Saf… 63
+     QF  Walther/Mullen       def.  Lopez-Velez/Bouygues 61
+ > Draw 2 Back
+  > Main
+     QF  Brezanin/Santiago    def.  Walther/Mullen       63
+     QF  Theis/Lavery         def.  Maria- Marchesini/M… 62
+     QF  Borland/Clark        def.  Maksimovic/Sara-Saf… 63
+     QF  Richter/Yazgan       def.  Cruz/Forshag         61
+ > Draw Day 2
+  > Main
+     QF  Russell/Yelamanchili def.  Maria- Marchesini/M… 60
+     QF  Theis/Lavery         def.  Maksimovic/Sara-Saf… 63
+     QF  Borland/Clark        def.  Urchoeguia/Zheng     63
+     QF  Richter/Yazgan       def.  Lopez-Velez/Bouygues 61
+ > Draw Day 2 back
+  > Main
+     QF  Theis/Lavery         def.  Maksimovic/Sara-Saf… 63
+     QF  Cruz/Forshag         def.  Tardivel/Das         64
+~~~
+
 <a name="21-91602"></a>
 ~~~
 ════════════════════════════════════════════════════════════════
@@ -432,18 +561,28 @@
      QF  Corpuz/Komarraju     def.  Muljat/Hrudka        61
      QF  Pitts/Morin          def.  Tabares/Snissarenko  63
      QF  Von Tersch Pohrer/R… def.  Sabile/Wagner        76(4)
- > Yellow Draw
-  > Main
-     QF  Pitts/Morin          def.  Muljat/Hrudka        60
-     QF  Von Tersch Pohrer/R… def.  Hinrichs/Weiland     63
-     QF  Moore/Taggart        def.  Tabares/Snissarenko  64
-     QF  Corpuz/Komarraju     def.  Sabile/Wagner        63
  > White Draw
   > Main
      QF  Corpuz/Komarraju     def.  Von Tersch Pohrer/R… 76(5)
      QF  Moore/Taggart        def.  Pitts/Morin          62
      QF  Sabile/Wagner        def.  Muljat/Hrudka        63
      QF  Tabares/Snissarenko  def.  Hinrichs/Weiland     63
+~~~
+
+<a name="21-51929"></a>
+~~~
+══════════════════════════════════════════════════════════
+  Seahawk Ocean Classic
+  Dates: Nov 5-7, 2021
+  Host: UNC Wilmington (W)
+══════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Davidson vs. Field
+  > Main
+     QF  Nord/Prudente       def.  Shea/Gladstone  75
+     QF  Wiesmann/Vesikallio def.  Truluck/Patel   75
+     QF  Schaffer/Anyanwu    def.  Thompson/Bell   61
+     QF  Porges/Heiderscheit def.  Bodewes/Ramirez 76(3)
 ~~~
 
 <a name="21-32980"></a>

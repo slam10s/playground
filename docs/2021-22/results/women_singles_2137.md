@@ -1,6 +1,7 @@
 <a name="top"></a>[<< Prev](women_singles_2136.md) &nbsp; **Week #37 - Sep 13-19, 2021** &nbsp; [Next >>](women_singles_2138.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2137.md) &#124; [***Women***](./women_singles_2137.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2137.md) &#124; [Doubles](./women_doubles_2137.md)
 
 **Tournamets with Matches**  
+- 9/17/2021 - [2021 Columbia University Invitational](#21-78345) ([Results](#21-78345) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D" target="_blank">Draws</a>)  
 - 9/17/2021 - [Brown Invitational](#21-14330) ([Results](#21-14330) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/8EA19D28-8C5F-436E-80F9-E515FC4507EA" target="_blank">Draws</a>)  
 - 9/17/2021 - [Debbie Southern Furman Fall Classic](#21-22147) ([Results](#21-22147) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FurmanUniversityW/Tournaments/Overview/3803B600-6726-48B5-820F-B45C3CF8E5DF" target="_blank">Draws</a>)  
 - 9/17/2021 - [Elon Invitational](#21-46904) ([Results](#21-46904) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A" target="_blank">Draws</a>)  
@@ -32,9 +33,149 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D" target="_blank">2021 Columbia University Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">PP/CMS Invite</a>  
+
+<a name="21-78345"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════════
+  2021 Columbia University Invitational
+  Dates: Sep 17-19, 2021
+  Host: Columbia University (W)
+══════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Manhattan
+  > Main
+      F (2) Iuliia Bryzgalova    def.     Jessie Gong          46 64 [3]
+     SF     Jessie Gong          def.     Sasha Wood           64 75
+     SF (2) Iuliia Bryzgalova    def.     Akanksha Bhan        64 75
+     QF     Jessie Gong          def. (1) Viktoryia Kanapatsk… 64 26 [3]
+     QF     Sasha Wood           def.     Lan Mi               26 64 [6]
+     QF     Akanksha Bhan        def.     Marta Perez Mur      26 62 [6]
+     QF (2) Iuliia Bryzgalova    def.     Alina Mukhortova     64 61
+  > Consolation
+      F     Alina Mukhortova     def. (1) Viktoryia Kanapatsk… 26 64 [7]
+     SQ (1) Viktoryia Kanapatsk… def.     Lan Mi               62 64
+     SQ     Alina Mukhortova     def.     Marta Perez Mur      Walkover
+ > Albany
+  > Main
+      F     Selin Sepken         def. (2) Vera Markovic        63 36 [4]
+     SF     Selin Sepken         def.     Advaita Saravanan    62 46 [11]
+     SF (2) Vera Markovic        def.     Jasmine Maduel       64 46 [4]
+     QF     Advaita Saravanan    def. (1) Yekaterina Alferova  60 62
+     QF     Selin Sepken         def.     Amaya Lopez          60 61
+     QF     Jasmine Maduel       def.     Tatiana Ziff         62 75
+     QF (2) Vera Markovic        def.     Seychelle Balog      76(2) 62
+  > Consolation
+      F     Seychelle Balog      def.     Amaya Lopez          64 64
+     SQ     Amaya Lopez          def. (1) Yekaterina Alferova  62 63
+     SQ     Seychelle Balog      def.     Tatiana Ziff         36 75 [6]
+ > Brooklyn
+  > Main
+      F     Sabine Rutlauka      def.     Margaux Maquet       76(7) 62
+     SF     Sabine Rutlauka      def.     Melissa Sakar        63 62
+     SF     Margaux Maquet       def.     Maria Adiaconitei    64 60
+     QF     Sabine Rutlauka      def.     Caroline Dunleavy    61 64
+     QF     Melissa Sakar        def.     Sofiya Kuzina        57 61 [8]
+     QF     Margaux Maquet       def.     Taylor Cataldi       61 62
+     QF     Maria Adiaconitei    def.     Shiori Ito           26 76(3) [6]
+  > Consolation
+      F     Caroline Dunleavy    def.     Taylor Cataldi       63 60
+     SQ     Caroline Dunleavy    def.     Sofiya Kuzina        64 61
+     SQ     Taylor Cataldi       def.     Shiori Ito           61 63
+ > Long Island
+  > Main
+      F     Francesca Feodorov   def.     Sophie Raiszadeh     60 Ret.
+     SF     Sophie Raiszadeh     def.     Elinor Storkaas      75 63
+     SF     Francesca Feodorov   def.     Carolyn Brodsky      63 67(4) [1]
+     QF     Sophie Raiszadeh     def.     Gibson Thomas        62 76(4)
+     QF     Elinor Storkaas      def.     Yesica de Lucas      64 16 [7]
+     QF     Carolyn Brodsky      def.     Phoebe Watton        63 64
+     QF     Francesca Feodorov   def.     Camila Ordonez       76 61
+  > Consolation
+      F     Camila Ordonez       def.     Yesica de Lucas      75 61
+     SQ     Yesica de Lucas      def.     Gibson Thomas        75 64
+     SQ     Camila Ordonez       def.     Phoebe Watton        76(3) 61
+ > Queens
+  > Main
+      F     Mirabelle Bretkelly  def.     Selma Cadar          60 75
+     SF     Selma Cadar          def.     Gavriella Smith      63 63
+     SF     Mirabelle Bretkelly  def.     Anna Zhang           63 64
+     QF     Selma Cadar          def.     Rocio Safont         63 63
+     QF     Gavriella Smith      def.     Jayden Nielsen       63 63
+     QF     Mirabelle Bretkelly  def.     Lauren Stein         61 63
+     QF     Anna Zhang           def.     Aya Saleh            Walkover
+ > Rochester
+  > Main
+      F     Saige Roshkoff       def.     Michelle Xu          63 Ret.
+     SF     Michelle Xu          def.     Willa Bay Breunich   46 64 [3]
+     SF     Saige Roshkoff       def.     Bianca Compuesto     63 62
+     QF     Michelle Xu          def.     Shalom Salvi         16 62 [4]
+     QF     Willa Bay Breunich   def.     Khary Pryce          62 64
+     QF     Bianca Compuesto     def.     Mandisa Walle        61 61
+     QF     Saige Roshkoff       def.     Caitlin Sullivan     63 61
+  > Consolation
+      F     Shalom Salvi         def.     Caitlin Sullivan     62 26 [3]
+     SQ     Shalom Salvi         def.     Khary Pryce          63 76(1)
+     SQ     Caitlin Sullivan     def.     Mandisa Walle        64 63
+ > Bronx
+  > Main
+     SF     Julia Haynes         def.     Maria Ines Fonte     62 76(2)
+     SF     Mouna Bouzgarrou     def.     Mary Brumfield       63 36 [5]
+     QF     Julia Haynes         def.     Ruxi Schech          76(5) 64
+     QF     Maria Ines Fonte     def.     Rhea Shrivistava     64 46 [7]
+     QF     Mary Brumfield       def.     Nastasya Semenovski  64 46 [9]
+     QF     Mouna Bouzgarrou     def.     Ashley Huang         64 76(3)
+  > Consolation
+      F     Ruxi Schech          def.     Nastasya Semenovski  64 26 [7]
+     SQ     Ruxi Schech          def.     Rhea Shrivistava     64 61
+     SQ     Nastasya Semenovski  def.     Ashley Huang         60 60
+ > Staten Island
+  > Main
+      F     Jojo Bach            def.     Amanda Chan          76(6) 67(9) [1]
+     SF     Amanda Chan          def.     Amira Badawi         64 62
+     SF     Jojo Bach            def.     Miyuka Kimoto        76(4) 63
+     QF     Amanda Chan          def.     Jennifer Kerr        62 60
+     QF     Amira Badawi         def.     Lalita Devarakonda   62 61
+     QF     Jojo Bach            def.     Fatima El Ashram     62 61
+     QF     Miyuka Kimoto        def.     Charmaine Seah       67(5) 63 [5]
+  > Consolation
+      F     Jennifer Kerr        def.     Charmaine Seah       61 64
+     SQ     Jennifer Kerr        def.     Lalita Devarakonda   63 64
+     SQ     Charmaine Seah       def.     Fatima El Ashram     62 75
+ > Buffalo
+  > Main
+      F     Shivani Amineni      def.     Iris Gallo           61 64
+     SF     Shivani Amineni      def.     Sonia Maheshwari     61 46 [3]
+     SF     Iris Gallo           def.     Deniz Soyer          76(5) 57 [4]
+     QF     Shivani Amineni      def.     Victoria Erechtchen… 64 75
+     QF     Sonia Maheshwari     def.     Katherine Nguyen     61 63
+     QF     Deniz Soyer          def.     Ekaterine Jorjoliani 62 62
+     QF     Iris Gallo           def.     Dzhambazov Sandra    63 46 [5]
+  > Consolation
+      F     Victoria Erechtchen… def.     Dzhambazov Sandra    36 61 [6]
+     SQ     Victoria Erechtchen… def.     Katherine Nguyen     63 75
+     SQ     Dzhambazov Sandra    def.     Ekaterine Jorjoliani 46 61 [2]
+ > Westchester
+  > Main
+      F     Emma Wilkins         def.     Clarine Lerby        75 46 [3]
+     SF     Clarine Lerby        def.     Minorka Miranda      46 64 [5]
+     SF     Emma Wilkins         def.     Rachele Rimondini    64 64
+     QF     Clarine Lerby        def.     Emilie Haakansson    63 61
+     QF     Minorka Miranda      def.     Alexandra Savu       61 63
+     QF     Rachele Rimondini    def.     Valentina Dancenco   61 63
+     QF     Emma Wilkins         def.     Eileen Wang          62 62
+  > Consolation
+      F     Eileen Wang          def.     Emilie Haakansson    62 76(5)
+     SQ     Emilie Haakansson    def.     Alexandra Savu       76(4) 26 [8]
+     SQ     Eileen Wang          def.     Valentina Dancenco   75 26 [8]
+ > Extra Matches
+  > Main
+     QF     Lauren Stein         def.     Alina Mukhortova     62 62
+     QF     Shiori Ito           def.     Akanksha Bhan        61 46 [2]
+     QF     Amira Badawi         def.     Jayden Nielsen       36 63 [7]
+     QF     Miyuka Kimoto        def.     Lalita Devarakonda   76(2) 76(4)
+~~~
 
 <a name="21-14330"></a>
 ~~~

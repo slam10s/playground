@@ -824,15 +824,15 @@
      QF     Berry/Boy            def. (2) Leslie/Christians    64
      16     Filip/Schieroni      def.     Umarova/Skrobonja    63
      16 (3) Sharma/Mattel        def.     Hubeaut/Sandy        60
-     16     Bardet/Ferding       def.     Eland/Schumacher     62
+     16     Bardet/Ferding       def.     Eland/Shumacher      62
      16     Bekrar/Kabbaj        def.     Kudelova/MGinnis     64
      16 (4) De Oliveira/Dudeney  def.     Davis/Yardley        61
      16     Berry/Boy            def.     Cohen/Dovgopolyi     62
   > West
       F     Umarova/Skrobonja    def.     Kudelova/MGinnis     63
-     SF     Umarova/Skrobonja    def.     Eland/Schumacher     63
+     SF     Umarova/Skrobonja    def.     Eland/Shumacher      63
      SF     Kudelova/MGinnis     def.     Cohen/Dovgopolyi     62
-     QF     Eland/Schumacher     def.     Hubeaut/Sandy        62
+     QF     Eland/Shumacher      def.     Hubeaut/Sandy        62
      QF     Kudelova/MGinnis     def.     Davis/Yardley        63
   > North
      SF     Filip/Schieroni      def.     Bardet/Ferding       Walkover

@@ -16,6 +16,7 @@
 - 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
+- 10/29/2021 - [Rocket Invite- The Sequel](#21-55677) ([Results](#21-55677) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Draws</a>)  
 - 10/28/2021 - [Tennessee Fall Invitational](#21-92398) ([Results](#21-92398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Draws</a>)  
 - 10/29/2021 - [Wofford Fall Invite](#21-77110) ([Results](#21-77110) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Draws</a>)  
 - 10/29/2021 - [Shark Bite Invite](#21-28680) ([Results](#21-28680) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Draws</a>)  
@@ -25,7 +26,6 @@
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">College of Charleston Halloween Tournament</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 
@@ -942,6 +942,36 @@
       F  Tutunaru/Fujioka     def.  Staiculescu/Mejic    63
   > South
       F  Clarke/White         def.  Perez Mur/Brumfield  63
+~~~
+
+<a name="21-55677"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  Rocket Invite- The Sequel
+  Dates: Oct 29-30, 2021
+  Host: University Of Toledo (W)
+═══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > TOL vs CSU Doubles
+  > Main
+     QF  Alcala/Teske         def.  Heren/Tounsi     76(6)
+     QF  Kuszynski/Tallamraju def.  Mrcela/Vicario   63
+     QF  Morera/Panta         def.  Vevere/Yauch     64
+ > Extra Doubles Matches
+  > Main
+     QF  Morera/Panta         def.  Frogner/Vevere   75
+     QF  Vetter/Tsadari       def.  Mrcela/Vicario   63
+     QF  Carney/Fuller        def.  Mrcela/Vevere    64
+ > BGSU vs CSU Doubles
+  > Main
+     QF  Heren/Tounsi         def.  Silveira/Tsadari 62
+     QF  Mrcela/Vevere        def.  Neuman/Iglesias  61
+     QF  Frogner/Vicario      def.  Fuentes/Vetter   75
+ > TOL vs BGSU Doubles
+  > Main
+     QF  Alcala/Teske         def.  Silveira/Tsadari 64
+     QF  Kuszynski/Tallamraju def.  Poppe/Neuman     63
+     QF  Morera/Panta         def.  Fuentes/Vetter   61
 ~~~
 
 <a name="21-92398"></a>

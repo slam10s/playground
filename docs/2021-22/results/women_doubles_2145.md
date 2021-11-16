@@ -1,13 +1,232 @@
-<a name="top"></a>[<< Prev](women_doubles_2144.md) &nbsp; **Week #45 - Nov 8-14, 2021** &nbsp; [Next >>](women_doubles_2202.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2145.md) &#124; [***Women***](./women_doubles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2145.md) &#124; [***Doubles***](./women_doubles_2145.md)
+<a name="top"></a>[<< Prev](women_doubles_2144.md) &nbsp; **Week #45 - Nov 8-14, 2021** &nbsp; [Next >>](women_doubles_2146.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2145.md) &#124; [***Women***](./women_doubles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2145.md) &#124; [***Doubles***](./women_doubles_2145.md)
+
+**Tournamets with Matches**  
+- 11/4/2021 - [Harvard Fall Invitational](#21-06527) ([Results](#21-06527) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Draws</a>)  
+- 11/12/2021 - [Csun Invitational 2021](#21-21713) ([Results](#21-21713) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CaliforniaStateUniversityNorthridgeW/Tournaments/Overview/170B0D52-C31D-4AA5-A14A-C44E18B58FF4" target="_blank">Draws</a>)  
+- 11/12/2021 - [Texas A&M Invitational](#21-89648) ([Results](#21-89648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/BF7768E0-4750-49B0-9B29-7EB1AC4016D9" target="_blank">Draws</a>)  
+- 11/12/2021 - [UNF Fall Invite](#21-72331) ([Results](#21-72331) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthFloridaW/Tournaments/Overview/0890226F-0B4C-40E3-888D-5CE5DA25876A" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 11/4/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Harvard Fall Invitational</a>  
-
-**Upcoming Tournaments**  
-- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CaliforniaStateUniversityNorthridgeW/Tournaments/Overview/170B0D52-C31D-4AA5-A14A-C44E18B58FF4" target="_blank">Csun Invitational 2021</a>  
 - 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1A40265D-8EC6-44FD-9EB9-1733C02C74CC" target="_blank">SDSU Fall Tennis Classic # 2</a>  
-- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/BF7768E0-4750-49B0-9B29-7EB1AC4016D9" target="_blank">Texas A&M Invitational</a>  
-- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthFloridaW/Tournaments/Overview/0890226F-0B4C-40E3-888D-5CE5DA25876A" target="_blank">UNF Fall Invite</a>  
+- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/185CF1AE-D437-4098-91A9-6F597D244978" target="_blank">Watanabe Classic</a>  
 - 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityW/Tournaments/Overview/5D6A7D6E-4DFF-41D5-BA55-AEBEDA326663" target="_blank">Western Michigan - Betsy Kuhle Invitational</a>  
+
+<a name="21-06527"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Harvard Fall Invitational
+  Dates: Nov 4-9, 2021
+  Host: Harvard University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > HU vs Wis
+  > Main
+     QF  Duncan/Daujotaite    def.  Markham/Johnson      76(4)
+     QF  You/Marculescu       def.  Mukhortova/Semenovs… 76(2)
+     QF  Lim/Gawande          def.  Cataldi/Stoica       64
+     QF  Leschly/Snyder       def.  Larrain/Seah         64
+ > BC vs Min
+  > Main
+     QF  Lopez/Aguiar         def.  Hanford/Duong        76(4)
+     QF  Said/Rizzolo         def.  Wilcox/Edwards       64
+     QF  Danilchenko/Karvouni def.  Mahajan/Irani        64
+ > BU vs Min
+  > Main
+     QF  Hanford/Duong        def.  Di Battista/Kim      64
+     QF  Yaloz/Kleynerman     def.  Said/Rizzolo         75
+     QF  Danilchenko/Karvouni def.  Carlsten/Sharma      60
+     QF  Lu/Sarioglan         def.  Kostirko/Nguyen      64
+ > HU vs Min
+  > Main
+     QF  Hanford/Duong        def.  Duncan/Daujotaite    75
+     QF  You/Fischer          def.  Said/Rizzolo         62
+     QF  Lim/Gawande          def.  Lu/Danilchenko       76(4)
+     QF  Karvouni/Sarioglan   def.  Leschly/Snyder       62
+ > HU vs BC
+  > Main
+     QF  Lopez/Aguiar         def.  Duncan/You           60
+     QF  Daujotaite/Lim       def.  Wilcox/Edwards       75
+     QF  Arbitman/Fischer     def.  Mahajan/Irani        63
+ > BU vs Wisconsin
+  > Main
+     QF  Johnson/Semenovski   def.  Di Battista/Kim      76(3)
+     QF  Yaloz/Kleynerman     def.  Stoica/Mukhortova    75
+     QF  Carlsten/Sharma      def.  Cataldi/Seah         63
+     QF  Larrain/Markham      def.  Kostirko/Nguyen      61
+ > BC vs Wisconsin
+  > Main
+     QF  Lopez/Aguiar         def.  Markham/Mukhortova   62
+     QF  Semenovski/Seah      def.  Wilcox/Edwards       63
+     QF  Cataldi/Johnson      def.  Mahajan/Irani        75
+~~~
+
+<a name="21-21713"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Csun Invitational 2021
+  Dates: Nov 12-14, 2021
+  Host: California State University, Northridge (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > Main
+      F  Coetzee/Fraile Tobo… def.  Tsukiji/Fossorier    76(8)
+     SF  Coetzee/Fraile Tobo… def.  Ahmed/Marzano        64
+     SF  Tsukiji/Fossorier    def.  Rosas Garcia/Marko   76(5)
+     QF  Ahmed/Marzano        def.  Abramyan/Huang       75
+     QF  Coetzee/Fraile Tobo… def.  Ozturk/Millan        63
+     QF  Rosas Garcia/Marko   def.  Heimuli/Smith        61
+     QF  Tsukiji/Fossorier    def.  Zelic/Sunjic         61
+ > Flight B
+  > Main
+      F  Astle/Lin            def.  Stanmore/Minich      62
+     SF  Astle/Lin            def.  Kageyama/Toriumi     61
+     SF  Stanmore/Minich      def.  Daries/Nespor        63
+     QF  Astle/Lin            def.  Ferreros/Lee         75
+     QF  Kageyama/Toriumi     def.  Flaquer/Husrefovic   75
+     QF  Stanmore/Minich      def.  Pethybridge/Dimitri… 61
+     QF  Daries/Nespor        def.  County/Dekkers       62
+ > Flight C
+  > Main
+      F  Hedrzak/Santibanez … def.  Rouf/Tanevska        62
+     SF  Rouf/Tanevska        def.  Kung/Demerath        60
+     SF  Hedrzak/Santibanez … def.  Masarikova/Rigazio   63
+     QF  Kung/Demerath        def.  Carter/Fowler        62
+     QF  Rouf/Tanevska        def.  Olmos/Kurokawa       62
+     QF  Hedrzak/Santibanez … def.  Alter/McSkimming     76(2)
+     QF  Masarikova/Rigazio   def.  Elenova/Alcon        62
+ > Flight D
+  > Main
+     R4  Ejsmont/Tagaloa      def.  Totah/Pavani         63
+     R3  Ejsmont/Tagaloa      def.  Mayo/Lam             64
+     R2  Oliveira/OConnor     def.  Totah/Pavani         63
+     R2  Zhytelna/Tolmoyan    def.  Ejsmont/Tagaloa      62
+     R1  Mayo/Lam             def.  Totah/Pavani         63
+     R1  Zhytelna/Tolmoyan    def.  Oliveira/OConnor     64
+ > Flight A Con
+  > Main
+     SF  Abramyan/Huang       def.  Ozturk/Millan        63
+     SF  Heimuli/Smith        def.  Zelic/Sunjic         Walkover
+ > Flight B Con
+  > Main
+      F  County/Dekkers       def.  Ferreros/Lee         63
+     SF  Ferreros/Lee         def.  Flaquer/Husrefovic   42 Ret.
+     SF  County/Dekkers       def.  Pethybridge/Dimitri… 63
+ > Flight B Mc
+  > Main
+      F  Kageyama/Toriumi     def.  Daries/Nespor        61
+ > Flight C Con
+  > Main
+      F  Alter/McSkimming     def.  Olmos/Kurokawa       64
+     SF  Olmos/Kurokawa       def.  Carter/Fowler        64
+     SF  Alter/McSkimming     def.  Elenova/Alcon        Walkover
+ > Flight C Mc
+  > Main
+      F  Masarikova/Rigazio   def.  Kung/Demerath        60
+ > Flight B Extra Matches
+  > Main
+      F  Heimuli/Smith        def.  Alter/McSkimming     64
+ > Extra Doubles Matches
+  > Main
+     QF  Abramyan/Huang       def.  Rosas Garcia/Marko   60
+     QF  Ahmed/Marzano        def.  Heimuli/Smith        62
+     QF  Ozturk/Millan        def.  Carter/Fowler        75
+ > Extra Double Matches Sunday
+  > Main
+     16  Oliveira/Stanmore    def.  Daries/Nespor        62
+     16  Hedrzak/Santibanez … def.  Kageyama/Toriumi     64
+     16  County/Dekkers       def.  Masarikova/Rigazio   75
+     16  Ferreros/McSkimming  def.  Totah/Pavani         63
+     16  Rosas Garcia/Marko   def.  Coetzee/Fraile Tobo… 62
+     16  Ejsmont/Tagaloa      def.  Zhytelna/Tolmoyan    64
+     16  Gonzalez-Rico/Fosso… def.  Ozturk/Millan        63
+ > Extra Double Match Part 2
+  > Main
+      F  Ahmed/Marzano        def.  Daries/Nespor        64
+~~~
+
+<a name="21-89648"></a>
+~~~
+═══════════════════════════════════════════════════════════
+  Texas A&M Invitational
+  Dates: Nov 12-14, 2021
+  Host: Texas A&M University (M)
+═══════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Friday Doubles Competition
+  > Main
+     16  Joyce/Sung           def.  Mireles/Stoiana      64
+     16  McBryde/Pielet       def.  Shvets/Sorokko       62
+     16  Rodilosso/Grishuk    def.  Di Laura/Pittman     64
+     16  Baranano/Krywoj      def.  Rijkers/Stara        64
+     16  Sahdiieva/Shcherbin… def.  Babic/Cubitt         63
+     16  Rice/ODonnell        def.  Bridges/Rabinowitz   64
+     16  Malm/Zamburek        def.  Keller/Southerland   62
+     16  Pinto/Thompson       def.  Gownder/Robbins      63
+ > Saturday Doubles Competition
+  > Main
+     16  Stoiana/McBryde      def.  Rice/ODonnell        75
+     16  Bridges/Rabinowitz   def.  Pielet/Mireles       64
+     16  Pittman/Robbins      def.  Keller/Southerland   64
+     16  Shvets/Rodilosso     def.  Herrero Linana/Bara… 62
+     16  Joyce/Sorokko        def.  Sahdiieva/Shcherbin… 64
+     16  Grishuk/Sung         def.  Malm/Zamburek        62
+     16  Babic/Cubitt         def.  Rijkers/Stara        62
+     16  Geissler/Di Laura    def.  Pinto/Thompson       61
+ > Sunday Doubles Competition
+  > Main
+     16  Stoiana/Pielet       def.  Krywoj/Malm          64
+     16  Shvets/Rodilosso     def.  Rijkers/Stara        64
+     16  Babic/Geissler       def.  Joyce/Sorokko        60
+     16  Sahdiieva/Shcherbin… def.  Bridges/Rabinowitz   62
+     16  Herrero Linana/Bara… def.  Rice/ODonnell        63
+     16  McBryde/Mireles      def.  Keller/Southerland   60
+     16  Di Laura/Pittman     def.  Grishuk/Sung         63
+~~~
+
+<a name="21-72331"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  UNF Fall Invite
+  Dates: Nov 12-14, 2021
+  Host: Univ. Of North Florida (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight 1
+  > East
+      F  Ansari/Meredith      def.  Gulihur/Oliveira     75
+     SF  Gulihur/Oliveira     def.  Sharma/Mattel        76(5)
+     SF  Ansari/Meredith      def.  Dudeney/Shelton      63
+     QF  Sharma/Mattel        def.  Thompson/Louka       62
+     QF  Gulihur/Oliveira     def.  Jacobs/Allen         62
+     QF  Ansari/Meredith      def.  Berry/Shumacher      62
+     QF  Dudeney/Shelton      def.  Sawhney/Schech       75
+  > West
+     SF  Jacobs/Allen         def.  Thompson/Louka       62
+     SF  Sawhney/Schech       def.  Berry/Shumacher      64
+  > 3-4 Playoff
+      F  Dudeney/Shelton      def.  Sharma/Mattel        76(3)
+ > Flight 2
+  > East
+      F  Petruzelova/Safont   def.  Buyckx/Mayorova      62
+     SF  Buyckx/Mayorova      def.  Dahlstrom/Spee       64
+     SF  Petruzelova/Safont   def.  Nash/Yardley         64
+     QF  Dahlstrom/Spee       def.  Borland/Clark        63
+     QF  Buyckx/Mayorova      def.  Eland/Mjos           63
+     QF  Petruzelova/Safont   def.  Pellicer Perello/Ti… 62
+     QF  Nash/Yardley         def.  Russell/Yelamanchili 64
+  > West
+     SF  Borland/Clark        def.  Eland/Mjos           64
+     SF  Russell/Yelamanchili def.  Pellicer Perello/Ti… 63
+  > 3-4 Playoff
+      F  Dahlstrom/Spee       def.  Nash/Yardley         62
+ > Flight 3
+  > Main
+     R4  Long/Lodzki          def.  Lavery/Theis         63
+     R3  Davis/Chen           def.  Lavery/Theis         63
+     R2  Davis/Chen           def.  Mullen/Zhu           64
+     R1  Lavery/Theis         def.  Amendola/Arkadianou  75
+     R1  Long/Lodzki          def.  Mullen/Zhu           64
+~~~
 
 Return to the [Top](./women_doubles_2145.md) &#124; [Home Page](../../index.md)

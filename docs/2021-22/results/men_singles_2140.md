@@ -33,12 +33,12 @@
        F      Ben Shelton          def.      August Holmgren      63 64
       SF      Ben Shelton          def.      Clement Chidekh      63 60
       SF      August Holmgren      def.  (Q) Andre Ilagan         64 63
-      QF      Ben Shelton          def.  (Q) Jj Tracy             76(7) 75
+      QF      Ben Shelton          def.  (Q) JJ Tracy             76(7) 75
       QF      Clement Chidekh      def.  (6) Gabriel Diallo       61 36 64
       QF  (Q) Andre Ilagan         def.      Alex Kotzen          16 61 62
       QF      August Holmgren      def.      Mason Beiler         62 64
       16      Ben Shelton          def.  (9) Ronnie Hohmann       63 62
-      16  (Q) Jj Tracy             def.      Alexandre Reco       76(5) 46 64
+      16  (Q) JJ Tracy             def.      Alexandre Reco       76(5) 46 64
       16      Clement Chidekh      def.  (Q) Stefan Dostanic      46 63 63
       16  (6) Gabriel Diallo       def.      Andres Martin        76(1) 62
       16  (Q) Andre Ilagan         def.      Cannon Kingsley      64 62
@@ -48,7 +48,7 @@
       32      Ben Shelton          def.  (1) Daniel Rodrigues     63 20 Ret.
       32  (9) Ronnie Hohmann       def.      Arthur Fery          63 76(5)
       32      Alexandre Reco       def.  (5) Trent Bryde          76(4) 60
-      32  (Q) Jj Tracy             def.  (9) Nikola Slavic        63 63
+      32  (Q) JJ Tracy             def.  (9) Nikola Slavic        63 63
       32  (Q) Stefan Dostanic      def.      Francisco Rocha      46 63 61
       32      Clement Chidekh      def.      Ryan Goetz           64 62
       32  (6) Gabriel Diallo       def.  (Q) Daniel De Jonge      26 63 76(2)
@@ -68,7 +68,7 @@
       64  (5) Trent Bryde          def.  (Q) Henry Schulenburg    61 26 64
       64      Alexandre Reco       def. (LL) Emmanuel Coste       64 26 76(2)
       64  (9) Nikola Slavic        def.      James Davis          63 64
-      64  (Q) Jj Tracy             def.      Stefan Hampe         61 64
+      64  (Q) JJ Tracy             def.      Stefan Hampe         61 64
       64      Francisco Rocha      def.  (3) Luc Fomba            76(4) 64
       64  (Q) Stefan Dostanic      def.      Brian Cernoch        64 60
       64      Ryan Goetz           def.  (9) Matej Vocel          36 62 63
@@ -133,7 +133,7 @@
       64  (Q) Eric Hadigian        def. (17) Joshua Lapadat       64 64
       64      Tim Zeitvogel        def.      Geronimo Busleiman   63 46 76(3)
       64      Francois Musitelli   def.      Simon Arca Costas    63 61
-      64 (17) Jj Tracy             def.      Max Basing           76(4) 60
+      64 (17) JJ Tracy             def.      Max Basing           76(4) 60
       64      Trey Hilderbrand     def.      Blake Croyder        63 36 64
       64      Andre Ilagan         def.      Stijn Slump          62 57 60
       64      Tadeas Paroulek      def.      Gavin Young          64 64
@@ -156,7 +156,7 @@
      128      Francois Musitelli   def.      Justin Boulais       64 62
      128      Simon Arca Costas    def.      Filip Malbasic       26 75 75
      128      Max Basing           def.      Connor Di Marco      62 64
-     128 (17) Jj Tracy             def.  (Q) Carlos Hassey        16 64 61
+     128 (17) JJ Tracy             def.  (Q) Carlos Hassey        16 64 61
      128      Blake Croyder        def.  (8) Siem Woldeab         76(4) 75
      128      Trey Hilderbrand     def. (LL) Carl Emil Overbeck   64 36 64
      128      Andre Ilagan         def.      Jacob Brumm          64 62
@@ -202,7 +202,7 @@
      256      Max Basing           def.  (7) James Story          76(9) 76(5)
      256      Connor Di Marco      def.      Kyle Frankel         63 16 64
      256  (Q) Carlos Hassey        def.      Ronan Jachuck        36 63 63
-     256 (17) Jj Tracy             def.  (Q) Justin Schlageter    63 62
+     256 (17) JJ Tracy             def.  (Q) Justin Schlageter    63 62
      256  (8) Siem Woldeab         def.  (Q) Oscar Pinto Sansano  62 60
      256      Blake Croyder        def.      Thomas Bosancic      62 64
      256      Trey Hilderbrand     def.      Marin Delmas         36 63 63
@@ -1806,7 +1806,6 @@
      R2  Norka Sanchez        def.  Asier Pena Ibanez   63 64
      R1  Anshumat Srivastava  def.  Norka Sanchez       62 64
      R1  Adi Ben Ari          def.  Liam Wickwire       64 61
-     R1  Charalampos Fouzas   def.  Bode Vance          63 61
 ~~~
 
 <a name="21-27941"></a>

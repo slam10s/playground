@@ -16,6 +16,7 @@
 - 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
+- 10/29/2021 - [Rocket Invite- The Sequel](#21-55677) ([Results](#21-55677) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Draws</a>)  
 - 10/28/2021 - [Tennessee Fall Invitational](#21-92398) ([Results](#21-92398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Draws</a>)  
 - 10/29/2021 - [Wofford Fall Invite](#21-77110) ([Results](#21-77110) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Draws</a>)  
 - 10/29/2021 - [Shark Bite Invite](#21-28680) ([Results](#21-28680) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Draws</a>)  
@@ -25,7 +26,6 @@
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">College of Charleston Halloween Tournament</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Rocket Invite- The Sequel</a>  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 
@@ -54,7 +54,7 @@
      16      Catherine Gulihur   def.      Daevenia Achong     64 63
      16 (10) Emma Shelton        def.  (7) Ava Hrastar         63 63
      16 (15) Ania Hertel         def.  (2) Isabella Pfennig    46 61 62
-     32  (1) Meg Kowalski        def.      Grace Schumacher    62 60
+     32  (1) Meg Kowalski        def.      Grace Shumacher     62 60
      32 (13) Kylie Bilchev       def.      Eden Richardson     62 67(4) 76(6)
      32  (5) Carly Briggs        def.      Vic Allen           61 67(1) 60
      32  (9) Evgeniya Levashova  def.      Kamila Umarova      57 64 62
@@ -71,7 +71,7 @@
      32 (15) Ania Hertel         def.      Nandini Sharma      62 63
      32  (2) Isabella Pfennig    def.      Yasmine Kabbaj      63 75
      64  (1) Meg Kowalski        def.      Angel Carney        64 62
-     64      Grace Schumacher    def.      Ji Youn Lee         63 61
+     64      Grace Shumacher     def.      Ji Youn Lee         63 61
      64      Eden Richardson     def.      Jaleesa Leslie      61 57 41 Ret.
      64 (13) Kylie Bilchev       def.      Millie-Mae Matthews 20 Ret.
      64  (5) Carly Briggs        def.      Monika Dedaj        63 63
@@ -1920,6 +1920,45 @@
      128  Alexandra Ferreira … def.  Anastasiia Khokhlova 63 64
      128  Charlotte Cartledge  def.  Marta Falceto        61 26 [8]
      128  Sydney Clarke        def.  Michelle Ncube       76(6) 75
+~~~
+
+<a name="21-55677"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Rocket Invite- The Sequel
+  Dates: Oct 29-30, 2021
+  Host: University Of Toledo (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > BGSU vs CSU
+  > Main
+     16  Ioanna Tsadari     def.  Oihane Vicario  62 64
+     16  Sima Heren         def.  Annika Vetter   63 60
+     16  Selma Tounsi       def.  Lura Silveira   63 57 [2]
+     16  Tereze Vevere      def.  Hannah Neuman   64 63
+     16  Maru Poppe         def.  Bethany Yauch   76(1) 76(5)
+     16  Florencia Fuentes  def.  Filippa Frogner 62 61
+ > TOL vs BGSU
+  > Main
+     16  Cassie Alcala      def.  Ioanna Tsadari  26 63 [5]
+     16  Sloane Teske       def.  Annika Vetter   62 26 [5]
+     16  Julia Kuszynski    def.  Lura Silveira   57 76(3) [6]
+     16  Shalini Tallamraju def.  Hannah Neuman   63 60
+     16  Patty Panta        def.  Maru Poppe      61 61
+     16  Florencia Fuentes  def.  Eileen Carney   67(4) 63 [4]
+     16  Chrissy Fuller     def.  Ines Iglesias   63 75
+ > TOL vs CSU
+  > Main
+     16  Cassie Alcala      def.  Sima Heren      76(4) 46 [3]
+     16  Sloane Teske       def.  Selma Tounsi    62 64
+     16  Julia Kuszynski    def.  Oihane Vicario  26 76(5) [6]
+     16  Shalini Tallamraju def.  Tereze Vevere   64 76(3)
+     16  Bethany Yauch      def.  Patty Panta     46 63 [5]
+     16  Chrissy Fuller     def.  Filippa Frogner 75 63
+ > Extra Singles Matches
+  > Main
+     SF  Eileen Carney      def.  Ines Iglesias   75 60
+     SF  Laura Morera       def.  Hannah Neuman   61 64
 ~~~
 
 <a name="21-92398"></a>

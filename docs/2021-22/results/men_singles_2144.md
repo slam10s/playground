@@ -3,6 +3,7 @@
 **Tournamets with Matches**  
 - 11/5/2021 - [Big 12 Individuals](#21-20291) ([Results](#21-20291) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityM/Tournaments/Overview/E0ED1E84-1CD4-4CE2-BFCD-F695030458D5" target="_blank">Draws</a>)  
 - 11/4/2021 - [Big Ten Indoors](#21-98150) ([Results](#21-98150) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/DD67ADCD-C4E7-4314-A846-4FCDAD89FABC" target="_blank">Draws</a>)  
+- 11/5/2021 - [Clemson Hidden Duals](#21-14095) ([Results](#21-14095) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/22A40DEC-6CB7-4C7E-841A-7CC786AEE57F" target="_blank">Draws</a>)  
 - 11/5/2021 - [FGCU Collegiate Open](#21-07533) ([Results](#21-07533) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaGulfCoastUniversityM/Tournaments/Overview/C591B082-DA9F-4F69-A567-2A370930F114" target="_blank">Draws</a>)  
 - 11/5/2021 - [GT Invitational](#21-32736) ([Results](#21-32736) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaTechM/Tournaments/Overview/E04A8772-9C21-4B5A-B6E0-55C939AC5A86" target="_blank">Draws</a>)  
 - 11/4/2021 - [ITA National Fall Championships](#21-38622) ([Results](#21-38622) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3C0D3BF7-1EA0-4314-9798-02FE691DD86E" target="_blank">Draws</a>)  
@@ -18,7 +19,7 @@
 - 11/6/2021 - [Buccaneers Invitational](#21-92061) ([Results](#21-92061) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BarryUniversityM/Tournaments/Overview/66BDBB63-461D-4097-ACA4-DB44D0B1C672" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/22A40DEC-6CB7-4C7E-841A-7CC786AEE57F" target="_blank">Clemson Hidden Duals</a>  
+- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/9FFB9E4B-F5D2-482B-9395-1971FCF5B506" target="_blank">CCB Collegiate Invite hosted by Samford University</a>  
 
 <a name="21-20291"></a>
 ~~~
@@ -171,7 +172,7 @@
      32Q  Shunya Maruyama      def.  Daniel Nuzhny        62 60
      32Q  Jared Pratt          def.  Nick Beaty           46 63 [8]
      32Q  Gleb Blekher         def.  Lenard Soha          26 62 [2]
-     32Q  Luke Baylis          def.  Russell Berdusco     76(4) 75
+     32Q  Luke Baylis          def.  Brian Berdusco       76(4) 75
       64  Mihailo Popovic      def.  Andre Suzanne        62 62
       64  Jack Winkler         def.  Phillip Bengtsson    26 Ret.
       64  Tomasz Dudek         def.  Mac Rogers           63 64
@@ -183,7 +184,7 @@
       64  Lenard Soha          def.  Kazuki Matsuno       61 62
       64  Gleb Blekher         def.  Jagger Saylor        36 75 [4]
       64  Luke Baylis          def.  Patrick Fletchall    62 75
-      64  Russell Berdusco     def.  Jarreau Campbell     62 63
+      64  Brian Berdusco       def.  Jarreau Campbell     62 63
      64Q  Phillip Bengtsson    def.  Carson Haskins       64 57 [5]
      64Q  Mac Rogers           def.  Tim Dzhurinskiy      Walkover
      64Q  Josh Portnoy         def.  Rohan Sachdev        46 64 [5]
@@ -203,6 +204,70 @@
      128  Piotr Galus          def.  Sebastian Vile       46 63 [6]
      128  Phillip Bengtsson    def.  Sebastian Welch      63 76(5)
      128  Patrick Fletchall    def.  Nick Williams        76(5) 64
+     128  Carson Haskins       def.  Josh Portnoy         62 60
+~~~
+
+<a name="21-14095"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  Clemson Hidden Duals
+  Dates: Nov 5-7, 2021
+  Host: Clemson University (M)
+═════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Draw
+  > Main
+     32  Teodor Giusca        def.  Blake Croyder        76(5) 62
+     32  Philip Henning       def.  Ryuhei Azuma         75 62
+     32  Hamish Stewart       def.  Jorge Plans Gonzalez 46 63 64
+     32  Spencer Whitaker     def.  Erik Grevelius       36 63 64
+     32  Miguel Perez Pena    def.  Nini Dica            76(4) 60
+     32  Thomas Paulsell      def.  Matt Pitts           63 64
+     32  Maxwell Smith        def.  Britton Johnston     36 62 62
+     32  Mathis Debru         def.  Daniel Labrador      63 36 63
+     32  Lukas Greif          def.  Inigo Torre Martin   64 63
+     32  Charles Bertimon     def.  Stepan Holis         36 64 76(6)
+     32  Oskar Brostrom Poul… def.  Maxence Bertimon     62 64
+     32  Nate Bonetto         def.  Michael Sun          26 62 63
+     32  Theo Dean            def.  Lucas Olivier        46 62 60
+     32  Matisse Bobichon     def.  Andrew Puscas        64 60
+     32  Renaud Lefevre       def.  John Chin            63 64
+     32  Aidan Reilly         def.  Mattia Bernardi      61 75
+ > Day 2
+  > Main
+     32  Ryuhei Azuma         def.  Inigo Torre Martin   76(5) 75
+     32  Teodor Giusca        def.  Michael Sun          64 46 62
+     32  Spencer Whitaker     def.  Charles Bertimon     76(4) 63
+     32  Theo Dean            def.  Nini Dica            76(5) 62
+     32  Maxence Bertimon     def.  Jorge Plans Gonzalez 62 76(3)
+     32  Maxwell Smith        def.  Renaud Lefevre       75 64
+     32  Matisse Bobichon     def.  Matt Pitts           62 61
+     32  Aidan Reilly         def.  Trey Stinchcomb      76(3) 46 61
+     32  Philip Henning       def.  Lukas Greif          64 26 62
+     32  Stepan Holis         def.  Hamish Stewart       64 16 61
+     32  Blake Croyder        def.  Oskar Brostrom Poul… 64 62
+     32  Nate Bonetto         def.  Miguel Perez Pena    62 62
+     32  Thomas Paulsell      def.  Lucas Olivier        63 60
+     32  Erik Grevelius       def.  Elijah Poritzky      62 63
+     32  John Chin            def.  Mathis Debru         36 75 64
+     32  Britton Johnston     def.  Mattia Bernardi      63 64
+ > Day 3
+  > Main
+     32  Lukas Greif          def.  Ryuhei Azuma         63 64
+     32  Nate Bonetto         def.  Teodor Giusca        62 64
+     32  Stepan Holis         def.  Spencer Whitaker     67(1) 64 62
+     32  Oskar Brostrom Poul… def.  Maxwell Smith        63 64
+     32  John Chin            def.  Matt Pitts           64 64
+     32  Daniel Labrador      def.  Lucas Olivier        64 57 64
+     32  Trey Stinchcomb      def.  Mattia Bernardi      64 64
+     32  Thomas Paulsell      def.  Theo Dean            76(4) 26 76(5)
+     32  Blake Croyder        def.  Inigo Torre Martin   76(3) 46 63
+     32  Hamish Stewart       def.  Maxence Bertimon     63 06 64
+     32  Philip Henning       def.  Charles Bertimon     63 63
+     32  Miguel Perez Pena    def.  Michael Sun          64 46 63
+     32  Matisse Bobichon     def.  Erik Grevelius       63 75
+     32  Mathis Debru         def.  Renaud Lefevre       62 16 63
+     32  Aidan Reilly         def.  Britton Johnston     62 75
 ~~~
 
 <a name="21-07533"></a>
@@ -311,12 +376,12 @@
        F (3) August Holmgren      def. (2) Arthur Fery          64 36 75
       SF (3) August Holmgren      def. (1) Clement Chidekh      60 16 63
       SF (2) Arthur Fery          def. (5) Matej Vocel          75 46 75
-      QF (1) Clement Chidekh      def. (8) Jj Tracy             63 36 62
+      QF (1) Clement Chidekh      def. (8) JJ Tracy             63 36 62
       QF (3) August Holmgren      def.     Mason Beiler         62 76(4)
       QF (5) Matej Vocel          def. (4) Stefan Dostanic      67(4) 64 61
       QF (2) Arthur Fery          def. (7) Andre Ilagan         46 63 63
       16 (1) Clement Chidekh      def.     Andrew Rogers        62 63
-      16 (8) Jj Tracy             def.     Aleksa Bucan         60 61
+      16 (8) JJ Tracy             def.     Aleksa Bucan         60 61
       16 (3) August Holmgren      def.     Finn Reynolds        75 62
       16     Mason Beiler         def.     Alafia Ayeni         26 63 62
       16 (5) Matej Vocel          def.     Trey Hilderbrand     61 76(4)
@@ -325,7 +390,7 @@
       16 (2) Arthur Fery          def.     Sven Lah             75 46 63
       32 (1) Clement Chidekh      def.     Tad McClean          64 62
       32     Andrew Rogers        def.     Franco Capalbo       46 63 61
-      32 (8) Jj Tracy             def.     Juan Carlos Aguilar  46 75 61
+      32 (8) JJ Tracy             def.     Juan Carlos Aguilar  46 75 61
       32     Aleksa Bucan         def.     Alex Kotzen          75 76(3)
       32 (3) August Holmgren      def.     Jeffrey von der Sch… 61 63
       32     Finn Reynolds        def.     James Trotter        64 64
@@ -634,7 +699,7 @@
      R1  James Bell         def.  Rikuto Yamaguchi    76(7) 76(11)
  > Singles 5
   > Main
-     R5  Ryan Morgan        def.  Coby McCaig         61 62
+     R5  Ryan Morgan        def.  Coby McCaig         61 61
      R5  Santiago Hinojosa  def.  Cory Pham           61 62
      R5  Jack Pulliam       def.  Felipe Rincon       60 46 62
      R4  Santiago Hinojosa  def.  Coby McCaig         64 36 62
@@ -1095,12 +1160,13 @@
   > Main
       F  Tim Buettner        def.  Oscar Sohl          64 76(7)
      SF  Tim Buettner        def.  Fred Orevad         63 62
-     SF  Oscar Sohl          def.  Luis Eduardo Platas 63 75
+     SF  Oscar Sohl          def.  Luis Eduardo Platas 60 75
      QF  Fred Orevad         def.  Rodolfo Hasegawa    75 61
      QF  Tim Buettner        def.  Cedric Holzmann     75 62
      QF  Oscar Sohl          def.  Jesse den Hartog    63 64
      QF  Luis Eduardo Platas def.  Jacopo Denitto      76(5) 64
   > Consolation
+      F  Jesse den Hartog    def.  Cedric Holzmann     26 63 [8]
      SQ  Cedric Holzmann     def.  Rodolfo Hasegawa    64 46 [8]
      SQ  Jesse den Hartog    def.  Jacopo Denitto      64 26 64
  > Flight D
@@ -1113,6 +1179,7 @@
      QF  Quinn McLeod        def.  Hikaru Nagoshi      62 26 [11]
      QF  Bart Nouws          def.  Diego Amilibia      63 64
   > Consolation
+      F  Vlad Popescu        def.  Diego Amilibia      63 67(5) [8]
      SQ  Vlad Popescu        def.  Juan Marrero        63 62
      SQ  Diego Amilibia      def.  Hikaru Nagoshi      62 60
  > Flight A -
@@ -1137,6 +1204,7 @@
      QF  Geronimo Barrios    def.  Jorge Santamaria    62 62
      QF  Arnau Rodriguez     def.  Chris Fok Kow       62 62
   > Consolation
+      F  Jorge Santamaria    def.  Philipp Lemken      63 76(4)
      SQ  Philipp Lemken      def.  Eric Nordblom       75 61
      SQ  Jorge Santamaria    def.  Chris Fok Kow       63 63
 ~~~

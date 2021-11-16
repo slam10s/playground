@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
+- 10/15/2021 - [Ball State Fall Invite](#21-42792) ([Results](#21-42792) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BallStateUniversityM/Tournaments/Overview/D509D00E-445B-4F77-802B-9FBFF2D92EB7" target="_blank">Draws</a>)  
 - 10/11/2021 - [Belmont Fall Invite](#21-28974) ([Results](#21-28974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/7B6195EA-4B1E-4B0F-8B5E-7E14B47D14DB" target="_blank">Draws</a>)  
 - 10/15/2021 - [Bulldog Cup](#21-69055) ([Results](#21-69055) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Draws</a>)  
 - 10/15/2021 - [Commodore Classic](#21-21760) ([Results](#21-21760) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Draws</a>)  
@@ -20,9 +21,6 @@
 - 10/16/2021 - [Purdue University Northwest Fall Invitational](#21-60014) ([Results](#21-60014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityNorthwestM/Tournaments/Overview/A63832A0-768B-401A-B044-F7960762A033" target="_blank">Draws</a>)  
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
 - 10/16/2021 - [Wesleyan Invitational](#21-80073) ([Results](#21-80073) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BallStateUniversityM/Tournaments/Overview/D509D00E-445B-4F77-802B-9FBFF2D92EB7" target="_blank">Ball State Fall Invite</a>  
 
 <a name="21-27941"></a>
 ~~~
@@ -83,6 +81,68 @@
  > Hidden Dual 17
   > Main
      F  Phillip McMurray     def.  Nadal Nicolau Ferrer 64 61
+~~~
+
+<a name="21-42792"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Ball State Fall Invite
+  Dates: Oct 15-17, 2021
+  Host: Ball State University (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > Main
+      F  Nathaniel Webster  def.  Ian Brady          64 63
+     SF  Ian Brady          def.  Danilo Kovacevic   63 26 [8]
+     SF  Nathaniel Webster  def.  Thomas Brennan     46 76(5) [5]
+     QF  Ian Brady          def.  Michael Dickson    Walkover
+     QF  Danilo Kovacevic   def.  Emil Jankowski     63 26 [2]
+     QF  Nathaniel Webster  def.  Stefan Drogovic    64 26 [7]
+     QF  Thomas Brennan     def.  Alex Jochim        63 63
+  > Consolation
+      F  Stefan Drogovic    def.  Emil Jankowski     63 75
+     SQ  Emil Jankowski     def.  Michael Dickson    Walkover
+     SQ  Stefan Drogovic    def.  Alex Jochim        63 46 [7]
+ > Flight B
+  > Main
+      F  Thibaut de Negri   def.  Tin Krstulovic     76(5) 46 [7]
+     SF  Tin Krstulovic     def.  Drew Michael       62 64
+     SF  Thibaut de Negri   def.  Kamil Kozerski     63 75
+     QF  Drew Michael       def.  Eli Herran         75 63
+     QF  Tin Krstulovic     def.  Sean Bailey        67(4) 63 [10]
+     QF  Kamil Kozerski     def.  Alvaro Huete       63 36 [7]
+     QF  Thibaut de Negri   def.  Will Tennison      64 63
+  > Consolation
+      F  Eli Herran         def.  Alvaro Huete       63 46 [8]
+     SQ  Eli Herran         def.  Sean Bailey        64 63
+     SQ  Alvaro Huete       def.  Will Tennison      64 63
+ > Flight C
+  > Main
+      F  Pablo Dale         def.  Nathan Day         63 62
+     SF  Nathan Day         def.  Abe Wojtalik       63 64
+     SF  Pablo Dale         def.  Michael Karr       46 62 [2]
+     QF  Nathan Day         def.  Nathan Balthazor   63 61
+     QF  Abe Wojtalik       def.  Zach Trimpe        61 76(5)
+     QF  Michael Karr       def.  Canaan Sellers     61 62
+     QF  Pablo Dale         def.  Noah Viste         76(6) 76(3)
+  > Consolation
+      F  Noah Viste         def.  Zach Trimpe        26 62 [7]
+     SQ  Zach Trimpe        def.  Nathan Balthazor   62 75
+     SQ  Noah Viste         def.  Canaan Sellers     75 63
+ > Flight D
+  > Main
+      F  Petar Petrovic     def.  Jan Jauch          61 60
+     SF  Jan Jauch          def.  Vince Orlando      06 64 [7]
+     SF  Petar Petrovic     def.  Elijah Zifferblatt 60 62
+     QF  Vince Orlando      def.  Will Thurin        60 63
+     QF  Jan Jauch          def.  Ryan Roegner       75 64
+     QF  Elijah Zifferblatt def.  Nicholas Moody     64 63
+     QF  Petar Petrovic     def.  Blessing Benibo    61 61
+  > Consolation
+      F  Blessing Benibo    def.  Will Thurin        46 62 [7]
+     SQ  Will Thurin        def.  Ryan Roegner       46 60 [1]
+     SQ  Blessing Benibo    def.  Nicholas Moody     63 62
 ~~~
 
 <a name="21-28974"></a>
@@ -281,7 +341,7 @@
      32  Angel Diaz           def.  Nic Meister          62 63
  > MTSU vs. ASU, TEN
   > Main
-     32  Martim Prata         def.  Chris Edge           64 76(3)
+     32  Chris Edge           def.  Martim Prata         63 76(3)
      32  Oskar Brostrom Poul… def.  Nicola Cigna         64 64
      32  Murphy Cassone       def.  Francisco Rocha      62 63
      32  Pavel Motl           def.  Jacob Bullard        63 63
@@ -611,7 +671,7 @@
       32 (26) Daniel Milavsky      def.  (3) Karl Poling          75 75
       32  (8) Max Westphal         def. (29) Adit Sinha           63 64
       32 (31) Niels Van Noord      def. (19) Kaya Gore            64 63
-      32 (15) Michael Sun          def. (32) Aj Woodman           64 46 63
+      32 (15) Michael Sun          def. (32) AJ Woodman           64 46 63
       32  (2) Alex Kotzen          def. (30) Steven Sun           61 63
       64  (1) Alafia Ayeni         def.      Nicholas Lorenz      61 61
       64 (20) Carlos Guerrero Alv… def.      Jan Semerak          76(6) 63
@@ -642,7 +702,7 @@
       64 (19) Kaya Gore            def.      Xandy Hammitt        63 75
       64 (31) Niels Van Noord      def.      Aidan Reilly         63 61
       64 (15) Michael Sun          def.      Jonathan Olive-Blan… 64 46 62
-      64 (32) Aj Woodman           def.      Jayden Templeman     60 36 64
+      64 (32) AJ Woodman           def.      Jayden Templeman     60 36 64
       64 (30) Steven Sun           def.      Diego Serra Sparrow  62 64
       64  (2) Alex Kotzen          def.      Rex Tang             61 61
      128      Nicholas Lorenz      def.      Diego Huttepain      26 63 76(4)
@@ -929,29 +989,73 @@
       32  Fynn Kuenkler        def.  Jim Hendrikx         60 75
       32  Boris Kozlov         def.  Gregor Ramskogler    64 46 62
       32  Filip Planinsek      def.  Tyler Stice          76(5) 26 64
+ > Consolation 2
+  > Main
+      32  Spencer Gray         def.  Joao Ferreira        60 75
+      32  John Hallquist Lith… def.  Finn Murgett         63 46 [4]
+      32  Sebastien Collard    def.  Davide Tortora       26 75 63
+      32  Florian Broska       def.  Jakob Cadonau        62 64
+      32  Lukas Engelhardt     def.  Jim Hendrikx         62 64
+      32  Tyler Stice          def.  Gregor Ramskogler    60 64
+      32  Alex Bancila         def.  Kacper Dworak        36 63 [5]
+      32  Benji Jacobson       def.  Alejandro Sanchez G… 64 75
+      32  Luc Hoeijmans        def.  Maxime St-Hilaire    64 76(2)
+      32  Walker Stearns       def.  Seth Richey          64 62
+      32  Vasil Dimitrov       def.  Javier Montoya       75 62
+      32  Charlie Barry        def.  Karlo Kajin          62 64
+      32  Oriol Fillat Gimenez def.  Josh Raab            61 64
+      32  Juan Martin          def.  Dhruv Sunish         62 63
  > Consolation
   > Main
-      64  Spencer Gray         def.  Joao Ferreira        60 75
-      64  John Hallquist Lith… def.  Finn Murgett         63 46 60
-      64  Sebastien Collard    def.  Davide Tortora       26 75 63
-      64  Florian Broska       def.  Jakob Cadonau        62 64
-      64  Lukas Engelhardt     def.  Jim Hendrikx         62 64
-      64  Tyler Stice          def.  Gregor Ramskogler    60 64
-      64  Alex Bancila         def.  Kacper Dworak        36 63 60
-      64  Benji Jacobson       def.  Alejandro Sanchez G… 64 75
-      64  Luc Hoeijmans        def.  Maxime St-Hilaire    64 76(2)
-      64  Walker Stearns       def.  Seth Richey          64 62
-      64  Vasil Dimitrov       def.  Javier Montoya       75 62
-      64  Charlie Barry        def.  Karlo Kajin          62 64
-      64  Josh Raab            def.  Oriol Fillat Gimenez 61 64
-      64  Juan Martin          def.  Dhruv Sunish         62 63
-      64  Matthew Gooch        def.  Martin Vasquez       75 62
-      64  Pawin Jirapoomdaje   def.  Jb Pickard           63 62
-      64  Pasawee Reansuwong   def.  Nikola Puric         63 62
+     128  Luka Petrovic        def.  Spencer Gray         64 60
+     128  JB Pickard           def.  Kristofer Johnson    61 61
+     128  David Pata           def.  Pasawee Reansuwong   61 75
+     128  Vojtech Podzemny     def.  Javier Montoya       64 64
+     128  Alan Sanson          def.  Lucas Dini           36 63 61
+     128  Antoine Audrain      def.  Alejandro Sanchez G… 62 75
+     128  Josh Raab            def.  Maxime Hillhouse     61 63
+     128  Walker Stearns       def.  Athanasios Spyropou… 64 62
+     128  Will Gray            def.  Matis Amier          64 75
+     128  Vanja Dobrnjac       def.  Alexander Gima       61 60
+     128  Mohamed Ali Bellalo… def.  Francisco Erramuspe  61 60
+     128  Maj Tomac            def.  Seth Richey          62 60
+     128  Thomas Norwood       def.  Chase Parker         60 61
+     128  Manuel Bernard       def.  Alexander Vishnevsk… 62 63
+     128  Juan Rodriguez       def.  Martin Vasquez       64 76(2)
+     128  Jordi Blanchar       def.  Christopher Cahour   61 61
+     128  Ben Koch             def.  Nikola Puric         61 63
+     128  Chris Andre          def.  Matthew Gooch        62 63
+ > Consolation 3
+  > Main
+      32  Alex Bancila         def.  Mohamed Ali Bellalo… 60 20 Ret.
+      32  Matthew Gooch        def.  Martin Vasquez       75 62
+      32  Karlo Kajin          def.  Will Gray            60 61
+      32  Pawin Jirapoomdaje   def.  JB Pickard           63 62
+      32  Luka Petrovic        def.  Vasil Dimitrov       67(8) 75 [8]
+      32  Louis Delcour        def.  Charlie Barry        36 75 [7]
+      32  Kacper Dworak        def.  Luc Hoeijmans        64 64
+      32  Chase Parker         def.  Seth Richey          46 75 [6]
+      32  Pasawee Reansuwong   def.  Nikola Puric         63 62
+      32  Spencer Gray         def.  Vojtech Podzemny     62 60
+      32  Josh Raab            def.  Benji Jacobson       06 64 [4]
+      32  Walker Stearns       def.  Alexander Gima       62 21 Ret.
+      32  Maxime St-Hilaire    def.  Jackson Ross         50 Ret.
+      32  Oriol Fillat Gimenez def.  Antoine Audrain      61 63
+      32  Calin Postea         def.  Javier Montoya       76(2) 36 [4]
+ > Extra Match
+  > Main
+      QF  Luka Petrovic        def.  Harrison Williams    12 Ret.
+      QF  Oriol Fillat Gimenez def.  Spencer Gray         63 43 Ret.
+      QF  Ruan Du Preez        def.  Josh Raab            75 63
+ > Extra Match 2
+  > Main
+      SF  Luka Petrovic        def.  Joao Ferreira        64 62
+      SF  Spencer Gray         def.  Calin Postea         64 Ret.
  > Qualifying
   > Main
       16  Lukas Engelhardt     def.  Nicolas Simkin       62 61
       16  Fynn Kuenkler        def.  Jackson Ross         67(5) 76 62
+      16  Olimjon Nabiev       def.  Luc Hoeijmans        63 64
       16  Roman Postolka       def.  Joao Ferreira        26 64 63
       16  Sebastien Collard    def.  Jakob Cadonau        60 63
       16  Gabriel Diaz Freire  def.  Pelayo Antuna        75 62
@@ -991,7 +1095,7 @@
       64  Calin Postea         def.  Pasawee Reansuwong   63 64
       64  Javier Llinares      def.  Thomas Norwood       46 62 62
       64  Jakob Cadonau        def.  Ben Koch             76 61
-      64  Alex Bancila         def.  Jb Pickard           61 62
+      64  Alex Bancila         def.  JB Pickard           61 62
       64  Sebastien Collard    def.  Kristofer Johnson    63 61
       64  Vasil Dimitrov       def.  Samrakshyak Bajrach… 67(8) 64 63
       64  Pelayo Antuna        def.  Mohamed Ali Bellalo… 61 63
@@ -1214,14 +1318,14 @@
      16  Patrick Fletchall    def.  Athell Bennett       36 63 [4]
      16  Carson Haskins       def.  Rohan Sachdev        61 60
      16  Josh Howard-Tripp    def.  Juan Sebastian Zaba… 75 61
-     16  Michael Andre        def.  Jj Mercer            Walkover
+     16  Michael Andre        def.  JJ Mercer            Walkover
      16  Yusuf Khamis         def.  Piotr Galus          61 64
   > West
      SF  Juan Sebastian Zaba… def.  Piotr Galus          57 75 [5]
      QF  Gabriele Brancatelli def.  Marko Galic          63 63
      QF  Athell Bennett       def.  Matthew Fung         62 60
      QF  Juan Sebastian Zaba… def.  Rohan Sachdev        16 75 [2]
-     QF  Piotr Galus          def.  Jj Mercer            Walkover
+     QF  Piotr Galus          def.  JJ Mercer            Walkover
   > North
      SF  Luka Vukovic         def.  Yusuf Khamis         61 64
   > South
@@ -1543,6 +1647,61 @@
       F (1) Gaston Cantero     def. (3) Diego Dalisay       50 Ret.
   > South
       F     Emilio Vila        def.     Tomas Nader         62 61
+~~~
+
+<a name="21-60014"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  Purdue University Northwest Fall Invitational
+  Dates: Oct 16-17, 2021
+  Host: Purdue University Northwest (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > Main
+      F  Mathis Guerre        def.  Yannic-Alexander Ma… 61 63
+     SF  Yannic-Alexander Ma… def.  Dom Spicer           64 76(1)
+     SF  Mathis Guerre        def.  Jakov Suler          57 62 [7]
+     QF  Dom Spicer           def.  Javier Sanchez Prad… 64 75
+     QF  Yannic-Alexander Ma… def.  Leon Kah             63 62
+     QF  Mathis Guerre        def.  Miguel Flores Cepeda 62 63
+     QF  Jakov Suler          def.  Cedric Drenth        62 36 [7]
+  > Consolation
+     SQ  Javier Sanchez Prad… def.  Leon Kah             Walkover
+     SQ  Miguel Flores Cepeda def.  Cedric Drenth        62 26 [2]
+ > Flight B
+  > Main
+      F  Jan Koupil           def.  Pedro Alvarez        61 61
+     SF  Jan Koupil           def.  Daniel Grey          63 63
+     SF  Pedro Alvarez        def.  Benjamin Lortie      36 64 [8]
+     QF  Daniel Grey          def.  Jesus Perez Plaza    67(5) 64 [5]
+     QF  Jan Koupil           def.  Luis Alvear          60 60
+     QF  Benjamin Lortie      def.  Levent Evyapan       26 62 [1]
+     QF  Pedro Alvarez        def.  Niklas Karcz         06 62 [6]
+  > Consolation
+     SQ  Luis Alvear          def.  Jesus Perez Plaza    Walkover
+ > Flight C
+  > Main
+      F  Luke Laws            def.  Joshua McDermott     64 76(6)
+     SF  Luke Laws            def.  Bjorgvin Juliusson   60 61
+     SF  Joshua McDermott     def.  Jakub Zamorski       64 63
+     QF  Luke Laws            def.  Ayush Deswal         75 61
+     QF  Bjorgvin Juliusson   def.  Maximiliano Sandova… 62 64
+     QF  Joshua McDermott     def.  Jonas Franssen       75 64
+     QF  Jakub Zamorski       def.  Joe Steele           60 63
+  > Consolation
+     SQ  Ayush Deswal         def.  Maximiliano Sandova… 64 61
+     SQ  Joe Steele           def.  Jonas Franssen       75 61
+ > Flight D
+  > Main
+      F  Alessandro Santange… def.  Alec Olivier         76(2) 64
+     SF  Alessandro Santange… def.  Ryan Okonski         63 60
+     SF  Alec Olivier         def.  David Pluszczyk      63 64
+     QF  Ryan Okonski         def.  Paul Hawes           26 64 [5]
+     QF  Alec Olivier         def.  Thomas Schultz       62 61
+     QF  David Pluszczyk      def.  Andrew Swirczek      57 64 [5]
+  > Consolation
+     SQ  Andrew Swirczek      def.  Thomas Schultz       62 61
 ~~~
 
 <a name="21-98443"></a>
