@@ -3,6 +3,7 @@
 **Tournamets with Matches**  
 - 9/17/2021 - [Alabama Four-In-The-Fall](#21-01301) ([Results](#21-01301) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4" target="_blank">Draws</a>)  
 - 9/17/2021 - [Auburn Fall Invite](#21-72298) ([Results](#21-72298) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/5CE93068-0A51-4941-853B-FC0571C04451" target="_blank">Draws</a>)  
+- 9/16/2021 - [Battle in the Bay Classic](#21-04289) ([Results](#21-04289) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSanFranciscoW/Tournaments/Overview/1A506BE3-9443-469C-B392-592E0684A825" target="_blank">Draws</a>)  
 - 9/16/2021 - [Bedford Cup in the Mountains](#21-69307) ([Results](#21-69307) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dale Short Shootout](#21-04953) ([Results](#21-04953) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityM/Tournaments/Overview/8D17D1A4-3D6A-4D99-9858-4808AD3D6EAE" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dartmouth Invitational](#21-10750) ([Results](#21-10750) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeM/Tournaments/Overview/FB53D115-F7C3-43C7-9CAF-0B60D9E55E67" target="_blank">Draws</a>)  
@@ -164,6 +165,86 @@
      16  Will Nolan           def.  Andrew Puscas       67(6) 63 61
      16  Jackson Ross         def.  Trey Stinchcomb     63 76(5)
      16  Spencer Gray         def.  Daniel Labrador     60 60
+~~~
+
+<a name="21-04289"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Battle in the Bay Classic
+  Dates: Sep 16-19, 2021
+  Host: Univ. Of San Francisco (W)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Main Draw
+  > Main
+       F  Stefan Dostanic     def.  Bradley Frye         64 76(2)
+      SF  Bradley Frye        def.  Philip Hjorth        46 75 76(7)
+      SF  Stefan Dostanic     def.  Lui Maxted           63 62
+      QF  Philip Hjorth       def.  Timothy Sah          63 62
+      QF  Bradley Frye        def.  Luc Fomba            63 36 63
+      QF  Lui Maxted          def.  Jacob Fearnley       23 Ret.
+      QF  Stefan Dostanic     def.  Tim Zeitvogel        64 64
+      16  Philip Hjorth       def.  Baptiste Anselmo     76(3) 46 [9]
+      16  Timothy Sah         def.  Richard Ciamarra     76(4) 63
+      16  Luc Fomba           def.  Andrew Rogers        63 76(2)
+      16  Bradley Frye        def.  Gavin Young          64 62
+      16  Jacob Fearnley      def.  Mason Beiler         26 60 [7]
+      16  Lui Maxted          def.  Micah Braswell       62 64
+      16  Tim Zeitvogel       def.  Yuta Kikuchi         64 76(4)
+      16  Stefan Dostanic     def.  Andre Ilagan         64 76(3)
+      32  Philip Hjorth       def.  Jonas Eriksson Zive… 76(8) 26 [6]
+      32  Baptiste Anselmo    def.  Phillip Jordan       76(2) 61
+      32  Timothy Sah         def.  Mitchell Johnson     75 61
+      32  Richard Ciamarra    def.  Sam Rubell           63 61
+      32  Luc Fomba           def.  Noah Berry           62 64
+      32  Andrew Rogers       def.  Phuc Huynh           75 62
+      32  Bradley Frye        def.  Tim Ruehl            36 61 [5]
+      32  Gavin Young         def.  Nil Giraldez         62 75
+      32  Jacob Fearnley      def.  Nevin Arimilli       62 63
+      32  Mason Beiler        def.  Carl Emil Overbeck   63 57 [5]
+      32  Lui Maxted          def.  Colton Smith         64 64
+      32  Micah Braswell      def.  Stefano Tsorotiotis  61 63
+      32  Yuta Kikuchi        def.  Evin McDonald        63 63
+      32  Tim Zeitvogel       def.  Fabien Salle         62 46 [8]
+      32  Andre Ilagan        def.  Nick Beaty           36 62 [3]
+      32  Stefan Dostanic     def.  Marvin Schaber       63 63
+  > Consolation
+       F  Colton Smith        def.  Phillip Jordan       63 26 [10]
+      SF  Phillip Jordan      def.  Phuc Huynh           76(5) 62
+      SF  Colton Smith        def.  Fabien Salle         63 76(5)
+      QF  Phillip Jordan      def.  Sam Rubell           26 76(2) [2]
+      QF  Phuc Huynh          def.  Nil Giraldez         Walkover
+      QF  Colton Smith        def.  Nevin Arimilli       62 62
+      QF  Fabien Salle        def.  Nick Beaty           75 57 [4]
+     16Q  Phillip Jordan      def.  Jonas Eriksson Zive… 62 64
+     16Q  Sam Rubell          def.  Mitchell Johnson     63 62
+     16Q  Phuc Huynh          def.  Noah Berry           64 75
+     16Q  Nil Giraldez        def.  Tim Ruehl            Walkover
+     16Q  Nevin Arimilli      def.  Carl Emil Overbeck   62 75
+     16Q  Colton Smith        def.  Stefano Tsorotiotis  63 64
+     16Q  Fabien Salle        def.  Evin McDonald        64 63
+     16Q  Nick Beaty          def.  Marvin Schaber       63 46 [5]
+ > Extra Matches
+  > Main
+      16  Stevie Gould        def.  Jonas Eriksson Zive… Walkover
+      16  Marvin Schaber      def.  Paul Barretto        64 63
+      16  Axel Labrunie       def.  Johan Garpered       61 10 Ret.
+      16  Mitchell Johnson    def.  Lucas Magnaudet      64 62
+      16  Andre Ilagan        def.  Baptiste Anselmo     62 63
+      16  Mason Beiler        def.  Yuta Kikuchi         64 62
+ > Extra Matches 2
+  > Main
+      R3  Axel Labrunie       def.  David Woodland       61 63
+      R2  Paul Barretto       def.  David Woodland       61 62
+ > Qualifying
+  > Main
+      16  Philip Hjorth       def.  Will Davies          63 63
+      16  Noah Berry          def.  Lucas Magnaudet      60 62
+      16  Sam Rubell          def.  Stevie Gould         61 26 [3]
+      16  Stefano Tsorotiotis def.  Axel Labrunie        75 64
+      16  Evin McDonald       def.  Fernando Fonseca     57 34 Ret.
+      16  Nevin Arimilli      def.  Nicola Cigna         75 61
+      16  Nil Giraldez        def.  Paul Barretto        16 64 [9]
 ~~~
 
 <a name="21-69307"></a>

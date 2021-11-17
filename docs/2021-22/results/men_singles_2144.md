@@ -14,6 +14,7 @@
 - 11/5/2021 - [Ralston/Neufeld Coaches Challenge](#21-70244) ([Results](#21-70244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivM/Tournaments/Overview/4DFFAD56-EAA9-4394-8451-1B5126D73B7A" target="_blank">Draws</a>)  
 - 11/5/2021 - [San Diego Veterans Tennis Classic](#21-91602) ([Results](#21-91602) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">Draws</a>)  
 - 11/5/2021 - [Southern Conference Men's & Women's Fall Tennis Championships](#21-32980) ([Results](#21-32980) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3BD3D9A3-1CE7-4BB9-93E6-7D1ECED07DFE" target="_blank">Draws</a>)  
+- 11/5/2021 - [UCF Invite Hidden Dual](#21-27721) ([Results](#21-27721) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaM/Tournaments/Overview/312E7653-F666-486E-8B90-123F7F8F8F9D" target="_blank">Draws</a>)  
 - 11/5/2021 - [Wake Forest Invite](#21-91916) ([Results](#21-91916) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityM/Tournaments/Overview/CDBF110F-C481-4F40-9B58-54D68D17F9A2" target="_blank">Draws</a>)  
 - 11/5/2021 - [Yale Invitational](#21-31162) ([Results](#21-31162) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityM/Tournaments/Overview/5278617F-5593-42A8-B7B3-52F442BE8917" target="_blank">Draws</a>)  
 - 11/6/2021 - [Buccaneers Invitational](#21-92061) ([Results](#21-92061) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BarryUniversityM/Tournaments/Overview/66BDBB63-461D-4097-ACA4-DB44D0B1C672" target="_blank">Draws</a>)  
@@ -864,6 +865,60 @@
       F     Hayden Shoemake    def.     Will Fullett         Walkover
      SF     Hayden Shoemake    def.     Callum Rendle        Walkover
      SF     Will Fullett       def.     Bryce Keim           Walkover
+~~~
+
+<a name="21-27721"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  UCF Invite Hidden Dual
+  Dates: Nov 5-7, 2021
+  Host: University Of Central Florida (M)
+═══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Saturday Morning
+  > Main
+     32  Quinn Synder         def.  Gabriel Diaz         67(4) 61 63
+     32  JC Roddick           def.  Joshua Dous Karpens… 63 63
+     32  Leyton Cronje        def.  John Bernard         26 63 64
+     32  Cooper White         def.  Maks Silagy          63 61
+     32  Antonio Muniz-Hidal… def.  Carles Sarrio        63 64
+     32  Enzo Aguiard         def.  Ivan Yatsuk          60 46 76(3)
+     32  Alvaro Fernandez Ho… def.  Bruno Oliveira       76(4) 64
+     32  Sergio Gomez-Montesa def.  Joao Ferreira        64 64
+     32  Munuel Goncalves     def.  Kevin Huempfner      16 61 64
+     32  Alvin Tudorica       def.  Rudi Christiansen    61 76(5)
+     32  Tom Pisane           def.  Nicolas Jadoun       63 75
+     32  Sandeep Mohandoss    def.  Filip Krolo          16 64 64
+     32  Chase Ferguson       def.  German Samofalov     76(3) 57 25 Ret.
+ > Saturday Afternoon
+  > Main
+     32  JC Roddick           def.  Antonio Muniz-Hidal… 67(6) 64 63
+     32  Leyton Cronje        def.  Ivan Yatsuk          61 64
+     32  Carles Sarrio        def.  Bruno Oliveira       61 62
+     32  Alvin Tudorica       def.  Cooper White         63 36 62
+     32  Filip Krolo          def.  Quinn Synder         60 62
+     32  Kevin Huempfner      def.  Munuel Goncalves     64 60
+     32  Joshua Dous Karpens… def.  Enzo Aguiard         63 64
+     32  Joao Ferreira        def.  John Bernard         62 63
+     32  Alex Bulte           def.  Rudi Christiansen    64 67(7) 62
+     32  Sandeep Mohandoss    def.  Nicolas Jadoun       63 76(8)
+     32  Tom Pisane           def.  Alvaro Fernandez Ho… 62 60
+     32  Maks Silagy          def.  Patrick Kaukovalta   50 Ret.
+ > Sunday Morning
+  > Main
+     32  JC Roddick           def.  Enzo Aguiard         61 75
+     32  Leyton Cronje        def.  Sergio Gomez-Montesa 63 Ret.
+     32  Cooper White         def.  Bruno Oliveira       46 62 63
+     32  Quinn Synder         def.  Sandeep Mohandoss    62 36 76(3)
+     32  Joao Ferreira        def.  Ivan Yatsuk          76(1) 26 62
+     32  Rudi Christiansen    def.  Tom Pisane           63 46 60
+     32  Chase Ferguson       def.  Carles Sarrio        63 62
+     32  Antonio Muniz-Hidal… def.  Alvaro Fernandez Ho… 64 57 64
+     32  Joshua Dous Karpens… def.  Kevin Huempfner      63 67(5) 63
+     32  John Bernard         def.  Nicolas Jadoun       75 64
+     32  Maks Silagy          def.  Filip Krolo          63 62
+     32  Alex Bulte           def.  Munuel Goncalves     62 64
+     32  Alvin Tudorica       def.  Gabriel Diaz         61 63
 ~~~
 
 <a name="21-91916"></a>

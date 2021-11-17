@@ -14,6 +14,7 @@
 - 11/5/2021 - [Ralston/Neufeld Coaches Challenge](#21-70244) ([Results](#21-70244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivM/Tournaments/Overview/4DFFAD56-EAA9-4394-8451-1B5126D73B7A" target="_blank">Draws</a>)  
 - 11/5/2021 - [San Diego Veterans Tennis Classic](#21-91602) ([Results](#21-91602) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">Draws</a>)  
 - 11/5/2021 - [Southern Conference Men's & Women's Fall Tennis Championships](#21-32980) ([Results](#21-32980) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3BD3D9A3-1CE7-4BB9-93E6-7D1ECED07DFE" target="_blank">Draws</a>)  
+- 11/5/2021 - [UCF Invite Hidden Dual](#21-27721) ([Results](#21-27721) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaM/Tournaments/Overview/312E7653-F666-486E-8B90-123F7F8F8F9D" target="_blank">Draws</a>)  
 - 11/5/2021 - [Wake Forest Invite](#21-91916) ([Results](#21-91916) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityM/Tournaments/Overview/CDBF110F-C481-4F40-9B58-54D68D17F9A2" target="_blank">Draws</a>)  
 - 11/5/2021 - [Yale Invitational](#21-31162) ([Results](#21-31162) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityM/Tournaments/Overview/5278617F-5593-42A8-B7B3-52F442BE8917" target="_blank">Draws</a>)  
 - 11/6/2021 - [Buccaneers Invitational](#21-92061) ([Results](#21-92061) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BarryUniversityM/Tournaments/Overview/66BDBB63-461D-4097-ACA4-DB44D0B1C672" target="_blank">Draws</a>)  
@@ -541,6 +542,40 @@
      SF     Graham/Young      def. (3) Ray/Horn          62
   > 3-4 Playoff
       F     Bencrdic/Shoemake def. (1) Endler/Fullett    Walkover
+~~~
+
+<a name="21-27721"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  UCF Invite Hidden Dual
+  Dates: Nov 5-7, 2021
+  Host: University Of Central Florida (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Saturday Morning
+  > Main
+     16  Cronje/Triana        def.  Dous Karpenschief/S… 62
+     16  Sarrio/Fernandez Ho… def.  Yamada/Synder        76(2)
+     16  Yatsuk/Oliveira      def.  Kaukovalta/Samofalov 63
+     16  Ferguson/Muniz-Hida… def.  Krolo/Huempfner      76(4)
+     16  Aguiard/Ferreira     def.  Tudorica/Gomez-Mont… 64
+     16  Pisane/Goncalves     def.  Christiansen/Foster  64
+ > Sunday Part 1
+  > Main
+     16  Cronje/Triana        def.  Yatsuk/Oliveira      76(9)
+     16  Roddick/White        def.  Ferguson/Muniz-Hida… 63
+     16  Tudorica/Gomez-Mont… def.  Sarrio/Fernandez Ho… 62
+     16  Krolo/Huempfner      def.  Pisane/Goncalves     64
+     16  Dous Karpenschief/S… def.  Aguiard/Ferreira     61
+     16  Christiansen/Foster  def.  Bulte/Bernard        62
+ > Sunday Part 2
+  > Main
+     16  Cronje/Triana        def.  Aguiard/Ferreira     64
+     16  Roddick/White        def.  Christiansen/Foster  76(2)
+     16  Krolo/Huempfner      def.  Yamada/Synder        62
+     16  Yatsuk/Oliveira      def.  Dous Karpenschief/S… 62
+     16  Tudorica/Gomez-Mont… def.  Bulte/Bernard        75
+     16  Ferguson/Muniz-Hida… def.  Sarrio/Fernandez Ho… 75
 ~~~
 
 <a name="21-91916"></a>

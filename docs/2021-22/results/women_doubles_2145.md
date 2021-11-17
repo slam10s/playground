@@ -1,14 +1,14 @@
-<a name="top"></a>[<< Prev](women_doubles_2144.md) &nbsp; **Week #45 - Nov 8-14, 2021** &nbsp; [Next >>](women_doubles_2146.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2145.md) &#124; [***Women***](./women_doubles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2145.md) &#124; [***Doubles***](./women_doubles_2145.md)
+<a name="top"></a>[<< Prev](women_doubles_2144.md) &nbsp; **Week #45 - Nov 8-14, 2021** &nbsp; [Next >>](women_doubles_2202.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2145.md) &#124; [***Women***](./women_doubles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2145.md) &#124; [***Doubles***](./women_doubles_2145.md)
 
 **Tournamets with Matches**  
 - 11/4/2021 - [Harvard Fall Invitational](#21-06527) ([Results](#21-06527) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Draws</a>)  
 - 11/12/2021 - [Csun Invitational 2021](#21-21713) ([Results](#21-21713) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CaliforniaStateUniversityNorthridgeW/Tournaments/Overview/170B0D52-C31D-4AA5-A14A-C44E18B58FF4" target="_blank">Draws</a>)  
 - 11/12/2021 - [Texas A&M Invitational](#21-89648) ([Results](#21-89648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/BF7768E0-4750-49B0-9B29-7EB1AC4016D9" target="_blank">Draws</a>)  
 - 11/12/2021 - [UNF Fall Invite](#21-72331) ([Results](#21-72331) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthFloridaW/Tournaments/Overview/0890226F-0B4C-40E3-888D-5CE5DA25876A" target="_blank">Draws</a>)  
+- 11/12/2021 - [Watanabe Classic](#21-21145) ([Results](#21-21145) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/185CF1AE-D437-4098-91A9-6F597D244978" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1A40265D-8EC6-44FD-9EB9-1733C02C74CC" target="_blank">SDSU Fall Tennis Classic # 2</a>  
-- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/185CF1AE-D437-4098-91A9-6F597D244978" target="_blank">Watanabe Classic</a>  
 - 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityW/Tournaments/Overview/5D6A7D6E-4DFF-41D5-BA55-AEBEDA326663" target="_blank">Western Michigan - Betsy Kuhle Invitational</a>  
 
 <a name="21-06527"></a>
@@ -227,6 +227,62 @@
      R2  Davis/Chen           def.  Mullen/Zhu           64
      R1  Lavery/Theis         def.  Amendola/Arkadianou  75
      R1  Long/Lodzki          def.  Mullen/Zhu           64
+ > Flight 1 Cons Final
+  > Main
+      F  Allen/Arkadianou     def.  Sawhney/Schech       64
+ > Flight 1 South
+  > Main
+      F  Thompson/Louka       def.  Borland/Clark        64
+ > Flight 2 Cons Final
+  > Main
+      F  Russell/Yelamanchili def.  Shumacher/Timmermans 62
+ > Flight 2 South
+  > Main
+      F  Davis/Long           def.  Eland/Mjos           76(3)
+ > Flight 3 Switched Pairs
+  > Main
+     SF  Walther/Zhu          def.  Berry/Mokhtari       63
+     SF  Jacobs/Amendola      def.  Long/Lodzki          60
+~~~
+
+<a name="21-21145"></a>
+~~~
+════════════════════════════════════════════════════════════
+  Watanabe Classic
+  Dates: Nov 12-14, 2021
+  Host: Univ. Of Nevada, Las Vegas (W)
+════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+     QF  Puehse/Strombacha  def.  Goncharova/Horwood 64
+     QF  Stepp/Marinkov     def.  Fang/Kovacs        62
+     16  Puehse/Strombacha  def.  Masuda/Homolkova   61
+     16  Goncharova/Horwood def.  Asano/Zhao         62
+     16  Fang/Kovacs        def.  Prudhomme/Schmidt  62
+     16  Stepp/Marinkov     def.  Azran/Hu           63
+     32  Puehse/Strombacha  def.  Main/Tiglea        64
+     32  Masuda/Homolkova   def.  Gillas/Mehra       61
+     32  Asano/Zhao         def.  Mellor/Hildreth    63
+     32  Goncharova/Horwood def.  Lennon/Szczepanska 63
+     32  Fang/Kovacs        def.  Ciornei/Le Du      62
+     32  Prudhomme/Schmidt  def.  Damron/Dorny       60
+     32  Azran/Hu           def.  Bacalla/Pokorna    76(3)
+     32  Stepp/Marinkov     def.  Alajbegovic/Aher   61
+ > Saturday added doubles
+  > Main
+     16  Lennon/Szczepanska def.  Main/Tiglea        64
+     16  Bacalla/Pokorna    def.  Ciornei/Le Du      62
+     32  Main/Tiglea        def.  Gillas/Mehra       64
+     32  Lennon/Szczepanska def.  Mellor/Hildreth    61
+     32  Ciornei/Le Du      def.  Damron/Dorny       64
+     32  Bacalla/Pokorna    def.  Rakim/Del Marco    61
+ > Sunday added doubles
+  > Main
+     32  Asano/Zhao         def.  Masuda/Homolkova   60
+     32  Gillas/Mehra       def.  Mellor/Hildreth    61
+     32  Rakim/Del Marco    def.  Damron/Dorny       75
+     32  Aher/Hu            def.  Prudhomme/Schmidt  64
 ~~~
 
 Return to the [Top](./women_doubles_2145.md) &#124; [Home Page](../../index.md)

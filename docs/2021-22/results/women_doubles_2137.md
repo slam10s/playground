@@ -2,6 +2,7 @@
 
 **Tournamets with Matches**  
 - 9/17/2021 - [2021 Columbia University Invitational](#21-78345) ([Results](#21-78345) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D" target="_blank">Draws</a>)  
+- 9/16/2021 - [Battle in the Bay Classic](#21-04289) ([Results](#21-04289) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSanFranciscoW/Tournaments/Overview/1A506BE3-9443-469C-B392-592E0684A825" target="_blank">Draws</a>)  
 - 9/17/2021 - [Brown Invitational](#21-14330) ([Results](#21-14330) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/8EA19D28-8C5F-436E-80F9-E515FC4507EA" target="_blank">Draws</a>)  
 - 9/17/2021 - [Debbie Southern Furman Fall Classic](#21-22147) ([Results](#21-22147) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FurmanUniversityW/Tournaments/Overview/3803B600-6726-48B5-820F-B45C3CF8E5DF" target="_blank">Draws</a>)  
 - 9/17/2021 - [Elon Invitational](#21-46904) ([Results](#21-46904) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A" target="_blank">Draws</a>)  
@@ -97,6 +98,44 @@
   > Consolation
      SQ  Cataldi/Mukhortova   def.  Dunleavy/Bretkelly   64
      SQ  Maquet/Schech        def.  Huang/Mi             62
+~~~
+
+<a name="21-04289"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Battle in the Bay Classic
+  Dates: Sep 16-19, 2021
+  Host: Univ. Of San Francisco (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Main Draw
+  > Main
+     QF  Grant/Kowalski       def.  Martinez Vaquero/Mu… 80
+     QF  Coppoc/Nirundorn     def.  Sorkin/Exposito Dia… 86
+     QF  Zaar/Redelijk        def.  Capogrosso/Colyer    82
+     QF  Broadus/Iamachkine   def.  Andryukhova/Kalaitz… 82
+     16  Martinez Vaquero/Mu… def.  Kosan/Ruja           87(4)
+     16  Coppoc/Nirundorn     def.  Desiatnikov/McBride  83
+     16  Sorkin/Exposito Dia… def.  Gamracy/Qiu          82
+     16  Capogrosso/Colyer    def.  Lee/Han              84
+     16  Zaar/Redelijk        def.  Forster/Pozo         85
+     16  Andryukhova/Kalaitz… def.  Manu/Ngounoue        84
+     16  Broadus/Iamachkine   def.  Larrain/Stoica       81
+  > Consolation
+      F  Manu/Ngounoue        def.  Desiatnikov/McBride  Walkover
+     SF  Desiatnikov/McBride  def.  Kosan/Ruja           Walkover
+     SF  Manu/Ngounoue        def.  Lee/Han              83
+     QQ  Desiatnikov/McBride  def.  Gamracy/Qiu          80
+     QQ  Lee/Han              def.  Forster/Pozo         83
+     QQ  Manu/Ngounoue        def.  Larrain/Stoica       83
+ > Main Draw Semifinals
+  > Main
+      F  Broadus/Iamachkine   def.  Zaar/Redelijk        85
+     SF  Zaar/Redelijk        def.  Grant/Kowalski       87(5)
+     SF  Broadus/Iamachkine   def.  Coppoc/Nirundorn     82
+ > Extra Doubles
+  > Main
+      F  Capogrosso/Colyer    def.  Forster/Pozo         87(5)
 ~~~
 
 <a name="21-14330"></a>

@@ -1,12 +1,10 @@
-<a name="top"></a>[<< Prev](men_singles_2144.md) &nbsp; **Week #45 - Nov 8-14, 2021** &nbsp; [Next >>](men_singles_2146.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2145.md) &#124; [Women](./women_singles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2145.md) &#124; [Doubles](./men_doubles_2145.md)
+<a name="top"></a>[<< Prev](men_singles_2144.md) &nbsp; **Week #45 - Nov 8-14, 2021** &nbsp; [Next >>](men_singles_2202.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_singles_2145.md) &#124; [Women](./women_singles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./men_singles_2145.md) &#124; [Doubles](./men_doubles_2145.md)
 
 **Tournamets with Matches**  
 - 11/5/2021 - [Big 12 Individuals](#21-20291) ([Results](#21-20291) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityM/Tournaments/Overview/E0ED1E84-1CD4-4CE2-BFCD-F695030458D5" target="_blank">Draws</a>)  
 - 11/12/2021 - [Duck Invite](#21-42872) ([Results](#21-42872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/530778D7-293A-4C49-A1E2-1FF11D725D81" target="_blank">Draws</a>)  
+- 11/12/2021 - [LMU Invite](#21-95529) ([Results](#21-95529) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaMarymountUniversityM/Tournaments/Overview/5B7216DB-15C4-4F1D-8629-8EAF987FE5AE" target="_blank">Draws</a>)  
 - 11/12/2021 - [Navy Invitational](#21-77642) ([Results](#21-77642) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/398E1516-D93D-455D-B5B2-0D3057E5FCF8" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaMarymountUniversityM/Tournaments/Overview/5B7216DB-15C4-4F1D-8629-8EAF987FE5AE" target="_blank">LMU Invite</a>  
 
 <a name="21-20291"></a>
 ~~~
@@ -134,6 +132,58 @@
      16  Nicolas Prieto      def.  Ambroise Marchand   62 64
      16  Oscar Brown         def.  Ryoma Matsushita    64 62
      16  Loris Zisswiller    def.  Eleftherios Neos    57 63 [8]
+~~~
+
+<a name="21-95529"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  LMU Invite
+  Dates: Nov 12-14, 2021
+  Host: Loyola Marymount University (M)
+═════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Singles Day 1
+  > Main
+     32  Francisco Bastias    def.  Rana-Roop Bhullar    62 76(4)
+     32  Bruno Caula          def.  Manoel De Alencar    63 60
+     32  Geronimo Busleiman   def.  Emin Torlic          63 62
+     32  Jose Dominguez Alon… def.  Bruno Krenn          64 46 52 Ret.
+     32  Jayson Blando        def.  Austin Di Giulio     62 63
+     32  Rian Ta              def.  Lincoln Bellamy      64 61
+     32  Riccardo Roberto     def.  David Cierny         75 62
+     32  Mike Mkrtchian       def.  Bodin Zarkovic       76(4) 63
+     32  Felipe Acosta        def.  Rithvik Krishna      62 61
+     32  Ali Amiri            def.  Roko Savin           76(3) 63
+     32  Sergi Mico Fenollar  def.  Noah Zamora          63 75
+     32  Matthew Sah          def.  Javier Ruiz Medina   64 64
+ > Singles Day 2
+  > Main
+     32  Rana-Roop Bhullar    def.  David Cierny         62 62
+     32  Manoel De Alencar    def.  Bodin Zarkovic       63 63
+     32  Felipe Acosta        def.  Jose Dominguez Alon… 63 63
+     32  Emin Torlic          def.  Roko Savin           64 76(4)
+     32  Austin Di Giulio     def.  Sergi Mico Fenollar  26 76(7) 64
+     32  Lincoln Bellamy      def.  Javier Ruiz Medina   26 75 76(2)
+     32  Francisco Bastias    def.  Emmanuel Coste       61 61
+     32  Bruno Caula          def.  Mike Mkrtchian       61 61
+     32  Geronimo Busleiman   def.  Ali Amiri            63 64
+     32  Jayson Blando        def.  Rithvik Krishna      64 64
+     32  Matthew Sah          def.  Rian Ta              06 75 61
+     32  Thomas Smart         def.  Charlie Spina        62 46 62
+ > Singles Day 3
+  > Main
+     32  Rana-Roop Bhullar    def.  Riccardo Roberto     76(4) 61
+     32  Manoel De Alencar    def.  Mike Mkrtchian       62 62
+     32  Jose Dominguez Alon… def.  Ali Amiri            16 64 61
+     32  Emin Torlic          def.  Rithvik Krishna      63 36 63
+     32  Matthew Sah          def.  Austin Di Giulio     63 62
+     32  Noah Zamora          def.  Lincoln Bellamy      62 36 61
+     32  Francisco Bastias    def.  David Cierny         62 75
+     32  Bruno Caula          def.  Bodin Zarkovic       62 63
+     32  Geronimo Busleiman   def.  Felipe Acosta        64 61
+     32  Roko Savin           def.  Jayson Blando        63 67(4) 62
+     32  Sergi Mico Fenollar  def.  Rian Ta              61 63
+     32  Jack Ninteman        def.  Charlie Spina        57 63 63
 ~~~
 
 <a name="21-77642"></a>

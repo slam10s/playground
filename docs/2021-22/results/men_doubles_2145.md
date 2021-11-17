@@ -1,12 +1,10 @@
-<a name="top"></a>[<< Prev](men_doubles_2144.md) &nbsp; **Week #45 - Nov 8-14, 2021** &nbsp; [Next >>](men_doubles_2146.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2145.md) &#124; [Women](./women_doubles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2145.md) &#124; [***Doubles***](./men_doubles_2145.md)
+<a name="top"></a>[<< Prev](men_doubles_2144.md) &nbsp; **Week #45 - Nov 8-14, 2021** &nbsp; [Next >>](men_doubles_2202.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Men***](./men_doubles_2145.md) &#124; [Women](./women_doubles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./men_singles_2145.md) &#124; [***Doubles***](./men_doubles_2145.md)
 
 **Tournamets with Matches**  
 - 11/5/2021 - [Big 12 Individuals](#21-20291) ([Results](#21-20291) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityM/Tournaments/Overview/E0ED1E84-1CD4-4CE2-BFCD-F695030458D5" target="_blank">Draws</a>)  
 - 11/12/2021 - [Duck Invite](#21-42872) ([Results](#21-42872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/530778D7-293A-4C49-A1E2-1FF11D725D81" target="_blank">Draws</a>)  
+- 11/12/2021 - [LMU Invite](#21-95529) ([Results](#21-95529) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaMarymountUniversityM/Tournaments/Overview/5B7216DB-15C4-4F1D-8629-8EAF987FE5AE" target="_blank">Draws</a>)  
 - 11/12/2021 - [Navy Invitational](#21-77642) ([Results](#21-77642) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/398E1516-D93D-455D-B5B2-0D3057E5FCF8" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaMarymountUniversityM/Tournaments/Overview/5B7216DB-15C4-4F1D-8629-8EAF987FE5AE" target="_blank">LMU Invite</a>  
 
 <a name="21-20291"></a>
 ~~~
@@ -66,6 +64,40 @@
      QF  Azkara/Prieto        def.  De Vries/Jesser    62
      QF  Penzlin/Tvedt        def.  Shugar/Matsushita  62
      QF  Dudockin/Benn        def.  Hsu/Fernandez      61
+~~~
+
+<a name="21-95529"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  LMU Invite
+  Dates: Nov 12-14, 2021
+  Host: Loyola Marymount University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles Day 1
+  > Main
+     16  Moreno/Dominguez Al… def.  Cierny/Zarkovic      76(7)
+     16  De Alencar/Bhullar   def.  Ruiz Medina/Acosta   64
+     16  Mico Fenollar/Savin  def.  Roberts/Torlic       64
+     16  Caula/Bastias        def.  Roberto/Zamora       64
+     16  Busleiman/Krenn      def.  Sah/Smart            64
+     16  Amiri/Mkrtchian      def.  Ta/Blando            62
+ > Doubles Day 2
+  > Main
+     16  Moreno/Dominguez Al… def.  Sah/Smart            63
+     16  De Alencar/Bhullar   def.  Amiri/Mkrtchian      62
+     16  Zamora/Krishna       def.  Roberts/Torlic       75
+     16  Caula/Bastias        def.  Cierny/Zarkovic      61
+     16  Blando/Busleiman     def.  Mico Fenollar/Savin  62
+     16  Ninteman/Acosta      def.  Spina/Ta             62
+ > Doubles Day 3
+  > Main
+     16  Caula/Bastias        def.  Moreno/Dominguez Al… 63
+     16  De Alencar/Bhullar   def.  Blando/Busleiman     62
+     16  Di Giulio/Torlic     def.  Spina/Ta             61
+     16  Amiri/Mkrtchian      def.  Roberts/Bellamy      63
+     16  Ninteman/Acosta      def.  Roberto/Zamora       75
+     16  Mico Fenollar/Savin  def.  Sah/Smart            62
 ~~~
 
 <a name="21-77642"></a>
