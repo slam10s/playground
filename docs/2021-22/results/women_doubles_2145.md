@@ -3,12 +3,12 @@
 **Tournamets with Matches**  
 - 11/4/2021 - [Harvard Fall Invitational](#21-06527) ([Results](#21-06527) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Draws</a>)  
 - 11/12/2021 - [Csun Invitational 2021](#21-21713) ([Results](#21-21713) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CaliforniaStateUniversityNorthridgeW/Tournaments/Overview/170B0D52-C31D-4AA5-A14A-C44E18B58FF4" target="_blank">Draws</a>)  
+- 11/12/2021 - [SDSU Fall Tennis Classic # 2](#21-24494) ([Results](#21-24494) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1A40265D-8EC6-44FD-9EB9-1733C02C74CC" target="_blank">Draws</a>)  
 - 11/12/2021 - [Texas A&M Invitational](#21-89648) ([Results](#21-89648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/BF7768E0-4750-49B0-9B29-7EB1AC4016D9" target="_blank">Draws</a>)  
 - 11/12/2021 - [UNF Fall Invite](#21-72331) ([Results](#21-72331) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthFloridaW/Tournaments/Overview/0890226F-0B4C-40E3-888D-5CE5DA25876A" target="_blank">Draws</a>)  
 - 11/12/2021 - [Watanabe Classic](#21-21145) ([Results](#21-21145) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/185CF1AE-D437-4098-91A9-6F597D244978" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1A40265D-8EC6-44FD-9EB9-1733C02C74CC" target="_blank">SDSU Fall Tennis Classic # 2</a>  
 - 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityW/Tournaments/Overview/5D6A7D6E-4DFF-41D5-BA55-AEBEDA326663" target="_blank">Western Michigan - Betsy Kuhle Invitational</a>  
 
 <a name="21-06527"></a>
@@ -143,6 +143,22 @@
  > Extra Double Match Part 2
   > Main
       F  Ahmed/Marzano        def.  Daries/Nespor        64
+~~~
+
+<a name="21-24494"></a>
+~~~
+═════════════════════════════════════════════════════════
+  SDSU Fall Tennis Classic # 2
+  Dates: Nov 12-14, 2021
+  Host: San Diego State University (W)
+═════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw 2
+  > Main
+     16  Morin/Pitts   def.  Tabares/Wagner       62
+     16  Bhadada/Kumar def.  Pham/Tran            62
+     16  Chao/Flodin   def.  Von Tersch Pohrer/R… 76(3)
+     16  Huang/Tattini def.  Kuo/Stelse           64
 ~~~
 
 <a name="21-89648"></a>

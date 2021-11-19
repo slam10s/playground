@@ -15,6 +15,7 @@
 - 9/24/2021 - [Quinnipiac Invitational at Fairfield University](#21-24236) ([Results](#21-24236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityM/Tournaments/Overview/4CA1F754-31D9-4DCF-8BB3-0098D93E8693" target="_blank">Draws</a>)  
 - 9/24/2021 - [Rancher Collegiate Invitational](#21-29345) ([Results](#21-29345) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/8D7F2E07-AC4A-4E21-9AD6-185AA3004B4C" target="_blank">Draws</a>)  
 - 9/24/2021 - [Roadrunner Invitational](#21-84395) ([Results](#21-84395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTexasSanAntonioM/Tournaments/Overview/E7F7F76A-E6C1-4F1D-AFAC-36B9F1DB36FF" target="_blank">Draws</a>)  
+- 9/24/2021 - [Saint Joseph's Invitational - Men](#21-61930) ([Results](#21-61930) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintJosephsUniversityM/Tournaments/Overview/3E3CE083-33CF-44BE-90F9-2D8212C38067" target="_blank">Draws</a>)  
 - 9/24/2021 - [Southern Intercollegiates](#21-18330) ([Results](#21-18330) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/B89A76E9-2709-4BFC-AAB2-ED109F32123C" target="_blank">Draws</a>)  
 - 9/25/2021 - [Southern Miss Men's Tennis Invitational](#21-39341) ([Results](#21-39341) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthernMississippiM/Tournaments/Overview/6381F499-3F70-463D-B86B-F6D5B23A4ADB" target="_blank">Draws</a>)  
 - 9/24/2021 - [UVA Orange & Blue Classic](#21-08100) ([Results](#21-08100) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaM/Tournaments/Overview/CF3502B7-78F4-4CCB-AB88-CC54F61E06F0" target="_blank">Draws</a>)  
@@ -1539,6 +1540,131 @@
       F  Christian Cuellar    def.  Nicolas Dominguez    Walkover
   > Northwest
       F  Pietro Perego        def.  Alberto Mello        62 32 Ret.
+~~~
+
+<a name="21-61930"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  Saint Joseph's Invitational - Men
+  Dates: Sep 24-26, 2021
+  Host: Saint Joseph's University (M)
+═════════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Singles Flight 1
+  > Main
+       F (1) Nathan Perrone       def.     James Wilkinson      61 60
+      SF (1) Nathan Perrone       def.     Mikeal Carpenter     61 36 [8]
+      SF     James Wilkinson      def.     Zack Elliott         64 62
+      QF (1) Nathan Perrone       def.     Luis Molina          61 61
+      QF     Mikeal Carpenter     def. (4) Alex De Soussa       76(3) 76(4)
+      QF     Zack Elliott         def.     Alp Sentay           46 76(5) [9]
+      QF     James Wilkinson      def. (2) Nihit Rawal          62 64
+      16 (1) Nathan Perrone       def.     Joshua Robinson      76(1) 60
+      16     Luis Molina          def.     Moses Hutchison      76(4) 76(5)
+      16     Mikeal Carpenter     def.     Mark Blekhman        26 63 [3]
+      16 (4) Alex De Soussa       def.     Pablo Perez Ramos    62 63
+      16     Zack Elliott         def. (3) Pascal Wagemaker     67(3) 61 [5]
+      16     Alp Sentay           def.     Mario Antonio Maral… 61 61
+      16     James Wilkinson      def.     Nickolas Frisk       67(5) 62 [6]
+      16 (2) Nihit Rawal          def.     Abdullah Fouad       36 63 [7]
+  > Consolation
+       F     Pablo Perez Ramos    def. (3) Pascal Wagemaker     87(3)
+      SF     Pablo Perez Ramos    def.     Joshua Robinson      84
+      SF (3) Pascal Wagemaker     def.     Abdullah Fouad       Walkover
+      QQ     Joshua Robinson      def.     Moses Hutchison      83
+      QQ     Pablo Perez Ramos    def.     Mark Blekhman        84
+      QQ (3) Pascal Wagemaker     def.     Mario Antonio Maral… 85
+      QQ     Abdullah Fouad       def.     Nickolas Frisk       Walkover
+ > Singles Flight 2
+  > Main
+       F     Alan Jesudason       def. (4) Matt Kleiman         76(5) 62
+      SF (4) Matt Kleiman         def.     Niles Rachal         63 21 Ret.
+      SF     Alan Jesudason       def.     Michael Fourticq     63 62
+      QF     Niles Rachal         def. (1) Alexandre Gluck      57 76(4) [6]
+      QF (4) Matt Kleiman         def.     Hubert Theriault     63 75
+      QF     Alan Jesudason       def. (3) Guilherme Valdoleir… 62 75
+      QF     Michael Fourticq     def. (2) Pierce Gilheany      46 21 Ret.
+      16 (1) Alexandre Gluck      def.     Amine El Kholti      62 76(6)
+      16     Niles Rachal         def.     Matvey Radionov      61 67(3) [5]
+      16     Hubert Theriault     def.     Justin Suarez        63 26 [8]
+      16 (4) Matt Kleiman         def.     Sanil Jagtiani       63 64
+      16 (3) Guilherme Valdoleir… def.     Andrew Watson        62 62
+      16     Alan Jesudason       def.     Jordan Paul          63 62
+      16     Michael Fourticq     def.     Nassim Fenjiro       62 36 [4]
+      16 (2) Pierce Gilheany      def.     Hannibal Borg        64 63
+  > Consolation
+       F     Matvey Radionov      def.     Jordan Paul          82
+      SF     Matvey Radionov      def.     Justin Suarez        85
+      SF     Jordan Paul          def.     Nassim Fenjiro       84
+      QQ     Matvey Radionov      def.     Amine El Kholti      Walkover
+      QQ     Justin Suarez        def.     Sanil Jagtiani       Walkover
+      QQ     Jordan Paul          def.     Andrew Watson        84
+      QQ     Nassim Fenjiro       def.     Hannibal Borg        85
+ > Singles Flight 3
+  > Main
+       F (1) Liam Hedlund         def.     Sebastian Lopez      76(3) 64
+      SF (1) Liam Hedlund         def.     Josh Smith           26 62 [5]
+      SF     Sebastian Lopez      def.     Xandy Hammitt        76(5) 26 [4] Ret.
+      QF (1) Liam Hedlund         def.     Eshan Kanetkar       76(6) 61
+      QF     Josh Smith           def. (4) Gary Fishkin         60 36 [7]
+      QF     Sebastian Lopez      def.     Nicholas Gore        64 20 Ret.
+      QF     Xandy Hammitt        def. (2) Eitan Khromchenko    46 76(6) [6]
+      16 (1) Liam Hedlund         def.     Juan Manuel Sanchez  76(6) 61
+      16     Eshan Kanetkar       def.     Peter Leese          62 67 [7]
+      16     Josh Smith           def.     Rhajzon Rankins      62 67(4) [7]
+      16 (4) Gary Fishkin         def.     Matthew Jones        75 60
+      16     Nicholas Gore        def. (3) Lukas Choi           63 64
+      16     Sebastian Lopez      def.     Gustav Wogen         63 75
+      16     Xandy Hammitt        def.     Juan Bejarano-Gamez  62 64
+      16 (2) Eitan Khromchenko    def.     Enrique Soto Balles… 63 63
+  > Consolation
+       F     Matthew Jones        def.     Gustav Wogen         83
+      SF     Matthew Jones        def.     Juan Manuel Sanchez  98(1)
+      SF     Gustav Wogen         def.     Enrique Soto Balles… Walkover
+      QQ     Juan Manuel Sanchez  def.     Peter Leese          84
+      QQ     Matthew Jones        def.     Rhajzon Rankins      86
+      QQ     Gustav Wogen         def. (3) Lukas Choi           82
+      QQ     Enrique Soto Balles… def.     Juan Bejarano-Gamez  83
+ > Singles Flight 4
+  > Main
+       F     Jeremy Learner       def. (3) Ryan Nguyen          63 67(4) [7]
+      SF     Jeremy Learner       def. (4) Alex Kim             62 76(9)
+      SF (3) Ryan Nguyen          def.     Michael Bukhalo      63 16 [10]
+      QF     Jeremy Learner       def. (1) Daniel Cheng         62 64
+      QF (4) Alex Kim             def.     William Gatti        64 63
+      QF (3) Ryan Nguyen          def.     Noah Winton          76(2) 67(4) [5]
+      QF     Michael Bukhalo      def.     Nick Spera           62 61
+      16 (1) Daniel Cheng         def.     Andrew Cooper        61 63
+      16     Jeremy Learner       def. (8) Matthew Ray          64 61
+      16     William Gatti        def. (6) Alexander MacNeil    61 26 [5]
+      16 (4) Alex Kim             def.     Cole Tecce           76(3) 75
+      16 (3) Ryan Nguyen          def.     Artis Hart           62 63
+      16     Noah Winton          def. (5) Djordje Janackovic   63 16 [5]
+      16     Michael Bukhalo      def.     Ryan Meyer           61 64
+      16     Nick Spera           def. (2) Anthony Prokurat     Walkover
+      32     Andrew Cooper        def.     Jamil Racho          75 26 [0]
+      32     Jeremy Learner       def.     Jacob Marion         60 60
+      32 (8) Matthew Ray          def.     Collin Klumb         63 76(4)
+      32 (6) Alexander MacNeil    def.     Jake Cammorata       62 60
+      32     William Gatti        def.     Steven Nazaroff      67(4) 63 [8]
+      32     Cole Tecce           def.     Adrian Tudor         75 64
+      32     Artis Hart           def.     Matteo Navarro       63 63
+      32     Noah Winton          def.     Andrew Nakhjavan     63 63
+      32     Michael Bukhalo      def. (7) Emiliano Gonzalez    Walkover
+      32     Ryan Meyer           def.     Martial Kawunde      61 60
+      32     Nick Spera           def.     Ahmed Aboseada       63 61
+  > Consolation
+      SF     Steven Nazaroff      def.     Adrian Tudor         86
+      SF     Andrew Nakhjavan     def.     Ahmed Aboseada       84
+      QF     Adrian Tudor         def.     Jamil Racho          87(4)
+      QF     Steven Nazaroff      def.     Collin Klumb         84
+      QF     Andrew Nakhjavan     def.     Matteo Navarro       80
+      QF     Ahmed Aboseada       def.     Martial Kawunde      83
+      16     Matteo Navarro       def. (5) Djordje Janackovic   Walkover
+      16     Ahmed Aboseada       def. (2) Anthony Prokurat     Walkover
+     16Q     Adrian Tudor         def.     Jacob Marion         82
+     16Q     Steven Nazaroff      def.     Jake Cammorata       80
+     16Q     Martial Kawunde      def. (7) Emiliano Gonzalez    Walkover
 ~~~
 
 <a name="21-18330"></a>
