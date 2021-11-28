@@ -11,6 +11,7 @@
 - 10/22/2021 - [ITA Division I Men's Northwest Super Regional Championship](#21-64957) ([Results](#21-64957) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonM/Tournaments/Overview/FCD50A53-E765-4641-A4EF-4F8678B573CA" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
+- 10/23/2021 - [UNA Men's Classic](#21-19659) ([Results](#21-19659) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaM/Tournaments/Overview/A9056FEF-25AD-4F2E-9338-1E7D25480DA0" target="_blank">Draws</a>)  
 - 10/21/2021 - [Crusader Invitational](#21-41693) ([Results](#21-41693) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Draws</a>)  
 - 10/22/2021 - [Eagle Invitational](#21-28500) ([Results](#21-28500) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Draws</a>)  
 - 10/22/2021 - [GSC Fall Individual Tournament](#21-93512) ([Results](#21-93512) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">Draws</a>)  
@@ -18,9 +19,6 @@
 - 10/22/2021 - [MIT Invite](#21-83746) ([Results](#21-83746) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">Draws</a>)  
 - 10/22/2021 - [MSU Invitational](#21-16812) ([Results](#21-16812) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">Draws</a>)  
 - 10/22/2021 - [YTF Southeastern Invitational](#21-42214) ([Results](#21-42214) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 10/23/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaM/Tournaments/Overview/A9056FEF-25AD-4F2E-9338-1E7D25480DA0" target="_blank">UNA Men's Classic</a>  
 
 <a name="21-34853"></a>
 ~~~
@@ -567,6 +565,26 @@
      64      Rico/Hadigian        def.      Maitre/Tattevin      84
      64 (15) Seeman/Mandma        def.      Vedri-Castellano As… 83
      64      Olsen/Middleton      def.      Mkrtchian/Zamora     87(2)
+~~~
+
+<a name="21-19659"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  UNA Men's Classic
+  Dates: Oct 23-23, 2021
+  Host: University Of North Alabama (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Purple
+  > Main
+     QF  Tolbert/Zhang        def.  Mulada/Lawrence     63
+     QF  Matarredona/Perez    def.  Arana Rios/Ntcha    63
+     QF  Diniz/Bixby          def.  Chang/Gahlot        76(5)
+ > Gold
+  > Main
+     QF  Arana Rios/Ntcha     def.  Zhang/Bixby         75
+     QF  Ruiz Crespo/Lawrence def.  Matarredona/Tolbert 63
+     QF  Perez/Diniz          def.  Chang/Gahlot        75
 ~~~
 
 <a name="21-41693"></a>

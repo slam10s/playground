@@ -118,7 +118,7 @@
       64      Junk/Slavic          def.      Chopra/Dong          64 76(3)
       64  (9) Siimar/Shelbayh      def.      Tumosa/Straker-Meads 64 67(5) [8]
       64  (4) Torre Martin/Stable  def.      Valiev/Azoides       46 62 [8]
-      64      Malbasic/Hoeyeraal   def.      Acosta/Cierny        Default
+      64      Malbasic/Hoeyeraal   def.      Acosta/Cierny        Walkover
       64      Graziani/Zhu         def.      Marson/Perego        62 46 [4]
       64      Ornberg/Atherton     def.  (9) Coste/Roberto        61 16 [7]
       64      Jakic/Tonejc         def.  (5) Diallo/Musitelli     76(4) 75

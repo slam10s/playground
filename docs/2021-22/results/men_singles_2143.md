@@ -13,12 +13,12 @@
 - 10/29/2021 - [Gamecock Scramble](#21-06171) ([Results](#21-06171) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
 - 10/29/2021 - [Rice Fall Challenge](#21-45244) ([Results](#21-45244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityM/Tournaments/Overview/014D4049-2DA7-4F05-A176-8C88B48C0A0E" target="_blank">Draws</a>)  
+- 10/29/2021 - [Seahawk Team Invite](#21-55779) ([Results](#21-55779) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Draws</a>)  
 - 10/29/2021 - [Virginia Tech Halloween Clash](#21-26801) ([Results](#21-26801) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Draws</a>)  
 - 10/29/2021 - [Saint Leo Hidden Duals - Men](#21-17543) ([Results](#21-17543) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Seahawk Team Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 
 <a name="21-69139"></a>
@@ -1368,6 +1368,73 @@
      32  Maxim Groysman     def.  Callaway Clark  64 67(5) 64
      32  Olle Wallin        def.  Jordi Redelijk  63 63
      32  Takeyasu Sekiguchi def.  Eli Susser      60 61
+~~~
+
+<a name="21-55779"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Seahawk Team Invite
+  Dates: Oct 29-31, 2021
+  Host: UNC Wilmington (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > 1 Singles
+  > Main
+     R3  Bastien Huon         def.  Juan Camilo Gongora 62 60
+     R3  Bekhzod Rasamatov    def.  Lucas Wayenburg     57 61 62
+     R2  Bekhzod Rasamatov    def.  Juan Camilo Gongora 64 64
+     R2  Bastien Huon         def.  Lucas Wayenburg     63 62
+     R1  Bekhzod Rasamatov    def.  Bastien Huon        61 Ret.
+     R1  Lucas Wayenburg      def.  Juan Camilo Gongora 63 61
+ > 2 Singles
+  > Main
+     R5  Reece Falck          def.  Sam Kavarana        62 63
+     R5  Diego Giraldo        def.  David Georgadze     57 64 76(5)
+     R3  Gabriel Hurtado      def.  David Georgadze     75 62
+     R2  Diego Giraldo        def.  Sam Kavarana        64 62
+     R1  Federico Garnier     def.  Reece Falck         64 46 76(4)
+     R1  David Georgadze      def.  Sam Kavarana        64 62
+ > 3 Singles
+  > Main
+     R5  Danny Flynn          def.  Brooks Green        62 Ret.
+     R4  Federico Garnier     def.  Brooks Green        63 62
+     R4  Davide Innocenti     def.  Danny Flynn         26 62 64
+     R4  Gabriel Hurtado      def.  Niccolo Rossi       61 46 61
+     R3  Federico Garnier     def.  Danny Flynn         61 61
+     R3  Gabriel Hurtado      def.  Brooks Green        75 61
+ > 4 Singles
+  > Main
+     R5  Samuel Macleod       def.  Nicolas Pinzon      63 16 [9]
+     R4  Richard Trey Mallory def.  Samuel Macleod      62 63
+     R4  Davide Innocenti     def.  Neil O Connor       75 75
+     R3  Davide Innocenti     def.  Nicolas Pinzon      36 61 62
+     R2  Nicolas Pinzon       def.  Neil O Connor       62 46 [11]
+     R2  Niccolo Rossi        def.  Samuel Macleod      60 46 61
+ > 5 Singles
+  > Main
+     R3  Richard Trey Mallory def.  Jerry Wang          62 62
+     R1  Danil Ozernoy        def.  Samuel Barrow       61 46 62
+     R1  Niccolo Rossi        def.  Luca Lovrich        61 75
+     R1  Richard Trey Mallory def.  Guilherme Toresan   62 61
+ > 6 Singles
+  > Main
+     R7  Guilherme Toresan    def.  Alexandr Koliev     64 06 75
+     R3  Alexandr Koliev      def.  John Dransfeld      64 16 62
+     R2  Alexandr Koliev      def.  Luca Lovrich        75 64
+     R1  Danil Ozernoy        def.  Samuel De Felipe    63 64
+     R1  Guilherme Toresan    def.  Jerry Wang          75 46 [7]
+ > 7 Singles
+  > Main
+     R4  Iganacio Sandoval    def.  Luca Lovrich        46 62 61
+     R2  Iganacio Sandoval    def.  Jerry Wang          57 64 [7]
+     R2  Samuel De Felipe     def.  William Clark       63 64
+ > Flight 5
+  > Main
+     R3  William Clark        def.  Samuel Barrow       61 63
+     R2  Neil O Connor        def.  Samuel Barrow       64 62
+ > Flight 6
+  > Main
+      F  Danil Ozernoy        def.  William Clark       62 64
 ~~~
 
 <a name="21-26801"></a>

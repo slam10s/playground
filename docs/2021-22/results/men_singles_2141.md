@@ -1426,24 +1426,24 @@
      R1  John Bryan Otico     def.  Jack Hambrook        60 60
  > Day Two Singles
   > Main
+     R7  John Bryan Otico     def.  Roni Rikkonen        63 63
+     R6  Emin Torlic          def.  Sahm Irvine          61 60
+     R4  Conner Olsen         def.  Thomas Navarro       61 62
+     R2  Jared Horwood        def.  Jack Hambrook        60 60
      R1  Judson Blair         def.  Jose Dominguez Alon… 75 57 75
      R1  Rana-Roop Bhullar    def.  Alex Scemanenco      63 64
-     R1  Roni Rikkonen        def.  Emin Torlic          63 63
-     R1  John Bryan Otico     def.  Sahm Irvine          61 60
      R1  Nick Lagaev          def.  Zac Brodney          76(3) 64
      R1  Jett Middleton       def.  Tom Ciszewski        64 63
-     R1  Conner Olsen         def.  Jack Hambrook        61 62
-     R1  Jared Horwood        def.  Thomas Navarro       60 60
  > Day Three Singles
   > Main
+     R7  Conner Olsen         def.  John Bryan Otico     64 75
+     R6  Emin Torlic          def.  Jared Horwood        46 75 61
      R1  Alex Scemanenco      def.  Tom Ciszewski        62 61
      R1  Zac Brodney          def.  Judson Blair         61 76(5)
      R1  Thomas Navarro       def.  Roni Rikkonen        62 64
      R1  Zach Ermert          def.  Jack Hambrook        60 60
      R1  Rana-Roop Bhullar    def.  Nick Lagaev          64 64
      R1  Jose Dominguez Alon… def.  Jett Middleton       62 64
-     R1  Conner Olsen         def.  Emin Torlic          64 75
-     R1  Jared Horwood        def.  John Bryan Otico     46 75 61
 ~~~
 
 <a name="21-41868"></a>

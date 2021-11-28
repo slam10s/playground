@@ -13,12 +13,12 @@
 - 10/29/2021 - [Gamecock Scramble](#21-06171) ([Results](#21-06171) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
 - 10/29/2021 - [Rice Fall Challenge](#21-45244) ([Results](#21-45244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityM/Tournaments/Overview/014D4049-2DA7-4F05-A176-8C88B48C0A0E" target="_blank">Draws</a>)  
+- 10/29/2021 - [Seahawk Team Invite](#21-55779) ([Results](#21-55779) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Draws</a>)  
 - 10/29/2021 - [Virginia Tech Halloween Clash](#21-26801) ([Results](#21-26801) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Draws</a>)  
 - 10/29/2021 - [Saint Leo Hidden Duals - Men](#21-17543) ([Results](#21-17543) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Seahawk Team Invite</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 
 <a name="21-69139"></a>
@@ -599,6 +599,35 @@
      16  Sekiguchi/Wallin   def.  Suarez/De Alba     86
      16  Salmon/Sendogan    def.  Bancila/Jacobson   86
      16  Clark/Cloud        def.  Hoeijmans/Barry    85
+~~~
+
+<a name="21-55779"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Seahawk Team Invite
+  Dates: Oct 29-31, 2021
+  Host: UNC Wilmington (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > 1 Doubles
+  > Main
+     R3  Rasamatov/Falck     def.  Giraldo/Garnier     62
+     R3  Georgadze/Wayenburg def.  Pinzon/Gongora      64
+     R2  Giraldo/Garnier     def.  Georgadze/Wayenburg 63
+     R2  Pinzon/Gongora      def.  Rasamatov/Falck     75
+     R1  Georgadze/Wayenburg def.  Rasamatov/Falck     64
+     R1  Giraldo/Garnier     def.  Pinzon/Gongora      64
+ > 2 Doubles
+  > Main
+     R3  Huon/Rossi          def.  Hurtado/Mallory     76(6)
+     R2  Hurtado/Mallory     def.  Barrow/Flynn        62
+     R1  Huon/Rossi          def.  Barrow/Flynn        63
+     R1  Hurtado/Mallory     def.  Green/Kavarana      61
+ > 3 Doubles
+  > Main
+     R3  Toresan/O Connor    def.  Macleod/Koliev      61
+     R3  Innocenti/Ozernoy   def.  Clark/Wang          61
+     R2  Toresan/O Connor    def.  Innocenti/Ozernoy   62
 ~~~
 
 <a name="21-26801"></a>

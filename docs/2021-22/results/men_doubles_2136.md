@@ -13,15 +13,13 @@
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
 - 9/11/2021 - [2021 CCIW Fall Invitational](#21-67914) ([Results](#21-67914) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillikinUniversityM/Tournaments/Overview/EC2D06D4-33B6-4D12-AD7F-0FFF3E553D26" target="_blank">Draws</a>)  
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
+- 9/10/2021 - [Marlin Fall Invite](#21-96391) ([Results](#21-96391) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Draws</a>)  
 - 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
 - 9/11/2021 - [St. Lawrence University Fall Classic](#21-93996) ([Results](#21-93996) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/3699D952-856D-4724-8FE8-12BD2237BE35" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/10/2021 - [Warhawk Fall Invitational](#21-36572) ([Results](#21-36572) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
 
 <a name="21-56790"></a>
 ~~~
@@ -585,6 +583,14 @@
      32  Reid/Thursfield      def.  Zuckerman/Johns   62
      32  Bierbaum/Daosaengsa… def.  Wyett/Knapp       63
      32  Serra/Serra          def.  Theaker/Flisberg  60
+ > R3-a
+  > Main
+     QF  Taramonlis/Silva     def.  Bierbaum/Reid     62
+     QF  Raptis/Severin       def.  Thursfield/Fender 64
+     QF  Hagen/Balsekar       def.  Vicente/Grubert   64
+ > R3-b
+  > Main
+      F  Raptis/Severin       def.  Berghaus/Rodeia   62
 ~~~
 
 <a name="21-67914"></a>
@@ -682,6 +688,41 @@
       F  Belli De Oliveira/G… def.  Doherty/Ivanov       Walkover
      SQ  Doherty/Ivanov       def.  Richardson/Parisien  84
      SQ  Belli De Oliveira/G… def.  Thatcher/Szarek      81
+~~~
+
+<a name="21-96391"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Marlin Fall Invite
+  Dates: Sep 10-12, 2021
+  Host: Virginia Wesleyan University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+     32  Perry/Bevc          def.  Foster/Brice      62
+     32  Challagundla/Perry  def.  Kendrick/Kendrick 60
+     32  Tep/Cabaddu         def.  Singleton/Fox     64
+     32  Wilson/West         def.  Adams/Conde       61
+     32  Theron/McNamara     def.  Stromberg/Miller  61
+     32  Murray/Laney        def.  Drake/Amick       61
+     32  Kelly/Perez-Urrutia def.  Alley/Winans      64
+ > #2
+  > Main
+     32  Theron/McNamara     def.  Perry/Bevc        63
+     32  Stolmeijer/Rogers   def.  Wilson/West       62
+     32  Challagundla/Perry  def.  Bitzberger/Kieft  64
+     32  Beaudoin/Gembroys   def.  Hall/Manning      64
+ > #3
+  > Main
+      F  Wilson/West         def.  Stromberg/Miller  62
+ > #4
+  > Main
+      F  Stolmeijer/Rogers   def.  Koritala/Jones    60
+ > #5
+  > Main
+     QF  Perry/Bevc          def.  Dias/Blonquist    63
+     QF  Theron/McNamara     def.  Foster/Brice      87(4)
 ~~~
 
 <a name="21-98528"></a>

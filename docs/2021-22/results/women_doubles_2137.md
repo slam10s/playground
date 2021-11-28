@@ -15,6 +15,7 @@
 - 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655) ([Results](#21-47655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityW/Tournaments/Overview/AF0C9E05-93DF-4088-A5CF-0B35FDCDBA9C" target="_blank">Draws</a>)  
 - 9/17/2021 - [QU Hidden Duals At Uconn](#21-14835) ([Results](#21-14835) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">Draws</a>)  
 - 9/17/2021 - [Redbird Invitational](#21-33894) ([Results](#21-33894) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityW/Tournaments/Overview/1C326774-DC63-4687-A38F-F4CEEC065C15" target="_blank">Draws</a>)  
+- 9/17/2021 - [Saint Joseph's Invitational - Women](#21-21233) ([Results](#21-21233) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintJosephsUniversityM/Tournaments/Overview/3B93C43A-402F-424E-B829-B23AB5353230" target="_blank">Draws</a>)  
 - 9/17/2021 - [University of Cincinnati/Pam Whitehead Fall Invitational](#21-41928) ([Results](#21-41928) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">Draws</a>)  
 - 9/17/2021 - [UVA Invitational](#21-02168) ([Results](#21-02168) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/C8B138D1-65A1-4A21-BF46-12614579945A" target="_blank">Draws</a>)  
 - 9/16/2021 - [BAC Invitational](#21-94974) ([Results](#21-94974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">Draws</a>)  
@@ -34,7 +35,6 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintJosephsUniversityM/Tournaments/Overview/3B93C43A-402F-424E-B829-B23AB5353230" target="_blank">Saint Joseph's Invitational - Women</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">PP/CMS Invite</a>  
 
@@ -779,6 +779,51 @@
  > Flight 2 - 3rd place match
   > Main
       F  Damnjanovic/Abreu    def.  Kovacs/Bezmenova     80
+~~~
+
+<a name="21-21233"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Saint Joseph's Invitational - Women
+  Dates: Sep 17-19, 2021
+  Host: Saint Joseph's University (M)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight 1
+  > Main
+      F  Moghtader/Quinn      def.  Elliott/Weiss        86
+     SF  Moghtader/Quinn      def.  Beckner/Kimmey       82
+     SF  Elliott/Weiss        def.  Coleman/Hagino       85
+     QF  Moghtader/Quinn      def.  Bodewes/Manwiller    97
+     QF  Beckner/Kimmey       def.  Kirk/Nava            86
+     QF  Elliott/Weiss        def.  Tracey/Williamson    85
+     QF  Coleman/Hagino       def.  Bockman/Giambo       84
+     16  Beckner/Kimmey       def.  Kuncl/Rico           86
+     16  Coleman/Hagino       def.  Aguirre/Decker       84
+  > Consolation
+      F  Bodewes/Manwiller    def.  Bockman/Giambo       Walkover
+     SF  Bodewes/Manwiller    def.  Kirk/Nava            81
+     SF  Bockman/Giambo       def.  Tracey/Williamson    83
+     QF  Kirk/Nava            def.  Kuncl/Rico           86
+     QF  Bockman/Giambo       def.  Aguirre/Decker       83
+ > Flight 2
+  > Main
+      F  Santoriello/Wurtz    def.  Amato/Amato          98(1)
+     SF  Santoriello/Wurtz    def.  Ocasio/Tort-Umpierre 86
+     SF  Amato/Amato          def.  Smith/Thompson       81
+     QF  Ocasio/Tort-Umpierre def.  Kemerer/Moore        82
+     QF  Santoriello/Wurtz    def.  Lambert/Zureick      98(6)
+     QF  Amato/Amato          def.  Calvo/Holway         80
+     QF  Smith/Thompson       def.  Ciano/Zaphiris       98(5)
+     16  Ocasio/Tort-Umpierre def.  Allin/Connor         85
+     16  Kemerer/Moore        def.  King/Sreenivas       85
+     16  Lambert/Zureick      def.  Holtschneider/Novak  81
+     16  Ciano/Zaphiris       def.  Conrad/Kramer        85
+  > Consolation
+      F  Conrad/Kramer        def.  Holtschneider/Novak  81
+     SF  Holtschneider/Novak  def.  Allin/Connor         Walkover
+     SF  Conrad/Kramer        def.  Calvo/Holway         81
+     QQ  Allin/Connor         def.  King/Sreenivas       Walkover
 ~~~
 
 <a name="21-41928"></a>

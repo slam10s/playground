@@ -3071,7 +3071,7 @@
      64 (10) Andrew Finkelman    def.      William Turchetta   63 62
      64 (14) Chase Cohen         def.      Dylan Walters       64 62
      64      Sam Henry           def.      Alexander Gujarathi 61 63
-     64      Harris Foulkes      def.      Derek Shen          61 62
+     64      Harris Foulkes      def.      Derek Shen          64 62
      64  (2) Isaac Gorelik       def.      Jon Trevethan       60 60
 ~~~
 

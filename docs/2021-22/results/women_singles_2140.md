@@ -9,8 +9,10 @@
 - 10/8/2021 - [49er Invite](#21-68924) ([Results](#21-68924) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCCharlotteW/Tournaments/Overview/928AA6BE-846A-430B-89FA-222F70E8CCBB" target="_blank">Draws</a>)  
 - 10/9/2021 - [Cincinnati/Xavier Fall Invitational](#21-24398) ([Results](#21-24398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Draws</a>)  
 - 10/8/2021 - [Georgia Southern Fall Shootout](#21-23829) ([Results](#21-23829) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Draws</a>)  
+- 10/8/2021 - [Husky Invitational](#21-57375) ([Results](#21-57375) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Draws</a>)  
 - 10/4/2021 - [ITA Women's All-American Championship](#21-68261) ([Results](#21-68261) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">Draws</a>)  
 - 10/8/2021 - [Jimmy Powell Invitational](#21-66349) ([Results](#21-66349) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Draws</a>)  
+- 10/8/2021 - [June Stewart](#21-72773) ([Results](#21-72773) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">Draws</a>)  
 - 10/8/2021 - [Long Beach State Fall Tournament](#21-66132) ([Results](#21-66132) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Draws</a>)  
 - 10/8/2021 - [MVC Individual Championships](#21-95059) ([Results](#21-95059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">Draws</a>)  
 - 10/8/2021 - [Navy Blue and Gold Invitational](#21-53408) ([Results](#21-53408) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C" target="_blank">Draws</a>)  
@@ -28,8 +30,6 @@
 - 10/8/2021 - [Warhawk Fall Invitational](#21-01807) ([Results](#21-01807) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/0D92B574-F815-4CD2-9DB5-9DE635B3C608" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">June Stewart</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
 
 <a name="21-03077"></a>
@@ -747,6 +747,87 @@
      SF  Yasmine Humbert     def.  Mina Toglukdemir   63 26 [4]
   > 3-4 Playoff
       F  Mina Toglukdemir    def.  Balsen Kaya        63 31 Ret.
+ > Extra
+  > Main
+      F  Callie Billman      def.  Gia Cohen          64 60
+~~~
+
+<a name="21-57375"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Husky Invitational
+  Dates: Oct 8-10, 2021
+  Host: University Of Washington (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > UW vs DePaul
+  > Main
+     R5  Ashley Chang        def.  Katrina Rand        64 63
+     R4  Zoey Weil           def.  Valentina Martin    62 76(3)
+     R3  Sarah-Maude Fortin  def.  Eleanor Nobbs       64 62
+     R3  Tara Chilton        def.  Marija Jovicic      63 62
+     R3  Nika Zupancic       def.  Lenka Antonijevic   62 61
+     R3  Hikaru Sato         def.  Yuliya Kizelbasheva 61 67(3) 62
+ > UW vs PSU
+  > Main
+     R4  Tara Chilton        def.  Makoto Ohara        60 Ret.
+     R3  Kelly Leung         def.  Jacinta Milenkoski  62 61
+     R2  Yolanda Lin         def.  Emily Rees          62 60
+     R2  Ashley Chang        def.  Mariajose Hernandez 75 36 [9]
+     R1  Kelly Leung         def.  Makoto Ohara        61 75
+     R1  Yolanda Lin         def.  Nika Beukers        61 64
+ > UW vs UO
+  > Main
+     R5  Nika Zupancic       def.  Lillian Mould       62 62
+     R5  Myah Petchey        def.  Sarah-Maude Fortin  57 64 63
+     R3  Ares Teixido Garcia def.  Yolanda Lin         76(5) 64
+     R3  Zoey Weil           def.  Misaki Kobayashi    62 63
+     R1  Kelly Leung         def.  Mia Ljubas          63 61
+     R1  Sophie Luescher     def.  Hikaru Sato         75 16 62
+     R1  Uxia Martinez Moral def.  Ashley Chang        61 63
+ > UW vs WSU
+  > Main
+     R1  Nika Zupancic       def.  MAxine Murphy       61 63
+     R1  Zoey Weil           def.  Savanna Ly-Nguyen   63 76(8)
+     R1  Tara Chilton        def.  Hania Abouelsaad    64 75
+     R1  Sarah-Maude Fortin  def.  Fifa Kumhom         61 61
+     R1  Michaela Bayerlova  def.  Hikaru Sato         60 75
+ > UO vs WSU
+  > Main
+     R1  Myah Petchey        def.  Fifa Kumhom         62 62
+     R1  Ares Teixido Garcia def.  Hania Abouelsaad    57 63 61
+     R1  Michaela Bayerlova  def.  Misaki Kobayashi    60 61
+     R1  Lillian Mould       def.  MAxine Murphy       67(3) 64 76(3)
+     R1  Sophie Luescher     def.  Savanna Ly-Nguyen   64 60
+ > UO vs DePaul
+  > Main
+     R5  Yuliya Kizelbasheva def.  Uxia Martinez Moral 64 64
+     R5  Lillian Mould       def.  Marija Jovicic      64 57 64
+     R3  Eleanor Nobbs       def.  Myah Petchey        06 45 Ret.
+     R3  Misaki Kobayashi    def.  Katrina Rand        76(8) 64
+     R1  Sophie Luescher     def.  Lenka Antonijevic   63 61
+     R1  Ares Teixido Garcia def.  Madelyn Yergler     62 62
+     R1  Allison Mulville    def.  Valentina Martin    60 63
+ > UO vs PSU
+  > Main
+     R7  Madison Egan        def.  Madisen Olsen       76(5) 76(5)
+     R4  Jacinta Milenkoski  def.  Madisen Olsen       61 64
+     R3  Mariajose Hernandez def.  Mia Ljubas          61 62
+     R1  Uxia Martinez Moral def.  Emily Rees          62 61
+ > WSU vs DePaul
+  > Main
+     R1  Michaela Bayerlova  def.  Lenka Antonijevic   61 60
+     R1  Savanna Ly-Nguyen   def.  Yuliya Kizelbasheva 63 63
+     R1  Eleanor Nobbs       def.  Fifa Kumhom         75 61
+     R1  MAxine Murphy       def.  Madelyn Yergler     63 46 64
+     R1  Hania Abouelsaad    def.  Marija Jovicic      63 64
+ > DePaul vs PSU
+  > Main
+     R2  Nika Beukers        def.  Valentina Martin    46 75 62
+     R2  Madison Egan        def.  Katrina Rand        46 76(6) 64
+ > UO vs PSU 2
+  > Main
+      F  Madison Egan        def.  Madisen Olsen       75 36 63
 ~~~
 
 <a name="21-68261"></a>
@@ -926,11 +1007,29 @@
 
 <a name="21-72773"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   June Stewart
   Dates: Oct 8-10, 2021
   Host: Vanderbilt University (W)
-═══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Matches Day 3
+  > Main
+     64  Maya Tahan          def.      Shivani Ingle     62 61
+     64  Diana Khodan        def.      Kida Ferrari      63 60
+     64  Daevenia Achong     def.      Ashley Yeah       63 62
+     64  Sofia Cabezas       def.      Nada Dimovska     26 60 61
+     64  Katherine Duong     def. (16) Isabella Pfennig  64 67(3) 60
+     64  Audrey Boch-Collins def.      Kathryn Treiber   57 63 64
+     64  Eden Richardson     def.      Megan Heuser      46 75 63
+     64  Josie Frazier       def.      Chie Kezuka       46 75 76
+     64  Yufei Long          def.      Kate Popova       62 60
+     64  Anna Ross           def.      Carla Girbau      60 62
+     64  Marcella Cruz       def.      Fiona Arrese      62 61
+     64  Dasha Kourkina      def.      Maialen Morante   64 61
+     64  Amy Stevens         def.      Florencia Urrutia 63 75
+     64  Holly Staff         def.      Carlota Molina    64 64
+     64  Lidia Gonzalez      def.      Christin Hsieh    63 67 63
 ~~~
 
 <a name="21-66132"></a>

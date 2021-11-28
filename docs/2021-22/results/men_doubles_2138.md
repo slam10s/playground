@@ -1859,6 +1859,21 @@
      32  Naginski/North       def.  Richardson/Mansor    80
      32  Pddden/Boyle         def.  Palinkis/Wentz       83
      32  Thatcher/Parisien    def.  Silverstein/Lee      82
+ > Doubles 3
+  > Main
+     32  Dayal/Provenzano     def.  Cocito-Monoc/French  87(5)
+     32  Colomb/Gurtner       def.  Mackler/Gramley      84
+     32  Bulger/Thompson      def.  Weaver/Belli De Oli… 85
+     32  Billerbeck/Dill      def.  Beebe/Langovsky      83
+     32  Gonela/Garcia        def.  Szarek/Saunders      80
+     32  Mahenthiran/Narang   def.  Harms/Eason          86
+     32  Hishinuma/Ikkurthy   def.  Gold/Topper          80
+     32  Naginski/North       def.  Bulkley/Echikson     86
+     32  Martin/Kasner        def.  Louiselle/Patrick    86
+     32  Wootton/Jones        def.  Englehart/Seetha     85
+     32  Sarnowski/Hines      def.  Richardson/Mansor    82
+     32  Pddden/Boyle         def.  Silverstein/Lee      82
+     32  Palinkis/Wentz       def.  Thatcher/Parisien    83
 ~~~
 
 <a name="21-75026"></a>

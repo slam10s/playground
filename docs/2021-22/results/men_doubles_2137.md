@@ -8,13 +8,16 @@
 - 9/17/2021 - [Dale Short Shootout](#21-04953) ([Results](#21-04953) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityM/Tournaments/Overview/8D17D1A4-3D6A-4D99-9858-4808AD3D6EAE" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dartmouth Invitational](#21-10750) ([Results](#21-10750) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeM/Tournaments/Overview/FB53D115-F7C3-43C7-9CAF-0B60D9E55E67" target="_blank">Draws</a>)  
 - 9/17/2021 - [Duke Bonk Invitational](#21-67582) ([Results](#21-67582) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/FFC0211B-E579-4EA7-9FE6-D4E9522C2014" target="_blank">Draws</a>)  
+- 9/17/2021 - [Easley Memorial](#21-68006) ([Results](#21-68006) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Draws</a>)  
 - 9/17/2021 - [Jersey Mike's Seahawk Fall Invitational](#21-41355) ([Results](#21-41355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/B5F60616-E79D-49E3-B226-EA1A8F6D19C9" target="_blank">Draws</a>)  
+- 9/17/2021 - [Lakes Tennis Club Invite](#21-22672) ([Results](#21-22672) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOklahomaM/Tournaments/Overview/C4392CA9-3D72-477E-9550-4FE92C5723E8" target="_blank">Draws</a>)  
 - 9/18/2021 - [Lehigh Men's Tennis Invite](#21-40280) ([Results](#21-40280) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityM/Tournaments/Overview/DC12F12F-6866-4F1B-A1DE-CB27F27A4E6F" target="_blank">Draws</a>)  
 - 9/17/2021 - [Men's Drake Invite](#21-75794) ([Results](#21-75794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/85AE0B8E-86E0-4EAE-A572-CE5DC0BA3FB7" target="_blank">Draws</a>)  
 - 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
 - 9/17/2021 - [OSU Invitational](#21-91661) ([Results](#21-91661) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityM/Tournaments/Overview/D4F405A0-9744-41D5-B40A-884B0F1AADEF" target="_blank">Draws</a>)  
 - 9/17/2021 - [Penn Invitational](#21-89457) ([Results](#21-89457) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/D340CAAE-2400-4107-B71A-028FCF6F67DA" target="_blank">Draws</a>)  
 - 9/17/2021 - [Purdue Fall Invitational](#21-96062) ([Results](#21-96062) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityM/Tournaments/Overview/64471B4A-D6CD-4810-BD4A-167F65AB8D67" target="_blank">Draws</a>)  
+- 9/17/2021 - [Samford Fall Invite #1](#21-35140) ([Results](#21-35140) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/33892848-1169-45C0-9F04-4F97158D4D11" target="_blank">Draws</a>)  
 - 9/17/2021 - [The Star Group Binghamton Championships](#21-12886) ([Results](#21-12886) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BinghamtonUniversitySUNYM/Tournaments/Overview/45217160-5C07-4F1E-8FB5-6C5FBC28805F" target="_blank">Draws</a>)  
 - 9/16/2021 - [BAC Invitational](#21-94974) ([Results](#21-94974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Men’s Atlantic ITA Regional Championships](#21-72013) ([Results](#21-72013) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/1612DF81-297F-4862-94B4-0C79FB985493" target="_blank">Draws</a>)  
@@ -29,9 +32,6 @@
 - 9/17/2021 - [Trinity Invitational](#21-44752) ([Results](#21-44752) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TrinityUniversityM/Tournaments/Overview/CC4630A5-B838-48AE-83FD-363FF44D005F" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Easley Memorial</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOklahomaM/Tournaments/Overview/C4392CA9-3D72-477E-9550-4FE92C5723E8" target="_blank">Lakes Tennis Club Invite</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/33892848-1169-45C0-9F04-4F97158D4D11" target="_blank">Samford Fall Invite #1</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
@@ -112,13 +112,38 @@
   Host: Univ. Of San Francisco (W)
 ═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
+ > Main Draw
+  > Main
+      F  Overbeck/Kikuchi     def.  Frye/Dostanic        83
+     SF  Frye/Dostanic        def.  Jordan/Tsorotiotis   81
+     SF  Overbeck/Kikuchi     def.  Smith/Eriksson Zive… 86
+     QF  Frye/Dostanic        def.  Maxted/Fearnley      81
+     QF  Jordan/Tsorotiotis   def.  Braswell/Ciamarra    86
+     QF  Overbeck/Kikuchi     def.  Arimilli/McDonald    87(3)
+     QF  Smith/Eriksson Zive… def.  Fomba/Ruehl          85
+     16  Frye/Dostanic        def.  Davies/Schaber       85
+     16  Maxted/Fearnley      def.  Huynh/Giraldez       82
+     16  Braswell/Ciamarra    def.  Rubell/Barretto      85
+     16  Jordan/Tsorotiotis   def.  Beiler/Anselmo       86
+     16  Arimilli/McDonald    def.  Rogers/Zeitvogel     84
+     16  Overbeck/Kikuchi     def.  Johnson/Gould        81
+     16  Fomba/Ruehl          def.  Hjorth/Magnaudet     85
+  > Consolation
+     SF  Davies/Schaber       def.  Beiler/Anselmo       87(6)
+     QQ  Davies/Schaber       def.  Huynh/Giraldez       84
+     QQ  Beiler/Anselmo       def.  Rubell/Barretto      86
+     QQ  Johnson/Gould        def.  Rogers/Zeitvogel     85
+ > Extra Matches
+  > Main
+     SF  Young/Beaty          def.  Rubell/Barretto      83
+     SF  Beiler/Anselmo       def.  Ilagan/Labrunie      87(7)
  > Qualifying
   > Main
-     QF  Hjorth/Magnaudet def.  Cigna/Salle     86
-     QF  Rubell/Barretto  def.  Ilagan/Labrunie 86
-     QF  Johnson/Gould    def.  Young/Beaty     84
+     QF  Hjorth/Magnaudet     def.  Cigna/Salle          86
+     QF  Rubell/Barretto      def.  Ilagan/Labrunie      86
+     QF  Johnson/Gould        def.  Young/Beaty          84
   > Consolation
-     SQ  Young/Beaty      def.  Ilagan/Labrunie 83
+     SQ  Young/Beaty          def.  Ilagan/Labrunie      83
 ~~~
 
 <a name="21-69307"></a>
@@ -310,6 +335,31 @@
      R1     Rengifo/Lobo         def.     Harris/Van Wyk       61
 ~~~
 
+<a name="21-68006"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Easley Memorial
+  Dates: Sep 17-19, 2021
+  Host: Univ. Of Nevada, Las Vegas (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+      F (3) Hollingworth/Trkulja def. (4) Mandma/Castro       86
+     SF (4) Mandma/Castro        def. (1) Smith/Inno          85
+     SF (3) Hollingworth/Trkulja def.     Mariano/Novak       86
+     QF (1) Smith/Inno           def.     Hann/Gomez Galvan   98(4)
+     QF (4) Mandma/Castro        def.     Bulus/Dabic         86
+     QF (3) Hollingworth/Trkulja def.     Grant/Van Zeggelaar 82
+     QF     Mariano/Novak        def. (2) Atherton/Sauer      86
+     16     Hann/Gomez Galvan    def.     Ciszewski/Garner    86
+     16     Bulus/Dabic          def.     Rudnicki/Delisle    84
+     16 (4) Mandma/Castro        def.     Brachman/Hoffmann   84
+     16 (3) Hollingworth/Trkulja def.     Blair/Scemanenco    84
+     16     Grant/Van Zeggelaar  def.     Navarro/Hambrook    82
+     16     Mariano/Novak        def.     Leather/Crookston   97
+~~~
+
 <a name="21-41355"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -341,6 +391,28 @@
      SF     Falck/De Felipe     def.     Rasamatov/Innocenti Walkover
   > 3-4 Playoff
       F     Theaker/Rogowski    def. (2) Lamas/Vargas        61
+~~~
+
+<a name="21-22672"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Lakes Tennis Club Invite
+  Dates: Sep 17-19, 2021
+  Host: University Of Oklahoma (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Day 2
+  > Main
+     R6  Muza/Han           def.  Barnett/Grear     86
+     R5  Schlageter/Hotard  def.  Salmon/Heap       83
+     R2  Neff/Thamma        def.  Ribero/Vittar     84
+     R2  Krall/Chakravarthi def.  Arevalo/Sekiguchi 87(5)
+ > Day 3
+  > Main
+     R3  Neff/Thamma        def.  Salmon/Heap       82
+     R3  Krall/Chakravarthi def.  Barnett/Grear     86
+     R2  Schlageter/Han     def.  Ribero/Arevalo    86
+     R2  Hotard/Muza        def.  Vittar/Sekiguchi  86
 ~~~
 
 <a name="21-40280"></a>
@@ -516,20 +588,52 @@
  Men's Open Doubles
  > Draw
   > Main
-     32  Bhatnagar/Sengul    def.  Mao/Sinha           64
-     32  Morgan/Eala         def.  Frumholz/Raquin     62
-     32  McCarthy/Paquette   def.  Bossem/Byers        63
-     32  Delmas/Gorregues    def.  Ctverak/Sato        62
-     32  Saadi/Janes         def.  Salgado/Zraidi      62
-     32  Sharma/Rozanov      def.  Hammitt/Jagtiani    63
-     32  Jesudason/De Soussa def.  Bickel/Suh          62
-     32  Fellows/Morgenstern def.  Janackovic/Radionov 65
-     32  Sanchez/Wogen       def.  Grande/Yang         60
-     32  Graziani/Zhu        def.  Antuna/Garcia       82
-     32  Parikh/Gupta        def.  Bhakar/de Camelis   86
-     32  Hildebrandt/Smith   def.  James/Gustavson     83
-     32  Lim/Sai             def.  Felcher/Loru        83
-     32  Goodman/Gangoli     def.  Kaneda/Mosejzcuk    81
+     32  Bhatnagar/Sengul     def.  Mao/Sinha           64
+     32  Morgan/Eala          def.  Frumholz/Raquin     62
+     32  McCarthy/Paquette    def.  Bossem/Byers        63
+     32  Delmas/Gorregues     def.  Ctverak/Sato        62
+     32  Saadi/Janes          def.  Salgado/Zraidi      62
+     32  Sharma/Rozanov       def.  Hammitt/Jagtiani    63
+     32  Jesudason/De Soussa  def.  Bickel/Suh          62
+     32  Fellows/Morgenstern  def.  Janackovic/Radionov 65
+     32  Sanchez/Wogen        def.  Grande/Yang         60
+     32  Graziani/Zhu         def.  Antuna/Garcia       82
+     32  Parikh/Gupta         def.  Bhakar/de Camelis   86
+     32  Hildebrandt/Smith    def.  James/Gustavson     83
+     32  Lim/Sai              def.  Felcher/Loru        83
+     32  Goodman/Gangoli      def.  Kaneda/Mosejzcuk    81
+ > Draw 2
+  > Main
+     32  Graziani/Zhu         def.  Bhatnagar/Sengul    64
+     32  Morgan/Eala          def.  Hildebrandt/Smith   64
+     32  Bossem/Byers         def.  Lim/Sai             64
+     32  Parikh/Gupta         def.  Saadi/Janes         75
+     32  Goodman/Gangoli      def.  Ctverak/Sato        63
+     32  Jesudason/De Soussa  def.  Bhakar/de Camelis   63
+     32  Antuna/Garcia        def.  Hammitt/Jagtiani    61
+     32  Loru/Gustavson       def.  Sanchez/Wogen       76
+     32  Janackovic/Radionov  def.  Felcher/James       63
+     32  Frumholz/Raquin      def.  Sharma/Rozanov      63
+     32  Mao/Sinha            def.  Fellows/Morgenstern 64
+     32  Delmas/Gorregues     def.  Bickel/Suh          64
+     32  McCarthy/Paquette    def.  Grande/Yang         63
+     32  Goodman/Smith        def.  Salgado/Zraidi      64
+ > Draw 3
+  > Main
+     32  Frumholz/Raquin      def.  Hildebrandt/Smith   62
+     32  Parikh/Gupta         def.  Delmas/Gorregues    61
+     32  Graziani/Zhu         def.  Mao/Sinha           64
+     32  Lim/Sai              def.  McCarthy/Paquette   62
+     32  Antuna/Garcia        def.  Sharma/Rozanov      61
+     32  de Camelis/Gustavson def.  Fellows/Morgenstern 63
+     32  Loru/James           def.  Bickel/Suh          76
+     32  Grande/Yang          def.  Kaneda/Felcher      64
+ > Draw 3.1
+  > Main
+     32  Bhatnagar/Sengul     def.  Hildebrandt/Smith   64
+     32  Morgan/Eala          def.  Hammitt/Jagtiani    64
+     32  Bossem/Byers         def.  Sanchez/Wogen       75
+     32  Ctverak/Sato         def.  Janackovic/Radionov 62
 ~~~
 
 <a name="21-96062"></a>
@@ -567,6 +671,39 @@
      16  Jankowski/Jochim    def.  Wassenaar/Tuff      61
      16  Minsaas/Gitschel    def.  Morehart/Benibo     63
      16  Kozerski/Bailey     def.  Moser/Sirinit       63
+~~~
+
+<a name="21-35140"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Samford Fall Invite #1
+  Dates: Sep 17-19, 2021
+  Host: Samford University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Day 1 Draw Doubles
+  > Main
+     16  Roumpis/Dun          def.  Spyropoulos/Puric    63
+     16  Vasquez/Podzemny     def.  Del Castillo/Castil… 76(4)
+     16  Patel/Conway         def.  Gray/Gooch           62
+     16  Tezuka/Botti         def.  Williams/Kiblinger   62
+     16  Jirapoomdaje/Reansu… def.  Suk/Amacher          64
+ > Day 2 Doubles
+  > Main
+      F  Gima/Audrain         def.  Gray/Gooch           75
+ > Day 3 Doubles
+  > Main
+     16  Roumpis/Dun          def.  Gray/Gooch           63
+     16  Patel/Conway         def.  Gima/Audrain         64
+     16  Spyropoulos/Puric    def.  Cahour/Nabiev        62
+     16  Tezuka/Botti         def.  Jirapoomdaje/Reansu… 62
+ > Extra matches day 1
+  > Main
+     SF  Roumpis/Dun          def.  Gima/Audrain         76(5)
+     SF  Cahour/Nabiev        def.  Del Castillo/Castil… 76(2)
+ > Extra matches
+  > Main
+      F  Gima/Audrain         def.  Vasquez/Podzemny     63
 ~~~
 
 <a name="21-12886"></a>

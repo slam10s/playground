@@ -24,6 +24,7 @@
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/1/2021 - [Ragin' Cajun Classic](#21-46636) ([Results](#21-46636) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Draws</a>)  
 - 10/1/2021 - [Rocket Invite](#21-47919) ([Results](#21-47919) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1048F1D3-F372-4A0C-9A4A-3F0D57040FE9" target="_blank">Draws</a>)  
+- 10/1/2021 - [Saint Mary's Fall Invite](#21-32888) ([Results](#21-32888) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Draws</a>)  
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [UH Fall Invitational](#21-25235) ([Results](#21-25235) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHoustonW/Tournaments/Overview/81CEAFCF-07E3-42B0-BDDF-CB7D5F8E881B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Utah Invite](#21-47623) ([Results](#21-47623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahW/Tournaments/Overview/7AF1E32C-8707-429F-A3C2-89B494D4EF50" target="_blank">Draws</a>)  
@@ -42,7 +43,6 @@
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
@@ -117,6 +117,15 @@
      16      Ganesan/Popma        def.      Andres/Dukic         81
      16      Ali/Schoenly         def.      Morgoshia/Borodina   80
      32      Vichare/Brichackova  def.      Rakita/Dimitriev     84
+ > Consolation Doubles
+  > Main
+     64      Kuszynski/Tallamraju def.      Czerwonka/Czerwonka  81
+     64      Ali/Schoenly         def.      Poppe/Fuentes        80
+     64      Kojcic/Turconi       def.      Abreu/Damnjanovic    86
+     64      Tabanera/Schoolcraft def.      Brodin/Fitzgerald    65 Ret.
+     64      Tsadari/Neuman       def.      Popovic/Weise        85
+     64      Ganesan/Popma        def.      Iglesias/Vetter      83
+     64      Lazic/Rabjohns       def.      Ali/Bereznyak        85
 ~~~
 
 <a name="21-22872"></a>
@@ -1398,6 +1407,90 @@
      QF  Panta/Morera         def.  Marcus/Novak         61
 ~~~
 
+<a name="21-32888"></a>
+~~~
+═════════════════════════════════════════════════════════════════
+  Saint Mary's Fall Invite
+  Dates: Oct 1-3, 2021
+  Host: Saint Mary's College/CA (W)
+═════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > Main
+      F  Colyer/Martinez Vaq… def.  Rosenqvist/Thiel     86
+     SF  Rosenqvist/Thiel     def.  Jittakoat/Ahmed      83
+     SF  Colyer/Martinez Vaq… def.  Kalinic/Gordon       84
+     QF  Rosenqvist/Thiel     def.  Ecton/Derivan        83
+     QF  Jittakoat/Ahmed      def.  Harris/Silva         84
+     QF  Colyer/Martinez Vaq… def.  Maunupau/Maunupau    83
+     QF  Kalinic/Gordon       def.  Magrini/Piferi       87(7)
+     16  Rosenqvist/Thiel     def.  Schwartzberg/Tsukam… 83
+     16  Ecton/Derivan        def.  Carmichael/Sam       84
+     16  Jittakoat/Ahmed      def.  Mushika/Hayes        83
+     16  Harris/Silva         def.  Ferreros/Tagaloa     83
+     16  Colyer/Martinez Vaq… def.  Zamora/Ruja          83
+     16  Maunupau/Maunupau    def.  Brown/Richardson     87(3)
+     16  Kalinic/Gordon       def.  Ronney/Rook          87(8)
+     16  Magrini/Piferi       def.  Forster/Pozo         87(5)
+  > Consolation
+      F  Schwartzberg/Tsukam… def.  Brown/Richardson     85
+     SF  Schwartzberg/Tsukam… def.  Mushika/Hayes        87(2)
+     SF  Brown/Richardson     def.  Ronney/Rook          85
+     QQ  Schwartzberg/Tsukam… def.  Carmichael/Sam       84
+     QQ  Mushika/Hayes        def.  Ferreros/Tagaloa     86
+     QQ  Brown/Richardson     def.  Zamora/Ruja          86
+     QQ  Ronney/Rook          def.  Forster/Pozo         87(5)
+ > Flight B
+  > Main
+      F  Stavropoulos/Gurevi… def.  Courtney/Chhabra     83
+     SF  Stavropoulos/Gurevi… def.  Puzak/Tokac          83
+     SF  Courtney/Chhabra     def.  Schroer/Zlotnik      81
+     QF  Puzak/Tokac          def.  Massey/Tevez         86
+     QF  Stavropoulos/Gurevi… def.  Bates/Dunkle         86
+     QF  Schroer/Zlotnik      def.  Hovda/Pieters        87(1)
+     QF  Courtney/Chhabra     def.  Stanojevic/Balzert   82
+     16  Puzak/Tokac          def.  Gamracy/Yue          82
+     16  Stavropoulos/Gurevi… def.  Alter/Johnson        84
+     16  Bates/Dunkle         def.  Husrefovic/Hummel    83
+     16  Schroer/Zlotnik      def.  Yotova/Ejsmont       80
+     16  Hovda/Pieters        def.  Brilhante/Clydesdal… 85
+     16  Courtney/Chhabra     def.  Zell/Evloeva         87(11)
+     16  Stanojevic/Balzert   def.  Marzano/Flaquer      85
+  > Consolation
+      F  Alter/Johnson        def.  Brilhante/Clydesdal… 87(5)
+     SF  Alter/Johnson        def.  Gamracy/Yue          83
+     SF  Brilhante/Clydesdal… def.  Marzano/Flaquer      87(3)
+     QQ  Alter/Johnson        def.  Husrefovic/Hummel    87(4)
+     QQ  Brilhante/Clydesdal… def.  Yotova/Ejsmont       82
+     QQ  Marzano/Flaquer      def.  Zell/Evloeva         81
+ > Flight C
+  > Main
+     R3  Feng/Hayer           def.  Page/Galerkin        86
+     R3  Du Toit/McSkimming   def.  Berry/Wiese          85
+     R2  Feng/Hayer           def.  Berry/Wiese          81
+     R2  Page/Galerkin        def.  Du Toit/McSkimming   87(6)
+     R1  Page/Galerkin        def.  Berry/Wiese          83
+     R1  Feng/Hayer           def.  Du Toit/McSkimming   82
+ > Saturday Bonus Matches
+  > Main
+     QF  Ecton/Derivan        def.  Magrini/Piferi       76(4)
+     QF  Bates/Dunkle         def.  Zamora/Ruja          64
+     QF  Maunupau/Maunupau    def.  Ferreros/Tagaloa     64
+     QF  Husrefovic/Hummel    def.  Yotova/Ejsmont       75
+ > Sunday Bonus Matches
+  > Main
+     QF  Kalinic/Gordon       def.  Marzano/Flaquer      83
+     QF  Magrini/Piferi       def.  Ferreros/Tagaloa     82
+     QF  Schroer/Zlotnik      def.  Carmichael/Sam       86
+ > Sat/Sun Bonus Matches
+  > Main
+     16  Silva/Hovda          def.  Carmichael/Sam       62
+     16  Harris/Massey        def.  Forster/Pozo         63
+     16  Stanojevic/Balzert   def.  Tevez/Pieters        62
+     16  Ellis/Hummel         def.  Feng/Hayer           86
+     16  Zamora/Wiese         def.  McSkimming/Ejsmont   86
+~~~
+
 <a name="21-09694"></a>
 ~~~
 ═══════════════════════════════════════════════════════════
@@ -1550,7 +1643,7 @@
      R1  Gisclon/Lemonds      def.  Hamilton/Zieglar   75
      R1  Turkovic/Jankowski   def.  Cruz/Malkin        62
      R1  Mills/Tulenko        def.  Freeman/Lilien     63
-     R1  Bereznyak/Marzal     def.  Brown/Cerdan       63
+     R1  Brown/Cerdan         def.  Bereznyak/Marzal   63
      R1  Fliegner/Hammond     def.  Atway/Ali          61
      R1  Kelly/Craciun        def.  Coleman/Bellia     63
  > Sunday Doubles

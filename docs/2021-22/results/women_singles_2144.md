@@ -12,8 +12,10 @@
 - 11/5/2021 - [Jack Kramer Invitational](#21-11431) ([Results](#21-11431) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/EBFDB9EE-65DF-40EA-8395-B821B7EA07B0" target="_blank">Draws</a>)  
 - 11/5/2021 - [John Cade Invitational](#21-78019) ([Results](#21-78019) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivW/Tournaments/Overview/E7E24596-5A63-454E-9711-8B3FDC25E020" target="_blank">Draws</a>)  
 - 11/5/2021 - [Mean Green Invite](#21-18352) ([Results](#21-18352) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthTexasW/Tournaments/Overview/EF6FA1CB-A90F-4BA0-B5BD-1D5B642D3C48" target="_blank">Draws</a>)  
+- 11/5/2021 - [Miami Fall Invite](#21-88258) ([Results](#21-88258) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMiamiW/Tournaments/Overview/E7F97784-0CD7-4253-8BB3-955C95162E60" target="_blank">Draws</a>)  
 - 11/5/2021 - [Ragin' Cajun Invitational](#21-05390) ([Results](#21-05390) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/13357FE4-447E-4166-A5B8-AA4028AFC248" target="_blank">Draws</a>)  
 - 11/5/2021 - [San Diego Veterans Tennis Classic](#21-91602) ([Results](#21-91602) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">Draws</a>)  
+- 11/5/2021 - [SCU/SJSU Invitational](#21-98128) ([Results](#21-98128) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SantaClaraUniversityW/Tournaments/Overview/BBE3EA3C-9201-43BE-AD2E-553A4B616F3C" target="_blank">Draws</a>)  
 - 11/5/2021 - [Seahawk Ocean Classic](#21-51929) ([Results](#21-51929) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonW/Tournaments/Overview/FE307133-DF38-4D97-8DE6-D59D765D1738" target="_blank">Draws</a>)  
 - 11/5/2021 - [Southern Conference Men's & Women's Fall Tennis Championships](#21-32980) ([Results](#21-32980) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3BD3D9A3-1CE7-4BB9-93E6-7D1ECED07DFE" target="_blank">Draws</a>)  
 - 11/5/2021 - [Stetson Invite #2](#21-71023) ([Results](#21-71023) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Draws</a>)  
@@ -21,8 +23,6 @@
 
 **Tournaments without Matches**  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityW/Tournaments/Overview/F28FCCEF-4BC1-4442-AA94-59500ADE80D8" target="_blank">Gonzaga Invite</a>  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMiamiW/Tournaments/Overview/E7F97784-0CD7-4253-8BB3-955C95162E60" target="_blank">Miami Fall Invite</a>  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SantaClaraUniversityW/Tournaments/Overview/BBE3EA3C-9201-43BE-AD2E-553A4B616F3C" target="_blank">SCU/SJSU Invitational</a>  
 - 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityAtBuffaloSUNYW/Tournaments/Overview/B0B719F8-A62E-4D29-A341-820B59C4A6C8" target="_blank">UB Fall Invite</a>  
 
 <a name="21-50924"></a>
@@ -520,7 +520,7 @@
  > BU vs Wisconsin
   > Main
      16  Ava Markham         def.  Erica Di Battista   62 63
-     16  Denise Stoica       def.  Michelle Kleynerman 63 76(4)
+     16  Michelle Kleynerman def.  Denise Stoica       63 76(4)
      16  Victoria Carlsten   def.  Taylor Cataldi      16 62 [10]
      16  Shelly Yaloz        def.  Ariel Johnson       64 63
      16  Nastasya Semenovski def.  Emily Kim           64 63
@@ -599,11 +599,11 @@
 
 <a name="21-11431"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   Jack Kramer Invitational
   Dates: Nov 5-7, 2021
   Host: ITA
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Draw
   > Main
@@ -637,6 +637,22 @@
      32     Vanesa Nikolovova    def. (8) Taylor Johnson       63 16 62
      32     Kayla Wilkins        def.     Eira Tobrand         26 62 64
      32 (2) Savannah Broadus     def.     Emily Ackerman       46 76(4) 60
+ > Women's 2nd Singles
+  > Main
+     16     Gabrielle Lee        def.     Melissa LaMette      76(5) 64
+     16     McKenna Koenig       def.     Midori Castillo      36 63 [6]
+     16     Carolina Piferi      def.     YuSeung Suh          76(3) 46 [3]
+     16     Emily Ackerman       def.     Eira Tobrand         26 75 [6]
+     16     Kimberley Bhunu      def.     Matilde Magrini      61 60
+     16     Eva Marie Voracek    def.     Ann-Cathrin Hummel   76(5) 61
+ > Women's 3rd Singles
+  > Main
+     16     Eira Tobrand         def.     Carolina Piferi      57 64 [6]
+     16     Natalie Duffy        def.     Ann-Cathrin Hummel   64 64
+     16     YuSeung Suh          def.     Matilde Magrini      46 63 [7]
+     16     Yinglak Jittakoat    def.     Kayla Wilkins        57 64 [6]
+     16     Parker Fry           def.     Laura Bente          64 46 [8]
+     16     Kimberley Bhunu      def.     Midori Castillo      64 62
 ~~~
 
 <a name="21-78019"></a>
@@ -822,6 +838,70 @@
      16  Carla Pons           def.  Likhitha Kalava    64 75
 ~~~
 
+<a name="21-88258"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  Miami Fall Invite
+  Dates: Nov 5-7, 2021
+  Host: University Of Miami (W)
+══════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Duke/Miami
+  > Main
+     QF  Chloe Beck          def.  Isabella Pfennig  76 60
+     QF  Daevenia Achong     def.  Georgia Drummy    62 62
+     QF  Kelly Chen          def.  Eden Richardson   64 63
+     QF  Audrey Boch-Collins def.  Margaryta Bilokin 64 62
+ > Columbia/Miami
+  > Main
+     QF  Diana Khodan        def.  Julia Haynes      62 64
+     QF  Shivani Amineni     def.  Nada Dimovska     36 63 63
+     QF  Maya Tahan          def.  Rachele Rimondini 62 75
+ > Barry/Kentucky
+  > Main
+     QF  Carlota Molina      def.  Jil Engelmann     64 63
+     QF  Carla Girbau        def.  Madeline Bosnjak  63 62
+     QF  Florencia Urrutia   def.  Kim Moosbacher    60 64
+ > Columbia/Kentucky
+  > Main
+     16  Akanksha Bhan       def.  Elizabeth Stevens 75 63
+     16  Fiona Arrese        def.  Anna Zhang        63 63
+     16  Lidia Gonzalez      def.  Sasha Wood        64 64
+     16  Jennifer Kerr       def.  Carla Girbau      63 26 61
+     16  Florencia Urrutia   def.  Clarine Lerby     60 30 Ret.
+ > Barry/Columbia
+  > Main
+     QF  Jennifer Kerr       def.  Daniela Farfan    64 26 64
+     QF  Melissa Sakar       def.  Clara Versier     62 61
+     QF  Sophia Strugnell    def.  Ajda Bukovec      63 63
+ > Columbia/Duke
+  > Main
+     SF  Margaryta Bilokin   def.  Anna Zhang        61 62
+     SF  Akanksha Bhan       def.  Georgia Drummy    64 36 76(1)
+ > Duke/Kentucky
+  > Main
+     SF  Chloe Beck          def.  Carlota Molina    60 62
+     SF  Kelly Chen          def.  Elizabeth Stevens 63 61
+ > Barry/Miami
+  > Main
+     16  Daevenia Achong     def.  Deniz Khazan      75 62
+     16  Isabella Pfennig    def.  Jil Engelmann     64 75
+     16  Eden Richardson     def.  Madeline Bosnjak  61 64
+     16  Diana Khodan        def.  Kim Moosbacher    46 62 64
+     16  Audrey Boch-Collins def.  Daniela Farfan    63 62
+     16  Maya Tahan          def.  Clara Versier     63 62
+     16  Nada Dimovska       def.  Ajda Bukovec      61 61
+ > Extras 1
+  > Main
+     QF  Julia Haynes        def.  Nada Dimovska     63 62
+     QF  Melissa Sakar       def.  Fiona Arrese      61 64
+     QF  Lidia Gonzalez      def.  Shivani Amineni   64 62
+     QF  Clarine Lerby       def.  Maya Tahan        26 64 62
+ > Extras 2
+  > Main
+      F  Rachele Rimondini   def.  Nada Dimovska     61 75
+~~~
+
 <a name="21-05390"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -931,6 +1011,91 @@
      16  Cecile Morin         def.  Anthea Weiland    62 60
      16  Alexandria Von Ters… def.  Liza Hinrichs     61 60
      16  Agustina Rimoldi Go… def.  Milana Hrudka     60 60
+~~~
+
+<a name="21-98128"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  SCU/SJSU Invitational
+  Dates: Nov 5-7, 2021
+  Host: Santa Clara University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Friday
+  > Main
+     64  Caragh Courtney      def.  Anastasia Luneva     60 62
+     64  Simran Chhabra       def.  Milka Genkova        75 64
+     64  Mya Bui              def.  Carla Del Barrio     60 75
+     64  Selina Turulja       def.  Alicia Yue           63 61
+     64  Hana Gamracy         def.  Mathilde Sarcelet    62 64
+     64  Azaria Hayes         def.  Lindsey Pesqueira    62 64
+     64  Finley Kalinic       def.  Jolene Coetzee       26 64 61
+     64  Jamie Schroer        def.  Ana Isabel Fraile T… 64 62
+     64  Magdalena Hedrzak    def.  Jenna Gordon         63 64
+     64  Velizara Fileva      def.  Jenna Dorian         62 62
+     64  Katherine Petty      def.  Victoria Santibanez… 62 36 62
+     64  Giulia Hayer         def.  Jacqueline ONeill    62 Ret.
+     64  Oleksandra Andrieie… def.  Julia Ronney         75 60
+     64  Alba Pedrero Galindo def.  Jordan Harris        64 64
+     64  Lene Hovda           def.  Lara Marco Mas       63 61
+     64  Irena Muradyan       def.  Jocelyn Massey       64 64
+     64  Jovana Babic         def.  Gabriela Tevez       62 62
+     64  Olivia Rook          def.  Olaya Bances Iglesi… 75 63
+     64  Klara Kosan          def.  Sofia Ragona         63 46 63
+     64  MiaAngelina Ruja     def.  Maria Vittoria Casu… 75 60
+     64  Danielle Zamora      def.  Erica Hellbe         62 61
+     64  Julia Ortega         def.  Cindy Ung            75 62
+     64  Megan Carmichael     def.  Paulina Alvarez      76(4) 64
+     64  Varya Zlotnik        def.  Olivia Wiese         76(4) 63
+     64  Zoe Clydesdale-Eber… def.  Yun Nicole Shiau     64 63
+ > Saturday
+  > Main
+     64  Jenna Gordon         def.  Anastasia Luneva     63 36 62
+     64  Velizara Fileva      def.  Milka Genkova        46 75 64
+     64  Jamie Schroer        def.  Selina Turulja       62 64
+     64  Katherine Petty      def.  Carla Del Barrio     62 64
+     64  Giulia Hayer         def.  Mathilde Sarcelet    64 62
+     64  Olaya Bances Iglesi… def.  Varya Zlotnik        76(4) 76(5)
+     64  Jocelyn Massey       def.  Erica Hellbe         61 60
+     64  Lene Hovda           def.  Maria Vittoria Casu… 62 61
+     64  Gabriela Tevez       def.  Julia Ortega         61 26 64
+     64  Olivia Rook          def.  Paulina Alvarez      61 60
+     64  Stefanie Silva       def.  Lindsey Pesqueira    61 36 63
+     64  Alba Pedrero Galindo def.  Jolene Coetzee       62 76(8)
+     64  Ana Isabel Fraile T… def.  Irena Muradyan       62 63
+     64  Rozalina Youseva     def.  Magdalena Hedrzak    63 62
+     64  Raquel Villan Perei… def.  Jenna Dorian         64 76(4)
+     64  Klara Kosan          def.  Caragh Courtney      63 62
+     64  Rita Colyer          def.  Zoe Clydesdale-Eber… 61 36 62
+     64  Hana Gamracy         def.  Danielle Zamora      61 62
+     64  Alicia Yue           def.  Ella LeRoy           63 64
+     64  Azaria Hayes         def.  Maile Brilhante      64 64
+     64  Megan Carmichael     def.  Qianer Qiu           61 41 Ret.
+     64  Jordan Harris        def.  Yun Nicole Shiau     60 61
+ > Sunday
+  > Main
+     64  Chiho Mushika        def.  Lara Marco Mas       75 61
+     64  Irena Muradyan       def.  Azaria Hayes         62 75
+     64  Maria Martinez Vaqu… def.  Oleksandra Andrieie… 26 76(5) [5]
+     64  Raquel Villan Perei… def.  Hana Gamracy         64 75
+     64  Alba Pedrero Galindo def.  Rita Colyer          62 64
+     64  Jovana Babic         def.  Alicia Yue           63 61
+     64  Anastasia Luneva     def.  Lene Hovda           26 62 64
+     64  Jocelyn Massey       def.  Milka Genkova        61 61
+     64  Carla Del Barrio     def.  Gabriela Tevez       64 06 64
+     64  Olivia Rook          def.  Selina Turulja       62 61
+     64  Stefanie Silva       def.  Mathilde Sarcelet    62 60
+     64  Ana Isabel Fraile T… def.  Maria Vittoria Casu… 62 64
+     64  Magdalena Hedrzak    def.  Erica Hellbe         61 60
+     64  Kacey Feng           def.  Paulina Alvarez      62 63
+     64  Jenna Dorian         def.  Varya Zlotnik        61 63
+     64  Finley Kalinic       def.  Klara Kosan          62 76(5)
+     64  Jenna Gordon         def.  Danielle Zamora      64 76(4)
+     64  Giulia Hayer         def.  Ella LeRoy           63 60
+     64  MiaAngelina Ruja     def.  Jamie Schroer        64 26 64
+     64  Velizara Fileva      def.  Zoe Clydesdale-Eber… 64 76(8)
+     64  Megan Carmichael     def.  Katherine Petty      16 64 62
+     64  Jolene Coetzee       def.  Yun Nicole Shiau     26 64 [4]
 ~~~
 
 <a name="21-51929"></a>

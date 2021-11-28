@@ -3,6 +3,7 @@
 **Tournamets with Matches**  
 - 11/5/2021 - [Big 12 Individuals](#21-20291) ([Results](#21-20291) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityM/Tournaments/Overview/E0ED1E84-1CD4-4CE2-BFCD-F695030458D5" target="_blank">Draws</a>)  
 - 11/4/2021 - [Big Ten Indoors](#21-98150) ([Results](#21-98150) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/DD67ADCD-C4E7-4314-A846-4FCDAD89FABC" target="_blank">Draws</a>)  
+- 11/5/2021 - [CCB Collegiate Invite hosted by Samford University](#21-28912) ([Results](#21-28912) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/9FFB9E4B-F5D2-482B-9395-1971FCF5B506" target="_blank">Draws</a>)  
 - 11/5/2021 - [Clemson Hidden Duals](#21-14095) ([Results](#21-14095) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/22A40DEC-6CB7-4C7E-841A-7CC786AEE57F" target="_blank">Draws</a>)  
 - 11/5/2021 - [FGCU Collegiate Open](#21-07533) ([Results](#21-07533) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaGulfCoastUniversityM/Tournaments/Overview/C591B082-DA9F-4F69-A567-2A370930F114" target="_blank">Draws</a>)  
 - 11/5/2021 - [GT Invitational](#21-32736) ([Results](#21-32736) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaTechM/Tournaments/Overview/E04A8772-9C21-4B5A-B6E0-55C939AC5A86" target="_blank">Draws</a>)  
@@ -18,9 +19,6 @@
 - 11/5/2021 - [Wake Forest Invite](#21-91916) ([Results](#21-91916) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityM/Tournaments/Overview/CDBF110F-C481-4F40-9B58-54D68D17F9A2" target="_blank">Draws</a>)  
 - 11/5/2021 - [Yale Invitational](#21-31162) ([Results](#21-31162) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityM/Tournaments/Overview/5278617F-5593-42A8-B7B3-52F442BE8917" target="_blank">Draws</a>)  
 - 11/6/2021 - [Buccaneers Invitational](#21-92061) ([Results](#21-92061) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BarryUniversityM/Tournaments/Overview/66BDBB63-461D-4097-ACA4-DB44D0B1C672" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/9FFB9E4B-F5D2-482B-9395-1971FCF5B506" target="_blank">CCB Collegiate Invite hosted by Samford University</a>  
 
 <a name="21-20291"></a>
 ~~~
@@ -137,7 +135,7 @@
       64  Ilya Tiraspolsky     def.  Jared Pratt          64 62
       64  Max Sheldon          def.  Nick Beaty           62 64
       64  Kweisi Kenyatte      def.  Milledge Cossu       62 60
-      64  Steven Forman        def.  Michael Andre        61 62
+      64  Steven Forman        def.  Michael Andre        76(6) 46 [1]
       64  Andrew Lutschaunig   def.  Jack Winkler         62 63
       64  Presley Thieneman    def.  Luka Vukovic         61 57 [4]
       64  Nic Meister          def.  Natan Spear          26 61 [9]
@@ -206,6 +204,131 @@
      128  Phillip Bengtsson    def.  Sebastian Welch      63 76(5)
      128  Patrick Fletchall    def.  Nick Williams        76(5) 64
      128  Carson Haskins       def.  Josh Portnoy         62 60
+~~~
+
+<a name="21-28912"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  CCB Collegiate Invite hosted by Samford University
+  Dates: Nov 5-7, 2021
+  Host: Samford University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > East
+      F  Fynn Kuenkler        def.  Louis Delcour        60 62
+     SF  Louis Delcour        def.  Charlie Barry        63 62
+     SF  Fynn Kuenkler        def.  Mohamed Ali Bellalo… 61 61
+     QF  Charlie Barry        def.  Jim Hendrikx         64 36 61
+     QF  Louis Delcour        def.  Karlo Kajin          46 63 63
+     QF  Fynn Kuenkler        def.  Oriol Fillat Gimenez 64 63
+     QF  Mohamed Ali Bellalo… def.  Rafael De Alba       64 63
+     16  Jim Hendrikx         def.  Jack Batchelor       60 62
+     16  Charlie Barry        def.  Alex Mesquida        60 64
+     16  Karlo Kajin          def.  Omar Morsy           60 61
+     16  Louis Delcour        def.  Nikola Puric         63 62
+     16  Fynn Kuenkler        def.  Sebastien Collard    61 62
+     16  Oriol Fillat Gimenez def.  Cole Groetsch        63 61
+     16  Mohamed Ali Bellalo… def.  Ricardo Machado      63 64
+     16  Rafael De Alba       def.  Gonzalo Garcia-Nieto 76(3) 63
+  > West
+      F  Sebastien Collard    def.  Alex Mesquida        61 62
+     SF  Alex Mesquida        def.  Omar Morsy           57 62 [6]
+     SF  Sebastien Collard    def.  Ricardo Machado      60 60
+     QF  Alex Mesquida        def.  Jack Batchelor       63 62
+     QF  Omar Morsy           def.  Nikola Puric         61 60
+     QF  Sebastien Collard    def.  Cole Groetsch        60 63
+     QF  Ricardo Machado      def.  Gonzalo Garcia-Nieto 36 63 [8]
+  > North
+      F  Karlo Kajin          def.  Rafael De Alba       62 Ret.
+     SF  Karlo Kajin          def.  Jim Hendrikx         Walkover
+     SF  Rafael De Alba       def.  Oriol Fillat Gimenez 67(3) 61 [7]
+  > 3-4 Playoff
+      F  Charlie Barry        def.  Mohamed Ali Bellalo… 61 62
+  > South
+      F  Gonzalo Garcia-Nieto def.  Nikola Puric         62 75
+     SF  Nikola Puric         def.  Jack Batchelor       36 75 [11]
+     SF  Gonzalo Garcia-Nieto def.  Cole Groetsch        62 61
+ > Flight B
+  > East
+      F  Luka Petrovic        def.  Luc Hoeijmans        67(6) 60 61
+     SF  Luc Hoeijmans        def.  Calin Postea         64 75
+     SF  Luka Petrovic        def.  Maxime St-Hilaire    60 75
+     QF  Luc Hoeijmans        def.  Will Gray            61 20 Ret.
+     QF  Calin Postea         def.  Jack Clements        76(4) 62
+     QF  Luka Petrovic        def.  JB Pickard           63 63
+     QF  Maxime St-Hilaire    def.  Vasil Dimitrov       64 57 75
+     16  Luc Hoeijmans        def.  Carlos Salas Tulla   62 61
+     16  Will Gray            def.  Piyush Salekar       75 26 63
+     16  Calin Postea         def.  Simeon Kostov        62 64
+     16  Jack Clements        def.  Pavle Drobnjakovic   75 62
+     16  Luka Petrovic        def.  Nicola Weherle       62 60
+     16  JB Pickard           def.  Paul Reynolds        36 62 64
+     16  Vasil Dimitrov       def.  Vojtech Podzemny     62 26 63
+     16  Maxime St-Hilaire    def.  Harrison Williams    62 60
+  > West
+      F  Vojtech Podzemny     def.  Carlos Salas Tulla   76(5) 63
+     SF  Carlos Salas Tulla   def.  Simeon Kostov        63 76(4)
+     SF  Vojtech Podzemny     def.  Nicola Weherle       63 60
+     QF  Carlos Salas Tulla   def.  Piyush Salekar       62 06 [4]
+     QF  Simeon Kostov        def.  Pavle Drobnjakovic   63 61
+     QF  Nicola Weherle       def.  Paul Reynolds        64 62
+     QF  Vojtech Podzemny     def.  Harrison Williams    61 64
+  > North
+      F  Vasil Dimitrov       def.  Jack Clements        Walkover
+     SF  Jack Clements        def.  Will Gray            Walkover
+     SF  Vasil Dimitrov       def.  JB Pickard           64 64
+  > 3-4 Playoff
+      F  Maxime St-Hilaire    def.  Calin Postea         62 64
+  > South
+     SF  Piyush Salekar       def.  Paul Reynolds        64 62
+     SF  Pavle Drobnjakovic   def.  Harrison Williams    57 62 [4]
+  > Southwest
+      F  Simeon Kostov        def.  Nicola Weherle       63 63
+ > Flight C
+  > East
+      F  Alejandro Sanchez G… def.  Alejo Ferrer Chueca  61 62
+     SF  Alejandro Sanchez G… def.  Alex Bancila         46 63 75
+     SF  Alejo Ferrer Chueca  def.  Antoine Martin-Thir… 63 63
+     QF  Alex Bancila         def.  Ben Kiblinger        64 46 60
+     QF  Alejandro Sanchez G… def.  Martin Vasquez       63 62
+     QF  Antoine Martin-Thir… def.  Benji Jacobson       36 75 63
+     QF  Alejo Ferrer Chueca  def.  Emil Berglund        62 63
+     16  Alex Bancila         def.  Philip Bosman        62 61
+     16  Ben Kiblinger        def.  Adam Larsen          63 63
+     16  Martin Vasquez       def.  Timothy Dixon        64 60
+     16  Alejandro Sanchez G… def.  Xavier Ecarma        75 61
+     16  Benji Jacobson       def.  Parker Bradbary      62 62
+     16  Antoine Martin-Thir… def.  Michael Staff        62 63
+     16  Emil Berglund        def.  Matthew Gooch        64 61
+     16  Alejo Ferrer Chueca  def.  David Skrabut        62 64
+  > West
+      F  David Skrabut        def.  Xavier Ecarma        64 62
+     SF  Xavier Ecarma        def.  Philip Bosman        Walkover
+     SF  David Skrabut        def.  Michael Staff        46 62 [9]
+     QF  Philip Bosman        def.  Adam Larsen          63 75
+     QF  Xavier Ecarma        def.  Timothy Dixon        61 62
+     QF  Michael Staff        def.  Parker Bradbary      63 26 [4]
+     QF  David Skrabut        def.  Matthew Gooch        36 62 [8]
+  > North
+      F  Benji Jacobson       def.  Ben Kiblinger        62 64
+     SF  Ben Kiblinger        def.  Martin Vasquez       62 63
+     SF  Benji Jacobson       def.  Emil Berglund        75 64
+  > 3-4 Playoff
+      F  Alex Bancila         def.  Antoine Martin-Thir… 61 75
+  > South
+     SF  Matthew Gooch        def.  Parker Bradbary      62 63
+  > Southwest
+      F  Michael Staff        def.  Philip Bosman        Walkover
+  > Northwest
+      F  Martin Vasquez       def.  Emil Berglund        61 36 [7]
+ > Extra Matches Draw
+  > Main
+     16  Piyush Salekar       def.  Harrison Williams    63 64
+     16  Jack Batchelor       def.  Ricardo Machado      64 62
+     16  Oriol Fillat Gimenez def.  JB Pickard           61 62
+     16  Pavle Drobnjakovic   def.  Paul Reynolds        36 63 [4]
+     16  Parker Bradbary      def.  Timothy Dixon        62 63
 ~~~
 
 <a name="21-14095"></a>
@@ -464,6 +587,21 @@
      32 (8) Carlos Hassey        def.     Jesper Klov-Nilsson  36 76(1) 64
      32     Johannes Seeman      def.     Paul Barretto        62 63
      32 (2) Joshua Charlton      def.     GIanluca Brunkow     63 67(5) 64
+ > Men's 2nd Singles
+  > Main
+     32     Jesper Klov-Nilsson  def.     Noah Berry           46 62 [9]
+     32     Jeffrey Fradkin      def.     Joseph Leather       16 61 62
+     32     Ian Esses            def.     Blaine Hovenier      61 60
+     32     GIanluca Brunkow     def.     Lincoln Bellamy      60 60
+     32     Kai Brady            def.     Maximilian Wild      64 46 [7]
+     32     Karl Lee             def.     Alex Stater          64 76(5)
+ > Men's 3rd singles
+  > Main
+     16     Filip Malbasic       def.     Jeffrey Fradkin      63 46 [5]
+     16     Joseph Leather       def.     Conner Olsen         64 75
+     16     Jett Middleton       def.     Colter Smith         75 63
+     16     Carlos Hassey        def.     Blaine Hovenier      63 64
+     16     Alex Stater          def.     Jesper Klov-Nilsson  75 64
 ~~~
 
 <a name="21-62931"></a>
@@ -894,15 +1032,15 @@
   > Main
      32  JC Roddick           def.  Antonio Muniz-Hidal… 67(6) 64 63
      32  Leyton Cronje        def.  Ivan Yatsuk          61 64
-     32  Carles Sarrio        def.  Bruno Oliveira       61 62
+     32  Carles Sarrio        def.  Munuel Goncalves     61 62
      32  Alvin Tudorica       def.  Cooper White         63 36 62
-     32  Filip Krolo          def.  Quinn Synder         60 62
-     32  Kevin Huempfner      def.  Munuel Goncalves     64 60
+     32  Nicolas Jadoun       def.  Quinn Synder         61 62
+     32  Kevin Huempfner      def.  Bruno Oliveira       64 60
      32  Joshua Dous Karpens… def.  Enzo Aguiard         63 64
      32  Joao Ferreira        def.  John Bernard         62 63
      32  Alex Bulte           def.  Rudi Christiansen    64 67(7) 62
-     32  Sandeep Mohandoss    def.  Nicolas Jadoun       63 76(8)
-     32  Tom Pisane           def.  Alvaro Fernandez Ho… 62 60
+     32  Filip Krolo          def.  Tom Pisane           62 60
+     32  Sandeep Mohandoss    def.  Gabriel Diaz         63 76(8)
      32  Maks Silagy          def.  Patrick Kaukovalta   50 Ret.
  > Sunday Morning
   > Main
@@ -913,8 +1051,8 @@
      32  Joao Ferreira        def.  Ivan Yatsuk          76(1) 26 62
      32  Rudi Christiansen    def.  Tom Pisane           63 46 60
      32  Chase Ferguson       def.  Carles Sarrio        63 62
-     32  Antonio Muniz-Hidal… def.  Alvaro Fernandez Ho… 64 57 64
-     32  Joshua Dous Karpens… def.  Kevin Huempfner      63 67(5) 63
+     32  Joshua Dous Karpens… def.  Alvaro Fernandez Ho… 63 67(5) 63
+     32  Kevin Huempfner      def.  Antonio Muniz-Hidal… 64 57 64
      32  John Bernard         def.  Nicolas Jadoun       75 64
      32  Maks Silagy          def.  Filip Krolo          63 62
      32  Alex Bulte           def.  Munuel Goncalves     62 64
@@ -986,7 +1124,7 @@
      16 (4) Faris Khan           def.     Filippos Astreinidis 64 62
      16     Sven Thiergard       def.     Ben Draper           64 64
      16     Matthew Carroll      def.     Michael Heller       63 76(5)
-     16 (2) Robert Maciag        def.     Clement Hamel        60 36 Ret.
+     16 (2) Robert Maciag        def.     Clement Hamel        60 36 02 Ret.
   > West
       F     Ben Draper           def.     Elias Grubert        76(5) 76(5)
      SF     Elias Grubert        def.     Alan Kam             46 61 62

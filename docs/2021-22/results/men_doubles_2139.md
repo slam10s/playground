@@ -18,6 +18,7 @@
 - 10/1/2021 - [MSU Bulldog Invitational](#21-39463) ([Results](#21-39463) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77" target="_blank">Draws</a>)  
 - 10/1/2021 - [PNW Invitational](#21-08428) ([Results](#21-08428) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">Draws</a>)  
 - 10/1/2021 - [Ron Wesbrooks Invitational](#21-54933) ([Results](#21-54933) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LamarUniversityM/Tournaments/Overview/2BEDAA6E-9524-4B56-852C-F997C8133696" target="_blank">Draws</a>)  
+- 10/1/2021 - [Samford Fall Invite #2](#21-55470) ([Results](#21-55470) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/AFC105E4-5C32-4449-AF16-1FE48E08770E" target="_blank">Draws</a>)  
 - 10/1/2021 - [South Carolina Men's Collegiate Championships](#21-25425) ([Results](#21-25425) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C61DDA49-6047-4361-9048-8658AEA3B344" target="_blank">Draws</a>)  
 - 10/1/2021 - [UD Hidden Dual](#21-83081) ([Results](#21-83081) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
@@ -37,7 +38,6 @@
 
 **Tournaments without Matches**  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/AFC105E4-5C32-4449-AF16-1FE48E08770E" target="_blank">Samford Fall Invite #2</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
 
 <a name="21-15825"></a>
@@ -686,7 +686,7 @@
       64      Junk/Slavic          def.      Chopra/Dong          64 76(3)
       64  (9) Siimar/Shelbayh      def.      Tumosa/Straker-Meads 64 67(5) [8]
       64  (4) Torre Martin/Stable  def.      Valiev/Azoides       46 62 [8]
-      64      Malbasic/Hoeyeraal   def.      Acosta/Cierny        Default
+      64      Malbasic/Hoeyeraal   def.      Acosta/Cierny        Walkover
       64      Graziani/Zhu         def.      Marson/Perego        62 46 [4]
       64      Ornberg/Atherton     def.  (9) Coste/Roberto        61 16 [7]
       64      Jakic/Tonejc         def.  (5) Diallo/Musitelli     76(4) 75
@@ -949,6 +949,40 @@
       F  Bugeaud/Taylor       def.  Pham/Susser          81
   > Playoff 3
       F  Blair/Eaton          def.  Blackwell/Boone      85
+~~~
+
+<a name="21-55470"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Samford Fall Invite #2
+  Dates: Oct 1-3, 2021
+  Host: Samford University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Day 1 doubles
+  > Main
+     32  Uribe/Garcia-Nieto   def.  Gray/Bellalouna      64
+     32  Fischer/Penny        def.  Williams/Pickard     62
+     32  Gooch/Dixon          def.  Skrabut/Bogdanovich  63
+     32  Dworak/Postea        def.  Collard/St-Hilaire   64
+     32  Clements/Delcour     def.  Dimitrov/Fillat Gim… 64
+     32  Kajin/Sanchez Gonza… def.  Montoya/Bosman       61
+     32  Silagy/Dous Karpens… def.  Puric/Bradbary       63
+     32  Vasquez/Spyropoulos  def.  Petrovic/Bulte       76(3)
+ > Day 2 Doubles
+  > Main
+     32  Silagy/Dous Karpens… def.  Gray/Bellalouna      60
+     32  Petrovic/Bulte       def.  Williams/Pickard     62
+     32  Puric/Bradbary       def.  Gooch/Dixon          64
+     32  Uribe/Garcia-Nieto   def.  Collard/St-Hilaire   62
+     32  Clements/Delcour     def.  Fischer/Penny        63
+     32  Montoya/Bosman       def.  Skrabut/Bogdanovich  60
+ > Extra Matches Draw
+  > Main
+     QF  Silagy/Dous Karpens… def.  Dworak/Postea        75
+     QF  Dimitrov/Fillat Gim… def.  Petrovic/Bulte       62
+     QF  Kajin/Sanchez Gonza… def.  Puric/Bradbary       62
+     QF  Vasquez/Spyropoulos  def.  Salas Tulla/Mesquida 63
 ~~~
 
 <a name="21-25425"></a>

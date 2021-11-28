@@ -9,6 +9,7 @@
 - 10/1/2021 - [Arizona Wildcat Invitational](#21-91278) ([Results](#21-91278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Draws</a>)  
 - 10/1/2021 - [Beeman/Drobac Invite](#21-89128) ([Results](#21-89128) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Draws</a>)  
 - 9/30/2021 - [BU Invite](#21-39279) ([Results](#21-39279) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityM/Tournaments/Overview/A2243BD0-B01D-447E-89E6-9F9C5E5F85DA" target="_blank">Draws</a>)  
+- 10/2/2021 - [College of Charleston Team Invite](#21-92308) ([Results](#21-92308) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">Draws</a>)  
 - 10/2/2021 - [Davidson College Invite](#21-95483) ([Results](#21-95483) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Draws</a>)  
 - 10/1/2021 - [EIU Panther Hidden Duals](#21-91236) ([Results](#21-91236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">Draws</a>)  
 - 10/1/2021 - [Hagedorn Hidden Dual](#21-03884) ([Results](#21-03884) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Draws</a>)  
@@ -18,6 +19,7 @@
 - 10/1/2021 - [MSU Bulldog Invitational](#21-39463) ([Results](#21-39463) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77" target="_blank">Draws</a>)  
 - 10/1/2021 - [PNW Invitational](#21-08428) ([Results](#21-08428) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">Draws</a>)  
 - 10/1/2021 - [Ron Wesbrooks Invitational](#21-54933) ([Results](#21-54933) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LamarUniversityM/Tournaments/Overview/2BEDAA6E-9524-4B56-852C-F997C8133696" target="_blank">Draws</a>)  
+- 10/1/2021 - [Samford Fall Invite #2](#21-55470) ([Results](#21-55470) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/AFC105E4-5C32-4449-AF16-1FE48E08770E" target="_blank">Draws</a>)  
 - 10/1/2021 - [South Carolina Men's Collegiate Championships](#21-25425) ([Results](#21-25425) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C61DDA49-6047-4361-9048-8658AEA3B344" target="_blank">Draws</a>)  
 - 10/1/2021 - [UD Hidden Dual](#21-83081) ([Results](#21-83081) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
@@ -36,8 +38,6 @@
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/AFC105E4-5C32-4449-AF16-1FE48E08770E" target="_blank">Samford Fall Invite #2</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
 
 <a name="21-15825"></a>
@@ -922,6 +922,63 @@
  > Yellow
   > Main
      F  Ben Letzer           def.  Logan Chang      46 75 [4]
+~~~
+
+<a name="21-92308"></a>
+~~~
+════════════════════════════════════════════════════════════════════
+  College of Charleston Team Invite
+  Dates: Oct 2-3, 2021
+  Host: College Of Charleston (M)
+════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > Main
+     R3  Callum Rendle     def.  Matias Gaedechens 36 63 61
+     R3  Diego Giraldo     def.  Damien Nezar      57 64 64
+     R2  Damien Nezar      def.  Matias Gaedechens 26 60 [11]
+     R2  Callum Rendle     def.  Diego Giraldo     62 46 [4]
+     R1  Damien Nezar      def.  Callum Rendle     62 63
+     R1  Matias Gaedechens  vs   Diego Giraldo     36 03
+ > Flight B
+  > Main
+     R3  Robby Krick        vs   Bastien Huon      36 00
+     R3  Noe MacQuart      def.  Ashe Ray          64 64
+     R2  Bastien Huon      def.  Noe MacQuart      63 64
+     R2  Robby Krick       def.  Ashe Ray          63 76(3)
+     R1  Robby Krick       def.  Noe MacQuart      63 64
+     R1  Bastien Huon      def.  Ashe Ray          62 61
+ > Flight C
+  > Main
+     R3  Pol Otin          def.  Will Fullett      63 63
+     R3  Federico Garnier   vs   Johnny Wang       26
+     R1  Federico Garnier  def.  Will Fullett      64 64
+     R1  Pol Otin          def.  Johnny Wang       61 36 [6]
+ > Flight D
+  > Main
+     R3  Robin Angles      def.  Bryce Keim        75 76(4)
+     R2  Robin Angles      def.  Noah Borges       57 64 [8]
+     R1  Federico Garnier  def.  Robin Angles      75 64
+ > Flight E
+  > Main
+     R2  Zac Larke         def.  Leon Petko        75 67(5) [8]
+     R1  Zac Larke         def.  Neil O Connor     64 Ret.
+     R1  Leon Petko        def.  Mark Endler       63 64
+ > Flight F
+  > Main
+     R3  Benjamin Maes     def.  Alex Horn         36 62 75
+     R2  Alex Horn         def.  Jake Fraunfelder  76(1) 61
+     R1  Benjamin Maes     def.  Jake Fraunfelder  64 46 [5]
+     R1  Alex Horn         def.  Ted Williams      62 75
+ > Flight G
+  > Main
+     R3  Tomas Balazi      def.  Guilherme Toresan 64 75
+     R3  Zac Larke         def.  Robbie Young      62 36 64
+     R2  Tomas Balazi      def.  Robbie Young      46 63 75
+ > Flight H
+  > Main
+     R2  Noah Borges       def.  Mark Endler       63 64
+     R2  Will Fullett      def.  Andre Limon       61 63
 ~~~
 
 <a name="21-95483"></a>
@@ -2110,6 +2167,76 @@
   > Main
      SF  Peter Blair          def.  Kyle Pham            75 Ret.
      SF  Caleb Eaton          def.  Jaydn Boone          76(4) 67(3) [5]
+~~~
+
+<a name="21-55470"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  Samford Fall Invite #2
+  Dates: Oct 1-3, 2021
+  Host: Samford University (M)
+═══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Day 1 Singles
+  > Main
+     64  Andreja Petrovic     def.  Mohamed Ali Bellalo… 63 75
+     64  Maks Silagy          def.  Will Gray            61 62
+     64  Joshua Dous Karpens… def.  Harrison Williams    63 76(6)
+     64  Alex Bulte           def.  JB Pickard           64 57 64
+     64  Athanasios Spyropou… def.  Timothy Dixon        62 63
+     64  Nikola Puric         def.  Matthew Gooch        62 64
+     64  Ben Kiblinger        def.  Parker Bradbary      64 16 61
+     64  Sebastien Collard    def.  Pedro Uribe          62 64
+     64  Louis Delcour        def.  Maksim Bogdanovich   64 75
+     64  Jack Clements        def.  Gonzalo Garcia-Nieto 63 63
+     64  Maxime St-Hilaire    def.  Sam Fischer          46 62 61
+     64  Javier Montoya       def.  Carlos Salas Tulla   75 62
+ > Day 2 Singles
+  > Main
+     64  Mohamed Ali Bellalo… def.  Calin Postea         63 62
+     64  Kacper Dworak        def.  Will Gray            62 63
+     64  Vasil Dimitrov       def.  Harrison Williams    76(5) 46 63
+     64  Karlo Kajin          def.  JB Pickard           46 63 61
+     64  Oriol Fillat Gimenez def.  Matthew Gooch        60 62
+     64  Alejandro Sanchez G… def.  Timothy Dixon        60 62
+     64  Andreja Petrovic     def.  Ben Kiblinger        61 62
+     64  Louis Delcour        def.  Maks Silagy          64 63
+     64  Jack Clements        def.  Joshua Dous Karpens… 63 64
+     64  Maxime St-Hilaire    def.  Alex Bulte           61 67(4) 62
+     64  Javier Montoya       def.  Athanasios Spyropou… 64 64
+     64  Parker Bradbary      def.  David Skrabut        62 36 62
+     64  Alex Mesquida        def.  Martin Vasquez       60 61
+ > Day 3 Singles
+  > Main
+     64  Louis Delcour        def.  Calin Postea         61 63
+     64  Jack Clements        def.  Kacper Dworak        61 62
+     64  Maxime St-Hilaire    def.  Vasil Dimitrov       60 63
+     64  Karlo Kajin          def.  Javier Montoya       63 36 [5]
+     64  Mohamed Ali Bellalo… def.  Pedro Uribe          64 63
+     64  Maksim Bogdanovich   def.  Will Gray            64 62
+     64  Gonzalo Garcia-Nieto def.  Harrison Williams    76(6) 67(8) [12]
+     64  Sam Fischer          def.  JB Pickard           64 64
+     64  Carlos Salas Tulla   def.  Matthew Gooch        26 62 [5]
+     64  Jake Penny           def.  Ben Kiblinger        76(5) 64
+     64  Alex Mesquida        def.  Timothy Dixon        61 61
+     64  Andreja Petrovic     def.  Athanasios Spyropou… 63 63
+     64  Maks Silagy          def.  Nikola Puric         62 76(2)
+     64  Joshua Dous Karpens… def.  Parker Bradbary      60 62
+     64  Alex Bulte           def.  Martin Vasquez       61 46 [3]
+ > Extra Matches Draw
+  > Main
+     64  Pedro Uribe          def.  Calin Postea         63 61
+     64  Maksim Bogdanovich   def.  Kacper Dworak        63 76(5)
+     64  Vasil Dimitrov       def.  Gonzalo Garcia-Nieto 62 64
+     64  Karlo Kajin          def.  Sam Fischer          60 60
+     64  Oriol Fillat Gimenez def.  Carlos Salas Tulla   64 63
+     64  Alejandro Sanchez G… def.  Jake Penny           62 62
+     64  Alex Mesquida        def.  Parker Bradbary      64 61
+     64  David Skrabut        def.  Martin Vasquez       62 57 [0]
+     QF  Joshua Dous Karpens… def.  Vasil Dimitrov       63 60
+     QF  Alex Bulte           def.  Karlo Kajin          46 76(3) 61
+     QF  Oriol Fillat Gimenez def.  Athanasios Spyropou… 61 61
+     QF  Alejandro Sanchez G… def.  Nikola Puric         62 36 [2]
 ~~~
 
 <a name="21-25425"></a>

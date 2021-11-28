@@ -24,6 +24,7 @@
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/1/2021 - [Ragin' Cajun Classic](#21-46636) ([Results](#21-46636) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Draws</a>)  
 - 10/1/2021 - [Rocket Invite](#21-47919) ([Results](#21-47919) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1048F1D3-F372-4A0C-9A4A-3F0D57040FE9" target="_blank">Draws</a>)  
+- 10/1/2021 - [Saint Mary's Fall Invite](#21-32888) ([Results](#21-32888) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Draws</a>)  
 - 10/3/2021 - [Texas State Play Days](#21-09694) ([Results](#21-09694) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasStateUSanMarcosW/Tournaments/Overview/E55B506B-A548-43FC-8A20-46DAF11BD336" target="_blank">Draws</a>)  
 - 10/2/2021 - [UH Fall Invitational](#21-25235) ([Results](#21-25235) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHoustonW/Tournaments/Overview/81CEAFCF-07E3-42B0-BDDF-CB7D5F8E881B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Utah Invite](#21-47623) ([Results](#21-47623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahW/Tournaments/Overview/7AF1E32C-8707-429F-A3C2-89B494D4EF50" target="_blank">Draws</a>)  
@@ -42,7 +43,6 @@
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260" target="_blank">Saint Mary's Fall Invite</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
@@ -181,6 +181,30 @@
       32      Tara Damnjanovic     def.      Christine Gouws      46 61 [10]
       32      Dagmar Zdrubecka     def.      Katarina Dukic       Walkover
       32      Kiley Rabjohns       def.      Kristina Pukhaeva    Walkover
+ > Consolation Singles
+  > Main
+     128      Giulia Turconi       def.      Elena Jankulovska    63 30 Ret.
+     128      Diana Lukyanova      def.      Emilija Kojcic       63 61
+     128      Lina Ali             def.      Shivani Ingle        61 63
+     128      Erika Dimitriev      def.      Kida Ferrari         64 26 [10]
+     128  (5) Alina Mukhortova     def.      Luisa Pelayo         75 64
+     128      Natalija Popovic     def.      Penelope Abreu       64 26 [1]
+     128 (10) Lauren Lemonds       def. (24) Nastasya Semenovski  76(3) 63
+     128      Cali Fuller          def.      Vasavi Ganesan       63 61
+     128      Florencia Fuentes    def.      Katarina Dukic       61 61
+     128      Charlotte Gisclon    def.      Maru Poppe           62 60
+ > Consolation Singles Sunday
+  > Main
+     128  (2) Shelly Bereznyak     def.  (3) Nibedita Ghosh       64 64
+     128 (19) Yashna Yellayi       def.  (6) Denise Stoica        46 75 [10]
+     128  (5) Alina Mukhortova     def. (16) Maja Pietrowicz      62 61
+     128 (22) Maeve Koscielski     def.      Charlotte Gisclon    75 26 [4]
+     128      Dagmar Zdrubecka     def.      Tara Damnjanovic     75 60
+     128      Anca Craciun         def.      Katherine Bellia     62 63
+     128      Kiley Rabjohns       def.      Penelope Abreu       61 60
+     128 (27) Maria Olivia Castedo def. (32) Maria Potsi          84
+     128      Ana Jover            def. (24) Nastasya Semenovski  64 64
+     128      Lina Ali             def. (10) Lauren Lemonds       63 64
 ~~~
 
 <a name="21-22872"></a>
@@ -2705,6 +2729,146 @@
      16  Lili Minich          def.  Tyne Miller          62 62
      16  Laurel Utterback     def.  Maria Oliveira       64 62
      16  Chrissy Fuller       def.  Kathryn Novak        63 64
+~~~
+
+<a name="21-32888"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  Saint Mary's Fall Invite
+  Dates: Oct 1-3, 2021
+  Host: Saint Mary's College/CA (W)
+═════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight A
+  > Main
+       F  Maria Martinez Vaqu… def.  Antonia Balzert      62 61
+      SF  Antonia Balzert      def.  Erin Richardson      62 62
+      SF  Maria Martinez Vaqu… def.  Megan Forster        64 61
+      QF  Antonia Balzert      def.  Matilde Magrini      61 62
+      QF  Erin Richardson      def.  Gabriela Tevez       61 62
+      QF  Megan Forster        def.  Lene Hovda           62 62
+      QF  Maria Martinez Vaqu… def.  Julia Ronney         63 63
+      16  Matilde Magrini      def.  Julia Rosenqvist     63 61
+      16  Antonia Balzert      def.  Chiho Mushika        75 64
+      16  Gabriela Tevez       def.  Sophia Derivan       64 75
+      16  Erin Richardson      def.  Yinglak Jittakoat    62 67(7) 63
+      16  Lene Hovda           def.  Dalia Ahmed          64 76(3)
+      16  Megan Forster        def.  Finley Kalinic       61 62
+      16  Julia Ronney         def.  Caroline Pozo        63 63
+      16  Maria Martinez Vaqu… def.  Jamie Schroer        61 64
+      32  Matilde Magrini      def.  Stefanie Silva       63 61
+      32  Antonia Balzert      def.  MiaAngelina Ruja     46 62 62
+      32  Chiho Mushika        def.  Jordan Harris        75 61
+      32  Gabriela Tevez       def.  Jenna Gordon         62 54 Ret.
+      32  Erin Richardson      def.  Rita Colyer          63 Ret.
+      32  Yinglak Jittakoat    def.  Sara Tsukamoto       76(4) 57 63
+      32  Dalia Ahmed          def.  Paige Alter          63 63
+      32  Megan Forster        def.  Yana Gurevich        64 63
+      32  Finley Kalinic       def.  Makenna Thiel        63 06 76(7)
+      32  Julia Ronney         def.  Ann-Cathrin Hummel   64 63
+      32  Caroline Pozo        def.  Zoe Clydesdale-Eber… 62 76(6)
+      32  Jamie Schroer        def.  Cami Brown           36 62 63
+  > Consolation
+       F  Sara Tsukamoto       def.  Yana Gurevich        63 64
+      SF  Sara Tsukamoto       def.  Stefanie Silva       62 64
+      SF  Yana Gurevich        def.  Ann-Cathrin Hummel   62 46 [5]
+      QF  Stefanie Silva       def.  MiaAngelina Ruja     Walkover
+      QF  Sara Tsukamoto       def.  Jenna Gordon         Walkover
+      QF  Yana Gurevich        def.  Paige Alter          61 62
+      QF  Ann-Cathrin Hummel   def.  Cami Brown           62 76(1)
+     16Q  MiaAngelina Ruja     def.  Jordan Harris        36 63 [7]
+     16Q  Sara Tsukamoto       def.  Rita Colyer          16 64 [10]
+     16Q  Yana Gurevich        def.  Makenna Thiel        Walkover
+     16Q  Ann-Cathrin Hummel   def.  Zoe Clydesdale-Eber… 62 60
+ > Flight B
+  > Main
+       F  Jocelyn Massey       def.  Arianna Stavropoulos 62 67(7) 60
+      SF  Arianna Stavropoulos def.  Carolina Piferi      26 64 63
+      SF  Jocelyn Massey       def.  Simran Chhabra       57 61 61
+      QF  Arianna Stavropoulos def.  Olivia Rook          62 46 64
+      QF  Carolina Piferi      def.  Caragh Courtney      63 63
+      QF  Jocelyn Massey       def.  Cristina Flaquer     63 63
+      QF  Simran Chhabra       def.  Liesl Pieters        62 63
+      16  Arianna Stavropoulos def.  Carlotta Nonnis Mar… 60 63
+      16  Olivia Rook          def.  Alexis Sam           62 36 75
+      16  Carolina Piferi      def.  Betina Tokac         63 64
+      16  Caragh Courtney      def.  Peyton Dunkle        76(3) 64
+      16  Jocelyn Massey       def.  Mila Stanojevic      64 61
+      16  Cristina Flaquer     def.  Kristina Evloeva     75 75
+      16  Simran Chhabra       def.  Ella Husrefovic      61 26 64
+      16  Liesl Pieters        def.  Ky Ecton             64 36 60
+      32  Carlotta Nonnis Mar… def.  Katherine Petty      62 76(8)
+      32  Alexis Sam           def.  Azaria Hayes         61 61
+      32  Olivia Rook          def.  Tsveti Yotova        63 63
+      32  Betina Tokac         def.  Giulia Hayer         62 60
+      32  Carolina Piferi      def.  Carly Schwartzberg   60 61
+      32  Peyton Dunkle        def.  Megan Carmichael     36 61 61
+      32  Caragh Courtney      def.  Maddy Ferreros       62 61
+      32  Jocelyn Massey       def.  Megan Tagaloa        60 62
+      32  Kristina Evloeva     def.  Misha Berry          64 75
+      32  Cristina Flaquer     def.  Hana Gamracy         26 60 75
+      32  Simran Chhabra       def.  Michelle Zell        61 75
+      32  Ella Husrefovic      def.  Danielle Zamora      46 76 60
+      32  Liesl Pieters        def.  Olive Maunupau       61 60
+      32  Ky Ecton             def.  Weronika Ejsmont     62 61
+  > Consolation
+       F  Misha Berry          def.  Azaria Hayes         63 62
+      SF  Azaria Hayes         def.  Maddy Ferreros       62 63
+      SF  Misha Berry          def.  Olive Maunupau       63 63
+      QF  Azaria Hayes         def.  Katherine Petty      64 16 [2]
+      QF  Maddy Ferreros       def.  Giulia Hayer         76(4) 36 [3]
+      QF  Misha Berry          def.  Megan Tagaloa        61 62
+      QF  Olive Maunupau       def.  Michelle Zell        76(5) 16 [5]
+     16Q  Azaria Hayes         def.  Tsveti Yotova        21 Ret.
+     16Q  Giulia Hayer         def.  Carly Schwartzberg   16 62 [6]
+     16Q  Maddy Ferreros       def.  Megan Carmichael     64 26 [8]
+     16Q  Misha Berry          def.  Hana Gamracy         75 63
+     16Q  Michelle Zell        def.  Danielle Zamora      61 60
+     16Q  Olive Maunupau       def.  Weronika Ejsmont     46 75 [3]
+ > Flight C
+  > Main
+       F  Eliza Bates          def.  Janie Ellis          76(1) 16 64
+      SF  Eliza Bates          def.  Madeleine Page       61 64
+      SF  Janie Ellis          def.  Alexis Johnson       46 64 61
+      QF  Eliza Bates          def.  Kacey Feng           62 64
+      QF  Madeleine Page       def.  Varya Zlotnik        63 63
+      QF  Alexis Johnson       def.  Maile Brilhante      60 61
+      QF  Janie Ellis          def.  Qianer Qiu           64 Ret.
+      16  Kacey Feng           def.  Daisy Maunupau       75 26 62
+      16  Varya Zlotnik        def.  Grace McSkimming     61 64
+      16  Maile Brilhante      def.  Ellen Puzak          Walkover
+      16  Janie Ellis          def.  Olivia Wiese         63 60
+  > Consolation
+       F  Grace McSkimming     def.  Olivia Wiese         61 61
+      SF  Grace McSkimming     def.  Daisy Maunupau       60 61
+      SF  Olivia Wiese         def.  Ellen Puzak          Walkover
+      QF  Olivia Wiese         def.  Qianer Qiu           Walkover
+ > Bonus Singles Matches
+  > Main
+      16  Maria Martinez Vaqu… def.  Sophia Derivan       63 61
+      16  Arianna Stavropoulos def.  Mila Stanojevic      16 60 [7]
+      16  Lene Hovda           def.  Madeleine Page       61 61
+      16  Qianer Qiu           def.  Alexis Johnson       75 64
+      16  Stefanie Silva       def.  Cami Brown           76(2) 60
+ > Bonus Singles Matches II
+  > Main
+      32  Peyton Dunkle        def.  Carlotta Nonnis Mar… 67(4) 64 [5]
+      32  Caroline Pozo        def.  Gabriela Tevez       62 63
+      32  Mila Stanojevic      def.  Liesl Pieters        36 63 [4]
+      32  Yinglak Jittakoat    def.  Julia Rosenqvist     64 75
+      32  Megan Carmichael     def.  Sophia Derivan       64 Ret.
+      32  Cristina Flaquer     def.  Ky Ecton             64 60
+      32  Betina Tokac         def.  Maile Brilhante      61 61
+      32  Paige Alter          def.  Olivia Wiese         61 60
+      32  Zoe Clydesdale-Eber… def.  Cami Brown           64 63
+      32  Kacey Feng           def.  Grace McSkimming     64 63
+      32  Varya Zlotnik        def.  Megan Tagaloa        76(2) 64
+      32  Olivia Rook          def.  Alexis Johnson       62 75
+ > Bonus Singles Matches III
+  > Main
+      QF  Julia Rosenqvist     def.  Mila Stanojevic      62 63
+      QF  Peyton Dunkle        def.  Alexis Sam           63 61
+      QF  Danielle Zamora      def.  Carlotta Nonnis Mar… 64 67(7) [10]
 ~~~
 
 <a name="21-09694"></a>

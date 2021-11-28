@@ -10,23 +10,23 @@
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 - 10/29/2021 - [Brown Quad](#21-71605) ([Results](#21-71605) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Draws</a>)  
+- 10/29/2021 - [College of Charleston Halloween Tournament](#21-08956) ([Results](#21-08956) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">Draws</a>)  
 - 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
 - 10/29/2021 - [FIU Invitational](#21-24854) ([Results](#21-24854) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gamecock Shootout](#21-95444) ([Results](#21-95444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Draws</a>)  
+- 10/29/2021 - [Louisville Classic](#21-37198) ([Results](#21-37198) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Draws</a>)  
 - 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Rocket Invite- The Sequel](#21-55677) ([Results](#21-55677) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Draws</a>)  
 - 10/28/2021 - [Tennessee Fall Invitational](#21-92398) ([Results](#21-92398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Draws</a>)  
+- 10/30/2021 - [UNA Women's Tennis Classic II](#21-95134) ([Results](#21-95134) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">Draws</a>)  
 - 10/29/2021 - [Wofford Fall Invite](#21-77110) ([Results](#21-77110) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Draws</a>)  
 - 10/29/2021 - [Shark Bite Invite](#21-28680) ([Results](#21-28680) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Draws</a>)  
 - 10/30/2021 - [Slug Invite - hosted by West Valley College](#21-30727) ([Results](#21-30727) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">College of Charleston Halloween Tournament</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 
 <a name="21-46458"></a>
@@ -665,6 +665,50 @@
      16  Wood/Strugnell      def.  Wilcox/Irani      60
 ~~~
 
+<a name="21-08956"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  College of Charleston Halloween Tournament
+  Dates: Oct 29-31, 2021
+  Host: College Of Charleston (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Friday
+  > Main
+     32  Janse van Rensburg/… def.  Errard/Trinkle       76(7)
+     32  Jablonski/Song       def.  Brotzman/Jekauc      76(1)
+     32  Nanere/Zaprianov     def.  Daniel/Huff          62
+     32  Nowak/Walter         def.  Maras/Wood           61
+     32  Jusufbegovic/Tranbe… def.  Hayduk/Waddles       64
+     32  Stefancic/Vanderhey… def.  Landin/de Samucewicz 60
+     32  Ballow/Hurrion       def.  Hollins/Hopton       64
+     32  Boyd/Man             def.  Van Hansewyck/McGra… 61
+     32  Clairotte/Gillar     def.  Cauthen/Pyritz       61
+ > Saturday
+  > Main
+     32  Coetzee/Trinkle      def.  Landin/de Samucewicz 61
+     32  Brotzman/Jekauc      def.  Hollins/Hopton       76(5)
+     32  Boyd/Jusufbegovic    def.  Nowak/Earnhardt      75
+     32  Cauthen/Pyritz       def.  Walter/Errard        60
+     32  Tranberg/Man         def.  Daniel/Huff          61
+     32  Stefancic/Vanderhey… def.  Janse van Rensburg/… 62
+     32  Jablonski/Song       def.  Ballow/Hurrion       76(3)
+     32  Van Hansewyck/Clair… def.  Nanere/Zaprianov     63
+ > Saturday Extra
+  > Main
+      F  Hayduk/Waddles       def.  Daniel/Huff          64
+ > Sunday
+  > Main
+     16  Cauthen/Pyritz       def.  Janse van Rensburg/… 64
+     16  Man/Jusufbegovic     def.  Nanere/Song          76(5)
+     16  Tranberg/Hollins     def.  Zaprianov/Maras      61
+     16  Hopton/de Samucewicz def.  Hayduk/Waddles       76(4)
+     16  Boyd/Landin          def.  Hornigold/Wood       62
+     16  Stefancic/Vanderhey… def.  Coetzee/Trinkle      75
+     16  Ballow/Hurrion       def.  Brotzman/Jekauc      64
+     16  Nowak/Earnhardt      def.  Van Hansewyck/Clair… 63
+~~~
+
 <a name="21-68401"></a>
 ~~~
 ═════════════════════════════════════════════════════════════════
@@ -781,6 +825,44 @@
      16  Fliegner/Hammond  def.  Schurhamer/Bruetting 60
      16  Beavin/Balthazor  def.  Allen/Jones          63
      16  Atway/Schoenly    def.  Beavin/White         61
+~~~
+
+<a name="21-37198"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  Louisville Classic
+  Dates: Oct 29-31, 2021
+  Host: University Of Louisville (W)
+═══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Friday 1
+  > Main
+     16  Schmidt/Gupta        def.  Simova/Verma        64
+     16  Di Palma/Sawyer      def.  Barnard/Mauro       62
+     16  Antonijevic/Kizelba… def.  Kaplan/Peeler       75
+     16  Jovicic/Nobbs        def.  Braun/Lukacs        64
+     16  Martin/Yergler       def.  Davies/Polishchuk   63
+ > Friday 2
+  > Main
+     16  Verma/Di Palma       def.  Kaplan/Peeler       63
+     16  Chaika/Sawyer        def.  Braun/Lukacs        64
+     16  Polishchuk/Malykh    def.  Callwood/Richardson 61
+     16  Antonijevic/Kizelba… def.  Barnard/Barnard     63
+     16  Jovicic/Nobbs        def.  Schmidt/Gupta       60
+ > Saturday 1
+  > Main
+     16  Verma/Di Palma       def.  Rand/Kizelbasheva   61
+     16  Chaika/Sawyer        def.  Jovicic/Nobbs       63
+     16  Callwood/Richardson  def.  Martin/Yergler      64
+     16  Barnard/Mauro        def.  Peeler/Davies       62
+     16  Braun/Lukacs         def.  Schmidt/Gupta       75
+ > Saturday 2
+  > Main
+     16  Verma/Di Palma       def.  Barnard/Mauro       60
+     16  Schmidt/Gupta        def.  Chaika/Sawyer       75
+     16  Peeler/Davies        def.  Rand/Kizelbasheva   62
+     16  Kaplan/Braun         def.  Jovicic/Nobbs       75
+     16  Martin/Yergler       def.  Davies/Polishchuk   64
 ~~~
 
 <a name="21-24286"></a>
@@ -1014,6 +1096,31 @@
      16  Lynch/Nihalani    def.  Creath/Duckworth     75
      16  Staff/Lee         def.  Arrese/Molina        62
      16  Cruz/Kourkina     def.  Girbau/Gonzalez      64
+~~~
+
+<a name="21-95134"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  UNA Women's Tennis Classic II
+  Dates: Oct 30-31, 2021
+  Host: University Of North Alabama (W)
+═══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Purple
+  > Main
+     QF  Leder/Morris         def.  Andrews/Bishop      64
+     QF  Going/Loubser        def.  Torrealba/Topalovic 76(4)
+     QF  Paladini- Jennings/… def.  Flesch/Reilly       62
+ > White
+  > Main
+     QF  Paladini- Jennings/… def.  Ly/Vidnere          64
+     QF  Leder/Nakanishi      def.  Takanishi/Franco    76(3)
+     QF  Cheng/Torrealba      def.  Arevalo/Bishop      75
+ > Grey
+  > Main
+     QF  Ly/Vidnere           def.  Andrews/Bishop      64
+     QF  Going/Flesch         def.  Takanishi/Franco    61
+     QF  Loubser/Reilly       def.  Arevalo/Bishop      63
 ~~~
 
 <a name="21-77110"></a>

@@ -3,6 +3,7 @@
 **Tournamets with Matches**  
 - 11/5/2021 - [Big 12 Individuals](#21-20291) ([Results](#21-20291) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityM/Tournaments/Overview/E0ED1E84-1CD4-4CE2-BFCD-F695030458D5" target="_blank">Draws</a>)  
 - 11/4/2021 - [Big Ten Indoors](#21-98150) ([Results](#21-98150) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/DD67ADCD-C4E7-4314-A846-4FCDAD89FABC" target="_blank">Draws</a>)  
+- 11/5/2021 - [CCB Collegiate Invite hosted by Samford University](#21-28912) ([Results](#21-28912) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/9FFB9E4B-F5D2-482B-9395-1971FCF5B506" target="_blank">Draws</a>)  
 - 11/5/2021 - [Clemson Hidden Duals](#21-14095) ([Results](#21-14095) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/22A40DEC-6CB7-4C7E-841A-7CC786AEE57F" target="_blank">Draws</a>)  
 - 11/5/2021 - [FGCU Collegiate Open](#21-07533) ([Results](#21-07533) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaGulfCoastUniversityM/Tournaments/Overview/C591B082-DA9F-4F69-A567-2A370930F114" target="_blank">Draws</a>)  
 - 11/5/2021 - [GT Invitational](#21-32736) ([Results](#21-32736) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaTechM/Tournaments/Overview/E04A8772-9C21-4B5A-B6E0-55C939AC5A86" target="_blank">Draws</a>)  
@@ -18,9 +19,6 @@
 - 11/5/2021 - [Wake Forest Invite](#21-91916) ([Results](#21-91916) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityM/Tournaments/Overview/CDBF110F-C481-4F40-9B58-54D68D17F9A2" target="_blank">Draws</a>)  
 - 11/5/2021 - [Yale Invitational](#21-31162) ([Results](#21-31162) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityM/Tournaments/Overview/5278617F-5593-42A8-B7B3-52F442BE8917" target="_blank">Draws</a>)  
 - 11/6/2021 - [Buccaneers Invitational](#21-92061) ([Results](#21-92061) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BarryUniversityM/Tournaments/Overview/66BDBB63-461D-4097-ACA4-DB44D0B1C672" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 11/5/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/9FFB9E4B-F5D2-482B-9395-1971FCF5B506" target="_blank">CCB Collegiate Invite hosted by Samford University</a>  
 
 <a name="21-20291"></a>
 ~~~
@@ -124,6 +122,59 @@
  > North Finals
   > Main
       F  Pickens/Thieneman    def.  Baylis/Gates         64
+~~~
+
+<a name="21-28912"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  CCB Collegiate Invite hosted by Samford University
+  Dates: Nov 5-7, 2021
+  Host: Samford University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > East
+      F  Kajin/Sanchez Gonza… def.  Hendrikx/Pickard     85
+     SF  Hendrikx/Pickard     def.  Puric/Podzemny       84
+     SF  Kajin/Sanchez Gonza… def.  Reynolds/Groetsch    85
+     QF  Hendrikx/Pickard     def.  Weherle/Morsy        83
+     QF  Kajin/Sanchez Gonza… def.  Barry/Petrovic       87(5)
+     QF  Reynolds/Groetsch    def.  Delcour/Collard      85
+  > West
+      F  Barry/Petrovic       def.  Weherle/Morsy        83
+     SF  Barry/Petrovic       def.  Delcour/Collard      84
+  > 3-4 Playoff
+      F  Puric/Podzemny       def.  Reynolds/Groetsch    84
+ > Flight B
+  > East
+      F  Garcia-Nieto/Salas … def.  Jacobson/Hoeijmans   84
+     SF  Jacobson/Hoeijmans   def.  Clements/St-Hilaire  81
+     SF  Garcia-Nieto/Salas … def.  Kostov/Batchelor     86
+     QF  Clements/St-Hilaire  def.  Machado/Martin-Thir… 81
+     QF  Jacobson/Hoeijmans   def.  Williams/Bellalouna  81
+     QF  Garcia-Nieto/Salas … def.  Fabregas/Gray        87(8)
+     QF  Kostov/Batchelor     def.  Dimitrov/Postea      86
+  > West
+      F  Williams/Bellalouna  def.  Dimitrov/Postea      86
+     SF  Williams/Bellalouna  def.  Machado/Martin-Thir… 86
+     SF  Dimitrov/Postea      def.  Fabregas/Gray        83
+  > 3-4 Playoff
+      F  Clements/St-Hilaire  def.  Kostov/Batchelor     84
+  > South
+      F  Machado/Martin-Thir… def.  Fabregas/Gray        Walkover
+ > Flight C
+  > East
+      F  Bancila/De Alba      def.  Fillat Gimenez/Ferr… 86
+     SF  Bancila/De Alba      def.  Sasso/Bagade         83
+     SF  Fillat Gimenez/Ferr… def.  Bradbary/Vasquez     85
+     QF  Sasso/Bagade         def.  Staff/Ecarma         83
+     QF  Bradbary/Vasquez     def.  Kiblinger/Gooch      87(4)
+     QF  Fillat Gimenez/Ferr… def.  Mesquida/Skrabut     87(6)
+  > West
+      F  Mesquida/Skrabut     def.  Staff/Ecarma         81
+     SF  Mesquida/Skrabut     def.  Kiblinger/Gooch      85
+  > 3-4 Playoff
+      F  Bradbary/Vasquez     def.  Sasso/Bagade         85
 ~~~
 
 <a name="21-14095"></a>
@@ -732,6 +783,8 @@
      QF  Ortega/Ibanez     def.  Del Granado/Lemken 76(6)
      QF  Barrios/Kilani    def.  Carlsten/Hasegawa  63
      QF  Popescu/Giuliato  def.  Nagoshi/Nordblom   Walkover
+  > Consolation
+     SQ  Feggi/Hertweck    def.  Del Granado/Lemken 64
  > Flight B
   > Main
       F  Holzmann/Tatyanin def.  Nouws/Marrero      60
@@ -741,6 +794,9 @@
      QF  McLeod/Cazaban    def.  Amilibia/Denitto   61
      QF  Fok Kow/Sohl      def.  Orevad/den Hartog  64
      QF  Holzmann/Tatyanin def.  Santamaria/Rosi    61
+  > Consolation
+     SQ  Amilibia/Denitto  def.  Fernandez/Binaghi  76(5)
+     SQ  Santamaria/Rosi   def.  Orevad/den Hartog  64
 ~~~
 
 Return to the [Top](./men_doubles_2144.md) &#124; [Home Page](../../index.md)

@@ -13,15 +13,13 @@
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
 - 9/11/2021 - [2021 CCIW Fall Invitational](#21-67914) ([Results](#21-67914) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillikinUniversityM/Tournaments/Overview/EC2D06D4-33B6-4D12-AD7F-0FFF3E553D26" target="_blank">Draws</a>)  
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
+- 9/10/2021 - [Marlin Fall Invite](#21-96391) ([Results](#21-96391) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Draws</a>)  
 - 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
 - 9/11/2021 - [St. Lawrence University Fall Classic](#21-93996) ([Results](#21-93996) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/3699D952-856D-4724-8FE8-12BD2237BE35" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/10/2021 - [Warhawk Fall Invitational](#21-36572) ([Results](#21-36572) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Marlin Fall Invite</a>  
 
 <a name="21-56790"></a>
 ~~~
@@ -1248,6 +1246,109 @@
      QF  Joe Steele           def.  Timothy Richardson   61 62
   > Consolation
      SQ  Ryan Gase            def.  Brayden Doherty      63 62
+~~~
+
+<a name="21-96391"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Marlin Fall Invite
+  Dates: Sep 10-12, 2021
+  Host: Virginia Wesleyan University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Draw
+  > Main
+     64  Timothy Tep          def.  John Kendrick        80
+     64  Francis Cabaddu      def.  Matt Kendrick        85
+     64  Anthony Wilson       def.  Bryson Alley         81
+     64  Henry West           def.  Henry Singleton      82
+     64  Taylor Fox           def.  Camden Perry         82
+     64  Siananden Challagun… def.  Patrick Conde        83
+     64  Dheeraj Koritala     def.  Andrew Winans        83
+     64  Nick Beaudoin        def.  Bryce Jones          85
+     64  Tyler Brice          def.  Nicolas Stromberg    85
+     64  Michael Miller       def.  Barrett Foster       85
+     64  Marcos Dias          def.  Felix Bevc           83
+     64  Daniel Blonquist     def.  Mitchell Perry       97
+ > #2
+  > Main
+     64  Anthony Wilson       def.  Quinn McNamara       86
+     64  Timothy Tep          def.  EJ Stolmeijer        84
+     64  Taylor Fox           def.  Lwazi-Enno Rennert   81
+     64  Charles Adams        def.  Spencer Kieft        83
+     64  Camden Perry         def.  Harrison Bitzberger  85
+     64  Alex Lycan           def.  Nick Beaudoin        83
+     64  Jordan Theron        def.  Felix Bevc           86
+     64  Henry Murray         def.  Francis Cabaddu      81
+     64  Henry West           def.  AJ Rogers            85
+     64  Luke Laney           def.  Siananden Challagun… 85
+     64  Trey Hardersen       def.  Dheeraj Koritala     84
+     64  Barrett Foster       def.  Benton Drake         84
+     64  Mason Pitcher        def.  Tyler Brice          85
+     64  Matt Kendrick        def.  Marlo Perez-Urrutia  82
+     64  John Kendrick        def.  Adam Kelly           87(2)
+     64  Bryson Alley         def.  Aidan Hall           82
+     64  Patrick Conde        def.  Dustin Manning       83
+     64  Samuel Larson        def.  Pierce Gembroys      84
+ > #3
+  > Main
+     64  Jordan Theron        def.  Marcos Dias          82
+     64  Tanner Bassett       def.  EJ Stolmeijer        82
+     64  Daniel Blonquist     def.  Henry Murray         82
+     64  Benton Drake         def.  Quinn McNamara       86
+     64  AJ Rogers            def.  Mason Pitcher        86
+     64  Luke Laney           def.  Marlo Perez-Urrutia  83
+     64  Trey Hardersen       def.  Adam Kelly           81
+     64  Spencer Kieft        def.  Aidan Hall           83
+     64  Alex Lycan           def.  Dustin Manning       80
+     64  Bryce Jones          def.  Chris Amick          85
+     64  Samuel Larson        def.  Josh Spicer          82
+ > #4
+  > Main
+     64  Marcos Dias          def.  Nicolas Stromberg    81
+     64  Michael Miller       def.  Tanner Bassett       80
+     64  Benton Drake         def.  Lwazi-Enno Rennert   81
+     64  Harrison Bitzberger  def.  Andrew Winans        86
+     64  Charles Adams        def.  Chris Amick          81
+     64  EJ Stolmeijer        def.  Bryson Alley         82
+     64  Quinn McNamara       def.  Henry Singleton      81
+ > #5
+  > Main
+     16  Timothy Tep          def.  Tanner Bassett       81
+     16  Anthony Wilson       def.  Mason Pitcher        85
+     16  Henry West           def.  Marlo Perez-Urrutia  85
+     16  Siananden Challagun… def.  Adam Kelly           82
+     16  Camden Perry         def.  Aidan Hall           82
+     16  EJ Stolmeijer        def.  Matt Kendrick        81
+     16  Jordan Theron        def.  Tyler Brice          80
+     16  Henry Murray         def.  Barrett Foster       83
+ > #6
+  > Main
+     32  Marcos Dias          def.  EJ Stolmeijer        84
+     32  Timothy Tep          def.  Nicolas Stromberg    83
+     32  Jordan Theron        def.  Daniel Blonquist     86
+     32  Mitchell Perry       def.  Michael Miller       84
+     32  Henry Murray         def.  Benton Drake         86
+     32  Francis Cabaddu      def.  Trey Hardersen       84
+     32  Anthony Wilson       def.  Spencer Kieft        82
+     32  Quinn McNamara       def.  John Kendrick        81
+     32  Henry West           def.  Samuel Larson        81
+     32  AJ Rogers            def.  Bryson Alley         82
+     32  Luke Laney           def.  Adam Kelly           82
+     32  Alex Lycan           def.  Aidan Hall           83
+     32  Chris Amick          def.  Josh Spicer          85
+     32  Harrison Bitzberger  def.  Patrick Conde        83
+     32  Bryce Jones          def.  Lwazi-Enno Rennert   85
+ > #7
+  > Main
+     16  Quinn McNamara       def.  Mason Pitcher        83
+     16  AJ Rogers            def.  Marlo Perez-Urrutia  83
+     16  Luke Laney           def.  Taylor Fox           82
+     16  Harrison Bitzberger  def.  Dustin Manning       80
+     16  Spencer Kieft        def.  Andrew Winans        83
+ > #8
+  > Main
+      F  Daniel Blonquist     def.  Mitchell Perry       87(5)
 ~~~
 
 <a name="21-98528"></a>

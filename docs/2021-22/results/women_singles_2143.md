@@ -10,23 +10,23 @@
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 - 10/29/2021 - [Brown Quad](#21-71605) ([Results](#21-71605) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Draws</a>)  
+- 10/29/2021 - [College of Charleston Halloween Tournament](#21-08956) ([Results](#21-08956) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">Draws</a>)  
 - 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
 - 10/29/2021 - [FIU Invitational](#21-24854) ([Results](#21-24854) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gamecock Shootout](#21-95444) ([Results](#21-95444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Draws</a>)  
+- 10/29/2021 - [Louisville Classic](#21-37198) ([Results](#21-37198) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Draws</a>)  
 - 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Rocket Invite- The Sequel](#21-55677) ([Results](#21-55677) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Draws</a>)  
 - 10/28/2021 - [Tennessee Fall Invitational](#21-92398) ([Results](#21-92398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleW/Tournaments/Overview/17BAFE7C-221E-4EAF-BF7E-A69DA29B334B" target="_blank">Draws</a>)  
+- 10/30/2021 - [UNA Women's Tennis Classic II](#21-95134) ([Results](#21-95134) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">Draws</a>)  
 - 10/29/2021 - [Wofford Fall Invite](#21-77110) ([Results](#21-77110) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WoffordCollegeW/Tournaments/Overview/A5D209A2-E23E-4A2F-898C-0EA0671DD443" target="_blank">Draws</a>)  
 - 10/29/2021 - [Shark Bite Invite](#21-28680) ([Results](#21-28680) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NovaSoutheasternUnivW/Tournaments/Overview/FD071068-D5DA-4E20-B9FE-5D66B26BC727" target="_blank">Draws</a>)  
 - 10/30/2021 - [Slug Invite - hosted by West Valley College](#21-30727) ([Results](#21-30727) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">College of Charleston Halloween Tournament</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Louisville Classic</a>  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/E718803F-B77A-41FE-97C4-A08FD0CB689F" target="_blank">UNA Women's Tennis Classic II</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 
 <a name="21-46458"></a>
@@ -1505,6 +1505,74 @@
      32  Shivani Amineni     def.  Hailey Wilcox       62 63
 ~~~
 
+<a name="21-08956"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  College of Charleston Halloween Tournament
+  Dates: Oct 29-31, 2021
+  Host: College Of Charleston (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Friday
+  > Main
+     64  Rouxanne Janse van … def.  Victoire de Samucew… 36 60 63
+     64  Madalina Man         def.  Samanth Nanere       62 63
+     64  Mathilde Tranberg    def.  Alexis Lopez         63 64
+     64  Olivia Jablonski     def.  Noa Boyd             64 36 75
+     64  Sofia Zaprianov      def.  Megan Hopton         62 62
+     64  Lindsay Song         def.  Paola Landin         61 46 62
+     64  Jesse Hollins        def.  Ally Hayduk          76(4) 16 75
+     64  Tiffany Pyritz       def.  Samantha Maras       62 61
+     64  Lauren Waddles       def.  Amila Jusufbegovic   62 63
+     64  Zoe Cauthen          def.  Christianna Hornigo… 61 62
+     64  Emma Vanderheyden    def.  Slade Coetzee        26 63 76(5)
+     64  Halli Trinkle        def.  Madi Ballow          26 63 61
+     64  Maja Jekauc          def.  Liz Stefancic        46 63 63
+     64  Sophia Hurrion       def.  Peyton Brotzman      60 62
+     64  Elizabeth Nowak      def.  Aisling McGrane      64 57 75
+     64  Clara Errard         def.  Gabrielle Clairotte  64 62
+     64  Helena Huff          def.  Rieke Gillar         64 64
+     64  Jutte Van Hansewyck  def.  McKenzie Daniel      62 64
+ > Saturday
+  > Main
+     64  Emma Vanderheyden    def.  Mathilde Tranberg    64 63
+     64  Madalina Man         def.  Madi Ballow          76 36 62
+     64  Liz Stefancic        def.  Victoire de Samucew… 36 61 62
+     64  Amila Jusufbegovic   def.  Sophia Hurrion       46 76 40 Ret.
+     64  Tiffany Pyritz       def.  Rieke Gillar         64 61
+     64  Jesse Hollins        def.  Jutte Van Hansewyck  60 60
+     64  Gabrielle Clairotte  def.  Paola Landin         64 75
+     64  Noa Boyd             def.  Megan Hopton         26 61 63
+     64  Slade Coetzee        def.  Rouxanne Janse van … 63 61
+     64  Halli Trinkle        def.  Alexis Lopez         63 60
+     64  Samanth Nanere       def.  Maja Jekauc          67 76 62
+     64  Olivia Jablonski     def.  Peyton Brotzman      63 26 60
+     64  Kate Earnhardt       def.  Sofia Zaprianov      63 75
+     64  Lindsay Song         def.  Clara Errard         62 62
+     64  Ally Hayduk          def.  Elizabeth Nowak      63 75
+     64  Helena Huff          def.  Lauren Waddles       26 63 64
+     64  Samantha Maras       def.  McKenzie Daniel      64 46 [9]
+ > Saturday Extra
+  > Main
+      F  Christianna Hornigo… def.  McKenzie Daniel      64 36 [9]
+ > Sunday
+  > Main
+     64  Emma Vanderheyden    def.  Rouxanne Janse van … 64 60
+     64  Liz Stefancic        def.  Alexis Lopez         64 62
+     64  Samanth Nanere       def.  Jutte Van Hansewyck  63 64
+     64  Rieke Gillar         def.  Lindsay Song         75 36 62
+     64  Ally Hayduk          def.  Gabrielle Clairotte  76(3) 26 63
+     64  Slade Coetzee        def.  Mathilde Tranberg    62 61
+     64  Halli Trinkle        def.  Sofia Zaprianov      61 36 62
+     64  Maja Jekauc          def.  Jesse Hollins        64 46 76(5)
+     64  Noa Boyd             def.  Peyton Brotzman      61 61
+     64  Kate Earnhardt       def.  Amila Jusufbegovic   75 75
+     64  Victoire de Samucew… def.  Elizabeth Nowak      63 61
+     64  Clara Errard         def.  Zoe Cauthen          76(6) 62
+     64  Megan Hopton         def.  Helena Huff          57 63 61
+     64  Paola Landin         def.  McKenzie Daniel      61 63
+~~~
+
 <a name="21-68401"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -1703,6 +1771,52 @@
      32  Julia Fliegner    def.  Katherine Jakeway  62 61
      32  Madeline Atway    def.  Merri Kelly        75 46 [5]
      32  Anca Craciun      def.  Dani Schoenly      60 63
+~~~
+
+<a name="21-37198"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Louisville Classic
+  Dates: Oct 29-31, 2021
+  Host: University Of Louisville (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Friday
+  > Main
+     32  Andrea Di Palma      def.  Yuliya Kizelbasheva  75 62
+     32  Rhea Verma           def.  Eleanor Nobbs        60 61
+     32  Chelsea Sawyer       def.  Marija Jovicic       76(3) 63
+     32  Madelyn Yergler      def.  Dina Chaika          76(2) 26 [3]
+     32  Tyra Richardson      def.  Valentina Martin     63 61
+     32  Joy Callwood         def.  Katrina Rand         64 61
+     32  Jessica Braun        def.  Muskan Gupta         63 63
+     32  Amy Kaplan           def.  Lee Barnard          64 63
+     32  Mariya Polishchuk    def.  Zani Barnard         63 60
+     32  Hannah Davies        def.  Noelle Mauro         61 61
+     32  Lilly-Sophie Schmidt def.  Elena Malykh         64 62
+ > Saturday
+  > Main
+     32  Andrea Di Palma      def.  Emma Peeler          61 61
+     32  Jessica Braun        def.  Rhea Verma           76(5) 36 [8]
+     32  Chelsea Sawyer       def.  Mariya Polishchuk    46 76(5) [8]
+     32  Amy Kaplan           def.  Dina Chaika          62 76(5)
+     32  Hannah Davies        def.  Tyra Richardson      63 62
+     32  Livia Lukacs         def.  Joy Callwood         61 60
+     32  Muskan Gupta         def.  Eleanor Nobbs        62 60
+     32  Madelyn Yergler      def.  Zani Barnard         63 61
+     32  Valentina Martin     def.  Lilly-Sophie Schmidt 61 26 [8]
+     32  Noelle Mauro         def.  Katrina Rand         67(3) 75 [4]
+ > Sunday
+  > Main
+     32  Yuliya Kizelbasheva  def.  Emma Peeler          63 36 [5]
+     32  Jessica Braun        def.  Marija Jovicic       60 61
+     32  Mariya Polishchuk    def.  Madelyn Yergler      67(5) 62 [8]
+     32  Eleanor Nobbs        def.  Livia Lukacs         62 61
+     32  Elena Malykh         def.  Valentina Martin     62 62
+     32  Andrea Di Palma      def.  Zani Barnard         64 60
+     32  Rhea Verma           def.  Muskan Gupta         63 36 [8]
+     32  Chelsea Sawyer       def.  Lilly-Sophie Schmidt 46 62 [5]
+     32  Tyra Richardson      def.  Noelle Mauro         46 61 [1]
 ~~~
 
 <a name="21-24286"></a>
@@ -2031,6 +2145,40 @@
      16  Esther Adeshina     def.  Dasha Kourkina       64 61
      16  MaryAnn Rompf       def.  Callie Creath        62 46 76(2)
      16  Yufei Long          def.  Kylie Duckworth      75 76(5)
+~~~
+
+<a name="21-95134"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  UNA Women's Tennis Classic II
+  Dates: Oct 30-31, 2021
+  Host: University Of North Alabama (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Purple
+  > Main
+     16  Jana Leder           def.  Sydney Flesch        76(6) 63
+     16  Denise Torrealba     def.  Kalais Going         61 63
+     16  Payton Andrews       def.  Honoka Nakanishi     64 64
+     16  Martina Paladini- J… def.  Lee-Taylor Bishop    61 60
+     16  Aleksandra Topalovic def.  Makayla Loubser      64 36 [4]
+     16  Yu-Hua Cheng         def.  Nicole Reilly        62 63
+ > White
+  > Main
+     16  Danielle Morris      def.  Haina Franco         63 76(6)
+     16  Jana Leder           def.  Heden Ly             60 64
+     16  Denise Torrealba     def.  Emiri Takanishi      61 60
+     16  Martina Paladini- J… def.  Hardija Vidnere      76(9) 60
+     16  Valeria Arevalo      def.  Aleksandra Topalovic 75 36 [9]
+     16  Yu-Hua Cheng         def.  Morgan Bishop        62 63
+ > Grey
+  > Main
+     16  Sydney Flesch        def.  Haina Franco         62 63
+     16  Payton Andrews       def.  Heden Ly             63 75
+     16  Kalais Going         def.  Emiri Takanishi      60 61
+     16  Hardija Vidnere      def.  Lee-Taylor Bishop    64 60
+     16  Valeria Arevalo      def.  Nicole Reilly        62 61
+     16  Makayla Loubser      def.  Morgan Bishop        46 61 [6]
 ~~~
 
 <a name="21-77110"></a>

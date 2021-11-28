@@ -1,4 +1,4 @@
-<a name="top"></a>[<< Prev](women_singles_2144.md) &nbsp; **Week #45 - Nov 8-14, 2021** &nbsp; [Next >>](women_singles_2202.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2145.md) &#124; [***Women***](./women_singles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2145.md) &#124; [Doubles](./women_doubles_2145.md)
+<a name="top"></a>[<< Prev](women_singles_2144.md) &nbsp; **Week #45 - Nov 8-14, 2021** &nbsp; [Next >>](women_singles_2147.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2145.md) &#124; [***Women***](./women_singles_2145.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2145.md) &#124; [Doubles](./women_doubles_2145.md)
 
 **Tournamets with Matches**  
 - 11/4/2021 - [Harvard Fall Invitational](#21-06527) ([Results](#21-06527) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Draws</a>)  
@@ -65,7 +65,7 @@
  > BU vs Wisconsin
   > Main
      16  Ava Markham         def.  Erica Di Battista   62 63
-     16  Denise Stoica       def.  Michelle Kleynerman 63 76(4)
+     16  Michelle Kleynerman def.  Denise Stoica       63 76(4)
      16  Victoria Carlsten   def.  Taylor Cataldi      16 62 [10]
      16  Shelly Yaloz        def.  Ariel Johnson       64 63
      16  Nastasya Semenovski def.  Emily Kim           64 63

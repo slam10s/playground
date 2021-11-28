@@ -26,6 +26,7 @@
 - 9/24/2021 - [Stetson Invite](#21-76161) ([Results](#21-76161) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/EDD70DAB-65CC-4E26-BC6B-D0CC66FD5BAC" target="_blank">Draws</a>)  
 - 9/24/2021 - [Thunder in the Mountains](#21-26764) ([Results](#21-26764) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/6F07BB8D-7FC6-4D88-B1F7-809501FCD0B1" target="_blank">Draws</a>)  
 - 9/24/2021 - [University of Minnesota Gopher Invitational](#21-50226) ([Results](#21-50226) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">Draws</a>)  
+- 9/25/2021 - [Xavier Invitational](#21-00699) ([Results](#21-00699) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityOHW/Tournaments/Overview/3BA7BF0C-17C2-4B58-BBA3-BBA1627F8304" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division II Women's Atlantic ITA Regional Championships](#21-02393) ([Results](#21-02393) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillersvilleUniversityW/Tournaments/Overview/AC190190-736B-4838-AE7A-A4CD92F079D3" target="_blank">Draws</a>)  
@@ -41,14 +42,13 @@
 - 9/24/2021 - [Lindsay Morehouse Invitational](#21-15800) ([Results](#21-15800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamsCollegeW/Tournaments/Overview/29825979-F460-4366-ACCA-41A880C0E1DA" target="_blank">Draws</a>)  
 - 9/24/2021 - [NAIA Men's & Women’s Central West ITA Regional Championships](#21-71515) ([Results](#21-71515) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/4634336A-CD7E-4460-A5BC-7A5845C12F23" target="_blank">Draws</a>)  
 - 9/23/2021 - [NAIA Men’s & Women's Central East ITA Regional Championships](#21-30614) ([Results](#21-30614) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OlivetNazareneUniversityM/Tournaments/Overview/64071334-93D8-4F00-A376-DE31F2A79DBC" target="_blank">Draws</a>)  
+- 9/25/2021 - [SLU Women's Invitational](#21-43304) ([Results](#21-43304) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/30A7E87D-28B1-49C9-A378-10FD9FB57350" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityW/Tournaments/Overview/1CE6B392-5A54-43F9-A9F6-BAC5D49C0747" target="_blank">Lehigh Women's Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/DA20527E-5D36-4FBF-A32B-A3905E6A333C" target="_blank">SMU Fall Invite</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaW/Tournaments/Overview/D09BC058-0102-4062-90BE-1A0436D0E2C9" target="_blank">UNA Women's Tennis Classic</a>  
 - 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternIllinoisUniversityW/Tournaments/Overview/F071C84F-6B2D-4B81-8D42-5B11D51EAB94" target="_blank">Western Illinois University Fall Invite</a>  
-- 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityOHW/Tournaments/Overview/3BA7BF0C-17C2-4B58-BBA3-BBA1627F8304" target="_blank">Xavier Invitational</a>  
-- 9/25/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/30A7E87D-28B1-49C9-A378-10FD9FB57350" target="_blank">SLU Women's Invitational</a>  
 
 <a name="21-02376"></a>
 ~~~
@@ -349,7 +349,38 @@
      16     Bruu-Syversen/Reuter def.     Rook/Silva           86
      16 (4) Pesqueira/Zlotnik    def.     McSkimming/Yotova    86
   > Consolation
+      F     Rook/Silva           def.     Sam/Zamora           84
      SF     Sam/Zamora           def.     Del Barrio/Sarcelet  80
+     SF     Rook/Silva           def. (2) Carmichael/Wiese     84
+     QQ     Rook/Silva           def.     McSkimming/Yotova    81
+ > Gold
+  > Main
+      F (4) Richardson/Thiel     def. (2) Kiss/Gonzalez-Ballbe 85
+     SF (4) Richardson/Thiel     def.     Massey/Ronney        84
+     SF (2) Kiss/Gonzalez-Ballbe def.     Qiu/Chhabra          84
+     QF     Massey/Ronney        def. (1) Gamracy/Colyer       84
+     QF (4) Richardson/Thiel     def.     Dunyon/Heimuli       86
+     QF     Qiu/Chhabra          def.     Lee/Hill             87(6)
+     QF (2) Kiss/Gonzalez-Ballbe def.     Nadozie/Pitts        84
+     16 (1) Gamracy/Colyer       def.     Luneva/Moll Alles    83
+     16     Massey/Ronney        def.     Ung/Clydesdale-Eber… 86
+     16 (4) Richardson/Thiel     def.     Page/Maunupau        86
+     16     Dunyon/Heimuli       def.     Johnson/Ferreros     82
+     16     Qiu/Chhabra          def.     Hayer/Gordon         86
+     16     Lee/Hill             def. (3) LeRoy/Brilhante      80
+     16     Nadozie/Pitts        def.     Stavropoulos/Zell    86
+     16 (2) Kiss/Gonzalez-Ballbe def.     Bente/LaMette        87(4)
+  > Consolation
+      F     Bente/LaMette        def.     Ung/Clydesdale-Eber… 85
+     SF     Ung/Clydesdale-Eber… def.     Page/Maunupau        82
+     SF     Bente/LaMette        def.     Hayer/Gordon         83
+     QQ     Ung/Clydesdale-Eber… def.     Luneva/Moll Alles    85
+     QQ     Page/Maunupau        def.     Johnson/Ferreros     82
+     QQ     Hayer/Gordon         def. (3) LeRoy/Brilhante      87(3)
+     QQ     Bente/LaMette        def.     Stavropoulos/Zell    83
+ > Sunday RR
+  > Main
+     QF     Goncharova/Huang     def.     Lee/Alter            84
 ~~~
 
 <a name="21-92191"></a>
@@ -875,6 +906,15 @@
      16      Ganesan/Popma        def.      Andres/Dukic         81
      16      Ali/Schoenly         def.      Morgoshia/Borodina   80
      32      Vichare/Brichackova  def.      Rakita/Dimitriev     84
+ > Consolation Doubles
+  > Main
+     64      Kuszynski/Tallamraju def.      Czerwonka/Czerwonka  81
+     64      Ali/Schoenly         def.      Poppe/Fuentes        80
+     64      Kojcic/Turconi       def.      Abreu/Damnjanovic    86
+     64      Tabanera/Schoolcraft def.      Brodin/Fitzgerald    65 Ret.
+     64      Tsadari/Neuman       def.      Popovic/Weise        85
+     64      Ganesan/Popma        def.      Iglesias/Vetter      83
+     64      Lazic/Rabjohns       def.      Ali/Bereznyak        85
 ~~~
 
 <a name="21-03887"></a>
@@ -1296,6 +1336,44 @@
  > Sunday Court 10
   > Main
       F  Heinitz/Bowles       def.  Skobkareva/Girbau    64
+~~~
+
+<a name="21-00699"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Xavier Invitational
+  Dates: Sep 25-26, 2021
+  Host: Xavier University/OH (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Day One Morning
+  > East
+     16  Graham/Roggenburk    def.  Kompa/Katauskas      62
+     16  Thomas/Lyman         def.  Wojcikiewicz/Greb    60
+     16  Smith/Nwaozuzu       def.  Mitchell/Hamilton    60
+     16  Moyer/Kirby          def.  Stanton/Ghidotti     62
+     16  Romero/Reayer        def.  Mclay/Santilli       63
+     16  Guna/Miceli          def.  Meyer/Woog           75
+     16  Flanagan/Pendergast  def.  Teixido-Garcia/Tumt… 63
+     16  Grosmann/Jones       def.  Bruno/Niehaus        76(3)
+ > Day Two Morning
+  > East
+     16  Mclay/Pendergast     def.  Graham/Roggenburk    63
+     16  Thomas/Lyman         def.  Guna/Miceli          61
+     16  Smith/Nwaozuzu       def.  Flanagan/Niehaus     64
+     16  Moyer/Kirby          def.  Bruno/Santilli       76(1)
+     16  Romero/Meyer         def.  Kompa/Hamilton       63
+     16  Reayer/Teixido-Garc… def.  Greb/Katauskas       60
+     16  Wojcikiewicz/Stanton def.  Grosmann/Jones       63
+ > Day Two Afternoon
+  > Main
+     16  Graham/Roggenburk    def.  Romero/Reayer        63
+     16  Thomas/Lyman         def.  Meyer/Jones          63
+     16  Smith/Nwaozuzu       def.  Teixido-Garcia/Gros… 76(1)
+     16  Moyer/Kirby          def.  Woog/Tumthong        61
+     16  Kompa/Katauskas      def.  Guna/Miceli          64
+     16  Flanagan/Pendergast  def.  Wojcikiewicz/Greb    62
+     16  Reddy/Hirsch         def.  Mitchell/Hamilton    63
 ~~~
 
 <a name="21-22872"></a>
@@ -2106,6 +2184,24 @@
      32     Mijailovic/Guillen … def. (8) Christiansen/Kuzmin… 86
      32     Hahn/Saini           def.     Meyer/Kowalke        86
      32 (2) Westkamp/Cedano      def.     Haws/Nhiwatiwa       82
+~~~
+
+<a name="21-43304"></a>
+~~~
+══════════════════════════════════════════════════
+  SLU Women's Invitational
+  Dates: Sep 25-25, 2021
+  Host: St. Lawrence University (M)
+══════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+     R3  Tobin/Galle      def.  Drozd/Donohue   85
+     R3  Dadoly/Sullivan  def.  Seiler/Krol     86
+     R2  Gamble/Styliades def.  Schulz/Klomp    82
+     R2  Dadoly/Sullivan  def.  Smolowitz/Auble 86
+     R1  Schulz/Klomp     def.  Wade/Murray     85
+     R1  Smolowitz/Auble  def.  Seiler/Krol     85
 ~~~
 
 Return to the [Top](./women_doubles_2138.md) &#124; [Home Page](../../index.md)

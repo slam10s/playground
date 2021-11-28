@@ -8,8 +8,10 @@
 - 10/8/2021 - [49er Invite](#21-68924) ([Results](#21-68924) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCCharlotteW/Tournaments/Overview/928AA6BE-846A-430B-89FA-222F70E8CCBB" target="_blank">Draws</a>)  
 - 10/9/2021 - [Cincinnati/Xavier Fall Invitational](#21-24398) ([Results](#21-24398) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326" target="_blank">Draws</a>)  
 - 10/8/2021 - [Georgia Southern Fall Shootout](#21-23829) ([Results](#21-23829) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC" target="_blank">Draws</a>)  
+- 10/8/2021 - [Husky Invitational](#21-57375) ([Results](#21-57375) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Draws</a>)  
 - 10/4/2021 - [ITA Women's All-American Championship](#21-68261) ([Results](#21-68261) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B" target="_blank">Draws</a>)  
 - 10/8/2021 - [Jimmy Powell Invitational](#21-66349) ([Results](#21-66349) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Draws</a>)  
+- 10/8/2021 - [June Stewart](#21-72773) ([Results](#21-72773) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">Draws</a>)  
 - 10/8/2021 - [Long Beach State Fall Tournament](#21-66132) ([Results](#21-66132) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Draws</a>)  
 - 10/8/2021 - [MVC Individual Championships](#21-95059) ([Results](#21-95059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">Draws</a>)  
 - 10/8/2021 - [Navy Blue and Gold Invitational](#21-53408) ([Results](#21-53408) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C" target="_blank">Draws</a>)  
@@ -26,8 +28,6 @@
 - 10/8/2021 - [Warhawk Fall Invitational](#21-01807) ([Results](#21-01807) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/0D92B574-F815-4CD2-9DB5-9DE635B3C608" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E" target="_blank">Husky Invitational</a>  
-- 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">June Stewart</a>  
 - 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 - 10/8/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64" target="_blank">Newitt</a>  
 
@@ -361,6 +361,56 @@
       F  Young/Bergqvist      def.  Rich/Varudandi       63
 ~~~
 
+<a name="21-57375"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Husky Invitational
+  Dates: Oct 8-10, 2021
+  Host: University Of Washington (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > UW vs PSU
+  > Main
+     R3  Leung/Chang          def.  Rees/Hernandez       63
+     R3  Milenkoski/Sanoner   def.  Leung/Lin            64
+     R2  Leung/Chang          def.  Milenkoski/Sanoner   64
+ > UW vs WSU
+  > Main
+     R5  Sato/Chilton         def.  Lee/Kumhom           64
+     R3  Lin/Weil             def.  Abouelsaad/Murphy    62
+     R2  Ly-Nguyen/Bayerlova  def.  Zupancic/Fortin      62
+ > DePaul vs Oregon
+  > Main
+     R5  Mould/Mulville       def.  Jovicic/Nobbs        64
+     R4  Teixido Garcia/Lues… def.  Yergler/Martin       60
+     R3  Antonijevic/Kizelba… def.  Martinez Moral/Petc… 76
+ > Oregon vs PSU
+  > Main
+     R5  Olsen/Kobayashi      def.  Ohara/Beukers        63
+     R3  Rees/Hernandez       def.  Ljubas/Mould         63
+     R1  Olsen/Ljubas         def.  Milenkoski/Sanoner   63
+ > UW vs Oregon
+  > Main
+     R5  Martinez Moral/Koba… def.  Weil/Fortin          61
+     R2  Petchey/Teixido Gar… def.  Chilton/Lin          60
+     R1  Zupancic/Sato        def.  Luescher/Mould       64
+ > WSU vs DePaul
+  > Main
+     R4  Abouelsaad/Murphy    def.  Yergler/Martin       62
+     R4  Ly-Nguyen/Bayerlova  def.  Antonijevic/Kizelba… 76(6)
+     R4  Lee/Kumhom           def.  Jovicic/Nobbs        76(1)
+ > UW vs DePaul
+  > Main
+     R4  Chilton/Fortin       def.  Jovicic/Nobbs        62
+     R2  Weil/Chang           def.  Yergler/Martin       62
+     R1  Zupancic/Sato        def.  Antonijevic/Kizelba… 64
+ > WSU vs Oregon
+  > Main
+     R5  Lee/Kumhom           def.  Luescher/Mulville    75
+     R4  Abouelsaad/Murphy    def.  Martinez Moral/Teix… 64
+     R1  Ly-Nguyen/Bayerlova  def.  Petchey/Kobayashi    64
+~~~
+
 <a name="21-68261"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════════════
@@ -466,11 +516,22 @@
 
 <a name="21-72773"></a>
 ~~~
-════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   June Stewart
   Dates: Oct 8-10, 2021
   Host: Vanderbilt University (W)
-════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Matches Day 1
+  > Main
+     32  Richardson/Achong    def.  Duong/Frazier    61
+     32  Tahan/Khodan         def.  Heuser/Yeah      75
+     32  Boch-Collins/Pfennig def.  Ferrari/Treiber  63
+     32  Popova/Trbeznik      def.  Casati/Ingle     60
+     32  Hsieh/Kezuka         def.  Kourkina/Stevens 64
+     32  Arrese/Gonzalez      def.  Ross/Staff       76
+     32  Long/Rompf           def.  Urrutia/Stevens  64
+     32  Lee/Cruz             def.  Morante/Girbau   62
 ~~~
 
 <a name="21-66132"></a>
@@ -498,7 +559,7 @@
       F  Duffy/Tobrand        def.  Lennon/Le Du         63
  > Flight B
   > East
-      F  Buzkova/Mihaljevic   def.  Prudhomme/Schmidt    64
+      F  Prudhomme/Schmidt    def.  Buzkova/Mihaljevic   64
      SF  Buzkova/Mihaljevic   def.  Garcia/Nikitash      64
      SF  Prudhomme/Schmidt    def.  Szczepanska/Babkova  64
      QF  Buzkova/Mihaljevic   def.  Tolmoyan/Santibanez… 61

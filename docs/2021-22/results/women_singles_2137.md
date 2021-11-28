@@ -15,6 +15,7 @@
 - 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655) ([Results](#21-47655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityW/Tournaments/Overview/AF0C9E05-93DF-4088-A5CF-0B35FDCDBA9C" target="_blank">Draws</a>)  
 - 9/17/2021 - [QU Hidden Duals At Uconn](#21-14835) ([Results](#21-14835) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">Draws</a>)  
 - 9/17/2021 - [Redbird Invitational](#21-33894) ([Results](#21-33894) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityW/Tournaments/Overview/1C326774-DC63-4687-A38F-F4CEEC065C15" target="_blank">Draws</a>)  
+- 9/17/2021 - [Saint Joseph's Invitational - Women](#21-21233) ([Results](#21-21233) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintJosephsUniversityM/Tournaments/Overview/3B93C43A-402F-424E-B829-B23AB5353230" target="_blank">Draws</a>)  
 - 9/17/2021 - [University of Cincinnati/Pam Whitehead Fall Invitational](#21-41928) ([Results](#21-41928) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/2AC37E0E-BC70-43E0-AC4B-A8D6589AEE02" target="_blank">Draws</a>)  
 - 9/17/2021 - [UVA Invitational](#21-02168) ([Results](#21-02168) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/C8B138D1-65A1-4A21-BF46-12614579945A" target="_blank">Draws</a>)  
 - 9/16/2021 - [BAC Invitational](#21-94974) ([Results](#21-94974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/552FF54B-FAB3-426B-A825-9862C725D095" target="_blank">Draws</a>)  
@@ -34,7 +35,6 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SaintJosephsUniversityM/Tournaments/Overview/3B93C43A-402F-424E-B829-B23AB5353230" target="_blank">Saint Joseph's Invitational - Women</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">PP/CMS Invite</a>  
 
@@ -1421,6 +1421,86 @@
      QF  Kirstin Hailey       def.  Amanda Tabanera      62 75
   > Playoff 3-4
       F  Madelyn Yergler      def.  Elisabeth Desmarais  75 63
+~~~
+
+<a name="21-21233"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  Saint Joseph's Invitational - Women
+  Dates: Sep 17-19, 2021
+  Host: Saint Joseph's University (M)
+══════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight 1
+  > Main
+      F  Lauren Manwiller     def.  Olivia Tracey        76(5) 76(4)
+     SF  Lauren Manwiller     def.  Anna Rico            62 64
+     SF  Olivia Tracey        def.  Abigail Moghtader    76(4) 63
+     QF  Anna Rico            def.  Amanda Nava          46 76(6) [6]
+     QF  Lauren Manwiller     def.  Lauren Quinn         63 36 [9]
+     QF  Abigail Moghtader    def.  Stow Weiss           61 36 [3]
+     QF  Olivia Tracey        def.  Deana Giambo         67(6) 76(1) [2]
+  > Consolation
+      F  Amanda Nava          def.  Deana Giambo         Walkover
+     SQ  Amanda Nava          def.  Lauren Quinn         61 63
+     SQ  Deana Giambo         def.  Stow Weiss           62 62
+ > Flight 2
+  > Main
+      F  Abby Decker          def.  Emily Elliott        64 36 [7]
+     SF  Emily Elliott        def.  Claire Coleman       36 75 [7]
+     SF  Abby Decker          def.  Jane Bockman         Walkover
+     QF  Claire Coleman       def.  Ellen Zureick        75 64
+     QF  Emily Elliott        def.  Sandra Aguirre       60 61
+     QF  Jane Bockman         def.  Fabiana Tort-Umpier… 36 64 [7]
+     QF  Abby Decker          def.  Andriana Zaphiris    60 61
+  > Consolation
+      F  Fabiana Tort-Umpier… def.  Sandra Aguirre       75 30 Ret.
+     SQ  Sandra Aguirre       def.  Ellen Zureick        67(5) 63 [9]
+     SQ  Fabiana Tort-Umpier… def.  Andriana Zaphiris    62 61
+ > Flight 3
+  > Main
+      F  Ireland Amato        def.  Julia Thompson       60 61
+     SF  Ireland Amato        def.  Emma King            Walkover
+     SF  Julia Thompson       def.  Riley Smith          62 76(3)
+     QF  Ireland Amato        def.  Hana Kimmey          62 75
+     QF  Emma King            def.  Jessica Bodewes      06 62 [8]
+     QF  Julia Thompson       def.  Amanda Hagino        75 67(4) [7]
+     QF  Riley Smith          def.  Brooke Santoriello   61 62
+     16  Ireland Amato        def.  Taylor Kuncl         62 10 Ret.
+     16  Emma King            def.  Emily Beckner        75 61
+     16  Jessica Bodewes      def.  Natalia Calvo        61 61
+     16  Julia Thompson       def.  Ana Ocasio           64 63
+     16  Amanda Hagino        def.  Sophia Amato         61 75
+     16  Brooke Santoriello   def.  Anna Holway          61 60
+  > Consolation
+      F  Emily Beckner        def.  Hana Kimmey          Walkover
+     SF  Hana Kimmey          def.  Sophia Amato         64 62
+     SF  Emily Beckner        def.  Ana Ocasio           63 26 [2]
+     QF  Hana Kimmey          def.  Natalia Calvo        61 60
+     QQ  Sophia Amato         def.  Taylor Kuncl         61 62
+     QQ  Emily Beckner        def.  Anna Holway          60 61
+ > Flight 4
+  > Main
+      F  Genevieve Wurtz      def.  Vanessa Ciano        Walkover
+     SF  Vanessa Ciano        def.  Lauren Williamson    60 06 [4]
+     SF  Genevieve Wurtz      def.  Akanksha Sreenivas   62 62
+     QF  Lauren Williamson    def.  Alani Connor         64 62
+     QF  Vanessa Ciano        def.  Sophia Moore         63 63
+     QF  Akanksha Sreenivas   def.  Addison Kemerer      61 61
+     QF  Genevieve Wurtz      def.  Lottie Allin         62 61
+     16  Alani Connor         def.  Lily Holtschneider   62 62
+     16  Vanessa Ciano        def.  Alex Kramer          60 62
+     16  Akanksha Sreenivas   def.  Romi Meirovich       Walkover
+     16  Addison Kemerer      def.  Caroline Novak       60 60
+     16  Genevieve Wurtz      def.  Lea Lambert          Walkover
+     16  Lottie Allin         def.  Paige Conrad         62 57 [6]
+  > Consolation
+      F  Paige Conrad         def.  Sophia Moore         63 60
+     SF  Paige Conrad         def.  Caroline Novak       60 60
+     SF  Sophia Moore         def.  Alex Kramer          62 61
+     QF  Caroline Novak       def.  Lea Lambert          Walkover
+     QQ  Sophia Moore         def.  Romi Meirovich       Walkover
+     QQ  Alex Kramer          def.  Lily Holtschneider   60 62
 ~~~
 
 <a name="21-41928"></a>

@@ -10,6 +10,7 @@
 - 9/10/2021 - [Women's Drake Invite](#21-32364) ([Results](#21-32364) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/51EAC500-8BA9-4BA4-A244-CED3E726C5FE" target="_blank">Draws</a>)  
 - 9/10/2021 - [Angelo State SlamFest](#21-31047) ([Results](#21-31047) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AngeloStateUniversityW/Tournaments/Overview/AF7EE133-54BC-4F7C-A60D-0E1A114F1191" target="_blank">Draws</a>)  
 - 9/10/2021 - [Limestone Women's Challenger](#21-92220) ([Results](#21-92220) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityW/Tournaments/Overview/CD512B83-10FF-46E4-86C6-2C34954D0D21" target="_blank">Draws</a>)  
+- 9/10/2021 - [Oberlin Invitational](#21-08925) ([Results](#21-08925) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Draws</a>)  
 - 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [University of Findlay/Findlay YMCA East Fall Invite](#21-72676) ([Results](#21-72676) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">Draws</a>)  
@@ -18,7 +19,6 @@
 
 **Tournaments without Matches**  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Wallach Invitational</a>  
 
@@ -848,6 +848,148 @@
      R1  Courtney Fyvie      def.  Alexandra Dolfi      61 36 [8]
      R1  Emilia Roslund      def.  Hannah Panchal       64 75
      R1  Roberta Aramni      def.  Katie Watts          63 64
+~~~
+
+<a name="21-08925"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  Oberlin Invitational
+  Dates: Sep 10-11, 2021
+  Host: Oberlin College (W)
+═════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Round 1
+  > Main
+     128  Hannah Kassaie       def.  Victoria Vazquez     63 64
+     128  Caroline Lopez       def.  Samantha Kohn        63 64
+     128  Regan Landis         def.  Tiaralei Cade        61 60
+     128  Malikaa Marathe      def.  Daria Beshentseva    61 64
+     128  Katherine Stancil    def.  Miranda Wills        63 63
+     128  Lily McCloskey       def.  Evelina Martirosyan  64 62
+     128  Gemma Cliffe         def.  Shreyaa Mukund       62 62
+     128  Sabrina Rodriguez    def.  Irina Beshentseva    61 63
+     128  Lindy Cornwall       def.  Savannah Bright      64 64
+     128  Teddi Isherwood      def.  Radha Patel          75 64
+     128  Anna Pastore         def.  Caroline Chandler    63 63
+     128  Ella Swan            def.  Susan Biederstedt    61 60
+     128  Sarah Yang           def.  Anna Winslow         62 62
+     128  Margot Fontaine      def.  Georgia Lancaster    64 62
+     128  Emma Arnal           def.  Megan Qiang          62 46 [9]
+     128  Hannah Bradvica      def.  Alandria Bellamy     57 63 [10]
+     128  Eleni Dakos          def.  Pallavi Goculdas     16 75 [7]
+     128  Sneha Karnam         def.  Samantha Weber       62 61
+     128  Crystal Zhou         def.  Anna Kan             63 63
+     128  Megan Reese          def.  Catriona Macintosh   16 63 [3]
+     128  Adriana Gonzalez Sa… def.  Sydney Cianciola     62 64
+     128  Erika Pontillo       def.  Morgan Little        63 57 [4]
+     128  Nuria Martin Lopez   def.  Dina Nouaime         60 61
+     128  Katherine Wang       def.  Daria Shchoma        60 26 [3]
+     128  Kendall Schrader     def.  Olivia Kesner        64 61
+     128  Ericka Nathalia Val… def.  Sarah Robertson      62 36 [6]
+     128  Jaqueline Pena Acev… def.  Francesca Kern       63 62
+     128  Sai Dhanvi Lalasa N… def.  Isabelle Olaes       61 30 Ret.
+     128  Claudia Olaes        def.  Florine Sanchez      60 61
+     128  Amelia Bronfman      def.  Jacyln Voss          62 26 [12]
+     128  Jean-Arlette Legrand def.  Elysia Beynon        16 75 [4]
+     128  Gabriela Del Val De… def.  Zoe Angell           64 57 [1]
+     128  Angela Anderanin     def.  Allison Riley        62 61
+     128  Katherine OConnell   def.  Taylor Hayes         61 75
+     128  Anna Vitale          def.  Sarah Michael        61 62
+     128  Ava Givone           def.  Monique Brual        62 62
+     128  Julianne Sheldon     def.  Peyton Crumpler      62 63
+     128  Noelle Kidd          def.  Claire Colbaugh      61 61
+     128  Olga Aliagas Mejina  def.  Nina Hoog            64 75
+     128  Marisa Petrunich     def.  Maria Nicholls       62 61
+     128  Kavya Singh          def.  Jeorgia Templin      61 62
+     128  Mia Zivkovic         def.  Alice Radde          64 63
+ > Round 4
+  > Main
+     128  Hannah Kassaie       def.  Marta Laska          61 63
+     128  Evelina Martirosyan  def.  Daria Beshentseva    62 62
+     128  Miranda Wills        def.  Jean-Arlette Legrand 61 61
+     128  Jeorgia Templin      def.  Anna Vitale          60 60
+     128  Crystal Zhou         def.  Adriana Gonzalez Sa… 16 62 [6]
+     128  Anna Kan             def.  Sydney Cianciola     62 64
+     128  Jaqueline Pena Acev… def.  Hannah Bradvica      63 64
+     128  Noelle Kidd          def.  Jacyln Voss          63 62
+     128  Monique Brual        def.  Olga Aliagas Mejina  64 61
+     128  Angela Anderanin     def.  Regan Landis         76(3) 64
+     128  Ava Givone           def.  Daria Shchoma        62 60
+     128  Sabrina Rodriguez    def.  Olivia Kesner        63 64
+     128  Caroline Lopez       def.  Eliza Georgiades     26 62 [7]
+     128  Katherine Stancil    def.  Irina Beshentseva    63 62
+ > Round 2
+  > Main
+     128  Evelina Martirosyan  def.  Victoria Vazquez     63 62
+     128  Sai Dhanvi Lalasa N… def.  Ericka Nathalia Val… 36 64 [8]
+     128  Angela Anderanin     def.  Caroline Chandler    63 62
+     128  Caitlyn Hsu          def.  Gemma Cliffe         63 60
+     128  Katherine OConnell   def.  Jean-Arlette Legrand 76(1) 60
+     128  Hannah Kassaie       def.  Daria Beshentseva    62 60
+     128  Gabriela Del Val De… def.  Sarah Robertson      61 67(3) [2]
+     128  Regan Landis         def.  Susan Biederstedt    61 62
+     128  Teddi Isherwood      def.  Margot Fontaine      62 62
+     128  Elysia Beynon        def.  Allison Riley        60 61
+     128  Lily McCloskey       def.  Lindy Cornwall       63 64
+     128  Zoe Angell           def.  Nidhi Jha            61 60
+     128  Eliza Georgiades     def.  Samantha Weber       63 75
+     128  Julianne Sheldon     def.  Taylor Hayes         62 61
+     128  Sarah Yang           def.  Savannah Bright      61 62
+     128  Madeleine Eiss       def.  Monique Brual        63 61
+     128  Kendall Schrader     def.  Anna Pastore         75 16 [3]
+     128  Isabelle Olaes       def.  Nina Hoog            64 62
+     128  Tiaralei Cade        def.  Peyton Crumpler      64 36 [11]
+     128  Emma Arnal           def.  Anna Winslow         26 63 [8]
+     128  Olga Aliagas Mejina  def.  Dina Nouaime         36 61 [5]
+     128  Alandria Bellamy     def.  Victoria Santana-Mc… 61 60
+     128  Marta Laska          def.  Megan Reese          63 06 [8]
+     128  Hannah Keidan        def.  Maria Nicholls       63 61
+     128  Eleni Dakos          def.  Megan Qiang          46 62 [6]
+     128  Ella Swan            def.  Francesca Kern       57 62 [6]
+     128  Morgan Little        def.  Alice Radde          63 61
+     128  Kavya Singh          def.  Jacyln Voss          61 63
+     128  Jeorgia Templin      def.  Amelia Bronfman      63 63
+     128  Anna Kan             def.  Adriana Gonzalez Sa… 42 Ret.
+     128  Erika Pontillo       def.  Hannah Bradvica      63 57 [9]
+     128  Noelle Kidd          def.  Emily Duckett        61 61
+     128  Nuria Martin Lopez   def.  Pallavi Goculdas     61 36 [4]
+     128  Mia Zivkovic         def.  Catriona Macintosh   64 61
+ > Round 3
+  > Main
+     128  Hannah Kassaie       def.  Ava Givone           75 61
+     128  Anna Winslow         def.  Savannah Bright      63 36 [8]
+     128  Lindy Cornwall       def.  Emma Arnal           76 62
+     128  Marta Laska          def.  Georgia Lancaster    64 61
+     128  Sarah Yang           def.  Eleni Dakos          76(1) 61
+     128  Anna Vitale          def.  Sarah Michael        60 62
+     128  Nina Hoog            def.  Samantha Kohn        30 Ret.
+     128  Katherine Stancil    def.  Elysia Beynon        60 64
+     128  Megan Qiang          def.  Pallavi Goculdas     64 64
+     128  Caroline Lopez       def.  Caitlyn Hsu          64 64
+     128  Irina Beshentseva    def.  Katherine OConnell   76(5) 57 [7]
+     128  Crystal Zhou         def.  Nuria Martin Lopez   64 62
+     128  Teddi Isherwood      def.  Shreyaa Mukund       60 60
+     128  Julianne Sheldon     def.  Allison Riley        67(3) 64 [3]
+     128  Gemma Cliffe         def.  Margot Fontaine      62 63
+     128  Peyton Crumpler      def.  Taylor Hayes         06 64 [4]
+     128  Sydney Cianciola     def.  Daria Shchoma        61 60
+     128  Jaqueline Pena Acev… def.  Alandria Bellamy     76(1) 60
+     128  Megan Reese          def.  Samantha Weber       62 63
+     128  Tiaralei Cade        def.  Maria Nicholls       62 61
+     128  Radha Patel          def.  Ericka Nathalia Val… 67(4) 63 [7]
+     128  Kendall Schrader     def.  Victoria Santana-Mc… 61 30 Ret.
+     128  Catriona Macintosh   def.  Morgan Little        63 36 [4]
+     128  Kavya Singh          def.  Marisa Petrunich     63 61
+     128  Sai Dhanvi Lalasa N… def.  Sarah Robertson      67(4) 75 [1]
+     128  Sabrina Rodriguez    def.  Caroline Chandler    63 64
+     128  Gabriela Del Val De… def.  Nidhi Jha            64 64
+     128  Francesca Kern       def.  Olivia Kesner        36 62 [9]
+     128  Claudia Olaes        def.  Alice Radde          63 75
+     128  Amelia Bronfman      def.  Emily Duckett        62 64
+     128  Madeleine Eiss       def.  Zoe Angell           61 63
+     128  Anna Pastore         def.  Ella Swan            76(3) 46 [5]
+     128  Miranda Wills        def.  Susan Biederstedt    46 62 [1]
+     128  Mia Zivkovic         def.  Erika Pontillo       63 63
 ~~~
 
 <a name="21-98528"></a>

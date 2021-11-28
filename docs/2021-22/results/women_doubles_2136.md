@@ -10,6 +10,7 @@
 - 9/10/2021 - [Women's Drake Invite](#21-32364) ([Results](#21-32364) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/51EAC500-8BA9-4BA4-A244-CED3E726C5FE" target="_blank">Draws</a>)  
 - 9/10/2021 - [Angelo State SlamFest](#21-31047) ([Results](#21-31047) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AngeloStateUniversityW/Tournaments/Overview/AF7EE133-54BC-4F7C-A60D-0E1A114F1191" target="_blank">Draws</a>)  
 - 9/10/2021 - [Limestone Women's Challenger](#21-92220) ([Results](#21-92220) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityW/Tournaments/Overview/CD512B83-10FF-46E4-86C6-2C34954D0D21" target="_blank">Draws</a>)  
+- 9/10/2021 - [Oberlin Invitational](#21-08925) ([Results](#21-08925) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Draws</a>)  
 - 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [University of Findlay/Findlay YMCA East Fall Invite](#21-72676) ([Results](#21-72676) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">Draws</a>)  
@@ -18,7 +19,6 @@
 
 **Tournaments without Matches**  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeW/Tournaments/Overview/4A3D5B55-249F-48E0-9FCE-F2AD17BA285E" target="_blank">Oberlin Invitational</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Wallach Invitational</a>  
 
@@ -469,6 +469,70 @@
      R1  Dolfi/Radu      def.  Aparicio/Benefield   63
      R1  Panchal/Aramni  def.  Fyvie/Roslund        76(5)
      R1  Watts/Semmartin def.  Braziel/White        60
+~~~
+
+<a name="21-08925"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Oberlin Invitational
+  Dates: Sep 10-11, 2021
+  Host: Oberlin College (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Round 2
+  > Main
+     64  Cornwall/Givone      def.  Vazquez/Beshentseva  84
+     64  Qiang/Angell         def.  Bright/McCloskey     84
+     64  Zhou/Yang            def.  Goculdas/Kan         80
+     64  Cianciola/Robertson  def.  Marathe/Bedi         67 Ret.
+     64  Olaes/Olaes          def.  Martirosyan/Pena Ac… 98(3)
+     64  Nouaime/Laska        def.  Kohn/Fontaine        83
+     64  Hoog/Ku              def.  Valencia Guzman/Shc… 83
+     64  Bellamy/Keidan       def.  Weber/Anderanin      83
+     64  Zivkovic/Chandler    def.  Kesner/Santana-McGr… 84
+     64  Wills/Templin        def.  Beynon/Loader        82
+     64  Biederstedt/Hoo      def.  Kern/Pastore         86
+     64  Del Val Del Toro/Is… def.  Arnal/Cliffe         83
+     64  Stancil/Hayes        def.  Landis/Sheldon       85
+     64  OConnell/Sanchez     def.  Voss/Crumpler        85
+     64  Vitale/Colbaugh      def.  Kidd/Cade            84
+     64  Dakos/Nagireddy      def.  Martin Lopez/Lancas… 82
+     64  Brual/Lopez          def.  Winslow/Pontillo     82
+     64  Wang/Karnam          def.  Reese/Little         83
+     64  Schrader/Bradvica    def.  Connelly/Alonso      85
+ > Round 3
+  > Main
+     64  Cornwall/Givone      def.  Goculdas/Kan         86
+     64  Cianciola/Robertson  def.  Qiang/Angell         83
+     64  Zhou/Yang            def.  Del Val Del Toro/Is… 81
+     64  Kern/Pastore         def.  Swan/Legrand         83
+     64  Mukund/Patel         def.  Nouaime/Laska        86
+     64  Bellamy/Keidan       def.  Rodriguez/Riley      80
+     64  Biederstedt/Hoo      def.  Weber/Anderanin      87(7)
+     64  Martin Lopez/Lancas… def.  Hoog/Ku              12 Ret.
+     64  Voss/Crumpler        def.  Stancil/Hayes        86
+     64  Valencia Guzman/Shc… def.  Dakos/Nagireddy      86
+     64  Landis/Sheldon       def.  Kidd/Cade            84
+     64  OConnell/Sanchez     def.  Vitale/Colbaugh      82
+     64  Kohn/Fontaine        def.  Winslow/Pontillo     86
+     64  Brual/Lopez          def.  Olaes/Olaes          86
+     64  Wang/Karnam          def.  Martirosyan/Pena Ac… 83
+     64  Schrader/Bradvica    def.  Zivkovic/Chandler    82
+     64  Aliagas Mejina/Radde def.  Reese/Little         82
+     64  Connelly/Alonso      def.  Kesner/Santana-McGr… 82
+ > Round 4
+  > Main
+     64  Cornwall/Givone      def.  Bright/McCloskey     87(5)
+     64  Qiang/Angell         def.  Cianciola/Robertson  85
+     64  Winslow/Pontillo     def.  Nouaime/Laska        84
+     64  Vazquez/Beshentseva  def.  Zhou/Yang            84
+     64  Del Val Del Toro/Is… def.  Valencia Guzman/Shc… 83
+     64  Swan/Legrand         def.  Weber/Anderanin      84
+     64  Schrader/Bradvica    def.  Bellamy/Keidan       82
+     64  Dakos/Nagireddy      def.  Arnal/Cliffe         86
+     64  Stancil/Hayes        def.  Beynon/Loader        87(1)
+     64  Goculdas/Kan         def.  Martin Lopez/Lancas… 84
+     64  Martirosyan/Pena Ac… def.  Kohn/Fontaine        84
 ~~~
 
 <a name="21-98528"></a>
