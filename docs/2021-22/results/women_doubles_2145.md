@@ -7,9 +7,7 @@
 - 11/12/2021 - [Texas A&M Invitational](#21-89648) ([Results](#21-89648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/BF7768E0-4750-49B0-9B29-7EB1AC4016D9" target="_blank">Draws</a>)  
 - 11/12/2021 - [UNF Fall Invite](#21-72331) ([Results](#21-72331) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthFloridaW/Tournaments/Overview/0890226F-0B4C-40E3-888D-5CE5DA25876A" target="_blank">Draws</a>)  
 - 11/12/2021 - [Watanabe Classic](#21-21145) ([Results](#21-21145) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/185CF1AE-D437-4098-91A9-6F597D244978" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityW/Tournaments/Overview/5D6A7D6E-4DFF-41D5-BA55-AEBEDA326663" target="_blank">Western Michigan - Betsy Kuhle Invitational</a>  
+- 11/12/2021 - [Western Michigan - Betsy Kuhle Invitational](#21-67913) ([Results](#21-67913) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityW/Tournaments/Overview/5D6A7D6E-4DFF-41D5-BA55-AEBEDA326663" target="_blank">Draws</a>)  
 
 <a name="21-06527"></a>
 ~~~
@@ -147,11 +145,11 @@
 
 <a name="21-24494"></a>
 ~~~
-═════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════
   SDSU Fall Tennis Classic # 2
   Dates: Nov 12-14, 2021
   Host: San Diego State University (W)
-═════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Draw 2
   > Main
@@ -163,11 +161,11 @@
 
 <a name="21-89648"></a>
 ~~~
-═══════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Texas A&M Invitational
   Dates: Nov 12-14, 2021
   Host: Texas A&M University (M)
-═══════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Women's Open Doubles
  > Friday Doubles Competition
   > Main
@@ -299,6 +297,44 @@
      32  Gillas/Mehra       def.  Mellor/Hildreth    61
      32  Rakim/Del Marco    def.  Damron/Dorny       75
      32  Aher/Hu            def.  Prudhomme/Schmidt  64
+~~~
+
+<a name="21-67913"></a>
+~~~
+════════════════════════════════════════════════════════════
+  Western Michigan - Betsy Kuhle Invitational
+  Dates: Nov 12-14, 2021
+  Host: Western Michigan University (W)
+════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Friday
+  > Main
+     32  Popovic/Kojcic     def.  Alkio/Leong        75
+     32  Glazbrook/Patel    def.  Heren/Tounsi       64
+     32  Heaton/Milano      def.  Tjon A Joe/Rizzolo 61
+     32  Zieglar/Rogosch    def.  Vevere/Mrcela      61
+     32  Vicario/Yauch      def.  Windbuchler/Hopman 63
+     32  Melnizki/Hultqvist def.  Perkucin/Hamilton  76(3)
+     32  Tiraspolsky/Smith  def.  Kaiser/Badawi      75
+     32  Alkio/Ferdman      def.  Trupp/Frogner      64
+ > Saturday R1
+  > East
+     32  Lazic/Alkio        def.  Tjon A Joe/Rizzolo 76(5)
+     32  Heaton/Milano      def.  Popovic/Kojcic     76(2)
+     32  Trupp/Smith        def.  Vicario/Frogner    64
+     32  Zieglar/Rogosch    def.  Mrcela/Tounsi      63
+     32  Glazbrook/Patel    def.  Windbuchler/Hopman 60
+     32  Perkucin/Hamilton  def.  Yauch/Vevere       64
+     32  Kaiser/Badawi      def.  Melnizki/Hultqvist 62
+ > Saturday R2
+  > East
+     32  Alkio/Leong        def.  Heaton/Milano      63
+     32  Windbuchler/Hopman def.  Mrcela/Tounsi      62
+     32  Popovic/Kojcic     def.  Tjon A Joe/Rizzolo 64
+     32  Zieglar/Rogosch    def.  Glazbrook/Patel    61
+     32  Tiraspolsky/Trupp  def.  Vevere/Mrcela      60
+     32  Vicario/Frogner    def.  Melnizki/Hultqvist 62
+     32  Perkucin/Hamilton  def.  Kaiser/Badawi      76(3)
 ~~~
 
 Return to the [Top](./women_doubles_2145.md) &#124; [Home Page](../../index.md)

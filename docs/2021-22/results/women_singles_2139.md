@@ -13,6 +13,7 @@
 - 10/1/2021 - [Barb Chandler Classic](#21-63890) ([Results](#21-63890) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityW/Tournaments/Overview/88302122-9593-4E3B-B392-8D6982533991" target="_blank">Draws</a>)  
 - 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
 - 9/27/2021 - [BU Invitational](#21-87840) ([Results](#21-87840) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">Draws</a>)  
+- 10/2/2021 - [Butler Tournament](#21-66816) ([Results](#21-66816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Eagles Invitational](#21-42606) ([Results](#21-42606) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternMichiganUnivW/Tournaments/Overview/47B6E347-F9DC-455F-9E51-1E407EB949E4" target="_blank">Draws</a>)  
 - 10/1/2021 - [Florida Division 1 Bedford Cup, Women](#21-60580) ([Results](#21-60580) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthFloridaW/Tournaments/Overview/C3845735-BCB5-44DE-9B50-9FA2F75B1EE9" target="_blank">Draws</a>)  
 - 10/1/2021 - [HEB Invite](#21-50278) ([Results](#21-50278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityW/Tournaments/Overview/DED0835D-381B-47D9-8471-55474B03566B" target="_blank">Draws</a>)  
@@ -1403,6 +1404,58 @@
      32  Sofia Kostirko      def.  Chloe Yoo            64 64
      32  Stephanie Nguyen    def.  Ujvala Jupalli       63 63
      32  Sydney Sharma       def.  Ameliija Swaffer-Se… 60 64
+~~~
+
+<a name="21-66816"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Butler Tournament
+  Dates: Oct 2-3, 2021
+  Host: Butler University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Blue
+  > Main
+     QF  Katie Beavin       def.  Meghan Bernard      63 63
+     QF  Emma Beavin        def.  Delaney Schurhamer  Walkover
+     QF  Norah Balthazor    def.  Neena Katauskas     61 75
+     QF  Natalie Boesing    def.  Rachel Hermanova    64 60
+     16  Meghan Bernard     def.  Laura Bernardos     36 63 [7]
+     16  Katie Beavin       def.  Christina Stankovic 60 61
+     16  Emma Beavin        def.  Erica Wojcikiewicz  46 62 [7]
+     16  Delaney Schurhamer def.  Paige Kompa         60 75
+     16  Neena Katauskas    def.  Taylor Shaw         62 61
+     16  Norah Balthazor    def.  Krystal Grubb       64 46 [4]
+     16  Rachel Hermanova   def.  Gabrielle Ochalik   61 46 [7]
+     16  Natalie Boesing    def.  Elizabeth Hamilton  61 62
+ > White
+  > Main
+     QF  Laura Greb         def.  Hallie Leblebijian  36 63 [4]
+     QF  Nancy Cabanas      def.  Natalie Stanton     26 60 [4]
+     QF  Logan White        def.  Jordan Mitchell     61 62
+     QF  Samantha Martinez  def.  Veronika Bruetting  57 63 [6]
+     16  Hallie Leblebijian def.  Marta Krakowski     61 75
+     16  Natalie Stanton    def.  Emma Sand           64 62
+     16  Nancy Cabanas      def.  Alexis Crame        61 76(3)
+     16  Veronika Bruetting def.  Sarah Lounsbury     62 61
+     16  Samantha Martinez  def.  Samantha Hayward    63 63
+ > Consolation Blue
+  > Main
+     QF  Erica Wojcikiewicz def.  Taylor Shaw         62 63
+     QF  Samantha Martinez  def.  Gabrielle Ochalik   75 64
+     16  Taylor Shaw        def.  Krystal Grubb       16 63 [5]
+     16  Gabrielle Ochalik  def.  Elizabeth Hamilton  64 46 [6]
+     16  Rachel Hermanova   def.  Sarah Lounsbury     75 62
+     16  Laura Bernardos    def.  Neena Katauskas     63 46 [9]
+     16  Meghan Bernard     def.  Alexis Crame        63 63
+  > Consolation
+     SF  Elizabeth Hamilton def.  Krystal Grubb       76(3) 46 [5]
+ > Consolation White
+  > Main
+     QF  Sarah Lounsbury    def.  Emma Sand           61 60
+     QF  Samantha Hayward   def.  Alexis Crame        75 62
+     QF  Laura Greb         def.  Veronika Bruetting  46 64 [5]
+     QF  Marta Krakowski    def.  Jordan Mitchell     61 46 [9]
 ~~~
 
 <a name="21-42606"></a>

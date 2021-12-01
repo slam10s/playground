@@ -4,7 +4,6 @@
 - 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
 - 9/17/2021 - [Division II Women's East ITA Regional Championships](#21-70129) ([Results](#21-70129) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
-- 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
 - 9/24/2021 - [2021 Cal Fall Invitational](#21-72007) ([Results](#21-72007) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">Draws</a>)  
 - 9/24/2021 - [2021 Cougar Classic](#21-92191) ([Results](#21-92191) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WashingtonStateUnivW/Tournaments/Overview/9A9D66AE-29DF-4655-8EE8-5EF2ECFA897B" target="_blank">Draws</a>)  
@@ -22,7 +21,6 @@
 - 9/24/2021 - [Ole Miss Fall Invite](#21-39692) ([Results](#21-39692) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMississippiW/Tournaments/Overview/5CF07ED7-A131-45ED-8D93-E6058EED2536" target="_blank">Draws</a>)  
 - 9/24/2021 - [Purdue Invite](#21-45740) ([Results](#21-45740) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityW/Tournaments/Overview/7BB7BD29-7CFA-40C8-8B1A-907141B28F7E" target="_blank">Draws</a>)  
 - 9/23/2021 - [Ranked College Spotlight](#21-47703) ([Results](#21-47703) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthCarolinaStateUnivW/Tournaments/Overview/2CBD0E5F-B8C8-4667-972F-0BCB4951BB75" target="_blank">Draws</a>)  
-- 9/24/2021 - [Samford Round Robin #1](#21-74651) ([Results](#21-74651) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityW/Tournaments/Overview/EC00D221-086D-4EE8-BBFA-A8A76ACB92CB" target="_blank">Draws</a>)  
 - 9/24/2021 - [Stetson Invite](#21-76161) ([Results](#21-76161) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/EDD70DAB-65CC-4E26-BC6B-D0CC66FD5BAC" target="_blank">Draws</a>)  
 - 9/24/2021 - [Thunder in the Mountains](#21-26764) ([Results](#21-26764) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/6F07BB8D-7FC6-4D88-B1F7-809501FCD0B1" target="_blank">Draws</a>)  
 - 9/24/2021 - [University of Minnesota Gopher Invitational](#21-50226) ([Results](#21-50226) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMinnesotaW/Tournaments/Overview/B82F54CE-2334-45CA-976C-002A444F34CF" target="_blank">Draws</a>)  
@@ -211,56 +209,6 @@
      16Q     Luna/McGivern        def.     Schrepferman/Bucco … 86
      16Q     Padberg/Beidacki     def.     Skjelstad/Mokhasi    98(5)
      16Q     Kuehnle/Eremina      def. (2) Zafeiri/Reisch       81
-~~~
-
-<a name="21-29173"></a>
-~~~
-═════════════════════════════════════════════════════════════════
-  Division III Women's Northeast ITA Regional Championships
-  Dates: Sep 18-20, 2021
-  Host: William Smith College (W)
-═════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Draw
-  > Main
-      F  Fordham/Plakk        def.  Landells/Roarty      61 61
-     SF  Fordham/Plakk        def.  Apsey/Holtzman       81
-     SF  Landells/Roarty      def.  Libby/Ruiz Vega      82
-     QF  Fordham/Plakk        def.  Flores Gonzalez/Flo… 84
-     QF  Apsey/Holtzman       def.  Jones/Mednikova      86
-     QF  Landells/Roarty      def.  Jensrud/Balyk        87(3)
-     QF  Libby/Ruiz Vega      def.  Eisenberg/Vasile     82
-     16  Fordham/Plakk        def.  Dhull/Truong         81
-     16  Flores Gonzalez/Flo… def.  Stavropoulos/Dowd    82
-     16  Jones/Mednikova      def.  Waugh/Zorzan         81
-     16  Apsey/Holtzman       def.  Almquist/Provost     84
-     16  Jensrud/Balyk        def.  Cicero/Roberts       87(7)
-     16  Landells/Roarty      def.  Feldman/Thongphok    87(5)
-     16  Libby/Ruiz Vega      def.  Cutler/Pratt         86
-     16  Eisenberg/Vasile     def.  Menendez/Nguyen      85
-     32  Fordham/Plakk        def.  Dadoly/Gamble        80
-     32  Dhull/Truong         def.  Chelnick/Davis       81
-     32  Stavropoulos/Dowd    def.  Abalos/Rangu         84
-     32  Flores Gonzalez/Flo… def.  Barteck/Chow         85
-     32  Jones/Mednikova      def.  Macey/Harris         80
-     32  Waugh/Zorzan         def.  Karadimou/Nicol      82
-     32  Apsey/Holtzman       def.  Donohue/Drozd        80
-     32  Almquist/Provost     def.  Gonzalez/Stewart     81
-     32  Cicero/Roberts       def.  Brown/DOnofrio       83
-     32  Jensrud/Balyk        def.  Bonomo/Camacho       82
-     32  Landells/Roarty      def.  Styliades/Sullivan   82
-     32  Feldman/Thongphok    def.  Batcheller/Dratch    81
-     32  Cutler/Pratt         def.  Clamor/Malhotra      87(2)
-     32  Libby/Ruiz Vega      def.  Bauer/Subramaniam    86
-     32  Menendez/Nguyen      def.  Galle/Tobin          83
-     32  Eisenberg/Vasile     def.  Shen/Kizilbash       84
- > Consolation Doubles
-  > Main
-     R1  Andrews/Rodriguez    def.  Batcheller/Dratch    87(10)
-     R1  Karadimou/Nicol      def.  Barteck/Chow         81
-     R1  Chelnick/Davis       def.  Brown/DOnofrio       80
-     R1  Stavropoulos/Dowd    def.  Cutler/Pratt         84
-     R1  Almquist/Provost     def.  Shen/Kizilbash       87(10)
 ~~~
 
 <a name="21-21828"></a>
@@ -1093,44 +1041,6 @@
      32  Pisareva/Sleeth      def.  Cerdan/Hammond       61
      32  Smith/Daniel         def.  Podlinska/Staker     60
      32  Rencheli/Nayar       def.  Tomase/Mertena       75
-~~~
-
-<a name="21-74651"></a>
-~~~
-════════════════════════════════════════════════════════════════
-  Samford Round Robin #1
-  Dates: Sep 24-26, 2021
-  Host: Samford University (W)
-════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Day 1 Results
-  > Main
-     16  Tutunaru/Kohoutova   def.  Janse van Rensburg/… 64
-     16  Aoki/van der Merwe   def.  Song/Nanere          75
-     16  Zaprianov/Jablonski  def.  Klienhans/Taknishi   62
-     16  Xin/Nonoyama         def.  Popova/Trbeznik      61
-     16  Vasupongchai/Ishimu… def.  Diachenko/Dobranos   62
-     16  Gledic/Lee           def.  Howard/Bandy         64
-     16  Hamanaga/Engback     def.  Zakordonic/Richter   64
- > Day 2 Results
-  > Main
-     16  Popova/Trbeznik      def.  Janse van Rensburg/… 76(4)
-     16  Diachenko/Dobranos   def.  Song/Nanere          75
-     16  Zaprianov/Jablonski  def.  Howard/Bandy         64
-     16  Tutunaru/Kohoutova   def.  Xin/Nonoyama         64
-     16  Aoki/van der Merwe   def.  Vasupongchai/Ishimu… 63
-     16  Gledic/Lee           def.  Klienhans/Taknishi   63
-     16  Hayduk/Waddles       def.  Zakordonic/Richter   63
-     16  Wood/Maras           def.  Hamanaga/Engback     76(4)
- > Day 3 Results
-  > Main
-     16  Janse van Rensburg/… def.  Xin/Nonoyama         61
-     16  Vasupongchai/Ishimu… def.  Song/Nanere          63
-     16  Zaprianov/Jablonski  def.  Gledic/Lee           64
-     16  Hayduk/Waddles       def.  Hamanaga/Engback     61
-     16  Tutunaru/Kohoutova   def.  Popova/Trbeznik      63
-     16  Aoki/van der Merwe   def.  Diachenko/Dobranos   64
-     16  Klienhans/Taknishi   def.  Howard/Bandy         61
 ~~~
 
 <a name="21-76161"></a>

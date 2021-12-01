@@ -8,7 +8,6 @@
 - 10/15/2021 - [Commodore Classic](#21-21760) ([Results](#21-21760) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Draws</a>)  
 - 10/15/2021 - [Fighting Illini Invite](#21-10431) ([Results](#21-10431) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisM/Tournaments/Overview/4DAD8F21-9326-420E-B8FB-259D52500DC0" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-23395) ([Results](#21-23395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">Draws</a>)  
-- 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-08423) ([Results](#21-08423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Northeast Regional Championship](#21-34853) ([Results](#21-34853) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-05800) ([Results](#21-05800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
@@ -16,7 +15,6 @@
 - 10/13/2021 - [ITA Division I Men's Texas Regional Championship](#21-59010) ([Results](#21-59010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">Draws</a>)  
 - 10/15/2021 - [Louisville Invitational](#21-27355) ([Results](#21-27355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Draws</a>)  
 - 10/15/2021 - [San Diego State Fall Invite](#21-62211) ([Results](#21-62211) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">Draws</a>)  
-- 10/15/2021 - [UTC-Steve Baras Invitational](#21-41868) ([Results](#21-41868) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 - 10/16/2021 - [Purdue University Northwest Fall Invitational](#21-60014) ([Results](#21-60014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityNorthwestM/Tournaments/Overview/A63832A0-768B-401A-B044-F7960762A033" target="_blank">Draws</a>)  
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
@@ -304,38 +302,6 @@
      32  Kim/Nguyen           def.  Kapoor/Haddou        75
      32  Prokurat/Suarez      def.  Alkhafaji/Pollatos   64
      32  Kjellberg/Garner     def.  Ha/Postin            75
-~~~
-
-<a name="21-08423"></a>
-~~~
-═══════════════════════════════════════════════════════════════════════
-  ITA Division I Men's Atlantic Regional Championship
-  Dates: Oct 14-17, 2021
-  Host: Liberty University (M)
-═══════════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Main Draw Doubles
-  > Main
-     QF     Karpinski/Koons      def. (1) Donato/Ix            84
-     QF (3) Davis/Brown          def.     Shepheard/Thompson   85
-     QF (4) Ariza/Maia           def.     El Kadi/Longwe-Smit  81
-     QF     Brailovsky/Ruo       def. (2) Marques Da Silva/Wi… 84
-     16 (1) Donato/Ix            def.     Reis/Nayadenov       86
-     16     Karpinski/Koons      def.     Raptis/Severin       86
-     16 (3) Davis/Brown          def.     Van Schalkwyk/Walser 84
-     16     Shepheard/Thompson   def.     Hernandez/Sadek      84
-     16     El Kadi/Longwe-Smit  def.     Sirous/Tobisch       84
-     16 (4) Ariza/Maia           def.     Pellerito/Talcott    86
-     16     Brailovsky/Ruo       def.     Silva/Taramonlis     85
-     16 (2) Marques Da Silva/Wi… def.     Bernstine/Harper     82
-     32     Reis/Nayadenov       def.     Quiros/Joseph        86
-     32     Van Schalkwyk/Walser def.     Balsekar/Hagen       84
-     32     Hernandez/Sadek      def.     Heaven/Ferreira      Walkover
-     32     Pellerito/Talcott    def.     Josserand/Petrovic   83
-     32     Bernstine/Harper     def.     Rocabert/Cagigas     84
- > Backdraw Doubles
-  > Main
-     32     Quiros/Joseph        def.     Balsekar/Hagen       82
 ~~~
 
 <a name="21-34853"></a>
@@ -674,56 +640,6 @@
      QF  Middleton/Olsen      def.  Blair/Ermert         84
      QF  Dominguez Alonso/Bh… def.  Ciszewski/Brodney    83
      QF  Otico/Torlic         def.  Hambrook/Navarro     82
-~~~
-
-<a name="21-41868"></a>
-~~~
-══════════════════════════════════════════════════════════════════
-  UTC-Steve Baras Invitational
-  Dates: Oct 15-17, 2021
-  Host: Univ. Of Tennessee, Chattanooga (M)
-══════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Utc/ttu
-  > Main
-     QF  Hyatt/Labbe          def.  Vicente/Tosetto     76(4)
-     QF  Marshall/Mudre       def.  Holis/Sasagawa      63
-     QF  Berghaus/Grubert     def.  McClure/Nevenhoven  64
- > Utc/una
-  > Main
-     QF  Matarredona/Perez    def.  Hyatt/Labbe         76(5)
-     QF  Mudre/McClure        def.  Zhang/Diniz         75
-     QF  Nevenhoven/Nash      def.  Bixby/Tolbert       76(4)
- > Gsu/bel
-  > Main
-     16  Aaldering/Dun        def.  Toledo/Cruz         64
-     16  Castillo/Del Castil… def.  Luis/Castro         76(3)
-     16  Miyamoto/Kelly       def.  Amacher/Suk         61
- > Utc/apsu
-  > Main
-     QF  Hyatt/Labbe          def.  Damberg/Schlossmann 76(4)
-     QF  Mudre/McClure        def.  Bolton/Becchis      63
-     QF  Nolasco/Stoker       def.  Nevenhoven/Nash     62
- > Bel/ttu
-  > Main
-     QF  Luis/Castro          def.  Holis/Sasagawa      64
-     QF  Vicente/Tosetto      def.  Toledo/Cruz         60
-     QF  Berghaus/Grubert     def.  Miyamoto/Kelly      63
- > Apsu/una
-  > Main
-     QF  Matarredona/Perez    def.  Damberg/Schlossmann 61
-     QF  Bixby/Diniz          def.  Bolton/Becchis      63
-     QF  Zhang/Tolbert        def.  Laner/Nolasco       64
- > Ttu/gaso
-  > Main
-     QF  Castillo/Del Castil… def.  Vicente/Tosetto     64
-     QF  Holis/Sasagawa       def.  Aaldering/Dun       63
-     QF  Grubert/Berghaus     def.  Amacher/Suk         76(2)
- > Utc/bel
-  > Main
-     QF  Luis/Castro          def.  Hyatt/Labbe         61
-     QF  Toledo/Miyamoto      def.  Mudre/McClure       64
-     QF  Wallin/Kelly         def.  Nevenhoven/Nash     63
 ~~~
 
 <a name="21-00186"></a>

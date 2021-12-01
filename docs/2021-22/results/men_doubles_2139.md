@@ -12,7 +12,6 @@
 - 10/2/2021 - [Davidson College Invite](#21-95483) ([Results](#21-95483) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Draws</a>)  
 - 10/1/2021 - [EIU Panther Hidden Duals](#21-91236) ([Results](#21-91236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">Draws</a>)  
 - 10/1/2021 - [Hagedorn Hidden Dual](#21-03884) ([Results](#21-03884) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Draws</a>)  
-- 10/1/2021 - [Idaho State Bengal Invitational](#21-23711) ([Results](#21-23711) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Draws</a>)  
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/1/2021 - [MSU Bulldog Invitational](#21-39463) ([Results](#21-39463) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77" target="_blank">Draws</a>)  
@@ -33,7 +32,6 @@
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's Midwest ITA Regional Championships](#21-24046) ([Results](#21-24046) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
-- 10/2/2021 - [Panther Classic](#21-52083) ([Results](#21-52083) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/BA2B3B31-CD0C-40C8-96BC-A0F69FEED591" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
@@ -552,42 +550,6 @@
      QF  Krulig/Sallay      def.  Stater/Niranjan    63
      QF  Terry/Ingles Garre def.  Amiri/Mkrtchian    61
      QF  Sah/Smart          def.  Garcia/Conway      63
-~~~
-
-<a name="21-23711"></a>
-~~~
-════════════════════════════════════════════════════════════════
-  Idaho State Bengal Invitational
-  Dates: Oct 1-3, 2021
-  Host: Idaho State University (M)
-════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Doubles
-  > East
-     SF  Andrus/Lin         def.  Kramer/Cankus      62
-     SF  Gavelin/Ta         def.  Hallgren/Benn      62
-     QF  Andrus/Lin         def.  Kristensen/Trhac   Walkover
-     QF  Kramer/Cankus      def.  Sciglitano/Baldwin 75
-     QF  Gavelin/Ta         def.  Fujita/Petrovic    63
-     QF  Hallgren/Benn      def.  Fuchs/Leite        76(6)
-     16  Andrus/Lin         def.  Blando/Blando      63
-     16  Kramer/Cankus      def.  Zelver/Watkins     61
-     16  Gavelin/Ta         def.  Buckland/Monteiro  63
-     16  Hallgren/Benn      def.  Robbertse/Matuszak 63
-  > West
-      F  Buckland/Monteiro  def.  Blando/Blando      64
-     SF  Blando/Blando      def.  Zelver/Watkins     62
-     SF  Buckland/Monteiro  def.  Robbertse/Matuszak 76(4)
-  > North
-     SF  Sciglitano/Baldwin def.  Kristensen/Trhac   Walkover
-     SF  Fuchs/Leite        def.  Fujita/Petrovic    62
-  > 3-4 Playoff
-      F  Kramer/Cankus      def.  Hallgren/Benn      64
-  > Southwest
-      F  Zelver/Watkins     def.  Robbertse/Matuszak 76(4)
- > Extra Doubles
-  > Main
-      F  Fujita/Petrovic    def.  Blando/Blando      63
 ~~~
 
 <a name="21-73796"></a>
@@ -1867,41 +1829,6 @@
      32     Ha/Thompson       def.     Schroder/Wang        84
      32     Molenkamp/Navarro def.     Hofer/Yanase         86
      32     Pries/Synnott     def.     Barrett/Hammond      83
-~~~
-
-<a name="21-52083"></a>
-~~~
-════════════════════════════════════════════════════════════
-  Panther Classic
-  Dates: Oct 2-3, 2021
-  Host: Middlebury College (M)
-════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Doubles Day 1
-  > Main
-     16  Morris/Ward     def.  Gupta/Selati        81
-     16  Laber/Harris    def.  Baril/Raissi        84
-     16  Epstein/Kim     def.  Gupta/Weitz         84
-     16  Sen/Mileikowsky def.  Levinson/Potter     84
-     16  Hilty/Vilys     def.  Israel/Thomas       83
-     16  Graham/Romig    def.  Pellegrini/Snyman   85
-     16  Mairs/Yuan      def.  Ammendola/Patterson 80
- > Doubles Day 2 Part 1
-  > Main
-     16  Morris/Ward     def.  Baril/Raissi        85
-     16  Laber/Harris    def.  Potter/Thomas       84
-     16  Vilys/Yuan      def.  Pellegrini/Snyman   87(4)
-     16  Gupta/Selati    def.  Sen/Mileikowsky     84
-     16  Epstein/Hilty   def.  Graham/Romig        85
-     16  Gupta/Weitz     def.  Ammendola/Patterson 82
- > Doubles Day 2 Part 2
-  > Main
-     16  Baril/Raissi    def.  Gupta/Selati        85
-     16  Laber/Harris    def.  Sen/Mileikowsky     82
-     16  Yuan/Ward       def.  Potter/Thomas       84
-     16  Vilys/Mairs     def.  Ammendola/Patterson 83
-     16  Baril/Snyman    def.  Graham/Romig        82
-     16  Hilty/Kim       def.  Gupta/Weitz         83
 ~~~
 
 <a name="21-08096"></a>

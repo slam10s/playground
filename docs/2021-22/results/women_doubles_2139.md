@@ -13,6 +13,7 @@
 - 10/1/2021 - [Barb Chandler Classic](#21-63890) ([Results](#21-63890) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityW/Tournaments/Overview/88302122-9593-4E3B-B392-8D6982533991" target="_blank">Draws</a>)  
 - 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
 - 9/27/2021 - [BU Invitational](#21-87840) ([Results](#21-87840) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">Draws</a>)  
+- 10/2/2021 - [Butler Tournament](#21-66816) ([Results](#21-66816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Eagles Invitational](#21-42606) ([Results](#21-42606) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternMichiganUnivW/Tournaments/Overview/47B6E347-F9DC-455F-9E51-1E407EB949E4" target="_blank">Draws</a>)  
 - 10/1/2021 - [Florida Division 1 Bedford Cup, Women](#21-60580) ([Results](#21-60580) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthFloridaW/Tournaments/Overview/C3845735-BCB5-44DE-9B50-9FA2F75B1EE9" target="_blank">Draws</a>)  
 - 10/1/2021 - [HEB Invite](#21-50278) ([Results](#21-50278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityW/Tournaments/Overview/DED0835D-381B-47D9-8471-55474B03566B" target="_blank">Draws</a>)  
@@ -735,6 +736,30 @@
      QF  Tan/Yaloz            def.  Hess/Okpara     64
      QF  Kleynerman/Kostirko  def.  Yoo/Conard      62
      QF  Nguyen/Sharma        def.  Dewire/Jupalli  62
+~~~
+
+<a name="21-66816"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Butler Tournament
+  Dates: Oct 2-3, 2021
+  Host: Butler University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Round 1
+  > Main
+     16  Bernardos/Martinez   def.  Ochalik/Grubb        60
+     16  Hayward/Bernard      def.  Crame/Shaw           63
+     16  Katauskas/Hamilton   def.  White/Boesing        75
+     16  Schurhamer/Bruetting def.  Wojcikiewicz/Stanton 64
+     16  Beavin/Balthazor     def.  Mitchell/Greb        61
+ > Round 2
+  > Main
+     16  Bernardos/Martinez   def.  Boesing/Bruetting    64
+     16  Beavin/Balthazor     def.  Crame/Hermanova      76(3)
+     16  Ochalik/Grubb        def.  Katauskas/Hamilton   62
+     16  Wojcikiewicz/Greb    def.  Hayward/Bernard      64
+     16  Lounsbury/Krakowski  def.  Mitchell/Stanton     64
 ~~~
 
 <a name="21-42606"></a>

@@ -7,17 +7,15 @@
 - 11/12/2021 - [Texas A&M Invitational](#21-89648) ([Results](#21-89648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/BF7768E0-4750-49B0-9B29-7EB1AC4016D9" target="_blank">Draws</a>)  
 - 11/12/2021 - [UNF Fall Invite](#21-72331) ([Results](#21-72331) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthFloridaW/Tournaments/Overview/0890226F-0B4C-40E3-888D-5CE5DA25876A" target="_blank">Draws</a>)  
 - 11/12/2021 - [Watanabe Classic](#21-21145) ([Results](#21-21145) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/185CF1AE-D437-4098-91A9-6F597D244978" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 11/12/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityW/Tournaments/Overview/5D6A7D6E-4DFF-41D5-BA55-AEBEDA326663" target="_blank">Western Michigan - Betsy Kuhle Invitational</a>  
+- 11/12/2021 - [Western Michigan - Betsy Kuhle Invitational](#21-67913) ([Results](#21-67913) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityW/Tournaments/Overview/5D6A7D6E-4DFF-41D5-BA55-AEBEDA326663" target="_blank">Draws</a>)  
 
 <a name="21-06527"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Harvard Fall Invitational
   Dates: Nov 4-9, 2021
   Host: Harvard University (W)
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Harvard vs Wiconsin 1
   > Main
@@ -249,11 +247,11 @@
 
 <a name="21-24494"></a>
 ~~~
-══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   SDSU Fall Tennis Classic # 2
   Dates: Nov 12-14, 2021
   Host: San Diego State University (W)
-══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Draw 1
   > East
@@ -273,11 +271,11 @@
 
 <a name="21-89648"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   Texas A&M Invitational
   Dates: Nov 12-14, 2021
   Host: Texas A&M University (M)
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Friday Singles Competition
   > Main
@@ -338,11 +336,11 @@
 
 <a name="21-72331"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   UNF Fall Invite
   Dates: Nov 12-14, 2021
   Host: Univ. Of North Florida (W)
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Flight A
   > East
@@ -443,11 +441,11 @@
 
 <a name="21-21145"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   Watanabe Classic
   Dates: Nov 12-14, 2021
   Host: Univ. Of Nevada, Las Vegas (W)
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Women's Open Singles
  > Draw
   > Main
@@ -509,6 +507,67 @@
      64  Valentina Del Marco  def.  Andreea Ciornei      36 63 76(4)
      64  Autum Prudhomme      def.  Zuzanna Szczepanska  75 62
      64  Aline Buhr           def.  Leslie Fujitani      61 61
+~~~
+
+<a name="21-67913"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Western Michigan - Betsy Kuhle Invitational
+  Dates: Nov 12-14, 2021
+  Host: Western Michigan University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Friday R1
+  > East
+     32  Justine Leong        def.  Lindsey Zieglar      16 64 [9]
+     32  Natalija Popovic     def.  Sima Heren           63 63
+     32  Ema Lazic            def.  Kiana Rizzolo        75 75
+     32  Yasmin Glazbrook     def.  Oihane Vicario       57 64 [5]
+     32  Aino Alkio           def.  Emilija Kojcic       60 46 [9]
+     32  Karin Hamilton       def.  Nirva Patel          63 64
+     32  Bethany Yauch        def.  Nicole Hopman        64 63
+     32  Kaitlyn Rogosch      def.  Tegan Heaton         61 64
+     32  Tereze Vevere        def.  Tiana Windbuchler    76(4) 76(4)
+     32  Elizabeth Ferdman    def.  Selma Tounsi         64 63
+     32  Maya Perkucin        def.  Jillian Milano       76(3) 75
+     32  Mia Melnizki         def.  Elizabeth Trupp      64 63
+     32  Sarah Badawi         def.  Kristina Tiraspolsky 63 36 [10]
+     32  Taylor Smith         def.  Lara Kaiser          63 75
+     32  Emma Hultqvist       def.  Filippa Frogner      46 75 [5]
+ > Friday R2
+  > East
+     32  Sima Heren           def.  Justine Leong        63 60
+     32  Natalija Popovic     def.  Lindsey Zieglar      46 64 [7]
+     32  Oihane Vicario       def.  Ema Lazic            64 64
+     32  Yasmin Glazbrook     def.  Kiana Rizzolo        63 62
+     32  Karin Hamilton       def.  Aino Alkio           60 61
+     32  Nirva Patel          def.  Emilija Kojcic       63 63
+     32  Maya Perkucin        def.  Bethany Yauch        61 36 [8]
+     32  Jillian Milano       def.  Selma Tounsi         61 63
+     32  Tiana Windbuchler    def.  Kaitlyn Rogosch      16 62 [7]
+     32  Tereze Vevere        def.  Tegan Heaton         61 75
+     32  Elizabeth Ferdman    def.  Elizabeth Trupp      64 60
+     32  Mia Melnizki         def.  Nicole Hopman        76(8) 63
+     32  Sarah Badawi         def.  Filippa Frogner      64 57 [8]
+     32  Kristina Tiraspolsky def.  Lara Kaiser          60 64
+     32  Taylor Smith         def.  Emma Hultqvist       62 62
+ > Saturday
+  > East
+     32  Lindsey Zieglar      def.  Klara Mrcela         64 62
+     32  Justine Leong        def.  Natalija Popovic     75 75
+     32  Oihane Vicario       def.  Kiana Rizzolo        63 63
+     32  Ema Lazic            def.  Yasmin Glazbrook     60 62
+     32  Aino Alkio           def.  Nirva Patel          16 76(5) [8]
+     32  Karin Hamilton       def.  Emilija Kojcic       64 63
+     32  Jillian Milano       def.  Bethany Yauch        36 75 [8]
+     32  Maya Perkucin        def.  Elizabeth Ferdman    60 76(6)
+     32  Tegan Heaton         def.  Tiana Windbuchler    63 46 [9]
+     32  Tereze Vevere        def.  Kaitlyn Rogosch      61 63
+     32  Nicole Hopman        def.  Selma Tounsi         62 46 [8]
+     32  Filippa Frogner      def.  Elizabeth Trupp      61 61
+     32  Mia Melnizki         def.  Kristina Tiraspolsky 64 67(2) [9]
+     32  Taylor Smith         def.  Sarah Badawi         75 67(4) [5]
+     32  Lara Kaiser          def.  Emma Hultqvist       64 76(4)
 ~~~
 
 Return to the [Top](./women_singles_2145.md) &#124; [Home Page](../../index.md)

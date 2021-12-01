@@ -35,6 +35,7 @@
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
+- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">KCAC Individual Tournament</a>  
 - 9/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SwarthmoreCollegeM/Tournaments/Overview/EBF37285-C88B-4F3E-B6EA-6C0DE013DBB8" target="_blank">Swat Men's Tennis Invite</a>  
 
 <a name="21-01301"></a>
