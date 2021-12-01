@@ -17,6 +17,7 @@
 - 10/23/2021 - [2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship](#21-05827) ([Results](#21-05827) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">Draws</a>)  
 - 10/21/2021 - [Crusader Invitational](#21-41693) ([Results](#21-41693) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Draws</a>)  
 - 10/22/2021 - [Eagle Invitational](#21-28500) ([Results](#21-28500) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Draws</a>)  
+- 10/22/2021 - [GSC Fall Individual Tournament](#21-93512) ([Results](#21-93512) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">Draws</a>)  
 - 10/22/2021 - [MSU Invitational](#21-16812) ([Results](#21-16812) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">Draws</a>)  
 - 10/22/2021 - [Saint Leo Hidden Duals - Women](#21-20217) ([Results](#21-20217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/4E66DF95-8991-4880-9830-29E9F5B3C53F" target="_blank">Draws</a>)  
 - 10/22/2021 - [YTF Southeastern Invitational](#21-42214) ([Results](#21-42214) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">Draws</a>)  
@@ -1012,6 +1013,76 @@
      R3  Chornei/Speiser    def.  Dong/Wilson          62
      R2  Chornei/Speiser    def.  Good/Smith           60
      R1  Dong/Wilson        def.  Good/Smith           63
+~~~
+
+<a name="21-93512"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  GSC Fall Individual Tournament
+  Dates: Oct 22-24, 2021
+  Host: University Of West Alabama (M)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw 1
+  > Main
+      F  Ly/Vidnere           def.  Amaro/Vandeputte     64
+     SF  Ly/Vidnere           def.  Tuells Bonet/Kohout… 63 63
+     SF  Amaro/Vandeputte     def.  Garza/Takanishi      64 64
+     QF  Ly/Vidnere           def.  Ibarra/Navarro       62
+     QF  Tuells Bonet/Kohout… def.  Recuenco/Wagner      63
+     QF  Amaro/Vandeputte     def.  Daud/Yigin           62
+     QF  Garza/Takanishi      def.  Turro/Hartlohner     62
+     16  Ibarra/Navarro       def.  Martinez/Medel       63
+     16  Ly/Vidnere           def.  Alas/Cota            60
+     16  Tuells Bonet/Kohout… def.  Ozzor/Dirr           61
+     16  Recuenco/Wagner      def.  Menendez/Portalier   61
+     16  Amaro/Vandeputte     def.  Pepe/Subias          61
+     16  Daud/Yigin           def.  Jones/Blachon        63
+     16  Turro/Hartlohner     def.  Mazzella/Garcia      76(5)
+     16  Garza/Takanishi      def.  Didkovska/Valiaeva   62
+ > Draw 2
+  > Main
+      F  Vorobiova/Starreveld def.  Marin/Wooten         60
+     SF  Marin/Wooten         def.  Saving/Rivoal        64 64
+     SF  Vorobiova/Starreveld def.  Rodriguez/Roberts    64 64
+     QF  Saving/Rivoal        def.  Breedlove/Barfoot    61 61
+     QF  Marin/Wooten         def.  Piltaver/Hamilton    64
+     QF  Vorobiova/Starreveld def.  Garcia/Costa         61
+     QF  Rodriguez/Roberts    def.  Barrio/Barrio        64
+     16  Saving/Rivoal        def.  Nikolaeva/Mulkey-Da… 64
+     16  Breedlove/Barfoot    def.  Beau/Bryjarsdottir   76(4)
+     16  Piltaver/Hamilton    def.  Moore/Gallman        61
+     16  Marin/Wooten         def.  Cota/Stockett        64
+     16  Garcia/Costa         def.  Karm/Lewis           60
+     16  Vorobiova/Starreveld def.  Sacco/Fioravanti     63
+     16  Barrio/Barrio        def.  Arevalo/Bishop       75
+     16  Rodriguez/Roberts    def.  Novis/Owen           60
+     32  Saving/Rivoal        def.  De La Torre/Izco     64
+     32  Barrio/Barrio        def.  Pinto/Villalvazo     75
+     32  Arevalo/Bishop       def.  Hesterlee/Roberts    62
+ > Consolation 1
+  > Main
+     32  Recuenco/Wagner      def.  De La Torre/Izco     60 60
+     32  Ibarra/Navarro       def.  Menendez/Portalier   60 60
+     32  Alas/Cota            def.  Garcia/Costa         60 60
+     32  Ozzor/Dirr           def.  Daud/Yigin           62 62
+     32  Didkovska/Valiaeva   def.  Piltaver/Hamilton    Walkover
+     32  Barrio/Barrio        def.  Jones/Blachon        62 62
+     32  Sacco/Fioravanti     def.  Cota/Stockett        64 64
+     32  Martinez/Medel       def.  Breedlove/Barfoot    75
+     32  Mazzella/Garcia      def.  Pepe/Subias          64
+     32  Beau/Bryjarsdottir   def.  Hesterlee/Roberts    61
+     32  Pinto/Villalvazo     def.  Nikolaeva/Mulkey-Da… 75
+     32  Karm/Lewis           def.  Novis/Owen           62
+     32  Arevalo/Bishop       def.  Moore/Gallman        60
+ > Consolation 10/24
+  > Main
+     QF  Tuells Bonet/Kohout… def.  Garcia/Costa         60
+     QF  Didkovska/Valiaeva   def.  Barrio/Barrio        63
+     QF  Mazzella/Garcia      def.  Martinez/Medel       75
+     QF  Ibarra/Navarro       def.  Alas/Cota            64
+     SF  Saving/Rivoal        def.  Karm/Lewis           75
+     SF  Beau/Bryjarsdottir   def.  Ozzor/Dirr           61
 ~~~
 
 <a name="21-16812"></a>

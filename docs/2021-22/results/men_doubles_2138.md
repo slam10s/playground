@@ -14,6 +14,7 @@
 - 9/24/2021 - [Quinnipiac Invitational at Fairfield University](#21-24236) ([Results](#21-24236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityM/Tournaments/Overview/4CA1F754-31D9-4DCF-8BB3-0098D93E8693" target="_blank">Draws</a>)  
 - 9/24/2021 - [Rancher Collegiate Invitational](#21-29345) ([Results](#21-29345) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/8D7F2E07-AC4A-4E21-9AD6-185AA3004B4C" target="_blank">Draws</a>)  
 - 9/24/2021 - [Roadrunner Invitational](#21-84395) ([Results](#21-84395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTexasSanAntonioM/Tournaments/Overview/E7F7F76A-E6C1-4F1D-AFAC-36B9F1DB36FF" target="_blank">Draws</a>)  
+- 9/24/2021 - [Saint Joseph's Invitational - Men](#21-61930) ([Results](#21-61930) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintJosephsUniversityM/Tournaments/Overview/3E3CE083-33CF-44BE-90F9-2D8212C38067" target="_blank">Draws</a>)  
 - 9/24/2021 - [Southern Intercollegiates](#21-18330) ([Results](#21-18330) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/B89A76E9-2709-4BFC-AAB2-ED109F32123C" target="_blank">Draws</a>)  
 - 9/25/2021 - [Southern Miss Men's Tennis Invitational](#21-39341) ([Results](#21-39341) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthernMississippiM/Tournaments/Overview/6381F499-3F70-463D-B86B-F6D5B23A4ADB" target="_blank">Draws</a>)  
 - 9/24/2021 - [UVA Orange & Blue Classic](#21-08100) ([Results](#21-08100) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaM/Tournaments/Overview/CF3502B7-78F4-4CCB-AB88-CC54F61E06F0" target="_blank">Draws</a>)  
@@ -760,6 +761,66 @@
      R3  Bertrand/Castaneda   def.  Lawrance/Alban       86
      R2  Izurieta/Whitehead   def.  Lawrance/Alban       87(4)
      R1  Izurieta/Whitehead   def.  Bertrand/Castaneda   86
+~~~
+
+<a name="21-61930"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Saint Joseph's Invitational - Men
+  Dates: Sep 24-26, 2021
+  Host: Saint Joseph's University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles Flight 1
+  > Main
+      F     Jones/Robinson       def.     Gluck/Valdoleiros    61
+     SF     Jones/Robinson       def. (1) Carpenter/Rankins    63
+     SF     Gluck/Valdoleiros    def. (3) Hammitt/Jagtiani     Walkover
+     QF (1) Carpenter/Rankins    def.     De Soussa/Jesudason  61
+     QF     Jones/Robinson       def.     Frisk/Sentay         Walkover
+     QF (3) Hammitt/Jagtiani     def.     Fenjiro/Perrone      Walkover
+     QF     Gluck/Valdoleiros    def.     Kleiman/Learner      76(4)
+     16 (1) Carpenter/Rankins    def.     Borg/Theriault       64
+     16     De Soussa/Jesudason  def.     Blekhman/Elliott     62
+     16     Frisk/Sentay         def.     Leese/Spera          64
+     16     Jones/Robinson       def. (4) Perez Ramos/Smith    64
+     16 (3) Hammitt/Jagtiani     def.     Hutchison/Watson     63
+     16     Fenjiro/Perrone      def.     Kim/Nguyen           62
+     16     Gluck/Valdoleiros    def.     Fouad/El Kholti      64
+     16     Kleiman/Learner      def. (2) Rachal/Rawal         61
+  > Consolation
+      F (4) Perez Ramos/Smith    def. (2) Rachal/Rawal         64
+     SF (4) Perez Ramos/Smith    def.     Blekhman/Elliott     Walkover
+     SF (2) Rachal/Rawal         def.     Hutchison/Watson     Walkover
+     QQ     Blekhman/Elliott     def.     Borg/Theriault       Walkover
+     QQ (4) Perez Ramos/Smith    def.     Leese/Spera          62
+     QQ     Hutchison/Watson     def.     Kim/Nguyen           63
+     QQ (2) Rachal/Rawal         def.     Fouad/El Kholti      Walkover
+ > Doubles Flight 2
+  > Main
+      F (4) Janackovic/Sanchez   def.     Bukhalo/Paul         61
+     SF (4) Janackovic/Sanchez   def.     Kawunde/Lopez        63
+     SF     Bukhalo/Paul         def. (2) Radionov/Wogen       64
+     QF     Kawunde/Lopez        def.     Gilheany/Molina      Walkover
+     QF (4) Janackovic/Sanchez   def.     Fishkin/Nakhjavan    63
+     QF     Bukhalo/Paul         def.     Hart/Ray             75
+     QF (2) Radionov/Wogen       def.     Gore/Hedlund         Walkover
+     16     Gilheany/Molina      def. (1) Kanetkar/MacNeil     63
+     16     Kawunde/Lopez        def.     Gatti/Klumb          62
+     16     Fishkin/Nakhjavan    def.     Prokurat/Suarez      64
+     16 (4) Janackovic/Sanchez   def.     Meyer/Tecce          62
+     16     Bukhalo/Paul         def. (3) Bejarano-Gamez/Tudor 61
+     16     Hart/Ray             def.     Choi/Winton          62
+     16     Gore/Hedlund         def.     Fourticq/Khromchenko 64
+     16 (2) Radionov/Wogen       def.     Antonio Marales/Sot… 63
+  > Consolation
+      F     Fourticq/Khromchenko def.     Prokurat/Suarez      63
+     SF     Prokurat/Suarez      def.     Gatti/Klumb          76(3)
+     SF     Fourticq/Khromchenko def. (3) Bejarano-Gamez/Tudor 63
+     QQ     Gatti/Klumb          def. (1) Kanetkar/MacNeil     Walkover
+     QQ     Prokurat/Suarez      def.     Meyer/Tecce          75
+     QQ (3) Bejarano-Gamez/Tudor def.     Choi/Winton          64
+     QQ     Fourticq/Khromchenko def.     Antonio Marales/Sot… 61
 ~~~
 
 <a name="21-18330"></a>

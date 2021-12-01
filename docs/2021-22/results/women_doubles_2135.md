@@ -1,8 +1,69 @@
 <a name="top"></a><< Prev &nbsp; **Week #35 - Aug 30 - Sep 5** &nbsp; [Next >>](women_doubles_2136.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2135.md) &#124; [***Women***](./women_doubles_2135.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2135.md) &#124; [***Doubles***](./women_doubles_2135.md)
 
 **Tournamets with Matches**  
+- 9/5/2021 - [Mary Hosking Invitational Tournament](#21-02759) ([Results](#21-02759) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7" target="_blank">Draws</a>)  
 - 9/3/2021 - [Tyler Invite](#21-00238) ([Results](#21-00238) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTexasTylerW/Tournaments/Overview/2BA0D609-FAB2-4A48-859D-61975908AE40" target="_blank">Draws</a>)  
 - 9/4/2021 - [Warhawk Invitational](#21-90634) ([Results](#21-90634) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/4E7E69DF-F521-4DA8-A3AB-8131B80552CE" target="_blank">Draws</a>)  
+
+<a name="21-02759"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Mary Hosking Invitational Tournament
+  Dates: Sep 5-6, 2021
+  Host: William Smith College (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > Main
+      F  Apsey/Holtzman       def.  Libby/Ruiz Vega      84
+     SF  Libby/Ruiz Vega      def.  Bonomo/Camacho       83
+     SF  Apsey/Holtzman       def.  Elliot/Goings-Perrot 80
+     QF  Bonomo/Camacho       def.  Davis/Chelnick       87(1)
+     QF  Libby/Ruiz Vega      def.  Cutler/Pratt         86
+     QF  Elliot/Goings-Perrot def.  Galle/Tobin          85
+     QF  Apsey/Holtzman       def.  Sullivan/Styliades   80
+     16  Bonomo/Camacho       def.  Schulz/Klomp         81
+     16  Davis/Chelnick       def.  Murray/Wade          83
+     16  Libby/Ruiz Vega      def.  Gamble/Avery         81
+     16  Cutler/Pratt         def.  Bulkeley/Carr        81
+     16  Elliot/Goings-Perrot def.  Rodriguez/Shenk      84
+     16  Galle/Tobin          def.  Kim/Waysack          84
+     16  Sullivan/Styliades   def.  Pullen/Guzman        80
+     16  Apsey/Holtzman       def.  Donohue/Drozd        81
+  > Consolation
+      F  Donohue/Drozd        def.  Gamble/Avery         86
+     SF  Gamble/Avery         def.  Murray/Wade          85
+     SF  Donohue/Drozd        def.  Rodriguez/Shenk      Walkover
+     QQ  Murray/Wade          def.  Schulz/Klomp         84
+     QQ  Gamble/Avery         def.  Bulkeley/Carr        80
+     QQ  Rodriguez/Shenk      def.  Kim/Waysack          87(6)
+     QQ  Donohue/Drozd        def.  Pullen/Guzman        87(4)
+ > Flight B
+  > Main
+      F  Caplan/Dadoly        def.  Macey/Harris         86
+     SF  Macey/Harris         def.  Cicero/Roberts       83
+     SF  Caplan/Dadoly        def.  Glidden/Turtledove   86
+     QF  Cicero/Roberts       def.  Wisniewski/Kelly     82
+     QF  Macey/Harris         def.  Mandalapu/Dron       84
+     QF  Caplan/Dadoly        def.  Morgans/Morrow       82
+     QF  Glidden/Turtledove   def.  Herz/Sposito         83
+     16  Cicero/Roberts       def.  Fine/Pida            82
+     16  Wisniewski/Kelly     def.  Breitweiser/Spath    80
+     16  Mandalapu/Dron       def.  Wolfe/Kohberger      82
+     16  Macey/Harris         def.  Krol/Seiler          83
+     16  Caplan/Dadoly        def.  Auble/Smolowitz      83
+     16  Morgans/Morrow       def.  Burns/Klee           87(4)
+     16  Herz/Sposito         def.  Keegan/Hecht         80
+     16  Glidden/Turtledove   def.  Johnson/Rockwood     81
+  > Consolation
+      F  Krol/Seiler          def.  Auble/Smolowitz      87(4)
+     SF  Krol/Seiler          def.  Fine/Pida            86
+     SF  Auble/Smolowitz      def.  Johnson/Rockwood     82
+     QQ  Fine/Pida            def.  Breitweiser/Spath    82
+     QQ  Krol/Seiler          def.  Wolfe/Kohberger      87(8)
+     QQ  Auble/Smolowitz      def.  Burns/Klee           81
+     QQ  Johnson/Rockwood     def.  Keegan/Hecht         81
+~~~
 
 <a name="21-00238"></a>
 ~~~

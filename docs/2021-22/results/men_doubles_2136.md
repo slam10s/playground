@@ -5,8 +5,10 @@
 - 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-26104) ([Results](#21-26104) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/B00BE0B9-F219-49D7-880F-72F7FA07C012" target="_blank">Draws</a>)  
 - 9/10/2021 - [2021 Dar Walters Classic](#21-19264) ([Results](#21-19264) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">Draws</a>)  
 - 9/10/2021 - [Battle of the Beach](#21-65691) ([Results](#21-65691) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Draws</a>)  
+- 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
 - 9/10/2021 - [Knoxville Showdown](#21-83681) ([Results](#21-83681) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/85DF336A-C5C2-4C22-AC59-717D6414EA8A" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
+- 9/10/2021 - [Orange Lawn Fall Invitational](#21-93144) ([Results](#21-93144) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Draws</a>)  
 - 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
 - 9/11/2021 - [2021 CCIW Fall Invitational](#21-67914) ([Results](#21-67914) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillikinUniversityM/Tournaments/Overview/EC2D06D4-33B6-4D12-AD7F-0FFF3E553D26" target="_blank">Draws</a>)  
@@ -320,6 +322,42 @@
      QF  Bernard/Dous Karpen… def.  Cabrera/Cordeiro     83
 ~~~
 
+<a name="21-36446"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  Gator Fall Invite
+  Dates: Sep 10-12, 2021
+  Host: University of Florida (M)
+═══════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Day One Matches
+  > Main
+     32  Shelbayh/Siimar    def.  Pavel/Hilderbrand 84
+     32  Andrade/Grant      def.  Roddick/Yamada    81
+     32  Shelton/Bonetto    def.  Triana/White      83
+     32  Van Sambeek/Rocens def.  Bicknell/Goodger  86
+     32  Story/Lambling     def.  Catry/Shick       84
+     32  Samuel/Beasley     def.  Shick/Salvestre   84
+     32  Schrader/Barkai    def.  Thomson/Pelletier 87(1)
+ > Day Two Matches
+  > Main
+     32  Shelbayh/Siimar    def.  Barkai/Shick      83
+     32  Catry/Salvestre    def.  Andrade/Grant     83
+     32  Van Sambeek/Rocens def.  Shelton/Bonetto   83
+     32  Greif/Goodger      def.  Shick/Schrader    85
+     32  Thomson/Beasley    def.  Pavel/Hilderbrand 85
+     32  Story/Lambling     def.  Roddick/Triana    82
+     32  Morgan/Pelletier   def.  Synder/White      84
+ > Day Three Matches
+  > Main
+     32  Siimar/Shelton     def.  Thomson/Beasley   85
+     32  Story/Lambling     def.  Goodger/Grant     83
+     32  Andrade/Bonetto    def.  Morgan/Pelletier  82
+     32  Catry/Salvestre    def.  Pavel/Roddick     83
+     32  Rocens/Shick       def.  Yamada/Triana     86
+     32  Van Sambeek/Shick  def.  Synder/White      82
+~~~
+
 <a name="21-83681"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════
@@ -412,6 +450,33 @@
  > Crimson added doubles match
   > Main
       F     Barranquero/Chhabra  def.     Larrea/Mere          82
+~~~
+
+<a name="21-93144"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  Orange Lawn Fall Invitational
+  Dates: Sep 10-12, 2021
+  Host: Princeton University (M)
+═══════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Day 1
+  > Main
+     QF  Shymansky/Lefevre def.  Goodman/Lim       84
+     QF  Barki/Astreinidis def.  Macnamara/Galan   83
+     QF  Hildebrandt/Smith def.  Dean/Dehmoubed    81
+     QF  Kam/Duo           def.  Tang/Wibler       85
+ > Draw 2
+  > Main
+     QF  Kam/Duo           def.  Shymansky/Lefevre 84
+     QF  Goodman/Lim       def.  Tang/Wibler       84
+     QF  Hildebrandt/Smith def.  Macnamara/Galan   83
+     QF  Barki/Astreinidis def.  Dean/Dehmoubed    84
+ > Day 3
+  > Main
+     QF  Tang/Wibler       def.  Shymansky/Lefevre 82
+     QF  Dean/Dehmoubed    def.  Macnamara/Galan   83
+     QF  Hildebrandt/Smith def.  Barki/Astreinidis 81
 ~~~
 
 <a name="21-88961"></a>

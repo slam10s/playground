@@ -8,6 +8,7 @@
 - 10/15/2021 - [Commodore Classic](#21-21760) ([Results](#21-21760) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Draws</a>)  
 - 10/15/2021 - [Fighting Illini Invite](#21-10431) ([Results](#21-10431) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisM/Tournaments/Overview/4DAD8F21-9326-420E-B8FB-259D52500DC0" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-23395) ([Results](#21-23395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-08423) ([Results](#21-08423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Northeast Regional Championship](#21-34853) ([Results](#21-34853) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-05800) ([Results](#21-05800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
@@ -15,6 +16,7 @@
 - 10/13/2021 - [ITA Division I Men's Texas Regional Championship](#21-59010) ([Results](#21-59010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">Draws</a>)  
 - 10/15/2021 - [Louisville Invitational](#21-27355) ([Results](#21-27355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Draws</a>)  
 - 10/15/2021 - [San Diego State Fall Invite](#21-62211) ([Results](#21-62211) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">Draws</a>)  
+- 10/15/2021 - [UTC-Steve Baras Invitational](#21-41868) ([Results](#21-41868) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 - 10/16/2021 - [Purdue University Northwest Fall Invitational](#21-60014) ([Results](#21-60014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityNorthwestM/Tournaments/Overview/A63832A0-768B-401A-B044-F7960762A033" target="_blank">Draws</a>)  
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
@@ -552,6 +554,82 @@
       64  Matt Cardano         def.  Alex Kim             62 64
       64  Joshua Robinson      def.  Conners OBrien       61 36 [11]
       64  Nicholas Nguyen      def.  Ryan Nguyen          62 63
+~~~
+
+<a name="21-08423"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════════
+  ITA Division I Men's Atlantic Regional Championship
+  Dates: Oct 14-17, 2021
+  Host: Liberty University (M)
+════════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Draw
+  > Main
+     16  (1) Yevhen Sirous        def. (16) Daniel Pellerito     64 61
+     16 (12) Deji Thomas-Smith    def.      Finbar Talcott       61 63
+     16  (3) Holden Koons         def. (14) Christiaan Worst     75 75
+     16  (5) Luca Maldoner        def.  (9) Dimosthenis Taramon… 67(5) 76(7) 64
+     16  (6) Guilherme Severin    def.      Oliver Nolan         62 64
+     16      Michael Shepheard    def. (13) Sebastian Quiros     57 63 61
+     16  (7) Nicola Vidal         def. (10) Frank Thompson       60 76(4)
+     16  (2) Alvaro Ariza         def.      Aditya Balsekar      63 75
+     32  (1) Yevhen Sirous        def.      Mario Pena           62 61
+     32 (16) Daniel Pellerito     def.      Jourdan Kast         62 61
+     32      Finbar Talcott       def.  (8) Carlo Donato         61 76(1)
+     32 (12) Deji Thomas-Smith    def.      Michael Walser       62 61
+     32  (3) Holden Koons         def.      Robert Hagen         61 62
+     32 (14) Christiaan Worst     def.      Scott Sculley        26 64 Ret.
+     32  (5) Luca Maldoner        def.      Matt Harper          75 63
+     32  (9) Dimosthenis Taramon… def.      Harrison Brown       63 63
+     32      Oliver Nolan         def. (11) Thando Longwe-Smit   36 63 76(8)
+     32  (6) Guilherme Severin    def.      Alex Ix              75 75
+     32 (13) Sebastian Quiros     def.      Konstantinos Raptis  75 36 62
+     32      Michael Shepheard    def.  (4) Codie Van Schalkwyk  36 63 62
+     32 (10) Frank Thompson       def.      Joseph Brailovsky    36 76(5) Ret.
+     32  (7) Nicola Vidal         def.      Oscar Hernandez      62 60
+     32      Aditya Balsekar      def. (15) William Karpinski    63 76(6)
+     32  (2) Alvaro Ariza         def.      Chen Ruo             67(4) 60 63
+     64      Mario Pena           def.      Raphael Mujan        60 64
+     64      Jourdan Kast         def.      Ryan Bernstine       75 61
+     64      Finbar Talcott       def.      Andres Silva         62 26 64
+     64      Michael Walser       def.      Rosen Nayadenov      61 62
+     64      Robert Hagen         def.      Oliver Tobisch       63 62
+     64      Scott Sculley        def.      Ernesto Rocabert     64 16 63
+     64      Matt Harper          def.      Zion Heaven          64 64
+     64      Harrison Brown       def.      Youssef Sadek        62 75
+     64      Oliver Nolan         def.      Sean Joseph          36 60 62
+     64      Alex Ix              def.      Mathieu Josserand    75 75
+     64      Konstantinos Raptis  def.      Stefan Petrovic      61 61
+     64      Michael Shepheard    def.      Goncalo Ferreira     Walkover
+     64      Joseph Brailovsky    def.      Manfredi Vergine     61 63
+     64      Oscar Hernandez      def.      Guillermo Cagigas    63 61
+     64      Aditya Balsekar      def.      Luis Reis            36 64 62
+     64      Chen Ruo             def.      Omar El Kadi         61 63
+ > Back Draw Day 1
+  > Main
+     32      Sean Joseph          def.      Ernesto Rocabert     64 40 Ret.
+     32      Guillermo Cagigas    def.      Omar El Kadi         36 63 33 Ret.
+     64      Raphael Mujan        def.      Ryan Bernstine       76(5) 75
+     64      Andres Silva         def.      Rosen Nayadenov      36 63 63
+     64      Ernesto Rocabert     def.      Mathieu Josserand    64 61
+     64      Sean Joseph          def.      Stefan Petrovic      Walkover
+     64      Guillermo Cagigas    def.      Manfredi Vergine     64 60
+     64      Omar El Kadi         def.      Luis Reis            63 61
+     64      Youssef Sadek        def.      Oliver Tobisch       75 61
+     64      Josh Wilson          def.      George Davis         62 63
+ > Back Draw Day 2
+  > Main
+     64      Rosen Nayadenov      def.      Ryan Bernstine       63 63
+     64      Oliver Tobisch       def.      Mathieu Josserand    61 61
+     64      Manfredi Vergine     def.      Luis Reis            75 57 62
+     64      Jourdan Kast         def.      Mario Pena           57 64 62
+     64      Carlo Donato         def.      Michael Walser       64 76(5)
+     64      William Karpinski    def.      Matt Harper          64 62
+     64      Thando Longwe-Smit   def.      Andres Silva         63 64
+     64      Codie Van Schalkwyk  def.      Konstantinos Raptis  62 63
+     64      Oscar Hernandez      def.      Robert Hagen         63 64
+     64      Youssef Sadek        def.      Raphael Mujan        64 60
 ~~~
 
 <a name="21-34853"></a>
@@ -1366,6 +1444,89 @@
      R1  Zach Ermert          def.  Jack Hambrook        60 60
      R1  Rana-Roop Bhullar    def.  Nick Lagaev          64 64
      R1  Jose Dominguez Alon… def.  Jett Middleton       62 64
+~~~
+
+<a name="21-41868"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  UTC-Steve Baras Invitational
+  Dates: Oct 15-17, 2021
+  Host: Univ. Of Tennessee, Chattanooga (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Utc/ttu
+  > Main
+     64  Elias Grubert        def.  Tomas Rodriguez      64 63
+     64  Simon Labbe          def.  Carlos Vicente       67(4) 63 [6]
+     64  Jordan McClure       def.  Mika Berghaus        60 61
+     64  Rafael Tosetto       def.  Kerim Hyatt          62 26 [4]
+     64  Evzen Holis          def.  Peyton Gatti         64 76(4)
+     64  Jun Sasagawa         def.  Ryan Mudre           76(4) 26 [9]
+ > Utc/una
+  > Main
+     16  Carlos Matarredona   def.  Simon Labbe          76(5) 64
+     16  Fernando Perez       def.  Jacob Marshall       63 Ret.
+     16  Jordan McClure       def.  Chris Zhang          16 61 [8]
+     16  Guilherme Diniz      def.  Ryan Mudre           75 16 [10]
+     16  Quinten Nevenhoven   def.  Jamie Bixby          16 61 [4]
+     16  Sam Tolbert          def.  Bo Nash              26 62 [5]
+ > Bel/gaso
+  > Main
+     16  Arthur Toledo        def.  Pol Del Castillo     63 63
+     16  Ian Cruz             def.  Tao Castillo         63 36 [12]
+     16  Tomas Luis           def.  Valentin Dun         46 63 [4]
+     16  Diego Castro         def.  Jaap Aaldering       62 64
+     16  Taisei Miyamoto      def.  Alex Amacher         62 76(1)
+     16  Alfred Wallin        def.  Alex Suk             64 61
+ > Utc/apsu
+  > Main
+     64  Frederic Schlossmann def.  Tomas Rodriguez      63 57 [9]
+     64  Kerim Hyatt          def.  Anton Damberg        60 61
+     64  Peyton Gatti         def.  Gabriel Nolasco      62 63
+     64  Jordan McClure       def.  Giovanni Becchis     61 62
+     64  Ryan Mudre           def.  Tom Bolton           76(2) 61
+     64  Hogan Stoker         def.  Quinten Nevenhoven   64 64
+     64  Lachlan Laner        def.  Bo Nash              63 64
+ > Ttu/bel
+  > Main
+     16  Evzen Holis          def.  Diego Castro         64 63
+     16  Mika Berghaus        def.  Ian Cruz             64 62
+     16  Alfred Wallin        def.  Jun Sasagawa         16 76(4) [6]
+     16  Arthur Toledo        def.  Elias Grubert        57 60 [10]
+     16  Tomas Luis           def.  Rafael Tosetto       67(4) 64 [4]
+     16  Taisei Miyamoto      def.  Carlos Vicente       62 62
+ > Gaso/una
+  > Main
+     16  Chris Zhang          def.  Alex Amacher         61 60
+     16  Jaap Aaldering       def.  Sam Tolbert          63 60
+     16  Alex Suk             def.  Jamie Bixby          76(1) 62
+     16  Tao Castillo         def.  Guilherme Diniz      61 63
+     16  Valentin Dun         def.  Carlos Matarredona   62 62
+     16  Fernando Perez       def.  Pol Del Castillo     64 46 [8]
+ > Utc/bel
+  > Main
+     16  Tomas Rodriguez      def.  Tomas Luis           26 62 [10]
+     16  Arthur Toledo        def.  Kerim Hyatt          64 62
+     16  Simon Labbe          def.  Taisei Miyamoto      62 63
+     16  Peyton Gatti         def.  Diego Castro         62 67(4) [8]
+     16  Alfred Wallin        def.  Jordan McClure       64 46 [4]
+     16  Ryan Mudre           def.  Grant Kelly          64 63
+ > Una/apsu
+  > Main
+     16  Fernando Perez       def.  Frederic Schlossmann 62 62
+     16  Carlos Matarredona   def.  Anton Damberg        63 63
+     16  Guilherme Diniz      def.  Tom Bolton           46 62 [6]
+     16  Chris Zhang          def.  Giovanni Becchis     64 61
+     16  Lachlan Laner        def.  Jamie Bixby          62 76(7)
+     16  Hogan Stoker         def.  Sam Tolbert          63 75
+ > Ttu/gaso
+  > Main
+     16  Rafael Tosetto       def.  Alex Amacher         62 60
+     16  Jun Sasagawa         def.  Jaap Aaldering       60 61
+     16  Carlos Vicente       def.  Valentin Dun         61 64
+     16  Mika Berghaus        def.  Tao Castillo         75 61
+     16  Pol Del Castillo     def.  Evzen Holis          46 64 [5]
+     16  Elias Grubert        def.  Alex Suk             62 61
 ~~~
 
 <a name="21-00186"></a>

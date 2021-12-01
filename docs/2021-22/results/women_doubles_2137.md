@@ -23,6 +23,7 @@
 - 9/18/2021 - [Big Red Invitational](#21-52871) ([Results](#21-52871) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DenisonUniversityW/Tournaments/Overview/8C55E0CC-605C-4584-8311-FA3093162009" target="_blank">Draws</a>)  
 - 9/17/2021 - [Division II Women's East ITA Regional Championships](#21-70129) ([Results](#21-70129) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
+- 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 - 9/17/2021 - [Javalina Fall Quad](#21-30014) ([Results](#21-30014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityKingsvilleW/Tournaments/Overview/598273F2-FD41-4282-9467-EFD6330C79CC" target="_blank">Draws</a>)  
 - 9/17/2021 - [Methodist University Women's Fall Invitational](#21-80794) ([Results](#21-80794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MethodistUniversityW/Tournaments/Overview/4FFAB7FF-537E-4837-8CBB-5347D9DABA5B" target="_blank">Draws</a>)  
@@ -1184,6 +1185,56 @@
      16Q     Luna/McGivern        def.     Schrepferman/Bucco … 86
      16Q     Padberg/Beidacki     def.     Skjelstad/Mokhasi    98(5)
      16Q     Kuehnle/Eremina      def. (2) Zafeiri/Reisch       81
+~~~
+
+<a name="21-29173"></a>
+~~~
+═════════════════════════════════════════════════════════════════
+  Division III Women's Northeast ITA Regional Championships
+  Dates: Sep 18-20, 2021
+  Host: William Smith College (W)
+═════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F  Fordham/Plakk        def.  Landells/Roarty      61 61
+     SF  Fordham/Plakk        def.  Apsey/Holtzman       81
+     SF  Landells/Roarty      def.  Libby/Ruiz Vega      82
+     QF  Fordham/Plakk        def.  Flores Gonzalez/Flo… 84
+     QF  Apsey/Holtzman       def.  Jones/Mednikova      86
+     QF  Landells/Roarty      def.  Jensrud/Balyk        87(3)
+     QF  Libby/Ruiz Vega      def.  Eisenberg/Vasile     82
+     16  Fordham/Plakk        def.  Dhull/Truong         81
+     16  Flores Gonzalez/Flo… def.  Stavropoulos/Dowd    82
+     16  Jones/Mednikova      def.  Waugh/Zorzan         81
+     16  Apsey/Holtzman       def.  Almquist/Provost     84
+     16  Jensrud/Balyk        def.  Cicero/Roberts       87(7)
+     16  Landells/Roarty      def.  Feldman/Thongphok    87(5)
+     16  Libby/Ruiz Vega      def.  Cutler/Pratt         86
+     16  Eisenberg/Vasile     def.  Menendez/Nguyen      85
+     32  Fordham/Plakk        def.  Dadoly/Gamble        80
+     32  Dhull/Truong         def.  Chelnick/Davis       81
+     32  Stavropoulos/Dowd    def.  Abalos/Rangu         84
+     32  Flores Gonzalez/Flo… def.  Barteck/Chow         85
+     32  Jones/Mednikova      def.  Macey/Harris         80
+     32  Waugh/Zorzan         def.  Karadimou/Nicol      82
+     32  Apsey/Holtzman       def.  Donohue/Drozd        80
+     32  Almquist/Provost     def.  Gonzalez/Stewart     81
+     32  Cicero/Roberts       def.  Brown/DOnofrio       83
+     32  Jensrud/Balyk        def.  Bonomo/Camacho       82
+     32  Landells/Roarty      def.  Styliades/Sullivan   82
+     32  Feldman/Thongphok    def.  Batcheller/Dratch    81
+     32  Cutler/Pratt         def.  Clamor/Malhotra      87(2)
+     32  Libby/Ruiz Vega      def.  Bauer/Subramaniam    86
+     32  Menendez/Nguyen      def.  Galle/Tobin          83
+     32  Eisenberg/Vasile     def.  Shen/Kizilbash       84
+ > Consolation Doubles
+  > Main
+     R1  Andrews/Rodriguez    def.  Batcheller/Dratch    87(10)
+     R1  Karadimou/Nicol      def.  Barteck/Chow         81
+     R1  Chelnick/Davis       def.  Brown/DOnofrio       80
+     R1  Stavropoulos/Dowd    def.  Cutler/Pratt         84
+     R1  Almquist/Provost     def.  Shen/Kizilbash       87(10)
 ~~~
 
 <a name="21-76336"></a>

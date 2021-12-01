@@ -14,6 +14,7 @@
 - 10/23/2021 - [UNA Men's Classic](#21-19659) ([Results](#21-19659) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNorthAlabamaM/Tournaments/Overview/A9056FEF-25AD-4F2E-9338-1E7D25480DA0" target="_blank">Draws</a>)  
 - 10/21/2021 - [Crusader Invitational](#21-41693) ([Results](#21-41693) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Draws</a>)  
 - 10/22/2021 - [Eagle Invitational](#21-28500) ([Results](#21-28500) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Draws</a>)  
+- 10/22/2021 - [GSC Fall Individual Tournament](#21-93512) ([Results](#21-93512) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">Draws</a>)  
 - 10/23/2021 - [MIT Classic](#21-15791) ([Results](#21-15791) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/7E100217-7269-401A-99AA-F3C782FC0593" target="_blank">Draws</a>)  
 - 10/22/2021 - [MIT Invite](#21-83746) ([Results](#21-83746) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">Draws</a>)  
 - 10/22/2021 - [MSU Invitational](#21-16812) ([Results](#21-16812) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">Draws</a>)  
@@ -1585,6 +1586,135 @@
      SF  Caleb McCurry        def.  Lluis Tomas          64 63
   > 3-4 Playoff
       F  Herman Ronnberg      def.  Adrian Heidelberger  64 61
+~~~
+
+<a name="21-93512"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  GSC Fall Individual Tournament
+  Dates: Oct 22-24, 2021
+  Host: University Of West Alabama (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Draw 3
+  > Main
+      F  Loic Danze           def.  Jules Dugue          46 60 75
+     SF  Loic Danze           def.  Franco Roldan        64 36 [9]
+     SF  Jules Dugue          def.  Cameron Henricy Tri… 76(3) 63
+     QF  Franco Roldan        def.  Giovanni Bellio      26 75 [5]
+     QF  Loic Danze           def.  Alan Benitez         64 61
+     QF  Jules Dugue          def.  Thibault Jacq        62 63
+     QF  Cameron Henricy Tri… def.  Lucas Hammond        62 75
+     16  Franco Roldan        def.  Edward Etty          63 64
+     16  Giovanni Bellio      def.  Jacob Gailey         61 64
+     16  Alan Benitez         def.  Ignacio Mora         63 62
+     16  Loic Danze           def.  Gavin Salton         61 62
+     16  Thibault Jacq        def.  Enzo Silveira        75 64
+     16  Jules Dugue          def.  Alban Piranda        61 75
+     16  Cameron Henricy Tri… def.  Kiran Namadevan      61 62
+     16  Lucas Hammond        def.  Brady McDaniel       61 76(3)
+ > Draw 2
+  > Main
+      F  Muhamad Bedwan       def.  Philippe Zehender    61 67(3) 63
+     SF  Philippe Zehender    def.  Emiliano Elazarraraz 64 76(9)
+     SF  Muhamad Bedwan       def.  Christian Wedel      67(3) 62 [6]
+     QF  Emiliano Elazarraraz def.  Swann Flohr          62 64
+     QF  Philippe Zehender    def.  Jan Kos              62 75
+     QF  Christian Wedel      def.  Julius Ziebart       63 57 [10]
+     QF  Muhamad Bedwan       def.  Strahinja Radanovic  63 64
+     16  Swann Flohr          def.  Matias Ballatore     62 75
+     16  Emiliano Elazarraraz def.  Gabriel Nery         64 62
+     16  Philippe Zehender    def.  Alonso Reid          63 62
+     16  Jan Kos              def.  Nutti Jokinen        64 60
+     16  Julius Ziebart       def.  Illia Dehodiuk       57 62 [8]
+     16  Christian Wedel      def.  Come Bracaval        75 16 [9]
+     16  Muhamad Bedwan       def.  Jojo Sandoz          61 67(6) [14]
+     16  Strahinja Radanovic  def.  Lluis Miro           64 16 [6]
+ > Draw 5
+  > Main
+      F  David Mulas          def.  Dylan Kamel          62 62
+     SF  David Mulas          def.  Jude Heraut          61 46 [3]
+     SF  Dylan Kamel          def.  Jose Villacis        63 64
+     QF  David Mulas          def.  Shane Samyn          75 63
+     QF  Jude Heraut          def.  Blake Bottegal       60 60
+     QF  Jose Villacis        def.  Connor Gunnell       61 61
+     QF  Dylan Kamel          def.  Seth Macute          64 64
+     16  David Mulas          def.  Fabian Billton       60 63
+ > Draw 1
+  > Main
+      F  Luca Mack            def.  David Rieme          36 62 64
+     SF  Luca Mack            def.  Marcel Hornung       57 64 [5]
+     SF  David Rieme          def.  Emile Le Terrier     62 60
+     QF  Luca Mack            def.  Hugo Stroppiana      64 46 [8]
+     QF  Marcel Hornung       def.  Dylan Valentine      36 62 [2]
+     QF  David Rieme          def.  Alexandre Laplante   62 67(4) [7]
+     QF  Emile Le Terrier     def.  Christian Felline    64 62
+     16  Luca Mack            def.  Joao Guariente       64 16 [2]
+     16  Hugo Stroppiana      def.  Joe Jarvis           60 62
+     16  Dylan Valentine      def.  Tomas Descarrega     Default
+     16  Marcel Hornung       def.  Jovan Cirkovic       63 61
+     16  Alexandre Laplante   def.  Jared Prince         62 62
+     16  David Rieme          def.  Javier Flores        61 61
+     16  Emile Le Terrier     def.  Salvador Bandeira    63 64
+     16  Christian Felline    def.  Hsiang Yi Wang       63 64
+ > Draw 4
+  > Main
+      F  Sebastian Sotelo     def.  Carlos Trujillo      62 61
+     SF  Sebastian Sotelo     def.  Sergi Martinez       61 61
+     SF  Carlos Trujillo      def.  Arka Ganguly         64 26 [3]
+     QF  Sebastian Sotelo     def.  Killian Sinclair     62 46 [6]
+     QF  Sergi Martinez       def.  Nino Portugal        63 64
+     QF  Arka Ganguly         def.  Elijah Hagan         63 63
+     QF  Carlos Trujillo      def.  Patricio Nieto       46 64 [12]
+     16  Sebastian Sotelo     def.  Jonathan Judy-Hansen 75 62
+     16  Killian Sinclair     def.  Victor Fantaziu      61 63
+     16  Sergi Martinez       def.  Walker Ellis         61 60
+     16  Nino Portugal        def.  Miguel Gamborino     60 60
+     16  Arka Ganguly         def.  Emilian Zavala       64 64
+     16  Carlos Trujillo      def.  Pedro Gomez          61 61
+     16  Patricio Nieto       def.  Rien Alderliesten    62 61
+ > Consolation 10/24 Round 3
+  > Main
+     16  Swann Flohr          def.  Javier Flores        75 61
+     16  Joao Guariente       def.  Fabian Billton       60 61
+     16  Jan Kos              def.  Joe Jarvis           46 62 [12]
+     16  Walker Ellis         def.  Emilian Zavala       63 64
+     16  Nino Portugal        def.  Brady McDaniel       62 76(4)
+     16  Hsiang Yi Wang        vs   Thibault Jacq        
+     16  Jonathan Judy-Hansen def.  Rien Alderliesten    62 61
+     16  Edward Etty           vs   Illia Dehodiuk       
+ > Consolation 10/23 Round 1
+  > Main
+     32  Joao Guariente       def.  Matias Ballatore     62 61
+     32  Joe Jarvis           def.  Ignacio Mora         63 63
+     32  Javier Flores        def.  Jovan Cirkovic       63 64
+     32  Walker Ellis         def.  Jojo Sandoz          64 64
+     32  Come Bracaval        def.  Pedro Gomez          62 61
+     32  Hsiang Yi Wang       def.  Lluis Miro           46 62 [4]
+     32  Edward Etty          def.  Jacob Gailey         61 62
+     32  Brady McDaniel       def.  Kiran Namadevan      63 62
+     32  Fabian Billton       def.  Blake Bottegal       62 63
+     32  Rien Alderliesten    def.  Connor Gunnell       61 61
+     32  Jonathan Judy-Hansen def.  Seth Macute          60 61
+ > Consolation 10/23 Round 2
+  > Main
+     32  Swann Flohr          def.  Strahinja Radanovic  61 64
+     32  Fabian Billton       def.  Jude Heraut          63 64
+     32  Joao Guariente       def.  Come Bracaval        36 76(4) [7]
+     32  Joe Jarvis           def.  Javier Flores        76(3) 62
+     32  Emilian Zavala       def.  Rien Alderliesten    26 64 [6]
+     32  Walker Ellis         def.  Alonso Reid          63 64
+     32  Hsiang Yi Wang       def.  Jonathan Judy-Hansen 63 63
+     32  Brady McDaniel       def.  Elijah Hagan         61 64
+     32  Jan Kos              def.  Thibault Jacq        63 64
+     32  Nino Portugal        def.  Edward Etty          16 76(4) [6]
+ > Consolation 10/24 Round 4
+  > Main
+     16  Miguel Gamborino     def.  Jojo Sandoz          35 42 [6]
+     16  Patricio Nieto       def.  Alban Piranda        41 41
+     16  Thibault Jacq        def.  Pedro Gomez          42 42
+     16  Nutti Jokinen        def.  Alonso Reid          42 42
+     16  Illia Dehodiuk       def.  Seth Macute          40 42
 ~~~
 
 <a name="21-15791"></a>

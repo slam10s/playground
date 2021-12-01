@@ -5,8 +5,10 @@
 - 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-26104) ([Results](#21-26104) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/B00BE0B9-F219-49D7-880F-72F7FA07C012" target="_blank">Draws</a>)  
 - 9/10/2021 - [2021 Dar Walters Classic](#21-19264) ([Results](#21-19264) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">Draws</a>)  
 - 9/10/2021 - [Battle of the Beach](#21-65691) ([Results](#21-65691) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Draws</a>)  
+- 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
 - 9/10/2021 - [Knoxville Showdown](#21-83681) ([Results](#21-83681) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/85DF336A-C5C2-4C22-AC59-717D6414EA8A" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
+- 9/10/2021 - [Orange Lawn Fall Invitational](#21-93144) ([Results](#21-93144) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Draws</a>)  
 - 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
 - 9/11/2021 - [2021 CCIW Fall Invitational](#21-67914) ([Results](#21-67914) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillikinUniversityM/Tournaments/Overview/EC2D06D4-33B6-4D12-AD7F-0FFF3E553D26" target="_blank">Draws</a>)  
@@ -556,6 +558,64 @@
      16  Welsh Hotard         def.  Tomas Descarrega     57 75 61
 ~~~
 
+<a name="21-36446"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Gator Fall Invite
+  Dates: Sep 10-12, 2021
+  Host: University of Florida (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Day One Matches
+  > Main
+     32  Trey Hilderbrand   def.  Ben Shelton        57 64 64
+     32  Blaise Bicknell    def.  Kento Yamada       46 76(2) 64
+     32  Mattias Siimar     def.  JC Roddick         63 64
+     32  Andres Andrade     def.  Bryan Triana       63 63
+     32  Abedallah Shelbayh def.  Bogdan Pavel       63 36 62
+     32  Joshua Goodger     def.  Cooper White       61 62
+     32  William Grant      def.  Quinn Synder       61 63
+     32  Nate Bonetto       def.  Collin Shick       64 64
+     32  Robin Catry        def.  Toby Samuel        64 46 64
+     32  Connor Thomson     def.  Martins Rocens     64 75
+     32  Raphael Lambling   def.  Damien Salvestre   61 62
+     32  Braden Shick       def.  Jake Beasley       60 62
+     32  Yannai Barkai      def.  James Story        63 62
+     32  Fons Van Sambeek   def.  Carter Morgan      63 63
+     32  Beau Pelletier     def.  Joseph Schrader    62 62
+ > Day Two Matches
+  > Main
+     32  Mattias Siimar     def.  Robin Catry        16 63 60
+     32  Andres Andrade     def.  Damien Salvestre   62 60
+     32  Ben Shelton        def.  Martins Rocens     63 64
+     32  Blaise Bicknell    def.  Braden Shick       63 64
+     32  Yannai Barkai      def.  Abedallah Shelbayh 75 10 Ret.
+     32  Joshua Goodger     def.  Fons Van Sambeek   16 64 75
+     32  William Grant      def.  Collin Shick       63 36 61
+     32  Nate Bonetto       def.  Joseph Schrader    64 64
+     32  Daniel Rodrigues   def.  Trey Hilderbrand   64 26 76(6)
+     32  Connor Thomson     def.  Bogdan Pavel       63 62
+     32  Raphael Lambling   def.  Bryan Triana       61 62
+     32  JC Roddick         def.  Jake Beasley       76(5) 64
+     32  James Story        def.  Cooper White       63 61
+     32  Quinn Synder       def.  Carter Morgan      76(4) 64
+ > Day Three Matches
+  > Main
+     32  Andres Andrade     def.  Connor Thomson     64 64
+     32  Raphael Lambling   def.  Joshua Goodger     75 46 62
+     32  Ben Shelton        def.  James Story        76(4) 76(5)
+     32  William Grant      def.  Jake Beasley       76(5) 16 63
+     32  Lukas Greif        def.  Carter Morgan      67(5) 63 63
+     32  Beau Pelletier     def.  Nate Bonetto       75 26 63
+     32  Robin Catry        def.  Trey Hilderbrand   62 61
+     32  Braden Shick       def.  Kento Yamada       46 63 41 Ret.
+     32  Martins Rocens     def.  Bogdan Pavel       46 63 62
+     32  JC Roddick         def.  Damien Salvestre   75 62
+     32  Fons Van Sambeek   def.  Bryan Triana       76(1) 64
+     32  Quinn Synder       def.  Joseph Schrader    61 64
+     32  Cooper White       def.  Collin Shick       62 62
+~~~
+
 <a name="21-83681"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -736,6 +796,50 @@
      16  Mikael Purne         def.  Lorenzo Orellano     63 60
      16  Maciej Ziomber       def.  Jonathan Vega        62 64
      16  Filippo Salsini      def.  Yu-Jhe Du            64 76(3)
+~~~
+
+<a name="21-93144"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Orange Lawn Fall Invitational
+  Dates: Sep 10-12, 2021
+  Host: Princeton University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Day 1
+  > Main
+     16  Zachery Lim          def.  Robby Shymansky      63 75
+     16  Renaud Lefevre       def.  Tal Goodman          64 26 76(13)
+     16  Justin Barki         def.  Finn Macnamara       63 64
+     16  Santiago Galan       def.  Filippos Astreinidis 64 63
+     16  Simon Wibler         def.  Bill Duo             06 63 76(8)
+     16  Alan Kam             def.  Rex Tang             64 62
+     16  Jason Hildebrandt    def.  Theo Dean            63 64
+     16  Shervin Dehmoubed    def.  Zach Smith           36 75 76(10)
+ > Day 2
+  > Main
+     16  Bill Duo             def.  Robby Shymansky      46 63 [5]
+     16  Zachery Lim          def.  Simon Wibler         64 64
+     16  Rex Tang             def.  Tal Goodman          63 16 76(3)
+     16  Jason Hildebrandt    def.  Finn Macnamara       63 62
+     16  Zach Smith           def.  Santiago Galan       46 62 64
+     16  Justin Barki         def.  Theo Dean            62 62
+     16  Filippos Astreinidis def.  Shervin Dehmoubed    46 64 62
+ > Day 3
+  > Main
+     16  Zachery Lim          def.  Bill Duo             36 61 [2]
+     16  Theo Dean            def.  Finn Macnamara       64 61
+     16  Santiago Galan       def.  Shervin Dehmoubed    63 16 60
+     16  Jason Hildebrandt    def.  Justin Barki         46 63 [7]
+     16  Zach Smith           def.  Filippos Astreinidis 26 61 60
+     16  Simon Wibler         def.  Robby Shymansky      62 26 62
+     16  Rex Tang             def.  Renaud Lefevre       76(3) 36 [8]
+ > Extra Match 1
+  > Main
+      F  Bill Duo             def.  Renaud Lefevre       63 62
+ > Extra Match 2
+  > Main
+      F  Bill Duo             def.  Tal Goodman          63 61
 ~~~
 
 <a name="21-88961"></a>

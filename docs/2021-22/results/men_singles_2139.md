@@ -13,6 +13,7 @@
 - 10/2/2021 - [Davidson College Invite](#21-95483) ([Results](#21-95483) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Draws</a>)  
 - 10/1/2021 - [EIU Panther Hidden Duals](#21-91236) ([Results](#21-91236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">Draws</a>)  
 - 10/1/2021 - [Hagedorn Hidden Dual](#21-03884) ([Results](#21-03884) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Draws</a>)  
+- 10/1/2021 - [Idaho State Bengal Invitational](#21-23711) ([Results](#21-23711) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Draws</a>)  
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/1/2021 - [MSU Bulldog Invitational](#21-39463) ([Results](#21-39463) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77" target="_blank">Draws</a>)  
@@ -33,6 +34,7 @@
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's Midwest ITA Regional Championships](#21-24046) ([Results](#21-24046) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
+- 10/2/2021 - [Panther Classic](#21-52083) ([Results](#21-52083) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/BA2B3B31-CD0C-40C8-96BC-A0F69FEED591" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
@@ -1146,6 +1148,68 @@
      16  Raul Garcia          def.  Mattia Ros           62 61
      16  Sergio Ingles Garre  def.  Peter Sallay         61 63
      16  Daniel Krulig        def.  Harvey Conway        Walkover
+~~~
+
+<a name="21-23711"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Idaho State Bengal Invitational
+  Dates: Oct 1-3, 2021
+  Host: Idaho State University (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > White
+  > East
+      F  Wikus Robbertse     def.  Rian Ta             62 62
+     SF  Wikus Robbertse     def.  Pontus Hallgren     63 63
+     SF  Rian Ta             def.  Zachary Matuszak    62 61
+     QF  Wikus Robbertse     def.  Manuel Monteiro     63 46 64
+     QF  Pontus Hallgren     def.  Michael Blando      64 62
+     QF  Zachary Matuszak    def.  Josh Watkins        60 62
+     QF  Rian Ta             def.  Marcos Zelver       60 63
+  > West
+      F  Marcos Zelver       def.  Manuel Monteiro     64 64
+     SF  Manuel Monteiro     def.  Michael Blando      62 62
+     SF  Marcos Zelver       def.  Josh Watkins        63 62
+ > Orange
+  > East
+      F  Mathias Gavelin     def.  Lawrence Sciglitano 62 61
+     SF  Mathias Gavelin     def.  Patrick Kristensen  76(5) 64
+     SF  Lawrence Sciglitano def.  Andreas Kramer      36 64 64
+     QF  Patrick Kristensen  def.  Alex Lin            63 46 64
+     QF  Mathias Gavelin     def.  Umit Ege Cankus     63 75
+     QF  Andreas Kramer      def.  Brigham Andrus      61 76(3)
+     QF  Lawrence Sciglitano def.  Patrik Trhac        76(5) Ret.
+     16  Patrick Kristensen  def.  Milo Benn           63 60
+     16  Alex Lin            def.  Bradley Buckland    76(3) 64
+     16  Mathias Gavelin     def.  Aleksandar Petrovic 62 60
+     16  Umit Ege Cankus     def.  Matheus Leite       57 76(5) 61
+     16  Andreas Kramer      def.  Sam Baldwin         64 61
+     16  Brigham Andrus      def.  Hiroki Fujita       75 64
+     16  Lawrence Sciglitano def.  Zach Fuchs          62 62
+     16  Patrik Trhac        def.  Jayson Blando       64 61
+  > West
+     SF  Aleksandar Petrovic def.  Milo Benn           63 76(5)
+     SF  Zach Fuchs          def.  Hiroki Fujita       61 64
+     QF  Milo Benn           def.  Bradley Buckland    61 36 [6]
+     QF  Aleksandar Petrovic def.  Matheus Leite       67(4) 75 [9]
+     QF  Hiroki Fujita       def.  Sam Baldwin         76(5) 26 [8]
+     QF  Zach Fuchs          def.  Jayson Blando       67(3) 64 [4]
+  > North
+     SF  Alex Lin            def.  Umit Ege Cankus     62 64
+     SF  Brigham Andrus      def.  Patrik Trhac        Walkover
+  > South
+      F  Bradley Buckland    def.  Jayson Blando       76(4) 76(4)
+     SF  Bradley Buckland    def.  Matheus Leite       Walkover
+     SF  Jayson Blando       def.  Sam Baldwin         67(4) 62 [7]
+  > Southwest
+      F  Hiroki Fujita       def.  Milo Benn           62 62
+ > Extra Matches
+  > Main
+     QF  Sam Baldwin         def.  Aleksandar Petrovic 75 63
+     QF  Patrick Kristensen  def.  Pontus Hallgren     16 63 [11]
+     QF  Umit Ege Cankus     def.  Michael Blando      64 61
+     QF  Andreas Kramer      def.  Jayson Blando       61 46 [7]
 ~~~
 
 <a name="21-73796"></a>
@@ -3878,6 +3942,60 @@
      64      Owen Vander Ark    def.      Jose Dominguez       75 64
      64      Nicholas Pries     def.      Sebastian Haberler   63 63
      64      Martin Thomas      def.      Florian Sirven       67(5) 62 [4]
+~~~
+
+<a name="21-52083"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Panther Classic
+  Dates: Oct 2-3, 2021
+  Host: Middlebury College (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Midd Colgate Singles Day 1
+  > Main
+     64  Stan Morris          def.  Jack Selati          62 63
+     64  Rohan Gupta          def.  Robby Ward           64 62
+     64  Noah Laber           def.  Mike Thomas          63 64
+     64  Charlie Levinson     def.  Aidan Harris         64 64
+     64  Josh Israel          def.  Zihao Yuan           63 46 [5]
+     64  Zach Hilty           def.  Mikey Weitz          60 64
+     64  Neel Epstein         def.  Tejas Gupta          63 63
+     64  Nate Romig           def.  Joe Mairs            16 64 [7]
+     64  David Vilys          def.  Nick Potter          62 63
+     64  Ben Graham           def.  Max Kim              62 62
+ > Bryant Colgate Singles Day 1
+  > Main
+     64  Sepehr Raissi        def.  Jack Selati          76(4) 63
+     64  Rohan Gupta          def.  Leonardo Mileikowsky 62 57 [3]
+     64  Jean-Christophe Bar… def.  Mike Thomas          36 61 [4]
+     64  Charlie Levinson     def.  Will Pellegrini      26 64 [3]
+     64  Aryaan Sen           def.  Josh Israel          64 75
+     64  Mikey Weitz          def.  Kondwani Patterson   62 61
+     64  Tejas Gupta          def.  Henri Snyman         63 60
+     64  Nate Romig           def.  David Ammendola      63 64
+ > Midd Bryant Singles Day 1
+  > Main
+     64  Stan Morris          def.  Sepehr Raissi        61 62
+     64  Leonardo Mileikowsky def.  Robby Ward           16 61 [6]
+     64  Noah Laber           def.  Jean-Christophe Bar… 64 63
+     64  Aidan Harris         def.  Will Pellegrini      75 64
+     64  Aryaan Sen           def.  Zihao Yuan           61 60
+     64  Zach Hilty           def.  Kondwani Patterson   63 62
+     64  Neel Epstein         def.  Henri Snyman         64 61
+     64  Joe Mairs            def.  David Ammendola      61 62
+ > Midd Bryant Colgate Day 2
+  > Main
+     64  Jack Selati          def.  Robby Ward           46 63 [6]
+     64  Noah Laber           def.  Leonardo Mileikowsky 76(4) 62
+     64  Neel Epstein         def.  Rohan Gupta          64 63
+     64  Aidan Harris         def.  Jean-Christophe Bar… 64 62
+     64  Zihao Yuan           def.  Mikey Weitz          64 62
+     64  Will Pellegrini      def.  Mike Thomas          30 Ret.
+     64  Nate Romig           def.  Henri Snyman         63 64
+     64  Ben Graham           def.  David Ammendola      63 61
+     64  Zach Hilty           def.  Tejas Gupta          61 63
+     64  Max Kim              def.  Nick Potter          64 46 [6]
 ~~~
 
 <a name="21-08096"></a>

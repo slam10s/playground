@@ -17,6 +17,7 @@
 - 10/23/2021 - [2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship](#21-05827) ([Results](#21-05827) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">Draws</a>)  
 - 10/21/2021 - [Crusader Invitational](#21-41693) ([Results](#21-41693) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Draws</a>)  
 - 10/22/2021 - [Eagle Invitational](#21-28500) ([Results](#21-28500) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Draws</a>)  
+- 10/22/2021 - [GSC Fall Individual Tournament](#21-93512) ([Results](#21-93512) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">Draws</a>)  
 - 10/22/2021 - [MSU Invitational](#21-16812) ([Results](#21-16812) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">Draws</a>)  
 - 10/22/2021 - [Saint Leo Hidden Duals - Women](#21-20217) ([Results](#21-20217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/4E66DF95-8991-4880-9830-29E9F5B3C53F" target="_blank">Draws</a>)  
 - 10/22/2021 - [YTF Southeastern Invitational](#21-42214) ([Results](#21-42214) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">Draws</a>)  
@@ -2228,6 +2229,131 @@
       F  Lauren Good          def.  Stefanie Rossmeier   64 61
   > 3-4 Playoff
       F  Harriet Glaves       def.  Yureni Gomez         64 60
+~~~
+
+<a name="21-93512"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════
+  GSC Fall Individual Tournament
+  Dates: Oct 22-24, 2021
+  Host: University Of West Alabama (M)
+════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw 1
+  > Main
+      F (1) Raquel Amaro         def.     Magda Tuells Bonet   64 60
+     SF (1) Raquel Amaro         def.     Heden Ly             60 63
+     SF     Magda Tuells Bonet   def.     Sara Yigin           64 Ret.
+     QF (1) Raquel Amaro         def.     Natalie Kohoutkova   75 62
+     QF     Heden Ly             def.     Mireia Turro         62 63
+     QF     Sara Yigin           def.     Camille Portalier    62 61
+     QF     Magda Tuells Bonet   def. (2) Katia De La Garza    76(4) 63
+     16     Natalie Kohoutkova   def.     Paulina Cota         60 64
+     16     Heden Ly             def.     Sofia Navarro        64 64
+     16     Mireia Turro         def. (3) Irene Recuenco       64 60
+     16     Camille Portalier    def.     Alena Macharova      63 63
+     16     Sara Yigin           def.     Emily Hafner         64 60
+     16     Magda Tuells Bonet   def.     Maria Martinez       60 61
+ > Draw 2
+  > Main
+      F (2) Estefania Garcia     def.     Elisa Beau           64 64
+     SF     Elisa Beau           def.     Emma Roberts         64 46 61
+     SF (2) Estefania Garcia     def.     Fernanda Cota        61 63
+     QF     Emma Roberts         def.     Ana Villalvazo       75 16 [2]
+     QF     Elisa Beau           def.     Andrea Medel         61 61
+     QF     Fernanda Cota        def.     Maud Vandeputte      46 64 [4]
+     QF (2) Estefania Garcia     def.     Eva Dirr             63 62
+     16     Ana Villalvazo       def. (1) Anastasiia Vorobiova 61 63
+     16     Emma Roberts         def.     Karla Menendez       60 62
+     16     Andrea Medel         def.     Lieselotte Hartlohn… 61 62
+     16     Elisa Beau           def.     Luiza Daud           61 60
+     16     Fernanda Cota        def.     Emiri Takanishi      61 61
+     16     Maud Vandeputte      def.     Raissa Wagner        62 64
+     16     Eva Dirr             def.     Izabel Nikolaeva     75 62
+     16 (2) Estefania Garcia     def.     Adriana Subias       60 61
+ > Draw 3
+  > Main
+      F (1) Valeria Arevalo      def.     Lea-Alessandra Mazz… 76(5) 26 62
+     SF (1) Valeria Arevalo      def.     Anna Valiaeva        62 64
+     SF     Lea-Alessandra Mazz… def.     Cyba Ozzor           76(4) 76
+     QF (1) Valeria Arevalo      def.     Perrine Blachon      60 60
+     QF     Anna Valiaeva        def.     Isabelle Barfoot     63 62
+     QF     Cyba Ozzor           def.     Anna Didkovska       62 63
+     QF     Lea-Alessandra Mazz… def. (2) Rachelle Starreveld  61 62
+     16 (1) Valeria Arevalo      def.     Beatriz Costa        63 63
+     16     Perrine Blachon      def.     Emma Novis           63 62
+     16     Isabelle Barfoot     def.     Isabela Fioravanti   63 60
+     16     Anna Valiaeva        def.     Alba De La Torre     63 62
+     16     Cyba Ozzor           def.     Alana Mulkey-Dayton  62 62
+     16     Anna Didkovska       def.     Eva Rivoal           63 62
+     16     Lea-Alessandra Mazz… def.     Elle Jones           64 75
+     16 (2) Rachelle Starreveld  def.     London Breedlove     61 75
+ > Draw 4
+  > Main
+      F     Nahia Izco           def. (1) Ane Ibarra           64 62
+     SF (1) Ane Ibarra           def.     Giuliana Sacco       36 61 75
+     SF     Nahia Izco           def. (2) Hardija Vidnere      60 57 61
+     QF (1) Ane Ibarra           def.     Whitney Hamilton     64 61
+     QF     Giuliana Sacco       def.     Morgan Bishop        63 46 [8]
+     QF     Nahia Izco           def.     Hera Bryjarsdottir   62 61
+     QF (2) Hardija Vidnere      def.     Nellina Wooten       63 75
+     16 (1) Ane Ibarra           def.     Mary Ella Owen       61 60
+     16     Whitney Hamilton     def.     Ann Cabot Stockett   62 06 [8]
+     16     Giuliana Sacco       def.     Ellie Hesterlee      63 62
+     16     Morgan Bishop        def.     Rachel Rodrigues     64 60
+     16     Hera Bryjarsdottir   def.     Kennedy Lewis        60 64
+     16     Nahia Izco           def.     Kyndall Moore        60 60
+     16     Nellina Wooten       def.     Sofia Pepe           63 63
+     16 (2) Hardija Vidnere      def.     Courtney Piltaver    61 Ret.
+ > Draw 5
+  > Main
+      F     Adriana Barrio       def.     Eva Garcia           46 61 [0]
+     SF     Eva Garcia           def.     Andrea Barrio        61 61
+     SF     Adriana Barrio       def.     Maria Rodriguez      62 62
+     QF     Eva Garcia           def.     Zoe Yasan            61 60
+     QF     Andrea Barrio        def.     Elena Roberts        62 62
+     QF     Adriana Barrio       def.     Isabella Pinto       60 64
+     QF     Maria Rodriguez      def.     Julia Saving         64 64
+     16     Eva Garcia           def.     Maia Lee             60 60
+     16     Andrea Barrio        def.     Gabriela Marin       60 76(2)
+     16     Isabella Pinto       def.     Katarina Karm        60 60
+ > Saturday Consolation 10/23
+  > Main
+     32     Perrine Blachon      def.     Kyndall Moore        61 61
+     32     Elena Roberts        def.     Zoe Yasan            61 60
+     32     Mireia Turro         def.     Hera Bryjarsdottir   60 62
+     32     Eva Dirr             def.     Nellina Wooten       75 64
+     32     Isabella Pinto       def.     Whitney Hamilton     63 63
+     32     Sofia Navarro        def.     Camille Portalier    60 62
+     32     Paulina Cota         def.     Rachel Rodrigues     62 60
+     32     Anastasiia Vorobiova def.     Andrea Medel         61 63
+     32     Rachelle Starreveld  def.     Karla Menendez       75 61
+     32     Irene Recuenco       def.     Ana Villalvazo       63 61
+ > Saturday Cont.
+  > Main
+     32     Maud Vandeputte      def.     Lieselotte Hartlohn… 60 64
+     32     Isabelle Barfoot     def.     Elle Jones           Walkover
+     32     Ellie Hesterlee      def.     Emma Novis           16 63 [10]
+     32     Julia Saving         def.     Isabela Fioravanti   64 36 [3]
+     32     Emily Hafner         def.     Alana Mulkey-Dayton  60 61
+     32     Gabriela Marin       def.     Alena Macharova      61 61
+     32     Eva Rivoal           def.     London Breedlove     60 64
+     32     Ann Cabot Stockett   def.     Mary Ella Owen       60 60
+     32     Katarina Karm         vs      Adriana Subias       
+     32     Natalie Kohoutkova   def.     Sofia Pepe           60 61
+ > Sunday Consolation 10/24
+  > Main
+     32     Emily Hafner         def.     Perrine Blachon      60 60
+     32     Emma Roberts         def.     Beatriz Costa        Walkover
+     32     Ana Villalvazo       def.     Eva Dirr             61 63
+     32     Isabella Pinto       def.     Kennedy Lewis        61 60
+     32     Sofia Navarro        def.     Eva Rivoal           60 62
+     32     Anastasiia Vorobiova def.     Lieselotte Hartlohn… 64 64
+     32     Maud Vandeputte      def.     Hera Bryjarsdottir   60 61
+     32     Paulina Cota         def.     Isabelle Barfoot     60 62
+     32     Ann Cabot Stockett   def.     Andrea Barrio        26 64 [8]
+     32     Natalie Kohoutkova   def.     Cyba Ozzor           61 63
+     32     Rachelle Starreveld  def.     Gabriela Marin       60 62
 ~~~
 
 <a name="21-16812"></a>

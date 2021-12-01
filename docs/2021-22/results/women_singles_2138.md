@@ -4,6 +4,7 @@
 - 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
 - 9/17/2021 - [Division II Women's East ITA Regional Championships](#21-70129) ([Results](#21-70129) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
+- 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
 - 9/24/2021 - [2021 Cal Fall Invitational](#21-72007) ([Results](#21-72007) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">Draws</a>)  
 - 9/24/2021 - [2021 Cougar Classic](#21-92191) ([Results](#21-92191) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WashingtonStateUnivW/Tournaments/Overview/9A9D66AE-29DF-4655-8EE8-5EF2ECFA897B" target="_blank">Draws</a>)  
@@ -21,6 +22,7 @@
 - 9/24/2021 - [Ole Miss Fall Invite](#21-39692) ([Results](#21-39692) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMississippiW/Tournaments/Overview/5CF07ED7-A131-45ED-8D93-E6058EED2536" target="_blank">Draws</a>)  
 - 9/24/2021 - [Purdue Invite](#21-45740) ([Results](#21-45740) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityW/Tournaments/Overview/7BB7BD29-7CFA-40C8-8B1A-907141B28F7E" target="_blank">Draws</a>)  
 - 9/23/2021 - [Ranked College Spotlight](#21-47703) ([Results](#21-47703) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthCarolinaStateUnivW/Tournaments/Overview/2CBD0E5F-B8C8-4667-972F-0BCB4951BB75" target="_blank">Draws</a>)  
+- 9/24/2021 - [Samford Round Robin #1](#21-74651) ([Results](#21-74651) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityW/Tournaments/Overview/EC00D221-086D-4EE8-BBFA-A8A76ACB92CB" target="_blank">Draws</a>)  
 - 9/24/2021 - [SMU Fall Invite](#21-08553) ([Results](#21-08553) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/DA20527E-5D36-4FBF-A32B-A3905E6A333C" target="_blank">Draws</a>)  
 - 9/24/2021 - [Stetson Invite](#21-76161) ([Results](#21-76161) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/EDD70DAB-65CC-4E26-BC6B-D0CC66FD5BAC" target="_blank">Draws</a>)  
 - 9/24/2021 - [Thunder in the Mountains](#21-26764) ([Results](#21-26764) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/6F07BB8D-7FC6-4D88-B1F7-809501FCD0B1" target="_blank">Draws</a>)  
@@ -350,6 +352,103 @@
      16Q  (3) Carolina Velazquez   def.      Sophia Hanover       63 46 [8]
      16Q      Danica Malan         def.  (6) Brittany Lavenant    Walkover
      16Q      Sage Hills           def.  (2) Courtney Rittel      64 46 [4]
+~~~
+
+<a name="21-29173"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  Division III Women's Northeast ITA Regional Championships
+  Dates: Sep 18-20, 2021
+  Host: William Smith College (W)
+═════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Singles Consolation RR
+  > Main
+     R7  Eliza Clamor         def.  Sarah Phung          82
+     R6  Stephanie Kim        def.  Mackenzie Wade       83
+     R6  Chloe Hansen         def.  Jacqueline Drozd     81
+     R5  Ella Provost         def.  Claire Cutler        82
+     R5  Isabelle Goings-Per… def.  Zoe Davis            86
+     R5  Cara Kizilbash       def.  Stephanie Kim        83
+     R5  Onalee Batcheller    def.  Marilena Karadimou   83
+     R3  Eliana Chelnick      def.  Julia Pida           86
+     R3  Giada Zorzan         def.  Mackenzie Wade       82
+     R3  Sophie Brown         def.  Sara Zorzan          80
+     R3  Dana DOnofrio        def.  Brittany Waugh       87(5)
+     R2  Ella Provost         def.  Maggie Bonomo        84
+     R2  Grace Nicol          def.  Lauren Rodriguez     83
+     R2  Elyse Duley          def.  Anya Barteck         84
+     R1  Maggie Bonomo        def.  Sarah Phung          86
+     R1  Vanshita Malhotra    def.  Rebecca Andrews      86
+     R1  Stephanie Pratt      def.  Brooke Bauer         85
+     R1  Sophie Brown         def.  Jacqueline Drozd     84
+     R1  Trinity Chow         def.  Chloe Hansen         84
+     R1  Kirsten Auble        def.  Mila Gligorov        87(7)
+ > Singles Draw
+  > Main
+      F  Dakota Fordham       def.  Carol Plakk          57 41 Ret.
+     SF  Carol Plakk          def.  Hannah Apsey         60 61
+     SF  Dakota Fordham       def.  Katherine Almquist   62 61
+     QF  Carol Plakk          def.  Anastasiia Balyk     61 64
+     QF  Hannah Apsey         def.  Lily Feldman         46 62 64
+     QF  Katherine Almquist   def.  Macey Dowd           64 61
+     QF  Dakota Fordham       def.  Alex Mednikova       64 62
+     16  Carol Plakk          def.  Sofie Shen           61 60
+     16  Anastasiia Balyk     def.  Lorna Flores Gonzal… 62 61
+     16  Lily Feldman         def.  Camila Ruiz Vega     63 61
+     16  Hannah Apsey         def.  Rani Jones           36 62 61
+     16  Katherine Almquist   def.  Konika Dhull         62 60
+     16  Macey Dowd           def.  Josephine Libby      64 75
+     16  Alex Mednikova       def.  Chanhtel Thongphok   62 10 Ret.
+     16  Dakota Fordham       def.  Charlotte Roarty     62 61
+     32  Carol Plakk          def.  Lillian Sullivan     60 60
+     32  Sofie Shen           def.  Chase Eisenberg      60 64
+     32  Lorna Flores Gonzal… def.  Grace Truong         62 63
+     32  Anastasiia Balyk     def.  Cara Kizilbash       60 60
+     32  Lily Feldman         def.  Elyse Duley          60 62
+     32  Camila Ruiz Vega     def.  Isabelle Goings-Per… 46 60 [6]
+     32  Hannah Apsey         def.  Jimena Menendez      36 64 [7]
+     32  Rani Jones           def.  Aira Abalos          61 62
+     32  Konika Dhull         def.  Pearl Nguyen         63 60
+     32  Katherine Almquist   def.  Melina Stavropoulos  64 64
+     32  Josephine Libby      def.  Trinity Chow         62 60
+     32  Macey Dowd           def.  Karina Jensrud       60 46 [9]
+     32  Chanhtel Thongphok   def.  Catherine Gamble     61 61
+     32  Alex Mednikova       def.  Maggie Bonomo        61 64
+     32  Charlotte Roarty     def.  Audrey Soohoo        41 Ret.
+     32  Dakota Fordham       def.  Stephanie Pratt      61 61
+     64  Carol Plakk          def.  Audrey Camacho       60 60
+     64  Lillian Sullivan     def.  Shreya Mandalapu     64 63
+     64  Sofie Shen           def.  Sophie Brown         61 62
+     64  Chase Eisenberg      def.  Rebecca Andrews      61 60
+     64  Grace Truong         def.  Kat Roberts          62 76(1)
+     64  Lorna Flores Gonzal… def.  Brittany Waugh       61 61
+     64  Anastasiia Balyk     def.  Caroline Stewart     60 61
+     64  Cara Kizilbash       def.  Anusha Rangu         64 61
+     64  Lily Feldman         def.  Claire Cutler        63 62
+     64  Elyse Duley          def.  Rachel Caplan        16 62 [4]
+     64  Camila Ruiz Vega     def.  Anya Barteck         75 75
+     64  Isabelle Goings-Per… def.  Natalia Krol         61 60
+     64  Hannah Apsey         def.  Giada Zorzan         64 60
+     64  Jimena Menendez      def.  Gabrielle Donohue    60 61
+     64  Rani Jones           def.  Grace Nicol          61 62
+     64  Aira Abalos          def.  Lauren Rodriguez     36 62 [2]
+     64  Pearl Nguyen         def.  Meredith Macey       61 62
+     64  Konika Dhull         def.  Julia Pida           61 60
+     64  Katherine Almquist   def.  Brooke Bauer         61 62
+     64  Melina Stavropoulos  def.  Dana DOnofrio        60 60
+     64  Josephine Libby      def.  Eliza Gonzalez       60 60
+     64  Trinity Chow         def.  Krisia Flores Gonza… 61 61
+     64  Macey Dowd           def.  Lauren Holtzman      63 61
+     64  Karina Jensrud       def.  Jacqueline Drozd     64 64
+     64  Catherine Gamble     def.  Zoe Davis            62 64
+     64  Chanhtel Thongphok   def.  Eliza Clamor         75 60
+     64  Maggie Bonomo        def.  Marilena Karadimou   62 64
+     64  Alex Mednikova       def.  Onalee Batcheller    60 61
+     64  Audrey Soohoo        def.  Stephanie Kim        63 61
+     64  Charlotte Roarty     def.  Kirsten Auble        62 62
+     64  Stephanie Pratt      def.  Julianna Schulz      60 60
+     64  Dakota Fordham       def.  Nitya Subramaniam    60 61
 ~~~
 
 <a name="21-21828"></a>
@@ -1969,6 +2068,71 @@
  > Extra Match
   > Main
       F  Victoria Hu          def.  Eleonora Molinaro    64 75
+~~~
+
+<a name="21-74651"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  Samford Round Robin #1
+  Dates: Sep 24-26, 2021
+  Host: Samford University (W)
+═════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day 1 Results
+  > Main
+     64  Nikola Kohoutova     def.  Kate Popova          64 76(4)
+     64  Luminita Tutunaru    def.  Emma Zakordonic      62 63
+     64  Sasha Dobranos       def.  Delien Klienhans     76(4) 64
+     64  Otoha Aoki           def.  Anja Trbeznik        62 64
+     64  Lara van der Merwe   def.  Liza Diachenko       62 61
+     64  Caraline Scheufler   def.  Tully Richter        61 26 62
+     64  Maddox Bandy         def.  Yurie Taknishi       61 63
+     64  Lauren Waddles       def.  Perri Howard         60 61
+     64  Eleanor Chapman      def.  Alonna Wood          62 60
+     64  Rouxanne Janse van … def.  Chunxi Xin           64 62
+     64  Fuka Nonoyama        def.  Alexis Lopez         76(4) 64
+     64  Samanth Nanere       def.  Yada Vasupongchai    76(4) 36 76(4)
+     64  Lindsay Song         def.  Jaeun Lee            64 63
+     64  Sofia Zaprianov      def.  Maja Gledic          64 06 61
+     64  Ally Hayduk          def.  Sumomo Hamanaga      61 36 76(4)
+     64  Mei Ishimura         def.  Olivia Jablonski     16 63 64
+     64  Samantha Maras       def.  Paulina Engback      63 64
+ > Day 2 Results
+  > Main
+     64  Nikola Kohoutova     def.  Rouxanne Janse van … 64 61
+     64  Luminita Tutunaru    def.  Alexis Lopez         75 64
+     64  Samanth Nanere       def.  Delien Klienhans     64 75
+     64  Otoha Aoki           def.  Lindsay Song         76(4) 61
+     64  Lara van der Merwe   def.  Sofia Zaprianov      75 75
+     64  Caraline Scheufler   def.  Ally Hayduk          46 63 [9]
+     64  Yurie Taknishi       def.  Olivia Jablonski     61 64
+     64  Kate Popova          def.  Chunxi Xin           76(4) 36 64
+     64  Fuka Nonoyama        def.  Sasha Dobranos       61 60
+     64  Yada Vasupongchai    def.  Emma Zakordonic      67(4) 60 60
+     64  Anja Trbeznik        def.  Jaeun Lee            63 64
+     64  Maja Gledic          def.  Maddox Bandy         61 60
+     64  Tully Richter        def.  Sumomo Hamanaga      64 64
+     64  Mei Ishimura         def.  Liza Diachenko       64 60
+     64  Perri Howard         def.  Paulina Engback      61 75
+     64  Samantha Maras       def.  Eleanor Chapman      63 64
+ > Day 3 Results
+  > Main
+     64  Nikola Kohoutova     def.  Chunxi Xin           63 62
+     64  Luminita Tutunaru    def.  Fuka Nonoyama        63 75
+     64  Yada Vasupongchai    def.  Delien Klienhans     57 62 62
+     64  Otoha Aoki           def.  Jaeun Lee            63 67(4) 62
+     64  Maja Gledic          def.  Lara van der Merwe   67(4) 61 76(4)
+     64  Sumomo Hamanaga      def.  Caraline Scheufler   63 61
+     64  Yurie Taknishi       def.  Paulina Engback      63 63
+     64  Rouxanne Janse van … def.  Kate Popova          64 61
+     64  Alexis Lopez         def.  Emma Zakordonic      76(4) 62
+     64  Samanth Nanere       def.  Sasha Dobranos       64 63
+     64  Lindsay Song         def.  Anja Trbeznik        62 61
+     64  Sofia Zaprianov      def.  Tully Richter        62 60
+     64  Ally Hayduk          def.  Maddox Bandy         60 61
+     64  Samantha Maras       def.  Perri Howard         63 61
+     64  Olivia Jablonski     def.  Liza Diachenko       61 64
+     64  Lauren Waddles       def.  Eleanor Chapman      62 64
 ~~~
 
 <a name="21-08553"></a>
