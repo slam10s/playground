@@ -2379,7 +2379,7 @@
      16  Tom Berry         def.  Nathan Day         63 62
      16  Brandon Ponomarew def.  Noah Viste         62 60
      16  Trevor Ball       def.  Canaan Sellers     64 75
-     16  Vincent Knott     def.  Will Thurin        61 62
+     16  Will Thurin       def.  Vincent Knott      61 62
  > Dayton vs. IUPUI Singles
   > Main
      16  Eric Perkowski    def.  Sean Bailey        64 46 [7]

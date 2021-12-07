@@ -17,6 +17,7 @@
 - 9/24/2021 - [Saint Joseph's Invitational - Men](#21-61930) ([Results](#21-61930) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintJosephsUniversityM/Tournaments/Overview/3E3CE083-33CF-44BE-90F9-2D8212C38067" target="_blank">Draws</a>)  
 - 9/24/2021 - [Southern Intercollegiates](#21-18330) ([Results](#21-18330) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/B89A76E9-2709-4BFC-AAB2-ED109F32123C" target="_blank">Draws</a>)  
 - 9/25/2021 - [Southern Miss Men's Tennis Invitational](#21-39341) ([Results](#21-39341) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthernMississippiM/Tournaments/Overview/6381F499-3F70-463D-B86B-F6D5B23A4ADB" target="_blank">Draws</a>)  
+- 9/24/2021 - [Toledo Rocket Invitational](#21-42936) ([Results](#21-42936) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoM/Tournaments/Overview/82163CFE-9C1D-409A-B99B-CD82AF62340D" target="_blank">Draws</a>)  
 - 9/24/2021 - [UVA Orange & Blue Classic](#21-08100) ([Results](#21-08100) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaM/Tournaments/Overview/CF3502B7-78F4-4CCB-AB88-CC54F61E06F0" target="_blank">Draws</a>)  
 - 9/25/2021 - [Wabash Hidden Duals](#21-62669) ([Results](#21-62669) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WabashCollegeM/Tournaments/Overview/F852092B-DFCA-4C1A-8C98-83E3D2CDF000" target="_blank">Draws</a>)  
 - 9/24/2021 - [American Rivers Conference Men's Individual Tournament](#21-25873) ([Results](#21-25873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">Draws</a>)  
@@ -39,7 +40,6 @@
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoM/Tournaments/Overview/82163CFE-9C1D-409A-B99B-CD82AF62340D" target="_blank">Toledo Rocket Invitational</a>  
 
 <a name="21-02376"></a>
 ~~~
@@ -901,6 +901,78 @@
      QF  Montoya/Bosman       def.  Puric/Vasquez        63
 ~~~
 
+<a name="21-42936"></a>
+~~~
+════════════════════════════════════════════════════════════════════
+  Toledo Rocket Invitational
+  Dates: Sep 24-26, 2021
+  Host: University Of Toledo (M)
+════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > TOL vs BELL Doubles
+  > Main
+      F  Meluta/Szczesny      def.  Staff/Ecarma        64
+ > CaseWest vs CHIC Doubles
+  > Main
+     QF  Sutanto/Aduru        def.  Forgus/Kim          76
+     16  Powell/Kasner        def.  Alshon/Asokumar     83
+     16  Aduru/Shah           def.  Hsieh/Das           85
+     16  Forgus/Kim           def.  Kanam/Sutanto       84
+     16  Hopper/Shah          def.  Das/Alshon          64
+     16  Reddy/Hsieh          def.  Kanam/Powell        63
+ > UNOH vs KEN Doubles
+  > Main
+     SF  Lopez Real/Ayguaviv… def.  Mauviel/Vidal       76 63
+     SF  Blasi/Messin         def.  Salik/Picot         62 63
+ > TOL vs KEN Doubles
+  > Main
+     SF  Galic/Kovac          def.  Salik/Picot         63 63
+     SF  Sornlaksup/Meluta    def.  Vidal/Smith         60 62
+ > BELL vs CHIC Doubles
+  > Main
+      F  Asokumar/Das         def.  Staff/Reynolds      64 64
+ > CHIC vs KEN Doubles
+  > Main
+      F  Michulka/Reddy       def.  Dean/Audeh          76(7)
+ > TOL vs CaseWest Doubles
+  > Main
+     SF  Kanam/Aduru          def.  Shoults/Meluta      63
+     SF  Kanam/Vicario        def.  Meluta/Kleinschnitz 64
+ > UNOH vs BELL Doubles
+  > Main
+     SF  Stanchev/Conde       def.  Groetsch/Batchelor  64 61
+     SF  Omarkhanov/Salazar   def.  Kostov/Reynolds     63 64
+ > TOL vs CHIC Doubles
+  > Main
+     SF  Sornlaksup/Meluta    def.  Forgus/Kim          64 36 [5]
+     SF  Guzhva/Yu            def.  Kleinschnitz/Skaer  36 64 [2]
+ > CaseWest vs KEN Doubles
+  > Main
+     QF  Powell/Hopper        def.  Kallarakal/Platas   63 75
+     QF  Maza/Sutanto         def.  Smith/Wagner        61 63
+     QF  Shah/Kanam           def.  Dean/Audeh          64 62
+ > KEN vs BELL Doubles
+  > Main
+     SF  Kostov/Groetsch      def.  Kondapaneni/Zhang   76 36 [3]
+     SF  Staff/Berglund       def.  Mauviel/Vidal       57 75 [5]
+ > TOL vs UNOH Doubles
+  > Main
+     QF  Sornlaksup/Wetoszka  def.  Stanchev/Conde      76 36 [3]
+     QF  Omarkhanov/Salazar   def.  Shoults/Kovac       63 64
+     QF  Blasi/Messin         def.  Meluta/Skaer        75 64
+     QF  Lopez Real/Ayguaviv… def.  Meluta/Kleinschnitz 64 76
+ > BELL vs CaseWest Doubles
+  > Main
+     SF  Berglund/Ecarma      def.  Kanam/Powell        26 63 [5]
+     QF  Powell/Hopper        def.  Groetsch/Reynolds   62
+     QF  Aduru/Shah           def.  Kostov/Batchelor    63
+     QF  Berglund/Ecarma      def.  Kanam/Maza          64
+ > UNOH vs CHIC Doubles
+  > Main
+     SF  Conde/Salazar        def.  Alshon/Hsieh        76 46 [10]
+     SF  Lopez Real/Ayguaviv… def.  Michulka/Reddy      76(5)
+~~~
+
 <a name="21-08100"></a>
 ~~~
 ════════════════════════════════════════════════════════════════
@@ -1526,14 +1598,14 @@
      32 (3) Lilienthal/Mitchell  def.     Desai/Forester       84
      32     Gorelik/Pentousis    def.     Yang/Bradley         85
      32     Epstein/Hilty        def.     Antov/Grant          87(6)
-     32 (6) Frelinghuysen/Kandel def.     Tien/Decoste         81
+     32 (6) Frelinghuysen/Kandel def.     Tien/DeCoster        81
      32 (8) Tegtmeier/Fox        def.     Portnoy/Anker        87(6)
      32     Glickman/Sharda      def.     Schuermann/Henry     86
      32     Ruparel/Chepuri      def.     Watanabe/Lin         84
      32     Breuker/Golan        def. (2) Ward/Morris          82
      64     Vilys/Mairs          def.     Papacica/Shen        87(4)
      64     Anderson/Yazdi       def.     Marley/Moldenhauer   82
-     64     Foulkes/Opie         def.     DeCoster/Dreher      84
+     64     Foulkes/Opie         def.     Decoste/Dreher       84
      64     DeRose/Bilicic       def.     Anshuetz/Tracy       83
      64     Zhang/Cestero        def.     Gujarathi/Koide      86
      64     Elias/Ellenbogen     def.     Walters/Kauppila     85
@@ -1542,7 +1614,7 @@
      64     Desai/Forester       def.     Turchetta/Rhineland… 86
      64     Gorelik/Pentousis    def.     Bogdanovic/Das       82
      64     Epstein/Hilty        def.     Gordon/Bayer         81
-     64     Tien/Decoste         def.     Basye/Nijhawan       82
+     64     Tien/DeCoster        def.     Basye/Nijhawan       82
      64     Portnoy/Anker        def.     Danielson/Zhou       80
      64     Schuermann/Henry     def.     Medvedev/Chong       87(11)
      64     Breuker/Golan        def.     Nelms/Xiao           82

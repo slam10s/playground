@@ -11,11 +11,9 @@
 - 10/15/2021 - [Martha Thorn Invitational](#21-82907) ([Results](#21-82907) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Draws</a>)  
 - 10/15/2021 - [Viking Invitational](#21-40542) ([Results](#21-40542) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Draws</a>)  
 - 10/16/2021 - [2021 Midwest Conference Women's Tennis Individual Tournament](#21-17879) ([Results](#21-17879) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">Draws</a>)  
+- 10/15/2021 - [American Rivers Conference Women's Individual Tournament](#21-35590) ([Results](#21-35590) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 - 10/16/2021 - [Royal Rumble 2](#21-20820) ([Results](#21-20820) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">American Rivers Conference Women's Individual Tournament</a>  
 
 <a name="21-27941"></a>
 ~~~
@@ -553,6 +551,66 @@
   Dates: Oct 15-16, 2021
   Host: ITA
 ═══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > Main
+      F (4) Hartley/Lewton       def.     Martinez/Hastings    83
+     SF (4) Hartley/Lewton       def. (1) Wanek/King           86
+     SF     Martinez/Hastings    def. (2) Cook/Smith           83
+     QF (1) Wanek/King           def.     Costa/O Donnell      80
+     QF (4) Hartley/Lewton       def.     Carter-Johnson/Lass… 80
+     QF     Martinez/Hastings    def. (3) Kaiser/LaDuke        84
+     QF (2) Cook/Smith           def.     Rubbelke/Dunning     84
+     16     Costa/O Donnell      def.     Sundermann/Lapray    87(1)
+     16 (4) Hartley/Lewton       def.     Olimpio/Sackett      83
+     16     Carter-Johnson/Lass… def.     Diiulio/Schwabe      85
+     16     Martinez/Hastings    def.     Ford/Sailer          84
+     16     Rubbelke/Dunning     def.     Bilkey/Schultz       81
+  > Consolation
+     SF     Costa/O Donnell      def.     Ford/Sailer          85
+     QF     Rubbelke/Dunning     def.     Sundermann/Lapray    81
+     QF     Ford/Sailer          def.     Carter-Johnson/Lass… 81
+     QF     Costa/O Donnell      def.     Bilkey/Schultz       Walkover
+     QQ     Olimpio/Sackett      def.     Diiulio/Schwabe      86
+ > Flight B
+  > Main
+      F (3) Deans/Backus         def.     Tranquilino/Grubb    84
+     SF     Tranquilino/Grubb    def. (1) Duranski/Jay-Kissler 84
+     SF (3) Deans/Backus         def.     Larson/Metcalf       84
+     QF (1) Duranski/Jay-Kissler def.     Sinnwell/O Donnell   83
+     QF     Tranquilino/Grubb    def.     DenHartog/Neff       84
+     QF (3) Deans/Backus         def.     Scharff/Kreider      85
+     QF     Larson/Metcalf       def.     Grimm/van Tol        87(5)
+     16 (1) Duranski/Jay-Kissler def.     Lambo/Wolle          86
+     16     Sinnwell/O Donnell   def. (8) Oestreich/Moore      85
+     16     DenHartog/Neff       def.     Colon/Kadima         81
+     16     Tranquilino/Grubb    def.     Pinto/Fuqua          85
+     16     Scharff/Kreider      def. (6) Nissen/Ono           86
+     16 (3) Deans/Backus         def.     Bruns/Kardell        81
+     16     Grimm/van Tol        def. (7) Wright/Kinghorn      80
+     16     Larson/Metcalf       def.     Stout/Flynn          85
+     32 (1) Duranski/Jay-Kissler def.     Roman/Schewe         80
+     32     Lambo/Wolle          def.     King/Phung           83
+     32 (8) Oestreich/Moore      def.     Stevenson/Jabbah     80
+     32     Sinnwell/O Donnell   def.     OSullivan/Stalzer    81
+     32     DenHartog/Neff       def. (4) Lange/McGinnis       84
+     32     Colon/Kadima         def.     Schubert/Ramirez     82
+     32     Pinto/Fuqua          def. (5) Larson/Schirm        80
+     32     Tranquilino/Grubb    def.     Nolan/Ramirez Mainou Walkover
+     32     Scharff/Kreider      def.     Cerio/Johnson        80
+     32 (6) Nissen/Ono           def.     Magee/Clausen        83
+     32     Bruns/Kardell        def.     Guevara/Fagans       85
+     32 (3) Deans/Backus         def.     Cory/Gottman         82
+     32     Grimm/van Tol        def.     Lindstrom/Holle      82
+     32 (7) Wright/Kinghorn      def.     Mau/Whitcomb         80
+     32     Stout/Flynn          def.     Wells/Monson         82
+     32     Larson/Metcalf       def.     Craft/Rubenking      82
+     64     Lambo/Wolle          def.     Brant/DenAdel        83
+     64     Pinto/Fuqua          def.     Sampson -brown/Kapa… 85
+     64     Stout/Flynn          def.     Christopherson/Pete… 83
+ > Flight A-Third Place
+  > Main
+      F (2) Cook/Smith           def. (1) Wanek/King           86
 ~~~
 
 <a name="21-00186"></a>

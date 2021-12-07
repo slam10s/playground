@@ -18,6 +18,7 @@
 - 9/24/2021 - [Saint Joseph's Invitational - Men](#21-61930) ([Results](#21-61930) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintJosephsUniversityM/Tournaments/Overview/3E3CE083-33CF-44BE-90F9-2D8212C38067" target="_blank">Draws</a>)  
 - 9/24/2021 - [Southern Intercollegiates](#21-18330) ([Results](#21-18330) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/B89A76E9-2709-4BFC-AAB2-ED109F32123C" target="_blank">Draws</a>)  
 - 9/25/2021 - [Southern Miss Men's Tennis Invitational](#21-39341) ([Results](#21-39341) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthernMississippiM/Tournaments/Overview/6381F499-3F70-463D-B86B-F6D5B23A4ADB" target="_blank">Draws</a>)  
+- 9/24/2021 - [Toledo Rocket Invitational](#21-42936) ([Results](#21-42936) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoM/Tournaments/Overview/82163CFE-9C1D-409A-B99B-CD82AF62340D" target="_blank">Draws</a>)  
 - 9/24/2021 - [UVA Orange & Blue Classic](#21-08100) ([Results](#21-08100) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaM/Tournaments/Overview/CF3502B7-78F4-4CCB-AB88-CC54F61E06F0" target="_blank">Draws</a>)  
 - 9/25/2021 - [Wabash Hidden Duals](#21-62669) ([Results](#21-62669) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WabashCollegeM/Tournaments/Overview/F852092B-DFCA-4C1A-8C98-83E3D2CDF000" target="_blank">Draws</a>)  
 - 9/24/2021 - [American Rivers Conference Men's Individual Tournament](#21-25873) ([Results](#21-25873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">Draws</a>)  
@@ -36,9 +37,6 @@
 - 9/23/2021 - [NAIA Men's Southeast ITA Regional Championships](#21-49643) ([Results](#21-49643) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgetownCollegeM/Tournaments/Overview/7E702573-A07E-4CDB-A96C-115EA4510962" target="_blank">Draws</a>)  
 - 9/23/2021 - [NAIA Men’s & Women's Central East ITA Regional Championships](#21-30614) ([Results](#21-30614) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OlivetNazareneUniversityM/Tournaments/Overview/64071334-93D8-4F00-A376-DE31F2A79DBC" target="_blank">Draws</a>)  
 - 9/25/2021 - [OC Fall Invite](#21-72834) ([Results](#21-72834) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OberlinCollegeM/Tournaments/Overview/02EAFB57-060B-4809-8565-3B1994E24B41" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 9/24/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoM/Tournaments/Overview/82163CFE-9C1D-409A-B99B-CD82AF62340D" target="_blank">Toledo Rocket Invitational</a>  
 
 <a name="21-02376"></a>
 ~~~
@@ -1759,6 +1757,100 @@
      32  Louis Delcour        def.  Vojtech Podzemny     61 76(5)
      32  Maxime St-Hilaire    def.  Nikola Puric         61 26 64
      32  Philip Bosman        def.  Parker Bradbary      16 60 61
+~~~
+
+<a name="21-42936"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Toledo Rocket Invitational
+  Dates: Sep 24-26, 2021
+  Host: University Of Toledo (M)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Tol/bel; Cw/unoh; Chi/ken
+  > Main
+     32  Marko Galic       def.  Cole Groetsch      62 62
+     32  Pawit Sornlaksup  def.  Simeon Kostov      64 61
+     32  Adam Kovac        def.  Paul Reynolds      63 26 [3]
+     32  Emil Berglund     def.  Max Skaer          61 75
+     32  Krzystof Wetoszka def.  Jack Batchelor     75
+     32  James Hopper      def.  Sergio Conde       61 75
+     32  Michael Sutanto   def.  Marcos Salazar     64 64
+     32  Malik Omarkhanov  def.  Ansh Shah          63 63
+     32  Jonathan Powell   def.  Pablo Lopez Real   61 61
+     32  Anthony Kanam     def.  Nils Messin        62 62
+     32  Diego Maza        def.  David Ayguavives   60 61
+     32  Max Vicario       def.  Joey Blasi         64 61
+     32  Christian Alshon  def.  Rishil Kondapaneni 62 63
+     32  Derek Hsieh       def.  Eric Zhang         62 64
+     32  Arjun Asokumar    def.  Jacob Smith        61 63
+ > Tol/chi; Cw/ken; Unoh/bel
+  > Main
+     16  Arjun Asokumar    def.  Marko Galic        64 64
+     16  Adam Kovac        def.  Marek Michulka     76 76
+     16  Krzystof Wetoszka def.  Biren Reddy        61 63
+     16  Vishwa Aduru      def.  Christian Picot    61 46 [0]
+     16  Max Vicario       def.  Subhan Salik       60 76
+     16  David Ayguavives  def.  Emil Berglund      36 62 [2]
+     16  Nils Messin       def.  Xavier Ecarma      63 62
+     16  Joey Blasi        def.  Michael Staff      64 63
+ > Cw/chi; Tol/ken
+  > Main
+     16  Alex Guzhva       def.  Diego Maza         16 63 [2]
+     16  Max Vicario       def.  Bradley Yu         36 63 [2]
+     16  Max Skaer         def.  Luis Platas        63 75
+     16  Krzystof Wetoszka def.  Thomas Kallarakal  62 63
+     16  Jack Wagner       def.  Wojciech Szczesny  63 46 [11]
+     16  Luis Kleinschnitz def.  Matias Mauviel     75 63
+ > Tol/cw; Bel/chi; Unoh/ken
+  > Main
+     16  Bradley Yu        def.  Xavier Ecarma      60
+     32  Marko Galic       def.  James Hopper       64 36 [7]
+     32  Pawit Sornlaksup  def.  Diego Maza         62 63
+     32  Adam Kovac        def.  Michael Sutanto    64 76
+     32  Krzystof Wetoszka def.  Jonathan Powell    62 61
+     32  Ansh Shah         def.  Max Skaer          61 62
+     32  Cole Groetsch     def.  Christian Alshon   16 76 [9]
+     32  Derek Hsieh       def.  Simeon Kostov      06 76 [4]
+     32  Alex Guzhva       def.  Emil Berglund      46 64 [7]
+     32  Jack Batchelor    def.  Marek Michulka     60 60
+     32  Luis Platas       def.  Sergio Conde       75
+     32  Xavier Ecarma     def.  Julius Kim         76
+     32  Marcos Salazar    def.  Rishil Kondapaneni 62 75
+     32  Martin Stanchev   def.  Eric Zhang         64 62
+     32  Malik Omarkhanov  def.  Thomas Kallarakal  61 63
+     32  Rakkan Audeh      def.  Jacob Ramirez      60 60
+ > Ken/bel; Unoh/chi; Tol/unoh
+  > Main
+     16  Paul Reynolds     def.  Rakkan Audeh       64 64
+     16  Jack Batchelor    def.  Jacob Smith        60 60
+     16  Xavier Ecarma     def.  Evan Dean          61 61
+     16  Martin Stanchev   def.  Arjun Asokumar     67 62 [10]
+     16  Malik Omarkhanov  def.  Sachin Das         63 64
+     16  Alex Guzhva       def.  Nils Messin        62 36 [7]
+     16  Joey Blasi        def.  Bailey Forgus      62 76
+     16  David Ayguavives  def.  Luis Kleinschnitz  64 61
+ > Tol/unoh; Bel/cw
+  > Main
+     32  Marko Galic        vs   Sergio Conde       
+     32  Pawit Sornlaksup  def.  Marcos Salazar     60 61
+     32  Adam Kovac        def.  Martin Stanchev    46 63 [6]
+     32  Malik Omarkhanov  def.  Krzystof Wetoszka  61 75
+     32  Cole Shoults      def.  Nils Messin        16 62 [8]
+     32  James Hopper      def.  Simeon Kostov      61 62
+     32  Cole Groetsch     def.  Ansh Shah          64 64
+     32  Jack Batchelor    def.  Michael Sutanto    75 75
+     32  Vishwa Aduru      def.  Paul Reynolds      61 62
+     32  Jonathan Powell   def.  Xavier Ecarma      64 36 [9]
+     32  Max Vicario       def.  Michael Staff      64 61
+     32  Emil Berglund     def.  Anthony Kanam      63
+ > Cw/bel
+  > Main
+     16  James Hopper      def.  Cole Groetsch      26 60 [8]
+     16  Diego Maza        def.  Simeon Kostov      61 64
+     16  Michael Sutanto   def.  Paul Reynolds      62 64
+     16  Vishwa Aduru      def.  Jack Batchelor     61 76
+     16  Ansh Shah         def.  Michael Staff      61 60
 ~~~
 
 <a name="21-08100"></a>

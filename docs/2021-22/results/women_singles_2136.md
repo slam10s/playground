@@ -14,13 +14,13 @@
 - 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [University of Findlay/Findlay YMCA East Fall Invite](#21-72676) ([Results](#21-72676) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">Draws</a>)  
+- 9/11/2021 - [Wallach Invitational](#21-11561) ([Results](#21-11561) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
-- 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Wallach Invitational</a>  
 
 <a name="21-02759"></a>
 ~~~
@@ -1291,6 +1291,60 @@
      32  Lura Silveira     def.  Sabrina Laynes       76(2) 64
      32  Ioanna Tsadari    def.  Brianna Douglas      60 Ret.
      32  Carla Jewell      def.  Hannah Neuman        36 75 [9]
+~~~
+
+<a name="21-11561"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Wallach Invitational
+  Dates: Sep 11-12, 2021
+  Host: Bates College (M)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Round 1
+  > Main
+     64  Jamilah Karah       def.  Joanna Atwater      61
+     64  Fleming Landau      def.  Salma Alsikafi      76(4)
+     64  Samantha Riordan    def.  Nikita Salkar       63
+     64  Anastasia Sia       def.  Sydney Landau       64
+     64  Anna Rozin          def.  Isabella Hartman    76(5)
+     64  Ally Friedman       def.  Josephine Kimball   64
+     64  Carly Levitz        def.  Bhakti Parwani      64
+     64  Ana Hatfield        def.  Reimi Kusaka        62
+     64  Lindsey Hernandez   def.  Sydney Byrnes       63
+     64  Ava Lyon            def.  Caroline Kittle     76(4)
+     64  Kennedi Carter      def.  Ella Baker          61
+     64  Evelyn Safar        def.  Ashley Walker       60
+     64  Katharine Dougherty def.  Ella Subramanian    62
+     64  Jiayi Zhang         def.  Emilia Callery      75
+     64  Angelina Shyltsyna  def.  Drew Williams       63
+     64  Elizabeth Frekko    def.  Marta Drausnik      76(3)
+     64  Elizabeth Yu        def.  Olivia Howe         64
+     64  Summer Quinn        def.  Julia DeLuca        63
+     64  Sabrina Loui        def.  Olivia Gidlow       62
+     64  Cecilia Denis       def.  Sydney Brown        62
+ > Round 2
+  > Main
+     64  Jamilah Karah       def.  Nikita Salkar       62
+     64  Fleming Landau      def.  Anastasia Sia       61
+     64  Carly Levitz        def.  Anna Rozin          61
+     64  Ally Friedman       def.  Reimi Kusaka        60
+     64  Samantha Riordan    def.  Joanna Atwater      61
+     64  Sydney Landau       def.  Salma Alsikafi      61
+     64  Bhakti Parwani      def.  Isabella Hartman    64
+     64  Ana Hatfield        def.  Josephine Kimball   75
+     64  Kennedi Carter      def.  Lindsey Hernandez   63
+     64  Evelyn Safar        def.  Caroline Kittle     62
+     64  Angelina Shyltsyna  def.  Katharine Dougherty 76(4)
+     64  Emilia Callery      def.  Marta Drausnik      61
+     64  Ella Baker          def.  Sydney Byrnes       64
+     64  Ava Lyon            def.  Ashley Walker       61
+     64  Ella Subramanian    def.  Drew Williams       61
+     64  Elizabeth Frekko    def.  Jiayi Zhang         62
+     64  Elizabeth Yu        def.  Sabrina Loui        64
+     64  Hannah Buckhout     def.  Cecilia Denis       62
+     64  Olivia Howe         def.  Blair Hollyday      63
+     64  Summer Quinn        def.  Audrey Lee          61
 ~~~
 
 <a name="21-24367"></a>

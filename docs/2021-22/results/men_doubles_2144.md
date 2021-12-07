@@ -467,20 +467,6 @@
   Host: University Of The Pacific (M)
 ═══════════════════════════════════════════════════════════════
  Men's Open Doubles
- > Doubles 1
-  > Main
-     R5  Saini/Alam         def.  Watt/Ramos         62
-     R5  Davis/Wong         def.  Dalmasso/Neuhaus   64
-     R5  Davis/Volgin       def.  Inno/Keyser        76(5)
-     R4  Watt/Ramos         def.  Davis/Wong         75
-     R4  Dalmasso/Neuhaus   def.  Davis/Volgin       63
-     R4  Inno/Keyser        def.  Saini/Alam         64
-     R2  Davis/Wong         def.  Davis/Volgin       64
-     R2  Dalmasso/Neuhaus   def.  Saini/Alam         76(2)
-     R2  Watt/Ramos         def.  Inno/Keyser        63
-     R1  Watt/Ramos         def.  Davis/Volgin       63
-     R1  Davis/Wong         def.  Saini/Alam         64
-     R1  Inno/Keyser        def.  Dalmasso/Neuhaus   63
  > Doubles 2
   > Main
      R5  Fonseca/Weststrate def.  Shah/Bell          63
@@ -509,6 +495,20 @@
      R2  Ali/Rodriguez      def.  Puttergill/McCaig  75
      R1  Pulliam/Yamaguchi  def.  Reckow/Rincon      76(8)
      R1  Ali/Rodriguez      def.  Hootman/Pham       76(1)
+ > Doubles 1
+  > Main
+     R5  Saini/Alam         def.  Watt/Potts         62
+     R5  Davis/Wong         def.  Dalmasso/Neuhaus   64
+     R5  Davis/Volgin       def.  Inno/Keyser        76(5)
+     R4  Watt/Potts         def.  Davis/Wong         75
+     R4  Dalmasso/Neuhaus   def.  Davis/Volgin       63
+     R4  Inno/Keyser        def.  Saini/Alam         64
+     R2  Davis/Wong         def.  Davis/Volgin       64
+     R2  Dalmasso/Neuhaus   def.  Saini/Alam         76(2)
+     R2  Watt/Potts         def.  Inno/Keyser        63
+     R1  Watt/Potts         def.  Davis/Volgin       63
+     R1  Davis/Wong         def.  Saini/Alam         64
+     R1  Inno/Keyser        def.  Dalmasso/Neuhaus   63
 ~~~
 
 <a name="21-70244"></a>
