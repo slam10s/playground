@@ -5,6 +5,7 @@
 - 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-25876) ([Results](#21-25876) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiW/Tournaments/Overview/88D2417A-460B-408A-9E50-7C7E5EE7478F" target="_blank">Draws</a>)  
 - 9/10/2021 - [Bill and Sandra Moore Invitational](#21-34233) ([Results](#21-34233) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/91B59866-0B48-4129-8FAE-B1A88BCD7896" target="_blank">Draws</a>)  
 - 9/11/2021 - [Liberty Invite](#21-48654) ([Results](#21-48654) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/D66E087D-3234-4CE1-8D12-9CFE3EF5F621" target="_blank">Draws</a>)  
+- 9/10/2021 - [Siena Invitational](#21-93292) ([Results](#21-93292) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Draws</a>)  
 - 9/10/2021 - [SIUE Cougar Invite](#21-66962) ([Results](#21-66962) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernIllinoisUniversityEdwardsvilleW/Tournaments/Overview/49CD19F7-C361-46C8-9A0D-85DA79B24973" target="_blank">Draws</a>)  
 - 9/10/2021 - [Warhawk Invite](#21-43648) ([Results](#21-43648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfLouisianaMonroeW/Tournaments/Overview/54708D1F-C66A-43B0-AD2A-D851EE9A1A35" target="_blank">Draws</a>)  
 - 9/10/2021 - [Women's Drake Invite](#21-32364) ([Results](#21-32364) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/51EAC500-8BA9-4BA4-A244-CED3E726C5FE" target="_blank">Draws</a>)  
@@ -14,14 +15,13 @@
 - 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
 - 9/10/2021 - [St. Mary's Invitational](#21-79025) ([Results](#21-79025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysUniversityTXM/Tournaments/Overview/C6278335-0D2A-4F94-B9F3-C40C15022AF2" target="_blank">Draws</a>)  
 - 9/11/2021 - [University of Findlay/Findlay YMCA East Fall Invite](#21-72676) ([Results](#21-72676) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfFindlayW/Tournaments/Overview/35791888-BCA3-468A-A36B-BB7A6BEFBC60" target="_blank">Draws</a>)  
+- 9/11/2021 - [Wallach Invitational](#21-11561) ([Results](#21-11561) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Siena Invitational</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
-- 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/4C12E278-72B0-42B2-B6A7-21AC0ED181A8" target="_blank">Wallach Invitational</a>  
 
 <a name="21-02759"></a>
 ~~~
@@ -252,6 +252,44 @@
      16  Ode Mitre/Kirch      def.  Fukutoku/Manolescu   64
      16  Hussain/Muzzolon     def.  Van Hansewyck/McGra… 62
      16  Gillar/Joseph        def.  Bachir el Bouhali/C… 64
+~~~
+
+<a name="21-93292"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Siena Invitational
+  Dates: Sep 10-11, 2021
+  Host: Siena College (M)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > Main
+      F  Gumerova/Petrova     def.  El Khalifi/Plana Ve… 76(6)
+     SF  El Khalifi/Plana Ve… def.  Campbell/McCormack   75
+     SF  Gumerova/Petrova     def.  Karlsson-Hantzis/Va… 61
+     QF  El Khalifi/Plana Ve… def.  Giralt/Perkins       63
+     QF  Campbell/McCormack   def.  Koster/Garcia        76(2)
+     QF  Karlsson-Hantzis/Va… def.  Boggiali/Brown       75
+     QF  Gumerova/Petrova     def.  Eklund/Wolf          63
+     16  El Khalifi/Plana Ve… def.  Mayet/Gamble         63
+ > Flight B
+  > Main
+      F  Koniaev/Viswanath    def.  Boeckman/Lesnick     63
+     SF  Boeckman/Lesnick     def.  Garofoli/Thuilot     64
+     SF  Koniaev/Viswanath    def.  Kronson/Moen         63
+     QF  Boeckman/Lesnick     def.  Gonzalez Monroy/Vel… 61
+     QF  Garofoli/Thuilot     def.  Atallah/Condas       63
+     QF  Kronson/Moen         def.  Baziv/Mudry          63
+     QF  Koniaev/Viswanath    def.  Ben-Shmuel/Levenson  62
+ > Flight C
+  > Main
+      F  Kempinski/O Donovan  def.  Borg/Shea            62
+     SF  Kempinski/O Donovan  def.  Humiston/Rodriguez   75
+     SF  Borg/Shea            def.  Castro/Rajesh        62
+     QF  Humiston/Rodriguez   def.  Gautier/Madeiros     Walkover
+     QF  Kempinski/O Donovan  def.  Menkowitz/Siegel     62
+     QF  Castro/Rajesh        def.  Laub/Sullivan        Walkover
+     QF  Borg/Shea            def.  DeNardo/Sparhawk     64
 ~~~
 
 <a name="21-66962"></a>
@@ -681,6 +719,75 @@
      32  Karg/Silveira        def.  Ruyssen/Komar        62
      32  Tsadari/Iglesias     def.  Mandair/Douglas      61
      32  Neuman/Vetter        def.  Jewell/Laynes        63
+~~~
+
+<a name="21-11561"></a>
+~~~
+══════════════════════════════════════════════════════════════════
+  Wallach Invitational
+  Dates: Sep 11-12, 2021
+  Host: Bates College (M)
+══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Round 1
+  > Main
+     32  Landau/Karah       def.  Atwater/Alsikafi   62
+     32  Sia/Salkar         def.  Riordan/Landau     64
+     32  Hartman/Kimball    def.  Friedman/Rozin     76(5)
+     32  Levitz/Kusaka      def.  Parwani/Hatfield   76(3)
+     32  Hernandez/Kittle   def.  Byrnes/Lyon        62
+     32  Carter/Safar       def.  Baker/Walker       76(4)
+     32  Dougherty/Callery  def.  Subramanian/Zhang  64
+     32  Shyltsyna/Drausnik def.  Williams/Frekko    76(3)
+     32  DeLuca/Buckhout    def.  Howe/Quinn         63
+     32  Loui/Denis         def.  Gidlow/Brown       60
+ > Round 2
+  > Main
+     32  Landau/Karah       def.  Sia/Salkar         63
+     32  Levitz/Kusaka      def.  Friedman/Rozin     75
+     32  Riordan/Landau     def.  Atwater/Alsikafi   63
+     32  Parwani/Hatfield   def.  Hartman/Kimball    63
+     32  Carter/Safar       def.  Hernandez/Kittle   61
+     32  Shyltsyna/Drausnik def.  Dougherty/Callery  63
+     32  Baker/Walker       def.  Byrnes/Lyon        76(4)
+     32  Subramanian/Zhang  def.  Williams/Frekko    62
+     32  DeLuca/Buckhout    def.  Loui/Denis         64
+     32  Lee/Hollyday       def.  Howe/Quinn         75
+ > Round 3
+  > Main
+     32  Landau/Karah       def.  Levitz/Kusaka      62
+     32  Friedman/Rozin     def.  Sia/Salkar         64
+     32  Riordan/Landau     def.  Parwani/Hatfield   62
+     32  Atwater/Alsikafi   def.  Hartman/Kimball    64
+     32  Carter/Safar       def.  Shyltsyna/Drausnik 61
+     32  Baker/Walker       def.  Subramanian/Zhang  76(4)
+     32  DeLuca/Buckhout    def.  Gidlow/Brown       60
+     32  Loui/Denis         def.  Lee/Hollyday       63
+ > Round 4
+  > Main
+     32  Landau/Yu          def.  Friedman/Rozin     75
+     32  Carter/Safar       def.  Levitz/Riordan     75
+     32  Parwani/Loui       def.  Hernandez/Landau   62
+     32  Atwater/Frekko     def.  Kimball/Baker      64
+     32  DeLuca/Buckhout    def.  Denis/Hatfield     63
+     32  Ravi/Scordo        def.  Alsikafi/Williams  63
+     32  Kittle/Dougherty   def.  Subramanian/Zhang  63
+     32  Walker/Drausnik    def.  Gidlow/Brown       62
+     32  Howe/Quinn         def.  Lee/Hollyday       75
+ > Round 5
+  > Main
+     32  Friedman/Rozin     def.  Carter/Safar       64
+     32  Levitz/Riordan     def.  Landau/Yu          60
+     32  Hernandez/Landau   def.  Sia/Salkar         63
+     32  DeLuca/Buckhout    def.  Atwater/Frekko     63
+     32  Alsikafi/Williams  def.  Kittle/Dougherty   64
+ > Round 6
+  > Main
+     32  DeLuca/Yu          def.  Lee/Hollyday       60
+     32  Parwani/Loui       def.  Shyltsyna/Hartman  64
+ > Round 7
+  > Main
+      F  Howe/Quinn         def.  Gidlow/Williams    62
 ~~~
 
 <a name="21-24367"></a>

@@ -26,6 +26,7 @@
 - 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 - 9/17/2021 - [Javalina Fall Quad](#21-30014) ([Results](#21-30014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityKingsvilleW/Tournaments/Overview/598273F2-FD41-4282-9467-EFD6330C79CC" target="_blank">Draws</a>)  
+- 9/18/2021 - [KCAC Individual Tournament](#21-28798) ([Results](#21-28798) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">Draws</a>)  
 - 9/17/2021 - [Methodist University Women's Fall Invitational](#21-80794) ([Results](#21-80794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MethodistUniversityW/Tournaments/Overview/4FFAB7FF-537E-4837-8CBB-5347D9DABA5B" target="_blank">Draws</a>)  
 - 9/17/2021 - [MIT Invitational](#21-01963) ([Results](#21-01963) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechW/Tournaments/Overview/05E528B1-8ECB-4C54-A76C-F650CD3C02F5" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
@@ -36,7 +37,6 @@
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
-- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">KCAC Individual Tournament</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">PP/CMS Invite</a>  
 
 <a name="21-78345"></a>
@@ -1327,6 +1327,44 @@
       F  Platisa/Thal         def.  Knaab/Landaluce      64
   > South
       F  Parkinson/Franco Sa… def.  Lira/Chauhan         64
+~~~
+
+<a name="21-28798"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════
+  KCAC Individual Tournament
+  Dates: Sep 18-19, 2021
+  Host: Southwestern College (M)
+═════════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > KCAC #1 Women's Doubles
+  > Main
+            F (2) Coe/Loving           def. (1) Goranova/Hrnjak      83
+        SemiF (1) Goranova/Hrnjak      def. (4) Krehbiel/Nemi        81
+        SemiF (2) Coe/Loving           def. (3) Khoroshveskaya/Ortiz 86
+     QuarterF (1) Goranova/Hrnjak      def.     Krivek/McGrown       80
+     QuarterF (4) Krehbiel/Nemi        def.     Castro Medina/Marin  83
+     QuarterF (3) Khoroshveskaya/Ortiz def.     Richard/Shelton      98(2)
+     QuarterF (2) Coe/Loving           def.     Benson/Crowe         81
+           16     Krivek/McGrown       def.     Bradshaw-Douglas/Gr… 82
+  > Consolation
+            F     Richard/Shelton      def.     Krivek/McGrown       85
+           SF     Krivek/McGrown       def.     Castro Medina/Marin  97
+           SF     Richard/Shelton      def.     Benson/Crowe         Walkover
+           QF     Castro Medina/Marin  def.     Bradshaw-Douglas/Gr… 83
+  > Playoff 5-8
+            F     Castro Medina/Marin  def.     Benson/Crowe         Walkover
+  > Playoff 3-4
+            F (3) Khoroshveskaya/Ortiz def. (4) Krehbiel/Nemi        82
+ > KCAC #3 Women's Doubles
+  > Main
+            F     Maxey/Maples         def.     Ochoa/Powers         84
+           SF     Ochoa/Powers         def.     Swartz/Kuhn          82
+           SF     Maxey/Maples         def.     Elliot/Sherman       84
+           QF     Ochoa/Powers         def.     Osterhout/Andrews    Walkover
+           QF     Swartz/Kuhn          def.     Stewart/Yutzy        81
+           QF     Elliot/Sherman       def.     Alterman/Keimig      82
+           QF     Maxey/Maples         def.     Noel/Gunn            86
 ~~~
 
 <a name="21-80794"></a>

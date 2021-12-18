@@ -10,6 +10,7 @@
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
 - 9/10/2021 - [Orange Lawn Fall Invitational](#21-93144) ([Results](#21-93144) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Draws</a>)  
 - 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
+- 9/10/2021 - [Siena Invitational](#21-93292) ([Results](#21-93292) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Draws</a>)  
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
 - 9/11/2021 - [2021 CCIW Fall Invitational](#21-67914) ([Results](#21-67914) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillikinUniversityM/Tournaments/Overview/EC2D06D4-33B6-4D12-AD7F-0FFF3E553D26" target="_blank">Draws</a>)  
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
@@ -20,9 +21,6 @@
 - 9/10/2021 - [Warhawk Fall Invitational](#21-36572) ([Results](#21-36572) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Siena Invitational</a>  
 
 <a name="21-56790"></a>
 ~~~
@@ -977,6 +975,106 @@
  > Replaced matches 2
   > Main
       F  Pavel Badaiants      def.  Shu-Lun Chang        64 46 [6]
+~~~
+
+<a name="21-93292"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Siena Invitational
+  Dates: Sep 10-11, 2021
+  Host: Siena College (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight B
+  > Main
+      F  Miroslav Cvjetan     def.  Yudai Teruyama       84
+     SF  Yudai Teruyama       def.  Abraham Yohannes     87(3)
+     SF  Miroslav Cvjetan     def.  Andrea Moro          84
+     QF  Yudai Teruyama       def.  Luis Foix Sotos      86
+     QF  Abraham Yohannes     def.  Matt Nardone         83
+     QF  Miroslav Cvjetan     def.  Josh Wolfe           81
+     QF  Andrea Moro          def.  Gleb Mityurin        82
+     16  Yudai Teruyama       def.  Tanner Bedard        87(7)
+     16  Luis Foix Sotos      def.  Oliver Fiallo        82
+     16  Matt Nardone         def.  Vishal Ganeshan      85
+     16  Miroslav Cvjetan     def.  Maxwell Acri         83
+     16  Josh Wolfe           def.  Dylan Lachmanen      81
+     16  Gleb Mityurin        def.  Peter Lohrbach       84
+  > Consolation
+      F  Tanner Bedard        def.  Peter Lohrbach       82
+     SF  Tanner Bedard        def.  Vishal Ganeshan      81
+     SF  Peter Lohrbach       def.  Maxwell Acri         87(4)
+     QQ  Tanner Bedard        def.  Oliver Fiallo        85
+     QQ  Maxwell Acri         def.  Dylan Lachmanen      84
+ > Flight C
+  > Main
+      F  Jonathan McMillan    def.  Matheus Paiva        84
+     SF  Matheus Paiva        def.  Bryce Burnham        83
+     SF  Jonathan McMillan    def.  Mathis Tremblay      85
+     QF  Matheus Paiva        def.  Igor Visnevskij      83
+     QF  Bryce Burnham        def.  Nick Salazar         81
+     QF  Jonathan McMillan    def.  Pau Grabuleda        84
+     QF  Mathis Tremblay      def.  Davis Esslinger      81
+     16  Matheus Paiva        def.  William Goethlin     86
+     16  Igor Visnevskij      def.  Jose Pablo Davila    84
+     16  Nick Salazar         def.  Nash Lovallo         85
+     16  Jonathan McMillan    def.  Roberto Vaca         84
+     16  Pau Grabuleda        def.  Jamie De Jaraiz      81
+     16  Mathis Tremblay      def.  Dennis Sanchez-Feli… 80
+  > Consolation
+      F  Jose Pablo Davila    def.  Roberto Vaca         84
+     SF  Jose Pablo Davila    def.  Nash Lovallo         86
+     SF  Roberto Vaca         def.  Dennis Sanchez-Feli… 86
+     QQ  Jose Pablo Davila    def.  William Goethlin     86
+     QQ  Roberto Vaca         def.  Jamie De Jaraiz      81
+ > Flight D
+  > Main
+      F  Jakob Naylor         def.  Xavier Gambara       86
+     SF  Jakob Naylor         def.  Eddie Wu             86
+     SF  Xavier Gambara       def.  Soma Yokoyama        83
+     QF  Eddie Wu             def.  Marvin Oberli        87(7)
+     QF  Jakob Naylor         def.  Cameron Yang         87(2)
+     QF  Soma Yokoyama        def.  Javier Servera_Lato… 87(5)
+     QF  Xavier Gambara       def.  Ross Coleman         82
+     16  Eddie Wu             def.  Charles Keller       Walkover
+     16  Marvin Oberli        def.  Alex Gomez-Goyette   87(1)
+     16  Jakob Naylor         def.  Matt Robert Andrus   87(3)
+     16  Cameron Yang         def.  Marcus Fredriksson   81
+     16  Soma Yokoyama        def.  Phoenix Tamaoki      80
+     16  Javier Servera_Lato… def.  Luke Ritchie         82
+     16  Ross Coleman         def.  Griffin Barnett      83
+     16  Xavier Gambara       def.  Tommy Fuentes        82
+  > Consolation
+      F  Matt Robert Andrus   def.  Phoenix Tamaoki      86
+     SF  Matt Robert Andrus   def.  Alex Gomez-Goyette   86
+     SF  Phoenix Tamaoki      def.  Griffin Barnett      82
+     QQ  Alex Gomez-Goyette   def.  Charles Keller       Walkover
+     QQ  Matt Robert Andrus   def.  Marcus Fredriksson   83
+     QQ  Phoenix Tamaoki      def.  Luke Ritchie         84
+     QQ  Griffin Barnett      def.  Tommy Fuentes        83
+ > Flight A
+  > Main
+      F  Emilio Van Cotthem   def.  Aiden Drover-Mattin… 87(4)
+     SF  Emilio Van Cotthem   def.  Manuel Alonso        86
+     SF  Aiden Drover-Mattin… def.  Jan Godfrey-Seno     81
+     QF  Manuel Alonso        def.  Darek Kuczynski      83
+     QF  Emilio Van Cotthem   def.  Gustavo Pinho        87(3)
+     QF  Jan Godfrey-Seno     def.  Agustin Suarez       85
+     QF  Aiden Drover-Mattin… def.  Pablo Salar Carrera  82
+     16  Manuel Alonso        def.  William Barry        Walkover
+     16  Darek Kuczynski      def.  Suhas Krishnan       86
+     16  Gustavo Pinho        def.  Peter Komosinski     82
+     16  Emilio Van Cotthem   def.  Tomas del Olmo       87(6)
+     16  Agustin Suarez       def.  Arman Ganchi         81
+     16  Jan Godfrey-Seno     def.  Trevor Masi          82
+     16  Aiden Drover-Mattin… def.  William Lindqvist N… 85
+  > Consolation
+      F  Tomas del Olmo       def.  Trevor Masi          Walkover
+     SF  Tomas del Olmo       def.  Suhas Krishnan       86
+     SF  Trevor Masi          def.  William Lindqvist N… 84
+     QQ  Suhas Krishnan       def.  William Barry        Walkover
+     QQ  Tomas del Olmo       def.  Peter Komosinski     80
+     QQ  Trevor Masi          def.  Arman Ganchi         81
 ~~~
 
 <a name="21-95655"></a>

@@ -5,6 +5,7 @@
 - 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-25876) ([Results](#21-25876) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiW/Tournaments/Overview/88D2417A-460B-408A-9E50-7C7E5EE7478F" target="_blank">Draws</a>)  
 - 9/10/2021 - [Bill and Sandra Moore Invitational](#21-34233) ([Results](#21-34233) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/91B59866-0B48-4129-8FAE-B1A88BCD7896" target="_blank">Draws</a>)  
 - 9/11/2021 - [Liberty Invite](#21-48654) ([Results](#21-48654) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/D66E087D-3234-4CE1-8D12-9CFE3EF5F621" target="_blank">Draws</a>)  
+- 9/10/2021 - [Siena Invitational](#21-93292) ([Results](#21-93292) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Draws</a>)  
 - 9/10/2021 - [SIUE Cougar Invite](#21-66962) ([Results](#21-66962) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernIllinoisUniversityEdwardsvilleW/Tournaments/Overview/49CD19F7-C361-46C8-9A0D-85DA79B24973" target="_blank">Draws</a>)  
 - 9/10/2021 - [Warhawk Invite](#21-43648) ([Results](#21-43648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfLouisianaMonroeW/Tournaments/Overview/54708D1F-C66A-43B0-AD2A-D851EE9A1A35" target="_blank">Draws</a>)  
 - 9/10/2021 - [Women's Drake Invite](#21-32364) ([Results](#21-32364) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/51EAC500-8BA9-4BA4-A244-CED3E726C5FE" target="_blank">Draws</a>)  
@@ -19,7 +20,6 @@
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Siena Invitational</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/1B51A302-1C77-4D57-AE99-9B6DC6C9C3FF" target="_blank">2021 MAC Women's Tennis Individual Championship</a>  
 - 9/11/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VassarCollegeW/Tournaments/Overview/8FDC96CE-64BC-4316-8AEA-7F55A9B60D61" target="_blank">Vassar Scramble</a>  
 
@@ -440,6 +440,92 @@
      64  Emma Vanderheyden    def.  Ines Bachir el Bouh… 61 26 [5]
      64  Liz Stefancic        def.  Anne Lou Champion    16 62 [2]
      64  Alisha Hussain       def.  Gabrielle Clairotte  63 75
+~~~
+
+<a name="21-93292"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Siena Invitational
+  Dates: Sep 10-11, 2021
+  Host: Siena College (M)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight A
+  > Main
+      F  Arina Gumerova       def.  Olivia Boeckman      83
+     SF  Arina Gumerova       def.  Maureen McCormack    83
+     SF  Olivia Boeckman      def.  Meagan Brown         84
+     QF  Arina Gumerova       def.  Coral Rodriguez      84
+     QF  Maureen McCormack    def.  Addie Eklund         85
+     QF  Meagan Brown         def.  Stasha Petrova       82
+     QF  Olivia Boeckman      def.  Hiba El Khalifi      85
+     16  Arina Gumerova       def.  Laia Giralt          85
+     16  Coral Rodriguez      def.  Julia Varvarigos     83
+     16  Maureen McCormack    def.  Capucine Thuilot     85
+     16  Addie Eklund         def.  Nanea Perkins        84
+     16  Stasha Petrova       def.  Emme Levenson        83
+     16  Meagan Brown         def.  Angelica Karlsson-H… 84
+     16  Olivia Boeckman      def.  Leila Koster         85
+  > Consolation
+      F  Laia Giralt          def.  Emme Levenson        82
+     SF  Laia Giralt          def.  Capucine Thuilot     82
+     SF  Emme Levenson        def.  Leila Koster         87(2)
+     QQ  Laia Giralt          def.  Julia Varvarigos     83
+     QQ  Capucine Thuilot     def.  Nanea Perkins        82
+     QQ  Emme Levenson        def.  Angelica Karlsson-H… 85
+ > Flight B
+  > Main
+      F  Aina Plana Ventosa   def.  Rebecca Wolf         87(4)
+     SF  Aina Plana Ventosa   def.  Jordan Ben-Shmuel    80
+     SF  Rebecca Wolf         def.  Emma Boggiali        84
+     QF  Aina Plana Ventosa   def.  Cecelia Lesnick      85
+     QF  Jordan Ben-Shmuel    def.  Jaida Borg           84
+     QF  Emma Boggiali        def.  Erika Sofia Gonzale… 83
+     QF  Rebecca Wolf         def.  Eleanore Campbell    85
+     16  Cecelia Lesnick      def.  Avery Oppenheim      83
+     16  Jaida Borg           def.  Yeva Baziv           80
+     16  Jordan Ben-Shmuel    def.  Maanya Viswanath     86
+     16  Emma Boggiali        def.  Hili Kronson         85
+     16  Erika Sofia Gonzale… def.  Katerina Atallah     87(2)
+     16  Eleanore Campbell    def.  Gayathri Rajesh      82
+  > Consolation
+      F  Maanya Viswanath     def.  Hili Kronson         81
+     SF  Maanya Viswanath     def.  Avery Oppenheim      87(3)
+     SF  Hili Kronson         def.  Gayathri Rajesh      83
+     QQ  Maanya Viswanath     def.  Yeva Baziv           85
+     QQ  Hili Kronson         def.  Katerina Atallah     83
+ > Flight C
+  > Main
+      F  Jessica Siegel       def.  Bella Moen           87
+     SF  Jessica Siegel       def.  Megan Gamble         83
+     SF  Bella Moen           def.  Anastasia Koniaev    87(2)
+     QF  Megan Gamble         def.  Oliwia Kempinski     86
+     QF  Jessica Siegel       def.  Jade Gautier         83
+     QF  Bella Moen           def.  Giovanna Castro      82
+     QF  Anastasia Koniaev    def.  Melanie Sparhawk     83
+     16  Oliwia Kempinski     def.  Angelica Garcia      85
+     16  Jessica Siegel       def.  Maddie Sullivan      Walkover
+     16  Jade Gautier         def.  Valentine Mudry      84
+     16  Bella Moen           def.  Nicole Condas        81
+     16  Melanie Sparhawk     def.  Madigan Humiston     86
+  > Consolation
+      F  Valentine Mudry      def.  Nicole Condas        87(1)
+     SF  Valentine Mudry      def.  Angelica Garcia      85
+     SF  Nicole Condas        def.  Madigan Humiston     85
+     QQ  Valentine Mudry      def.  Maddie Sullivan      Walkover
+ > Flight D
+  > Main
+      F  Ally Garofoli        def.  Emily O Donovan      87(3)
+     SF  Ally Garofoli        def.  Margherita Fiorio    84
+     SF  Emily O Donovan      def.  Shelby Madeiros      80
+     QF  Margherita Fiorio    def.  Elizabeth Laub       83
+     QF  Ally Garofoli        def.  Emma Menkowitz       80
+     QF  Shelby Madeiros      def.  Halle DeNardo        85
+     QF  Emily O Donovan      def.  Emma Shea            82
+  > Consolation
+      F  Halle DeNardo        def.  Elizabeth Laub       85
+     SQ  Elizabeth Laub       def.  Emma Menkowitz       82
+     SQ  Halle DeNardo        def.  Emma Shea            82
 ~~~
 
 <a name="21-66962"></a>
@@ -1346,6 +1432,62 @@
      64  Hannah Buckhout     def.  Cecilia Denis       62
      64  Olivia Howe         def.  Blair Hollyday      63
      64  Summer Quinn        def.  Audrey Lee          61
+ > Round 3
+  > Main
+     64  Jamilah Karah       def.  Carly Levitz        61
+     64  Nikita Salkar       def.  Anna Rozin          76(5)
+     64  Ally Friedman       def.  Anastasia Sia       62
+     64  Bhakti Parwani      def.  Samantha Riordan    64
+     64  Sydney Landau       def.  Ana Hatfield        75
+     64  Joanna Atwater      def.  Isabella Hartman    76(3)
+     64  Josephine Kimball   def.  Salma Alsikafi      75
+     64  Evelyn Safar        def.  Marta Drausnik      62
+     64  Ella Baker          def.  Ella Subramanian    64
+     64  Elizabeth Frekko    def.  Ava Lyon            76(5)
+     64  Hannah Buckhout     def.  Olivia Gidlow       62
+     64  Julia DeLuca        def.  Sydney Brown        62
+     64  Sabrina Loui        def.  Blair Hollyday      62
+     64  Cecilia Denis       def.  Audrey Lee          61
+     64  Drew Williams       def.  Summer Quinn        63
+ > Round 4
+  > Main
+     64  Ally Friedman       def.  Jamilah Karah       64
+     64  Elizabeth Yu        def.  Anna Rozin          62
+     64  Evelyn Safar        def.  Carly Levitz        62
+     64  Samantha Riordan    def.  Kennedi Carter      63
+     64  Bhakti Parwani      def.  Lindsey Hernandez   63
+     64  Sydney Landau       def.  Sabrina Loui        64
+     64  Joanna Atwater      def.  Josephine Kimball   62
+     64  Elizabeth Frekko    def.  Ella Baker          63
+     64  Hannah Buckhout     def.  Cecilia Denis       60
+     64  Julia DeLuca        def.  Ana Hatfield        64
+     64  Emilia Callery      def.  Salma Alsikafi      61
+     64  Drew Williams       def.  Olivia Scordo       64
+     64  Caroline Kittle     def.  Ella Subramanian    63
+     64  Katharine Dougherty def.  Jiayi Zhang         61
+     64  Ashley Walker       def.  Sydney Byrnes       63
+     64  Marta Drausnik      def.  Olivia Gidlow       63
+     64  Olivia Howe         def.  Audrey Lee          75
+     64  Summer Quinn        def.  Blair Hollyday      60
+ > Round 5
+  > Main
+     64  Evelyn Safar        def.  Ally Friedman       60
+     64  Kennedi Carter      def.  Anna Rozin          62
+     64  Fleming Landau      def.  Carly Levitz        76(4)
+     64  Elizabeth Yu        def.  Samantha Riordan    75
+     64  Bhakti Parwani      def.  Angelina Shyltsyna  61
+     64  Sabrina Loui        def.  Isabella Hartman    76(4)
+     64  Sydney Landau       def.  Nikita Salkar       75
+     64  Lindsey Hernandez   def.  Anastasia Sia       76(3)
+     64  Hannah Buckhout     def.  Joanna Atwater      63
+     64  Julia DeLuca        def.  Elizabeth Frekko    30 Ret.
+     64  Caroline Kittle     def.  Salma Alsikafi      60
+     64  Katharine Dougherty def.  Drew Williams       62
+     64  Riya Ravi           def.  Ella Subramanian    61
+ > Round 6
+  > Main
+     64  Elizabeth Yu        def.  Blair Hollyday      60
+     64  Olivia Howe         def.  Olivia Gidlow       64
 ~~~
 
 <a name="21-24367"></a>

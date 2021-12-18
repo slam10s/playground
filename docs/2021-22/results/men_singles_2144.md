@@ -105,6 +105,7 @@
      128  Phillip Bengtsson    def.  Julen Morgan         61 60
      128  Carson Gates         def.  Milledge Cossu       62 61
      128  Calvin Mueller       def.  Andre Suzanne        63 61
+     128  Shunya Maruyama      def.  Jared Pratt          61 16 [8]
      128  Piotr Galus          def.  Josh Portnoy         75 63
      128  Luke Baylis          def.  Lenard Soha          64 75
  > Back Draw Fix
@@ -173,7 +174,7 @@
      32Q  Gleb Blekher         def.  Lenard Soha          26 62 [2]
      32Q  Luke Baylis          def.  Brian Berdusco       76(4) 75
       64  Mihailo Popovic      def.  Andre Suzanne        62 62
-      64  Jack Winkler         def.  Phillip Bengtsson    26 Ret.
+      64  Jack Winkler         def.  Phillip Bengtsson    63 36 [6]
       64  Tomasz Dudek         def.  Mac Rogers           63 64
       64  Natan Spear          def.  Josh Portnoy         Walkover
       64  Daniel Nuzhny        def.  Michael Andre        62 26 [7]
@@ -184,6 +185,7 @@
       64  Gleb Blekher         def.  Jagger Saylor        36 75 [4]
       64  Luke Baylis          def.  Patrick Fletchall    62 75
       64  Brian Berdusco       def.  Jarreau Campbell     62 63
+      64  Calvin Mueller       def.  Saiprakash Goli      76(4) 64
      64Q  Phillip Bengtsson    def.  Carson Haskins       64 57 [5]
      64Q  Mac Rogers           def.  Tim Dzhurinskiy      Walkover
      64Q  Josh Portnoy         def.  Rohan Sachdev        46 64 [5]
@@ -1039,7 +1041,7 @@
      32  Joshua Dous Karpens… def.  Enzo Aguiard         63 64
      32  Joao Ferreira        def.  John Bernard         62 63
      32  Alex Bulte           def.  Rudi Christiansen    64 67(7) 62
-     32  Filip Krolo          def.  Tom Pisane           62 60
+     32  Tom Pisane           def.  Filip Krolo          62 60
      32  Sandeep Mohandoss    def.  Gabriel Diaz         63 76(8)
      32  Maks Silagy          def.  Patrick Kaukovalta   50 Ret.
  > Sunday Morning

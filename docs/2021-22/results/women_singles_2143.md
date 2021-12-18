@@ -9,13 +9,12 @@
 - 10/22/2021 - [ITA Division I Women's Northwest Regional Championship](#21-52217) ([Results](#21-52217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StanfordUniversityW/Tournaments/Overview/069089F9-1C02-43BD-82B5-B68774093F12" target="_blank">Draws</a>)  
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
+- 10/30/2021 - [Aramark / Bearkat Invitational](#21-10626) ([Results](#21-10626) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamHoustonStateUnivW/Tournaments/Overview/5AFBA893-899F-4784-9072-87AE2E3C08CD" target="_blank">Draws</a>)  
 - 10/29/2021 - [Brown Quad](#21-71605) ([Results](#21-71605) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Draws</a>)  
 - 10/29/2021 - [College of Charleston Halloween Tournament](#21-08956) ([Results](#21-08956) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">Draws</a>)  
 - 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
 - 10/29/2021 - [FIU Invitational](#21-24854) ([Results](#21-24854) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gamecock Shootout](#21-95444) ([Results](#21-95444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Draws</a>)  
-- 10/29/2021 - [Louisville Classic](#21-37198) ([Results](#21-37198) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Draws</a>)  
-- 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Rocket Invite- The Sequel](#21-55677) ([Results](#21-55677) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Draws</a>)  
@@ -26,7 +25,6 @@
 - 10/30/2021 - [Slug Invite - hosted by West Valley College](#21-30727) ([Results](#21-30727) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamHoustonStateUnivW/Tournaments/Overview/5AFBA893-899F-4784-9072-87AE2E3C08CD" target="_blank">Aramark / Bearkat Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 
@@ -1452,6 +1450,63 @@
        F      Khim Iglupas         def.      Madison Kim          64 61
 ~~~
 
+<a name="21-10626"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Aramark / Bearkat Invitational
+  Dates: Oct 30-31, 2021
+  Host: Sam Houston State Univ. (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight B
+  > Main
+     R3  Isidora Zivkovic     def.  Alexandra Abyasova 57 64 [9]
+     R3  Jasmin Starr         def.  Tjasa Klevisar     64 36 [7]
+     R2  Tjasa Klevisar       def.  Alexandra Abyasova 57 62 [7]
+     R2  Jasmin Starr         def.  Isidora Zivkovic   61 62
+     R1  Tjasa Klevisar       def.  Isidora Zivkovic   60 63
+     R1  Alexandra Abyasova   def.  Jasmin Starr       63 76(1)
+ > Flight C
+  > Main
+     R3  Lexie Weir           def.  Mariella Minetti   76(4) 16 [8]
+     R3  Maria Potsi          def.  Lusine Chobanyan   26 63 [3]
+     R2  Mariella Minetti     def.  Lusine Chobanyan   62 63
+     R2  Maria Potsi          def.  Lexie Weir         63 63
+     R1  Lexie Weir           def.  Lusine Chobanyan   63 36 [3]
+     R1  Mariella Minetti     def.  Maria Potsi        Walkover
+ > Flight D
+  > Main
+     R3  Keegan McCain        def.  Sahithi Vutukuru   63 64
+     R3  Ayu Ishibashi        def.  Tara Damnjanovic   76(5) 64
+     R2  Ayu Ishibashi        def.  Keegan McCain      62 62
+     R2  Sahithi Vutukuru     def.  Tara Damnjanovic   75 61
+     R1  Ayu Ishibashi        def.  Sahithi Vutukuru   64 62
+     R1  Tara Damnjanovic     def.  Keegan McCain      64 62
+ > Flight E
+  > Main
+     R3  Viktorie Wojcikova   def.  Eva Beyebach       61 36 [9]
+     R3  Elena Jankulovska    def.  Sunskrithi Damera  67(5) 75 [3]
+     R2  Viktorie Wojcikova   def.  Sunskrithi Damera  46 62 [6]
+     R2  Elena Jankulovska    def.  Eva Beyebach       64 36 [10]
+     R1  Sunskrithi Damera    def.  Eva Beyebach       46 63 [5]
+     R1  Viktorie Wojcikova   def.  Elena Jankulovska  64 62
+ > Flight F
+  > Main
+     R3  Sophie Omoworare     def.  Petra Kaszas       63 63
+     R3  Thitirat Kanaphuet   def.  Othilia Brodin     63 57 [4]
+     R2  Othilia Brodin       def.  Petra Kaszas       64 60
+     R2  Thitirat Kanaphuet   def.  Sophie Omoworare   57 76(4) [5]
+     R1  Petra Kaszas         def.  Thitirat Kanaphuet 63 60
+ > Flight A
+  > Main
+     R3  Megan Basson         def.  Rozalie Dohnalova  36 61 [8]
+     R3  Aleksandra Zlatarova def.  Tijana Zlatanovic  61 76(3)
+     R2  Megan Basson         def.  Tijana Zlatanovic  61 64
+     R2  Aleksandra Zlatarova def.  Rozalie Dohnalova  61 46 [7]
+     R1  Rozalie Dohnalova    def.  Tijana Zlatanovic  Walkover
+     R1  Aleksandra Zlatarova def.  Megan Basson       Walkover
+~~~
+
 <a name="21-71605"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -1772,128 +1827,6 @@
      32  Julia Fliegner    def.  Katherine Jakeway  62 61
      32  Madeline Atway    def.  Merri Kelly        75 46 [5]
      32  Anca Craciun      def.  Dani Schoenly      60 63
-~~~
-
-<a name="21-37198"></a>
-~~~
-═══════════════════════════════════════════════════════════════════════
-  Louisville Classic
-  Dates: Oct 29-31, 2021
-  Host: University Of Louisville (W)
-═══════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > Friday
-  > Main
-     32  Andrea Di Palma      def.  Yuliya Kizelbasheva  75 62
-     32  Rhea Verma           def.  Eleanor Nobbs        60 61
-     32  Chelsea Sawyer       def.  Marija Jovicic       76(3) 63
-     32  Madelyn Yergler      def.  Dina Chaika          76(2) 26 [3]
-     32  Tyra Richardson      def.  Valentina Martin     63 61
-     32  Joy Callwood         def.  Katrina Rand         64 61
-     32  Jessica Braun        def.  Muskan Gupta         63 63
-     32  Amy Kaplan           def.  Lee Barnard          64 63
-     32  Mariya Polishchuk    def.  Zani Barnard         63 60
-     32  Hannah Davies        def.  Noelle Mauro         61 61
-     32  Lilly-Sophie Schmidt def.  Elena Malykh         64 62
- > Saturday
-  > Main
-     32  Andrea Di Palma      def.  Emma Peeler          61 61
-     32  Jessica Braun        def.  Rhea Verma           76(5) 36 [8]
-     32  Chelsea Sawyer       def.  Mariya Polishchuk    46 76(5) [8]
-     32  Amy Kaplan           def.  Dina Chaika          62 76(5)
-     32  Hannah Davies        def.  Tyra Richardson      63 62
-     32  Livia Lukacs         def.  Joy Callwood         61 60
-     32  Muskan Gupta         def.  Eleanor Nobbs        62 60
-     32  Madelyn Yergler      def.  Zani Barnard         63 61
-     32  Valentina Martin     def.  Lilly-Sophie Schmidt 61 26 [8]
-     32  Noelle Mauro         def.  Katrina Rand         67(3) 75 [4]
- > Sunday
-  > Main
-     32  Yuliya Kizelbasheva  def.  Emma Peeler          63 36 [5]
-     32  Jessica Braun        def.  Marija Jovicic       60 61
-     32  Mariya Polishchuk    def.  Madelyn Yergler      67(5) 62 [8]
-     32  Eleanor Nobbs        def.  Livia Lukacs         62 61
-     32  Elena Malykh         def.  Valentina Martin     62 62
-     32  Andrea Di Palma      def.  Zani Barnard         64 60
-     32  Rhea Verma           def.  Muskan Gupta         63 36 [8]
-     32  Chelsea Sawyer       def.  Lilly-Sophie Schmidt 46 62 [5]
-     32  Tyra Richardson      def.  Noelle Mauro         46 61 [1]
-~~~
-
-<a name="21-24286"></a>
-~~~
-═══════════════════════════════════════════════════════════════════════
-  NIU Huskie Indoor Invitational
-  Dates: Oct 29-31, 2021
-  Host: Northern Illinois Univ. (W)
-═══════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > Flight 1
-  > East
-     SF  Vivian Glozman     def.  Erika Dimitriev    76(4) 61
-     SF  Sydney Fitch       def.  Diana Lukyanova    75 76(6)
-     QF  Vivian Glozman     def.  Jana Lazarevic     76(9) 62
-     QF  Erika Dimitriev    def.  Kristina Pukhaeva  62 63
-     QF  Sydney Fitch       def.  Anastasiya Salenko 57 62 [7]
-     QF  Diana Lukyanova    def.  Habiba Aly         63 46 [5]
-  > West
-      F  Jana Lazarevic     def.  Anastasiya Salenko 62 63
-     SF  Jana Lazarevic     def.  Kristina Pukhaeva  62 60
-     SF  Anastasiya Salenko def.  Habiba Aly         Walkover
-  > South
-      F  Kristina Pukhaeva  def.  Habiba Aly         Walkover
- > Flight 2
-  > East
-      F  Hailey Stelse      def.  Reagan Welch       16 62 [9]
-     SF  Hailey Stelse      def.  Casey Smith        61 63
-     SF  Reagan Welch       def.  Alexandra Kuo      62 61
-     QF  Hailey Stelse      def.  Anastasia Rakita   Walkover
-     QF  Casey Smith        def.  Sonia Skobkareva   36 75 [7]
-     QF  Alexandra Kuo      def.  Katarina Dukic     76(6) 26 [7]
-     QF  Reagan Welch       def.  Natalie Kmoskova   Walkover
-  > West
-      F  Anastasia Rakita   def.  Katarina Dukic     Walkover
-     SF  Anastasia Rakita   def.  Sonia Skobkareva   62 64
-     SF  Katarina Dukic     def.  Natalie Kmoskova   Walkover
-  > 3-4 Playoff
-      F  Alexandra Kuo      def.  Casey Smith        76 62
- > Flight 3
-  > East
-     SF  Alexis Odom        def.  Anna Marija Bukina 63 62
-     SF  Karina Chao        def.  Christy Robinson   61 60
-     QF  Anna Marija Bukina def.  Iuliia Dmitrieva   64 36 [10]
-     QF  Alexis Odom        def.  Sage Hills         61 62
-     QF  Karina Chao        def.  Beata Havlickova   63 61
-     QF  Christy Robinson   def.  Susana Andres      63 60
-  > West
-     SF  Iuliia Dmitrieva   def.  Sage Hills         76(1) 64
-     SF  Beata Havlickova   def.  Susana Andres      62 61
-  > South
-      F  Sage Hills         def.  Susana Andres      06 76(2) [8]
- > Flight 4
-  > East
-      F  Angelica Ross      def.  Isabella Flodin    61 46 [1]
-     SF  Angelica Ross      def.  Andrea Le          36 76(5) [6]
-     SF  Isabella Flodin    def.  Julia Huette       61 60
-     QF  Andrea Le          def.  Danina Hughes      62 61
-     QF  Angelica Ross      def.  Grace Sueflohn     63 61
-     QF  Isabella Flodin    def.  Sarah Markun       60 60
-     QF  Julia Huette       def.  Gabriella Kaminski 26 62 [8]
-  > West
-      F  Grace Sueflohn     def.  Sarah Markun       61 60
-     SF  Grace Sueflohn     def.  Danina Hughes      62 60
-     SF  Sarah Markun       def.  Gabriella Kaminski 46 62 [3]
-  > 3-4 Playoff
-      F  Andrea Le          def.  Julia Huette       63 61
-  > South
-      F  Danina Hughes      def.  Gabriella Kaminski 62 67(5) [8]
- > Extra matches
-  > Main
-     16  Anastasiya Salenko def.  Katarina Dukic     67(5) 62 [7]
-     16  Vivian Glozman     def.  Diana Lukyanova    26 64 [5]
-     16  Sydney Fitch       def.  Erika Dimitriev    60 63
-     16  Karina Chao        def.  Iuliia Dmitrieva   40 42
-     16  Alexis Odom        def.  Anastasia Rakita   35 53 [5]
 ~~~
 
 <a name="21-30411"></a>

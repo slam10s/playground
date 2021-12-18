@@ -25,6 +25,7 @@
 - 9/17/2021 - [Division III Men's Northwest ITA Regional Championships](#21-72414) ([Results](#21-72414) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/293CC684-E897-42E1-A5D8-010605E71990" target="_blank">Draws</a>)  
 - 9/19/2021 - [Firebird Challenge](#21-51274) ([Results](#21-51274) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarthageCollegeM/Tournaments/Overview/0360BE02-00EA-4704-B66F-2ED3ACEF18A1" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
+- 9/18/2021 - [KCAC Individual Tournament](#21-28798) ([Results](#21-28798) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">Draws</a>)  
 - 9/18/2021 - [Limestone Men's Challenger](#21-84230) ([Results](#21-84230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityM/Tournaments/Overview/BD22EB5E-C006-486B-9907-D53E0DC6FA01" target="_blank">Draws</a>)  
 - 9/18/2021 - [Middlebury Invitational 2021](#21-64248) ([Results](#21-64248) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/97C4AA58-56BC-46A0-8287-9B7C41BD76A7" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
@@ -36,7 +37,6 @@
 **Tournaments without Matches**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
-- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">KCAC Individual Tournament</a>  
 
 <a name="21-01301"></a>
 ~~~
@@ -1938,6 +1938,128 @@
   > Consolation
      QQ     Hunter Royal         def.     Zach Gonsor          97
      QQ     Eduardo Rojas        def.     Nick Smeltzer        85
+~~~
+
+<a name="21-28798"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  KCAC Individual Tournament
+  Dates: Sep 18-19, 2021
+  Host: Southwestern College (M)
+═════════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > KCAC Men's #1 Singles
+  > East
+            F (1) Michael Beltran      def. (2) Jose Catala          63 61
+           SF (1) Michael Beltran      def.     Raul Rivero Eggers   81
+           SF (2) Jose Catala          def.     Daniel Harkin        97
+           QF (1) Michael Beltran      def.     Hugo Prats Nicolas   83
+           QF     Raul Rivero Eggers   def. (4) Andris Gudins        86
+           QF     Daniel Harkin        def. (3) David Moral Tebar    84
+           QF (2) Jose Catala          def.     Michael Cech         97
+           16     Hugo Prats Nicolas   def.     Noe Hauschildt       86
+           16     Michael Cech         def.     Shawn Alonzo         81
+ > KCAC #1 Singles CON.
+  > Main
+            F     David Moral Tebar    def.     Noe Hauschildt       86
+           SF     Noe Hauschildt       def.     Hugo Prats Nicolas   85
+           SF     David Moral Tebar    def.     Michael Cech         86
+           QF     Noe Hauschildt       def.     Andris Gudins        85
+           QF     David Moral Tebar    def.     Shawn Alonzo         83
+ > KCAC Men's #2 Singles
+  > Main
+            F (2) Milan Bucek          def. (4) Bryce Ware           46 64 [4]
+           SF (4) Bryce Ware           def. (1) Thomas Zych          97
+           SF (2) Milan Bucek          def.     Ryan Kitchin         86
+           QF (1) Thomas Zych          def.     Clement Martin       80
+           QF (4) Bryce Ware           def.     Bastian Reichborn-B… 82
+           QF     Ryan Kitchin         def. (3) Jhoel Quinonez       86
+           QF (2) Milan Bucek          def.     Mickel Alexander     84
+           16     Clement Martin       def.     Franco Hernandez Co… 83
+           16     Mickel Alexander     def.     Kenan Comley         85
+  > Consolation
+            F     Mickel Alexander     def.     Franco Hernandez Co… 80
+           SF     Franco Hernandez Co… def.     Clement Martin       80
+           SF     Mickel Alexander     def. (3) Jhoel Quinonez       97
+           QF     Franco Hernandez Co… def.     Bastian Reichborn-B… 85
+           QF (3) Jhoel Quinonez       def.     Kenan Comley         85
+  > Playoff 5-8
+            F (3) Jhoel Quinonez       def.     Clement Martin       81
+  > Playoff 3-4
+            F (1) Thomas Zych          def.     Ryan Kitchin         84
+ > KCAC Men's #3 Singles
+  > Main
+            F (2) Scott Hjelm          def. (1) Martin Millos        64 26 [11]
+        SemiF (1) Martin Millos        def. (4) Nolan Schrader       83
+        SemiF (2) Scott Hjelm          def. (3) Benjamin Erdmann     97
+     QuarterF (1) Martin Millos        def.     Adam Spencer         81
+     QuarterF (4) Nolan Schrader       def.     Robert Robertson     81
+     QuarterF (3) Benjamin Erdmann     def.     Zeke Mumford         82
+     QuarterF (2) Scott Hjelm          def.     Franco Iozzo         80
+           16     Adam Spencer         def.     Ethan Kutz           81
+           16     Franco Iozzo         def.     Hunter Lee           80
+  > Consolation
+            F     Robert Robertson     def.     Franco Iozzo         82
+           SF     Robert Robertson     def.     Ethan Kutz           83
+           SF     Franco Iozzo         def.     Zeke Mumford         85
+           QF     Robert Robertson     def.     Adam Spencer         81
+           QF     Zeke Mumford         def.     Hunter Lee           83
+  > Playoff 3-4
+            F (3) Benjamin Erdmann     def. (4) Nolan Schrader       86
+ > KCAC Men's #4 Singles
+  > Main
+            F (2) Federico Poi         def.     Tomas Quercia        63 76(4)
+           SF     Tomas Quercia        def.     Zachary Hash         84
+           SF (2) Federico Poi         def. (3) Weizhi Yuan          81
+           QF     Zachary Hash         def. (1) Marko Puric          Walkover
+           QF     Tomas Quercia        def. (4) Jean Paul Fort       97
+           QF (3) Weizhi Yuan          def.     Kerry Dunn           83
+           QF (2) Federico Poi         def.     Rodrigo Vera         82
+           16     Zachary Hash         def.     Logan Reece          98(4)
+           16     Rodrigo Vera         def.     Gavin Pastine        80
+  > Consolation
+            F (4) Jean Paul Fort       def.     Kerry Dunn           86
+           SF (4) Jean Paul Fort       def.     Logan Reece          82
+           SF     Kerry Dunn           def.     Rodrigo Vera         80
+           QF     Kerry Dunn           def.     Gavin Pastine        80
+ > KCAC Men's #5 Singles
+  > Main
+            F (1) Daniel Marcano       def. (2) Marcelo Mann         61 62
+        SemiF (1) Daniel Marcano       def.     Joaquin Pluis        83
+        SemiF (2) Marcelo Mann         def. (3) Garrison Wright      83
+     QuarterF (1) Daniel Marcano       def.     Rhain Isaac          81
+     QuarterF     Joaquin Pluis        def. (4) Luke Graham          83
+     QuarterF (3) Garrison Wright      def.     Alejandro Velasco    83
+     QuarterF (2) Marcelo Mann         def.     Nathan Watson        82
+           16     Rhain Isaac          def.     Brenner McDougal     81
+           16     Nathan Watson        def.     Bryan Eckert         80
+  > Consolation
+            F     Rhain Isaac          def.     Alejandro Velasco    97
+           SF     Rhain Isaac          def. (4) Luke Graham          97
+           SF     Alejandro Velasco    def.     Nathan Watson        84
+           QF (4) Luke Graham          def.     Brenner McDougal     82
+           QF     Alejandro Velasco    def.     Bryan Eckert         80
+  > Playoff 3-4
+            F     Joaquin Pluis        def. (3) Garrison Wright      83
+ > KCAC Men's # 6 Singles
+  > Main
+            F (1) Oscar Brouwer        def. (2) Jonathan De La O     76(5) 76(4)
+        SemiF (1) Oscar Brouwer        def.     Braeden Lewis        84
+        SemiF (2) Jonathan De La O     def. (3) Oscar Aguilera       80
+     QuarterF (1) Oscar Brouwer        def.     Alexis Torres        80
+     QuarterF     Braeden Lewis        def. (4) Jordan Singh         84
+     QuarterF (3) Oscar Aguilera       def.     Christian Martin     83
+     QuarterF (2) Jonathan De La O     def.     Kyle Redmon          80
+           16     Alexis Torres        def.     Nathan Perkins       84
+  > Consolation
+            F (4) Jordan Singh         def.     Christian Martin     80
+           SF (4) Jordan Singh         def.     Alexis Torres        82
+           SF     Christian Martin     def.     Kyle Redmon          83
+           QF (4) Jordan Singh         def.     Nathan Perkins       80
+  > Playoff 5-8
+            F     Kyle Redmon          def.     Alexis Torres        85
+  > Playoff 3-4
+            F (3) Oscar Aguilera       def.     Braeden Lewis        83
 ~~~
 
 <a name="21-84230"></a>

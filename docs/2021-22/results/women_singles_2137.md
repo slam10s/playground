@@ -26,18 +26,18 @@
 - 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 - 9/17/2021 - [Javalina Fall Quad](#21-30014) ([Results](#21-30014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityKingsvilleW/Tournaments/Overview/598273F2-FD41-4282-9467-EFD6330C79CC" target="_blank">Draws</a>)  
+- 9/18/2021 - [KCAC Individual Tournament](#21-28798) ([Results](#21-28798) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">Draws</a>)  
 - 9/17/2021 - [Methodist University Women's Fall Invitational](#21-80794) ([Results](#21-80794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MethodistUniversityW/Tournaments/Overview/4FFAB7FF-537E-4837-8CBB-5347D9DABA5B" target="_blank">Draws</a>)  
 - 9/17/2021 - [MIT Invitational](#21-01963) ([Results](#21-01963) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechW/Tournaments/Overview/05E528B1-8ECB-4C54-A76C-F650CD3C02F5" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
 - 9/17/2021 - [NAIA Men's & Women’s South ITA Regional Championships](#21-84466) ([Results](#21-84466) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgiaGwinnettCollegeM/Tournaments/Overview/AB87DC72-EBD1-473D-908A-61D759A5EEAC" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Women's Southeast ITA Regional Championships](#21-35477) ([Results](#21-35477) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgetownCollegeW/Tournaments/Overview/36332785-C639-48F2-A06A-5543C8F1D920" target="_blank">Draws</a>)  
+- 9/17/2021 - [PP/CMS Invite](#21-07562) ([Results](#21-07562) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">Draws</a>)  
 - 9/18/2021 - [Swat Invite](#21-60316) ([Results](#21-60316) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SwarthmoreCollegeW/Tournaments/Overview/73C8A321-A4B9-463E-BDCF-097B5F19F2D7" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/AustinPeayStateUniversityW/Tournaments/Overview/529D2BB1-3F31-4227-948D-C08E670678BD" target="_blank">2021 APSU Fall Tournament</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/903094F6-5088-4464-9EC7-3100A890BE88" target="_blank">University of Central Arkansas Fall Invitational</a>  
-- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">KCAC Individual Tournament</a>  
-- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesW/Tournaments/Overview/BC47952D-E142-470A-B007-2BBF9E509BD7" target="_blank">PP/CMS Invite</a>  
 
 <a name="21-78345"></a>
 ~~~
@@ -1298,7 +1298,7 @@
       F  Olivia Czerwonka     def.  Mariona Perez        64 64
      SF  Mariona Perez        def.  Bozana Lojpur        16 75 [5]
      SF  Olivia Czerwonka     def.  Giulia Turconi       61 61
-     QF  Mariona Perez        def.  Cali Fuller          26 61 [8]
+     QF  Mariona Perez        def.  Calista Fuller       26 61 [8]
      QF  Bozana Lojpur        def.  Gabrielle Ochalik    
      QF  Olivia Czerwonka     def.  Alexandra Abyasova   60 46 [8]
      QF  Giulia Turconi       def.  Yuliya Kizelbasheva  16 76(6) [7]
@@ -1306,8 +1306,8 @@
       F  Bozana Lojpur        def.  Giulia Turconi       64 64
  > Flight 2 - Back Draw
   > Main
-      F  Alexandra Abyasova   def.  Cali Fuller          62 75
-     SF  Cali Fuller          def.  Gabrielle Ochalik    06 63
+      F  Alexandra Abyasova   def.  Calista Fuller       62 75
+     SF  Calista Fuller       def.  Gabrielle Ochalik    06 63
      SF  Alexandra Abyasova   def.  Yuliya Kizelbasheva  75 46 [3]
   > Playoff 3-4
       F  Yuliya Kizelbasheva  def.  Gabrielle Ochalik    61 63
@@ -2289,6 +2289,124 @@
       F  Taylor Parkinson     def.  Anette Lira          61 75
 ~~~
 
+<a name="21-28798"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════════════
+  KCAC Individual Tournament
+  Dates: Sep 18-19, 2021
+  Host: Southwestern College (M)
+════════════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > KCAC Women's #1 Singles
+  > Main
+            F (1) Samantha Loving      def. (2) Yana Goranova        60 61
+        SemiF (1) Samantha Loving      def. (4) Cori Campbell        84
+        SemiF (2) Yana Goranova        def. (3) Polina Khoroshveska… 86
+     QuarterF (1) Samantha Loving      def.     Geanna Richard       80
+     QuarterF (4) Cori Campbell        def.     Karley Benson        84
+     QuarterF (3) Polina Khoroshveska… def.     Halle Krehbiel       84
+     QuarterF (2) Yana Goranova        def.     Rachel Carlson       80
+           16     Geanna Richard       def.     Nikolett Krivek      85
+           16     Rachel Carlson       def.     Jahzuena Bradshaw-D… 81
+  > Consolation
+            F     Geanna Richard       def.     Halle Krehbiel       86
+           SF     Geanna Richard       def.     Karley Benson        85
+           SF     Halle Krehbiel       def.     Rachel Carlson       81
+           QF     Karley Benson        def.     Nikolett Krivek      80
+           QF     Halle Krehbiel       def.     Jahzuena Bradshaw-D… 85
+  > Playoff 5-8
+            F     Karley Benson        def.     Rachel Carlson       84
+  > Playoff 3-4
+            F (3) Polina Khoroshveska… def. (4) Cori Campbell        83
+ > KCAC Women's #2 Singles
+  > Main
+            F (1) Monalisa Chakraborty def. (2) Isidora Hrnjak       36 62 [3]
+        SemiF (1) Monalisa Chakraborty def. (4) Fatima Nemi          83
+        SemiF (2) Isidora Hrnjak       def. (3) Erica Paradise       86
+     QuarterF (1) Monalisa Chakraborty def.     Tia Gregory          81
+     QuarterF (4) Fatima Nemi          def.     Makenzie Archer      84
+     QuarterF (3) Erica Paradise       def.     Tiana Shelton        83
+     QuarterF (2) Isidora Hrnjak       def.     Nicole Marin         81
+           16     Tia Gregory          def.     Ariel Williams       84
+  > Consolation
+            F     Makenzie Archer      def.     Nicole Marin         97
+           SF     Makenzie Archer      def.     Tia Gregory          81
+           SF     Nicole Marin         def.     Tiana Shelton        85
+  > Playoff 5-8
+            F     Tiana Shelton        def.     Tia Gregory          81
+  > Playoff 3-4
+            F (3) Erica Paradise       def. (4) Fatima Nemi          86
+ > KCAC Women's #3 Singles
+  > Main
+            F     Grace Maxey          def.     Michaela Crowe       
+        SemiF     Michaela Crowe       def.     Priyanshi Sharma     85
+        SemiF     Grace Maxey          def.     Mariana Ochoa        86
+     QuarterF     Priyanshi Sharma     def.     Sydney McGrown       82
+     QuarterF     Michaela Crowe       def.     Lily Wait            84
+     QuarterF     Grace Maxey          def.     Kinzie Comley        81
+     QuarterF     Mariana Ochoa        def.     Nalea Payton         82
+           16     Sydney McGrown       def.     Kiara Sweat          82
+  > Consolation
+            F     Lily Wait            def.     Nalea Payton         85
+           SF     Lily Wait            def.     Sydney McGrown       84
+           SF     Nalea Payton         def.     Kinzie Comley        85
+           QF     Lily Wait            def.     Kiara Sweat          82
+  > Playoff 5-8
+            F     Sydney McGrown       def.     Kinzie Comley        84
+  > Playoff 3-4
+            F     Mariana Ochoa        def.     Priyanshi Sharma     85
+ > KCAC Women's #4 Singles
+  > Main
+            F     Catherine Coe        def. (1) Vanessa Mundo        46 64 [6]
+        SemiF (1) Vanessa Mundo        def. (4) Zofia Selwesiuk      82
+        SemiF     Catherine Coe        def.     Jenna Mahoney        82
+     QuarterF (1) Vanessa Mundo        def.     Anna Holland         82
+     QuarterF (4) Zofia Selwesiuk      def.     Marisol Blair        82
+     QuarterF     Jenna Mahoney        def. (3) Camila Castro Medina 84
+     QuarterF     Catherine Coe        def.     Hanna Wood           80
+           16     Anna Holland         def.     Lexi Neel            97
+  > Consolation
+            F (3) Camila Castro Medina def.     Anna Holland         84
+           SF     Anna Holland         def.     Lexi Neel            83
+           SF (3) Camila Castro Medina def.     Hanna Wood           83
+           QQ     Lexi Neel            def.     Marisol Blair        83
+  > Playoff 3-4
+            F (4) Zofia Selwesiuk      def.     Jenna Mahoney        84
+ > KCAC Women's #5 Singles
+  > Main
+            F (1) Laura Addey          def. (2) Kayla Ortiz          67(1) 60 [10]
+        SemiF (1) Laura Addey          def. (4) Tayler Alterman      81
+        SemiF (2) Kayla Ortiz          def.     Julia Sherman        82
+     QuarterF (1) Laura Addey          def.     Alexis Gunn          82
+     QuarterF (4) Tayler Alterman      def.     Jordyn Trombley      84
+     QuarterF     Julia Sherman        def. (3) ChaLyse Andrews      
+     QuarterF (2) Kayla Ortiz          def.     Bethany Yutzy        80
+           16     Alexis Gunn          def.     Brooklynn Kuhn       84
+  > Consolation
+            F     Alexis Gunn          def.     Bethany Yutzy        82
+           SF     Alexis Gunn          def.     Jordyn Trombley      84
+           QF     Jordyn Trombley      def.     Brooklynn Kuhn       85
+  > Playoff 5-8
+            F     Jordyn Trombley      def.     Alexis Gunn          Walkover
+  > Playoff 3-4
+            F (4) Tayler Alterman      def.     Julia Sherman        84
+ > KCAC Women's #6 Singles
+  > Main
+            F     Ella Hartnett        def.     Kendra Maples        61 36 [4]
+           SF     Kendra Maples        def.     Natalie Henning      81
+           SF     Ella Hartnett        def.     Karik Elliot         82
+           QF     Kendra Maples        def.     Lily Keimig          80
+           QF     Natalie Henning      def.     Savannah Noel        86
+           QF     Karik Elliot         def.     Tara Stewart         97
+           QF     Ella Hartnett        def.     Victoria Oshakuade   80
+  > Consolation
+            F     Tara Stewart         def.     Savannah Noel        83
+           SQ     Savannah Noel        def.     Lily Keimig          85
+           SQ     Tara Stewart         def.     Victoria Oshakuade   86
+  > Playoff 3-4
+            F     Natalie Henning      def.     Karik Elliot         86
+~~~
+
 <a name="21-80794"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════════
@@ -2684,6 +2802,35 @@
      32Q      Jordan Reed          def.      Emily Hibbs          76(2) 75
      32Q      Addison Sutton       def.      Aman Dail            Default
      32Q      Abigail Martin       def.      Cassandra Saner      Default
+~~~
+
+<a name="21-07562"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  PP/CMS Invite
+  Dates: Sep 17-19, 2021
+  Host: Pomona-Pitzer Colleges (W)
+══════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > PP vs. CSUN
+  > Main
+     16  Angie Zhou           def.  Jolene Coetzee       75
+     16  Ekatarina Repina     def.  Nina Ye              76(4) 75
+     16  Magdalena Hedrzak    def.  Georgia Ryan         60 76(5)
+     16  Ana Isabel Fraile T… def.  Marissa Markey       76(5) 57 [2]
+     16  Sasha Turchak        def.  Samantha Moore-Thom… 60 63
+     16  Jenna Dorian         def.  Amelia Poor          62 62
+     16  Jacqueline ONeill    def.  Alexandra Coleman    60 64
+ > PP vs. Westmont
+  > Main
+     16  Marissa Markey       def.  Rachal Jackson       75 16 [8]
+     16  Nina Ye              def.  Emily Peterson       63 64
+     16  Georgia Ryan         def.  Sidney Lowry         62 62
+     16  Maria Lyven          def.  Francesca Aguirre    60 61
+     16  Angie Zhou           def.  Christine Hemry      62 61
+     16  Amelia Poor          def.  Olivia Madarang      62 62
+     16  Sophia Ostovany      def.  Samantha Moore-Thom… 63 06 [8]
+     16  Logan Jackson        def.  Alicia Carmona Corn… 63
 ~~~
 
 <a name="21-60316"></a>

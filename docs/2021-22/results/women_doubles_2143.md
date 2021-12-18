@@ -9,13 +9,12 @@
 - 10/22/2021 - [ITA Division I Women's Northwest Regional Championship](#21-52217) ([Results](#21-52217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StanfordUniversityW/Tournaments/Overview/069089F9-1C02-43BD-82B5-B68774093F12" target="_blank">Draws</a>)  
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
+- 10/30/2021 - [Aramark / Bearkat Invitational](#21-10626) ([Results](#21-10626) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamHoustonStateUnivW/Tournaments/Overview/5AFBA893-899F-4784-9072-87AE2E3C08CD" target="_blank">Draws</a>)  
 - 10/29/2021 - [Brown Quad](#21-71605) ([Results](#21-71605) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/E20B24DE-3C7E-4DE4-81D8-B5A37522F971" target="_blank">Draws</a>)  
 - 10/29/2021 - [College of Charleston Halloween Tournament](#21-08956) ([Results](#21-08956) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonW/Tournaments/Overview/963E334E-12AC-4CE1-92B2-7EE64BF783FB" target="_blank">Draws</a>)  
 - 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
 - 10/29/2021 - [FIU Invitational](#21-24854) ([Results](#21-24854) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gamecock Shootout](#21-95444) ([Results](#21-95444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Draws</a>)  
-- 10/29/2021 - [Louisville Classic](#21-37198) ([Results](#21-37198) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Draws</a>)  
-- 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Rocket Invite- The Sequel](#21-55677) ([Results](#21-55677) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Draws</a>)  
@@ -26,7 +25,6 @@
 - 10/30/2021 - [Slug Invite - hosted by West Valley College](#21-30727) ([Results](#21-30727) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaCruzW/Tournaments/Overview/580F87CC-4DF4-4D49-AFA7-E31E767270AB" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
-- 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SamHoustonStateUnivW/Tournaments/Overview/5AFBA893-899F-4784-9072-87AE2E3C08CD" target="_blank">Aramark / Bearkat Invitational</a>  
 - 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7" target="_blank">Halloween Classic</a>  
 - 10/28/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9" target="_blank">Wildcat Invitational</a>  
 
@@ -632,6 +630,42 @@
      32     Heynemans/Romain     def.     Meraz/Iglupas        63
 ~~~
 
+<a name="21-10626"></a>
+~~~
+══════════════════════════════════════════════════════════════
+  Aramark / Bearkat Invitational
+  Dates: Oct 30-31, 2021
+  Host: Sam Houston State Univ. (W)
+══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > Main
+     R3  Klevisar/Minetti    def.  Weir/Zlatarova      62
+     R2  Klevisar/Minetti    def.  Potsi/Zlatanovic    63
+     R2  Weir/Zlatarova      def.  Basson/Kaszas       75
+     R1  Weir/Zlatarova      def.  Potsi/Zlatanovic    76(2)
+ > Flight B
+  > Main
+     R3  Starr/McCain        def.  Chobanyan/Zivkovic  75
+     R3  Dohnalova/Wojcikova def.  Abreu/Damnjanovic   63
+     R2  Starr/McCain        def.  Abreu/Damnjanovic   75
+     R2  Dohnalova/Wojcikova def.  Chobanyan/Zivkovic  62
+     R1  Abreu/Damnjanovic   def.  Chobanyan/Zivkovic  63
+     R1  Starr/McCain        def.  Dohnalova/Wojcikova 60
+ > Flight C
+  > Main
+     R3  Fitzgerald/Abyasova def.  Beyebach/Omoworare  63
+     R3  Kanaphuet/Ishibashi def.  Damera/Vutukuru     61
+     R2  Damera/Vutukuru     def.  Beyebach/Omoworare  63
+     R1  Fitzgerald/Abyasova def.  Damera/Vutukuru     64
+     R1  Kanaphuet/Ishibashi def.  Beyebach/Omoworare  75
+ > Extra Matches
+  > Main
+     R2  Gerritsen/Kaszas    def.  Potsi/Zlatanovic    76(5)
+     R2  Kanaphuet/Ishibashi def.  Abyasova/Brodin     63
+     R1  Klevisar/Minetti    def.  Gerritsen/Kaszas    62
+~~~
+
 <a name="21-71605"></a>
 ~~~
 ══════════════════════════════════════════════════════════════
@@ -826,87 +860,6 @@
      16  Fliegner/Hammond  def.  Schurhamer/Bruetting 60
      16  Beavin/Balthazor  def.  Allen/Jones          63
      16  Atway/Schoenly    def.  Beavin/White         61
-~~~
-
-<a name="21-37198"></a>
-~~~
-═══════════════════════════════════════════════════════════════
-  Louisville Classic
-  Dates: Oct 29-31, 2021
-  Host: University Of Louisville (W)
-═══════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Friday 1
-  > Main
-     16  Schmidt/Gupta        def.  Simova/Verma        64
-     16  Di Palma/Sawyer      def.  Barnard/Mauro       62
-     16  Antonijevic/Kizelba… def.  Kaplan/Peeler       75
-     16  Jovicic/Nobbs        def.  Braun/Lukacs        64
-     16  Martin/Yergler       def.  Davies/Polishchuk   63
- > Friday 2
-  > Main
-     16  Verma/Di Palma       def.  Kaplan/Peeler       63
-     16  Chaika/Sawyer        def.  Braun/Lukacs        64
-     16  Polishchuk/Malykh    def.  Callwood/Richardson 61
-     16  Antonijevic/Kizelba… def.  Barnard/Barnard     63
-     16  Jovicic/Nobbs        def.  Schmidt/Gupta       60
- > Saturday 1
-  > Main
-     16  Verma/Di Palma       def.  Rand/Kizelbasheva   61
-     16  Chaika/Sawyer        def.  Jovicic/Nobbs       63
-     16  Callwood/Richardson  def.  Martin/Yergler      64
-     16  Barnard/Mauro        def.  Peeler/Davies       62
-     16  Braun/Lukacs         def.  Schmidt/Gupta       75
- > Saturday 2
-  > Main
-     16  Verma/Di Palma       def.  Barnard/Mauro       60
-     16  Schmidt/Gupta        def.  Chaika/Sawyer       75
-     16  Peeler/Davies        def.  Rand/Kizelbasheva   62
-     16  Kaplan/Braun         def.  Jovicic/Nobbs       75
-     16  Martin/Yergler       def.  Davies/Polishchuk   64
-~~~
-
-<a name="21-24286"></a>
-~~~
-══════════════════════════════════════════════════════════════
-  NIU Huskie Indoor Invitational
-  Dates: Oct 29-31, 2021
-  Host: Northern Illinois Univ. (W)
-══════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Flight 1 Doubles
-  > East
-      F  Lazarevic/Aly     def.  Stelse/Kuo          75
-     SF  Stelse/Kuo        def.  Rakita/Dimitriev    62
-     SF  Lazarevic/Aly     def.  Lukyanova/Welch     62
-     QF  Stelse/Kuo        def.  Smith/Salenko       64
-     QF  Rakita/Dimitriev  def.  Kmoskova/Havlickova 76(5)
-     QF  Lazarevic/Aly     def.  Flodin/Fitch        63
-     QF  Lukyanova/Welch   def.  Pukhaeva/Dukic      60
-  > West
-      F  Flodin/Fitch      def.  Smith/Salenko       62
-     SF  Smith/Salenko     def.  Kmoskova/Havlickova 76(7)
-     SF  Flodin/Fitch      def.  Pukhaeva/Dukic      63
- > Flight 2 Doubles
-  > East
-     SF  Odom/Le           def.  Naves/Dmitrieva     63
-     SF  Glozman/Chao      def.  Girbau/Skobkareva   62
-     QF  Naves/Dmitrieva   def.  Andres/Hughes       61
-     QF  Odom/Le           def.  Ross/Trella         63
-     QF  Glozman/Chao      def.  Sueflohn/Hills      61
-     QF  Girbau/Skobkareva def.  Kaminski/Robinson   64
-  > West
-      F  Ross/Trella       def.  Sueflohn/Hills      76(5)
-     SF  Ross/Trella       def.  Andres/Hughes       64
-     SF  Sueflohn/Hills    def.  Kaminski/Robinson   64
-  > South
-      F  Kaminski/Robinson def.  Andres/Hughes       62
- > Extra matches
-  > Main
-     QF  Lukyanova/Welch   def.  Havlickova/Bukina   75
-     QF  Pukhaeva/Dukic    def.  Rakita/Dimitriev    63
-     QF  Girbau/Skobkareva def.  Odom/Le             76(4)
-     QF  Glozman/Chao      def.  Naves/Dmitrieva     62
 ~~~
 
 <a name="21-30411"></a>

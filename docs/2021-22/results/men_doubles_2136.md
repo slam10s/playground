@@ -10,6 +10,7 @@
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
 - 9/10/2021 - [Orange Lawn Fall Invitational](#21-93144) ([Results](#21-93144) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Draws</a>)  
 - 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
+- 9/10/2021 - [Siena Invitational](#21-93292) ([Results](#21-93292) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Draws</a>)  
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
 - 9/11/2021 - [2021 CCIW Fall Invitational](#21-67914) ([Results](#21-67914) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillikinUniversityM/Tournaments/Overview/EC2D06D4-33B6-4D12-AD7F-0FFF3E553D26" target="_blank">Draws</a>)  
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
@@ -20,9 +21,6 @@
 - 9/10/2021 - [Warhawk Fall Invitational](#21-36572) ([Results](#21-36572) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterM/Tournaments/Overview/EDCD2730-6E69-4CC4-82FD-5E3EB6EAF692" target="_blank">Draws</a>)  
 - 9/11/2021 - [William Woods Invite](#21-24367) ([Results](#21-24367) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamWoodsUniversityM/Tournaments/Overview/925B6A52-D5D0-480C-B583-F75CA6B76374" target="_blank">Draws</a>)  
 - 9/11/2021 - [Wingate Fall Invitational](#21-22816) ([Results](#21-22816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WingateUniversityM/Tournaments/Overview/E3B491C0-6356-4819-8075-7AE9C5E452AD" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 9/10/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Siena Invitational</a>  
 
 <a name="21-56790"></a>
 ~~~
@@ -555,6 +553,45 @@
      QF  Botifoll Rius/Hjalte def.  Winters/Mosberger    64
      QF  Cahill/Nakayama      def.  Kyrillou/Wallace     61
      QF  Temming/Pennelli     def.  Fakouri/Ohl          64
+~~~
+
+<a name="21-93292"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Siena Invitational
+  Dates: Sep 10-11, 2021
+  Host: Siena College (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > Main
+      F  Drover-Mattinen/Saf… def.  Paiva/Pinho          61
+     SF  Paiva/Pinho          def.  Moro/Nardone         63
+     SF  Drover-Mattinen/Saf… def.  Godfrey-Seno/Lindqv… 61
+     QF  Moro/Nardone         def.  De Jaraiz/Salar Car… 63
+     QF  Paiva/Pinho          def.  Krishnan/Visnevskij  62
+     QF  Godfrey-Seno/Lindqv… def.  Suarez/del Olmo      63
+     16  Krishnan/Visnevskij  def.  Bedard/Masi          64
+     16  Drover-Mattinen/Saf… def.  Ganchi/Lovallo       62
+     16  Godfrey-Seno/Lindqv… def.  Komosinski/Salazar   60
+ > Flight B
+  > Main
+      F  Cvjetan/Foix Sotos   def.  Lohrbach/Yohannes    62
+     SF  Lohrbach/Yohannes    def.  Alonso/Goethlin      63
+     SF  Cvjetan/Foix Sotos   def.  Burnham/McMillan     75
+     QF  Lohrbach/Yohannes    def.  Naylor/Mityurin      63
+     QF  Alonso/Goethlin      def.  Ritchie/Wolfe        61
+     QF  Cvjetan/Foix Sotos   def.  Kuczynski/Tremblay   61
+     QF  Burnham/McMillan     def.  Fredriksson/Lachman… 61
+ > Flight C
+  > Main
+      F  Davila/Acri          def.  Yang/Wu              61
+     SF  Davila/Acri          def.  Grabuleda/Sanchez-F… 64
+     SF  Yang/Wu              def.  Coleman/Esslinger    60
+     QF  Davila/Acri          def.  Andrus/Vaca          63
+     QF  Grabuleda/Sanchez-F… def.  DAnna/Indrabalan     Walkover
+     QF  Yang/Wu              def.  Oberli/Yokoyama      62
+     QF  Coleman/Esslinger    def.  Fuentes/Ganeshan     60
 ~~~
 
 <a name="21-95655"></a>

@@ -519,10 +519,10 @@
  Women's Open Singles
  > Friday R1
   > East
-     32  Justine Leong        def.  Lindsey Zieglar      16 64 [9]
+     32  Justine Leong        def.  Lindsey Zieglar      61 46 [9]
      32  Natalija Popovic     def.  Sima Heren           63 63
      32  Ema Lazic            def.  Kiana Rizzolo        75 75
-     32  Yasmin Glazbrook     def.  Oihane Vicario       57 64 [5]
+     32  Oihane Vicario       def.  Yasmin Glazbrook     57 64 [5]
      32  Aino Alkio           def.  Emilija Kojcic       60 46 [9]
      32  Karin Hamilton       def.  Nirva Patel          63 64
      32  Bethany Yauch        def.  Nicole Hopman        64 63
@@ -536,7 +536,7 @@
      32  Emma Hultqvist       def.  Filippa Frogner      46 75 [5]
  > Friday R2
   > East
-     32  Sima Heren           def.  Justine Leong        63 60
+     32  Justine Leong        def.  Klara Mrcela         63 60
      32  Natalija Popovic     def.  Lindsey Zieglar      46 64 [7]
      32  Oihane Vicario       def.  Ema Lazic            64 64
      32  Yasmin Glazbrook     def.  Kiana Rizzolo        63 62

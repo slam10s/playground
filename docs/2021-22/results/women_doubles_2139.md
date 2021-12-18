@@ -4,7 +4,6 @@
 - 9/26/2021 - [Crimson Clash Invitational](#21-92387) ([Results](#21-92387) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/752CCDFE-B4CA-43BC-B2A3-ECA8A986B374" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
-- 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division II Women's Atlantic ITA Regional Championships](#21-02393) ([Results](#21-02393) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillersvilleUniversityW/Tournaments/Overview/AC190190-736B-4838-AE7A-A4CD92F079D3" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
@@ -185,65 +184,6 @@
      16Q     Jagger/Kwasnik       def.     Williams/Robichaud   Walkover
      16Q     Kohoutkova/Tuells B… def. (5) Amaro/Garcia         84
      16Q     Blanco Fernandez De… def.     Turro/Hartlohner     85
-~~~
-
-<a name="21-93790"></a>
-~~~
-════════════════════════════════════════════════════════════════════
-  Division II Men’s & Women's Southeast ITA Regional Championships
-  Dates: Sep 24-27, 2021
-  Host: ITA
-════════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Woman's Doubles
-  > Main
-      F (3) Jorge/Lippert        def.     Chamoun/Spice        85
-     SF     Chamoun/Spice        def. (9) Ramirez/Abrile       85
-     SF (3) Jorge/Lippert        def. (2) Schlagenhauf/Traub   85
-     QF (9) Ramirez/Abrile       def.     Robeson/Greer        83
-     QF     Chamoun/Spice        def. (9) Forrest/Price        86
-     QF (3) Jorge/Lippert        def. (7) Hrda/Rosberg         81
-     QF (2) Schlagenhauf/Traub   def. (9) Castaneda/Gonzalez   84
-     16     Robeson/Greer        def. (9) Mikael/Wise          82
-     16 (9) Ramirez/Abrile       def. (6) Nissen/Massardo      83
-     16 (9) Forrest/Price        def.     Axelsson/Veselinova  97
-     16     Chamoun/Spice        def. (9) Markvartova/Villanu… 98(2)
-     16 (7) Hrda/Rosberg         def. (9) Voloshyna/Weber      84
-     16 (3) Jorge/Lippert        def. (9) Richter/Fleming      82
-     16 (9) Castaneda/Gonzalez   def. (5) Ciaccia/Gunfaus      97
-     16 (2) Schlagenhauf/Traub   def.     Shing/Bowie          97
-     32     Robeson/Greer        def. (1) Linnikova/Zuddy      86
-     32 (9) Mikael/Wise          def.     Reeves/Speiser       85
-     32 (6) Nissen/Massardo      def.     Baechler/Loretz      82
-     32 (9) Ramirez/Abrile       def.     Schipper/Montserrat  80
-     32     Axelsson/Veselinova  def. (4) Ramirez/Ramon        82
-     32 (9) Forrest/Price        def.     Jipescu/Ascarrunz    85
-     32     Chamoun/Spice        def. (8) Aguirre/Alvarez Tel… 82
-     32 (9) Markvartova/Villanu… def.     Martincova/Karatant… 82
-     32 (9) Voloshyna/Weber      def.     Vaughan/Peterson     85
-     32 (7) Hrda/Rosberg         def.     Kharb/Aguirre        80
-     32 (9) Richter/Fleming      def.     Binzari/Macias       86
-     32 (3) Jorge/Lippert        def.     Harfield/Griffiths   84
-     32 (9) Castaneda/Gonzalez   def.     Castillon/Ghosh      82
-     32 (5) Ciaccia/Gunfaus      def.     Resende/Ulloa        83
-     32     Shing/Bowie          def. (9) Jacobs/Valtere       97
-     32 (2) Schlagenhauf/Traub   def.     Kosmrlj/Lopez        84
-     64     Robeson/Greer        def.     Hendricks/Aranyos    82
-     64     Reeves/Speiser       def.     Heed/Krieg           83
-     64     Baechler/Loretz      def.     Maher/Kronsbein      84
-     64     Schipper/Montserrat  def.     Batth/King           85
-     64     Axelsson/Veselinova  def.     Ferenczy/Bentz       82
-     64     Jipescu/Ascarrunz    def.     Freke/Wilson         84
-     64     Chamoun/Spice        def.     Valls Lopes/Dahlstr… 82
-     64     Martincova/Karatant… def.     Southwick/Luiz       97
-     64     Vaughan/Peterson     def.     Guerrero/Chistov     84
-     64     Kharb/Aguirre        def.     Ratiu/Dong           84
-     64     Binzari/Macias       def.     Labonte-Frey/Teteri… 86
-     64     Harfield/Griffiths   def.     Menyhart/Mitso       83
-     64     Castillon/Ghosh      def.     Kotsiou/Croes        82
-     64     Resende/Ulloa        def.     Wahlberg/Whelan      97
-     64     Shing/Bowie          def.     Floeth/Hansen        86
-     64     Kosmrlj/Lopez        def.     Labat/Bigotti        84
 ~~~
 
 <a name="21-02393"></a>

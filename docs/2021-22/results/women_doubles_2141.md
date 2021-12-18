@@ -7,7 +7,6 @@
 - 10/14/2021 - [ITA Division I Women's Northeast Regional Championship](#21-91243) ([Results](#21-91243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
-- 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
 - 10/15/2021 - [Martha Thorn Invitational](#21-82907) ([Results](#21-82907) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Draws</a>)  
 - 10/15/2021 - [Viking Invitational](#21-40542) ([Results](#21-40542) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Draws</a>)  
 - 10/16/2021 - [2021 Midwest Conference Women's Tennis Individual Tournament](#21-17879) ([Results](#21-17879) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">Draws</a>)  
@@ -361,62 +360,6 @@
      64      Meredith/Arseneault  def.      Aoki/van der Merwe   87(4)
      64      Ferreira da Silva/R… def.      Walther/Theis        81
      64      Khokhlova/Widing     def.      Taknishi/Pasanen     86
-~~~
-
-<a name="21-76092"></a>
-~~~
-═════════════════════════════════════════════════════════════════════════
-  ITA Division I Women's Texas Regional Championship
-  Dates: Oct 14-18, 2021
-  Host: Texas Christian University (W)
-═════════════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Draw
-  > Main
-      F  (2) Herrero Linana/Kryw… def.  (1) Makarova/Goldsmith   75 75
-     SF  (1) Makarova/Goldsmith   def.  (5) Chavatipon/Collns    76(3) 64
-     SF  (2) Herrero Linana/Kryw… def.      Adams/Devier         62 62
-     QF  (1) Makarova/Goldsmith   def.  (7) Keberle/Bartolome    86
-     QF  (5) Chavatipon/Collns    def. (14) Orav/Smirnova        80
-     QF      Adams/Devier         def. (10) Baranano/Zamburek    85
-     QF  (2) Herrero Linana/Kryw… def. (12) El Jardi/Trevisan    85
-     16  (1) Makarova/Goldsmith   def. (16) Cortijo Parreno/Tre… 86
-     16  (7) Keberle/Bartolome    def.      Fulgenzi/Fulgenzi    81
-     16  (5) Chavatipon/Collns    def. (11) Skriabina/Tiglea     86
-     16 (14) Orav/Smirnova        def.      Gorinsek/Chileno     85
-     16      Adams/Devier         def. (13) Komac/Main           84
-     16 (10) Baranano/Zamburek    def.  (6) Pielet/Stoiana       87(7)
-     16 (12) El Jardi/Trevisan    def.  (8) Evans/Sayfetdinova   87(9)
-     16  (2) Herrero Linana/Kryw… def. (15) Dzemeshkevich/Pedem… 85
-     32  (1) Makarova/Goldsmith   def.      Peet/Stepp           83
-     32 (16) Cortijo Parreno/Tre… def.      Vutukuru/Basson      82
-     32      Fulgenzi/Fulgenzi    def.  (9) Smirnova/Zipoli      86
-     32  (7) Keberle/Bartolome    def.      Reinertsen/Jimenez   83
-     32  (5) Chavatipon/Collns    def.      Zlatarova/Weir       83
-     32 (11) Skriabina/Tiglea     def.      Vehvilainen/Oyama    81
-     32 (14) Orav/Smirnova        def.      Kortikere/Cusano     80
-     32      Gorinsek/Chileno     def.  (3) Nylander/Doyle       85
-     32      Adams/Devier         def.  (4) Zamarripa/Zamarripa  Walkover
-     32 (13) Komac/Main           def.      Huth/Jakeway         86
-     32 (10) Baranano/Zamburek    def.      Pons/Novikova        87(6)
-     32  (6) Pielet/Stoiana       def.      McCain/Starr         83
-     32  (8) Evans/Sayfetdinova   def.      Honore/Aucagne       82
-     32 (12) El Jardi/Trevisan    def.      Kalava/Hummel        80
-     32 (15) Dzemeshkevich/Pedem… def.      Morris/Mavor         86
-     32  (2) Herrero Linana/Kryw… def.      Kvapilova/Israel-Le… 84
-     64      Peet/Stepp           def.      Townsend/Shumeika    85
-     64      Fulgenzi/Fulgenzi    def.      Zhou/Ponomareva      82
-     64      Reinertsen/Jimenez   def.      Fortuno/Chan         83
-     64      Zlatarova/Weir       def.      Guerrero/Mocciola    84
-     64      Vehvilainen/Oyama    def.      Malazonia/McCutcheon 83
-     64      Gorinsek/Chileno     def.      Slisane/Giraldo      86
-     64      Adams/Devier         def.      Stewart/Crisologo    84
-     64      Pons/Novikova        def.      Kauders/Cerda        82
-     64      McCain/Starr         def.      Zivkovic/Damera      Walkover
-     64      Honore/Aucagne       def.      Chobanyan/Kaszas     84
-     64      Kalava/Hummel        def.      Omoworare/Beyebach   83
-     64      Morris/Mavor         def.      Marcinkevica/Makant… 85
-     64      Kvapilova/Israel-Le… def.      Horiguchi/Dumitrescu 82
 ~~~
 
 <a name="21-82907"></a>

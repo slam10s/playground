@@ -4,7 +4,6 @@
 - 9/26/2021 - [Bobby Bayliss Invitational](#21-15825) ([Results](#21-15825) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNotreDameM/Tournaments/Overview/772A5D00-C1F2-4758-8876-D10A5F7DA5EF" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Men's Ohio Valley Regional Championship](#21-20374) ([Results](#21-20374) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
-- 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 10/1/2021 - [Aggie Invitational](#21-92523) ([Results](#21-92523) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaDavisM/Tournaments/Overview/8C1469E6-3A8C-48A5-A340-2EB9734F03E4" target="_blank">Draws</a>)  
 - 10/1/2021 - [Arizona Wildcat Invitational](#21-91278) ([Results](#21-91278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Draws</a>)  
 - 10/1/2021 - [Beeman/Drobac Invite](#21-89128) ([Results](#21-89128) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Draws</a>)  
@@ -31,6 +30,7 @@
 - 10/1/2021 - [Division III Men’s Southeast ITA Regional Championships](#21-50059) ([Results](#21-50059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonM/Tournaments/Overview/8701EF80-DDC5-4BB0-861B-552EB3F1C862" target="_blank">Draws</a>)  
 - 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
+- 10/1/2021 - [NAIA Men's & Women’s Gulf ITA Regional Championships](#21-33851) ([Results](#21-33851) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's Midwest ITA Regional Championships](#21-24046) ([Results](#21-24046) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
 - 10/2/2021 - [Panther Classic](#21-52083) ([Results](#21-52083) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/BA2B3B31-CD0C-40C8-96BC-A0F69FEED591" target="_blank">Draws</a>)  
@@ -38,7 +38,6 @@
 
 **Tournaments without Matches**  
 - 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
 
 <a name="21-15825"></a>
 ~~~
@@ -239,65 +238,6 @@
      16Q     Buettner/Rodriguez  def. (4) Ortiz Couder/Guedy  83
      16Q     Bucurescu/Baumann   def.     Fok Kow/Altman      Walkover
      16Q     Martinez/Salton     def.     Binaghi/Velloso     83
-~~~
-
-<a name="21-93790"></a>
-~~~
-════════════════════════════════════════════════════════════════════
-  Division II Men’s & Women's Southeast ITA Regional Championships
-  Dates: Sep 24-27, 2021
-  Host: ITA
-════════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Men's Doubles Draw
-  > Main
-      F (1) Regalado/Cueto Ramos def. (3) Schold/Martinetti    84
-     SF (1) Regalado/Cueto Ramos def.     Can Wijk/Cary        81
-     SF (3) Schold/Martinetti    def.     Gaskin/Murillo       97
-     QF (1) Regalado/Cueto Ramos def. (6) Benoit/Waldow        82
-     QF     Can Wijk/Cary        def. (9) Brainard/Osap        86
-     QF (3) Schold/Martinetti    def. (7) Del Granado/Lemken   83
-     QF     Gaskin/Murillo       def. (2) Garay/Steen          97
-     16 (1) Regalado/Cueto Ramos def. (9) Golindano/Stafford   82
-     16 (6) Benoit/Waldow        def.     Constantino/Nokic    83
-     16     Can Wijk/Cary        def. (9) Jankulovski/Waterbo… 85
-     16 (9) Brainard/Osap        def. (5) Danielsson/Regner    83
-     16 (7) Del Granado/Lemken   def. (9) Evenson/Sassi        86
-     16 (3) Schold/Martinetti    def. (9) Medeiros/Garcia Gil  82
-     16     Gaskin/Murillo       def. (8) Atkinson/Alvestrand  83
-     16 (2) Garay/Steen          def. (9) De Groot/Horne       86
-     32 (1) Regalado/Cueto Ramos def.     Cola/Sjokvist        83
-     32 (9) Golindano/Stafford   def.     Tatyanin/Holzmann    97
-     32 (6) Benoit/Waldow        def.     Selde/Cox            83
-     32     Constantino/Nokic    def. (9) Bonacia/Subanovic    82
-     32     Can Wijk/Cary        def. (4) Bottino/Cecere       86
-     32 (9) Jankulovski/Waterbo… def.     Pudney/Kenzlers      84
-     32 (5) Danielsson/Regner    def.     Winter/Macmillian    81
-     32 (9) Brainard/Osap        def.     Blavignat/Bivol      84
-     32 (9) Evenson/Sassi        def.     Walcher/Brown        83
-     32 (7) Del Granado/Lemken   def.     Crepy/De Negri       82
-     32 (9) Medeiros/Garcia Gil  def.     Schomburg/Friedland  83
-     32 (3) Schold/Martinetti    def.     Janse/Hordijk        80
-     32     Gaskin/Murillo       def. (9) Ferreira/Nunez       86
-     32 (8) Atkinson/Alvestrand  def.     Malirz/Cizek         83
-     32 (9) De Groot/Horne       def.     Oka/Dulganov         83
-     32 (2) Garay/Steen          def.     Grasmuck/Maria       82
-     64     Cola/Sjokvist        def.     Bodson/Ernberg       84
-     64     Tatyanin/Holzmann    def.     Stahlbrand/Agudelo   86
-     64     Selde/Cox            def.     Luque/Minguez Ribera 86
-     64     Constantino/Nokic    def.     Grosset/Kimaszweski  82
-     64     Can Wijk/Cary        def.     Mendoza/Schiltz      84
-     64     Pudney/Kenzlers      def.     Hermans/Jonsson      84
-     64     Winter/Macmillian    def.     Badran/Sreekumar     97
-     64     Blavignat/Bivol      def.     Komada/Sergi         86
-     64     Walcher/Brown        def.     Day/Lloyd-Evans      83
-     64     Crepy/De Negri       def.     Hernandez/Hemmings   98
-     64     Schomburg/Friedland  def.     Lopes Polesi/Marche… 85
-     64     Janse/Hordijk        def.     Kush/Cabo            83
-     64     Gaskin/Murillo       def.     Eldin/Kondou         98(3)
-     64     Malirz/Cizek         def.     Decaluwe/Keane       85
-     64     Oka/Dulganov         def.     Crespo/Makhanya      98(5)
-     64     Grasmuck/Maria       def.     Hernandez Gonzalez/… 81
 ~~~
 
 <a name="21-92523"></a>
@@ -1734,6 +1674,33 @@
      QF     Frank/McCullough     def.     Owens/Schaumberg     82
      QQ     Walker/Willoughby    def.     Garrett/Lyons        84
      QQ     King/Akins           def.     Taylor/Turner        83
+~~~
+
+<a name="21-33851"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  NAIA Men's & Women’s Gulf ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: Xavier University/LA (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Men's Doubles
+  > Main
+      F (1) Bresson/Klimov       def. (3) Bain/Ramirez         62 63
+     SF (1) Bresson/Klimov       def.     Huauya/Silva         84
+     SF (3) Bain/Ramirez         def.     Caleguer/Tillger     98(5)
+     QF (1) Bresson/Klimov       def.     Hernandez/Van Amero… 84
+     QF     Huauya/Silva         def. (4) Arce Vieyra/Duchier  85
+     QF (3) Bain/Ramirez         def.     Martinez/DeLaCarrera 84
+     QF     Caleguer/Tillger     def. (2) Velasco/Oviedo       83
+     16 (1) Bresson/Klimov       def.     Moore/Mohan          82
+     16     Hernandez/Van Amero… def.     Aure/Cheung          98(4)
+     16     Huauya/Silva         def.     Coiras/Ray           85
+     16 (4) Arce Vieyra/Duchier  def.     Tsati-Onla/Munoz     86
+     16 (3) Bain/Ramirez         def.     Ajievi/Schon         81
+     16     Martinez/DeLaCarrera def.     Marin/Rodriguez Tob… Walkover
+     16     Caleguer/Tillger     def.     Banken/Motazed       82
+     16 (2) Velasco/Oviedo       def.     Garner/Garcia        83
 ~~~
 
 <a name="21-24046"></a>

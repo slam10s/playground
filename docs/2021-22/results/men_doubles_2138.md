@@ -23,7 +23,6 @@
 - 9/24/2021 - [American Rivers Conference Men's Individual Tournament](#21-25873) ([Results](#21-25873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/63F6590C-8978-4423-B779-D29954A953E1" target="_blank">Draws</a>)  
 - 9/24/2021 - [Carnegie Mellon Invitational](#21-08232) ([Results](#21-08232) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarnegieMellonUniversityM/Tournaments/Overview/EB249D64-D6C7-4889-92CD-B7BE260DA2D6" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
-- 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s Midwest ITA Regional Championships](#21-17274) ([Results](#21-17274) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GrandValleyStateUnivM/Tournaments/Overview/26DF39F0-F2D2-497F-BD96-DD51F691B038" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Men's South ITA Regional Championships](#21-74251) ([Results](#21-74251) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BerryCollegeM/Tournaments/Overview/CC92D4A0-BB0F-49D9-B0D3-36812E68174B" target="_blank">Draws</a>)  
 - 9/23/2021 - [Division III Men's Southwest ITA Regional Championships](#21-59346) ([Results](#21-59346) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TrinityUniversityM/Tournaments/Overview/7E4A065E-3568-4C36-BAA5-012DA232FED0" target="_blank">Draws</a>)  
@@ -1186,65 +1185,6 @@
      16Q     Buettner/Rodriguez  def. (4) Ortiz Couder/Guedy  83
      16Q     Bucurescu/Baumann   def.     Fok Kow/Altman      Walkover
      16Q     Martinez/Salton     def.     Binaghi/Velloso     83
-~~~
-
-<a name="21-93790"></a>
-~~~
-════════════════════════════════════════════════════════════════════
-  Division II Men’s & Women's Southeast ITA Regional Championships
-  Dates: Sep 24-27, 2021
-  Host: ITA
-════════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Men's Doubles Draw
-  > Main
-      F (1) Regalado/Cueto Ramos def. (3) Schold/Martinetti    84
-     SF (1) Regalado/Cueto Ramos def.     Can Wijk/Cary        81
-     SF (3) Schold/Martinetti    def.     Gaskin/Murillo       97
-     QF (1) Regalado/Cueto Ramos def. (6) Benoit/Waldow        82
-     QF     Can Wijk/Cary        def. (9) Brainard/Osap        86
-     QF (3) Schold/Martinetti    def. (7) Del Granado/Lemken   83
-     QF     Gaskin/Murillo       def. (2) Garay/Steen          97
-     16 (1) Regalado/Cueto Ramos def. (9) Golindano/Stafford   82
-     16 (6) Benoit/Waldow        def.     Constantino/Nokic    83
-     16     Can Wijk/Cary        def. (9) Jankulovski/Waterbo… 85
-     16 (9) Brainard/Osap        def. (5) Danielsson/Regner    83
-     16 (7) Del Granado/Lemken   def. (9) Evenson/Sassi        86
-     16 (3) Schold/Martinetti    def. (9) Medeiros/Garcia Gil  82
-     16     Gaskin/Murillo       def. (8) Atkinson/Alvestrand  83
-     16 (2) Garay/Steen          def. (9) De Groot/Horne       86
-     32 (1) Regalado/Cueto Ramos def.     Cola/Sjokvist        83
-     32 (9) Golindano/Stafford   def.     Tatyanin/Holzmann    97
-     32 (6) Benoit/Waldow        def.     Selde/Cox            83
-     32     Constantino/Nokic    def. (9) Bonacia/Subanovic    82
-     32     Can Wijk/Cary        def. (4) Bottino/Cecere       86
-     32 (9) Jankulovski/Waterbo… def.     Pudney/Kenzlers      84
-     32 (5) Danielsson/Regner    def.     Winter/Macmillian    81
-     32 (9) Brainard/Osap        def.     Blavignat/Bivol      84
-     32 (9) Evenson/Sassi        def.     Walcher/Brown        83
-     32 (7) Del Granado/Lemken   def.     Crepy/De Negri       82
-     32 (9) Medeiros/Garcia Gil  def.     Schomburg/Friedland  83
-     32 (3) Schold/Martinetti    def.     Janse/Hordijk        80
-     32     Gaskin/Murillo       def. (9) Ferreira/Nunez       86
-     32 (8) Atkinson/Alvestrand  def.     Malirz/Cizek         83
-     32 (9) De Groot/Horne       def.     Oka/Dulganov         83
-     32 (2) Garay/Steen          def.     Grasmuck/Maria       82
-     64     Cola/Sjokvist        def.     Bodson/Ernberg       84
-     64     Tatyanin/Holzmann    def.     Stahlbrand/Agudelo   86
-     64     Selde/Cox            def.     Luque/Minguez Ribera 86
-     64     Constantino/Nokic    def.     Grosset/Kimaszweski  82
-     64     Can Wijk/Cary        def.     Mendoza/Schiltz      84
-     64     Pudney/Kenzlers      def.     Hermans/Jonsson      84
-     64     Winter/Macmillian    def.     Badran/Sreekumar     97
-     64     Blavignat/Bivol      def.     Komada/Sergi         86
-     64     Walcher/Brown        def.     Day/Lloyd-Evans      83
-     64     Crepy/De Negri       def.     Hernandez/Hemmings   98
-     64     Schomburg/Friedland  def.     Lopes Polesi/Marche… 85
-     64     Janse/Hordijk        def.     Kush/Cabo            83
-     64     Gaskin/Murillo       def.     Eldin/Kondou         98(3)
-     64     Malirz/Cizek         def.     Decaluwe/Keane       85
-     64     Oka/Dulganov         def.     Crespo/Makhanya      98(5)
-     64     Grasmuck/Maria       def.     Hernandez Gonzalez/… 81
 ~~~
 
 <a name="21-17274"></a>
