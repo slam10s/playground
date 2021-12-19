@@ -15,6 +15,8 @@
 - 10/28/2021 - [Elon Fall Invitational](#21-68401) ([Results](#21-68401) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/B76018BD-020B-4CA4-B187-EAD89C442CF1" target="_blank">Draws</a>)  
 - 10/29/2021 - [FIU Invitational](#21-24854) ([Results](#21-24854) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaInternationalUniversityW/Tournaments/Overview/DC0B1ECE-D5B6-4983-94E2-C29683FA88CF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gamecock Shootout](#21-95444) ([Results](#21-95444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3" target="_blank">Draws</a>)  
+- 10/29/2021 - [Louisville Classic](#21-37198) ([Results](#21-37198) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F" target="_blank">Draws</a>)  
+- 10/29/2021 - [NIU Huskie Indoor Invitational](#21-24286) ([Results](#21-24286) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD" target="_blank">Draws</a>)  
 - 10/28/2021 - [Rice Invite](#21-30411) ([Results](#21-30411) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5" target="_blank">Draws</a>)  
 - 10/29/2021 - [Roberta Alison Fall Classic](#21-82687) ([Results](#21-82687) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/A813BA35-1C75-462A-9761-BB2A30EDCEAA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Rocket Invite- The Sequel](#21-55677) ([Results](#21-55677) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1A1A3EB3-6BAB-40DC-BCA0-717FC0084EFA" target="_blank">Draws</a>)  
@@ -860,6 +862,87 @@
      16  Fliegner/Hammond  def.  Schurhamer/Bruetting 60
      16  Beavin/Balthazor  def.  Allen/Jones          63
      16  Atway/Schoenly    def.  Beavin/White         61
+~~~
+
+<a name="21-37198"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  Louisville Classic
+  Dates: Oct 29-31, 2021
+  Host: University Of Louisville (W)
+═══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Friday 1
+  > Main
+     16  Schmidt/Gupta        def.  Simova/Verma        64
+     16  Di Palma/Sawyer      def.  Barnard/Mauro       62
+     16  Antonijevic/Kizelba… def.  Kaplan/Peeler       75
+     16  Jovicic/Nobbs        def.  Braun/Lukacs        64
+     16  Martin/Yergler       def.  Davies/Polishchuk   63
+ > Friday 2
+  > Main
+     16  Verma/Di Palma       def.  Kaplan/Peeler       63
+     16  Chaika/Sawyer        def.  Braun/Lukacs        64
+     16  Polishchuk/Malykh    def.  Callwood/Richardson 61
+     16  Antonijevic/Kizelba… def.  Barnard/Barnard     63
+     16  Jovicic/Nobbs        def.  Schmidt/Gupta       60
+ > Saturday 1
+  > Main
+     16  Verma/Di Palma       def.  Rand/Kizelbasheva   61
+     16  Chaika/Sawyer        def.  Jovicic/Nobbs       63
+     16  Callwood/Richardson  def.  Martin/Yergler      64
+     16  Barnard/Mauro        def.  Peeler/Davies       62
+     16  Braun/Lukacs         def.  Schmidt/Gupta       75
+ > Saturday 2
+  > Main
+     16  Verma/Di Palma       def.  Barnard/Mauro       60
+     16  Schmidt/Gupta        def.  Chaika/Sawyer       75
+     16  Peeler/Davies        def.  Rand/Kizelbasheva   62
+     16  Kaplan/Braun         def.  Jovicic/Nobbs       75
+     16  Martin/Yergler       def.  Davies/Polishchuk   64
+~~~
+
+<a name="21-24286"></a>
+~~~
+══════════════════════════════════════════════════════════════
+  NIU Huskie Indoor Invitational
+  Dates: Oct 29-31, 2021
+  Host: Northern Illinois Univ. (W)
+══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight 1 Doubles
+  > East
+      F  Lazarevic/Aly     def.  Stelse/Kuo          75
+     SF  Stelse/Kuo        def.  Rakita/Dimitriev    62
+     SF  Lazarevic/Aly     def.  Lukyanova/Welch     62
+     QF  Stelse/Kuo        def.  Smith/Salenko       64
+     QF  Rakita/Dimitriev  def.  Kmoskova/Havlickova 76(5)
+     QF  Lazarevic/Aly     def.  Flodin/Fitch        63
+     QF  Lukyanova/Welch   def.  Pukhaeva/Dukic      60
+  > West
+      F  Flodin/Fitch      def.  Smith/Salenko       62
+     SF  Smith/Salenko     def.  Kmoskova/Havlickova 76(7)
+     SF  Flodin/Fitch      def.  Pukhaeva/Dukic      63
+ > Flight 2 Doubles
+  > East
+     SF  Odom/Le           def.  Naves/Dmitrieva     63
+     SF  Glozman/Chao      def.  Girbau/Skobkareva   62
+     QF  Naves/Dmitrieva   def.  Andres/Hughes       61
+     QF  Odom/Le           def.  Ross/Trella         63
+     QF  Glozman/Chao      def.  Sueflohn/Hills      61
+     QF  Girbau/Skobkareva def.  Kaminski/Robinson   64
+  > West
+      F  Ross/Trella       def.  Sueflohn/Hills      76(5)
+     SF  Ross/Trella       def.  Andres/Hughes       64
+     SF  Sueflohn/Hills    def.  Kaminski/Robinson   64
+  > South
+      F  Kaminski/Robinson def.  Andres/Hughes       62
+ > Extra matches
+  > Main
+     QF  Lukyanova/Welch   def.  Havlickova/Bukina   75
+     QF  Pukhaeva/Dukic    def.  Rakita/Dimitriev    63
+     QF  Girbau/Skobkareva def.  Odom/Le             76(4)
+     QF  Glozman/Chao      def.  Naves/Dmitrieva     62
 ~~~
 
 <a name="21-30411"></a>

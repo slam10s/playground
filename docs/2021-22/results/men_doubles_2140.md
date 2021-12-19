@@ -6,6 +6,7 @@
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 - 10/8/2021 - [2021 UCSB Fall Classic](#21-88210) ([Results](#21-88210) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C" target="_blank">Draws</a>)  
 - 10/8/2021 - [5th Annual REDBIRD INVITATIONAL](#21-90248) ([Results](#21-90248) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B" target="_blank">Draws</a>)  
+- 10/7/2021 - [Bulldawg Invitational](#21-11157) ([Results](#21-11157) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556" target="_blank">Draws</a>)  
 - 10/8/2021 - [Clemson Hidden Duals](#21-41768) ([Results](#21-41768) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClemsonUniversityM/Tournaments/Overview/FA5825C1-E156-45E3-AB26-60077E129770" target="_blank">Draws</a>)  
 - 10/8/2021 - [Florida Division I - Bedford Cup, Men 2021](#21-80207) ([Results](#21-80207) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683" target="_blank">Draws</a>)  
 - 10/8/2021 - [Loyola Classic](#21-67948) ([Results](#21-67948) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F" target="_blank">Draws</a>)  
@@ -395,6 +396,66 @@
      32  Staff/Ecarma         def.  Balthazor/Jauch      83
      32  Chang/Isaksson       def.  Riera/Pilipovic-Klj… 81
      32  Pultz/Ulrich         def.  Marri/Sadowski       81
+~~~
+
+<a name="21-11157"></a>
+~~~
+══════════════════════════════════════════════════════════════════════
+  Bulldawg Invitational
+  Dates: Oct 7-10, 2021
+  Host: University Of Georgia (M)
+══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles Magill Draw
+  > East
+      F     Ross/Galka          def. (2) Martin/Danilchenko   81
+     SF     Ross/Galka          def.     Diaz/Wallner         87(6)
+     SF (2) Martin/Danilchenko  def.     Perez Pena/Johnston  85
+     QF     Ross/Galka          def.     Paulsell/Grevelius   85
+     QF     Diaz/Wallner        def.     Troost/Ross          85
+     QF     Perez Pena/Johnston def.     Guerrero/Schelcher   85
+     QF (2) Martin/Danilchenko  def.     Beasley/Story        87(5)
+  > West
+      F     Beasley/Story       def.     Paulsell/Grevelius   81
+     SF     Paulsell/Grevelius  def.     Troost/Ross          86
+     SF     Beasley/Story       def.     Guerrero/Schelcher   85
+  > 3-4 Playoff
+      F     Diaz/Wallner        def.     Perez Pena/Johnston  86
+  > South
+      F     Troost/Ross         def.     Guerrero/Schelcher   83
+ > Doubles Red Draw
+  > East
+      F (2) Cadonau/Engelhardt  def.     Rasamatov/Innocenti  86
+     SF     Rasamatov/Innocenti def.     Debru/Gray           87(4)
+     SF (2) Cadonau/Engelhardt  def.     Jankulovski/Aubone   86
+     QF     Debru/Gray          def.     Vasser/Jalif         86
+     QF     Rasamatov/Innocenti def.     Klopper/Robb-Wilcox  83
+     QF     Jankulovski/Aubone  def.     Savva/Sokolovskiy    85
+     QF (2) Cadonau/Engelhardt  def.     Falck/Mallory        86
+  > West
+      F     Klopper/Robb-Wilcox def.     Falck/Mallory        84
+     SF     Klopper/Robb-Wilcox def.     Vasser/Jalif         82
+     SF     Falck/Mallory       def.     Savva/Sokolovskiy    84
+  > 3-4 Playoff
+      F     Jankulovski/Aubone  def.     Debru/Gray           81
+  > South
+      F     Savva/Sokolovskiy   def.     Vasser/Jalif         Walkover
+ > Doubles Black Draw
+  > East
+      F     Connel/Mitric       def. (2) Roelofse/Westling    84
+     SF     Connel/Mitric       def. (1) Pelletier/Morgan     Walkover
+     SF (2) Roelofse/Westling   def.     Ilie/Quiles          84
+     QF     Connel/Mitric       def.     Guerrero Alvarez/Ta… 86
+     QF     Ilie/Quiles         def.     Simon/Vannemreddy    Walkover
+     QF (2) Roelofse/Westling   def.     Dransfeld/Sandoval   82
+  > West
+      F     Dransfeld/Sandoval  def.     Guerrero Alvarez/Ta… 85
+     SF     Dransfeld/Sandoval  def.     Simon/Vannemreddy    Walkover
+  > 3-4 Playoff
+      F     Ilie/Quiles         def. (1) Pelletier/Morgan     Walkover
+ > Doubles Extra Matches
+  > Main
+      F     Savva/Sokolovskiy   def.     Guerrero Alvarez/Ta… 84
 ~~~
 
 <a name="21-41768"></a>
