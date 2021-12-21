@@ -18,7 +18,6 @@
 - 10/23/2021 - [MIT Classic](#21-15791) ([Results](#21-15791) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/7E100217-7269-401A-99AA-F3C782FC0593" target="_blank">Draws</a>)  
 - 10/22/2021 - [MIT Invite](#21-83746) ([Results](#21-83746) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">Draws</a>)  
 - 10/22/2021 - [MSU Invitational](#21-16812) ([Results](#21-16812) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">Draws</a>)  
-- 10/22/2021 - [YTF Southeastern Invitational](#21-42214) ([Results](#21-42214) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">Draws</a>)  
 
 <a name="21-34853"></a>
 ~~~
@@ -179,11 +178,11 @@
 
 <a name="21-67380"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Southern Regional Championship
   Dates: Oct 14-19, 2021
   Host: Auburn University (M)
-═══════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main Draw
   > Main
@@ -351,11 +350,11 @@
 
 <a name="21-65872"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   Islander Open
   Dates: Oct 22-24, 2021
   Host: Texas A&M University, Corpus Christi (M)
-══════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > East
@@ -391,11 +390,11 @@
 
 <a name="21-69139"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Super Regional Championship
   Dates: Oct 22-25, 2021
   Host: Old Dominion University (M)
-══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main draw
   > Main
@@ -492,11 +491,11 @@
 
 <a name="21-42333"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Carolina Regional Championship
   Dates: Oct 22-26, 2021
   Host: Duke University (M)
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main Draw
   > Main
@@ -695,11 +694,11 @@
 
 <a name="21-50726"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Central Regional Championship
   Dates: Oct 21-25, 2021
   Host: University Of Nebraska (M)
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
@@ -851,11 +850,11 @@
 
 <a name="21-68953"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Midwest Regional Championship
   Dates: Oct 21-25, 2021
   Host: Michigan State University (M)
-══════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main Draw
   > Main
@@ -1070,11 +1069,11 @@
 
 <a name="21-64282"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Southeast Regional Championship
   Dates: Oct 21-25, 2021
   Host: University of Florida (M)
-════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main Singles
   > Main
@@ -1218,11 +1217,11 @@
 
 <a name="21-55204"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Southwest Regional Championship
   Dates: Oct 21-25, 2021
   Host: Pepperdine University (M)
-═════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
@@ -1411,11 +1410,11 @@
 
 <a name="21-19659"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   UNA Men's Classic
   Dates: Oct 23-23, 2021
   Host: University Of North Alabama (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
@@ -1429,11 +1428,11 @@
 
 <a name="21-41693"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Crusader Invitational
   Dates: Oct 21-22, 2021
   Host: Belmont Abbey College (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > BAC 1 vs QU 1
   > Main
@@ -1499,11 +1498,11 @@
 
 <a name="21-28500"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   Eagle Invitational
   Dates: Oct 22-23, 2021
   Host: Carson-Newman University (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > East
@@ -1590,11 +1589,11 @@
 
 <a name="21-93512"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   GSC Fall Individual Tournament
   Dates: Oct 22-24, 2021
   Host: University Of West Alabama (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw 3
   > Main
@@ -1719,11 +1718,11 @@
 
 <a name="21-15791"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   MIT Classic
   Dates: Oct 23-24, 2021
   Host: Massachusetts Inst. Of Tech. (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Round 1
   > Main
@@ -1774,11 +1773,11 @@
 
 <a name="21-83746"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
   MIT Invite
   Dates: Oct 22-22, 2021
   Host: Massachusetts Inst. Of Tech. (M)
-══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > MIT Invite Singles
   > Main
@@ -1816,11 +1815,11 @@
 
 <a name="21-16812"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   MSU Invitational
   Dates: Oct 22-23, 2021
   Host: Midwestern State Univ. (M)
-══════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Singles Flight 1
   > Main
@@ -1914,110 +1913,6 @@
  > Singles Extra 4
   > Main
       F  Stefan Andrei        def.  Jonah Neumaier       61 62
-~~~
-
-<a name="21-42214"></a>
-~~~
-═══════════════════════════════════════════════════════════════════════════════
-  YTF Southeastern Invitational
-  Dates: Oct 22-24, 2021
-  Host: Southeastern University (M)
-═══════════════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > Black
-  > Main
-       F (1) Bruno Pessoa         def. (3) Fernando Alejandro … 62 64
-      SF (1) Bruno Pessoa         def. (4) Nicholas Hofmeister  62 64
-      SF (3) Fernando Alejandro … def. (7) Bernardo Tajada      63 64
-      QF (1) Bruno Pessoa         def. (8) Roy Stepanov         63 75
-      QF (4) Nicholas Hofmeister  def.     Thomas Andrews       60 26 [1]
-      QF (3) Fernando Alejandro … def. (6) Victor De Oliveira   63 63
-      QF (7) Bernardo Tajada      def. (2) Federico Barbon      Walkover
-      16 (1) Bruno Pessoa         def.     Enrique Martinez     62 61
-      16 (8) Roy Stepanov         def.     Jerry Makela         61 62
-      16     Thomas Andrews       def.     Raul Safont Martinez 62 64
-      16 (4) Nicholas Hofmeister  def.     Richard Freemann     63 75
-      16 (3) Fernando Alejandro … def.     Theodore Preiswerk   64 64
-      16 (6) Victor De Oliveira   def.     Guilherme Bento      75 64
-      16 (7) Bernardo Tajada      def.     Christian Della Cio… 76(5) 62
-      16 (2) Federico Barbon      def.     Juan Patino Pabon    62 62
-      32     Enrique Martinez     def.     Tom Alias            76(5) 64
-      32     Jerry Makela         def.     Juan Ignacio Garcia  61 75
-      32 (8) Roy Stepanov         def.     Alessandro Tabares   63 64
-      32     Raul Safont Martinez def. (5) Sebastian Grijalva   61 76(5)
-      32     Thomas Andrews       def.     Sebastian Fujita     36 61 [12]
-      32     Richard Freemann     def.     Diego Menendez Vina  63 36 [11]
-      32 (4) Nicholas Hofmeister  def.     Lucas Ribas          61 60
-      32 (3) Fernando Alejandro … def.     Filipe Gil           62 63
-      32     Theodore Preiswerk   def.     Sebastian Mezo       64 60
-      32     Guilherme Bento      def.     Jacob Turley         67(4) 76(2) [5]
-      32 (6) Victor De Oliveira   def.     Davide Pelletti      63 46 [2]
-      32 (7) Bernardo Tajada      def.     Carlos Thireau       61 36 [6]
-      32     Christian Della Cio… def.     Adria Aguilar Guerr… 62 62
-      32     Juan Patino Pabon    def.     Felipe Amorim        60 63
-  > Consolation
-       F     Jacob Turley         def.     Tom Alias            43 43
-      SF     Tom Alias            def.     Diego Menendez Vina  41 41
-      SF     Jacob Turley         def.     Carlos Thireau       41 43
-      QF     Tom Alias            def.     Alessandro Tabares   34 43 [4]
-      QF     Diego Menendez Vina  def. (5) Sebastian Grijalva   34 40 [5]
-      QF     Jacob Turley         def.     Sebastian Mezo       42 34 [8]
-      QF     Carlos Thireau       def.     Felipe Amorim        43 42
-     16Q     Alessandro Tabares   def.     Juan Ignacio Garcia  Walkover
-     16Q (5) Sebastian Grijalva   def.     Sebastian Fujita     42 42
-     16Q     Diego Menendez Vina  def.     Lucas Ribas          41 41
-     16Q     Sebastian Mezo       def.     Filipe Gil           41 40
-     16Q     Jacob Turley         def.     Davide Pelletti      41 Ret.
-     16Q     Carlos Thireau       def.     Adria Aguilar Guerr… 43 42
- > Red
-  > Main
-       F (2) Yosue Noa            def.     Alvaro Saucedo       46 64 [6]
-      SF     Alvaro Saucedo       def.     Jan Risanek          75 75
-      SF (2) Yosue Noa            def. (3) Vincent Huynh        Walkover
-      QF     Jan Risanek          def.     Domenico Denaro      26 75 [8]
-      QF     Alvaro Saucedo       def.     Hamish Lee           62 60
-      QF (3) Vincent Huynh        def.     Abraham Shaoul       63 62
-      QF (2) Yosue Noa            def.     Miguel Herrera       62 62
-      16     Domenico Denaro      def.     Bryan Cajamarca      64 62
-      16     Jan Risanek          def.     Nazareno Tauber      63 76(5)
-      16     Hamish Lee           def.     Zander Cromwell      64 63
-      16     Alvaro Saucedo       def.     Luis Figueroa        60 61
-      16 (3) Vincent Huynh        def.     Adriel Bousquet      64 61
-      16     Abraham Shaoul       def.     Graham Gibbs         61 Ret.
-      16     Miguel Herrera       def.     Leonardo Prado       61 61
-      16 (2) Yosue Noa            def.     Alan Schmidt         60 60
-      32     Domenico Denaro      def. (1) Tyler Glowaki        76(4) 16 [9]
-      32     Bryan Cajamarca      def.     Miguel Ferreira      61 61
-      32     Nazareno Tauber      def.     Nadal Nicolau Ferrer 75 Ret.
-      32     Jan Risanek          def.     Jake Edwards         Walkover
-      32     Zander Cromwell      def.     Luca Mariot          63 63
-      32     Hamish Lee           def.     Alexander Nunez      62 61
-      32     Luis Figueroa        def.     Nicolas Bueno        61 46 [4]
-      32     Alvaro Saucedo       def. (4) Nicolas Lerdo        64 62
-      32 (3) Vincent Huynh        def.     Miguel Binnios       75 64
-      32     Adriel Bousquet      def.     Juan Ramirez         46 63 [5]
-      32     Abraham Shaoul       def.     Ignacio Munoz        63 64
-      32     Graham Gibbs         def.     Jules Grignon        63 Ret.
-      32     Miguel Herrera       def.     Manuel Ramos         76(5) 63
-      32     Leonardo Prado       def.     Andres Kupersmit     76(4) 36 [8]
-      32     Alan Schmidt         def.     Simon Gonzalez       67(4) 61 [6]
-      32 (2) Yosue Noa            def.     Dario Bustruc        62 62
-  > Consolation
-       F (1) Tyler Glowaki        def.     Miguel Binnios       40 40
-      SF (1) Tyler Glowaki        def. (4) Nicolas Lerdo        43 41
-      SF     Miguel Binnios       def.     Manuel Ramos         41 42
-      QF (1) Tyler Glowaki        def.     Nadal Nicolau Ferrer Walkover
-      QF (4) Nicolas Lerdo        def.     Luca Mariot          41 41
-      QF     Miguel Binnios       def.     Ignacio Munoz        41 24 [5]
-      QF     Manuel Ramos         def.     Dario Bustruc        40 34 [7]
-     16Q (1) Tyler Glowaki        def.     Miguel Ferreira      40 43
-     16Q     Nadal Nicolau Ferrer def.     Jake Edwards         Walkover
-     16Q     Luca Mariot          def.     Alexander Nunez      42 42
-     16Q (4) Nicolas Lerdo        def.     Nicolas Bueno        40 41
-     16Q     Miguel Binnios       def.     Juan Ramirez         42 41
-     16Q     Ignacio Munoz        def.     Jules Grignon        Walkover
-     16Q     Manuel Ramos         def.     Andres Kupersmit     43 42
-     16Q     Dario Bustruc        def.     Simon Gonzalez       41 41
 ~~~
 
 Return to the [Top](./men_singles_2142.md) &#124; [Home Page](../../index.md)

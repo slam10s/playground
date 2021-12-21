@@ -13,7 +13,6 @@
 - 10/2/2021 - [Davidson College Invite](#21-95483) ([Results](#21-95483) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Draws</a>)  
 - 10/1/2021 - [EIU Panther Hidden Duals](#21-91236) ([Results](#21-91236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">Draws</a>)  
 - 10/1/2021 - [Hagedorn Hidden Dual](#21-03884) ([Results](#21-03884) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Draws</a>)  
-- 10/1/2021 - [Idaho State Bengal Invitational](#21-23711) ([Results](#21-23711) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Draws</a>)  
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/1/2021 - [MSU Bulldog Invitational](#21-39463) ([Results](#21-39463) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77" target="_blank">Draws</a>)  
@@ -1148,68 +1147,6 @@
      16  Raul Garcia          def.  Mattia Ros           62 61
      16  Sergio Ingles Garre  def.  Peter Sallay         61 63
      16  Daniel Krulig        def.  Harvey Conway        Walkover
-~~~
-
-<a name="21-23711"></a>
-~~~
-══════════════════════════════════════════════════════════════════════
-  Idaho State Bengal Invitational
-  Dates: Oct 1-3, 2021
-  Host: Idaho State University (M)
-══════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > White
-  > East
-      F  Wikus Robbertse     def.  Rian Ta             62 62
-     SF  Wikus Robbertse     def.  Pontus Hallgren     63 63
-     SF  Rian Ta             def.  Zachary Matuszak    62 61
-     QF  Wikus Robbertse     def.  Manuel Monteiro     63 46 64
-     QF  Pontus Hallgren     def.  Michael Blando      64 62
-     QF  Zachary Matuszak    def.  Josh Watkins        60 62
-     QF  Rian Ta             def.  Marcos Zelver       60 63
-  > West
-      F  Marcos Zelver       def.  Manuel Monteiro     64 64
-     SF  Manuel Monteiro     def.  Michael Blando      62 62
-     SF  Marcos Zelver       def.  Josh Watkins        63 62
- > Orange
-  > East
-      F  Mathias Gavelin     def.  Lawrence Sciglitano 62 61
-     SF  Mathias Gavelin     def.  Patrick Kristensen  76(5) 64
-     SF  Lawrence Sciglitano def.  Andreas Kramer      36 64 64
-     QF  Patrick Kristensen  def.  Alex Lin            63 46 64
-     QF  Mathias Gavelin     def.  Umit Ege Cankus     63 75
-     QF  Andreas Kramer      def.  Brigham Andrus      61 76(3)
-     QF  Lawrence Sciglitano def.  Patrik Trhac        76(5) Ret.
-     16  Patrick Kristensen  def.  Milo Benn           63 60
-     16  Alex Lin            def.  Bradley Buckland    76(3) 64
-     16  Mathias Gavelin     def.  Aleksandar Petrovic 62 60
-     16  Umit Ege Cankus     def.  Matheus Leite       57 76(5) 61
-     16  Andreas Kramer      def.  Sam Baldwin         64 61
-     16  Brigham Andrus      def.  Hiroki Fujita       75 64
-     16  Lawrence Sciglitano def.  Zach Fuchs          62 62
-     16  Patrik Trhac        def.  Jayson Blando       64 61
-  > West
-     SF  Aleksandar Petrovic def.  Milo Benn           63 76(5)
-     SF  Zach Fuchs          def.  Hiroki Fujita       61 64
-     QF  Milo Benn           def.  Bradley Buckland    61 36 [6]
-     QF  Aleksandar Petrovic def.  Matheus Leite       67(4) 75 [9]
-     QF  Hiroki Fujita       def.  Sam Baldwin         76(5) 26 [8]
-     QF  Zach Fuchs          def.  Jayson Blando       67(3) 64 [4]
-  > North
-     SF  Alex Lin            def.  Umit Ege Cankus     62 64
-     SF  Brigham Andrus      def.  Patrik Trhac        Walkover
-  > South
-      F  Bradley Buckland    def.  Jayson Blando       76(4) 76(4)
-     SF  Bradley Buckland    def.  Matheus Leite       Walkover
-     SF  Jayson Blando       def.  Sam Baldwin         67(4) 62 [7]
-  > Southwest
-      F  Hiroki Fujita       def.  Milo Benn           62 62
- > Extra Matches
-  > Main
-     QF  Sam Baldwin         def.  Aleksandar Petrovic 75 63
-     QF  Patrick Kristensen  def.  Pontus Hallgren     16 63 [11]
-     QF  Umit Ege Cankus     def.  Michael Blando      64 61
-     QF  Andreas Kramer      def.  Jayson Blando       61 46 [7]
 ~~~
 
 <a name="21-73796"></a>

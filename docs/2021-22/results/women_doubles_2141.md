@@ -2,18 +2,20 @@
 
 **Tournamets with Matches**  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
-- 10/16/2021 - [Brown Classic](#21-58015) ([Results](#21-58015) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Mountain Regional Championship](#21-74915) ([Results](#21-74915) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Northeast Regional Championship](#21-91243) ([Results](#21-91243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
-- 10/15/2021 - [Martha Thorn Invitational](#21-82907) ([Results](#21-82907) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Draws</a>)  
 - 10/15/2021 - [Viking Invitational](#21-40542) ([Results](#21-40542) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Draws</a>)  
-- 10/16/2021 - [2021 Midwest Conference Women's Tennis Individual Tournament](#21-17879) ([Results](#21-17879) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">Draws</a>)  
 - 10/15/2021 - [American Rivers Conference Women's Individual Tournament](#21-35590) ([Results](#21-35590) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
-- 10/16/2021 - [Royal Rumble 2](#21-20820) ([Results](#21-20820) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Draws</a>)  
+
+**Tournaments without Matches**  
+- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Brown Classic</a>  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Martha Thorn Invitational</a>  
+- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">2021 Midwest Conference Women's Tennis Individual Tournament</a>  
+- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Royal Rumble 2</a>  
 
 <a name="21-27941"></a>
 ~~~
@@ -58,42 +60,6 @@
   Dates: Oct 16-17, 2021
   Host: Brown University (W)
 ════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Round A
-  > Main
-     32  Peus/Benedetto       def.  Brogan/Fisher        64
-     32  Mariotti/Dellacono   def.  Gould/Floyd          64
-     32  Di Battista/Carlsten def.  Higuchi/Cvackova     61
-     32  Yaloz/Sharma         def.  Campanella/Nelander  64
-     32  Nguyen/Kostirko      def.  Chratian/Chratian    62
-     32  Napadiy/Farima       def.  Cheng/Kim            64
-     32  Okuyama/Cannon       def.  Wang/Gillinov        63
-     32  Weber/Fahrmeier      def.  Bou/Hoppe            63
-     32  Karamyshev/Petri-Be… def.  Dewire/Peng          64
-     32  Jupalli/Swaffer-Sel… def.  Lai/Cook             63
- > Round B
-  > Main
-     32  Newman/Benedetto     def.  Di Battista/Carlsten 62
-     32  Mariotti/Dellacono   def.  Nguyen/Kostirko      64
-     32  Yaloz/Kim            def.  Peus/Williams        60
-     32  Brogan/Steffen       def.  Campanella/Nelander  63
-     32  Chratian/Chratian    def.  Floyd/Fisher         64
-     32  Weber/Fahrmeier      def.  Cheng/Kim            64
-     32  Wang/Lou             def.  Dewire/Peng          62
-     32  Takunyaci/Lai        def.  Swaffer-Selff/Peng   75
-     32  Cannon/Farima        def.  Bou/Hoppe            63
-     32  Okuyama/Krasakova    def.  Karamyshev/Petri-Be… 63
- > round C
-  > Main
-     32  Cheng/Kim            def.  Yaloz/Kim            75
-     32  Wang/Lou             def.  Di Battista/Sharma   64
-     32  Bou/Hoppe            def.  Brogan/Fisher        64
-     32  Karamyshev/Petri-Be… def.  Gould/Steffen        60
-     32  Napadiy/Farima       def.  Campanella/Nelander  63
-     32  Cannon/Krasakova     def.  Loredo/Rajan         61
-     32  Weber/Fahrmeier      def.  Lau/Peus             64
-     32  Benedetto/Ahlstrom   def.  Dewire/Peng          62
-     32  Mariotti/Dellacono   def.  Jupalli/Swaffer-Sel… 64
 ~~~
 
 <a name="21-74915"></a>
@@ -426,37 +392,6 @@
   Dates: Oct 15-17, 2021
   Host: West Virginia University (W)
 ════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > WVU v JMU
-  > Main
-     QF  Bossi/Chang          def.  Afanasyeva/Moulin 64
-     QF  Los Arcos/Voloh      def.  Hsieh/Nagato      76(4)
-     QF  Moulin/Nord          def.  Kovick/Kucharova  64
- > Louisville v PSU
-  > Main
-     QF  OGorman/Chekhlystova def.  Sawyer/Simova     76(5)
-     QF  Friedland/Lasorda    def.  Richardson/Chaika 60
-     QF  Hirsch/Ryan          def.  Callwood/Verma    76(4)
- > WVU v PSU
-  > Main
-     QF  Bossi/Chang          def.  Friedland/Lasorda 60
-     QF  OGorman/Chekhlystova def.  Hsieh/Nagato      60
-     QF  Kovick/Kucharova     def.  Weinberg/Ryan     62
- > Louisville v JMU
-  > Main
-     QF  Afanasyeva/Moulin    def.  Sawyer/Simova     75
-     QF  Los Arcos/Voloh      def.  Richardson/Chaika 62
-     QF  Callwood/Verma       def.  Moulin/Nord       63
- > WVU v Louisville
-  > Main
-     QF  Bossi/Chang          def.  Sawyer/Simova     64
-     QF  Kovick/Kucharova     def.  Richardson/Chaika 64
-     QF  Bovolskaia/Nagato    def.  Callwood/Verma    62
- > JMU v PSU
-  > Main
-     QF  OGorman/Chekhlystova def.  Afanasyeva/Moulin 61
-     QF  Ryan/Friedland       def.  Los Arcos/Voloh   62
-     QF  Moulin/Nord          def.  Hirsch/Lasorda    61
 ~~~
 
 <a name="21-40542"></a>
@@ -508,40 +443,6 @@
   Dates: Oct 16-17, 2021
   Host: Cornell College (W)
 ════════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > #1 Doubles
-  > Main
-      F (1) Tang/Agusti          def. (3) Connor/Koppa      82
-     SF (1) Tang/Agusti          def. (5) Maag/Roth         82
-     SF (3) Connor/Koppa         def. (2) Campos/Lopez      87(1)
-     QF (5) Maag/Roth            def. (4) Dragon/Fievet     84
-     QF (3) Connor/Koppa         def. (6) Ryback/Endrizzi   81
-     QF (2) Campos/Lopez         def. (7) Henson/Hammond    80
-  > Consolation
-      F (4) Dragon/Fievet        def. (6) Ryback/Endrizzi   84
-     SQ (6) Ryback/Endrizzi      def. (7) Henson/Hammond    84
- > #2 Doubles
-  > Main
-      F (1) Manchanda/De Los Re… def. (2) Bugnacki/Liete    84
-     SF (1) Manchanda/De Los Re… def. (4) Johnson/Mink      81
-     SF (2) Bugnacki/Liete       def. (3) Aturaliya/Lamb    81
-     QF (4) Johnson/Mink         def. (5) Polyak/Weber      87(4)
-     QF (3) Aturaliya/Lamb       def. (6) Haloftis/Lueke    81
-     QF (2) Bugnacki/Liete       def. (7) Laughlin/Shimmin  81
-  > Consolation
-      F (5) Polyak/Weber         def. (6) Haloftis/Lueke    87(1)
-     SQ (6) Haloftis/Lueke       def. (7) Laughlin/Shimmin  81
- > #3 Doubles
-  > Main
-      F (1) Giannakou/Jarvis     def. (2) Wegrecki/Hinojosa 80
-     SF (1) Giannakou/Jarvis     def. (5) Prescott/Criveau  81
-     SF (2) Wegrecki/Hinojosa    def. (3) Fisher/Angemi     80
-     QF (5) Prescott/Criveau     def. (4) Wilke/Ziebell     82
-     QF (3) Fisher/Angemi        def. (6) Jacobson/Seu      80
-     QF (2) Wegrecki/Hinojosa    def. (7) Mheidze/Perez     80
-  > Consolation
-      F (4) Wilke/Ziebell        def. (7) Mheidze/Perez     82
-     SQ (7) Mheidze/Perez        def. (6) Jacobson/Seu      84
 ~~~
 
 <a name="21-35590"></a>
@@ -733,36 +634,6 @@
   Dates: Oct 16-17, 2021
   Host: Queens Univ. Of Charlotte (M)
 ════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Purple
-  > Main
-     R5  Kadyk/Guidantoni     def.  Hidalgo/Sheldrick    60
-     R5  Guidantoni/Ruetten   def.  Sinclaire/Kilbourne  61
-     R1  Kadyk/Guidantoni     def.  Bertran De Balanda/… 62
- > Green
-  > Main
-     R5  Kosmrlj/Lopez        def.  Macias/Agarwal       61
-     R5  Wilson/Dennett       def.  Gagnon/Sinclaire     60
-     R3  Wilson/De Sousa      def.  Macias/Agarwal       60
-     R3  Sinclaire/Kilbourne  def.  Hidalgo/Sheldrick    63
-     R2  Wilson/De Sousa      def.  Kosmrlj/Lopez        62
-     R2  Gunfaus/Kosmrlj      def.  Hidalgo/Sheldrick    61
- > Red
-  > Main
-     R7  Gunfaus/Ruetten      def.  Allard/Vollmin       61
-     R6  Berggren/Sambyakuga… def.  Bertran De Balanda/… 64
-     R5  Macias/Agarwal       def.  Vollmin/Gagnon       76(3)
-     R3  Gunfaus/Ruetten      def.  Leeman/Lacey         64
-     R2  Bertran De Balanda/… def.  Leeman/Lacey         76(4)
-     R1  Leeman/Lacey         def.  Allard/Khramtsova    61
- > Blue
-  > Main
-     R5  Sanchez Quesada/Pie… def.  Binzari/Krieg        75
-     R4  Veselinova/Axelsson  def.  Binzari/Krieg        61
-     R3  Sanchez Quesada/Pie… def.  Veselinova/Axelsson  63
-     R2  Sambyakugari/Ciaccia def.  Sanchez Quesada/Pie… 64
-     R1  Veselinova/Axelsson  def.  Ciaccia/Lopez        64
-     R1  Sambyakugari/Ciaccia def.  Binzari/Krieg        63
 ~~~
 
 Return to the [Top](./women_doubles_2141.md) &#124; [Home Page](../../index.md)

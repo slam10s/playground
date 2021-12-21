@@ -13,7 +13,6 @@
 - 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
 - 10/7/2021 - [Utah Invitational](#21-47231) ([Results](#21-47231) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Draws</a>)  
 - 10/9/2021 - [WMU Vredevelt Invite](#21-70570) ([Results](#21-70570) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">Draws</a>)  
-- 10/8/2021 - [Youngstown State Hidden Duals](#21-93245) ([Results](#21-93245) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/8/2021 - [Crusader Shootout](#21-83735) ([Results](#21-83735) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Draws</a>)  
 - 10/9/2021 - [Enchanted Valley Showdown](#21-89530) ([Results](#21-89530) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Draws</a>)  
@@ -1744,68 +1743,6 @@
      32  Maximiliano Sandova… def.  Jarreau Campbell     75 46 [1]
      32  Michael Dickson      def.  Jack Winkler         75 63
      32  Drew Michael         def.  Reed Crocker         75 64
-~~~
-
-<a name="21-93245"></a>
-~~~
-═══════════════════════════════════════════════════════════════════════
-  Youngstown State Hidden Duals
-  Dates: Oct 8-9, 2021
-  Host: Youngstown State Univ. (M)
-═══════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > Flight 1
-  > Main
-     R7  Michael Pawlowicz    def.  Alex Mascioli       76(6) 62
-     R6  Erik Gran            def.  Alex Mascioli       16 63 [8]
-     R3  Stijn Paardekooper   def.  Erik Gran           61 63
-     R2  Stijn Paardekooper   def.  Kaipo Marshall      76(2) 64
-     R2  Erik Gran            def.  Michael Pawlowicz   76(7) 60
-     R1  Stijn Paardekooper   def.  Michael Pawlowicz   61 63
- > Flight 2
-  > Main
-     R5  Dan Pergel           def.  Javi Pla            36 76(2) [5]
-     R4  Javi Pla             def.  Marco Rivolo        76(4) 62
-     R2  Jin Dassanayake      def.  Marco Rivolo        61 64
-     R2  Kaipo Marshall       def.  Dan Pergel          64 62
-     R1  Dan Pergel           def.  Marco Rivolo        36 23 Ret.
-     R1  Nathan Favier        def.  Kaipo Marshall      75 62
- > Flight 3
-  > Main
-     R7  Nathan Favier        def.  Shourya Verma       67(4) 62 [5]
-     R6  Shourya Verma        def.  Jean Marrero        63 64
-     R3  Shourya Verma        def.  Jin Dassanayake     63 62
-     R3  David Alvarez Moreno def.  Jean Marrero        63 57 [4]
-     R1  Clement Mainguy      def.  Jin Dassanayake     61 61
-     R1  Jean Marrero         def.  William Everett     63 64
- > Flight 4
-  > Main
-     R6  Javi Pla             def.  Liam Wickwire       64 62
-     R6  David Alvarez Moreno def.  William Schneideman 63 64
-     R5  Tamirlan Teberikov   def.  Anshumat Srivastava 64 67(4) [4]
-     R2  Kyle Weekes          def.  William Schneideman 61 61
-     R1  William Schneideman  def.  Liam Wickwire       76(4) 64
-     R1  Clement Mainguy      def.  Kyle Weekes         63 62
- > Flight 7
-  > Main
-     R3  Nathan Favier        def.  Luke Rieman         60 60
-     R3  Asier Pena Ibanez    def.  Courage Crawford    61 64
-     R1  Luke Rieman          def.  Courage Crawford    63 62
- > Flight 6
-  > Main
-     R7  Charalampos Fouzas   def.  Bode Vance          63 61
-     R7  Adi Ben Ari          def.  Luke Young          16 75 [7]
-     R6  Charalampos Fouzas   def.  Adi Ben Ari         60 61
-     R3  Luke Young           def.  Bode Vance          63 63
-     R2  Clement Mainguy      def.  Luke Young          62 61
-     R1  Bode Vance           def.  Courage Crawford    63 60
- > Flight 5
-  > Main
-     R5  William Everett      def.  Anshumat Srivastava 64 16 [7]
-     R4  Norka Sanchez        def.  Joey Matthews       61 76(4)
-     R2  Norka Sanchez        def.  Asier Pena Ibanez   63 64
-     R1  Anshumat Srivastava  def.  Norka Sanchez       62 64
-     R1  Adi Ben Ari          def.  Liam Wickwire       64 61
 ~~~
 
 <a name="21-27941"></a>

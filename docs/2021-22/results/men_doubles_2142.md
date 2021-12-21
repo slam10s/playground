@@ -18,7 +18,6 @@
 - 10/23/2021 - [MIT Classic](#21-15791) ([Results](#21-15791) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/7E100217-7269-401A-99AA-F3C782FC0593" target="_blank">Draws</a>)  
 - 10/22/2021 - [MIT Invite](#21-83746) ([Results](#21-83746) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">Draws</a>)  
 - 10/22/2021 - [MSU Invitational](#21-16812) ([Results](#21-16812) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">Draws</a>)  
-- 10/22/2021 - [YTF Southeastern Invitational](#21-42214) ([Results](#21-42214) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">Draws</a>)  
 
 <a name="21-34853"></a>
 ~~~
@@ -163,11 +162,11 @@
 
 <a name="21-65872"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   Islander Open
   Dates: Oct 22-24, 2021
   Host: Texas A&M University, Corpus Christi (M)
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight A
   > East
@@ -569,11 +568,11 @@
 
 <a name="21-19659"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   UNA Men's Classic
   Dates: Oct 23-23, 2021
   Host: University Of North Alabama (M)
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Purple
   > Main
@@ -589,11 +588,11 @@
 
 <a name="21-41693"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   Crusader Invitational
   Dates: Oct 21-22, 2021
   Host: Belmont Abbey College (M)
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > BAC 1 vs QU 1
   > Main
@@ -762,11 +761,11 @@
 
 <a name="21-15791"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   MIT Classic
   Dates: Oct 23-24, 2021
   Host: Massachusetts Inst. Of Tech. (M)
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Round 1
   > Main
@@ -799,11 +798,11 @@
 
 <a name="21-83746"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
   MIT Invite
   Dates: Oct 22-22, 2021
   Host: Massachusetts Inst. Of Tech. (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
@@ -825,11 +824,11 @@
 
 <a name="21-16812"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
   MSU Invitational
   Dates: Oct 22-23, 2021
   Host: Midwestern State Univ. (M)
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Men's Doubles Flight 1
   > Main
@@ -875,47 +874,6 @@
  > Doubles Extra 4
   > Main
       F  Almeida/Mercier      def.  Orduz/Del Rosario    63
-~~~
-
-<a name="21-42214"></a>
-~~~
-═══════════════════════════════════════════════════════════════════════
-  YTF Southeastern Invitational
-  Dates: Oct 22-24, 2021
-  Host: Southeastern University (M)
-═══════════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Draw
-  > Main
-      F (1) Barbon/Stepanov      def.     Hofmeister/Amorim    81
-     SF (1) Barbon/Stepanov      def.     Ribas/Andrews        83
-     SF     Hofmeister/Amorim    def.     Orihuela/Grijalva    85
-     QF (1) Barbon/Stepanov      def.     Huynh/Ramos          84
-     QF     Ribas/Andrews        def. (3) Pessoa/Pelletti      98(2)
-     QF     Hofmeister/Amorim    def.     Garcia/Alias         81
-     QF     Orihuela/Grijalva    def. (2) De Oliveira/Menende… 84
-     16 (1) Barbon/Stepanov      def.     Noa/Patino Pabon     82
-     16     Huynh/Ramos          def.     Nunez/Mariot         81
-     16 (3) Pessoa/Pelletti      def.     Safont Martinez/Mezo 82
-     16     Ribas/Andrews        def.     Martinez/Preiswerk   83
-     16     Garcia/Alias         def.     Bueno/Tauber         82
-     16     Hofmeister/Amorim    def. (4) Turley/Tajada        84
-     16     Orihuela/Grijalva    def.     Fujita/Saucedo       98(2)
-     16 (2) De Oliveira/Menende… def.     Aguilar Guerrero/Le… 84
-     32     Noa/Patino Pabon     def.     Binnios/Glowaki      83
-     32     Huynh/Ramos          def.     Herrera/Risanek      84
-     32     Nunez/Mariot         def.     Kupersmit/Gonzalez   97
-     32 (3) Pessoa/Pelletti      def.     Della Cioppa/Nicola… 86
-     32     Safont Martinez/Mezo def.     Thireau/Bento        85
-     32     Martinez/Preiswerk   def.     Cajamarca/Bustruc    83
-     32     Ribas/Andrews        def.     Gil/Freemann         85
-     32     Garcia/Alias         def.     Prado/Figueroa       80
-     32     Bueno/Tauber         def.     Edwards/Ferreira     Walkover
-     32     Hofmeister/Amorim    def.     Schmidt/Ramirez      82
-     32 (4) Turley/Tajada        def.     Makela/Lee           81
-     32     Orihuela/Grijalva    def.     Cromwell/Shaoul      82
-     32     Fujita/Saucedo       def.     Bousquet/Gibbs       86
-     32     Aguilar Guerrero/Le… def.     Munoz/Denaro         82
 ~~~
 
 Return to the [Top](./men_doubles_2142.md) &#124; [Home Page](../../index.md)

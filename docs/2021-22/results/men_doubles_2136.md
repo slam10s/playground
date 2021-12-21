@@ -12,7 +12,6 @@
 - 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
 - 9/10/2021 - [Siena Invitational](#21-93292) ([Results](#21-93292) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Draws</a>)  
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
-- 9/11/2021 - [2021 CCIW Fall Invitational](#21-67914) ([Results](#21-67914) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillikinUniversityM/Tournaments/Overview/EC2D06D4-33B6-4D12-AD7F-0FFF3E553D26" target="_blank">Draws</a>)  
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
 - 9/10/2021 - [Marlin Fall Invite](#21-96391) ([Results](#21-96391) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Draws</a>)  
 - 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
@@ -631,67 +630,6 @@
  > R3-b
   > Main
       F  Raptis/Severin       def.  Berghaus/Rodeia   62
-~~~
-
-<a name="21-67914"></a>
-~~~
-═══════════════════════════════════════════════════════════════════
-  2021 CCIW Fall Invitational
-  Dates: Sep 11-12, 2021
-  Host: Millikin University (M)
-═══════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Flight 1
-  > East
-      F  Vilarroig Martinez/… def.  Ferruzzi/Krzewinski  87(6)
-     SF  Ferruzzi/Krzewinski  def.  Hermange/Panosso     84
-     SF  Vilarroig Martinez/… def.  Amadike/Moore        87(3)
-     QF  Ferruzzi/Krzewinski  def.  Gonzalez Fernandez/… 87(5)
-     QF  Hermange/Panosso     def.  Burk/Triantafel      84
-     QF  Vilarroig Martinez/… def.  Phillips/Wolf        87(3)
-     QF  Amadike/Moore        def.  Cassens/Hart         82
-  > West
-      F  Gonzalez Fernandez/… def.  Phillips/Wolf        83
-     SF  Gonzalez Fernandez/… def.  Burk/Triantafel      84
-     SF  Phillips/Wolf        def.  Cassens/Hart         83
-  > 3-4 Playoff
-      F  Amadike/Moore        def.  Hermange/Panosso     83
-  > South
-      F  Cassens/Hart         def.  Burk/Triantafel      81
- > Flight 2
-  > East
-      F  Schulte/Welker       def.  Owens/Maack          84
-     SF  Owens/Maack          def.  Sengphommachanh/Red  80
-     SF  Schulte/Welker       def.  Broach/Erickson      81
-     QF  Owens/Maack          def.  Turnbull/Cross       80
-     QF  Sengphommachanh/Red  def.  Boudreau/Vayara      85
-     QF  Broach/Erickson      def.  Hofland/Barter       84
-     QF  Schulte/Welker       def.  Nair/McCoy           80
-  > West
-      F  Boudreau/Vayara      def.  Nair/McCoy           81
-     SF  Boudreau/Vayara      def.  Turnbull/Cross       83
-     SF  Nair/McCoy           def.  Hofland/Barter       81
-  > 3-4 Playoff
-      F  Sengphommachanh/Red  def.  Broach/Erickson      83
-  > South
-      F  Turnbull/Cross       def.  Hofland/Barter       80
- > Flight 3
-  > East
-      F  Marino/Friese        def.  Blomquist/Mears      81
-     SF  Marino/Friese        def.  Caldwell/Naylor      80
-     SF  Blomquist/Mears      def.  Dyer/Saint-Paul      86
-     QF  Marino/Friese        def.  Gonzales/Urraca Moz… 83
-     QF  Caldwell/Naylor      def.  Nowell/Pierson       83
-     QF  Dyer/Saint-Paul      def.  Sibley-Diggs/Cortez  82
-     QF  Blomquist/Mears      def.  McCaffery/Strupp     81
-  > West
-      F  Gonzales/Urraca Moz… def.  McCaffery/Strupp     82
-     SF  Gonzales/Urraca Moz… def.  Nowell/Pierson       80
-     SF  McCaffery/Strupp     def.  Sibley-Diggs/Cortez  85
-  > 3-4 Playoff
-      F  Dyer/Saint-Paul      def.  Caldwell/Naylor      84
-  > South
-      F  Sibley-Diggs/Cortez  def.  Nowell/Pierson       82
 ~~~
 
 <a name="21-17243"></a>

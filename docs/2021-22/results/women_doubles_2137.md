@@ -24,7 +24,6 @@
 - 9/17/2021 - [Division II Women's East ITA Regional Championships](#21-70129) ([Results](#21-70129) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
-- 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 - 9/17/2021 - [Javalina Fall Quad](#21-30014) ([Results](#21-30014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityKingsvilleW/Tournaments/Overview/598273F2-FD41-4282-9467-EFD6330C79CC" target="_blank">Draws</a>)  
 - 9/18/2021 - [KCAC Individual Tournament](#21-28798) ([Results](#21-28798) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">Draws</a>)  
 - 9/17/2021 - [Methodist University Women's Fall Invitational](#21-80794) ([Results](#21-80794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MethodistUniversityW/Tournaments/Overview/4FFAB7FF-537E-4837-8CBB-5347D9DABA5B" target="_blank">Draws</a>)  
@@ -1235,57 +1234,6 @@
      R1  Chelnick/Davis       def.  Brown/DOnofrio       80
      R1  Stavropoulos/Dowd    def.  Cutler/Pratt         84
      R1  Almquist/Provost     def.  Shen/Kizilbash       87(10)
-~~~
-
-<a name="21-76336"></a>
-~~~
-════════════════════════════════════════════════════════════════════
-  GPAC Individual
-  Dates: Sep 17-18, 2021
-  Host: College Of Saint Mary (W)
-════════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Flight A
-  > Main
-      F (1) Lima/Weston          def. (2) Do Lago/Lumanog      75
-     SF (1) Lima/Weston          def. (4) Hurst/Zakrzewski     64
-     SF (2) Do Lago/Lumanog      def.     Acena/Negrete        64
-     QF (1) Lima/Weston          def.     Fanton/Felder        62
-     QF (4) Hurst/Zakrzewski     def.     Ferrel/Morales       63
-     QF     Acena/Negrete        def.     Kutz/Robinson        63
-     QF (2) Do Lago/Lumanog      def.     Macke/Van der Torre  62
-     16     Fanton/Felder        def.     DeLaO/Vandersall     60
-     16     Ferrel/Morales       def.     Hansen/Lewis         64
-     16 (4) Hurst/Zakrzewski     def.     Markle/Richards      62
-     16     Kutz/Robinson        def. (3) Worthington/Price    61
-     16     Acena/Negrete        def.     Blough/Hosick        61
-     16     Macke/Van der Torre  def.     Clotfelter/Sadowska  61
-     16 (2) Do Lago/Lumanog      def.     Badger/Gonsor        64
-  > Consolation
-     SF     Hansen/Lewis         def.     DeLaO/Vandersall     60
-     QQ     Hansen/Lewis         def.     Markle/Richards      62
-     QQ (3) Worthington/Price    def.     Blough/Hosick        63
-     QQ     Clotfelter/Sadowska  def.     Badger/Gonsor        61
- > Flight B
-  > Main
-      F (1) Kucera/Lauby         def. (2) Stalder/Ngo          61
-     SF (1) Kucera/Lauby         def.     Chiasson/Swanson     62
-     SF (2) Stalder/Ngo          def. (3) Glosser/Fox          63
-     QF (1) Kucera/Lauby         def.     Davison/Ketcham      63
-     QF     Chiasson/Swanson     def.     Groski/Ruiz-Martinez 64
-     QF (3) Glosser/Fox          def.     Benitez/Schwarzkopf  61
-     QF (2) Stalder/Ngo          def.     Wilson/Twelmeyer     61
-     16     Davison/Ketcham      def.     Montenegro/Coppock   63
-     16     Chiasson/Swanson     def.     Buck/Johnson         62
-     16     Groski/Ruiz-Martinez def. (4) Hastings/Thompson    64
-     16 (3) Glosser/Fox          def.     Phillips/Freudenburg 64
-     16     Benitez/Schwarzkopf  def.     McDowall/Sae-eurng   64
-     16     Wilson/Twelmeyer     def.     Dose/Olson           62
-     16 (2) Stalder/Ngo          def.     Brown-Love/Wohl      61
-  > Consolation
-     QQ (4) Hastings/Thompson    def.     Buck/Johnson         60
-     QQ     Phillips/Freudenburg def.     McDowall/Sae-eurng   63
-     QQ     Dose/Olson           def.     Brown-Love/Wohl      76(4)
 ~~~
 
 <a name="21-30014"></a>

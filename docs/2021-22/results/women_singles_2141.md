@@ -2,20 +2,20 @@
 
 **Tournamets with Matches**  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
-- 10/16/2021 - [Brown Classic](#21-58015) ([Results](#21-58015) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Mountain Regional Championship](#21-74915) ([Results](#21-74915) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Northeast Regional Championship](#21-91243) ([Results](#21-91243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
-- 10/15/2021 - [Martha Thorn Invitational](#21-82907) ([Results](#21-82907) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Draws</a>)  
 - 10/15/2021 - [Viking Invitational](#21-40542) ([Results](#21-40542) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Draws</a>)  
-- 10/16/2021 - [2021 Midwest Conference Women's Tennis Individual Tournament](#21-17879) ([Results](#21-17879) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
-- 10/16/2021 - [Royal Rumble 2](#21-20820) ([Results](#21-20820) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
+- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Brown Classic</a>  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Martha Thorn Invitational</a>  
+- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">2021 Midwest Conference Women's Tennis Individual Tournament</a>  
 - 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">American Rivers Conference Women's Individual Tournament</a>  
+- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Royal Rumble 2</a>  
 
 <a name="21-27941"></a>
 ~~~
@@ -86,77 +86,6 @@
   Dates: Oct 16-17, 2021
   Host: Brown University (W)
 ══════════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > Round A
-  > Main
-     64  Emma Brogan          def.  Ryan Peus            53 42
-     64  Caitlin Fisher       def.  Alexandra Benedetto  45(4) 42 [8]
-     64  Olivia Mariotti      def.  Isabella Steffen     41 54(4)
-     64  Gabriella Dellacono  def.  Taylor Gould         42 40
-     64  Selena Williams      def.  Chloe Floyd          14 53 [1]
-     64  Valentina Cvackova   def.  Victoria Carlsten    54(5) 14 [8]
-     64  Erica Di Battista    def.  Nadia Rajan          42 24 [6]
-     64  Emily Kim            def.  Erin Chratian        41 40
-     64  Shelly Yaloz         def.  Tiara Higuchi        42 42
-     64  Sydney Chratian      def.  Stephanie Nguyen     14 42 [7]
-     64  Sydney Sharma        def.  Paulina Loredo       40 40
-     64  Vivian Cheng         def.  Renata Farima        42 14 [8]
-     64  Anna Napadiy         def.  Jamie Kim            53 14 [8]
-     64  Raissa Lou           def.  Mariya Krasakova     41 41
-     64  Kathy Wang           def.  Vitoria Okuyama      14 42 [7]
-     64  Nicole Gillinov      def.  Dylan Cannon         14 42 [8]
-     64  Katie Weber          def.  Julieanne Bou        54(6) 40
-     64  Leonie Hoppe         def.  Elizabeth Fahrmeier  04 42 [2]
-     64  Lexi Dewire          def.  Aleksandra Karamysh… 54(2) 54(3)
-     64  Isabel Petri-Bere    def.  Jingyi Peng          41 42
-     64  Denise Lai           def.  Ameliija Swaffer-Se… 42 45(3) [11]
-     64  Ujvala Jupalli       def.  Selen Takunyaci      42 41
- > Round B
-  > Main
-     64  Alexandra Benedetto  def.  Victoria Carlsten    42 14 [8]
-     64  Erica Di Battista    def.  Ryan Peus            54(4) 53
-     64  Emily Kim            def.  Olivia Mariotti      24 41 [8]
-     64  Shelly Yaloz         def.  Gabriella Dellacono  41 40
-     64  Addison Ahlstrom     def.  Sofia Kostirko       40 41
-     64  Sydney Sharma        def.  Selena Williams      40 40
-     64  Emma Brogan          def.  Nadia Rajan          04 53 [4]
-     64  Caitlin Fisher       def.  Valentina Cvackova   24 41 [4]
-     64  Tiara Higuchi        def.  Isabella Steffen     40 53
-     64  Paulina Loredo       def.  Taylor Gould         41 53
-     64  Katie Weber          def.  Vivian Cheng         42 40
-     64  Lexi Dewire          def.  Jamie Kim            40 Ret.
-     64  Raissa Lou           def.  Ujvala Jupalli       04 42 [5]
-     64  Kathy Wang           def.  Elizabeth Fahrmeier  41 40
-     64  Nicole Gillinov      def.  Jingyi Peng          41 42
-     64  Ameliija Swaffer-Se… def.  Selen Takunyaci      53 42
-     64  Anna Napadiy         def.  Julieanne Bou        42 41
-     64  Leonie Hoppe         def.  Renata Farima        40 14 [6]
-     64  Vitoria Okuyama      def.  Aleksandra Karamysh… 42 41
-     64  Isabel Petri-Bere    def.  Dylan Cannon         42 14 [5]
-     64  Mariya Krasakova     def.  Denise Lai           40 42
- > Round C
-  > Main
-     64  Erica Di Battista    def.  Vivian Cheng         61 63
-     64  Raissa Lou           def.  Victoria Carlsten    76(5) 67(5) [8]
-     64  Kathy Wang           def.  Emily Kim            63 64
-     64  Sydney Sharma        def.  Nicole Gillinov      63 46 [5]
-     64  Valentina Cvackova   def.  Mariya Krasakova     61 64
-     64  Nadia Rajan          def.  Dylan Cannon         36 64 [6]
-     64  Renata Farima        def.  Erin Chratian        63 46 [5]
-     64  Anna Napadiy         def.  Tiara Higuchi        63 75
-     64  Sydney Chratian      def.  Vitoria Okuyama      26 64 [7]
-     64  Katie Weber          def.  Alexandra Benedetto  63 26 [4]
-     64  Lexi Dewire          def.  Ryan Peus            63 64
-     64  Elizabeth Fahrmeier  def.  Olivia Mariotti      64 26 [9]
-     64  Addison Ahlstrom     def.  Ameliija Swaffer-Se… 62 61
-     64  Gabriella Dellacono  def.  Ujvala Jupalli       62 63
-     64  Jingyi Peng          def.  Selena Williams      63 62
-     64  Emma Brogan          def.  Julieanne Bou        61 61
-     64  Leonie Hoppe         def.  Caitlin Fisher       85
-     64  Aleksandra Karamysh… def.  Isabella Steffen     61 64
-     64  Denise Lai           def.  Chloe Floyd          75 63
-     64  Stephanie Nguyen     def.  Grace Campanella     80
-     64  Sofia Kostirko       def.  Paulina Loredo       86
 ~~~
 
 <a name="21-74915"></a>
@@ -887,62 +816,6 @@
   Dates: Oct 15-17, 2021
   Host: West Virginia University (W)
 ═══════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > WVU v Louisville
-  > Main
-     16  Rhea Verma           def.  Ting-Pei Chang       26 62 [7]
-     16  Kendall Kovick       def.  Chelsea Sawyer       46 76 [9]
-     16  Tatiana Simova       def.  Camilla Bossi        26 76 [3]
-     16  Dina Chaika          def.  Anastaiia Bovolskaia 64 63
-     16  Momoko Nagato        def.  Tyra Richardson      61 63
-     16  Michaela Kucharova   def.  Joy Callwood         64 60
- > JMU v PSU
-  > Main
-     16  Sofiya Chekhlystova  def.  Daria Afanasyeva     76 61
-     16  Kylie Moulin         def.  Gabby OGorman        26 63 [8]
-     16  Karly Friedland      def.  Daniela Voloh        64 63
-     16  Deanna Lasorda       def.  Hope Moulin          62 64
-     16  Amanda Nord          def.  Olivia Ryan          63 60
-     16  Michelle Los Arcos   def.  Sydney Weinberg      62 63
-     16  Gracey Hirsch        def.  Shannon McCarthy     64 75
- > Extra Matches Day 1
-  > Main
-      F  Penny Hsieh          def.  Alexandra Prudente   76(4) 63
- > PSU v Louisville
-  > Main
-     16  Sofiya Chekhlystova  def.  Chelsea Sawyer       61 62
-     16  Gabby OGorman        def.  Rhea Verma           31 Ret.
-     16  Dina Chaika          def.  Karly Friedland      63 64
-     16  Deanna Lasorda       def.  Tatiana Simova       63 76(4)
-     16  Tyra Richardson      def.  Gracey Hirsch        75 62
-     16  Sydney Weinberg      def.  Joy Callwood         36 63 [9]
- > WVU v JMU
-  > Main
-     16  Daria Afanasyeva     def.  Ting-Pei Chang       63 26 [5]
-     16  Daniela Voloh        def.  Kendall Kovick       46 63 [8]
-     16  Kylie Moulin         def.  Camilla Bossi        64 36 [6]
-     16  Anastaiia Bovolskaia def.  Amanda Nord          62 57 [6]
-     16  Momoko Nagato        def.  Hope Moulin          76 60
-     16  Michaela Kucharova   def.  Michelle Los Arcos   62 64
- > Extra Matches Day 2
-  > Main
-      F  Gabby OGorman        def.  Alexandra Prudente   63 61
- > JMU v Louisville
-  > Main
-     16  Daria Afanasyeva     def.  Chelsea Sawyer       64 62
-     16  Kylie Moulin         def.  Dina Chaika          62 61
-     16  Tatiana Simova       def.  Daniela Voloh        36 63 [7]
-     16  Amanda Nord          def.  Tyra Richardson      64 36 [8]
-     16  Hope Moulin          def.  Joy Callwood         62 64
-     16  Michelle Los Arcos   def.  Shannon McCarthy     63 64
- > WVU v PSU
-  > Main
-     16  Sofiya Chekhlystova  def.  Ting-Pei Chang       63 60
-     16  Gabby OGorman        def.  Kendall Kovick       61 61
-     16  Karly Friedland      def.  Camilla Bossi        63 64
-     16  Anastaiia Bovolskaia def.  Sydney Weinberg      76(1) 62
-     16  Olivia Ryan          def.  Momoko Nagato        16 76(3) [8]
-     16  Michaela Kucharova   def.  Gracey Hirsch        64 60
 ~~~
 
 <a name="21-40542"></a>
@@ -1004,73 +877,6 @@
   Dates: Oct 16-17, 2021
   Host: Cornell College (W)
 ═══════════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > #1 Singles
-  > Main
-      F (1) Sabrina Tang        def. (2) Mj Campos         60 76(5)
-     SF (1) Sabrina Tang        def. (4) Hannah Ryback     61 60
-     SF (2) Mj Campos           def. (3) Emmaline Fievet   63 63
-     QF (4) Hannah Ryback       def. (5) Sophia Roth       61 60
-     QF (3) Emmaline Fievet     def. (6) Margot Connor     62 75
-     QF (2) Mj Campos           def. (7) Emily Laughlin    60 60
-  > Consolation
-      F (5) Sophia Roth         def. (6) Margot Connor     85
-     SQ (6) Margot Connor       def. (7) Emily Laughlin    81
- > #2 Singles
-  > Main
-      F (1) Irene Agusti        def. (2) Sara Lopez        61 60
-     SF (1) Irene Agusti        def. (4) Makayla Johnson   61 61
-     SF (2) Sara Lopez          def. (3) Lauren Aturaliya  61 60
-     QF (4) Makayla Johnson     def. (5) Michelle Maag     63 61
-     QF (3) Lauren Aturaliya    def. (6) Tia Endrizzi      60 62
-     QF (2) Sara Lopez          def. (7) Isabel Hammond    62 60
-  > Consolation
-      F (5) Michelle Maag       def. (6) Tia Endrizzi      87(6)
-     SQ (6) Tia Endrizzi        def. (7) Isabel Hammond    83
- > #3 Singles
-  > Main
-      F (1) Ioanna Giannakou    def. (2) Margaret Bugnacki 64 61
-     SF (1) Ioanna Giannakou    def. (4) Sarah Weber       60 60
-     SF (2) Margaret Bugnacki   def. (3) Emma Koppa        62 61
-     QF (4) Sarah Weber         def. (5) Ashley Mink       61 63
-     QF (3) Emma Koppa          def. (6) Emily Henson      60 62
-     QF (2) Margaret Bugnacki   def. (7) Mikhayla Haloftis Walkover
-  > Consolation
-      F (5) Ashley Mink         def. (6) Emily Henson      81
-     SQ (6) Emily Henson        def. (7) Mikhayla Haloftis Walkover
- > #4 Singles
-  > Main
-      F (1) Mira Manchanda      def. (2) Natailia Liete    61 61
-     SF (1) Mira Manchanda      def. (4) Tamera Holland    60 61
-     SF (2) Natailia Liete      def. (3) Chloe Lamb        62 60
-     QF (4) Tamera Holland      def. (5) Hannah Lueke      61 61
-     QF (3) Chloe Lamb          def. (6) Amanda Dragon     64 61
-     QF (2) Natailia Liete      def. (7) Julia Mheidze     60 60
-  > Consolation
-      F (6) Amanda Dragon       def. (5) Hannah Lueke      82
-     SQ (6) Amanda Dragon       def. (7) Julia Mheidze     80
- > #5 Singles
-  > Main
-      F (1) Sophia De Los Reyes def. (3) Katie Wegrecki    75 63
-     SF (1) Sophia De Los Reyes def. (5) Morgan Fisher     61 60
-     SF (3) Katie Wegrecki      def. (2) Kylie Jacobson    60 60
-     QF (5) Morgan Fisher       def. (4) Halle Hadel       61 61
-     QF (3) Katie Wegrecki      def. (6) Shya Prescott     60 61
-     QF (2) Kylie Jacobson      def. (7) Ditza Montesinos  60 63
-  > Consolation
-      F (6) Shya Prescott       def. (4) Halle Hadel       87(4)
-     SQ (6) Shya Prescott       def. (7) Ditza Montesinos  82
- > #6 Singles
-  > Main
-      F (1) Utsah Kalra         def. (3) Lizzy Angemi      60 60
-     SF (1) Utsah Kalra         def. (4) Chase Polyak      60 60
-     SF (3) Lizzy Angemi        def. (2) Isabel Hinojosa   76(2) 62
-     QF (4) Chase Polyak        def. (5) Lydia Criveau     63 64
-     QF (3) Lizzy Angemi        def. (6) Jennifer Shimmin  60 60
-     QF (2) Isabel Hinojosa     def. (7) Kaylanna Seu      60 60
-  > Consolation
-      F (5) Lydia Criveau       def. (6) Jennifer Shimmin  82
-     SQ (6) Jennifer Shimmin    def. (7) Kaylanna Seu      81
 ~~~
 
 <a name="21-35590"></a>
@@ -1206,63 +1012,6 @@
   Dates: Oct 16-17, 2021
   Host: Queens Univ. Of Charlotte (M)
 ═══════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > Blue
-  > Main
-     R5  Jill Morse           def.  Camilla Ciaccia      60 26 [8]
-     R5  Elena Gunfaus        def.  Jessica Binzari      62 64
-     R4  Jessica Binzari      def.  Viktorija Veselinova 46 61 [8]
-     R4  Camilla Ciaccia      def.  Jess Leeman          61 61
-     R2  Jess Leeman          def.  Jill Morse           63 63
-     R1  Jessica Binzari      def.  Jess Leeman          62 63
- > Purple
-  > Main
-     R5  Alexa Wilson         def.  Alex Lopez           64 62
-     R4  Alexa Wilson         def.  Tamara Macias        62 63
-     R4  Amelie Allard        def.  Khushi Agarwal       62 61
-     R2  Saga Berggren        def.  Tamara Macias        63 63
-     R1  Alexa Wilson         def.  Elizabeth Vollmin    63 61
- > Red
-  > Main
-     R6  Claudia Sanchez Que… def.  Viktorija Veselinova 76(5) 61
-     R4  Chole Kosmrlj        def.  Viktorija Veselinova 46 63 [7]
-     R4  Flaminia Guidantoni  def.  Amelie Allard        62 63
-     R3  Marie Bertran De Ba… def.  Tamara Macias        62 62
-     R2  Claudia Sanchez Que… def.  Amelie Allard        62 60
-     R1  Claudia Sanchez Que… def.  Elena Gunfaus        75 60
- > Green
-  > Main
-     R7  Lucianna Piedra      def.  Ekaterina Khramtsova 61 61
-     R5  Lucianna Piedra      def.  Grace Sheldrick      61 63
-     R4  Alex Lopez           def.  Hanna Axelsson       64 36 [8]
-     R4  Lucianna Piedra      def.  Chole Kosmrlj        46 76(2) [6]
-     R3  Ekaterina Khramtsova def.  Suzuka Sambyakugari  63 16 [7]
- > Teal
-  > Main
-     R3  Jadyn Kadyk          def.  Victoria Kilbourne   60 60
-     R1  Jadyn Kadyk          def.  Emma Hidalgo         62 62
- > Pink
-  > Main
-     R5  Suzuka Sambyakugari  def.  Valentina De Sousa   61 46 [5]
-     R3  Valentina De Sousa   def.  Kalpaka Pradip       60 61
-     R2  Suzuka Sambyakugari  def.  Emma Hidalgo         75 63
-     R2  Valentina De Sousa   def.  Victoria Kilbourne   61 60
- > Yellow
-  > Main
-     R7  Madison Dennett      def.  Kelsey Sinclaire     62 62
-     R7  Jessica Ruetten      def.  Khushi Agarwal       36 75 [7]
-     R6  Madison Dennett      def.  Jessica Ruetten      63 57 [6]
-     R5  Khushi Agarwal       def.  Madison Dennett      75 63
-     R2  Marie Bertran De Ba… def.  Flaminia Guidantoni  63 62
-     R1  Grace Sheldrick      def.  Jessica Ruetten      36 61 [9]
- > Orange
-  > Main
-     R7  Beth Lacey           def.  Emma Hidalgo         61 60
-     R5  Beth Lacey           def.  Angelina Krieg       61 61
-     R3  Saga Berggren        def.  Elizabeth Vollmin    64 76(3)
-     R3  Angelina Krieg       def.  Walker Gagnon        61 62
-     R2  Jadyn Kadyk          def.  Angelina Krieg       61 62
-     R2  Flaminia Guidantoni  def.  Beth Lacey           75 61
 ~~~
 
 Return to the [Top](./women_singles_2141.md) &#124; [Home Page](../../index.md)

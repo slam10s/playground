@@ -2,11 +2,7 @@
 
 **Tournamets with Matches**  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
-- 10/15/2021 - [Ball State Fall Invite](#21-42792) ([Results](#21-42792) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BallStateUniversityM/Tournaments/Overview/D509D00E-445B-4F77-802B-9FBFF2D92EB7" target="_blank">Draws</a>)  
 - 10/11/2021 - [Belmont Fall Invite](#21-28974) ([Results](#21-28974) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/7B6195EA-4B1E-4B0F-8B5E-7E14B47D14DB" target="_blank">Draws</a>)  
-- 10/15/2021 - [Bulldog Cup](#21-69055) ([Results](#21-69055) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Draws</a>)  
-- 10/15/2021 - [Commodore Classic](#21-21760) ([Results](#21-21760) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Draws</a>)  
-- 10/15/2021 - [Fighting Illini Invite](#21-10431) ([Results](#21-10431) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisM/Tournaments/Overview/4DAD8F21-9326-420E-B8FB-259D52500DC0" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-23395) ([Results](#21-23395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-08423) ([Results](#21-08423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Northeast Regional Championship](#21-34853) ([Results](#21-34853) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">Draws</a>)  
@@ -15,12 +11,17 @@
 - 10/14/2021 - [ITA Division I Men's Southern Regional Championship](#21-67380) ([Results](#21-67380) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Texas Regional Championship](#21-59010) ([Results](#21-59010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A" target="_blank">Draws</a>)  
 - 10/15/2021 - [Louisville Invitational](#21-27355) ([Results](#21-27355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Draws</a>)  
-- 10/15/2021 - [San Diego State Fall Invite](#21-62211) ([Results](#21-62211) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">Draws</a>)  
 - 10/15/2021 - [UTC-Steve Baras Invitational](#21-41868) ([Results](#21-41868) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
-- 10/16/2021 - [Purdue University Northwest Fall Invitational](#21-60014) ([Results](#21-60014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityNorthwestM/Tournaments/Overview/A63832A0-768B-401A-B044-F7960762A033" target="_blank">Draws</a>)  
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
-- 10/16/2021 - [Wesleyan Invitational](#21-80073) ([Results](#21-80073) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Draws</a>)  
+
+**Tournaments without Matches**  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/BallStateUniversityM/Tournaments/Overview/D509D00E-445B-4F77-802B-9FBFF2D92EB7" target="_blank">Ball State Fall Invite</a>  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/E5226D90-0B0F-4917-B0A4-15587CD57CC2" target="_blank">Bulldog Cup</a>  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Commodore Classic</a>  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisM/Tournaments/Overview/4DAD8F21-9326-420E-B8FB-259D52500DC0" target="_blank">Fighting Illini Invite</a>  
+- 10/15/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">San Diego State Fall Invite</a>  
+- 10/16/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityNorthwestM/Tournaments/Overview/A63832A0-768B-401A-B044-F7960762A033" target="_blank">Purdue University Northwest Fall Invitational</a>  
 
 <a name="21-27941"></a>
 ~~~
@@ -45,47 +46,20 @@
 
 <a name="21-42792"></a>
 ~~~
-═════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   Ball State Fall Invite
   Dates: Oct 15-17, 2021
   Host: Ball State University (M)
-═════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Flight A
-  > Main
-      F  Kovacevic/Adams     def.  Drogovic/Krstulovic 75
-     SF  Kovacevic/Adams     def.  Brady/Tennison      64
-     SF  Drogovic/Krstulovic def.  Jankowski/Jochim    62
-     QF  Kovacevic/Adams     def.  Benibo/Viste        64
-     QF  Brady/Tennison      def.  Brennan/Roegner     63
-     QF  Drogovic/Krstulovic def.  Herran/de Negri     76
-     QF  Jankowski/Jochim    def.  Michael/Huete       64
-  > Consolation
-      F  Michael/Huete       def.  Brennan/Roegner     Walkover
-     SQ  Brennan/Roegner     def.  Benibo/Viste        63
-     SQ  Michael/Huete       def.  Herran/de Negri     63
- > Flight B
-  > Main
-      F  Wojtalik/Petrovic   def.  Moody/Bailey        63
-     SF  Moody/Bailey        def.  Kozerski/Day        64
-     SF  Wojtalik/Petrovic   def.  Trimpe/Karr         76
-     QF  Moody/Bailey        def.  Webster/Orlando     76
-     QF  Kozerski/Day        def.  Zifferblatt/Jauch   61
-     QF  Trimpe/Karr         def.  Sellers/Thurin      60
-     QF  Wojtalik/Petrovic   def.  Balthazor/Dale      63
-  > Consolation
-      F  Webster/Orlando     def.  Sellers/Thurin      63
-     SQ  Webster/Orlando     def.  Zifferblatt/Jauch   63
-     SQ  Sellers/Thurin      def.  Balthazor/Dale      76
+═══════════════════════════════════════════════════════════════════
 ~~~
 
 <a name="21-28974"></a>
 ~~~
-═════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
   Belmont Fall Invite
   Dates: Oct 11-12, 2021
   Host: Belmont University (M)
-═════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
  Men's Open Doubles
  > Belmont vs. Tennessee Tech
   > Main
@@ -118,115 +92,29 @@
 
 <a name="21-69055"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Bulldog Cup
   Dates: Oct 15-17, 2021
   Host: Drake University (M)
-══════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Doubles Round 1 (Friday)
-  > Main
-     16  Johansson/Schifris   def.  Malinen/Spolidorio  86
-     16  Bolin/Matic          def.  Richards/Lin        84
-     16  Fragistas/Sonesson … def.  Koschtojan/Vollbach 85
-     16  Clegg/Sardo          def.  Moser/Iaquinto      87(5)
-     16  Valentinsson/Ortega  def.  Grueber/Richardson  81
- > Doubles Round 2 (Saturday)
-  > Main
-     16  Johansson/Schifris   def.  Richards/Lin        87(4)
-     16  Clegg/Sardo          def.  Grueber/Richardson  81
-     16  Valentinsson/Ortega  def.  Moser/Iaquinto      84
-     16  Fragistas/Sonesson … def.  Malinen/Spolidorio  86
-     16  Koschtojan/Vollbach  def.  Bolin/Matic         85
- > Doubles Round 3 (Sunday)
-  > Main
-     16  Johansson/Schifris   def.  Moser/Iaquinto      84
-     16  Richards/Lin         def.  Malinen/Spolidorio  86
-     16  Clegg/Sardo          def.  Koschtojan/Vollbach 87(6)
-     16  Bolin/Matic          def.  Grueber/Richardson  82
+════════════════════════════════════════════════════════════════
 ~~~
 
 <a name="21-21760"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════
   Commodore Classic
   Dates: Oct 15-17, 2021
   Host: Vanderbilt University (M)
-═══════════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Matches Day 1
-  > Main
-     16  (8) McDaniel/Martin    def. (51) Ross/Troost        85
-     16 (19) Harwell/Freeman    def.      Dong/Chopra        86
-     16      Ferreira/Klopper   def.      McKinney/Guerrero  84
-     16      Taylor/Stevenson   def.      Kiger/Cernoch      85
-     16      Kania/Zapp         def.      Fanlo/Alemany      87
-     16      Li/Murphy          def.      Bogdanovich/Uribe  86
-     16      Watane/Dillon      def.      Edgar/Rock         86
- > Matches Day 2
-  > Main
-     16      Kiger/Cernoch      def. (51) Ross/Troost        87
-     16      Kania/Zapp         def. (19) Harwell/Freeman    83
-     16      Ferreira/Klopper   def.      Li/Murphy          82
-     16      Robb-Wilcox/Sisam  def.      Watane/Dillon      82
-     16      Taylor/Stevenson   def.  (8) McDaniel/Martin    85
-     16      Dong/Chopra        def.      Fanlo/Alemany      83
-     16      Guerrero/Schelcher def.      Edgar/Rock         86
- > Matches Day 3
-  > Main
-     16 (19) Harwell/Freeman    def.      Bogdanovich/Uribe  81
-     16      Taylor/Stevenson   def. (51) Ross/Troost        86
-     16      Ferreira/Klopper   def.      Fanlo/Alemany      86
-     16      Robb-Wilcox/Sisam  def.      Edgar/Rock         84
-     16      McDaniel/Martin    def.      Kiger/Cernoch      85
-     16      Kania/Zapp         def.      Dong/Chopra        83
-     16      Li/Murphy          def.      Guerrero/Schelcher 84
+═════════════════════════════════════════════════════════════════
 ~~~
 
 <a name="21-10431"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Fighting Illini Invite
   Dates: Oct 15-17, 2021
   Host: University Of Illinois (M)
-═══════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > MTSU vs TEN, ASU
-  > Main
-     16  Hudd/Mitsui          def.  Motl/Slump           64
-     16  Diaz/Wallner         def.  Holis/Rocha          61
-     16  Monday/Prata         def.  Brostrom Poulsen/Ed… 60
-     16  Bullard/Brachman     def.  Bernardi/Olivier     61
- > ILL vs ASU, MTSU
-  > Main
-     16  Brown/Kenyatte       def.  Cassone/Cigna        62
-     16  Bullard/Lerby        def.  Horve/Heck           62
-     16  Wilson/Stoupe        def.  Meister/Stuart       76(5)
-     16  Holis/Rocha          def.  Chin/Holis           61
- > ILL vs TEN
-  > Main
-     16  Hudd/Mitsui          def.  Brown/Kenyatte       63
-     16  Monday/Prata         def.  Horve/Heck           62
-     16  Guzauskas/Stuart     def.  Diaz/Wallner         64
-     16  Gannon/Walton        def.  Meister/Petrov       63
- > MTSU vs. ASU, TEN
-  > Main
-     16  Edge/Motl            def.  Cassone/Cigna        62
-     16  Bullard/Lerby        def.  Bernardi/Slump       76(4)
-     16  Brostrom Poulsen/Ro… def.  Stoupe/Brachman      76(5)
-     16  Chin/Holis           def.  Horve/Meister        75
- > ILL, TEN vs MTSU
-  > Main
-     16  Edge/Motl            def.  Heck/Kenyatte        61
-     16  Bernardi/Slump       def.  Brown/Horve          75
-     16  Brostrom Poulsen/Ro… def.  Guzauskas/Stuart     64
-     16  Holis/Olivier        def.  Meister/Petrov       76(5)
-     16  Wallner/Walton       def.  Bernardi/Chin        75
- > ASU vs TEN
-  > Main
-     16  Hudd/Mitsui          def.  Bullard/Cassone      75
-     16  Monday/Prata         def.  Stoupe/Brachman      62
-     16  Gannon/Walton        def.  Bernardi/Chin        75
+════════════════════════════════════════════════════════════════
 ~~~
 
 <a name="21-23395"></a>
@@ -421,11 +309,11 @@
 
 <a name="21-05800"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: Saint Mary's College/CA (M)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Doubles
   > Main
@@ -650,39 +538,20 @@
 
 <a name="21-62211"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   San Diego State Fall Invite
   Dates: Oct 15-17, 2021
   Host: San Diego State University (M)
-═══════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Day One Doubles
-  > Main
-     R1  Blair/Rikkonen       def.  Dominguez Alonso/Bh… 87(3)
-     R1  Otico/Torlic         def.  Lan/Lan              82
-     R1  Lagaev/Horwood       def.  Ciszewski/Brodney    82
-     R1  Middleton/Olsen      def.  Hambrook/Navarro     83
- > Day Two Doubles
-  > Main
-     QF  Ciszewski/Brodney    def.  Blair/Scemanenco     84
-     QF  Rikkonen/Irvine      def.  Hambrook/Navarro     86
-     QF  Dominguez Alonso/Bh… def.  Lagaev/Horwood       87(5)
-     QF  Otico/Torlic         def.  Middleton/Olsen      86
- > Day Three Doubles
-  > Main
-     QF  Lagaev/Horwood       def.  Rikkonen/Scemanenco  81
-     QF  Middleton/Olsen      def.  Blair/Ermert         84
-     QF  Dominguez Alonso/Bh… def.  Ciszewski/Brodney    83
-     QF  Otico/Torlic         def.  Hambrook/Navarro     82
+════════════════════════════════════════════════════════════════
 ~~~
 
 <a name="21-41868"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   UTC-Steve Baras Invitational
   Dates: Oct 15-17, 2021
   Host: Univ. Of Tennessee, Chattanooga (M)
-══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Utc/ttu
   > Main
@@ -846,44 +715,20 @@
 
 <a name="21-60014"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════
   Purdue University Northwest Fall Invitational
   Dates: Oct 16-17, 2021
   Host: Purdue University Northwest (M)
-═══════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Flight A
-  > Main
-      F  Drenth/Grey          def.  Laws/Spicer          64
-     SF  Drenth/Grey          def.  Kah/Franssen         63
-     SF  Laws/Spicer          def.  Suler/Perez Plaza    76(8)
-     QF  Kah/Franssen         def.  Guerre/Lortie        75
-     QF  Drenth/Grey          def.  Sanchez Pradillo/Al… 64
-     QF  Laws/Spicer          def.  Flores Cepeda/Evyap… 76(3)
-     QF  Suler/Perez Plaza    def.  Mader/Koupil         62
-  > Consolation
-     SQ  Guerre/Lortie        def.  Sanchez Pradillo/Al… 61
-     SQ  Mader/Koupil         def.  Flores Cepeda/Evyap… 64
- > Flight B
-  > Main
-      F  Steele/Karcz         def.  Zamorski/Sandoval D… 76(4)
-     SF  Steele/Karcz         def.  McDermott/Santangelo 64
-     SF  Zamorski/Sandoval D… def.  Deswal/Olivier       61
-     QF  Steele/Karcz         def.  Hawes/Schultz        63
-     QF  Zamorski/Sandoval D… def.  Okonski/Pluszczyk    61
-     QF  Deswal/Olivier       def.  Juliusson/Alvear     63
-  > Consolation
-     SF  McDermott/Santangelo def.  Hawes/Schultz        75
-     SQ  Okonski/Pluszczyk    def.  Juliusson/Alvear     64
+════════════════════════════════════════════════════════════════
 ~~~
 
 <a name="21-98443"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
   Saint Leo Lion Fall Invitational - Men
   Dates: Oct 15-17, 2021
   Host: Saint Leo University (M)
-═══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight A
   > East
@@ -919,38 +764,6 @@
      QF  De Oliveira/Della C… def.  Rincon/Camps         63
      QF  Andrews/Ribas        def.  Glowaki/Binnios      61
      QF  Torrenegra/Noa       def.  Ferreira/Edwards     63
-~~~
-
-<a name="21-80073"></a>
-~~~
-═════════════════════════════════════════════════════════════════════
-  Wesleyan Invitational
-  Dates: Oct 16-17, 2021
-  Host: Wesleyan University (M)
-═════════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > A Main
-  > Main
-     SF (1) Bradley/Staples     def.     Epstein/Hilty       85
-     SF     Bradley/Breuker     def. (2) Mairs/Ward          81
-     QF (1) Bradley/Staples     def.     Anderson/Garcia     82
-     QF     Epstein/Hilty       def.     Golan/Garapati      84
-     QF     Bradley/Breuker     def.     Zhang/Gonzalez      85
-     QF (2) Mairs/Ward          def.     Yang/Flores         80
-     16 (1) Bradley/Staples     def.     Kim/Lee             82
-     16     Anderson/Garcia     def.     Lustgarten/Gaieski  86
-     16     Epstein/Hilty       def.     Finkelman/Anker     87(4)
-     16     Golan/Garapati      def. (3) Yazdi/Lepsoe        85
-     16     Zhang/Gonzalez      def. (4) Mitchell/Lilienthal 84
-     16     Bradley/Breuker     def.     Yuan/Vilys          84
-     16     Yang/Flores         def.     Lieb/Portnoy        84
-     16 (2) Mairs/Ward          def.     Schick/Laskin       84
- > A Backdraw
-  > Main
-     QF     Lustgarten/Gaieski  def.     Kim/Lee             83
-     QF     Finkelman/Anker     def.     Yazdi/Lepsoe        83
-     QF     Lieb/Portnoy        def.     Yuan/Vilys          Walkover
-     QF     Mitchell/Lilienthal def.     Schick/Laskin       81
 ~~~
 
 Return to the [Top](./men_doubles_2141.md) &#124; [Home Page](../../index.md)

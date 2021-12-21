@@ -13,7 +13,6 @@
 - 10/8/2021 - [River City Tennis Open](#21-99710) ([Results](#21-99710) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB" target="_blank">Draws</a>)  
 - 10/7/2021 - [Utah Invitational](#21-47231) ([Results](#21-47231) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1" target="_blank">Draws</a>)  
 - 10/9/2021 - [WMU Vredevelt Invite](#21-70570) ([Results](#21-70570) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3" target="_blank">Draws</a>)  
-- 10/8/2021 - [Youngstown State Hidden Duals](#21-93245) ([Results](#21-93245) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/8/2021 - [Crusader Shootout](#21-83735) ([Results](#21-83735) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Invitational](#21-99765) ([Results](#21-99765) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Draws</a>)  
@@ -752,43 +751,6 @@
      16  Alvarez/Sanchez Pra… def.  George/Pierce        75
      16  Arzhankin/Kuszynski  def.  Huete/Michael        63
      16  Honnappa/Boone       def.  Staiger/Chatras      75
-~~~
-
-<a name="21-93245"></a>
-~~~
-═════════════════════════════════════════════════════════════════
-  Youngstown State Hidden Duals
-  Dates: Oct 8-9, 2021
-  Host: Youngstown State Univ. (M)
-═════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Flight 1
-  > Main
-     R3  Pawlowicz/Verma      def.  Paardekooper/Rivolo  64
-     R3  Fouzas/Gran          def.  Marshall/Dassanayake 63
-     R2  Fouzas/Gran          def.  Pawlowicz/Verma      63
-     R2  Paardekooper/Rivolo  def.  Marshall/Dassanayake 64
-     R1  Paardekooper/Rivolo  def.  Fouzas/Gran          76(10)
-     R1  Marshall/Dassanayake def.  Pawlowicz/Verma      64
- > Flight 2
-  > Main
-     R4  Everett/Alvarez Mor… def.  Pergel/Srivastava    62
-     R3  Pergel/Srivastava    def.  Marrero/Schneideman  63
-     R2  Matthews/Wickwire    def.  Everett/Alvarez Mor… 63
-     R2  Marrero/Schneideman  def.  Vance/Teberikov      61
-     R1  Matthews/Wickwire    def.  Pergel/Srivastava    62
-     R1  Pena Ibanez/Alvarez… def.  Marrero/Schneideman  61
- > Flight 3
-  > Main
-     R5  Favier/Mainguy       def.  Vance/Teberikov      63
-     R5  Matthews/Wickwire    def.  Sanchez/Rieman       75
-     R4  Weekes/Crawford      def.  Sanchez/Rieman       63
-     R3  Favier/Mainguy       def.  Young/Sanchez        64
-     R2  Favier/Mainguy       def.  Weekes/Crawford      62
-     R1  Vance/Teberikov      def.  Weekes/Crawford      62
- > Flight 4
-  > Main
-      F  Pla/Everett          def.  Nguyen/Rieman        64
 ~~~
 
 <a name="21-27941"></a>
