@@ -12,6 +12,7 @@
 - 10/29/2021 - [Crimson Halloween Invite](#21-48385) ([Results](#21-48385) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gamecock Scramble](#21-06171) ([Results](#21-06171) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
+- 10/29/2021 - [Rice Fall Challenge](#21-45244) ([Results](#21-45244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityM/Tournaments/Overview/014D4049-2DA7-4F05-A176-8C88B48C0A0E" target="_blank">Draws</a>)  
 - 10/29/2021 - [Seahawk Team Invite](#21-55779) ([Results](#21-55779) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Draws</a>)  
 - 10/29/2021 - [Virginia Tech Halloween Clash](#21-26801) ([Results](#21-26801) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Draws</a>)  
 - 10/29/2021 - [Saint Leo Hidden Duals - Men](#21-17543) ([Results](#21-17543) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Draws</a>)  
@@ -1317,6 +1318,56 @@
      QF  Brady Thomas         def.  Sam Baldwin          Walkover
      QF  Josh Watkins         def.  Bruno Ortega         76(5) 46 [8]
      QF  Alex Asenov          def.  Drew Dillon          Walkover
+~~~
+
+<a name="21-45244"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Rice Fall Challenge
+  Dates: Oct 29-31, 2021
+  Host: Rice University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Men's Open Singles Day 1
+  > Main
+     32  Emir Sendogan      def.  Jordi Redelijk  64 46 62
+     32  Louis Cloud        def.  Wes Barnett     61 62
+     32  Ivan Thamma        def.  Dylan Heap      67(2) 60 63
+     32  Campbell Salmon    def.  Callaway Clark  64 76(5)
+     32  Isaac Arevalo      def.  Luc Hoeijmans   61 62
+     32  Olle Wallin        def.  Luka Petrovic   75 64
+     32  Takeyasu Sekiguchi def.  Benji Jacobson  62 61
+     32  Billy Suarez       def.  Garrett Skelly  62 62
+     32  Rafael De Alba     def.  Javier Gonzalez 76(4) 26 75
+     32  Fynn Kuenkler      def.  Joao Ceolin     62 63
+     32  Charlie Barry      def.  Miguel Alonso   61 61
+     32  Maxim Groysman     def.  Alex Bancila    62 64
+ > Men's Open Singles Day 2
+  > Main
+     32  Wes Barnett        def.  Miguel Alonso   64 64
+     32  Joao Ceolin        def.  Dylan Heap      16 63 76(4)
+     32  Emir Sendogan      def.  Maxim Groysman  63 36 63
+     32  Javier Gonzalez    def.  Trinity Grear   62 61
+     32  Garrett Skelly     def.  Campbell Salmon 64 75
+     32  Rafael De Alba     def.  Ivan Thamma     26 63 76(7)
+     32  Luc Hoeijmans      def.  Olle Wallin     64 75
+     32  Adam Neff          def.  Luka Petrovic   76(2) 61
+     32  Charlie Barry      def.  Louis Cloud     64 76(3)
+     32  Isaac Arevalo      def.  Fynn Kuenkler   26 76(4) 64
+     32  Alex Bancila       def.  Callaway Clark  63 46 62
+     32  Benji Jacobson     def.  Eli Susser      63 75
+ > Men's Open Singles Day 3
+  > Main
+     32  Dylan Heap         def.  Rafael De Alba  63 36 60
+     32  Emir Sendogan      def.  Luka Petrovic   61 75
+     32  Wes Barnett        def.  Luc Hoeijmans   67(4) 63 75
+     32  Louis Cloud        def.  Alex Bancila    75 60
+     32  Charlie Barry      def.  Garrett Skelly  63 Ret.
+     32  Miguel Alonso      def.  Benji Jacobson  36 63 64
+     32  Ivan Thamma        def.  Joao Ceolin     64 36 62
+     32  Maxim Groysman     def.  Callaway Clark  64 67(5) 64
+     32  Olle Wallin        def.  Jordi Redelijk  63 63
+     32  Takeyasu Sekiguchi def.  Eli Susser      60 61
 ~~~
 
 <a name="21-55779"></a>

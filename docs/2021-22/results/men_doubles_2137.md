@@ -23,6 +23,7 @@
 - 9/18/2021 - [Division II Men’s Atlantic ITA Regional Championships](#21-72013) ([Results](#21-72013) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/1612DF81-297F-4862-94B4-0C79FB985493" target="_blank">Draws</a>)  
 - 9/17/2021 - [Division III Men's Northwest ITA Regional Championships](#21-72414) ([Results](#21-72414) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/293CC684-E897-42E1-A5D8-010605E71990" target="_blank">Draws</a>)  
 - 9/19/2021 - [Firebird Challenge](#21-51274) ([Results](#21-51274) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarthageCollegeM/Tournaments/Overview/0360BE02-00EA-4704-B66F-2ED3ACEF18A1" target="_blank">Draws</a>)  
+- 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 - 9/18/2021 - [Limestone Men's Challenger](#21-84230) ([Results](#21-84230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityM/Tournaments/Overview/BD22EB5E-C006-486B-9907-D53E0DC6FA01" target="_blank">Draws</a>)  
 - 9/18/2021 - [Middlebury Invitational 2021](#21-64248) ([Results](#21-64248) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/97C4AA58-56BC-46A0-8287-9B7C41BD76A7" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
@@ -32,6 +33,7 @@
 
 **Tournaments without Matches**  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
+- 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">KCAC Individual Tournament</a>  
 - 9/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SwarthmoreCollegeM/Tournaments/Overview/EBF37285-C88B-4F3E-B6EA-6C0DE013DBB8" target="_blank">Swat Men's Tennis Invite</a>  
@@ -1016,6 +1018,55 @@
      32  Lowe/Mitev           def.  Guillermo/Wankerl    86
      32  Fawaz/Lauer          def.  Aranda/Baldwin       87(6)
      32  Kozmer/Mautone       def.  Blomquist/Mears      86
+~~~
+
+<a name="21-76336"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  GPAC Individual
+  Dates: Sep 17-18, 2021
+  Host: College Of Saint Mary (W)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > Main
+      F (1) Chevez/Gutierrez     def.     Howes/Rojas          64
+     SF (1) Chevez/Gutierrez     def. (4) Janssen/Struffi      62
+     SF     Howes/Rojas          def. (2) Abete/Gibson         63
+     QF (1) Chevez/Gutierrez     def.     Bomgaars/VandenBerg  62
+     QF (4) Janssen/Struffi      def.     Kitson/Rabellino     75
+     QF     Howes/Rojas          def. (3) Infante/Sakoda       Walkover
+     QF (2) Abete/Gibson         def.     OBrien/Maza Martin   62
+     16     Bomgaars/VandenBerg  def.     Smeltzer/Sodorff     64
+     16     Kitson/Rabellino     def.     Wagner/Gonsor        62
+     16     Howes/Rojas          def.     Royal/Royal          63
+     16     OBrien/Maza Martin   def.     Roisum/Harmelink     62
+  > Consolation
+     SF     Smeltzer/Sodorff     def.     Wagner/Gonsor        60
+     SF     Royal/Royal          def.     Roisum/Harmelink     62
+     QF     Royal/Royal          def. (3) Infante/Sakoda       Walkover
+ > Flight B
+  > Main
+      F (1) Attrill/Thiel        def. (3) Brocanelli/Sion      75
+     SF (1) Attrill/Thiel        def. (4) Ciotti/Hansen        61
+     SF (3) Brocanelli/Sion      def. (2) Beke/Coy             60
+     QF (1) Attrill/Thiel        def.     Woodrow/VanRijs      61
+     QF (4) Ciotti/Hansen        def.     Sodorff/Waite        64
+     QF (3) Brocanelli/Sion      def.     Bindl/Springer       61
+     QF (2) Beke/Coy             def.     Arza/Heiss           64
+     16     Woodrow/VanRijs      def.     Nyugen/Tennant       76(3)
+     16     Sodorff/Waite        def.     Kelley/Johnson       63
+     16 (4) Ciotti/Hansen        def.     Ayala/Thompson       62
+     16 (3) Brocanelli/Sion      def.     Mulder/Schorg        62
+     16     Bindl/Springer       def.     Bornemeier/Martin    62
+     16     Arza/Heiss           def.     DeLeo/Swaney         61
+     16 (2) Beke/Coy             def.     Pacheco/Rodriguez B… 63
+  > Consolation
+     SF     Kelley/Johnson       def.     Ayala/Thompson       61
+     SF     Pacheco/Rodriguez B… def.     Bornemeier/Martin    63
+     QQ     Ayala/Thompson       def.     Nyugen/Tennant       75
+     QQ     Bornemeier/Martin    def.     Mulder/Schorg        63
+     QQ     Pacheco/Rodriguez B… def.     DeLeo/Swaney         64
 ~~~
 
 <a name="21-84230"></a>

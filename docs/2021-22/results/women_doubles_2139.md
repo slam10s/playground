@@ -1,10 +1,12 @@
 <a name="top"></a>[<< Prev](women_doubles_2138.md) &nbsp; **Week #39 - Sep 27 - Oct 3** &nbsp; [Next >>](women_doubles_2140.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_doubles_2139.md) &#124; [***Women***](./women_doubles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singles](./women_singles_2139.md) &#124; [***Doubles***](./women_doubles_2139.md)
 
 **Tournamets with Matches**  
+- 9/26/2021 - [Crimson Clash Invitational](#21-92387) ([Results](#21-92387) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/752CCDFE-B4CA-43BC-B2A3-ECA8A986B374" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division II Women's Atlantic ITA Regional Championships](#21-02393) ([Results](#21-02393) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillersvilleUniversityW/Tournaments/Overview/AC190190-736B-4838-AE7A-A4CD92F079D3" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division III Women's Southeast ITA Regional Championships](#21-12873) ([Results](#21-12873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Draws</a>)  
@@ -33,6 +35,7 @@
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Women's New England ITA Regional Championships](#21-20521) ([Results](#21-20521) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Draws</a>)  
+- 10/1/2021 - [Division III Women's South ITA Regional Championships](#21-21997) ([Results](#21-21997) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SewaneeUOfTheSouthW/Tournaments/Overview/444BCEF3-8673-4922-AB1D-45C355E8DE28" target="_blank">Draws</a>)  
 - 9/30/2021 - [Division III Women's Southwest ITA Regional Championships](#21-36423) ([Results](#21-36423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonW/Tournaments/Overview/39873211-F8A9-40EA-B250-F23B1167F8F3" target="_blank">Draws</a>)  
 - 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
@@ -44,6 +47,22 @@
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
+
+<a name="21-92387"></a>
+~~~
+═══════════════════════════════════════════════════════════
+  Crimson Clash Invitational
+  Dates: Sep 26-27, 2021
+  Host: Harvard University (W)
+═══════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > HV vs BU
+  > Main
+     QF  Daujotaite/Duncan def.  Di Battista/Carlsten 64
+     QF  Yaloz/Tan         def.  Lim/You              61
+     QF  Fischer/Arbitman  def.  Kleynerman/Kostirko  62
+     QF  Nguyen/Sharma     def.  Snyder/Marculescu    64
+~~~
 
 <a name="21-30664"></a>
 ~~~
@@ -303,6 +322,65 @@
       16  Toothman/Ladan       def.  Courdi/Saez-Raez     Walkover
       16  Budin/Theodora       def.  Cevera/Nadai         80
       16  Chikhalenko/Capofer… def.  Lerario dos Santos/… 86
+~~~
+
+<a name="21-51444"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════
+  Division III Women's Central ITA Regional Championships
+  Dates: Sep 24-27, 2021
+  Host: Kalamazoo College (W)
+════════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+       F (1) Mikos/Guo            def. (4) Beshentseva/Vazquez  46 76(1) [4]
+      SF (1) Mikos/Guo            def.     Hoog/Eiss            82
+      SF (4) Beshentseva/Vazquez  def. (2) Gao/Heidbreder       84
+      QF (1) Mikos/Guo            def. (5) Hendricks/Johnston   84
+      QF     Hoog/Eiss            def. (3) Cianciola/Robertson  85
+      QF (4) Beshentseva/Vazquez  def. (5) Hougland/Kanthaphix… 83
+      QF (2) Gao/Heidbreder       def. (5) Ng/Wang              86
+      16 (1) Mikos/Guo            def.     Henson/Storrer       83
+      16 (5) Hendricks/Johnston   def.     Norton/Hurley        80
+      16 (3) Cianciola/Robertson  def.     Campos/Lopez         85
+      16     Hoog/Eiss            def.     Burton/Robinson      82
+      16 (5) Hougland/Kanthaphix… def.     Campbell/Gulli       84
+      16 (4) Beshentseva/Vazquez  def.     Gomez/Quintero       84
+      16 (5) Ng/Wang              def.     Reese/Zivkovic       82
+      16 (2) Gao/Heidbreder       def.     Goculdas/Patel       85
+      32 (1) Mikos/Guo            def.     Isaac/Sproule        83
+      32     Henson/Storrer       def.     Heideman/Morris      85
+      32 (5) Hendricks/Johnston   def.     Himebauch/Johnson    83
+      32     Norton/Hurley        def.     Brezovar/Higgins     80
+      32 (3) Cianciola/Robertson  def.     Smashey/Sawyer       86
+      32     Campos/Lopez         def.     Valade/Jost          80
+      32     Burton/Robinson      def. (5) Jackson/McCarty      84
+      32     Hoog/Eiss            def.     Dakos/Pontillo       86
+      32     Campbell/Gulli       def.     Gardner/DiBiase      87(7)
+      32 (5) Hougland/Kanthaphix… def.     Markus/Willer        80
+      32     Gomez/Quintero       def.     Birosta/Brannon      87(5)
+      32 (4) Beshentseva/Vazquez  def.     Cole/Spirrison       83
+      32     Reese/Zivkovic       def.     Hanulikova/Schoeck   84
+      32 (5) Ng/Wang              def.     Gupta/Patlolla       84
+      32     Goculdas/Patel       def.     Johns/Weeber         81
+      32 (2) Gao/Heidbreder       def.     Lopez/Brual          82
+  > Consolation
+       F (5) Jackson/McCarty      def.     Lopez/Brual          84
+      SF (5) Jackson/McCarty      def.     Himebauch/Johnson    83
+      SF     Lopez/Brual          def.     Cole/Spirrison       86
+      QF     Himebauch/Johnson    def.     Heideman/Morris      85
+      QF (5) Jackson/McCarty      def.     Smashey/Sawyer       81
+      QF     Cole/Spirrison       def.     Markus/Willer        86
+      QF     Lopez/Brual          def.     Hanulikova/Schoeck   84
+     16Q     Heideman/Morris      def.     Isaac/Sproule        Walkover
+     16Q     Himebauch/Johnson    def.     Brezovar/Higgins     85
+     16Q     Smashey/Sawyer       def.     Valade/Jost          82
+     16Q (5) Jackson/McCarty      def.     Dakos/Pontillo       84
+     16Q     Markus/Willer        def.     Gardner/DiBiase      85
+     16Q     Cole/Spirrison       def.     Birosta/Brannon      84
+     16Q     Hanulikova/Schoeck   def.     Gupta/Patlolla       Walkover
+     16Q     Lopez/Brual          def.     Johns/Weeber         82
 ~~~
 
 <a name="21-82716"></a>
@@ -1862,6 +1940,61 @@
       F     Raman/Miller          vs      Gaeth/Yu             
      SF     Raman/Miller         def.     Alviar/Shen          83
      SF     Gaeth/Yu             def.     Goshgarian/Goshgari… 81
+~~~
+
+<a name="21-21997"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Division III Women's South ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: Sewanee: U Of The South (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Main Draw Doubles
+  > Main
+       F (1) Li/Goetz             def.     Cartledge/Fatemi     63 75
+      SF (1) Li/Goetz             def.     Perez/Yoon           62 63
+      SF     Cartledge/Fatemi     def. (4) Despriet/Hall        63 36 64
+      QF (1) Li/Goetz             def.     Smith/Nowak          85
+      QF     Perez/Yoon           def.     Nassar/Carpenter     84
+      QF (4) Despriet/Hall        def.     Shulman/Falcon       85
+      QF     Cartledge/Fatemi     def. (2) Watson/McPherron     84
+      16 (1) Li/Goetz             def.     Reid/Towning         80
+      16     Smith/Nowak          def.     Rueff/Hill           84
+      16     Nassar/Carpenter     def. (5) Dule/Rescia          87(5)
+      16     Perez/Yoon           def.     Mcgough/Holderness   84
+      16     Shulman/Falcon       def.     Adams/Besh           84
+      16 (4) Despriet/Hall        def.     Mariotti/Schoorsmans 81
+      16     Cartledge/Fatemi     def.     Livingston/Caldwell  81
+      16 (2) Watson/McPherron     def.     Vincent/Laidman      83
+      32 (1) Li/Goetz             def.     Rushing/Prater       Walkover
+      32     Reid/Towning         def.     Moody/Gish           82
+      32     Smith/Nowak          def.     Lawrence/Kidd        83
+      32     Rueff/Hill           def.     Forster/Merletti     86
+      32 (5) Dule/Rescia          def.     Mills/Lwin           81
+      32     Nassar/Carpenter     def.     Adan-Pol/Lemasters   84
+      32     Mcgough/Holderness   def. (3) Sherman/Doherty      86
+      32     Perez/Yoon           def.     Everhart/Fremaux     83
+      32     Adams/Besh           def.     Dattilo/Alleyne      81
+      32     Shulman/Falcon       def.     McHale/Letourneau    82
+      32     Mariotti/Schoorsmans def.     Laney/Lewis          84
+      32 (4) Despriet/Hall        def.     Clayton/Brown        81
+      32     Cartledge/Fatemi     def.     Trinh/Lancaster      81
+      32     Livingston/Caldwell  def.     Turley/Stewart       82
+      32     Vincent/Laidman      def.     Massey/Un            80
+  > Consolation
+      SF (3) Sherman/Doherty      def.     Forster/Merletti     86
+      SF     McHale/Letourneau    def.     Massey/Un            80
+      QF     Forster/Merletti     def.     Moody/Gish           84
+      QF (3) Sherman/Doherty      def.     Adan-Pol/Lemasters   84
+      QF     McHale/Letourneau    def.     Clayton/Brown        86
+      QF     Massey/Un            def.     Trinh/Lancaster      Walkover
+     16Q     Forster/Merletti     def.     Lawrence/Kidd        86
+     16Q     Adan-Pol/Lemasters   def.     Mills/Lwin           81
+     16Q (3) Sherman/Doherty      def.     Everhart/Fremaux     82
+     16Q     McHale/Letourneau    def.     Dattilo/Alleyne      85
+     16Q     Clayton/Brown        def.     Laney/Lewis          84
+     16Q     Trinh/Lancaster      def.     Turley/Stewart       86
 ~~~
 
 <a name="21-36423"></a>

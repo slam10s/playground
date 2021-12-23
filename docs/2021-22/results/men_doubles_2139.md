@@ -12,6 +12,7 @@
 - 10/2/2021 - [Davidson College Invite](#21-95483) ([Results](#21-95483) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Draws</a>)  
 - 10/1/2021 - [EIU Panther Hidden Duals](#21-91236) ([Results](#21-91236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">Draws</a>)  
 - 10/1/2021 - [Hagedorn Hidden Dual](#21-03884) ([Results](#21-03884) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Draws</a>)  
+- 10/1/2021 - [Idaho State Bengal Invitational](#21-23711) ([Results](#21-23711) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Draws</a>)  
 - 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/1/2021 - [MSU Bulldog Invitational](#21-39463) ([Results](#21-39463) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77" target="_blank">Draws</a>)  
@@ -551,6 +552,42 @@
      QF  Krulig/Sallay      def.  Stater/Niranjan    63
      QF  Terry/Ingles Garre def.  Amiri/Mkrtchian    61
      QF  Sah/Smart          def.  Garcia/Conway      63
+~~~
+
+<a name="21-23711"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Idaho State Bengal Invitational
+  Dates: Oct 1-3, 2021
+  Host: Idaho State University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles
+  > East
+     SF  Andrus/Lin         def.  Kramer/Cankus      62
+     SF  Gavelin/Ta         def.  Hallgren/Benn      62
+     QF  Andrus/Lin         def.  Kristensen/Trhac   Walkover
+     QF  Kramer/Cankus      def.  Sciglitano/Baldwin 75
+     QF  Gavelin/Ta         def.  Fujita/Petrovic    63
+     QF  Hallgren/Benn      def.  Fuchs/Leite        76(6)
+     16  Andrus/Lin         def.  Blando/Blando      63
+     16  Kramer/Cankus      def.  Zelver/Watkins     61
+     16  Gavelin/Ta         def.  Buckland/Monteiro  63
+     16  Hallgren/Benn      def.  Robbertse/Matuszak 63
+  > West
+      F  Buckland/Monteiro  def.  Blando/Blando      64
+     SF  Blando/Blando      def.  Zelver/Watkins     62
+     SF  Buckland/Monteiro  def.  Robbertse/Matuszak 76(4)
+  > North
+     SF  Sciglitano/Baldwin def.  Kristensen/Trhac   Walkover
+     SF  Fuchs/Leite        def.  Fujita/Petrovic    62
+  > 3-4 Playoff
+      F  Kramer/Cankus      def.  Hallgren/Benn      64
+  > Southwest
+      F  Zelver/Watkins     def.  Robbertse/Matuszak 76(4)
+ > Extra Doubles
+  > Main
+      F  Fujita/Petrovic    def.  Blando/Blando      63
 ~~~
 
 <a name="21-73796"></a>

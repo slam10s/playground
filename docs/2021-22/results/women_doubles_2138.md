@@ -14,6 +14,7 @@
 - 9/24/2021 - [Bluejay Invite](#21-97501) ([Results](#21-97501) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CreightonUniversityW/Tournaments/Overview/9CFAB6A8-8E2B-42E6-9D2D-9A4EECB3CAEB" target="_blank">Draws</a>)  
 - 9/24/2021 - [Bulldog Invitational](#21-92623) ([Results](#21-92623) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D" target="_blank">Draws</a>)  
 - 9/24/2021 - [Charleston Southern Invitational](#21-91616) ([Results](#21-91616) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CharlestonSouthernUnivW/Tournaments/Overview/0DAD2A4A-3B08-46CE-A853-2E2C8A41E803" target="_blank">Draws</a>)  
+- 9/26/2021 - [Crimson Clash Invitational](#21-92387) ([Results](#21-92387) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/752CCDFE-B4CA-43BC-B2A3-ECA8A986B374" target="_blank">Draws</a>)  
 - 9/25/2021 - [Emily McNall Classic](#21-01576) ([Results](#21-01576) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCAshevilleW/Tournaments/Overview/0D572E9B-B482-4879-8E99-EF01542FECFB" target="_blank">Draws</a>)  
 - 9/24/2021 - [Hoosier Classic](#21-26995) ([Results](#21-26995) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IndianaUniversityW/Tournaments/Overview/1DDCC0A9-FDC4-4049-818C-9AE7035D2525" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
@@ -30,6 +31,7 @@
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division II Women's Atlantic ITA Regional Championships](#21-02393) ([Results](#21-02393) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillersvilleUniversityW/Tournaments/Overview/AC190190-736B-4838-AE7A-A4CD92F079D3" target="_blank">Draws</a>)  
 - 9/23/2021 - [Division II Women's South Central ITA Regional Championships](#21-38109) ([Results](#21-38109) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AngeloStateUniversityW/Tournaments/Overview/3ED81CC9-A8E1-4259-B508-B4D6EEF90A89" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division III Women's Southeast ITA Regional Championships](#21-12873) ([Results](#21-12873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Draws</a>)  
@@ -39,6 +41,7 @@
 - 9/23/2021 - [Junior College Women's Florida ITA Regional Championships](#21-32805) ([Results](#21-32805) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsboroughCommCollW/Tournaments/Overview/7F0E69DB-E74C-484A-8008-85667F524119" target="_blank">Draws</a>)  
 - 9/24/2021 - [Lindsay Morehouse Invitational](#21-15800) ([Results](#21-15800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamsCollegeW/Tournaments/Overview/29825979-F460-4366-ACCA-41A880C0E1DA" target="_blank">Draws</a>)  
 - 9/24/2021 - [NAIA Men's & Women’s Central West ITA Regional Championships](#21-71515) ([Results](#21-71515) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/4634336A-CD7E-4460-A5BC-7A5845C12F23" target="_blank">Draws</a>)  
+- 9/23/2021 - [NAIA Men’s & Women's Central East ITA Regional Championships](#21-30614) ([Results](#21-30614) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OlivetNazareneUniversityM/Tournaments/Overview/64071334-93D8-4F00-A376-DE31F2A79DBC" target="_blank">Draws</a>)  
 - 9/25/2021 - [SLU Women's Invitational](#21-43304) ([Results](#21-43304) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StLawrenceUniversityM/Tournaments/Overview/30A7E87D-28B1-49C9-A378-10FD9FB57350" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
@@ -755,6 +758,22 @@
  > App State vs. Davidson B
   > Main
       F  Murphy/Dodridge     def.  Heiderscheit/Shea    63
+~~~
+
+<a name="21-92387"></a>
+~~~
+════════════════════════════════════════════════════════
+  Crimson Clash Invitational
+  Dates: Sep 26-27, 2021
+  Host: Harvard University (W)
+════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > HV vs BU
+  > Main
+     QF  Daujotaite/Duncan def.  Di Battista/Carlsten 64
+     QF  Yaloz/Tan         def.  Lim/You              61
+     QF  Fischer/Arbitman  def.  Kleynerman/Kostirko  62
+     QF  Nguyen/Sharma     def.  Snyder/Marculescu    64
 ~~~
 
 <a name="21-01576"></a>
@@ -1617,6 +1636,65 @@
        F     Runyan/Guillamon     def.     Terrazas/Paredes     Walkover
 ~~~
 
+<a name="21-51444"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════
+  Division III Women's Central ITA Regional Championships
+  Dates: Sep 24-27, 2021
+  Host: Kalamazoo College (W)
+════════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+       F (1) Mikos/Guo            def. (4) Beshentseva/Vazquez  46 76(1) [4]
+      SF (1) Mikos/Guo            def.     Hoog/Eiss            82
+      SF (4) Beshentseva/Vazquez  def. (2) Gao/Heidbreder       84
+      QF (1) Mikos/Guo            def. (5) Hendricks/Johnston   84
+      QF     Hoog/Eiss            def. (3) Cianciola/Robertson  85
+      QF (4) Beshentseva/Vazquez  def. (5) Hougland/Kanthaphix… 83
+      QF (2) Gao/Heidbreder       def. (5) Ng/Wang              86
+      16 (1) Mikos/Guo            def.     Henson/Storrer       83
+      16 (5) Hendricks/Johnston   def.     Norton/Hurley        80
+      16 (3) Cianciola/Robertson  def.     Campos/Lopez         85
+      16     Hoog/Eiss            def.     Burton/Robinson      82
+      16 (5) Hougland/Kanthaphix… def.     Campbell/Gulli       84
+      16 (4) Beshentseva/Vazquez  def.     Gomez/Quintero       84
+      16 (5) Ng/Wang              def.     Reese/Zivkovic       82
+      16 (2) Gao/Heidbreder       def.     Goculdas/Patel       85
+      32 (1) Mikos/Guo            def.     Isaac/Sproule        83
+      32     Henson/Storrer       def.     Heideman/Morris      85
+      32 (5) Hendricks/Johnston   def.     Himebauch/Johnson    83
+      32     Norton/Hurley        def.     Brezovar/Higgins     80
+      32 (3) Cianciola/Robertson  def.     Smashey/Sawyer       86
+      32     Campos/Lopez         def.     Valade/Jost          80
+      32     Burton/Robinson      def. (5) Jackson/McCarty      84
+      32     Hoog/Eiss            def.     Dakos/Pontillo       86
+      32     Campbell/Gulli       def.     Gardner/DiBiase      87(7)
+      32 (5) Hougland/Kanthaphix… def.     Markus/Willer        80
+      32     Gomez/Quintero       def.     Birosta/Brannon      87(5)
+      32 (4) Beshentseva/Vazquez  def.     Cole/Spirrison       83
+      32     Reese/Zivkovic       def.     Hanulikova/Schoeck   84
+      32 (5) Ng/Wang              def.     Gupta/Patlolla       84
+      32     Goculdas/Patel       def.     Johns/Weeber         81
+      32 (2) Gao/Heidbreder       def.     Lopez/Brual          82
+  > Consolation
+       F (5) Jackson/McCarty      def.     Lopez/Brual          84
+      SF (5) Jackson/McCarty      def.     Himebauch/Johnson    83
+      SF     Lopez/Brual          def.     Cole/Spirrison       86
+      QF     Himebauch/Johnson    def.     Heideman/Morris      85
+      QF (5) Jackson/McCarty      def.     Smashey/Sawyer       81
+      QF     Cole/Spirrison       def.     Markus/Willer        86
+      QF     Lopez/Brual          def.     Hanulikova/Schoeck   84
+     16Q     Heideman/Morris      def.     Isaac/Sproule        Walkover
+     16Q     Himebauch/Johnson    def.     Brezovar/Higgins     85
+     16Q     Smashey/Sawyer       def.     Valade/Jost          82
+     16Q (5) Jackson/McCarty      def.     Dakos/Pontillo       84
+     16Q     Markus/Willer        def.     Gardner/DiBiase      85
+     16Q     Cole/Spirrison       def.     Birosta/Brannon      84
+     16Q     Hanulikova/Schoeck   def.     Gupta/Patlolla       Walkover
+     16Q     Lopez/Brual          def.     Johns/Weeber         82
+~~~
+
 <a name="21-82716"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════
@@ -2062,6 +2140,49 @@
      32  Maples/Maxey         def.  Moore/Moore          84
      32  Van der Torre/Macke  def.  Benson/Crowe         86
      32  Pinto/Novati         def.  Glosser/Fox          82
+~~~
+
+<a name="21-30614"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  NAIA Men’s & Women's Central East ITA Regional Championships
+  Dates: Sep 23-25, 2021
+  Host: Olivet Nazarene University (M)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F (1) Zavala/Lindeboom     def. (6) Moyo/Mzibri          46 75 [2]
+     SF (1) Zavala/Lindeboom     def. (4) Lopez/Beer           86
+     SF (6) Moyo/Mzibri          def. (2) Westkamp/Cedano      98(4)
+     QF (1) Zavala/Lindeboom     def.     Calvo Larraz/Komisz… 97
+     QF (4) Lopez/Beer           def.     Yu - Chen/Patel      82
+     QF (6) Moyo/Mzibri          def. (3) Berban/Wijesooryia   83
+     QF (2) Westkamp/Cedano      def.     Mijailovic/Guillen … 97
+     16 (1) Zavala/Lindeboom     def.     Ruediger/Tomala Egas 82
+     16     Calvo Larraz/Komisz… def. (7) Banning/Maaroufi     97
+     16 (4) Lopez/Beer           def.     Ruggiero/Matheis     81
+     16     Yu - Chen/Patel      def. (5) Corona Garza/Medina… 98(4)
+     16 (6) Moyo/Mzibri          def.     Brackenrig/Quiett    84
+     16 (3) Berban/Wijesooryia   def.     Rivas/Rivas          82
+     16     Mijailovic/Guillen … def.     Davis/Bowens         84
+     16 (2) Westkamp/Cedano      def.     Hahn/Saini           81
+     32 (1) Zavala/Lindeboom     def.     Vasiljkovic/Griese   82
+     32     Ruediger/Tomala Egas def.     Eaton/Collins        82
+     32 (7) Banning/Maaroufi     def.     Ordinteva/Gowthaman  83
+     32     Calvo Larraz/Komisz… def.     Spartmann/Katsouda   97
+     32 (4) Lopez/Beer           def.     Monahan/Robert       81
+     32     Ruggiero/Matheis     def.     Kheterpal/Hordzich   83
+     32     Yu - Chen/Patel      def.     Wappel/Bruns         Walkover
+     32 (5) Corona Garza/Medina… def.     Maillotte/Burgersdi… 83
+     32     Brackenrig/Quiett    def.     Meaurio-Martin/Fort… 81
+     32 (6) Moyo/Mzibri          def.     Goyvaerts/Alvarez    85
+     32     Rivas/Rivas          def.     Zoeteman/Palmer      81
+     32 (3) Berban/Wijesooryia   def.     Lizano/Sikich        81
+     32     Davis/Bowens         def.     Baracaldo/Feick      80
+     32     Mijailovic/Guillen … def. (8) Christiansen/Kuzmin… 86
+     32     Hahn/Saini           def.     Meyer/Kowalke        86
+     32 (2) Westkamp/Cedano      def.     Haws/Nhiwatiwa       82
 ~~~
 
 <a name="21-43304"></a>

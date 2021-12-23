@@ -12,6 +12,7 @@
 - 10/29/2021 - [Crimson Halloween Invite](#21-48385) ([Results](#21-48385) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gamecock Scramble](#21-06171) ([Results](#21-06171) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
+- 10/29/2021 - [Rice Fall Challenge](#21-45244) ([Results](#21-45244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityM/Tournaments/Overview/014D4049-2DA7-4F05-A176-8C88B48C0A0E" target="_blank">Draws</a>)  
 - 10/29/2021 - [Seahawk Team Invite](#21-55779) ([Results](#21-55779) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Draws</a>)  
 - 10/29/2021 - [Virginia Tech Halloween Clash](#21-26801) ([Results](#21-26801) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Draws</a>)  
 - 10/29/2021 - [Saint Leo Hidden Duals - Men](#21-17543) ([Results](#21-17543) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/4DE00692-49F8-4898-A9CB-7FFA5EABA26D" target="_blank">Draws</a>)  
@@ -564,6 +565,40 @@
  > Red South
   > Main
       F  Monteiro/Sitar       def.  Paz/Grimes          87(6)
+~~~
+
+<a name="21-45244"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Rice Fall Challenge
+  Dates: Oct 29-31, 2021
+  Host: Rice University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Men's open Double Day 1
+  > Main
+     16  Sendogan/Sekiguchi def.  De Alba/Hoeijmans  86
+     16  Heap/Valenty       def.  Kuenkler/Bancila   98(5)
+     16  Suarez/Barry       def.  Barnett/Salmon     84
+     16  Jacobson/Petrovic  def.  Wallin/Arevalo     97
+     16  Ceolin/Gonzalez    def.  Thamma/Neff        98(6)
+     16  Skelly/Alonso      def.  Clark/Cloud        97
+ > Men's Open Doubles Day 2
+  > Main
+     16  Ceolin/Gonzalez    def.  Kuenkler/Barry     86
+     16  Clark/Cloud        def.  Sendogan/Barnett   82
+     16  Thamma/Neff        def.  Heap/Valenty       83
+     16  Suarez/Petrovic    def.  Sekiguchi/Wallin   86
+     16  Skelly/Alonso      def.  Hoeijmans/Jacobson 82
+     16  De Alba/Bancila    def.  Susser/Groysman    82
+ > Men's Open DOubles Day 3
+  > Main
+     16  Ceolin/Gonzalez    def.  Grear/Heap         86
+     16  Thamma/Neff        def.  Kuenkler/Petrovic  83
+     16  Valenty/Barnett    def.  Skelly/Alonso      81
+     16  Sekiguchi/Wallin   def.  Suarez/De Alba     86
+     16  Salmon/Sendogan    def.  Bancila/Jacobson   86
+     16  Clark/Cloud        def.  Hoeijmans/Barry    85
 ~~~
 
 <a name="21-55779"></a>

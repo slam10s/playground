@@ -24,6 +24,7 @@
 - 9/17/2021 - [Division II Women's East ITA Regional Championships](#21-70129) ([Results](#21-70129) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/29DA318D-C2C0-42F4-9D66-161D164776E0" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division II Women's Midwest ITA Regional Championships](#21-14491) ([Results](#21-14491) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfIndianapolisW/Tournaments/Overview/512F0B87-0C08-4030-A3A0-82FA105D9E04" target="_blank">Draws</a>)  
 - 9/18/2021 - [Division III Women's Northeast ITA Regional Championships](#21-29173) ([Results](#21-29173) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/BB0D8E68-8836-494F-934E-F38C52818CC8" target="_blank">Draws</a>)  
+- 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
 - 9/17/2021 - [Javalina Fall Quad](#21-30014) ([Results](#21-30014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityKingsvilleW/Tournaments/Overview/598273F2-FD41-4282-9467-EFD6330C79CC" target="_blank">Draws</a>)  
 - 9/18/2021 - [KCAC Individual Tournament](#21-28798) ([Results](#21-28798) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">Draws</a>)  
 - 9/17/2021 - [Methodist University Women's Fall Invitational](#21-80794) ([Results](#21-80794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MethodistUniversityW/Tournaments/Overview/4FFAB7FF-537E-4837-8CBB-5347D9DABA5B" target="_blank">Draws</a>)  
@@ -2148,6 +2149,74 @@
      64  Charlotte Roarty     def.  Kirsten Auble        62 62
      64  Stephanie Pratt      def.  Julianna Schulz      60 60
      64  Dakota Fordham       def.  Nitya Subramaniam    60 61
+~~~
+
+<a name="21-76336"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════════
+  GPAC Individual
+  Dates: Sep 17-18, 2021
+  Host: College Of Saint Mary (W)
+══════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight A
+  > Main
+      F (1) Renee Acena          def. (2) Arianna Lumanog      63 64
+     SF (1) Renee Acena          def. (4) Amber Weston         60 61
+     SF (2) Arianna Lumanog      def. (3) Mariane Lima         62 76(10)
+     QF (1) Renee Acena          def.     Emily Clotfelter     62 60
+     QF (4) Amber Weston         def.     Chloe Do Lago        46 62 [6]
+     QF (3) Mariane Lima         def.     Sofia Morales        61 61
+     QF (2) Arianna Lumanog      def.     Julia Kutz           61 60
+     16     Emily Clotfelter     def.     Wynne Vandersall     61 64
+     16     Chloe Do Lago        def.     Tara Ferrel          61 60
+     16 (4) Amber Weston         def.     Emma Markle          60 60
+     16 (3) Mariane Lima         def.     Aleks Sadowska       64 61
+     16     Sofia Morales        def.     Haley Gonsor         62 61
+     16     Julia Kutz           def.     Tessa Hurst          64 36 [3]
+     16 (2) Arianna Lumanog      def.     Theresa Price        63 61
+  > Consolation
+     QQ     Tara Ferrel          def.     Emma Markle          84
+     QQ     Aleks Sadowska       def.     Haley Gonsor         85
+     QQ     Tessa Hurst          def.     Theresa Price        85
+ > Flight B
+  > Main
+      F (1) Ava Macke            def. (2) Liz Van der Torre    61 36 [3]
+     SF (1) Ava Macke            def. (4) Elaina Fanton        16 76(3) [6]
+     SF (2) Liz Van der Torre    def.     Regi Zakrzewski      63 64
+     QF (1) Ava Macke            def.     Brooke Hosick        60 60
+     QF (4) Elaina Fanton        def.     Tenly Hansen         63 36 [5]
+     QF     Regi Zakrzewski      def. (3) Grace Felder         64 16 [8]
+     QF (2) Liz Van der Torre    def.     Ainslie Robinson     64 61
+     16     Brooke Hosick        def.     Sasha Richards       61 75
+     16     Tenly Hansen         def.     Kaia Chiasson        62 76(3)
+     16 (4) Elaina Fanton        def.     Brailey DeLaO        64 75
+     16 (3) Grace Felder         def.     Shelain Lewis        63 62
+     16     Regi Zakrzewski      def.     Tessa Blough         75 61
+     16     Ainslie Robinson     def.     Tashlynne Badger     76(1) 46 [8]
+  > Consolation
+     QQ     Kaia Chiasson        def.     Brailey DeLaO        83
+     QQ     Shelain Lewis        def.     Tessa Blough         86
+ > Flight C
+  > Main
+      F     Ashlyn Kucera        def. (1) Brylee Lauby         61 64
+     SF (1) Brylee Lauby         def. (3) Alexandra Glosser    63 61
+     SF     Ashlyn Kucera        def. (4) Nina Ngo             62 26 [8]
+     QF (1) Brylee Lauby         def.     Brooklyn Johnson     60 61
+     QF (3) Alexandra Glosser    def.     Katelyn Krejci       62 61
+     QF (4) Nina Ngo             def.     Jaclyn Negrete       62 63
+     QF     Ashlyn Kucera        def. (2) Keyana Hastings      61 64
+     16     Brooklyn Johnson     def.     Miranda Swanson      57 63 [4]
+     16     Katelyn Krejci       def.     Jessica Wilson       60 63
+     16 (3) Alexandra Glosser    def.     Jenna Davison        62 61
+     16 (4) Nina Ngo             def.     Shelby Buck          60 61
+     16     Jaclyn Negrete       def.     Emma Montenegro      62 62
+     16     Ashlyn Kucera        def.     Samantha Worthington 61 60
+     16 (2) Keyana Hastings      def.     Kylie Freudenburg    61 62
+  > Consolation
+     QQ     Jessica Wilson       def.     Jenna Davison        84
+     QQ     Emma Montenegro      def.     Shelby Buck          83
+     QQ     Samantha Worthington def.     Kylie Freudenburg    82
 ~~~
 
 <a name="21-30014"></a>

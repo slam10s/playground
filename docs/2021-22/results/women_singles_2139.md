@@ -1,10 +1,12 @@
 <a name="top"></a>[<< Prev](women_singles_2138.md) &nbsp; **Week #39 - Sep 27 - Oct 3** &nbsp; [Next >>](women_singles_2140.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2139.md) &#124; [***Women***](./women_singles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2139.md) &#124; [Doubles](./women_doubles_2139.md)
 
 **Tournamets with Matches**  
+- 9/26/2021 - [Crimson Clash Invitational](#21-92387) ([Results](#21-92387) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/752CCDFE-B4CA-43BC-B2A3-ECA8A986B374" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division II Women's Atlantic ITA Regional Championships](#21-02393) ([Results](#21-02393) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillersvilleUniversityW/Tournaments/Overview/AC190190-736B-4838-AE7A-A4CD92F079D3" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division III Women's Southeast ITA Regional Championships](#21-12873) ([Results](#21-12873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Draws</a>)  
@@ -33,6 +35,7 @@
 - 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Women's New England ITA Regional Championships](#21-20521) ([Results](#21-20521) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Draws</a>)  
+- 10/1/2021 - [Division III Women's South ITA Regional Championships](#21-21997) ([Results](#21-21997) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SewaneeUOfTheSouthW/Tournaments/Overview/444BCEF3-8673-4922-AB1D-45C355E8DE28" target="_blank">Draws</a>)  
 - 9/30/2021 - [Division III Women's Southwest ITA Regional Championships](#21-36423) ([Results](#21-36423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonW/Tournaments/Overview/39873211-F8A9-40EA-B250-F23B1167F8F3" target="_blank">Draws</a>)  
 - 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
@@ -44,6 +47,26 @@
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
+
+<a name="21-92387"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Crimson Clash Invitational
+  Dates: Sep 26-27, 2021
+  Host: Harvard University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > HV vs BU
+  > Main
+     16  Maxi Duncan       def.  Victoria Carlsten   61 62
+     16  Rachel Arbitman   def.  Michelle Kleynerman 61 61
+     16  Kaitlin Tan       def.  Iveta Daujotaite    61 76(5)
+     16  Angel You         def.  Shelly Yaloz        64 64
+     16  Erica Di Battista def.  Holly Fischer       64 63
+     16  Rachel Lim        def.  Sofia Kostirko      64 36 [6]
+     16  Sany Gawande      def.  Stephanie Nguyen    62 67 [6]
+     16  Amy Huang         def.  Sydney Sharma       62 67(4) [9]
+~~~
 
 <a name="21-30664"></a>
 ~~~
@@ -594,6 +617,113 @@
       32  Abigail Jones        def.  Madison Toothman     40 40
       32  Anna Chikhalenko     def.  Sandra Riecken       45(2) 53 [7]
       32  Victoria Cabral      def.  Rabiatu Ladan        41 40
+~~~
+
+<a name="21-51444"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════
+  Division III Women's Central ITA Regional Championships
+  Dates: Sep 24-27, 2021
+  Host: Kalamazoo College (W)
+════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Singles
+  > Main
+       F (1) Sylwia Mikos        def.     Miranda Yuan        62 61
+      SF (1) Sylwia Mikos        def. (3) Hannah Kassaie      62 63
+      SF     Miranda Yuan        def. (9) Victoria Vazquez    63 36 64
+      QF (1) Sylwia Mikos        def. (9) Sarah Robertson     60 60
+      QF (3) Hannah Kassaie      def. (8) Lauren Park         62 62
+      QF     Miranda Yuan        def.     Erin Storrer        60 57 63
+      QF (9) Victoria Vazquez    def. (2) Shianna Guo         46 76(3) 62
+      16 (1) Sylwia Mikos        def. (9) Ashley Spirrison    60 60
+      16 (9) Sarah Robertson     def. (5) Savannah Bright     60 61
+      16 (3) Hannah Kassaie      def. (9) Maicy McCarty       64 63
+      16 (8) Lauren Park         def. (9) Daria Beshentseva   60 62
+      16     Miranda Yuan        def.     Madeleine Eiss      61 60
+      16     Erin Storrer        def. (4) Sydney Cianciola    46 64 62
+      16 (9) Victoria Vazquez    def. (7) Randi Hendricks     63 75
+      16 (2) Shianna Guo         def. (9) Camila Gomez        63 61
+      32 (1) Sylwia Mikos        def.     Alaina Kanthaphixay 60 60
+      32 (9) Ashley Spirrison    def.     Sophia Huynh        61 36 [8]
+      32 (5) Savannah Bright     def.     Megan Reese         75 63
+      32 (9) Sarah Robertson     def.     Julianna Johnson    36 61 [3]
+      32 (3) Hannah Kassaie      def.     Divya Sharma        60 63
+      32 (9) Maicy McCarty       def.     Lillia Walter       63 60
+      32 (8) Lauren Park         def.     Ashtyn Morris       61 61
+      32 (9) Daria Beshentseva   def.     Margaret Bugnacki   63 62
+      32     Miranda Yuan        def.     Hannah Johnston     63 61
+      32     Madeleine Eiss      def.     Mj Campos           60 60
+      32     Erin Storrer        def. (9) Kaeli Smashey       75 64
+      32 (4) Sydney Cianciola    def.     Emily Markus        62 36 [7]
+      32 (9) Victoria Vazquez    def.     Monique Brual       60 61
+      32 (7) Randi Hendricks     def.     Gabriella Heideman  61 61
+      32 (9) Camila Gomez        def.     Kat Wilder          62 61
+      32 (2) Shianna Guo         def.     Anna Kan            75 60
+      64 (1) Sylwia Mikos        def.     Grace Gardner       60 60
+      64     Alaina Kanthaphixay def.     Anna Winslow        63 61
+      64 (9) Ashley Spirrison    def.     Sydney Khosla       60 60
+      64     Sophia Huynh        def.     Gaby Quintero       60 60
+      64 (5) Savannah Bright     def.     Otilia Oita         46 62 [4]
+      64     Megan Reese         def.     Lauren Oda          62 62
+      64 (9) Sarah Robertson     def.     Lucille Chamberlin  60 60
+      64     Julianna Johnson    def.     Katherine Price     75 75
+      64 (3) Hannah Kassaie      def.     Mireia Birosta      61 60
+      64     Divya Sharma        def.     Nikol Obradovic     63 75
+      64 (9) Maicy McCarty       def.     Caroline Lopez      64 62
+      64     Lillia Walter       def.     Kathryn Valade      60 60
+      64 (8) Lauren Park         def.     Hannah Hougland     61 63
+      64     Ashtyn Morris       def.     Ellen Gardner       63 76(6)
+      64 (9) Daria Beshentseva   def.     Lily Schoeck        61 61
+      64     Margaret Bugnacki   def.     Caroline Norton     76(5) 63
+      64     Hannah Johnston     def.     Erin Brezovar       63 62
+      64     Miranda Yuan        def. (9) Sydney Jackson      76(5) 64
+      64     Mj Campos           def.     Ella Knight         61 62
+      64     Madeleine Eiss      def.     Ashley Isaac        63 75
+      64     Erin Storrer        def.     Addison Brannon     60 60
+      64 (9) Kaeli Smashey       def.     Kathleen McLeod     62 61
+      64     Emily Markus        def.     Katherine Taylor    46 63 [9]
+      64 (4) Sydney Cianciola    def.     Eleni Dakos         63 76(5)
+      64     Monique Brual       def.     Sullivan Patel      64 63
+      64 (9) Victoria Vazquez    def.     Saige Jost          60 60
+      64     Gabriella Heideman  def.     Maddie Hurley       63 76(3)
+      64 (7) Randi Hendricks     def.     Jadyn Davis         60 60
+      64     Kat Wilder          def.     Ellie Himebauch     62 62
+      64 (9) Camila Gomez        def.     Charitha Patlolla   61 64
+      64     Anna Kan            def.     Caitlyn Hanulikova  64 06 [4]
+      64 (2) Shianna Guo         def.     Mia Zivkovic        63 62
+  > Consolation
+       F     Ashley Isaac        def.     Anna Winslow        61 64
+      SF     Anna Winslow        def.     Nikol Obradovic     60 61
+      SF     Ashley Isaac        def.     Sullivan Patel      Walkover
+      QF     Anna Winslow        def.     Katherine Price     63 62
+      QF     Nikol Obradovic     def.     Hannah Hougland     60 63
+      QF     Ashley Isaac        def.     Eleni Dakos         64 61
+      QF     Sullivan Patel      def.     Mia Zivkovic        61 60
+      16     Anna Winslow        def.     Sydney Khosla       62 61
+      16     Katherine Price     def.     Otilia Oita         63 63
+      16     Nikol Obradovic     def.     Caroline Lopez      06 75 [8]
+      16     Hannah Hougland     def.     Lily Schoeck        63 62
+      16     Ashley Isaac        def. (9) Sydney Jackson      36 75 [6]
+      16     Eleni Dakos         def.     Kathleen McLeod     60 61
+      16     Sullivan Patel      def.     Maddie Hurley       61 64
+      16     Mia Zivkovic        def.     Ellie Himebauch     57 61 [0]
+     32Q     Anna Winslow        def.     Grace Gardner       63 64
+     32Q     Sydney Khosla       def.     Gaby Quintero       60 63
+     32Q     Otilia Oita         def.     Lauren Oda          61 64
+     32Q     Katherine Price     def.     Lucille Chamberlin  63 61
+     32Q     Nikol Obradovic     def.     Mireia Birosta      57 75 [8]
+     32Q     Caroline Lopez      def.     Kathryn Valade      60 60
+     32Q     Hannah Hougland     def.     Ellen Gardner       26 64 [10]
+     32Q     Lily Schoeck        def.     Caroline Norton     50 Ret.
+     32Q (9) Sydney Jackson      def.     Erin Brezovar       61 62
+     32Q     Ashley Isaac        def.     Ella Knight         61 60
+     32Q     Kathleen McLeod     def.     Addison Brannon     62 06 [1]
+     32Q     Eleni Dakos         def.     Katherine Taylor    63 63
+     32Q     Sullivan Patel      def.     Saige Jost          60 61
+     32Q     Maddie Hurley       def.     Jadyn Davis         61 63
+     32Q     Ellie Himebauch     def.     Charitha Patlolla   Walkover
+     32Q     Mia Zivkovic        def.     Caitlyn Hanulikova  60 61
 ~~~
 
 <a name="21-82716"></a>
@@ -3585,6 +3715,173 @@
      64     Julia Pham           def.     Vy Hoang             81
      64     Michelle Shub        def.     Joanna Atwater       84
      64     Anya Ramras          def.     Michelle Shen        83
+~~~
+
+<a name="21-21997"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════════
+  Division III Women's South ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: Sewanee: U Of The South (W)
+══════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Singles D
+  > Main
+      SF     Morris Kelly Clayton def.     Sydney Wray         60 36 60
+      QF     Sydney Wray          def.     Brianna Ali         61 61
+      QF     Morris Kelly Clayton def.     Tessa Shackelford   63 64
+      QF     Alexandra Smyth      def.     Kaitlyn House       61 61
+      16     Brianna Ali          def.     Anna Lassiter       61 61
+      16     Sydney Wray          def.     Abby Jamison        61 36 63
+      16     Morris Kelly Clayton def.     Lexie Washburn      60 60
+      16     Tessa Shackelford    def.     Muskaan Bhukhanwala 60 60
+      16     Hollan Rabensdorf    def.     Lillian Williams    61 63
+      16     Alexandra Smyth      def.     Tyler Wiggins       60 60
+  > Consolation
+       F     Abby Jamison         def.     Kaitlyn House       60 64
+      SF     Kaitlyn House        def.     Muskaan Bhukhanwala 64 36 [5]
+      SF     Abby Jamison         def.     Tyler Wiggins       61 60
+      QQ     Kaitlyn House        def.     Lillian Williams    67 63 [7]
+      QQ     Muskaan Bhukhanwala  def.     Lexie Washburn      61 61
+      QQ     Abby Jamison         def.     Anna Lassiter       60 60
+ > Singles C
+  > Main
+      SF     Emma McHale          def.     Bradley Tyer Jones  60 62
+      SF     Dallas Bennett       def.     Nelson Tyer Jones   64 64
+      QF     Bradley Tyer Jones   def.     Caroline Yarbrough  64 62
+      QF     Emma McHale          def.     Kaylin Thompson     61 60
+      QF     Nelson Tyer Jones    def.     Sarah Hayek         61 64
+      QF     Dallas Bennett       def.     Ann Cate Weeks      62 62
+      16     Bradley Tyer Jones   def.     Dannie Evans        61 63
+      16     Caroline Yarbrough   def.     Alexis Salgueiro    63 63
+      16     Emma McHale          def.     Camille Landry      60 60
+      16     Kaylin Thompson      def.     Rachel Brooks       61 60
+      16     Sarah Hayek          def.     Mamie Sevier        62 64
+      16     Nelson Tyer Jones    def.     Asia Robinson       61 60
+      16     Ann Cate Weeks       def.     Brook Patton        63 61
+      16     Dallas Bennett       def.     Sarah Gray          76(5) 61
+  > Consolation
+      SF     Sarah Gray           def.     Mamie Sevier        62 63
+      QQ     Dannie Evans         def.     Alexis Salgueiro    64 61
+      QQ     Rachel Brooks        def.     Camille Landry      62 46 [6]
+      QQ     Mamie Sevier         def.     Asia Robinson       60 60
+      QQ     Sarah Gray           def.     Brook Patton        62 62
+ > Singles B
+  > Main
+      SF     Lauren Wilson        def.     Lauren Kadow        76(4) 62
+      QF     Morgan Downng        def.     Corrie Lemasters    75 63
+      QF     Lauren Wilson        def.     Kate Mcgough        76(2) 36 76(5)
+      QF     Lauren Kadow         def.     Julia Darkey        62 62
+      16     Corrie Lemasters     def.     Railey Richardson   60 60
+      16     Morgan Downng        def.     Lily Grace          60 60
+      16     Gracie Hughes        def.     Amelia Chrisy       75 64
+      16     Lily Alleyne         def.     Mia Vasher          64 62
+      16     Lauren Wilson        def.     Allison Dempsey     60 63
+      16     Kate Mcgough         def.     Dakota Wilkes       61 63
+      16     Julia Darkey         def.     Tyler Perry         61 60
+      16     Lauren Kadow         def.     Isabella Hutchins   60 60
+  > Consolation
+       F     Dakota Wilkes        def.     Amelia Chrisy       63 63
+      SF     Amelia Chrisy        def.     Railey Richardson   60 61
+      SF     Dakota Wilkes        def.     Isabella Hutchins   06 60 [7]
+      QQ     Railey Richardson    def.     Lily Grace          63 62
+      QQ     Amelia Chrisy        def.     Mia Vasher          75 63
+      QQ     Dakota Wilkes        def.     Allison Dempsey     Walkover
+      QQ     Isabella Hutchins    def.     Tyler Perry         61 57 [9]
+ > Singles A
+  > Main
+       F     Eliza McPherron      def. (3) Kristal Dule        75 62
+      SF (3) Kristal Dule         def. (1) Christina Watson    76(1) 64
+      SF     Eliza McPherron      def. (8) Ana Cristina Perez  26 63 61
+      QF (1) Christina Watson     def.     Sarah Livingston    60 46 60
+      QF (3) Kristal Dule         def. (5) Brooke Despriet     62 61
+      QF     Eliza McPherron      def. (4) Alexa Goetz         64 46 75
+      QF (8) Ana Cristina Perez   def.     Ansley Carpenter    26 60 62
+      16 (1) Christina Watson     def.     Xuanjin Li          63 61
+      16     Sarah Livingston     def.     Stephanie Shulman   62 61
+      16 (3) Kristal Dule         def.     Emma Cartledge      46 76 76
+      16 (5) Brooke Despriet      def.     Caroline Adams      62 61
+      16     Eliza McPherron      def. (6) Natalia Nassar      62 75
+      16 (4) Alexa Goetz          def.     Alice Hall          62 61
+      16 (8) Ana Cristina Perez   def.     Jessica Fatemi      57 64 64
+      16     Ansley Carpenter     def. (2) Emma Smith          36 62 Ret.
+      32 (1) Christina Watson     def.     Elisa Mariotti      60 61
+      32     Xuanjin Li           def.     Nicole Nowak        63 75
+      32     Sarah Livingston     def. (7) Katharine Sherman   75 61
+      32     Stephanie Shulman    def.     Eleonora Rescia     63 62
+      32 (3) Kristal Dule         def.     Julia Kyle          60 61
+      32     Emma Cartledge       def.     Emma Caldwell       64 61
+      32 (5) Brooke Despriet      def.     Ella Rueff          60 61
+      32     Caroline Adams       def.     Sam Falcon          61 63
+      32     Eliza McPherron      def.     Imani Vincent       61 60
+      32 (6) Natalia Nassar       def.     Hannah Doherty      61 62
+      32     Alice Hall           def.     Lauren Yoon         63 60
+      32 (4) Alexa Goetz          def.     Michelle Adan-Pol   61 62
+      32     Jessica Fatemi       def.     Abbey Grace Venham  61 63
+      32 (8) Ana Cristina Perez   def.     Carolyn Reid        62 60
+      32     Ansley Carpenter     def.     Arya Dudipala       62 61
+      32 (2) Emma Smith           def.     Abby Caddick        62 60
+      64 (1) Christina Watson     def.     Sarah Rushing       60 60
+      64     Elisa Mariotti       def.     Madeline Towning    60 60
+      64     Nicole Nowak         def.     Judith Mills        60 60
+      64     Xuanjin Li           def.     Marissa Brown       62 60
+      64 (7) Katharine Sherman    def.     Lea Letourneau      63 62
+      64     Sarah Livingston     def.     Camille Fremaux     60 61
+      64     Stephanie Shulman    def.     Kerany Un           60 60
+      64     Eleonora Rescia      def.     Alyssa Merletti     61 60
+      64 (3) Kristal Dule         def.     Kiana Everhart      61 60
+      64     Julia Kyle           def.     Maddy Trinh         62 63
+      64     Emma Cartledge       def.     Caroline Lancaster  61 60
+      64     Emma Caldwell        def.     Jenna Prater        60 60
+      64 (5) Brooke Despriet      def.     Alyssa McSpadden    61 60
+      64     Ella Rueff           def.     Sydni Lewis         62 63
+      64     Sam Falcon           def.     Esme Benjamin       61 62
+      64     Caroline Adams       def.     Toni Laney          61 62
+      64     Imani Vincent        def.     Maddi Stewart       60 62
+      64     Eliza McPherron      def.     Megan Kidd          63 60
+      64     Hannah Doherty       def.     Izzy Forster        62 61
+      64 (6) Natalia Nassar       def.     Jill Lawrence       61 60
+      64     Alice Hall           def.     Emily Holderness    36 60 60
+      64     Lauren Yoon          def.     Bri Laidman         62 62
+      64     Michelle Adan-Pol    def.     Lainey Hill         16 64 64
+      64 (4) Alexa Goetz          def.     Ally Massey         61 60
+      64     Abbey Grace Venham   def.     Jordan Besh         61 46 61
+      64     Jessica Fatemi       def.     Isabella Lambert    60 60
+      64     Carolyn Reid         def.     Julie Schoorsmans   62 62
+      64 (8) Ana Cristina Perez   def.     Maggie Moody        60 60
+      64     Ansley Carpenter     def.     Khin Lwin           60 60
+      64     Arya Dudipala        def.     Sydney Dattilo      61 63
+      64     Abby Caddick         def.     Ansley Turley       57 60 64
+      64 (2) Emma Smith           def.     Melissa Gish        62 61
+  > Consolation
+      QF     Lea Letourneau       def.     Marissa Brown       62 63
+      QF     Maddy Trinh          def.     Esme Benjamin       46 60 [8]
+      QF     Megan Kidd           def.     Lainey Hill         75 61
+      QF     Jordan Besh          def.     Ansley Turley       41 Ret.
+      16     Marissa Brown        def.     Sarah Rushing       61 75
+      16     Lea Letourneau       def.     Alyssa Merletti     60 60
+      16     Maddy Trinh          def.     Caroline Lancaster  64 64
+      16     Esme Benjamin        def.     Alyssa McSpadden    64 63
+      16     Megan Kidd           def.     Izzy Forster        36 64 [8]
+      16     Lainey Hill          def.     Emily Holderness    62 63
+      16     Jordan Besh          def.     Maggie Moody        75 60
+      16     Ansley Turley        def.     Sydney Dattilo      76(4) 60
+     32Q     Sarah Rushing        def.     Madeline Towning    76 26 [9]
+     32Q     Marissa Brown        def.     Judith Mills        64 64
+     32Q     Lea Letourneau       def.     Camille Fremaux     60 60
+     32Q     Alyssa Merletti      def.     Kerany Un           60 61
+     32Q     Maddy Trinh          def.     Kiana Everhart      62 63
+     32Q     Caroline Lancaster   def.     Jenna Prater        61 60
+     32Q     Alyssa McSpadden     def.     Sydni Lewis         64 06 [2]
+     32Q     Esme Benjamin        def.     Toni Laney          64 62
+     32Q     Megan Kidd           def.     Maddi Stewart       61 63
+     32Q     Izzy Forster         def.     Jill Lawrence       60 62
+     32Q     Emily Holderness     def.     Bri Laidman         61 63
+     32Q     Lainey Hill          def.     Ally Massey         63 60
+     32Q     Jordan Besh          def.     Isabella Lambert    60 61
+     32Q     Maggie Moody         def.     Julie Schoorsmans   61 06 [8]
+     32Q     Sydney Dattilo       def.     Khin Lwin           61 60
+     32Q     Ansley Turley        def.     Melissa Gish        63 63
 ~~~
 
 <a name="21-36423"></a>

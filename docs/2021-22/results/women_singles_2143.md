@@ -4,6 +4,7 @@
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Carolina Women's Regional Championship](#21-64509) ([Results](#21-64509) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityW/Tournaments/Overview/61F146C9-753C-4458-9E95-EE269C0BB692" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-49776) ([Results](#21-49776) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/03D2591A-B4EA-40D0-84EE-FA366640953F" target="_blank">Draws</a>)  
+- 10/21/2021 - [ITA Division I Women's Central Regional Championship](#21-25213) ([Results](#21-25213) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIowaW/Tournaments/Overview/D14DFB81-5E2F-4C19-96BD-C7C8E01E527B" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Women's Midwest Regional Championship](#21-91007) ([Results](#21-91007) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OhioStateUniversityW/Tournaments/Overview/6552AE44-FB48-4C1E-A09A-B67C23ED4FEA" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Women's Northwest Regional Championship](#21-52217) ([Results](#21-52217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StanfordUniversityW/Tournaments/Overview/069089F9-1C02-43BD-82B5-B68774093F12" target="_blank">Draws</a>)  
 - 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
@@ -465,6 +466,294 @@
   > Main
      16     Shahar Biran         def.     Hedda Gurholt        64 64
      16     Alexandra Viktorovi… def.     Michaela Kucharova   16 75 [10]
+~~~
+
+<a name="21-25213"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  ITA Division I Women's Central Regional Championship
+  Dates: Oct 21-25, 2021
+  Host: University Of Iowa (W)
+═══════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Singles Main
+  > Main
+       F  Thasaporn Naklo      def.  Karine-Marion Job    63 06 60
+      SF  Thasaporn Naklo      def.  Malkia Ngounoue      76(5) 76(4)
+      SF  Karine-Marion Job    def.  Maria Titova         64 64
+      QF  Thasaporn Naklo      def.  Romana Tarajova      61 61
+      QF  Malkia Ngounoue      def.  Ivana Corley         63 63
+      QF  Karine-Marion Job    def.  Indianna Spink       26 63 64
+      QF  Maria Titova         def.  Rachel Hanford       63 61
+      16  Thasaporn Naklo      def.  Maria Linares        64 76(2)
+      16  Romana Tarajova      def.  Martina Zerulo       75 26 63
+      16  Malkia Ngounoue      def.  Laia Conde Monfort   61 61
+      16  Ivana Corley         def.  Ayumi Miyamoto       76(4) 36 75
+      16  Indianna Spink       def.  Chie Kezuka          26 75 62
+      16  Karine-Marion Job    def.  Morgan Cross         63 63
+      16  Rachel Hanford       def.  Marcelina Podlinska  60 64
+      16  Maria Titova         def.  Layne Sleeth         63 61
+      32  Thasaporn Naklo      def.  Tiffany Lagarde      61 62
+      32  Maria Linares        def.  Alexandra Pisareva   67(4) 63 61
+      32  Romana Tarajova      def.  Isabel Adrover Gall… 76(1) 64
+      32  Martina Zerulo       def.  Emilee Duong         60 46 61
+      32  Malkia Ngounoue      def.  Samantha Mannix      63 76(3)
+      32  Laia Conde Monfort   def.  Tatum Rice           57 63 63
+      32  Ayumi Miyamoto       def.  Lily Hutchings       62 63
+      32  Ivana Corley         def.  Rosanna Maffei       64 64
+      32  Indianna Spink       def.  Lian Benedejcic      63 67(5) 62
+      32  Chie Kezuka          def.  Sofia Smagina        67(8) 75 75
+      32  Karine-Marion Job    def.  Barbora Pokorna      62 75
+      32  Morgan Cross         def.  Alana Wolfberg       63 26 64
+      32  Marcelina Podlinska  def.  Miska Kadleckova     60 76(4)
+      32  Rachel Hanford       def.  Manami Ukita         75 63
+      32  Maria Titova         def.  Kristina Novak       62 36 62
+      32  Layne Sleeth         def.  Dariya Detkovskaya   62 63
+      64  Thasaporn Naklo      def.  Ana Paula Naranjo M… 60 61
+      64  Tiffany Lagarde      def.  Dalila Said          46 63 61
+      64  Alexandra Pisareva   def.  Natsumi Kurahashi    36 75 76(5)
+      64  Maria Linares        def.  Tiffini Nash         63 60
+      64  Romana Tarajova      def.  Kelly Keller         63 64
+      64  Isabel Adrover Gall… def.  Anna Turco           61 75
+      64  Emilee Duong         def.  Florentine Dekkers   63 64
+      64  Martina Zerulo       def.  Valeryia Rozenkova   62 67(5) 61
+      64  Malkia Ngounoue      def.  Maria Rizzolo        62 60
+      64  Samantha Mannix      def.  Norhan Hesham        64 64
+      64  Tatum Rice           def.  Fuka Nonoyama        63 62
+      64  Laia Conde Monfort   def.  Emelie Schwarte      36 63 64
+      64  Ayumi Miyamoto       def.  Lingwei Kong         62 60
+      64  Lily Hutchings       def.  Sofia Cabezas        62 75
+      64  Rosanna Maffei       def.  Maja Makoric         61 62
+      64  Ivana Corley         def.  Darta Dalecka        61 61
+      64  Indianna Spink       def.  Vasiliki Karvouni    46 62 62
+      64  Lian Benedejcic      def.  Oleksandra Nahurska  26 62 61
+      64  Chie Kezuka          def.  Emma Staker          67(1) 61 64
+      64  Sofia Smagina        def.  Ksenia Shikanova     63 62
+      64  Karine-Marion Job    def.  Maria Berlanga       63 76(5)
+      64  Barbora Pokorna      def.  Ekin Ercetin         75 64
+      64  Morgan Cross         def.  Chloe Kuckelman      64 62
+      64  Alana Wolfberg       def.  Mariana Manyoma Vel… 67(4) 75 63
+      64  Miska Kadleckova     def.  Julia Deming         Walkover
+      64  Marcelina Podlinska  def.  Shura Poppe          63 60
+      64  Manami Ukita         def.  Sofia Rojas          63 64
+      64  Rachel Hanford       def.  Ines Stephani        64 61
+      64  Kristina Novak       def.  Jordan Schifano      62 61
+      64  Maria Titova         def.  Anfisa Danilchenko   62 63
+      64  Dariya Detkovskaya   def.  Laura Rijkers        64 64
+      64  Layne Sleeth         def.  Dinara Alloyarova    63 60
+     128  Ana Paula Naranjo M… def.  Mariona Perez        64 67(5) 62
+     128  Dalila Said          def.  Lenka Stara          60 67(4) 64
+     128  Natsumi Kurahashi    def.  Jana Lazarevic       63 62
+     128  Tiffini Nash         def.  Gabriela Martinez A… 63 60
+     128  Romana Tarajova      def.  Yada Vasupongchai    62 62
+     128  Anna Turco           def.  Hunter Roper         57 64 61
+     128  Florentine Dekkers   def.  Maria Bezmenova      61 62
+     128  Valeryia Rozenkova   def.  Elizabeth Mintusova  36 62 64
+     128  Maria Rizzolo        def.  Sonia Skobkareva     63 16 63
+     128  Norhan Hesham        def.  Jillian Roa          62 62
+     128  Fuka Nonoyama        def.  Katherine Krueger    62 63
+     128  Emelie Schwarte      def.  Myroslava Zelenchuk  67(6) 76(5) 63
+     128  Lingwei Kong         def.  Emily Surcey         62 61
+     128  Lily Hutchings       def.  Sandra Maletin       62 62
+     128  Maja Makoric         def.  Maja Gledic          63 63
+     128  Darta Dalecka        def.  Sapir Sela           46 64 62
+     128  Vasiliki Karvouni    def.  Jessie Zheng         60 61
+     128  Oleksandra Nahurska  def.  Ioana Gheorghita     36 76(4) 64
+     128  Chie Kezuka          def.  Chunxi Xin           61 63
+     128  Ksenia Shikanova     def.  Valentina Vasquez    60 76(4)
+     128  Maria Berlanga       def.  Habiba Aly           64 36 60
+     128  Barbora Pokorna      def.  Darinka Stepan       62 64
+     128  Morgan Cross         def.  Christin Hsieh       36 76(5) 75
+     128  Mariana Manyoma Vel… def.  Olivia Paradise      63 64
+     128  Julia Deming         def.  Jaeun Lee            64 16 76(5)
+     128  Shura Poppe          def.  Grace ODonnell       63 62
+     128  Manami Ukita         def.  Grace Ball           62 62
+     128  Ines Stephani        def.  Valerie Negin        61 63
+     128  Jordan Schifano      def.  Samantha Gillas      63 62
+     128  Anfisa Danilchenko   def.  Leonor Oliviera      76(2) 61
+     128  Laura Rijkers        def.  Madison Gallegos     61 60
+     128  Dinara Alloyarova    def.  Elys Ventura         76(6) 61
+ > Singles Main Cons
+  > Main
+       F  Myroslava Zelenchuk  def.  Ioana Gheorghita     62 06 [8]
+      SF  Ioana Gheorghita     def.  Elys Ventura         46 63 [6]
+      SF  Myroslava Zelenchuk  def.  Jillian Roa          46 63 [6]
+      QF  Ioana Gheorghita     def.  Sofia Cabezas        46 62 [6]
+      QF  Elys Ventura         def.  Leonor Oliviera      64 62
+      QF  Jillian Roa          def.  Jana Lazarevic       62 63
+      QF  Myroslava Zelenchuk  def.  Ekin Ercetin         64 62
+      16  Ioana Gheorghita     def.  Maja Gledic          76(1) 61
+      16  Sofia Cabezas        def.  Grace ODonnell       64 63
+      16  Leonor Oliviera      def.  Valerie Negin        64 63
+      16  Elys Ventura         def.  Lenka Stara          61 36 [9]
+      16  Jana Lazarevic       def.  Hunter Roper         75 61
+      16  Jillian Roa          def.  Elizabeth Mintusova  63 60
+      16  Myroslava Zelenchuk  def.  Emily Surcey         62 63
+      16  Ekin Ercetin         def.  Sapir Sela           63 63
+      32  Ioana Gheorghita     def.  Jessie Zheng         60 46 [7]
+      32  Maja Gledic          def.  Darinka Stepan       63 62
+      32  Sofia Cabezas        def.  Olivia Paradise      61 61
+      32  Valerie Negin        def.  Grace Ball           62 62
+      32  Leonor Oliviera      def.  Yada Vasupongchai    63 46 [10]
+      32  Elys Ventura         def.  Madison Gallegos     52 Ret.
+      32  Jana Lazarevic       def.  Gabriela Martinez A… 64 64
+      32  Hunter Roper         def.  Samantha Gillas      76(5) 26 [8]
+      32  Myroslava Zelenchuk  def.  Katherine Krueger    61 62
+      32  Emily Surcey         def.  Jaeun Lee            62 61
+      32  Sapir Sela           def.  Valentina Vasquez    64 61
+      32  Ekin Ercetin         def.  Chunxi Xin           26 64 [5]
+ > Extra Matches I
+  > Main
+      64  Paulina Engback      def.  Kate Sexton          26 62 [5]
+      64  Samantha Gillas      def.  Lizzie Barloe        75 75
+      64  Yada Vasupongchai    def.  Mya Spencer          61 63
+      64  Emma Staker          def.  Mariana Manyoma Vel… 64 61
+      64  Sofia Rojas          def.  Vasiliki Karvouni    62 62
+      64  Ana Paula Naranjo M… def.  Fuka Nonoyama        64 76(1)
+      64  Shura Poppe          def.  Maria Rizzolo        63 63
+      64  Florentine Dekkers   def.  Valeryia Rozenkova   61 63
+      64  Maria Berlanga       def.  Dalila Said          63 62
+      64  Lucy Lu              def.  Daria Walczak        64 62
+      64  Michelle Bacalla     def.  Harriet Hamilton     62 16 [10]
+      64  Anfisa Danilchenko   def.  Mille Haagensen      62 16 [7]
+      64  Jaeun Lee            def.  Zeyneb Sarioglan     61 57 [5]
+      64  Chunxi Xin           def.  Vivian Lai           64 62
+      64  Jessie Zheng         def.  Kelsey Neville       63 60
+      64  Dinara Alloyarova    def.  Ines Stephani        61 62
+      64  Lucy Loy             def.  Vipasha Mehra        46 75 [3]
+      64  Clara Whitaker       def.  Ksenia Shikanova     57 62 [8]
+ > Extra Matches II
+  > Main
+      QF  Vipasha Mehra        def.  Addison Miller       76(3) 63
+      QF  Michelle Bacalla     def.  Anastassiya Timofey… 61 61
+      QF  Harriet Hamilton     def.  Vivian Lai           62 61
+      QF  Mille Haagensen      def.  Amber Hochstatter    60 62
+ > Extra Matches III
+  > Main
+      32  Sumomo Hamanaga      def.  Nore Heinitz         60 63
+      32  Vanessa Reinicke     def.  Andrea Jansson       61 61
+      32  Nina Zdravkovic      def.  Jordan Schifano      63 06 [3]
+      32  Amber Hochstatter    def.  Lucia Rizza          67(7) 63 [8]
+      32  Fabiola Perez        def.  Charlotte Bowles     63 61
+      32  Sapir Sela           def.  Samantha Gillas      61 16 [8]
+      32  Lucy Lu              def.  Shura Poppe          63 63
+      32  Ana Paula Naranjo M… def.  Maria Rizzolo        63 76(5)
+ > Extra Matches IV
+  > Main
+      QF  Jill Lambrechts      def.  Nore Heinitz         57 63 [2]
+      QF  Lucia Rizza          def.  Paulina Engback      75 64
+      QF  Vipasha Mehra        def.  Nina Zdravkovic      75 60
+      QF  Michelle Bacalla     def.  Andrea Jansson       63 64
+ > Extra Matches V
+  > Main
+      QF  Barbora Pokorna      def.  Lenka Stara          57 62 [6]
+      QF  Emma Staker          def.  Sofia Rojas          61 63
+      QF  Marcelina Podlinska  def.  Florentine Dekkers   62 26 [4]
+      QF  Alexandra Pisareva   def.  Tiffany Lagarde      62 36 [2]
+ > Singles Qualifiers
+  > Main
+      64  Christin Hsieh       def.  Nicola Perlwitz      63 62
+      64  Dalila Said          def.  Vanessa Reinicke     61 64
+      64  Valerie Negin        def.  Madalena Andrade     60 61
+      64  Emily Surcey         def.  Brooke Covington     63 63
+      64  Maja Gledic          def.  Daniela Hlacikova    61 46 [4]
+      64  Natsumi Kurahashi    def.  Alyson Piskulic      62 61
+      64  Sonia Skobkareva     def.  Harriet Hamilton     62 46 [8]
+      64  Ksenia Shikanova     def.  Mille Haagensen      64 61
+      64  Darinka Stepan       def.  Michelle Bacalla     46 76(4) [7]
+      64  Anfisa Danilchenko   def.  Amber Hochstatter    61 62
+      64  Myroslava Zelenchuk  def.  Claire Slaughter     62 61
+      64  Lily Hutchings       def.  Andrea Jansson       62 61
+      64  Mariona Perez        def.  Jill Lambrechts      64 76(7)
+      64  Emelie Schwarte      def.  Beata Havlickova     62 61
+      64  Samantha Gillas      def.  Fabiola Perez        64 64
+      64  Fuka Nonoyama        def.  Emma Gener           62 76(4)
+      64  Jaeun Lee            def.  Lucy Loy             75 57 [7]
+      64  Norhan Hesham        def.  Bozana Lojpur        60 62
+      64  Yada Vasupongchai    def.  Vipasha Mehra        64 64
+      64  Grace ODonnell       def.  Kirstin Hailey       26 75 [5]
+      64  Maria Bezmenova      def.  Malvika Shukla       62 63
+      64  Gabriela Martinez A… def.  Vivian Lai           62 64
+      64  Elys Ventura         def.  Sarah Wilcox         63 64
+      64  Habiba Aly           def.  Thea Rice            63 76(4)
+      64  Dinara Alloyarova    def.  Siri Kongara         64 63
+      64  Jessie Zheng         def.  Mei Ishimura         63 63
+     128  Nicola Perlwitz      def.  Aliksandra Lebedeva  76(4) 67(4) [6]
+     128  Dalila Said          def.  Charlotte Bowles     61 61
+     128  Vanessa Reinicke     def.  Madeline Bremel      61 61
+     128  Valerie Negin        def.  Ashley Hatch         60 61
+     128  Madalena Andrade     def.  Rachel Osborn        75 63
+     128  Emily Surcey         def.  Lucy Lu              26 75 [9]
+     128  Brooke Covington     def.  Berta Girbau         61 16 [9]
+     128  Daniela Hlacikova    def.  Maria Thibault       67(4) 75 [2]
+     128  Maja Gledic          def.  Daria Walczak        60 62
+     128  Natsumi Kurahashi    def.  Nore Heinitz         61 62
+     128  Alyson Piskulic      def.  Luna Morini          63 16 [7]
+     128  Harriet Hamilton     def.  Zere Iskakova        63 46 [2]
+     128  Sonia Skobkareva     def.  Mya Spencer          62 63
+     128  Mille Haagensen      def.  Melissa Vizcardo     75 46 [7]
+     128  Ksenia Shikanova     def.  Regina Talavera      62 61
+     128  Michelle Bacalla     def.  Laura Baroja         61 75
+     128  Darinka Stepan       def.  Lucia Rizza          61 61
+     128  Anfisa Danilchenko   def.  Emma Carr            64 63
+     128  Amber Hochstatter    def.  Nicole Snezhko       62 62
+     128  Myroslava Zelenchuk  def.  Flavia Gutierrez     62 61
+     128  Lily Hutchings       def.  Nina Marjanovic      63 64
+     128  Andrea Jansson       def.  Anastassiya Timofey… 64 63
+     128  Mariona Perez        def.  Paulina Engback      62 61
+     128  Jill Lambrechts      def.  Lorena Cardoso       75 61
+     128  Beata Havlickova     def.  Joanna Cardona       36 64 [3]
+     128  Emelie Schwarte      def.  Abigail Bremel       63 60
+     128  Samantha Gillas      def.  Kate Sexton          61 61
+     128  Fabiola Perez        def.  Clara Whitaker       61 62
+     128  Fuka Nonoyama        def.  Juliana Martinez     62 63
+     128  Emma Gener           def.  Nina Zdravkovic      64 61
+     128  Jaeun Lee            def.  Lizzie Barloe        61 61
+     128  Lucy Loy             def.  Presley Southerland  75 64
+     128  Norhan Hesham        def.  Addison Miller       60 61
+     128  Bozana Lojpur        def.  Tiera Jarmond        63 62
+     128  Yada Vasupongchai    def.  Caitlyn Sporing      60 60
+     128  Vipasha Mehra        def.  Alexia Di Giulio     61 62
+     128  Grace ODonnell       def.  Jessica Stefan       62 75
+     128  Kirstin Hailey       def.  Olivia Fain          60 63
+     128  Maria Bezmenova      def.  Zeyneb Sarioglan     62 16 [8]
+     128  Malvika Shukla       def.  Nejla Zukic          63 36 [2]
+     128  Vivian Lai           def.  Thaissa Moreira      61 60
+     128  Gabriela Martinez A… def.  Rai Sengupta         64 46 [9]
+     128  Sarah Wilcox         def.  Jannah ElNemr        26 62 [6]
+     128  Elys Ventura         def.  Sumomo Hamanaga      64 62
+     128  Thea Rice            def.  Reagan Miley         26 63 [5]
+     128  Habiba Aly           def.  Andrijana Brkic      63 61
+     128  Siri Kongara         def.  Natalie Kmoskova     62 75
+     128  Dinara Alloyarova    def.  Ines Absisan         60 61
+     128  Mei Ishimura         def.  Kelsey Neville       61 76(6)
+     128  Jessie Zheng         def.  Lillian Tiemeyer     63 62
+ > Singles Qualifiers Cons
+  > Main
+      64  Aliksandra Lebedeva  def.  Charlotte Bowles     62 26 [2]
+      64  Madeline Bremel      def.  Flavia Gutierrez     Walkover
+      64  Rachel Osborn        def.  Ashley Hatch         61 60
+      64  Lucy Lu              def.  Berta Girbau         61 63
+      64  Daria Walczak        def.  Maria Thibault       63 60
+      64  Nore Heinitz         def.  Luna Morini          61 36 [8]
+      64  Mya Spencer          def.  Zere Iskakova        62 62
+      64  Melissa Vizcardo     def.  Regina Talavera      62 60
+      64  Laura Baroja         def.  Lucia Rizza          64 36 [7]
+      64  Nicole Snezhko       def.  Emma Carr            67(5) 62 [4]
+      64  Anastassiya Timofey… def.  Nina Marjanovic      Walkover
+      64  Lorena Cardoso       def.  Paulina Engback      61 62
+      64  Joanna Cardona       def.  Abigail Bremel       62 62
+      64  Clara Whitaker       def.  Kate Sexton          61 60
+      64  Nina Zdravkovic      def.  Juliana Martinez     62 62
+      64  Lizzie Barloe        def.  Presley Southerland  75 62
+      64  Caitlyn Sporing      def.  Alexia Di Giulio     26 63 [7]
+      64  Jessica Stefan       def.  Olivia Fain          62 63
+      64  Zeyneb Sarioglan     def.  Nejla Zukic          61 60
+      64  Rai Sengupta         def.  Thaissa Moreira      64 61
+      64  Sumomo Hamanaga      def.  Jannah ElNemr        06 61 [8]
+      64  Andrijana Brkic      def.  Reagan Miley         64 62
+      64  Ines Absisan         def.  Natalie Kmoskova     06 64 [7]
+      64  Kelsey Neville       def.  Lillian Tiemeyer     64 76(3)
 ~~~
 
 <a name="21-91007"></a>
