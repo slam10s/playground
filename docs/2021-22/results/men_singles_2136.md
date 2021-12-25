@@ -12,6 +12,7 @@
 - 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
 - 9/10/2021 - [Siena Invitational](#21-93292) ([Results](#21-93292) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Draws</a>)  
 - 9/10/2021 - [UNCG Fall Invitational](#21-95655) ([Results](#21-95655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCGreensboroM/Tournaments/Overview/1F8F8A38-A3A4-49F4-95C4-1C5F328D5A8B" target="_blank">Draws</a>)  
+- 9/11/2021 - [2021 CCIW Fall Invitational](#21-67914) ([Results](#21-67914) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillikinUniversityM/Tournaments/Overview/EC2D06D4-33B6-4D12-AD7F-0FFF3E553D26" target="_blank">Draws</a>)  
 - 9/11/2021 - [Charger Invitational](#21-17243) ([Results](#21-17243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsdaleCollegeM/Tournaments/Overview/57338A62-AC78-4EAE-969A-35DC4383B48C" target="_blank">Draws</a>)  
 - 9/10/2021 - [Marlin Fall Invite](#21-96391) ([Results](#21-96391) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaWesleyanUniversityM/Tournaments/Overview/92F41BDA-3278-4123-AAA8-56DA2292BAF7" target="_blank">Draws</a>)  
 - 9/10/2021 - [PTC College Invitational](#21-98528) ([Results](#21-98528) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F41F8F78-C005-416D-8568-FB153C32EB9E" target="_blank">Draws</a>)  
@@ -1177,6 +1178,115 @@
      64  Aditya Balsekar      def.  Sirawit Daosaengsaw… 61 Ret.
      64  Rafa Serra           def.  Karlis Katlaps       76(5) 26 [5]
      64  Bruno Serra          def.  William Crane        63 63
+~~~
+
+<a name="21-67914"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  2021 CCIW Fall Invitational
+  Dates: Sep 11-12, 2021
+  Host: Millikin University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight 1
+  > East
+      F  Ramon Vilarroig Mar… def.  Arthur Hermange      63 76(6)
+     SF  Ramon Vilarroig Mar… def.  Daniel Moore         63 62
+     SF  Arthur Hermange      def.  Myles Krzewinski     64 64
+     QF  Ramon Vilarroig Mar… def.  Demetrios Triantafel 60 60
+     QF  Daniel Moore         def.  Ben Hart             61 60
+     QF  Myles Krzewinski     def.  Clayton Maack        64 62
+     QF  Arthur Hermange      def.  Javier Suarez Balse… 62 64
+  > West
+      F  Javier Suarez Balse… def.  Ben Hart             64 60
+     SF  Ben Hart             def.  Demetrios Triantafel 60 63
+     SF  Javier Suarez Balse… def.  Clayton Maack        64 75
+  > South
+      F  Clayton Maack        def.  Demetrios Triantafel 75 26 [3]
+ > Flight 2
+  > East
+      F  Guillermo Gonzalez … def.  Nicolas Welker       64 60
+     SF  Nicolas Welker       def.  Theodor Wolf         62 60
+     SF  Guillermo Gonzalez … def.  Tripp Schulte        64 75
+     QF  Nicolas Welker       def.  Carter Burk          60 60
+     QF  Theodor Wolf         def.  Andy Hinch           46 61 [7]
+     QF  Guillermo Gonzalez … def.  Holden Owens         62 60
+     QF  Tripp Schulte        def.  Leonardo Panosso     63 26 [6]
+  > West
+      F  Leonardo Panosso     def.  Carter Burk          61 62
+     SF  Carter Burk          def.  Andy Hinch           64 63
+     SF  Leonardo Panosso     def.  Holden Owens         62 61
+  > 3-4 Playoff
+      F  Theodor Wolf         def.  Tripp Schulte        64 57 [5]
+  > South
+      F  Holden Owens         def.  Andy Hinch           63 75
+ > Flight 3
+  > East
+      F  Yanozie Amadike      def.  Deepak Vayara        63 63
+     SF  Yanozie Amadike      def.  Cole Phillips        62 63
+     SF  Deepak Vayara        def.  Matt Sengphommachanh 64 46 [6]
+     QF  Cole Phillips        def.  Ryan McCoy           64 60
+     QF  Yanozie Amadike      def.  Eliot Saint-Paul     61 63
+     QF  Matt Sengphommachanh def.  Cory Erickson        60 62
+     QF  Deepak Vayara        def.  Evan Turnbull        62 62
+  > West
+      F  Eliot Saint-Paul     def.  Evan Turnbull        36 76(4) [6]
+     SF  Eliot Saint-Paul     def.  Ryan McCoy           62 62
+     SF  Evan Turnbull        def.  Cory Erickson        63 60
+  > 3-4 Playoff
+      F  Matt Sengphommachanh def.  Cole Phillips        63 76(7)
+  > South
+      F  Ryan McCoy           def.  Cory Erickson        61 64
+ > Flight 4
+  > East
+     SF  Cooper Ferruzzi      def.  Steven Mears         63 75
+     SF  Nick Marino          def.  Morgan Red           26 63 [5]
+     QF  Cooper Ferruzzi      def.  Luke Barter          60 61
+     QF  Steven Mears         def.  Justin Caldwell      61 61
+     QF  Morgan Red           def.  Justin Cassens       64 75
+     QF  Nick Marino          def.  Shanku Nair          63 76(4)
+  > West
+      F  Justin Cassens       def.  Luke Barter          62 64
+     SF  Luke Barter          def.  Justin Caldwell      64 60
+     SF  Justin Cassens       def.  Shanku Nair          75 63
+  > South
+      F  Shanku Nair          def.  Justin Caldwell      60 61
+ > Flight 5
+  > East
+      F  Hayden Friese        def.  Kyle Boudreau        76(6) 64
+     SF  Kyle Boudreau        def.  Ezekiel Cross        60 61
+     SF  Hayden Friese        def.  Dieter Gonzales      76(7) 62
+     QF  Kyle Boudreau        def.  Ian Hofland          60 61
+     QF  Ezekiel Cross        def.  James Broach         62 62
+     QF  Dieter Gonzales      def.  Jesse Dyer           75 62
+     QF  Hayden Friese        def.  Jack McCaffery       61 62
+  > West
+      F  Jesse Dyer           def.  James Broach         63 60
+     SF  James Broach         def.  Ian Hofland          46 61 [5]
+     SF  Jesse Dyer           def.  Jack McCaffery       64 75
+  > 3-4 Playoff
+      F  Dieter Gonzales      def.  Ezekiel Cross        60 63
+ > Flight 6
+  > East
+     SF  Daniel Urraca Mozos  def.  Reiss Naylor         60 64
+     SF  Douglas Blomquist    def.  Jordan Sibley-Diggs  61 61
+     QF  Daniel Urraca Mozos  def.  Ben Pierson          60 60
+     QF  Reiss Naylor         def.  Emilio Rodriguez     61 61
+     QF  Jordan Sibley-Diggs  def.  Ryan Strupp          76(3) 64
+     QF  Douglas Blomquist    def.  David Russ           61 63
+  > West
+      F  David Russ           def.  Ben Pierson          62 26 [7]
+     SF  Ben Pierson          def.  Emilio Rodriguez     76(4) 75
+     SF  David Russ           def.  Ryan Strupp          76(5) 61
+  > 3-4 Playoff
+      F  Reiss Naylor         def.  Jordan Sibley-Diggs  76(4) 63
+  > South
+      F  Ryan Strupp          def.  Emilio Rodriguez     62 61
+ > Flight 7
+  > Main
+     R3  Jordan Nowell        def.  Joshua Cortez        57 64 [6]
+     R2  Joshua Cortez        def.  Josiah Bailey        62 26 [5]
+     R1  Jordan Nowell        def.  Josiah Bailey        64 57
 ~~~
 
 <a name="21-17243"></a>
