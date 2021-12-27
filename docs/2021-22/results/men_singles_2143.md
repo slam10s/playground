@@ -8,10 +8,8 @@
 - 10/22/2021 - [ITA Division I Men's Northwest Super Regional Championship](#21-64957) ([Results](#21-64957) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonM/Tournaments/Overview/FCD50A53-E765-4641-A4EF-4F8678B573CA" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
-- 10/28/2021 - [64th Annual Southern California Intercollegiate Championships](#21-75985) ([Results](#21-75985) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">Draws</a>)  
 - 10/29/2021 - [Crimson Halloween Invite](#21-48385) ([Results](#21-48385) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gamecock Scramble](#21-06171) ([Results](#21-06171) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Draws</a>)  
-- 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
 - 10/29/2021 - [Rice Fall Challenge](#21-45244) ([Results](#21-45244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityM/Tournaments/Overview/014D4049-2DA7-4F05-A176-8C88B48C0A0E" target="_blank">Draws</a>)  
 - 10/29/2021 - [Seahawk Team Invite](#21-55779) ([Results](#21-55779) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Draws</a>)  
 - 10/29/2021 - [Virginia Tech Halloween Clash](#21-26801) ([Results](#21-26801) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Draws</a>)  
@@ -19,7 +17,6 @@
 
 **Tournaments without Matches**  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
-- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 
 <a name="21-69139"></a>
 ~~~
@@ -1041,90 +1038,6 @@
       SF      Blaz Seric           def.      Hendrik Inno         76(6) 61
 ~~~
 
-<a name="21-75985"></a>
-~~~
-════════════════════════════════════════════════════════════════════════════
-  64th Annual Southern California Intercollegiate Championships
-  Dates: Oct 28-31, 2021
-  Host: ITA
-════════════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > Main Draw
-  > Main
-      F (2) Ryder Jackson        def. (5) Phillip Jordan       63 62
-     SF (5) Phillip Jordan       def. (4) Liam Krall           64 67(4) 75
-     SF (2) Ryder Jackson        def.     Issa Yoshida         60 63
-     QF (5) Phillip Jordan       def. (1) Sema Pankin          63 46 75
-     QF (4) Liam Krall           def.     David Norfeldt       63 75
-     QF     Issa Yoshida         def.     Will Davies          64 75
-     QF (2) Ryder Jackson        def. (6) Stefan Leustian      46 60 75
-     16 (1) Sema Pankin          def.     Leyton Bohren        63 60
-     16 (5) Phillip Jordan       def.     Stanislas De Samuce… 64 61
-     16 (4) Liam Krall           def.     Jeffrey Fradkin      64 26 64
-     16     David Norfeldt       def. (7) Julian Steinhausen   62 75
-     16     Will Davies          def.     Josh Williams        63 61
-     16     Issa Yoshida         def.     Yassine Smiej        64 62
-     16 (6) Stefan Leustian      def.     Leo Hibi             64 62
-     16 (2) Ryder Jackson        def.     Caleb Wilkins        62 60
-     32 (1) Sema Pankin          def.     Tomas Gomez Gomez    62 61
-     32     Leyton Bohren        def.     Blaine Hovenier      67(7) 62 63
-     32 (5) Phillip Jordan       def.     Barnaby Thorold      62 63
-     32     Stanislas De Samuce… def.     Huntley Allen        64 62
-     32 (4) Liam Krall           def.     Paul Barretto        62 67(3) 64
-     32     Jeffrey Fradkin      def.     Eleftherios Neos     63 60
-     32 (7) Julian Steinhausen   def.     Argote Mariano       63 60
-     32     David Norfeldt       def.     Adam Large           60 60
-     32     Josh Williams        def.     Sebastian Herrera    61 61
-     32     Will Davies          def. (8) Caleb Chakravarthi   61 57 76(5)
-     32     Yassine Smiej        def.     Loic Van Zeggelaar   75 64
-     32     Issa Yoshida         def. (3) Eric Hahn            61 46 63
-     32     Leo Hibi             def.     John Zisette         64 67(4) 62
-     32 (6) Stefan Leustian      def.     Younes Kodiji        62 61
-     32     Caleb Wilkins        def.     Grzegorz Rudnicki    57 63 62
-     32 (2) Ryder Jackson        def.     Alejandro Vedri-Cas… 63 63
- > Round 1 Extra Matches
-  > Main
-     16     Ethan Smith          def.     Josh Blinder         57 63 [8]
-     16     Adrian Daoust        def.     Tommy Hays           64 76(6)
-     16     James Caddies        def.     Wyatt Anderson       63 62
-     16     Jan Simon            def.     Mac Caldwell         64 62
-     16     Danny Marsh          def.     Carlos Solorzano     76(5) 31 Ret.
-     16     Sofian Tayebi        def.     Julien Sanseverino   61 76(3)
-     16     Eric Hahn            def.     Diego Castillo       61 62
- > Round 2 Extra Matches
-  > Main
-     16     Adrian Daoust        def.     Mac Caldwell         75 76(5)
-     16     Kyle Sillman         def.     Josh Blinder         67(4) 61 [3]
-     16     Leo Hibi             def.     Blaine Hovenier      62 62
-     16     John Zisette         def.     Mason Marks          60 62
-     16     Paul Barretto        def.     Eric Hahn            62 64
- > Qualifying Draw
-  > Main
-     32     Blaine Hovenier      def.     Kameron DeHart       62 60
-     32     Argote Mariano       def.     Mason Marks          62 60
-     32     Younes Kodiji        def.     Diego Castillo       76(3) 61
-     32     Jeffrey Fradkin      def.     Kyle Sillman         63 62
-     32 (3) Sebastian Herrera    def.     Jiri Novak           36 75 Def.
-     32     Josh Williams        def.     Dylan Parsley        60 60
-     32     Tomas Gomez Gomez    def.     Sofian Tayebi        63 64
-     32     John Zisette         def.     Adrian Daoust        60 62
-     32     Caleb Wilkins        def.     Carlos Solorzano     36 61 [8]
-     32     Leo Hibi             def.     Jan Simon            61 75
-     32     Loic Van Zeggelaar   def.     Ethan Smith          64 64
-     32 (4) Adam Large           def.     Ryan Nuno            36 63 [8]
-     32     Leyton Bohren        def.     Mac Caldwell         62 62
-     32     Huntley Allen        def.     Wyatt Anderson       63 62
-     32     Grzegorz Rudnicki    def.     Julien Sanseverino   64 67(4) [11]
-     32     Barnaby Thorold      def.     Andy Hess            76(5) 76(1)
-     64     Argote Mariano       def.     Antonio Rosales Var… 62 44 Ret.
-     64     Jeffrey Fradkin      def.     Harrison Cohen       61 61
-     64     Jiri Novak           def.     Tommy Hays           62 62
-     64     Josh Williams        def.     James Caddies        76(6) 63
-     64     Adrian Daoust        def.     Henry Habib          61 61
-     64     Jan Simon            def.     Danny Marsh          60 75
-     64     Ryan Nuno            def.     Josh Blinder         60 61
-~~~
-
 <a name="21-48385"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════════
@@ -1233,91 +1146,6 @@
      32  Luke Casper          def.  Juan Lopez De Azcona 16 63 62
      32  Matthew Thomson      def.  John Bernard         63 62
      32  Kenner Taylor        def.  Bryn Nahrung         60 61
-~~~
-
-<a name="21-84042"></a>
-~~~
-════════════════════════════════════════════════════════════════════════
-  Gonzaga Invitational
-  Dates: Oct 29-31, 2021
-  Host: Gonzaga University (M)
-════════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > Blue
-  > East
-      F  Tom Hann             def.  Oliver Andersson     Walkover
-     SF  Oliver Andersson     def.  Gustav Thielgaard    61 61
-     SF  Tom Hann             def.  Matthew Hollingworth Walkover
-     QF  Oliver Andersson     def.  Julien Penzlin       63 61
-     QF  Gustav Thielgaard    def.  Arthus de la Basset… 60 63
-     QF  Tom Hann             def.  Kyryll Kryvchun      64 64
-     QF  Matthew Hollingworth def.  Francisco Bascon     62 36 60
-     16  Julien Penzlin       def.  Jan Lucca Marquardt  64 62
-     16  Oliver Andersson     def.  Lawrence Sciglitano  76(7) 75
-     16  Gustav Thielgaard    def.  Manuel Balce         46 61 61
-     16  Arthus de la Basset… def.  Bruno Casino         76(7) 75
-     16  Kyryll Kryvchun      def.  Nikolas Tvedt        75 64
-     16  Tom Hann             def.  Nejc Sitar           63 57 75
-     16  Francisco Bascon     def.  Joaquin Espinoza     60 62
-     16  Matthew Hollingworth def.  Sam De Vries         62 76(2)
-  > West
-      F  Nikolas Tvedt        def.  Bruno Casino         76(5) 64
-     SF  Bruno Casino         def.  Jan Lucca Marquardt  36 61 [1]
-     SF  Nikolas Tvedt        def.  Joaquin Espinoza     61 63
-     QF  Jan Lucca Marquardt  def.  Lawrence Sciglitano  46 63 [6]
-     QF  Bruno Casino         def.  Manuel Balce         62 62
-     QF  Nikolas Tvedt        def.  Nejc Sitar           76(5) 64
-     QF  Joaquin Espinoza     def.  Sam De Vries         26 76(5) [8]
- > White
-  > East
-      F  Leon Roider          def.  Pablo Gomez Galvan   62 62
-     SF  Leon Roider          def.  Matteo Masala        60 76(4)
-     SF  Pablo Gomez Galvan   def.  Ryo Minakata         63 75
-     QF  Leon Roider          def.  Mario Duron          63 62
-     QF  Matteo Masala        def.  Oscar Brown          36 64 63
-     QF  Ryo Minakata         def.  Tommy Hsu            62 75
-     QF  Pablo Gomez Galvan   def.  Moritz Stoeger       61 30 Ret.
-     16  Leon Roider          def.  Guillermo Martin     62 63
-     16  Mario Duron          def.  Caden Moortgat       67(6) 63 62
-     16  Oscar Brown          def.  Jeremy Mueller       62 36 63
-     16  Matteo Masala        def.  Manuel Monteiro      62 64
-     16  Ryo Minakata         def.  Milo Benn            62 62
-     16  Tommy Hsu            def.  Steven Paz           75 64
-     16  Moritz Stoeger       def.  Erik Sarlvik         63 61
-     16  Pablo Gomez Galvan   def.  Nils Plutat          75 61
-  > West
-      F  Caden Moortgat       def.  Erik Sarlvik         63 64
-     SF  Caden Moortgat       def.  Manuel Monteiro      60 75
-     SF  Erik Sarlvik         def.  Milo Benn            16 76(5) [11]
-     QF  Caden Moortgat       def.  Guillermo Martin     64 62
-     QF  Manuel Monteiro      def.  Jeremy Mueller       26 64 [7]
-     QF  Milo Benn            def.  Steven Paz           63 61
-     QF  Erik Sarlvik         def.  Nils Plutat          67(5) 64 [6]
- > Red
-  > East
-      F  Jesse Haas           def.  Pontus Hallgren      64 76(5)
-     SF  Jesse Haas           def.  Alejandro Salvador   63 61
-     SF  Pontus Hallgren      def.  Vivek Ramesh         63 63
-     QF  Jesse Haas           def.  Marcos Zelver        75 46 64
-     QF  Alejandro Salvador   def.  Jacob Huppin         61 63
-     QF  Vivek Ramesh         def.  Will Jesser          64 75
-     QF  Pontus Hallgren      def.  Oliver Fernandez     76(2) 62
-     16  Jesse Haas           def.  Andrew Vu            62 61
-     16  Marcos Zelver        def.  Erik Grimes          60 62
-     16  Jacob Huppin         def.  Sam Baldwin          Walkover
-     16  Alejandro Salvador   def.  Brady Thomas         63 62
-     16  Will Jesser          def.  Josh Watkins         62 63
-     16  Vivek Ramesh         def.  Bruno Ortega         61 63
-     16  Oliver Fernandez     def.  Alex Asenov          64 62
-     16  Pontus Hallgren      def.  Drew Dillon          63 62
-  > West
-      F  Alex Asenov          def.  Brady Thomas         75 62
-     SF  Brady Thomas         def.  Erik Grimes          61 75
-     SF  Alex Asenov          def.  Josh Watkins         61 64
-     QF  Erik Grimes          def.  Andrew Vu            64 60
-     QF  Brady Thomas         def.  Sam Baldwin          Walkover
-     QF  Josh Watkins         def.  Bruno Ortega         76(5) 46 [8]
-     QF  Alex Asenov          def.  Drew Dillon          Walkover
 ~~~
 
 <a name="21-45244"></a>

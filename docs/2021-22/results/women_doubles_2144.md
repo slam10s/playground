@@ -3,22 +3,15 @@
 **Tournamets with Matches**  
 - 11/5/2021 - [ASU Thunderbird Invitational](#21-50924) ([Results](#21-50924) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ArizonaStateUniversityW/Tournaments/Overview/539AAEB8-CB2F-46ED-8DAD-69DE1A5FEC2B" target="_blank">Draws</a>)  
 - 11/5/2021 - [Big 12 Fall Invite](#21-16081) ([Results](#21-16081) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityW/Tournaments/Overview/09F853AD-B55F-4E36-A946-000C8F2276A0" target="_blank">Draws</a>)  
-- 11/5/2021 - [Big Green Invite](#21-85102) ([Results](#21-85102) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeW/Tournaments/Overview/5276B6E4-164E-442F-9176-B1F0E580208C" target="_blank">Draws</a>)  
-- 11/5/2021 - [Bulldog Classic](#21-78423) ([Results](#21-78423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityW/Tournaments/Overview/3B50645F-F80E-42E8-8DC4-58667C1C1A01" target="_blank">Draws</a>)  
 - 11/5/2021 - [FGCU Collegiate Open](#21-51873) ([Results](#21-51873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaGulfCoastUniversityW/Tournaments/Overview/366369DF-D1D6-4447-B214-C4B5012C2F42" target="_blank">Draws</a>)  
 - 11/5/2021 - [Gonzaga Invite BULLDOG](#21-49592) ([Results](#21-49592) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityW/Tournaments/Overview/92D5D3EA-78F6-46C4-B8B6-24485A28CE1D" target="_blank">Draws</a>)  
 - 11/4/2021 - [Harvard Fall Invitational](#21-06527) ([Results](#21-06527) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Draws</a>)  
 - 11/4/2021 - [ITA National Fall Championships](#21-38622) ([Results](#21-38622) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3C0D3BF7-1EA0-4314-9798-02FE691DD86E" target="_blank">Draws</a>)  
 - 11/5/2021 - [Jack Kramer Invitational](#21-11431) ([Results](#21-11431) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/EBFDB9EE-65DF-40EA-8395-B821B7EA07B0" target="_blank">Draws</a>)  
-- 11/5/2021 - [John Cade Invitational](#21-78019) ([Results](#21-78019) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivW/Tournaments/Overview/E7E24596-5A63-454E-9711-8B3FDC25E020" target="_blank">Draws</a>)  
 - 11/5/2021 - [Mean Green Invite](#21-18352) ([Results](#21-18352) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthTexasW/Tournaments/Overview/EF6FA1CB-A90F-4BA0-B5BD-1D5B642D3C48" target="_blank">Draws</a>)  
-- 11/5/2021 - [Miami Fall Invite](#21-88258) ([Results](#21-88258) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMiamiW/Tournaments/Overview/E7F97784-0CD7-4253-8BB3-955C95162E60" target="_blank">Draws</a>)  
 - 11/5/2021 - [Ragin' Cajun Invitational](#21-05390) ([Results](#21-05390) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/13357FE4-447E-4166-A5B8-AA4028AFC248" target="_blank">Draws</a>)  
-- 11/5/2021 - [San Diego Veterans Tennis Classic](#21-91602) ([Results](#21-91602) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">Draws</a>)  
-- 11/5/2021 - [SCU/SJSU Invitational](#21-98128) ([Results](#21-98128) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SantaClaraUniversityW/Tournaments/Overview/BBE3EA3C-9201-43BE-AD2E-553A4B616F3C" target="_blank">Draws</a>)  
 - 11/5/2021 - [Seahawk Ocean Classic](#21-51929) ([Results](#21-51929) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonW/Tournaments/Overview/FE307133-DF38-4D97-8DE6-D59D765D1738" target="_blank">Draws</a>)  
 - 11/5/2021 - [Southern Conference Men's & Women's Fall Tennis Championships](#21-32980) ([Results](#21-32980) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3BD3D9A3-1CE7-4BB9-93E6-7D1ECED07DFE" target="_blank">Draws</a>)  
-- 11/5/2021 - [Stetson Invite #2](#21-71023) ([Results](#21-71023) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46" target="_blank">Draws</a>)  
 - 11/5/2021 - [The Hurricane Invite](#21-37091) ([Results](#21-37091) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfTulsaW/Tournaments/Overview/9EC94FD0-CD14-417E-AF67-50993725A2A1" target="_blank">Draws</a>)  
 
 **Tournaments without Matches**  
@@ -128,69 +121,6 @@
   > Main
      SF     Kovick/Chang         def.     Malm/Thompson        84
      SF     Marinkov/Stepp        vs      Rojas/Manyoma Velas… 
-~~~
-
-<a name="21-85102"></a>
-~~~
-═════════════════════════════════════════════════════════════════
-  Big Green Invite
-  Dates: Nov 5-7, 2021
-  Host: Dartmouth College (W)
-═════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Friday Doubles
-  > Main
-     16  Dunleavy/Lin         def.  Weber/Fahrmeier      76(11)
-     16  Kim/Cardenas         def.  Wang/Cheng           61
-     16  Hess/Okpara          def.  Bretkelly/Kim        62
-     32  Zahare/Lopez         def.  Hess/Dewire          64
-     32  Yoo/Swaffer-Selff    def.  Gillinov/Wang        64
-     32  Dunleavy/Lin         def.  Lopez/Fisher         62
-     32  Kim/Cardenas         def.  Peng/Jupalli         76(6)
-     32  Bretkelly/Kim        def.  Conard/Dewire        62
-     32  Shrivistava/Cheng    def.  Krasakova/Jonglerta… 76(9)
-     32  Conard/Fahrmeier     def.  Farima/Jonglertakul  63
-     32  Okpara/Yoo           def.  Krasakova/Okuyama    63
-     32  Hack/Okuyama         def.  Kim/Zahare           61
- > Saturday Doubles
-  > Main
-     32  Lopez/Fisher         def.  Farima/Napadiy       61
-     32  Krasakova/Jonglerta… def.  Cardenas/Kaplan      64
-     32  Dunleavy/Lin         def.  Farima/Okuyama       64
-~~~
-
-<a name="21-78423"></a>
-~~~
-═══════════════════════════════════════════════════════════════
-  Bulldog Classic
-  Dates: Nov 5-7, 2021
-  Host: Drake University (W)
-═══════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Friday
-  > Main
-     16  Carbone/Stejskalova def.  Petushkova/Haagensen 84
-     16  Dimitriev/Rakita    def.  Absisan/Tiemeyer     85
-     16  Perova/Milner       def.  Stephani/Walczak     87(5)
-     16  Welch/Lukyanova     def.  Di Giulio/Miller     84
-     16  Durham/Tylek        def.  Hunt/Gaskell         84
-     16  Dmitrieva/Naves     def.  Linscott/Kelley      82
- > Saturday
-  > Main
-     16  Petushkova/Stephani def.  Di Giulio/Miller     85
-     16  Carbone/Stejskalova def.  Dimitriev/Rakita     84
-     16  Absisan/Kelley      def.  Haagensen/Stepan     85
-     16  Welch/Lukyanova     def.  Perova/Tylek         83
-     16  Walczak/Lee         def.  Linscott/Tiemeyer    83
-     16  Durham/Cavestro     def.  Dmitrieva/Naves      86
- > Sunday
-  > Main
-     16  Petushkova/Walczak  def.  Dimitriev/Rakita     83
-     16  Absisan/Di Giulio   def.  Carbone/Stejskalova  86
-     16  Stephani/Stepan     def.  Welch/Lukyanova      83
-     16  Perova/Milner       def.  Linscott/Miller      85
-     16  Haagensen/Neville   def.  Dmitrieva/Naves      82
-     16  Tylek/Cavestro      def.  Kelley/Tiemeyer      86
 ~~~
 
 <a name="21-51873"></a>
@@ -414,55 +344,6 @@
      16     Piferi/Magrini      def.     Wilkins/Fry         64
 ~~~
 
-<a name="21-78019"></a>
-~~~
-════════════════════════════════════════════════════════════════
-  John Cade Invitational
-  Dates: Nov 5-7, 2021
-  Host: Mississippi State Univ. (W)
-════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Round 1
-  > Main
-     32  Pursell/Verden-Ande… def.  Krzyzak/Machalova    63
-     32  Antonaki/Racine      def.  Reayer/Romero        63
-     32  Bilchev/Hrastar      def.  Graham/Roggenburk    61
-     32  Lee/Sharabura        def.  Sawyer/Verma         62
-     32  Melville/Nelson      def.  Jones/Woog           75
-     32  Gabrielsen/Leclerq-… def.  Meyer/Teixido-Garcia 61
-     32  Adaloglou/Mikhailuk  def.  Gorchanyuk/Simova    63
-     32  Dedaj/Jain           def.  Beltran/Burger       60
-     32  Pool/Zadori          def.  Grosmann/Tumthong    62
-     32  Cirotte/Falceto      def.  Nwaozuzu/Smith       63
-     32  Garcia Gross/Sassoli def.  Chaika/Richardson    62
- > Round 2
-  > Main
-     32  Antonaki/Racine      def.  Pursell/Verden-Ande… 62
-     32  Krzyzak/Machalova    def.  Reayer/Romero        63
-     32  Lee/Sharabura        def.  Graham/Roggenburk    62
-     32  Bilchev/Hrastar      def.  Sawyer/Verma         62
-     32  Meyer/Teixido-Garcia def.  Melville/Nelson      75
-     32  Jones/Woog           def.  Gabrielsen/Leclerq-… 64
-     32  Adaloglou/Mikhailuk  def.  Beltran/Burger       63
-     32  Dedaj/Jain           def.  Gorchanyuk/Simova    60
-     32  Cirotte/Falceto      def.  Chaika/Richardson    64
-     32  Pool/Zadori          def.  Nwaozuzu/Smith       61
-     32  Grosmann/Tumthong    def.  Garcia Gross/Sassoli 75
- > Round 3
-  > Main
-     32  Antonaki/Falceto     def.  Beltran/Melville     60
-     32  Adaloglou/Cirotte    def.  Dedaj/Jain           62
-     32  Mikhailuk/Racine     def.  Grosmann/Tumthong    60
-     32  Pursell/Verden-Ande… def.  Chaika/Richardson    62
-     32  Gabrielsen/Leclerq-… def.  Burger/Nelson        75
-     32  Jones/Romero         def.  Nwaozuzu/Smith       61
-     32  Bilchev/Hrastar      def.  Meyer/Reayer         63
-     32  Teixido-Garcia/Woog  def.  Gorchanyuk/Simova    61
-     32  Krzyzak/Machalova    def.  Lee/Sharabura        76(4)
-     32  Pool/Zadori          def.  Garcia Gross/Sassoli 61
-     32  Graham/Roggenburk    def.  Sawyer/Verma         61
-~~~
-
 <a name="21-18352"></a>
 ~~~
 ════════════════════════════════════════════════════════════════
@@ -509,51 +390,6 @@
      QF  Chileno/Jimenez      def.  Zhou/Kalava          84
 ~~~
 
-<a name="21-88258"></a>
-~~~
-════════════════════════════════════════════════════════════════
-  Miami Fall Invite
-  Dates: Nov 5-7, 2021
-  Host: University Of Miami (W)
-════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Columbia/Miami
-  > Main
-     QF  Achong/Richardson    def.  Bhan/Zhang           75
-     QF  Khodan/Tahan         def.  Kerr/Amineni         60
-     QF  Wood/Strugnell       def.  Boch-Collins/Pfennig 64
- > Columbia/Kentucky
-  > Main
-      F  Girbau/Urrutia       def.  Sakar/Rimondini      63
- > Duke/Kentucky
-  > Main
-      F  Beck/Bilokin         def.  Stevens/Molina       62
- > Barry/Duke
-  > Main
-      F  Drummy/Chen          def.  Bosnjak/Khazan       64
- > Barry/Kentucky
-  > Main
-      F  Farfan/Moosbacher    def.  Arrese/Gonzalez      62
- > Barry/Columbia
-  > Main
-      F  Lerby/Haynes         def.  Engelmann/Versier    64
- > Kentucky/Miami
-  > Main
-     QF  Stevens/Molina       def.  Achong/Richardson    64
-     QF  Khodan/Tahan         def.  Arrese/Gonzalez      61
-     QF  Boch-Collins/Pfennig def.  Girbau/Urrutia       62
- > Columbia/Duke
-  > Main
-      F  Beck/Bilokin         def.  Bhan/Zhang           63
- > Extras 1
-  > Main
-     SF  Beck/Bilokin         def.  Bosnjak/Khazan       61
-     SF  Wood/Strugnell       def.  Engelmann/Versier    63
- > Extras 2
-  > Main
-      F  Farfan/Moosbacher    def.  Haynes/Amineni       76(6)
-~~~
-
 <a name="21-05390"></a>
 ~~~
 ═══════════════════════════════════════════════════════════
@@ -595,78 +431,6 @@
   > Main
      QF  Theis/Lavery         def.  Maksimovic/Sara-Saf… 63
      QF  Cruz/Forshag         def.  Tardivel/Das         64
-~~~
-
-<a name="21-91602"></a>
-~~~
-════════════════════════════════════════════════════════════════
-  San Diego Veterans Tennis Classic
-  Dates: Nov 5-7, 2021
-  Host: University Of San Diego (M)
-════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Blue Draw
-  > Main
-     QF  Moore/Taggart        def.  Hinrichs/Weiland     60
-     QF  Corpuz/Komarraju     def.  Muljat/Hrudka        61
-     QF  Pitts/Morin          def.  Tabares/Snissarenko  63
-     QF  Von Tersch Pohrer/R… def.  Sabile/Wagner        76(4)
- > White Draw
-  > Main
-     QF  Corpuz/Komarraju     def.  Von Tersch Pohrer/R… 76(5)
-     QF  Moore/Taggart        def.  Pitts/Morin          62
-     QF  Sabile/Wagner        def.  Muljat/Hrudka        63
-     QF  Tabares/Snissarenko  def.  Hinrichs/Weiland     63
-~~~
-
-<a name="21-98128"></a>
-~~~
-════════════════════════════════════════════════════════════════
-  SCU/SJSU Invitational
-  Dates: Nov 5-7, 2021
-  Host: Santa Clara University (W)
-════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Friday
-  > Main
-     32  Fraile Toboso/Coetz… def.  Turulja/Genkova      62
-     32  Luneva/Del Barrio    def.  Hedrzak/Santibanez … 63
-     32  Dorian/ONeill        def.  Sarcelet/Feng        64
-     32  Gordon/Kalinic       def.  Gamracy/Bui          63
-     32  Hayer/Petty          def.  Chhabra/Courtney     63
-     32  Zlotnik/Schroer      def.  Hayes/Yue            62
-     32  Ronney/Harris        def.  Shiau/Ragona         62
-     32  Tevez/Massey         def.  Hellbe/Casucci       62
-     32  Hovda/Rook           def.  Ortega/Alvarez       63
-     32  Andrieieva/Marco Mas def.  Kosan/LeRoy          63
-     32  Ung/Sam              def.  Youseva/Babic        75
-     32  Villan Pereira/Pedr… def.  Wiese/Brilhante      60
- > Saturday
-  > Main
-     32  Hayer/Petty          def.  Ronney/Harris        63
-     32  Gordon/Kalinic       def.  Silva/Massey         63
-     32  Fileva/Schroer       def.  Tevez/Hovda          75
-     32  Luneva/Del Barrio    def.  Hellbe/Shiau         76(5)
-     32  Turulja/Genkova      def.  Alvarez/Casucci      60
-     32  Feng/Zlotnik         def.  Rook/Sarcelet        63
-     32  Fraile Toboso/Coetz… def.  Kosan/LeRoy          64
-     32  Ung/Sam              def.  Hedrzak/Santibanez … 64
-     32  Gamracy/Colyer       def.  Andrieieva/Marco Mas 64
-     32  Courtney/Hayes       def.  Villan Pereira/Pedr… 62
-     32  Youseva/Babic        def.  Clydesdale-Eberle/Y… 64
- > Sunday
-  > Main
-     32  Gordon/Kalinic       def.  Fraile Toboso/Coetz… 76(4)
-     32  Hayer/Petty          def.  Hedrzak/Dorian       63
-     32  Ung/Sam              def.  Fileva/Zlotnik       75
-     32  Schroer/Feng         def.  Zamora/Brilhante     63
-     32  Clydesdale-Eberle/R… def.  Pesqueira/Casucci    63
-     32  Hellbe/Shiau         def.  Kosan/LeRoy          76(4)
-     32  Luneva/Del Barrio    def.  Youseva/Andrieieva   64
-     32  Muradyan/Babic       def.  Turulja/Genkova      75
-     32  Harris/Tevez         def.  Colyer/Martinez Vaq… 60
-     32  Massey/Rook          def.  Mushika/Yue          75
-     32  Hayes/Gamracy        def.  Hovda/Silva          63
 ~~~
 
 <a name="21-51929"></a>
@@ -726,52 +490,6 @@
       F (4) Rich/Tillitt        def.     Hardeman/Kahrs      61
   > Northwest
       F     Schulson/Snyder     def. (3) Gibbens/Young       Walkover
-~~~
-
-<a name="21-71023"></a>
-~~~
-══════════════════════════════════════════════════════════
-  Stetson Invite #2
-  Dates: Nov 5-7, 2021
-  Host: Stetson University (W)
-══════════════════════════════════════════════════════════
- Women's Open Doubles
- > 1
-  > Main
-     SF  Gabriel/Cohen       def.  Schmidt/Gupta   63
-     SF  Foster/Di Francesco def.  Salinas/Clayton 63
- > 2
-  > Main
-     SF  Foster/Di Francesco def.  Schmidt/Gupta   75
-     SF  Gabriel/Cohen       def.  Alexis/Barnard  60
- > 3
-  > Main
-     SF  Hubeaut/Sumaia      def.  Pasini/Hammoud  64
-     SF  Jamir/Landstrom     def.  Pasini/Rizk     64
- > 4
-  > Main
-     SF  Alexis/Barnard      def.  Pasini/Rizk     64
-     SF  Hammoud/Talbert     def.  Salinas/Clayton 61
- > 5
-  > Main
-     SF  Foster/Di Francesco def.  Klapman/Pax     63
-     SF  Salinas/Clayton     def.  DeNardo/Menten  75
- > 6
-  > Main
-     SF  Hubeaut/Sumaia      def.  Spurka/Gasser   75
-     SF  Dovgopolyi/Rizk     def.  Salinas/Clayton 61
- > 7
-  > Main
-     SF  Schmidt/Gupta       def.  Porter/Harden   61
-     SF  Alexis/Barnard      def.  Salinas/Clayton 62
- > 8
-  > Main
-     SF  Salinas/Clayton     def.  Barnard/Mauro   62
-     SF  Alexis/Barnard      def.  Hubeaut/Sumaia  76(4)
- > 9
-  > Main
-     SF  Schmidt/Gupta       def.  Salinas/Clayton 64
-     SF  Porter/Harden       def.  Barnard/Mauro   64
 ~~~
 
 <a name="21-37091"></a>

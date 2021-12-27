@@ -3,21 +3,17 @@
 **Tournamets with Matches**  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
-- 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
 - 10/22/2021 - [Cissie Leary Tournament](#21-40389) ([Results](#21-40389) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/52F512A2-C6C9-455D-99FE-554E90CDACD3" target="_blank">Draws</a>)  
 - 10/22/2021 - [Islander Open](#21-65872) ([Results](#21-65872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiM/Tournaments/Overview/A170BFCF-49FB-4619-AEA2-0BF545C38F08" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Carolina Women's Regional Championship](#21-64509) ([Results](#21-64509) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityW/Tournaments/Overview/61F146C9-753C-4458-9E95-EE269C0BB692" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-49776) ([Results](#21-49776) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/03D2591A-B4EA-40D0-84EE-FA366640953F" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Central Regional Championship](#21-25213) ([Results](#21-25213) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIowaW/Tournaments/Overview/D14DFB81-5E2F-4C19-96BD-C7C8E01E527B" target="_blank">Draws</a>)  
-- 10/22/2021 - [ITA Division I Women's Midwest Regional Championship](#21-91007) ([Results](#21-91007) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OhioStateUniversityW/Tournaments/Overview/6552AE44-FB48-4C1E-A09A-B67C23ED4FEA" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Women's Northwest Regional Championship](#21-52217) ([Results](#21-52217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/StanfordUniversityW/Tournaments/Overview/069089F9-1C02-43BD-82B5-B68774093F12" target="_blank">Draws</a>)  
-- 10/20/2021 - [ITA Division I Women's Ohio Valley Regional Championship](#21-97599) ([Results](#21-97599) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Women's Southwest Regional Championship](#21-15310) ([Results](#21-15310) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1" target="_blank">Draws</a>)  
 - 10/22/2021 - [The Georgia Invitational](#21-36554) ([Results](#21-36554) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaW/Tournaments/Overview/01A4B27D-4D73-4167-8630-758894B435E5" target="_blank">Draws</a>)  
 - 10/23/2021 - [2021 Wisconsin Intercollegiate Athletic Conference (WIAC) Women's Tennis Championship](#21-05827) ([Results](#21-05827) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/A0CDEAF6-7B11-4E2C-9CAE-7B8AE58AA1CB" target="_blank">Draws</a>)  
 - 10/21/2021 - [Crusader Invitational](#21-41693) ([Results](#21-41693) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/8CA8C6DB-8791-45F5-A4E5-FFA09FB1EFD1" target="_blank">Draws</a>)  
 - 10/22/2021 - [Eagle Invitational](#21-28500) ([Results](#21-28500) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarsonNewmanUniversityM/Tournaments/Overview/FA529FF6-2F0C-4A2B-98E2-9375081745F2" target="_blank">Draws</a>)  
-- 10/22/2021 - [GSC Fall Individual Tournament](#21-93512) ([Results](#21-93512) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWestAlabamaM/Tournaments/Overview/3F52D38E-E55E-401F-9FFF-DE42949C2FFF" target="_blank">Draws</a>)  
 - 10/22/2021 - [MSU Invitational](#21-16812) ([Results](#21-16812) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">Draws</a>)  
 - 10/22/2021 - [Saint Leo Hidden Duals - Women](#21-20217) ([Results](#21-20217) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/4E66DF95-8991-4880-9830-29E9F5B3C53F" target="_blank">Draws</a>)  
 - 10/22/2021 - [YTF Southeastern Invitational](#21-42214) ([Results](#21-42214) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">Draws</a>)  
@@ -155,62 +151,6 @@
      64      Meredith/Arseneault  def.      Aoki/van der Merwe   87(4)
      64      Ferreira da Silva/R… def.      Walther/Theis        81
      64      Khokhlova/Widing     def.      Taknishi/Pasanen     86
-~~~
-
-<a name="21-76092"></a>
-~~~
-═════════════════════════════════════════════════════════════════════════
-  ITA Division I Women's Texas Regional Championship
-  Dates: Oct 14-18, 2021
-  Host: Texas Christian University (W)
-═════════════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Draw
-  > Main
-      F  (2) Herrero Linana/Kryw… def.  (1) Makarova/Goldsmith   75 75
-     SF  (1) Makarova/Goldsmith   def.  (5) Chavatipon/Collns    76(3) 64
-     SF  (2) Herrero Linana/Kryw… def.      Adams/Devier         62 62
-     QF  (1) Makarova/Goldsmith   def.  (7) Keberle/Bartolome    86
-     QF  (5) Chavatipon/Collns    def. (14) Orav/Smirnova        80
-     QF      Adams/Devier         def. (10) Baranano/Zamburek    85
-     QF  (2) Herrero Linana/Kryw… def. (12) El Jardi/Trevisan    85
-     16  (1) Makarova/Goldsmith   def. (16) Cortijo Parreno/Tre… 86
-     16  (7) Keberle/Bartolome    def.      Fulgenzi/Fulgenzi    81
-     16  (5) Chavatipon/Collns    def. (11) Skriabina/Tiglea     86
-     16 (14) Orav/Smirnova        def.      Gorinsek/Chileno     85
-     16      Adams/Devier         def. (13) Komac/Main           84
-     16 (10) Baranano/Zamburek    def.  (6) Pielet/Stoiana       87(7)
-     16 (12) El Jardi/Trevisan    def.  (8) Evans/Sayfetdinova   87(9)
-     16  (2) Herrero Linana/Kryw… def. (15) Dzemeshkevich/Pedem… 85
-     32  (1) Makarova/Goldsmith   def.      Peet/Stepp           83
-     32 (16) Cortijo Parreno/Tre… def.      Vutukuru/Basson      82
-     32      Fulgenzi/Fulgenzi    def.  (9) Smirnova/Zipoli      86
-     32  (7) Keberle/Bartolome    def.      Reinertsen/Jimenez   83
-     32  (5) Chavatipon/Collns    def.      Zlatarova/Weir       83
-     32 (11) Skriabina/Tiglea     def.      Vehvilainen/Oyama    81
-     32 (14) Orav/Smirnova        def.      Kortikere/Cusano     80
-     32      Gorinsek/Chileno     def.  (3) Nylander/Doyle       85
-     32      Adams/Devier         def.  (4) Zamarripa/Zamarripa  Walkover
-     32 (13) Komac/Main           def.      Huth/Jakeway         86
-     32 (10) Baranano/Zamburek    def.      Pons/Novikova        87(6)
-     32  (6) Pielet/Stoiana       def.      McCain/Starr         83
-     32  (8) Evans/Sayfetdinova   def.      Honore/Aucagne       82
-     32 (12) El Jardi/Trevisan    def.      Kalava/Hummel        80
-     32 (15) Dzemeshkevich/Pedem… def.      Morris/Mavor         86
-     32  (2) Herrero Linana/Kryw… def.      Kvapilova/Israel-Le… 84
-     64      Peet/Stepp           def.      Townsend/Shumeika    85
-     64      Fulgenzi/Fulgenzi    def.      Zhou/Ponomareva      82
-     64      Reinertsen/Jimenez   def.      Fortuno/Chan         83
-     64      Zlatarova/Weir       def.      Guerrero/Mocciola    84
-     64      Vehvilainen/Oyama    def.      Malazonia/McCutcheon 83
-     64      Gorinsek/Chileno     def.      Slisane/Giraldo      86
-     64      Adams/Devier         def.      Stewart/Crisologo    84
-     64      Pons/Novikova        def.      Kauders/Cerda        82
-     64      McCain/Starr         def.      Zivkovic/Damera      Walkover
-     64      Honore/Aucagne       def.      Chobanyan/Kaszas     84
-     64      Kalava/Hummel        def.      Omoworare/Beyebach   83
-     64      Morris/Mavor         def.      Marcinkevica/Makant… 85
-     64      Kvapilova/Israel-Le… def.      Horiguchi/Dumitrescu 82
 ~~~
 
 <a name="21-40389"></a>
@@ -517,36 +457,6 @@
        F  Hamilton/Rademacher  def.  Lee/Gledic           82
 ~~~
 
-<a name="21-91007"></a>
-~~~
-════════════════════════════════════════════════════════════════════
-  ITA Division I Women's Midwest Regional Championship
-  Dates: Oct 22-26, 2021
-  Host: Ohio State University (W)
-════════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Main Draw
-  > Main
-      F     Ratliff/Cantos Siem… def.     McColgan/Pratt       81
-     SF     McColgan/Pratt       def. (1) Allen/Boulais        85
-     SF     Ratliff/Cantos Siem… def. (2) Pietrowicz/Lewis     83
-     QF (1) Allen/Boulais        def.     Alcala/Teske         82
-     QF     McColgan/Pratt       def.     Brown/Miller         87(3)
-     QF     Ratliff/Cantos Siem… def.     Duong/Frazier        84
-     QF (2) Pietrowicz/Lewis     def.     Andreach/Beckman     87(7)
-     16 (1) Allen/Boulais        def.     Semenovski/Cataldi   82
-     16     Alcala/Teske         def.     Treiber/Ferrari      86
-     16     Brown/Miller         def.     Heuser/Yeah          83
-     16     McColgan/Pratt       def. (4) Freeman/Lilien       84
-     16     Ratliff/Cantos Siem… def. (3) Hand/Crowley         82
-     16     Duong/Frazier        def.     Kizelbasheva/Antoni… 86
-     16     Andreach/Beckman     def.     Mukhortova/Stoica    86
-     16 (2) Pietrowicz/Lewis     def.     Fliegner/Kelly       87(3)
- > Doubles Extra Matches
-  > Main
-      F     Kizelbasheva/Antoni… def.     Treiber/Ferrari      86
-~~~
-
 <a name="21-52217"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -627,97 +537,6 @@
      SF     Schwartzberg/Page    def. (2) Courtney/Hayes       61
      QF     Gamracy/Qiu          def.     Galerkin/Maunupau    64
      QF     Schwartzberg/Page    def.     Wiese/Carmichael     63
-~~~
-
-<a name="21-97599"></a>
-~~~
-══════════════════════════════════════════════════════════════════════════
-  ITA Division I Women's Ohio Valley Regional Championship
-  Dates: Oct 20-25, 2021
-  Host: Middle Tennessee State University (W)
-══════════════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Main Draw
-  > Main
-       F     Masic/Schneider      def. (5) Molina/Stevens       63 62
-      SF (5) Molina/Stevens       def.     Eades/Girbau         63 16 [10]
-      SF     Masic/Schneider      def. (2) Di Palma/Verma       62 60
-      QF (5) Molina/Stevens       def.     Roggenburk/Graham    83
-      QF     Eades/Girbau         def. (9) Mertena/Tomase       84
-      QF     Masic/Schneider      def.     Carvajal/Elizarraras 84
-      QF (2) Di Palma/Verma       def. (5) McGiffin/Symons      84
-      16     Roggenburk/Graham    def.     Bakhodirova/Morales  86
-      16 (5) Molina/Stevens       def. (9) Stevens/Rompf        84
-      16 (9) Mertena/Tomase       def. (4) Cruz/Kourkina        81
-      16     Eades/Girbau         def.     Smith/Nwaozuzu       81
-      16     Masic/Schneider      def. (5) Arrese/Gonzalez      87(5)
-      16     Carvajal/Elizarraras def. (3) Staff/Lee            86
-      16 (5) McGiffin/Symons      def.     Young/Billman        82
-      16 (2) Di Palma/Verma       def.     Kyle/Lyman           83
-      32     Bakhodirova/Morales  def.     Woog/Jones           86
-      32     Roggenburk/Graham    def.     Staiculescu/Hernand… 84
-      32 (5) Molina/Stevens       def.     Zalukar/Valentinsson 82
-      32 (9) Stevens/Rompf        def.     Abel/Gibbens         85
-      32 (4) Cruz/Kourkina        def.     Schmidt/Gupta        87(4)
-      32 (9) Mertena/Tomase       def.     van Hee/Bosman       83
-      32     Smith/Nwaozuzu       def.     Kothakota/Rosenberg… Walkover
-      32     Eades/Girbau         def. (9) Milic/Larranaga      82
-      32     Masic/Schneider      def.     Gasparin/Galindo     83
-      32 (5) Arrese/Gonzalez      def.     Duckworth/Creath     86
-      32     Carvajal/Elizarraras def.     Ushio/Long           87(1)
-      32 (3) Staff/Lee            def.     Polishchuk/Davies    84
-      32     Young/Billman        def.     Lee/Carelli          85
-      32 (5) McGiffin/Symons      def.     Peeler/Kaplan        83
-      32     Kyle/Lyman           def. (9) Fodor/Gallardo Guev… 85
-      32 (2) Di Palma/Verma       def.     Leder/Nakanishi      81
-      64     Woog/Jones           def. (1) Adeshina/Kuczer      86
-      64     Bakhodirova/Morales  def.     Steif/Ondo           83
-      64     Staiculescu/Hernand… def. (9) Sawyer/Simova        86
-      64     Roggenburk/Graham    def.     Popova/Trbeznik      85
-      64 (5) Molina/Stevens       def.     Getty/Trondson       81
-      64     Zalukar/Valentinsson def.     Bernard/Lounsbury    84
-      64 (9) Stevens/Rompf        def.     Mauro/Barnard        84
-      64     Abel/Gibbens         def.     Guna/Miceli          83
-      64 (4) Cruz/Kourkina        def.     Denysiewicz-Slowek/… 82
-      64     Schmidt/Gupta        def.     Lukacs/Braun         85
-      64 (9) Mertena/Tomase       def.     Morris/Torrealba     85
-      64     van Hee/Bosman       def.     Flanagan/Niehaus     84
-      64     Smith/Nwaozuzu       def. (5) Teixido-Garcia/Meyer 86
-      64     Kothakota/Rosenberg… def.     Richardson/Callwood  87(4)
-      64 (9) Milic/Larranaga      def.     Solomon/Zholdakova   83
-      64     Eades/Girbau         def.     Balthazor/Beavin     86
-      64     Masic/Schneider      def.     Young/Bergqvist      81
-      64     Gasparin/Galindo     def. (9) Reayer/Romero        84
-      64     Duckworth/Creath     def.     Henry/Roberts        87(5)
-      64 (5) Arrese/Gonzalez      def.     Cheng/Paladini- Jen… 85
-      64     Ushio/Long           def.     Howard/Bandy         86
-      64     Carvajal/Elizarraras def. (9) Mclay/Pendergast     84
-      64     Polishchuk/Davies    def.     Koo/Grau             87(2)
-      64 (3) Staff/Lee            def.     Niedzialowski/Espin… 80
-      64     Lee/Carelli          def.     Barnard/Alexis       87(3)
-      64     Young/Billman        def. (9) Ramasamy/Rico        83
-      64     Peeler/Kaplan        def.     Boesing/Beavin       80
-      64 (5) McGiffin/Symons      def.     Grosmann/Tumthong    85
-      64     Kyle/Lyman           def.     Diachenko/Dobranos   87(1)
-      64 (9) Fodor/Gallardo Guev… def.     Sakurai/Albersmeier  83
-      64     Leder/Nakanishi      def.     Ochalik/Grubb        82
-      64 (2) Di Palma/Verma       def.     Alfaro/Gorbunova     83
- > Saturday Consolation
-  > Main
-     128     Teixido-Garcia/Meyer def.     Solomon/Zholdakova   81
-     128     Lukacs/Braun         def.     Popova/Trbeznik      84
-     128     Adeshina/Kuczer      def.     Alfaro/Gorbunova     84
-     128     Mauro/Barnard        def.     Howard/Bandy         84
-     128     Steif/Ondo           def.     Getty/Trondson       85
-     128     Denysiewicz-Slowek/… def.     Diachenko/Dobranos   84
-     128     Henry/Roberts        def.     Grosmann/Tumthong    86
-     128     Morris/Torrealba     def.     Sakurai/Albersmeier  86
-     128     Niedzialowski/Espin… def.     Cheng/Paladini- Jen… 87(5)
- > Sunday Consolation
-  > Main
-      64     Adeshina/Kuczer      def.     Schmidt/Gupta        84
-      64     Staiculescu/Kubas    def.     Sakurai/Albersmeier  87(5)
-      64     Mauro/Barnard        def.     Steif/Ondo           83
 ~~~
 
 <a name="21-15310"></a>
@@ -1013,76 +832,6 @@
      R3  Chornei/Speiser    def.  Dong/Wilson          62
      R2  Chornei/Speiser    def.  Good/Smith           60
      R1  Dong/Wilson        def.  Good/Smith           63
-~~~
-
-<a name="21-93512"></a>
-~~~
-═══════════════════════════════════════════════════════════════════
-  GSC Fall Individual Tournament
-  Dates: Oct 22-24, 2021
-  Host: University Of West Alabama (M)
-═══════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Draw 1
-  > Main
-      F  Ly/Vidnere           def.  Amaro/Vandeputte     64
-     SF  Ly/Vidnere           def.  Tuells Bonet/Kohout… 63 63
-     SF  Amaro/Vandeputte     def.  Garza/Takanishi      64 64
-     QF  Ly/Vidnere           def.  Ibarra/Navarro       62
-     QF  Tuells Bonet/Kohout… def.  Recuenco/Wagner      63
-     QF  Amaro/Vandeputte     def.  Daud/Yigin           62
-     QF  Garza/Takanishi      def.  Turro/Hartlohner     62
-     16  Ibarra/Navarro       def.  Martinez/Medel       63
-     16  Ly/Vidnere           def.  Alas/Cota            60
-     16  Tuells Bonet/Kohout… def.  Ozzor/Dirr           61
-     16  Recuenco/Wagner      def.  Menendez/Portalier   61
-     16  Amaro/Vandeputte     def.  Pepe/Subias          61
-     16  Daud/Yigin           def.  Jones/Blachon        63
-     16  Turro/Hartlohner     def.  Mazzella/Garcia      76(5)
-     16  Garza/Takanishi      def.  Didkovska/Valiaeva   62
- > Draw 2
-  > Main
-      F  Vorobiova/Starreveld def.  Marin/Wooten         60
-     SF  Marin/Wooten         def.  Saving/Rivoal        64 64
-     SF  Vorobiova/Starreveld def.  Rodriguez/Roberts    64 64
-     QF  Saving/Rivoal        def.  Breedlove/Barfoot    61 61
-     QF  Marin/Wooten         def.  Piltaver/Hamilton    64
-     QF  Vorobiova/Starreveld def.  Garcia/Costa         61
-     QF  Rodriguez/Roberts    def.  Barrio/Barrio        64
-     16  Saving/Rivoal        def.  Nikolaeva/Mulkey-Da… 64
-     16  Breedlove/Barfoot    def.  Beau/Bryjarsdottir   76(4)
-     16  Piltaver/Hamilton    def.  Moore/Gallman        61
-     16  Marin/Wooten         def.  Cota/Stockett        64
-     16  Garcia/Costa         def.  Karm/Lewis           60
-     16  Vorobiova/Starreveld def.  Sacco/Fioravanti     63
-     16  Barrio/Barrio        def.  Arevalo/Bishop       75
-     16  Rodriguez/Roberts    def.  Novis/Owen           60
-     32  Saving/Rivoal        def.  De La Torre/Izco     64
-     32  Barrio/Barrio        def.  Pinto/Villalvazo     75
-     32  Arevalo/Bishop       def.  Hesterlee/Roberts    62
- > Consolation 1
-  > Main
-     32  Recuenco/Wagner      def.  De La Torre/Izco     60 60
-     32  Ibarra/Navarro       def.  Menendez/Portalier   60 60
-     32  Alas/Cota            def.  Garcia/Costa         60 60
-     32  Ozzor/Dirr           def.  Daud/Yigin           62 62
-     32  Didkovska/Valiaeva   def.  Piltaver/Hamilton    Walkover
-     32  Barrio/Barrio        def.  Jones/Blachon        62 62
-     32  Sacco/Fioravanti     def.  Cota/Stockett        64 64
-     32  Martinez/Medel       def.  Breedlove/Barfoot    75
-     32  Mazzella/Garcia      def.  Pepe/Subias          64
-     32  Beau/Bryjarsdottir   def.  Hesterlee/Roberts    61
-     32  Pinto/Villalvazo     def.  Nikolaeva/Mulkey-Da… 75
-     32  Karm/Lewis           def.  Novis/Owen           62
-     32  Arevalo/Bishop       def.  Moore/Gallman        60
- > Consolation 10/24
-  > Main
-     QF  Tuells Bonet/Kohout… def.  Garcia/Costa         60
-     QF  Didkovska/Valiaeva   def.  Barrio/Barrio        63
-     QF  Mazzella/Garcia      def.  Martinez/Medel       75
-     QF  Ibarra/Navarro       def.  Alas/Cota            64
-     SF  Saving/Rivoal        def.  Karm/Lewis           75
-     SF  Beau/Bryjarsdottir   def.  Ozzor/Dirr           61
 ~~~
 
 <a name="21-16812"></a>
