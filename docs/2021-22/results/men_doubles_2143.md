@@ -8,8 +8,10 @@
 - 10/22/2021 - [ITA Division I Men's Northwest Super Regional Championship](#21-64957) ([Results](#21-64957) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonM/Tournaments/Overview/FCD50A53-E765-4641-A4EF-4F8678B573CA" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
+- 10/28/2021 - [64th Annual Southern California Intercollegiate Championships](#21-75985) ([Results](#21-75985) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">Draws</a>)  
 - 10/29/2021 - [Crimson Halloween Invite](#21-48385) ([Results](#21-48385) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gamecock Scramble](#21-06171) ([Results](#21-06171) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Draws</a>)  
+- 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
 - 10/29/2021 - [Rice Fall Challenge](#21-45244) ([Results](#21-45244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityM/Tournaments/Overview/014D4049-2DA7-4F05-A176-8C88B48C0A0E" target="_blank">Draws</a>)  
 - 10/29/2021 - [Seahawk Team Invite](#21-55779) ([Results](#21-55779) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/51B113EF-ED0C-4077-AB2D-ED40B781F1CE" target="_blank">Draws</a>)  
 - 10/29/2021 - [Virginia Tech Halloween Clash](#21-26801) ([Results](#21-26801) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechM/Tournaments/Overview/0436DD0A-63A2-43F0-84A2-EECCD0CD7019" target="_blank">Draws</a>)  
@@ -17,6 +19,7 @@
 
 **Tournaments without Matches**  
 - 10/30/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/MerrimackCollegeM/Tournaments/Overview/881600CD-3A46-47BD-89AF-617D55799760" target="_blank">Merrimack Invitational</a>  
+- 10/29/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityM/Tournaments/Overview/4BDFA4F4-EA69-4DD4-A8F2-90063E1C5EF5" target="_blank">The Viking Invitational</a>  
 
 <a name="21-69139"></a>
 ~~~
@@ -403,6 +406,42 @@
      64      Olsen/Middleton      def.      Mkrtchian/Zamora     87(2)
 ~~~
 
+<a name="21-75985"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  64th Annual Southern California Intercollegiate Championships
+  Dates: Oct 28-31, 2021
+  Host: ITA
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Main Draw
+  > Main
+      F     Neos/Pankin          def. (1) Allen/Steinhausen    86
+     SF (1) Allen/Steinhausen    def.     Nuno/Bohren          Walkover
+     SF     Neos/Pankin          def.     Simon/Smiej          83
+     QF (1) Allen/Steinhausen    def.     Caddies/Thorold      84
+     QF     Nuno/Bohren          def.     Van Zeggelaar/Ander… 85
+     QF     Simon/Smiej          def.     Parsley/Smith        86
+     QF     Neos/Pankin          def. (2) Davies/Norfeldt      86
+     16 (1) Allen/Steinhausen    def.     Hibi/Yoshida         85
+     16     Caddies/Thorold      def.     De Samucewicz/Rudni… 87(4)
+     16     Nuno/Bohren          def. (3) Jordan/Vedri-Castel… 86
+     16     Van Zeggelaar/Ander… def.     Sillman/Zisette      84
+     16     Parsley/Smith        def.     Williams/Castillo    86
+     16     Simon/Smiej          def. (4) Chakravarthi/Krall   83
+     16     Neos/Pankin          def.     Jackson/Barretto     86
+     16 (2) Davies/Norfeldt      def.     Mariano/Novak        84
+ > Qualifying Draw
+  > Main
+     16     Williams/Castillo    def.     Large/Daoust         82
+     16 (3) Hibi/Yoshida         def.     Hess/Sanseverino     84
+     16     Parsley/Smith        def.     Kodiji/Tayebi        87(4)
+     16     Caddies/Thorold      def.     Caldwell/Marsh       83
+     16 (4) De Samucewicz/Rudni… def.     Cohen/Wilkins        84
+     16     Van Zeggelaar/Ander… def.     Blinder/Marks        84
+     16 (2) Sillman/Zisette      def.     Simon/Smiej          87(3)
+~~~
+
 <a name="21-48385"></a>
 ~~~
 ════════════════════════════════════════════════════════════════
@@ -468,6 +507,64 @@
      16  Lopez De Azcona/Ban… def.  Thongoana/Petrovic   84
      16  Draper/Maciag        def.  Benson/Milanovic     86
      16  Bernard/Nahrung      def.  Thomson/Baadi        84
+~~~
+
+<a name="21-84042"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Gonzaga Invitational
+  Dates: Oct 29-31, 2021
+  Host: Gonzaga University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Blue
+  > East
+      F  Tvedt/Penzlin        def.  Minakata/Kryvchun   85
+     SF  Tvedt/Penzlin        def.  Gomez Galvan/Hann   82
+     SF  Minakata/Kryvchun    def.  Casino/Bascon       86
+     QF  Tvedt/Penzlin        def.  Moortgat/Marquardt  86
+     QF  Gomez Galvan/Hann    def.  Stoeger/Martin      84
+     QF  Minakata/Kryvchun    def.  Ortega/Balce        84
+     QF  Casino/Bascon        def.  Monteiro/Sitar      84
+  > West
+      F  Moortgat/Marquardt   def.  Ortega/Balce        82
+     SF  Moortgat/Marquardt   def.  Stoeger/Martin      87(7)
+     SF  Ortega/Balce         def.  Monteiro/Sitar      85
+  > 3-4 Playoff
+      F  Casino/Bascon        def.  Gomez Galvan/Hann   84
+  > South
+      F  Monteiro/Sitar       def.  Stoeger/Martin      Walkover
+ > White
+  > East
+      F  de la Bassetiere/Br… def.  Andersson/Roider    87(4)
+     SF  de la Bassetiere/Br… def.  Mueller/Sarlvik     86
+     SF  Andersson/Roider     def.  Thielgaard/Hallgren 87(4)
+     QF  Mueller/Sarlvik      def.  Salvador/Masala     87(5)
+     QF  Andersson/Roider     def.  Zelver/Huppin       87(3)
+     QF  Thielgaard/Hallgren  def.  Espinoza/Hsu        87(3)
+  > West
+      F  Salvador/Masala      def.  Zelver/Huppin       83
+     SF  Zelver/Huppin        def.  Espinoza/Hsu        87(9)
+  > 3-4 Playoff
+      F  Thielgaard/Hallgren  def.  Mueller/Sarlvik     84
+ > Red
+  > East
+      F  Taylor/Duron         def.  Asenov/Ramesh       85
+     SF  Asenov/Ramesh        def.  Sciglitano/Benn     87(5)
+     SF  Taylor/Duron         def.  Jesser/De Vries     87(4)
+     QF  Sciglitano/Benn      def.  Plutat/Fernandez    87(3)
+     QF  Asenov/Ramesh        def.  Dillon/Thomas       84
+     QF  Jesser/De Vries      def.  Baldwin/Watkins     Walkover
+     QF  Taylor/Duron         def.  Paz/Grimes          86
+  > West
+      F  Paz/Grimes           def.  Plutat/Fernandez    Walkover
+     SF  Plutat/Fernandez     def.  Dillon/Thomas       81
+     SF  Paz/Grimes           def.  Baldwin/Watkins     Walkover
+  > 3-4 Playoff
+      F  Sciglitano/Benn      def.  Jesser/De Vries     84
+ > Red South
+  > Main
+      F  Monteiro/Sitar       def.  Paz/Grimes          87(6)
 ~~~
 
 <a name="21-45244"></a>

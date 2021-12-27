@@ -3,6 +3,7 @@
 **Tournamets with Matches**  
 - 9/5/2021 - [Mary Hosking Invitational Tournament](#21-02759) ([Results](#21-02759) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7" target="_blank">Draws</a>)  
 - 9/3/2021 - [Tyler Invite](#21-00238) ([Results](#21-00238) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTexasTylerW/Tournaments/Overview/2BA0D609-FAB2-4A48-859D-61975908AE40" target="_blank">Draws</a>)  
+- 9/4/2021 - [Warhawk Invitational](#21-90634) ([Results](#21-90634) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/4E7E69DF-F521-4DA8-A3AB-8131B80552CE" target="_blank">Draws</a>)  
 
 <a name="21-02759"></a>
 ~~~
@@ -239,6 +240,70 @@
      R2  Ainoa Fabre          def.  Yeva Kononovych      61 61
      R1  Yeva Kononovych      def.  Haylie Hunger        60 60
      R1  Ainoa Fabre          def.  Maria Alejandra San… 62 60
+~~~
+
+<a name="21-90634"></a>
+~~~
+═════════════════════════════════════════════════════════════════
+  Warhawk Invitational
+  Dates: Sep 4-4, 2021
+  Host: Univ. Of Wisconsin, Whitewater (W)
+═════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight 1
+  > Main
+      F  Kimmy Steinert    def.  Sabrina Tang      75 76(4)
+     SF  Kimmy Steinert    def.  Lily Schoeck      61 60
+     SF  Sabrina Tang      def.  Autum Bruno       26 62 [8]
+     QF  Kimmy Steinert    def.  Ruofei Shuang     61 60
+     QF  Lily Schoeck      def.  Elaine Franta     75 75
+     QF  Autum Bruno       def.  Michelle Spicer   60 62
+     QF  Sabrina Tang      def.  Luana da Silva    61 61
+  > Consolation
+      F  Ruofei Shuang     def.  Luana da Silva    61 61
+     SQ  Ruofei Shuang     def.  Elaine Franta     62 67(1) [4]
+     SQ  Luana da Silva    def.  Michelle Spicer   63 46 [5]
+  > Playoff 3-4
+      F  Autum Bruno       def.  Lily Schoeck      62 61
+ > Flight 1 7/8
+  > Main
+      F  Elaine Franta     def.  Michelle Spicer   63 61
+ > Flight 2
+  > Main
+      F  Cassandra Lee     def.  Tasha Bailey      64 63
+     SF  Tasha Bailey      def.  Irene Agusti      62 63
+     SF  Cassandra Lee     def.  Samantha Fuchs    64 63
+     QF  Irene Agusti      def.  Alessandra Rivera 60 60
+     QF  Tasha Bailey      def.  Michaela Magee    60 61
+     QF  Cassandra Lee     def.  Sierra Sonnemaker 62 61
+     QF  Samantha Fuchs    def.  Bethany Marshall  26 62 [8]
+  > Consolation
+      F  Bethany Marshall  def.  Michaela Magee    63 64
+     SQ  Michaela Magee    def.  Alessandra Rivera 60 60
+     SQ  Bethany Marshall  def.  Sierra Sonnemaker 62 60
+  > Playoff 3-4
+      F  Irene Agusti      def.  Samantha Fuchs    63 61
+ > Flight 2 7/8
+  > Main
+      F  Sierra Sonnemaker def.  Alessandra Rivera 61 60
+ > Flight 3
+  > Main
+      F  Gianna Nikoleit   def.  Sydney Marin      62 62
+     SF  Gianna Nikoleit   def.  Utsah Kalra       62 76(8)
+     SF  Sydney Marin      def.  Sydney Presler    63 61
+     QF  Gianna Nikoleit   def.  Avery Nicholson   60 60
+     QF  Utsah Kalra       def.  Maddie Kearney    60 60
+     QF  Sydney Presler    def.  Jade Schwichow    60 60
+     QF  Sydney Marin      def.  Nicole Pacheco    60 61
+  > Consolation
+      F  Maddie Kearney    def.  Nicole Pacheco    60 60
+     SQ  Maddie Kearney    def.  Avery Nicholson   61 63
+     SQ  Nicole Pacheco    def.  Jade Schwichow    60 61
+  > Playoff 3-4
+      F  Utsah Kalra       def.  Sydney Presler    61 64
+ > Flight 3 7/8
+  > Main
+      F  Avery Nicholson   def.  Jade Schwichow    60 60
 ~~~
 
 Return to the [Top](./women_singles_2135.md) &#124; [Home Page](../../index.md)

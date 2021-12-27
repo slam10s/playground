@@ -3,8 +3,12 @@
 **Tournamets with Matches**  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/16/2021 - [Brown Classic](#21-58015) ([Results](#21-58015) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Women's Mountain Regional Championship](#21-74915) ([Results](#21-74915) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Women's Northeast Regional Championship](#21-91243) ([Results](#21-91243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
+- 10/15/2021 - [Martha Thorn Invitational](#21-82907) ([Results](#21-82907) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Draws</a>)  
 - 10/15/2021 - [Viking Invitational](#21-40542) ([Results](#21-40542) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Draws</a>)  
 - 10/16/2021 - [2021 Midwest Conference Women's Tennis Individual Tournament](#21-17879) ([Results](#21-17879) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">Draws</a>)  
 - 10/15/2021 - [American Rivers Conference Women's Individual Tournament](#21-35590) ([Results](#21-35590) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">Draws</a>)  
@@ -90,6 +94,138 @@
      32  Weber/Fahrmeier      def.  Lau/Peus             64
      32  Benedetto/Ahlstrom   def.  Dewire/Peng          62
      32  Mariotti/Dellacono   def.  Jupalli/Swaffer-Sel… 64
+~~~
+
+<a name="21-74915"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  ITA Division I Women's Mountain Regional Championship
+  Dates: Oct 14-17, 2021
+  Host: Univ. Of Nevada, Las Vegas (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F     Buzkova/Mihaljevic   def.     Dalla-Bona/Richtero… 62 64
+     SF     Dalla-Bona/Richtero… def. (1) Pursell/Verden-Ande… 76(3) 61
+     SF     Buzkova/Mihaljevic   def.     Morett/Kuo           63 64
+     QF (1) Pursell/Verden-Ande… def. (5) Abramyan/Heimuli     86
+     QF     Dalla-Bona/Richtero… def.     Challa/Zhu           86
+     QF     Morett/Kuo           def.     Haugen/Goheen        86
+     QF     Buzkova/Mihaljevic   def. (2) Aher/Asano           87(4)
+     16 (1) Pursell/Verden-Ande… def.     Kovacs/Hu            87(4)
+     16 (5) Abramyan/Heimuli     def.     Fernandez Villa/Zeh… 86
+     16     Dalla-Bona/Richtero… def.     Azran/Helgesson      85
+     16     Challa/Zhu           def.     Melville/Beltran     84
+     16     Morett/Kuo           def.     Zhao/Fang            86
+     16     Haugen/Goheen        def.     Forster/Stanojevic   87(5)
+     16     Buzkova/Mihaljevic   def. (7) Bland/Millard        85
+     16 (2) Aher/Asano           def.     Oliveira/Jhang       82
+     32 (1) Pursell/Verden-Ande… def.     Odom/Le              83
+     32     Kovacs/Hu            def.     Davies/Ferreira      82
+     32 (5) Abramyan/Heimuli     def.     Balzert/Pozo         85
+     32     Fernandez Villa/Zeh… def.     Horwood/Hung         84
+     32     Dalla-Bona/Richtero… def. (4) Baptista/Stewart     87(4)
+     32     Azran/Helgesson      def.     Palma/Horacek        85
+     32     Challa/Zhu           def. (8) Goncharova/Huang     83
+     32     Melville/Beltran     def.     Flodin/Stelse        82
+     32     Morett/Kuo           def.     Fitch/Glozman        85
+     32     Zhao/Fang            def. (6) Burger/Riedmiller    87(6)
+     32     Forster/Stanojevic   def.     Duhl/Beazley         87(4)
+     32     Haugen/Goheen        def. (3) Dush/Tattini         86
+     32     Buzkova/Mihaljevic   def.     Hersh/Lamoreaux      87(5)
+     32 (7) Bland/Millard        def.     Astle/Lin            86
+     32     Oliveira/Jhang       def.     Oosterbaan/Mitkova   87(4)
+     32 (2) Aher/Asano           def.     Cuquerella/Garcia-R… 84
+     64     Odom/Le              def.     Cho/Lang Gould       86
+     64     Davies/Ferreira      def.     Shah/Discenza        84
+     64     Kovacs/Hu            def.     Genkova/Charalampidi 84
+     64     Balzert/Pozo         def.     Dittmann/Davis       85
+     64     Horwood/Hung         def.     Hildreth/Hsu         82
+     64     Fernandez Villa/Zeh… def.     Dunlap/Sterk         85
+     64     Dalla-Bona/Richtero… def.     Campos/Ecton         82
+     64     Azran/Helgesson      def.     Van Baelen/Villarejo 84
+     64     Palma/Horacek        def.     Longson/Damron       83
+     64 (8) Goncharova/Huang     def.     Neyestani/Markova    83
+     64     Challa/Zhu           def.     County/Dekkers       82
+     64     Flodin/Stelse        def.     Kaftanova/Brink      87(4)
+     64     Melville/Beltran     def.     Smith/Kong           83
+     64     Fitch/Glozman        def.     Huang/Jiao           85
+     64     Morett/Kuo           def.     Oreshkina/Malinak    86
+     64     Zhao/Fang            def.     Kalaga/Gavino        87(4)
+     64     Duhl/Beazley         def.     Ernstberger/Conde V… 84
+     64     Forster/Stanojevic   def.     Huchet/Redondo       84
+     64     Haugen/Goheen        def.     Moll Alles/Luneva    86
+     64     Hersh/Lamoreaux      def.     Chao/Kuo             85
+     64     Buzkova/Mihaljevic   def.     Huang/Chen           83
+     64     Astle/Lin            def.     Puzak/Tokac          83
+     64 (7) Bland/Millard        def.     Abriola/Krause       87(5)
+     64     Oliveira/Jhang       def.     O Lideadha/O Lidead… 80
+     64     Oosterbaan/Mitkova   def.     Mellor/Honczaruk     87(5)
+     64     Cuquerella/Garcia-R… def.     De Luna/Pope         85
+ > Friday added doubles
+  > Main
+     64     Fitch/Flodin         def.     Astle/Lin            63
+     64     Stewart/Discenza     def.     Neyestani/Markova    62
+     64     Luneva/Genkova       def.     Nelson/Burger        63
+     64     Duhl/Beazley         def.     Dush/Hung            64
+     64     Oosterbaan/Mitkova   def.     Palma/Horacek        61
+     64     Huang/Jiao           def.     Van Baelen/Villarejo 64
+     64     Chao/Odom            def.     Cormier/Krause       61
+     64     Mellor/Honczaruk     def.     Kalaga/Gavino        64
+     64     Lombardi/Davies      def.     O Lideadha/O Lidead… 63
+     64     Goncharova/Lamoreaux def.     Campos/Ecton         64
+     64     Glozman/Kuo          def.     Oreshkina/Malinak    62
+     64     Cho/Lang Gould       def.     Hildreth/Hsu         64
+     64     Huchet/Redondo       def.     Lamoreaux/Horwood    62
+     64     Longson/Damron       def.     De Luna/Pope         76(4)
+     64     Smith/Kong           def.     Moll Alles/Charalam… 62
+     64     Cuquerella/Garcia-R… def.     Ernstberger/Conde V… 75
+     64     Puzak/Tokac          def.     Le/Stelse            61
+ > Saturday added doubles
+  > Main
+     64     Krause/Oreshkina     def.     Astle/Lin            63
+     64     Huang/Jiao           def.     Stelse/Chao          64
+     64     Azran/Hu             def.     Mellor/Honczaruk     61
+     64     Nelson/Burger        def.     Aher/Asano           63
+     64     Forster/Stanojevic   def.     Zhao/Fang            62
+     64     Goncharova/Hersh     def.     Glozman/Kuo          61
+     64     Kaftanova/Brink      def.     Cuquerella/Garcia-R… 64
+     64     Melville/Beltran     def.     Fernandez Villa/Zeh… 63
+     64     Dush/Lamoreaux       def.     Fitch/Flodin         75
+     64     Abramyan/Heimuli     def.     Balzert/Ecton        63
+     64     Longson/Damron       def.     Van Baelen/Villarejo 64
+     64     De Luna/Pope         def.     Hildreth/Hsu         64
+     64     Smith/Kong           def.     Cormier/Abriola      63
+     64     Lombardi/Davies      def.     Odom/Le              63
+     64     Lamoreaux/Hung       def.     Puzak/Tokac          64
+~~~
+
+<a name="21-91243"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  ITA Division I Women's Northeast Regional Championship
+  Dates: Oct 14-17, 2021
+  Host: Princeton University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F  Frayman/Joyce     def.  Kung/Gong            64 16 [6]
+     SF  Frayman/Joyce     def.  Curnic/Bryzgalova    61 62
+     SF  Kung/Gong         def.  Rutlauka/Chan        62 64
+     QF  Curnic/Bryzgalova def.  Duncan/Daujotaite    36 62 [6]
+     QF  Frayman/Joyce     def.  Adiaconitei/Stein    62 63
+     QF  Kung/Gong         def.  Jackson/Herremans    76(5) 64
+     QF  Rutlauka/Chan     def.  Wei/Kulhava          62 64
+     16  Curnic/Bryzgalova def.  Rondini/Munson       63 63
+     16  Duncan/Daujotaite def.  Schwarz/Antoniou-Ka… 62 63
+     16  Frayman/Joyce     def.  de Lucas/Nielsen     60 62
+     16  Adiaconitei/Stein def.  Shrivistava/Dunleavy 75 57 [5]
+     16  Kung/Gong         def.  Jonglertakul/Hack    62 57 [8]
+     16  Jackson/Herremans def.  Shvets/Rodilosso     16 76(5) [3]
+     16  Wei/Kulhava       def.  Ito/Kimoto           62 64
+     16  Rutlauka/Chan     def.  Aguiar/Lopez         36 75 [9]
 ~~~
 
 <a name="21-46458"></a>
@@ -225,6 +361,102 @@
      64      Meredith/Arseneault  def.      Aoki/van der Merwe   87(4)
      64      Ferreira da Silva/R… def.      Walther/Theis        81
      64      Khokhlova/Widing     def.      Taknishi/Pasanen     86
+~~~
+
+<a name="21-76092"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  ITA Division I Women's Texas Regional Championship
+  Dates: Oct 14-18, 2021
+  Host: Texas Christian University (W)
+═════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F  (2) Herrero Linana/Kryw… def.  (1) Makarova/Goldsmith   75 75
+     SF  (1) Makarova/Goldsmith   def.  (5) Chavatipon/Collns    76(3) 64
+     SF  (2) Herrero Linana/Kryw… def.      Adams/Devier         62 62
+     QF  (1) Makarova/Goldsmith   def.  (7) Keberle/Bartolome    86
+     QF  (5) Chavatipon/Collns    def. (14) Orav/Smirnova        80
+     QF      Adams/Devier         def. (10) Baranano/Zamburek    85
+     QF  (2) Herrero Linana/Kryw… def. (12) El Jardi/Trevisan    85
+     16  (1) Makarova/Goldsmith   def. (16) Cortijo Parreno/Tre… 86
+     16  (7) Keberle/Bartolome    def.      Fulgenzi/Fulgenzi    81
+     16  (5) Chavatipon/Collns    def. (11) Skriabina/Tiglea     86
+     16 (14) Orav/Smirnova        def.      Gorinsek/Chileno     85
+     16      Adams/Devier         def. (13) Komac/Main           84
+     16 (10) Baranano/Zamburek    def.  (6) Pielet/Stoiana       87(7)
+     16 (12) El Jardi/Trevisan    def.  (8) Evans/Sayfetdinova   87(9)
+     16  (2) Herrero Linana/Kryw… def. (15) Dzemeshkevich/Pedem… 85
+     32  (1) Makarova/Goldsmith   def.      Peet/Stepp           83
+     32 (16) Cortijo Parreno/Tre… def.      Vutukuru/Basson      82
+     32      Fulgenzi/Fulgenzi    def.  (9) Smirnova/Zipoli      86
+     32  (7) Keberle/Bartolome    def.      Reinertsen/Jimenez   83
+     32  (5) Chavatipon/Collns    def.      Zlatarova/Weir       83
+     32 (11) Skriabina/Tiglea     def.      Vehvilainen/Oyama    81
+     32 (14) Orav/Smirnova        def.      Kortikere/Cusano     80
+     32      Gorinsek/Chileno     def.  (3) Nylander/Doyle       85
+     32      Adams/Devier         def.  (4) Zamarripa/Zamarripa  Walkover
+     32 (13) Komac/Main           def.      Huth/Jakeway         86
+     32 (10) Baranano/Zamburek    def.      Pons/Novikova        87(6)
+     32  (6) Pielet/Stoiana       def.      McCain/Starr         83
+     32  (8) Evans/Sayfetdinova   def.      Honore/Aucagne       82
+     32 (12) El Jardi/Trevisan    def.      Kalava/Hummel        80
+     32 (15) Dzemeshkevich/Pedem… def.      Morris/Mavor         86
+     32  (2) Herrero Linana/Kryw… def.      Kvapilova/Israel-Le… 84
+     64      Peet/Stepp           def.      Townsend/Shumeika    85
+     64      Fulgenzi/Fulgenzi    def.      Zhou/Ponomareva      82
+     64      Reinertsen/Jimenez   def.      Fortuno/Chan         83
+     64      Zlatarova/Weir       def.      Guerrero/Mocciola    84
+     64      Vehvilainen/Oyama    def.      Malazonia/McCutcheon 83
+     64      Gorinsek/Chileno     def.      Slisane/Giraldo      86
+     64      Adams/Devier         def.      Stewart/Crisologo    84
+     64      Pons/Novikova        def.      Kauders/Cerda        82
+     64      McCain/Starr         def.      Zivkovic/Damera      Walkover
+     64      Honore/Aucagne       def.      Chobanyan/Kaszas     84
+     64      Kalava/Hummel        def.      Omoworare/Beyebach   83
+     64      Morris/Mavor         def.      Marcinkevica/Makant… 85
+     64      Kvapilova/Israel-Le… def.      Horiguchi/Dumitrescu 82
+~~~
+
+<a name="21-82907"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Martha Thorn Invitational
+  Dates: Oct 15-17, 2021
+  Host: West Virginia University (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > WVU v JMU
+  > Main
+     QF  Bossi/Chang          def.  Afanasyeva/Moulin 64
+     QF  Los Arcos/Voloh      def.  Hsieh/Nagato      76(4)
+     QF  Moulin/Nord          def.  Kovick/Kucharova  64
+ > Louisville v PSU
+  > Main
+     QF  OGorman/Chekhlystova def.  Sawyer/Simova     76(5)
+     QF  Friedland/Lasorda    def.  Richardson/Chaika 60
+     QF  Hirsch/Ryan          def.  Callwood/Verma    76(4)
+ > WVU v PSU
+  > Main
+     QF  Bossi/Chang          def.  Friedland/Lasorda 60
+     QF  OGorman/Chekhlystova def.  Hsieh/Nagato      60
+     QF  Kovick/Kucharova     def.  Weinberg/Ryan     62
+ > Louisville v JMU
+  > Main
+     QF  Afanasyeva/Moulin    def.  Sawyer/Simova     75
+     QF  Los Arcos/Voloh      def.  Richardson/Chaika 62
+     QF  Callwood/Verma       def.  Moulin/Nord       63
+ > WVU v Louisville
+  > Main
+     QF  Bossi/Chang          def.  Sawyer/Simova     64
+     QF  Kovick/Kucharova     def.  Richardson/Chaika 64
+     QF  Bovolskaia/Nagato    def.  Callwood/Verma    62
+ > JMU v PSU
+  > Main
+     QF  OGorman/Chekhlystova def.  Afanasyeva/Moulin 61
+     QF  Ryan/Friedland       def.  Los Arcos/Voloh   62
+     QF  Moulin/Nord          def.  Hirsch/Lasorda    61
 ~~~
 
 <a name="21-40542"></a>

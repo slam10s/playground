@@ -4,26 +4,41 @@
 - 9/26/2021 - [Bobby Bayliss Invitational](#21-15825) ([Results](#21-15825) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNotreDameM/Tournaments/Overview/772A5D00-C1F2-4758-8876-D10A5F7DA5EF" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Men's Ohio Valley Regional Championship](#21-20374) ([Results](#21-20374) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
+- 10/1/2021 - [Aggie Invitational](#21-92523) ([Results](#21-92523) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaDavisM/Tournaments/Overview/8C1469E6-3A8C-48A5-A340-2EB9734F03E4" target="_blank">Draws</a>)  
+- 10/1/2021 - [Arizona Wildcat Invitational](#21-91278) ([Results](#21-91278) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaM/Tournaments/Overview/93CC2692-092F-4733-A87B-063A8CC0F306" target="_blank">Draws</a>)  
+- 10/1/2021 - [Beeman/Drobac Invite](#21-89128) ([Results](#21-89128) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/A0511580-6431-44DE-8E63-E90AFFABD0EC" target="_blank">Draws</a>)  
 - 9/30/2021 - [BU Invite](#21-39279) ([Results](#21-39279) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityM/Tournaments/Overview/A2243BD0-B01D-447E-89E6-9F9C5E5F85DA" target="_blank">Draws</a>)  
+- 10/2/2021 - [Davidson College Invite](#21-95483) ([Results](#21-95483) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DavidsonCollegeM/Tournaments/Overview/4FC06E83-1130-4922-A9E2-D87227602B1E" target="_blank">Draws</a>)  
+- 10/1/2021 - [EIU Panther Hidden Duals](#21-91236) ([Results](#21-91236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternIllinoisUniversityM/Tournaments/Overview/76F02A73-E476-453B-AC3F-D212EECF4DAB" target="_blank">Draws</a>)  
 - 10/1/2021 - [Hagedorn Hidden Dual](#21-03884) ([Results](#21-03884) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/28696FCA-181E-40D9-9703-E366965C40F9" target="_blank">Draws</a>)  
 - 10/1/2021 - [Idaho State Bengal Invitational](#21-23711) ([Results](#21-23711) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityM/Tournaments/Overview/49BE2191-9463-412E-ABD7-0A0DE6B56CDC" target="_blank">Draws</a>)  
+- 10/2/2021 - [ITA Men's All-American Championships](#21-73796) ([Results](#21-73796) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/F14A95AE-33AF-413D-8FA0-0C8183F39A17" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/1/2021 - [MSU Bulldog Invitational](#21-39463) ([Results](#21-39463) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77" target="_blank">Draws</a>)  
 - 10/1/2021 - [PNW Invitational](#21-08428) ([Results](#21-08428) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA" target="_blank">Draws</a>)  
 - 10/1/2021 - [Ron Wesbrooks Invitational](#21-54933) ([Results](#21-54933) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LamarUniversityM/Tournaments/Overview/2BEDAA6E-9524-4B56-852C-F997C8133696" target="_blank">Draws</a>)  
 - 10/1/2021 - [Samford Fall Invite #2](#21-55470) ([Results](#21-55470) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityM/Tournaments/Overview/AFC105E4-5C32-4449-AF16-1FE48E08770E" target="_blank">Draws</a>)  
 - 10/1/2021 - [South Carolina Men's Collegiate Championships](#21-25425) ([Results](#21-25425) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C61DDA49-6047-4361-9048-8658AEA3B344" target="_blank">Draws</a>)  
+- 10/1/2021 - [UD Hidden Dual](#21-83081) ([Results](#21-83081) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfDaytonM/Tournaments/Overview/23775795-B4D9-484F-A52D-CD5D37CB3702" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
+- 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
 - 9/30/2021 - [Division II Men’s South Central ITA Regional Championships](#21-08149) ([Results](#21-08149) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/BFA79EEC-3303-4163-86EB-C0E9E19BBADE" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men's Central ITA Regional Championships](#21-43730) ([Results](#21-43730) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/4C90304B-D821-474C-BB23-F898C365EF87" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men's Northeast ITA Regional Championships](#21-45022) ([Results](#21-45022) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HobartCollegeM/Tournaments/Overview/3A70705E-975E-47F3-8FDB-B4D733E2A114" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
+- 10/1/2021 - [Division III Men’s Midwest ITA Regional Championships](#21-95358) ([Results](#21-95358) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GustavusAdolphusCollegeM/Tournaments/Overview/8519DA88-A1E9-4C79-AC19-40A1CE8D1E94" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s Southeast ITA Regional Championships](#21-50059) ([Results](#21-50059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonM/Tournaments/Overview/8701EF80-DDC5-4BB0-861B-552EB3F1C862" target="_blank">Draws</a>)  
+- 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
+- 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
 - 10/1/2021 - [NAIA Men's & Women’s Gulf ITA Regional Championships](#21-33851) ([Results](#21-33851) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's Midwest ITA Regional Championships](#21-24046) ([Results](#21-24046) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
 - 10/2/2021 - [Panther Classic](#21-52083) ([Results](#21-52083) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/BA2B3B31-CD0C-40C8-96BC-A0F69FEED591" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
+
+**Tournaments without Matches**  
+- 10/2/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfCharlestonM/Tournaments/Overview/BDC90621-B28C-4A27-BC56-E94D9A7CB647" target="_blank">College of Charleston Team Invite</a>  
 
 <a name="21-15825"></a>
 ~~~
@@ -226,6 +241,194 @@
      16Q     Martinez/Salton     def.     Binaghi/Velloso     83
 ~~~
 
+<a name="21-93790"></a>
+~~~
+════════════════════════════════════════════════════════════════════
+  Division II Men’s & Women's Southeast ITA Regional Championships
+  Dates: Sep 24-27, 2021
+  Host: ITA
+════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Men's Doubles Draw
+  > Main
+      F (1) Regalado/Cueto Ramos def. (3) Schold/Martinetti    84
+     SF (1) Regalado/Cueto Ramos def.     Can Wijk/Cary        81
+     SF (3) Schold/Martinetti    def.     Gaskin/Murillo       97
+     QF (1) Regalado/Cueto Ramos def. (6) Benoit/Waldow        82
+     QF     Can Wijk/Cary        def. (9) Brainard/Osap        86
+     QF (3) Schold/Martinetti    def. (7) Del Granado/Lemken   83
+     QF     Gaskin/Murillo       def. (2) Garay/Steen          97
+     16 (1) Regalado/Cueto Ramos def. (9) Golindano/Stafford   82
+     16 (6) Benoit/Waldow        def.     Constantino/Nokic    83
+     16     Can Wijk/Cary        def. (9) Jankulovski/Waterbo… 85
+     16 (9) Brainard/Osap        def. (5) Danielsson/Regner    83
+     16 (7) Del Granado/Lemken   def. (9) Evenson/Sassi        86
+     16 (3) Schold/Martinetti    def. (9) Medeiros/Garcia Gil  82
+     16     Gaskin/Murillo       def. (8) Atkinson/Alvestrand  83
+     16 (2) Garay/Steen          def. (9) De Groot/Horne       86
+     32 (1) Regalado/Cueto Ramos def.     Cola/Sjokvist        83
+     32 (9) Golindano/Stafford   def.     Tatyanin/Holzmann    97
+     32 (6) Benoit/Waldow        def.     Selde/Cox            83
+     32     Constantino/Nokic    def. (9) Bonacia/Subanovic    82
+     32     Can Wijk/Cary        def. (4) Bottino/Cecere       86
+     32 (9) Jankulovski/Waterbo… def.     Pudney/Kenzlers      84
+     32 (5) Danielsson/Regner    def.     Winter/Macmillian    81
+     32 (9) Brainard/Osap        def.     Blavignat/Bivol      84
+     32 (9) Evenson/Sassi        def.     Walcher/Brown        83
+     32 (7) Del Granado/Lemken   def.     Crepy/De Negri       82
+     32 (9) Medeiros/Garcia Gil  def.     Schomburg/Friedland  83
+     32 (3) Schold/Martinetti    def.     Janse/Hordijk        80
+     32     Gaskin/Murillo       def. (9) Ferreira/Nunez       86
+     32 (8) Atkinson/Alvestrand  def.     Malirz/Cizek         83
+     32 (9) De Groot/Horne       def.     Oka/Dulganov         83
+     32 (2) Garay/Steen          def.     Grasmuck/Maria       82
+     64     Cola/Sjokvist        def.     Bodson/Ernberg       84
+     64     Tatyanin/Holzmann    def.     Stahlbrand/Agudelo   86
+     64     Selde/Cox            def.     Luque/Minguez Ribera 86
+     64     Constantino/Nokic    def.     Grosset/Kimaszweski  82
+     64     Can Wijk/Cary        def.     Mendoza/Schiltz      84
+     64     Pudney/Kenzlers      def.     Hermans/Jonsson      84
+     64     Winter/Macmillian    def.     Badran/Sreekumar     97
+     64     Blavignat/Bivol      def.     Komada/Sergi         86
+     64     Walcher/Brown        def.     Day/Lloyd-Evans      83
+     64     Crepy/De Negri       def.     Hernandez/Hemmings   98
+     64     Schomburg/Friedland  def.     Lopes Polesi/Marche… 85
+     64     Janse/Hordijk        def.     Kush/Cabo            83
+     64     Gaskin/Murillo       def.     Eldin/Kondou         98(3)
+     64     Malirz/Cizek         def.     Decaluwe/Keane       85
+     64     Oka/Dulganov         def.     Crespo/Makhanya      98(5)
+     64     Grasmuck/Maria       def.     Hernandez Gonzalez/… 81
+~~~
+
+<a name="21-92523"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  Aggie Invitational
+  Dates: Oct 1-3, 2021
+  Host: Univ. Of California, Davis (M)
+═══════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Blue
+  > Main
+      F  Voros/Silva       def.  Davis/Volgin     98(5)
+     SF  Davis/Volgin      def.  Reckow/Watt      83
+     SF  Voros/Silva       def.  Alam/Park        97
+     QF  Reckow/Watt       def.  Batalla/N Tcha   82
+     QF  Davis/Volgin      def.  Hinojosa/Shah    85
+     QF  Alam/Park         def.  Coupu/Zisswiller 98(1)
+     QF  Voros/Silva       def.  Cmager/Bell      86
+  > Consolation
+     SQ  Batalla/N Tcha    def.  Hinojosa/Shah    84
+     SQ  Coupu/Zisswiller  def.  Cmager/Bell      83
+ > White
+  > Main
+      F  Benn/Dudockin     def.  Hootman/Necz     86
+     SF  Benn/Dudockin     def.  Morgan/Torres    85
+     SF  Hootman/Necz      def.  Brinkman/Pham    82
+     QF  Morgan/Torres     def.  Maior/Wong       86
+     QF  Benn/Dudockin     def.  Ramos/Rincon     98(3)
+     QF  Brinkman/Pham     def.  Ali/Rodriguez    98(1)
+     QF  Hootman/Necz      def.  Campi/Marchand   82
+     16  Maior/Wong        def.  McCaig/Saini     98(3)
+     16  Brinkman/Pham     def.  Ortiveros/Potts  82
+     16  Hootman/Necz      def.  Alam/Puttergill  Walkover
+  > Consolation
+     QF  McCaig/Saini      def.  Ortiveros/Potts  83
+ > Sunday Consoldation
+  > Main
+     QF  Hinojosa/Cmager   def.  Campi/Marchand   82
+     QF  Morgan/Torres     def.  Coupu/Zisswiller 84
+     QF  Maior/Wong        def.  Batalla/N Tcha   86
+ > Sunday Extra
+  > Main
+      F  Aksenoks/Brinkman def.  Ali/Rodriguez    84
+~~~
+
+<a name="21-91278"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Arizona Wildcat Invitational
+  Dates: Oct 1-3, 2021
+  Host: University of Arizona (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Blue
+  > East
+      F  Horwood/Sakagawa     def.  Maggs/Pierleoni      63
+     SF  Horwood/Sakagawa     def.  Andersson/Roider     75
+     SF  Maggs/Pierleoni      def.  Akkermans/Clarke     61
+     QF  Horwood/Sakagawa     def.  Dillon/Steele        75
+     QF  Andersson/Roider     def.  Grant/Novak          63
+     QF  Maggs/Pierleoni      def.  Buzonics/Groves      64
+     QF  Akkermans/Clarke     def.  Gomez Galvan/Hann    64
+  > West
+      F  Grant/Novak          def.  Buzonics/Groves      61
+     SF  Grant/Novak          def.  Dillon/Steele        64
+     SF  Buzonics/Groves      def.  Gomez Galvan/Hann    76(3)
+  > 3-4 Playoff
+      F  Andersson/Roider     def.  Akkermans/Clarke     64
+  > South
+      F  Gomez Galvan/Hann    def.  Dillon/Steele        63
+ > Red
+  > East
+      F  Strom/Olsen          def.  Samaha/Prieto        64
+     SF  Strom/Olsen          def.  Sulen/Schaefer       64
+     SF  Samaha/Prieto        def.  McDonald/de la Bass… 64
+     QF  Strom/Olsen          def.  Donovan/Purne        64
+     QF  Sulen/Schaefer       def.  Van Zeggelaar/De Sa… 64
+     QF  McDonald/de la Bass… def.  Menard/Simecek       64
+     QF  Samaha/Prieto        def.  Anderson/Rudnicki    63
+  > West
+      F  Menard/Simecek       def.  Van Zeggelaar/De Sa… 63
+     SF  Van Zeggelaar/De Sa… def.  Donovan/Purne        63
+     SF  Menard/Simecek       def.  Anderson/Rudnicki    63
+  > 3-4 Playoff
+      F  Sulen/Schaefer       def.  McDonald/de la Bass… 75
+  > South
+      F  Donovan/Purne        def.  Anderson/Rudnicki    75
+~~~
+
+<a name="21-89128"></a>
+~~~
+═══════════════════════════════════════════════════════════════
+  Beeman/Drobac Invite
+  Dates: Oct 1-3, 2021
+  Host: Michigan State University (M)
+═══════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+     32  George/Caballer     def.  Portnoy/Matsuno      62
+     32  Mizrahi/Tang        def.  Sheldon/Lair         62
+     32  Campbell/Gates      def.  Saylor/Rogers        61
+     32  Crocker/Meister     def.  Basavareddy/Schluet… 76(3)
+     32  Andre/Tiraspolsky   def.  San Andres/Drogovic  61
+     32  Heck/Horve          def.  Malkowski/Conklin    63
+     32  Pierce/Boone        def.  Guzauskas/Petrov     64
+     32  Vashistha/Che       def.  Krstulovic/Brady     62
+     32  Pero/Baylis         def.  Nordby/Spear         60
+ > Doubles Round 2
+  > Main
+     32  Guzauskas/Petrov    def.  Campbell/Gates       62
+     32  Vashistha/Che       def.  Mizrahi/Tang         75
+     32  Andre/Tiraspolsky   def.  Nordby/Spear         63
+     32  Malkowski/Conklin   def.  George/Caballer      62
+     32  Sheldon/Lair        def.  Heck/Horve           64
+     32  Pero/Baylis         def.  San Andres/Drogovic  75
+     32  Crocker/Meister     def.  Pierce/Boone         75
+ > Doubles Round 3
+  > Main
+     32  Nordby/Spear        def.  Sheldon/Lair         61
+     32  San Andres/Drogovic def.  Crocker/Meister      63
+     32  Pierce/Boone        def.  Pero/Baylis          64
+     32  George/Caballer     def.  Campbell/Gates       75
+     32  Portnoy/Matsuno     def.  Basavareddy/Schluet… 76(5)
+     32  Vashistha/Che       def.  Guzauskas/Petrov     62
+     32  Heck/Horve          def.  Mizrahi/Tang         64
+     32  Andre/Tiraspolsky   def.  Malkowski/Conklin    63
+     32  Saylor/Rogers       def.  Krstulovic/Brady     75
+~~~
+
 <a name="21-39279"></a>
 ~~~
 ═════════════════════════════════════════════════════════
@@ -243,6 +446,84 @@
  > Green
   > Main
      F  Chang/Takeda         def.  Sajonz/Knutsen   75
+~~~
+
+<a name="21-95483"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Davidson College Invite
+  Dates: Oct 2-3, 2021
+  Host: Davidson College (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > 1
+  > Main
+     R5  Reid/Thursfield      def.  Kachkarov/Gongora    61
+     R5  Kachkarov/Solares    def.  Putter/Van Wyk       76(5)
+     R5  Bottino/Cecere       def.  Fender/Thursfield    62
+     R3  Kachkarov/Solares    def.  Bottino/Cecere       64
+     R2  Reid/Thursfield      def.  Putter/Van Wyk       63
+     R1  Putter/Van Wyk       def.  Bottino/Cecere       61
+ > 2
+  > Main
+     R5  Lemieux-Monette/Har… def.  Steveker/Ulas Enc    63
+     R4  Pinzon/Gongora       def.  Steveker/Ulas Enc    60
+     R4  Daosaengsawang/Bier… def.  Harris/Lepine        64
+     R3  Daosaengsawang/Bier… def.  Singh/Solares        62
+     R2  Pinzon/Gongora       def.  Harris/Lepine        61
+     R1  Daosaengsawang/Bier… def.  Steveker/Ulas Enc    76(5)
+ > 3
+  > Main
+     R7  Lemieux-Monette/Ens… def.  Serra/Serra          75
+     R7  Spring/Butler        def.  Roussinov/Lynes      61
+     R4  Serra/Serra          def.  Malmon/Lynes         76(5)
+     R4  Wang/Singh           def.  Davy/Pia             62
+     R2  Serra/Serra          def.  Pinzon/Kavarana      64
+     R1  Wang/Singh           def.  Lemieux-Monette/Ens… 63
+ > 4
+  > Main
+     R3  Lovrich/Wang         def.  Ercole/Dacuba        61
+     R1  Bazil/Gosselin       def.  Ercole/Dacuba        64
+ > 4.1
+  > Main
+     R3  Green/Lovrich        def.  Spring/Butler        75
+     R2  Spring/Butler        def.  Gosselin/Johnston    63
+     R2  Kavarana/Green       def.  Bazil/Dacuba         60
+     R1  Enslin/Lepine        def.  Bazil/Gosselin       61
+~~~
+
+<a name="21-91236"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  EIU Panther Hidden Duals
+  Dates: Oct 1-2, 2021
+  Host: Eastern Illinois University (M)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > CSU-Lewis
+  > Main
+     QF  Perez Plaza/Suler    def.  Lusti/Trifunovic     75
+     QF  Ramirez Mejia/Wierz… def.  Alvarez/Sanchez Pra… 63
+ > Eiu-uis
+  > Main
+     QF  Martinez/Toro        def.  Wallace/Kyrillou     76(5)
+     QF  Revin/Lapsley        def.  Brandon/Riera        75
+     QF  Pilipovic-Kljajic/P… def.  Omar/Rydell          64
+ > UIS-Lewis
+  > Main
+     QF  Martinez/Servaes     def.  Lusti/Trifunovic     63
+     QF  Revin/Lapsley        def.  Ramirez Mejia/Wierz… 76(2)
+     QF  Esguerra/Rydell      def.  Pultz/Zoranovic      75
+ > EIU-Lewis
+  > Main
+     QF  Wallace/Kyrillou     def.  Lusti/Trifunovic     63
+     QF  Ramirez Mejia/Wierz… def.  Carlin/Riera         75
+     QF  Ulrich/Pilipovic-Kl… def.  Pultz/Zoranovic      62
+ > Csu-uis
+  > Main
+     QF  Perez Plaza/Suler    def.  Martinez/Toro        76(5)
+     QF  Alvarez/Sanchez Pra… def.  Servaes/Omar         76(4)
+     QF  Zamorski/Sandoval D… def.  Revin/Lapsley        63
 ~~~
 
 <a name="21-03884"></a>
@@ -307,6 +588,123 @@
  > Extra Doubles
   > Main
       F  Fujita/Petrovic    def.  Blando/Blando      63
+~~~
+
+<a name="21-73796"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  ITA Men's All-American Championships
+  Dates: Oct 2-10, 2021
+  Host: ITA
+═════════════════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Main Draw
+  > Main
+       F  (Q) Cash/Vocel           def.      Boulais/Trotter      63 62
+      SF      Boulais/Trotter      def.      Dostanic/Frye        64 63
+      SF  (Q) Cash/Vocel           def.  (Q) Hudd/Mitsui          62 64
+      QF      Boulais/Trotter      def.  (5) Charlton/Vandecaste… 67(5) 64 [6]
+      QF      Dostanic/Frye        def.      Davis/Summers        61 76(5)
+      QF  (Q) Cash/Vocel           def.      Lah/Bass             64 64
+      QF  (Q) Hudd/Mitsui          def. (LL) Stewart/Henning      62 64
+      16      Boulais/Trotter      def. (LL) Ciamarra/Harper      62 26 [7]
+      16  (5) Charlton/Vandecaste… def.  (Q) Rotsaert/Fery        61 64
+      16      Davis/Summers        def.  (4) Murgett/McClean      76(5) 62
+      16      Dostanic/Frye        def.      Motl/Slump           63 61
+      16  (Q) Cash/Vocel           def.  (Q) Zhang/Heller         64 62
+      16      Lah/Bass             def.      Cernoch/Kiger        63 62
+      16 (LL) Stewart/Henning      def.  (5) Martin/McDaniel      46 63 [7]
+      16  (Q) Hudd/Mitsui          def.  (Q) Reynolds/Lithen      57 76(5) [9]
+      32 (LL) Ciamarra/Harper      def.  (1) Hilderbrand/Pavel    76(3) 36 [8]
+      32      Boulais/Trotter      def.  (Q) Rodesch/Goetz        63 62
+      32  (5) Charlton/Vandecaste… def.  (Q) Malbasic/Hoeyeraal   36 62 [6]
+      32  (Q) Rotsaert/Fery        def.      Barki/Bosancic       62 62
+      32  (4) Murgett/McClean      def.      Bryde/Croyder        36 75 [9]
+      32      Davis/Summers        def.      Gale/Gaber           63 16 [6]
+      32      Motl/Slump           def.  (5) Johns/Sculley        75 75
+      32      Dostanic/Frye        def.  (Q) Siimar/Shelbayh      64 64
+      32  (Q) Zhang/Heller         def.      Pearson/Di Marco     76 46 [8]
+      32  (Q) Cash/Vocel           def.  (5) Martinez/Han         61 61
+      32      Lah/Bass             def.      Maldoner/Vidal       75 61
+      32      Cernoch/Kiger        def.  (3) Stevenson/Cutting    75 76(4)
+      32 (LL) Stewart/Henning      def.      Eriksson Ziverts/Mi… 60 62
+      32  (5) Martin/McDaniel      def.      Hohmann/Lobak        62 64
+      32  (Q) Reynolds/Lithen      def. (LL) Keremedchiev/Klov-N… 64 64
+      32  (Q) Hudd/Mitsui          def.  (2) Rodrigues/Thomson    67(3) 76(5) [5]
+  > Consolation
+       F  (Q) Rodesch/Goetz        def. (LL) Keremedchiev/Klov-N… 46 76(5) [9]
+      SF  (Q) Rodesch/Goetz        def.  (5) Johns/Sculley        67(5) 76(5) [6]
+      SF (LL) Keremedchiev/Klov-N… def.      Pearson/Di Marco     75 46 [6]
+      QF  (Q) Rodesch/Goetz        def.  (Q) Malbasic/Hoeyeraal   62 62
+      QF  (5) Johns/Sculley        def.      Bryde/Croyder        64 64
+      QF      Pearson/Di Marco     def.  (3) Stevenson/Cutting    62 61
+      QF (LL) Keremedchiev/Klov-N… def.      Eriksson Ziverts/Mi… 36 64 [8]
+     16Q  (Q) Rodesch/Goetz        def.  (1) Hilderbrand/Pavel    64 75
+     16Q  (Q) Malbasic/Hoeyeraal   def.      Barki/Bosancic       46 63 [10]
+     16Q      Bryde/Croyder        def.      Gale/Gaber           Walkover
+     16Q  (5) Johns/Sculley        def.  (Q) Siimar/Shelbayh      76(10) 64
+     16Q      Pearson/Di Marco     def.  (5) Martinez/Han         63 36 [11]
+     16Q  (3) Stevenson/Cutting    def.      Maldoner/Vidal       75 16 [7]
+     16Q      Eriksson Ziverts/Mi… def.      Hohmann/Lobak        Walkover
+     16Q (LL) Keremedchiev/Klov-N… def.  (2) Rodrigues/Thomson    Walkover
+ > Qualifying
+  > Main
+      16  (9) Rotsaert/Fery        def.      Stewart/Henning      63 64
+      16      Reynolds/Lithen      def.      Poling/Rodriguez     26 64 [7]
+      16  (9) Siimar/Shelbayh      def.      Hassey/Smith         46 62 [12]
+      16      Malbasic/Hoeyeraal   def.      Graziani/Zhu         75 63
+      16      Zhang/Heller         def.  (9) Keremedchiev/Klov-N… 63 64
+      16  (9) Hudd/Mitsui          def.      McKennon/Salle       16 63 [5]
+      16  (7) Rodesch/Goetz        def.      Ciamarra/Harper      62 64
+      16  (8) Cash/Vocel           def.      Fomba/Vives Marcos   63 63
+      32      Stewart/Henning      def.      De Jonge/Hadigian    64 63
+      32  (9) Rotsaert/Fery        def.      Pankin/Tvedt         64 75
+      32      Poling/Rodriguez     def.      Reco/Rousset         63 63
+      32      Reynolds/Lithen      def.      Neuhaus/Dalmasso     64 36 [9]
+      32      Hassey/Smith         def.      Chidekh/Davis        61 62
+      32  (9) Siimar/Shelbayh      def.      Junk/Slavic          63 64
+      32      Malbasic/Hoeyeraal   def.  (4) Torre Martin/Stable  76(1) 46 [4]
+      32      Graziani/Zhu         def.      Ornberg/Atherton     63 64
+      32      Zhang/Heller         def.      Jakic/Tonejc         62 63
+      32  (9) Keremedchiev/Klov-N… def.      Zink/Hammond         62 76(1)
+      32      McKennon/Salle       def.      Paroulek/Brumm       63 63
+      32  (9) Hudd/Mitsui          def.      Zahraj/Hoogmartens   67(5) 61 [3]
+      32  (7) Rodesch/Goetz        def.      Neff/Thamma          36 76(4) [8]
+      32      Ciamarra/Harper      def.      Kikuchi/Overbeck     76(4) 63
+      32  (8) Cash/Vocel           def.      Anselmo/Mandlik      62 76(1)
+      32      Fomba/Vives Marcos   def.      Jachuck/Shi          76(5) 67(5) [6]
+      64      Stewart/Henning      def.  (1) Jong/Aguilar         64 75
+      64      De Jonge/Hadigian    def.      Siddall/Thelwall Jo… 62 64
+      64      Pankin/Tvedt         def.      Simkin/Tasker        61 46 [3]
+      64  (9) Rotsaert/Fery        def.      Moroni/Thomson       75 61
+      64      Reco/Rousset         def.  (2) Monday/Prata         63 46 [6]
+      64      Poling/Rodriguez     def.      Lambling/Story       64 62
+      64      Neuhaus/Dalmasso     def.      Beiler/Hasson        63 76(6)
+      64      Reynolds/Lithen      def.  (9) Pourroy/Arcila       62 64
+      64      Chidekh/Davis        def.  (3) Capalbo/Busleiman    46 64 [8]
+      64      Hassey/Smith         def.      Kingsley/Tracy       61 64
+      64      Junk/Slavic          def.      Chopra/Dong          64 76(3)
+      64  (9) Siimar/Shelbayh      def.      Tumosa/Straker-Meads 64 67(5) [8]
+      64  (4) Torre Martin/Stable  def.      Valiev/Azoides       46 62 [8]
+      64      Malbasic/Hoeyeraal   def.      Acosta/Cierny        Walkover
+      64      Graziani/Zhu         def.      Marson/Perego        62 46 [4]
+      64      Ornberg/Atherton     def.  (9) Coste/Roberto        61 16 [7]
+      64      Jakic/Tonejc         def.  (5) Diallo/Musitelli     76(4) 75
+      64      Zhang/Heller         def.      Bollipalli/Ferguson  76(4) 75
+      64      Zink/Hammond         def.      Marques Da Silva/Th… 76(2) 76(1)
+      64  (9) Keremedchiev/Klov-N… def.      Pratt/Vile           36 63 [10]
+      64      McKennon/Salle       def.  (6) Allen/Steinhausen    36 76(4) [8]
+      64      Paroulek/Brumm       def.      Sauer/Bulus          76(4) 61
+      64      Zahraj/Hoogmartens   def.      Abbrat/Ross          63 62
+      64  (9) Hudd/Mitsui          def.      Braswell/McDonald    62 46 [4]
+      64  (7) Rodesch/Goetz        def.      Edge/Rocha           26 64 [10]
+      64      Neff/Thamma          def.      Zeitvogel/Rogers     63 75
+      64      Kikuchi/Overbeck     def.      Schulenburg/Walker   63 62
+      64      Ciamarra/Harper      def.  (9) Harrison/Zavala      63 63
+      64  (8) Cash/Vocel           def.      Boyer/Sah            64 63
+      64      Anselmo/Mandlik      def.      Brown/Sokolovskiy    63 46 [6]
+      64      Fomba/Vives Marcos   def.      Yamada/Cronje        76(5) 60
+      64      Jachuck/Shi          def.  (9) Schachter/Rollins    46 76(4) [8]
 ~~~
 
 <a name="21-07548"></a>
@@ -646,6 +1044,47 @@
      SF     Cassini/Alvarez      def. (2) Vos/Praschan         Walkover
 ~~~
 
+<a name="21-83081"></a>
+~~~
+════════════════════════════════════════════════════════
+  UD Hidden Dual
+  Dates: Oct 1-2, 2021
+  Host: University Of Dayton (M)
+════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Dayton vs. Xavier Doubles
+  > Main
+     QF  Nava/Cahill        def.  Hiryur/Mavrodiev   63
+     QF  Winters/Nakayama   def.  Harper/DeCurtins   63
+     QF  Perkowski/Eliasson def.  Mosberger/Pennelli 62
+     QF  Dunne/Phillips     def.  Macaluso/Reddy     64
+ > Dayton vs. IUPUI Doubles
+  > Main
+     QF  Bruce/DeMarco      def.  Morehart/Viste     62
+     QF  Hiryur/Mavrodiev   def.  Bailey/Thurin      62
+     QF  Sellers/Day        def.  DeMarco/Phillips   62
+ > Dayton vs. NKU Doubles
+  > Main
+     QF  Bruce/DeCurtins    def.  Burnel/Berry       63
+     QF  Ball/Ponomarew     def.  Perkowski/Eliasson 64
+     QF  Harper/Karl        def.  Knott/Casamayor    64
+ > NKU vs. IUPUI Doubles
+  > Main
+     QF  Burnel/Casamayor   def.  Bailey/Moody       63
+     QF  Morehart/Viste     def.  Berry/Ball         63
+     QF  Ponomarew/Knott    def.  Day/Thurin         63
+ > NKU vs. Xavier Doubles
+  > Main
+     QF  Burnel/Casamayor   def.  Pennelli/Nakayama  63
+     QF  Berry/Ball         def.  Winters/Macaluso   75
+     QF  Zipoli/Thompson    def.  Ponomarew/Knott    63
+ > IUPUI vs. Xavier Doubles
+  > Main
+     QF  Bailey/Morehart    def.  Nava/Nakayama      63
+     QF  Winters/Mosberger  def.  Sellers/Day        62
+     QF  Reddy/Pennelli     def.  Viste/Thurin       60
+~~~
+
 <a name="21-35169"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════════════
@@ -702,6 +1141,51 @@
      16Q     Schmit/Cortinas      def.     Brazet/Fallon        Walkover
      16Q     Pilotto/Ncube        def.     Jove/Wood            61
      16Q     Docters/Fuerschuss   def.     Cowger/Lapoint       61
+~~~
+
+<a name="21-74684"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Division II Men’s & Women's West ITA Regional Championships
+  Dates: Sep 29 - Oct 3
+  Host: Fresno Pacific University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+      F (1) Bohren/Velicki       def. (2) Nuno/Walter          87(7)
+     SF (1) Bohren/Velicki       def. (3) Davis/Khan           87(2)
+     SF (2) Nuno/Walter          def.     Pinedo/Caruana       84
+     QF (1) Bohren/Velicki       def. (8) McDermott/Auzias     86
+     QF (3) Davis/Khan           def. (7) Van Wyk/Hartman      84
+     QF     Pinedo/Caruana       def. (6) Caddies/Smiej        84
+     QF (2) Nuno/Walter          def.     Hornung/Parsley      81
+     16 (1) Bohren/Velicki       def.     Weeks/Leischner      85
+     16 (8) McDermott/Auzias     def.     Cronau/Wong          84
+     16 (3) Davis/Khan           def.     Howe/Lajes           82
+     16 (7) Van Wyk/Hartman      def.     Sedeno/Gomez Gomez   82
+     16 (6) Caddies/Smiej        def.     Heinke/Zubieta       82
+     16     Pinedo/Caruana       def. (4) Castaneda/Schuster   82
+     16     Hornung/Parsley      def. (5) Prokopchuk/Rosales … 86
+     16 (2) Nuno/Walter          def.     Herrera/Solorzano    82
+     32     Weeks/Leischner      def.     Simon/Kodiji         87(3)
+     32     Cronau/Wong          def.     Cure/Albrechtsen     85
+     32     Howe/Lajes           def.     Large/Tayebi         83
+     32     Sedeno/Gomez Gomez   def.     Ramirez/Schmidt      83
+     32     Heinke/Zubieta       def.     Alviz/Elahcene       82
+     32     Pinedo/Caruana       def.     Bangert/Wortelmann   82
+     32     Hornung/Parsley      def.     Strassburger/Paintal 83
+     32     Herrera/Solorzano    def.     Greco/de Simon       83
+  > Consolation
+      F     Simon/Kodiji         def.     Bangert/Wortelmann   83
+     SF     Simon/Kodiji         def.     Ramirez/Schmidt      84
+     SF     Bangert/Wortelmann   def.     Greco/de Simon       Walkover
+     QF     Simon/Kodiji         def.     Cure/Albrechtsen     85
+     QF     Ramirez/Schmidt      def.     Large/Tayebi         86
+     QF     Bangert/Wortelmann   def.     Alviz/Elahcene       Walkover
+     QF     Greco/de Simon       def. (5) Prokopchuk/Rosales … Walkover
+     16     Bangert/Wortelmann   def. (4) Castaneda/Schuster   Walkover
+     16 (5) Prokopchuk/Rosales … def.     Strassburger/Paintal Walkover
 ~~~
 
 <a name="21-08149"></a>
@@ -921,6 +1405,140 @@
      16     Lilov/Watson         def.     Gundakaram/Srinivas… 85
 ~~~
 
+<a name="21-95358"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Division III Men’s Midwest ITA Regional Championships
+  Dates: Oct 1-4, 2021
+  Host: Gustavus Adolphus College (M)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > ITA Doubles Championship
+  > Main
+      F (2) Zakowski/Gray        def. (3) Motlojoa/Loen        57 63 [5]
+     SF (3) Motlojoa/Loen        def. (1) Aney/Budde           87(5)
+     SF (2) Zakowski/Gray        def. (5) Terakanambi/Fouchier 87(6)
+     QF (1) Aney/Budde           def. (9) Kataria/Vipparla     83
+     QF (3) Motlojoa/Loen        def. (8) Moore/Amadike        83
+     QF (5) Terakanambi/Fouchier def.     Pietila/Adkisson     86
+     QF (2) Zakowski/Gray        def. (6) Walsh/Rojanasoonthon 83
+     16 (1) Aney/Budde           def. (9) Lindwall/Mitchell    83
+     16 (9) Kataria/Vipparla     def.     Elofson/Haddorff     85
+     16 (3) Motlojoa/Loen        def.     Lansing/Meskell      84
+     16 (8) Moore/Amadike        def. (9) Wikstrom/Bergmeyer   84
+     16 (5) Terakanambi/Fouchier def. (9) Krzewinski/Ferruzzi  84
+     16     Pietila/Adkisson     def.     Luiz De Melo Guedes… 83
+     16 (6) Walsh/Rojanasoonthon def.     Mhwandagara/Christe… 85
+     16 (2) Zakowski/Gray        def. (9) Punnoose/Fridinger   85
+     32 (1) Aney/Budde           def.     Navarrete/Melo       81
+     32 (9) Lindwall/Mitchell    def.     Fuller/Viswanathan   85
+     32     Elofson/Haddorff     def.     Oaks/Peterson        84
+     32 (9) Kataria/Vipparla     def.     Moore/Counts         83
+     32 (3) Motlojoa/Loen        def.     Krause/Thompson      81
+     32     Lansing/Meskell      def.     Bochman/Raut         85
+     32 (8) Moore/Amadike        def.     Poland/Steinke       85
+     32 (9) Wikstrom/Bergmeyer   def.     Knoll/Rudenberg      84
+     32 (9) Krzewinski/Ferruzzi  def.     Beckers/Reilly       83
+     32 (5) Terakanambi/Fouchier def.     Knutsen/Korolev      84
+     32     Luiz De Melo Guedes… def.     Guzman/Siviero       85
+     32     Pietila/Adkisson     def. (4) Hemaidan/Wilson      84
+     32     Mhwandagara/Christe… def.     Sather/Snyder        84
+     32 (6) Walsh/Rojanasoonthon def.     Westholder/Young     85
+     32 (9) Punnoose/Fridinger   def.     Huffman/Eells        81
+     32 (2) Zakowski/Gray        def.     McDowell/Fischer     81
+     64     Navarrete/Melo       def.     Schneider/Coad       83
+     64 (9) Lindwall/Mitchell    def.     Simoes/Kolilnski     80
+     64     Fuller/Viswanathan   def.     Kurilla/Smiley       81
+     64     Elofson/Haddorff     def. (7) Mince/Esztergomi     84
+     64     Oaks/Peterson        def.     Sargent/Doi          84
+     64 (9) Kataria/Vipparla     def.     Marino/Mitev         85
+     64     Moore/Counts         def.     Ryerse/Geurkink      82
+     64     Krause/Thompson      def.     Peters/Naylor        86
+     64     Lansing/Meskell      def. (9) Christensen/Gilbert  81
+     64     Bochman/Raut         def.     Aranda/Guillermo     84
+     64 (8) Moore/Amadike        def.     Janes/Zacharias      84
+     64     Poland/Steinke       def.     Ableeda/Lucchesi     85
+     64 (9) Wikstrom/Bergmeyer   def.     Hearne/Guillermo     82
+     64     Knoll/Rudenberg      def.     Barth/Linkenheld     81
+     64     Beckers/Reilly       def.     Hultberg/Warzecha    81
+     64 (9) Krzewinski/Ferruzzi  def.     Gilmore/Bridgers     85
+     64     Knutsen/Korolev      def.     Collins/Gelski       85
+     64 (5) Terakanambi/Fouchier def.     Baldwin/Wankerl      82
+     64     Luiz De Melo Guedes… def.     Contardi/Maher       86
+     64     Guzman/Siviero       def. (9) Roseth/Grosz         83
+     64     Pietila/Adkisson     def.     Bruha/Roback         87(4)
+     64     Mhwandagara/Christe… def.     Elghouayel/Cooke     85
+     64     Sather/Snyder        def.     Foley/Bush           86
+     64     Westholder/Young     def.     Sullivan/Marine      84
+     64 (6) Walsh/Rojanasoonthon def.     Welker/Schulte       86
+     64     Huffman/Eells        def.     Huemoeller/Janssen   81
+     64 (9) Punnoose/Fridinger   def.     Blomquist/Kampmier   81
+     64     McDowell/Fischer     def.     Sadowski/Newberg     82
+ > Midwest Open Doubles
+  > Main
+      F     Sehlin/Youngs        def.     Wiemers/Fernandes    63 60
+     SF     Wiemers/Fernandes    def.     Hunter/Rosaldo       82
+     SF     Sehlin/Youngs        def.     Fischer/Meyer        82
+     QF     Hunter/Rosaldo       def.     Rosen/Deters         84
+     QF     Wiemers/Fernandes    def.     Borobia/Franch       83
+     QF     Sehlin/Youngs        def.     Roti/Mueller         84
+     QF     Fischer/Meyer        def.     Belik/Anderson       84
+     16     Rosen/Deters         def.     Stepanski/Tanaka     84
+     16     Hunter/Rosaldo       def.     Simonson/Storm       82
+     16     Borobia/Franch       def.     Fouchier/Stevens     86
+     16     Wiemers/Fernandes    def.     Kennel/Klass         Default
+     16     Sehlin/Youngs        def.     Dileo/Fletcher       82
+     16     Roti/Mueller         def.     Griffiths/Wurtzel    85
+     16     Belik/Anderson       def.     Klement/Roscher      82
+     16     Fischer/Meyer        def.     Morrell/Weddle       87(4)
+     32     Stepanski/Tanaka     def.     Alden/DenAdel        84
+     32     Rosen/Deters         def.     Davis/Wilkins        81
+     32     Simonson/Storm       def.     Studer/Velgersdyke   86
+     32     Hunter/Rosaldo       def.     Thao/Bergsten        83
+     32     Fouchier/Stevens     def.     Anderson/Aadland     81
+     32     Borobia/Franch       def.     Wyly/Lukkarila       85
+     32     Kennel/Klass         def.     Smith/Yonekura       82
+     32     Wiemers/Fernandes    def.     Fonseca/Chapman      82
+     32     Dileo/Fletcher       def.     Daignault/Patten     80
+     32     Sehlin/Youngs        def.     Fischer/Will         85
+     32     Roti/Mueller         def.     Rupp/Fremling        83
+     32     Griffiths/Wurtzel    def.     Beckerman/Withers    86
+     32     Klement/Roscher      def.     Skidmore/Yung        86
+     32     Belik/Anderson       def.     Finken/Hamerlinck    85
+     32     Morrell/Weddle       def.     Martinez Biali/Fuzz… 84
+     32     Fischer/Meyer        def.     Holmes/Benoy         85
+     64     Alden/DenAdel        def.     Taylor/Le            86
+     64     Rosen/Deters         def.     Smiley/Raabolle      Walkover
+     64     Davis/Wilkins        def.     Zavala Brito/Heryla  84
+     64     Simonson/Storm       def.     Bruins/Bilan         84
+     64     Studer/Velgersdyke   def.     Krasowski/Perez      Walkover
+     64     Thao/Bergsten        def.     Costa/Johnson        Default
+     64     Hunter/Rosaldo       def.     de Camargo Costa/Fi… Default
+     64     Anderson/Aadland     def.     Miller/Soon          83
+     64     Fouchier/Stevens     def.     Hemann/Revenig       81
+     64     Wyly/Lukkarila       def.     Voigt/Jenson         82
+     64     Borobia/Franch       def.     Besek/Rodning        82
+     64     Smith/Yonekura       def.     Versich/Seitz        84
+     64     Kennel/Klass         def.     White/Lipski         83
+     64     Fonseca/Chapman      def.     Hawbaker/Palomar     83
+     64     Wiemers/Fernandes    def.     Dempsey/Gilbertson   80
+     64     Daignault/Patten     def.     Peters/Martin        82
+     64     Dileo/Fletcher       def.     Coelho/Ribeiro       86
+     64     Fischer/Will         def.     Ackerman/Elison      83
+     64     Sehlin/Youngs        def.     Janssen/Arbuckle     82
+     64     Roti/Mueller         def.     Johanning/Von Ruden  Default
+     64     Rupp/Fremling        def.     Hietala/Quinn        83
+     64     Griffiths/Wurtzel    def.     Dillon/Unger         82
+     64     Beckerman/Withers    def.     Shaker-Check/Chhim   Walkover
+     64     Skidmore/Yung        def.     Kannenberg/Bass      83
+     64     Klement/Roscher      def.     Veber/Haag           87(4)
+     64     Belik/Anderson       def.     Miller/Gomes-Menezes 86
+     64     Finken/Hamerlinck    def.     Nguyen/Westerbur     85
+     64     Martinez Biali/Fuzz… def.     Damaso/Kasa          82
+     64     Morrell/Weddle       def.     Gerhardt/Petersen    82
+     64     Holmes/Benoy         def.     Stene/Tschumper      81
+~~~
+
 <a name="21-50059"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════════
@@ -1032,6 +1650,90 @@
       QQ     Miller/Kaufman       def.     Cook/Merhej          80
       QQ     Warren/Schuetz       def.     Smialek/Sanidas      83
       QQ     Vanvalkenburg/Sheats def.     Pullin/Leonard       85
+~~~
+
+<a name="21-76964"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  Junior College Men's and Women's Northern California ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: American River College (M)
+═════════════════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+      F (1) Kim/Martiroian   def. (5) Le/Hom           82
+     SF (1) Kim/Martiroian   def. (3) Nelson/Hall      83
+     SF (5) Le/Hom           def. (2) Sharma/Erwin     85
+     QF (1) Kim/Martiroian   def. (7) Sobrepena/Perdue Walkover
+     QF (3) Nelson/Hall      def. (6) Ard/Bradac       85
+     QF (5) Le/Hom           def.     Hamidi/Temple    84
+     QF (2) Sharma/Erwin     def.     Moley/Wall       85
+     16 (1) Kim/Martiroian   def.     Kassis/Karp      85
+     16 (7) Sobrepena/Perdue def.     Ponce/Grigoryan  80
+     16 (6) Ard/Bradac       def.     Hill/Sharma      85
+     16 (3) Nelson/Hall      def.     McCune/Poling    81
+     16     Hamidi/Temple    def. (4) Sahara/Camarillo 83
+     16 (5) Le/Hom           def.     Zabala/Biery     83
+     16     Moley/Wall       def. (8) Rogers/Rodriguez 80
+     16 (2) Sharma/Erwin     def.     Bilbao/Norgauer  97
+     32     Kassis/Karp      def.     Oseguera/Chen    81
+     32     Ponce/Grigoryan  def.     Vang/Leal        80
+     32     Hill/Sharma      def.     Ward/Jacob       82
+     32     McCune/Poling    def.     Miranda/Murphy   80
+     32     Hamidi/Temple    def.     Ong/Curtin       82
+     32     Zabala/Biery     def.     Hjelm/Macagba    81
+     32 (8) Rogers/Rodriguez def.     Mendoza/Eissayou 97
+     32     Moley/Wall       def.     Vicencio/Mesina  98(4)
+     32     Bilbao/Norgauer  def.     Pullin/Brar      80
+~~~
+
+<a name="21-84365"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════════════
+  Junior College Men's and Women's Southern ITA Regional Small College Championships
+  Dates: Sep 29 - Oct 3
+  Host: Jones College (M)
+════════════════════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > Main
+      F (2) Nader/Vanecek        def. (1) Parada/Toloza        64 62
+     SF (1) Parada/Toloza        def.     Gayk/Dulaney         81
+     SF (2) Nader/Vanecek        def. (4) Fudge/Molero         84
+     QF (1) Parada/Toloza        def.     Bevard/Brewer        85
+     QF     Gayk/Dulaney         def.     Bonds/Grill          86
+     QF (4) Fudge/Molero         def.     Kwanele Mbalekwa/Lo… 83
+     QF (2) Nader/Vanecek        def.     Madlock/Townshend    82
+     16     Bevard/Brewer        def.     Olaechea/Moorman     85
+     16     Kwanele Mbalekwa/Lo… def.     Chaney/Hartman       83
+     16     Madlock/Townshend    def.     Crimm/Ladner         82
+  > Consolation
+     SF     Olaechea/Moorman     def.     Bonds/Grill          83
+     SF     Chaney/Hartman       def.     Crimm/Ladner         84
+ > Flight B
+  > Main
+      F     Bond/Ward            def.     Jabour/Peoples       62 64
+     SF     Jabour/Peoples       def.     Humphrey/Runnels     83
+     SF     Bond/Ward            def.     Albert/Ramshur       85
+     QF     Humphrey/Runnels     def.     Gordon/Parish        82
+     QF     Jabour/Peoples       def.     Bolan/King           83
+     QF     Albert/Ramshur       def.     Morgan/Mills         82
+     QF     Bond/Ward            def.     Frank/McCullough     86
+     16     Humphrey/Runnels     def.     Beech/Feather        81
+     16     Bolan/King           def.     Garrett/Lyons        97
+     16     Jabour/Peoples       def.     Walker/Willoughby    85
+     16     Morgan/Mills         def.     Taylor/Turner        84
+     16     Albert/Ramshur       def.     King/Akins           86
+     16     Bond/Ward            def.     Owens/Schaumberg     85
+  > Consolation
+      F     Walker/Willoughby    def.     Frank/McCullough     64 46 [4]
+     SF     Walker/Willoughby    def.     Gordon/Parish        83
+     SF     Frank/McCullough     def.     King/Akins           84
+     QF     Gordon/Parish        def.     Beech/Feather        81
+     QF     Frank/McCullough     def.     Owens/Schaumberg     82
+     QQ     Walker/Willoughby    def.     Garrett/Lyons        84
+     QQ     King/Akins           def.     Taylor/Turner        83
 ~~~
 
 <a name="21-33851"></a>

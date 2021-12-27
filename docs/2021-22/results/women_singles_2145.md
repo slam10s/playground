@@ -4,6 +4,8 @@
 - 11/4/2021 - [Harvard Fall Invitational](#21-06527) ([Results](#21-06527) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Draws</a>)  
 - 11/12/2021 - [Csun Invitational 2021](#21-21713) ([Results](#21-21713) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CaliforniaStateUniversityNorthridgeW/Tournaments/Overview/170B0D52-C31D-4AA5-A14A-C44E18B58FF4" target="_blank">Draws</a>)  
 - 11/12/2021 - [SDSU Fall Tennis Classic # 2](#21-24494) ([Results](#21-24494) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1A40265D-8EC6-44FD-9EB9-1733C02C74CC" target="_blank">Draws</a>)  
+- 11/12/2021 - [Texas A&M Invitational](#21-89648) ([Results](#21-89648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/BF7768E0-4750-49B0-9B29-7EB1AC4016D9" target="_blank">Draws</a>)  
+- 11/12/2021 - [UNF Fall Invite](#21-72331) ([Results](#21-72331) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthFloridaW/Tournaments/Overview/0890226F-0B4C-40E3-888D-5CE5DA25876A" target="_blank">Draws</a>)  
 - 11/12/2021 - [Watanabe Classic](#21-21145) ([Results](#21-21145) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/185CF1AE-D437-4098-91A9-6F597D244978" target="_blank">Draws</a>)  
 - 11/12/2021 - [Western Michigan - Betsy Kuhle Invitational](#21-67913) ([Results](#21-67913) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityW/Tournaments/Overview/5D6A7D6E-4DFF-41D5-BA55-AEBEDA326663" target="_blank">Draws</a>)  
 
@@ -265,6 +267,176 @@
      SF  Lindsay Hung        def.  Hailey Stelse   61 64
   > 3-4 Playoff
       F  Sophie Luescher     def.  Linda Huang     63 46 [9]
+~~~
+
+<a name="21-89648"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Texas A&M Invitational
+  Dates: Nov 12-14, 2021
+  Host: Texas A&M University (M)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Friday Singles Competition
+  > Main
+     64  Mary Stoiana         def.  Melany Krywoj       46 61 64
+     64  Alina Shcherbinina   def.  Jeanette Mireles    64 62
+     64  Anita Sahdiieva      def.  Gianna Pielet       62 64
+     64  Paula Baranano       def.  Renee McBryde       64 63
+     64  Ellie Pittman        def.  Olivia Malm         63 61
+     64  Ana Carmen Zamburek  def.  Katya Townsend      63 64
+     64  Isa Di Laura         def.  Brooke Thompson     64 63
+     64  Kayal Gownder        def.  Hannah Pinto        64 60
+     64  Elise Robbins        def.  Grace ODonnell      61 62
+     64  Brianna Shvets       def.  Ena Babic           62 62
+     64  Taylor Bridges       def.  Tatum Rice          75 61
+     64  Kelly Keller         def.  Maia Sung           46 64 61
+     64  Maggie Cubitt        def.  Indianna Spink      64 60
+     64  Lenka Stara          def.  Grace Joyce         62 62
+     64  Michelle Sorokko     def.  Nina Geissler       61 62
+     64  Nathalie Rodilosso   def.  Laura Rijkers       64 60
+     64  Mia Rabinowitz       def.  Presley Southerland 64 63
+     64  Skyler Grishuk       def.  Shaye Longwell      63 61
+ > Saturday Singles Competition
+  > Main
+     64  Mary Stoiana         def.  Taylor Bridges      63 63
+     64  Ena Babic            def.  Gianna Pielet       36 62 62
+     64  Maggie Cubitt        def.  Jeanette Mireles    76(8) 63
+     64  Renee McBryde        def.  Mia Rabinowitz      75 61
+     64  Ellie Pittman        def.  Nina Geissler       64 64
+     64  Grace Joyce          def.  Isa Di Laura        64 64
+     64  Skyler Grishuk       def.  Katya Townsend      57 76(2) 62
+     64  Grace ODonnell       def.  Kayal Gownder       64 64
+     64  Brianna Shvets       def.  Tatum Rice          76(9) 62
+     64  Alina Shcherbinina   def.  Kelly Keller        62 63
+     64  Anita Sahdiieva      def.  Lenka Stara         62 75
+     64  Paula Baranano       def.  Laura Rijkers       61 64
+     64  Maia Sung            def.  Ana Carmen Zamburek 62 62
+     64  Michelle Sorokko     def.  Olivia Malm         62 64
+     64  Presley Southerland  def.  Brooke Thompson     76(5) 75
+     64  Nathalie Rodilosso   def.  Hannah Pinto        62 61
+ > Sunday Singles Competition
+  > Main
+     64  Mary Stoiana         def.  Tatum Rice          64 61
+     64  Kelly Keller         def.  Gianna Pielet       64 62
+     64  Lenka Stara          def.  Jeanette Mireles    75 76(6)
+     64  Renee McBryde        def.  Laura Rijkers       61 46 63
+     64  Ellie Pittman        def.  Presley Southerland 60 62
+     64  Grace ODonnell       def.  Katya Townsend      26 76(5) 63
+     64  Isa Di Laura         def.  Hannah Pinto        61 61
+     64  Brianna Shvets       def.  Alina Shcherbinina  63 61
+     64  Alicia Herrero Lina… def.  Taylor Bridges      60 26 60
+     64  Melany Krywoj        def.  Maia Sung           75 61
+     64  Ena Babic            def.  Paula Baranano      67(3) 75 [0]
+     64  Anita Sahdiieva      def.  Michelle Sorokko    63 46 [1]
+     64  Nina Geissler        def.  Ana Carmen Zamburek 26 63 63
+     64  Olivia Malm          def.  Grace Joyce         64 63
+     64  Nathalie Rodilosso   def.  Brooke Thompson     63 62
+~~~
+
+<a name="21-72331"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  UNF Fall Invite
+  Dates: Nov 12-14, 2021
+  Host: Univ. Of North Florida (W)
+═════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight A
+  > East
+      F  Catherine Gulihur def.  Emma Shelton         61 63
+     SF  Catherine Gulihur def.  Carolyn Ansari       75 36 62
+     SF  Emma Shelton      def.  Vic Allen            46 75 21 Ret.
+     QF  Carolyn Ansari    def.  Marie Mattel         63 46 60
+     QF  Catherine Gulihur def.  Ruxi Schech          62 62
+     QF  Vic Allen         def.  Mackenzie Clark      46 64 75
+     QF  Emma Shelton      def.  Cristina Mayorova    63 36 64
+  > West
+      F  Mackenzie Clark   def.  Marie Mattel         36 64 60
+     SF  Marie Mattel      def.  Ruxi Schech          60 Ret.
+     SF  Mackenzie Clark   def.  Cristina Mayorova    63 36 63
+  > 3-4 Playoff
+      F  Carolyn Ansari    def.  Vic Allen            Walkover
+  > South
+      F  Cristina Mayorova def.  Ruxi Schech          Walkover
+ > Flight B
+  > East
+      F  Alicia Dudeney    def.  Lesedi Jacobs        75 62
+     SF  Lesedi Jacobs     def.  Yu Chen              75 64
+     SF  Alicia Dudeney    def.  Nandini Sharma       62 64
+     QF  Lesedi Jacobs     def.  Rocio Safont         63 64
+     QF  Yu Chen           def.  Grace Shumacher      76(3) 63
+     QF  Alicia Dudeney    def.  Lahari Yelamanchili  75 64
+     QF  Nandini Sharma    def.  Jenna Thompson       62 61
+  > West
+      F  Jenna Thompson    def.  Grace Shumacher      63 76(4)
+     SF  Grace Shumacher   def.  Rocio Safont         60 64
+     SF  Jenna Thompson    def.  Lahari Yelamanchili  75 63
+  > 3-4 Playoff
+      F  Yu Chen           def.  Nandini Sharma       63 63
+  > South
+      F  Rocio Safont      def.  Lahari Yelamanchili  64 16 62
+ > Flight C
+  > East
+      F  Eleni Louka       def.  Annabelle Davis      46 64 62
+     SF  Annabelle Davis   def.  Sierra Berry         64 64
+     SF  Eleni Louka       def.  Madeline Meredith    61 62
+     QF  Annabelle Davis   def.  Bente Spee           61 60
+     QF  Sierra Berry      def.  Kaavya Sawhney       75 75
+     QF  Madeline Meredith def.  Isabel Oliveira      76(3) 61
+     QF  Eleni Louka       def.  Kristen Borland      61 63
+  > West
+      F  Kristen Borland   def.  Bente Spee           Walkover
+     SF  Bente Spee        def.  Kaavya Sawhney       67(5) 61 61
+     SF  Kristen Borland   def.  Isabel Oliveira      63 64
+  > 3-4 Playoff
+      F  Madeline Meredith def.  Sierra Berry         63 63
+  > South
+      F  Kaavya Sawhney    def.  Isabel Oliveira      64 64
+ > Flight D
+  > East
+      F  Sara Dahlstrom    def.  Alice Amendola       60 75
+     SF  Sara Dahlstrom    def.  Alexandria Mjos      60 63
+     SF  Alice Amendola    def.  Samantha Buyckx      75 63
+     QF  Sara Dahlstrom    def.  Jiayun Zhu           62 61
+     QF  Alexandria Mjos   def.  Lucie Petruzelova    62 46 63
+     QF  Alice Amendola    def.  Brooke Theis         63 63
+     QF  Samantha Buyckx   def.  Summer Yardley       64 62
+  > West
+      F  Lucie Petruzelova def.  Summer Yardley       64 16 64
+     SF  Lucie Petruzelova def.  Jiayun Zhu           63 64
+     SF  Summer Yardley    def.  Brooke Theis         62 63
+  > 3-4 Playoff
+      F  Alexandria Mjos   def.  Samantha Buyckx      Walkover
+ > Flight E
+  > Main
+     R5  Adelaide Lavery   def.  Margriet Timmermans  75 64
+     R4  Charlotte Russell def.  Anslee Long          36 62 76(2)
+     R3  Anslee Long       def.  Adelaide Lavery      57 63 64
+     R2  Anslee Long       def.  Laura Pellicer Pere… 61 64
+     R1  Adelaide Lavery   def.  Laura Pellicer Pere… 75 63
+ > Flight F
+  > Main
+     R5  Lily Walther      def.  Grace Eland          46 61 61
+     R5  Sean Mullen       def.  Kendall Nash         36 63 75
+     R4  Grace Eland       def.  Kendall Nash         36 61 61
+     R4  Sean Lodzki       def.  Sean Mullen          76(4) 61
+     R3  Sean Lodzki       def.  Lily Walther         60 36 63
+     R1  Sean Lodzki       def.  Grace Eland          62 62
+ > Flight E/F BYE Matches
+  > Main
+     QF  Sean Mullen       def.  Margriet Timmermans  75 63
+     QF  Charlotte Russell def.  Kendall Nash         63 62
+     QF  Lily Walther      def.  Laura Pellicer Pere… 67(5) 76(7) 62
+ > Flight A 3rd-4th
+  > Main
+      F  Carolyn Ansari    def.  Cristina Mayorova    61 76(2)
+ > Flight C Cons
+  > Main
+      F  Kristen Borland   def.  Margriet Timmermans  62 62
+ > Flight D 3rd-4th
+  > Main
+      F  Alexandria Mjos   def.  Brooke Theis         75 63
 ~~~
 
 <a name="21-21145"></a>

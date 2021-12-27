@@ -1,14 +1,18 @@
 <a name="top"></a>[<< Prev](women_singles_2138.md) &nbsp; **Week #39 - Sep 27 - Oct 3** &nbsp; [Next >>](women_singles_2140.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Men](./men_singles_2139.md) &#124; [***Women***](./women_singles_2139.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [***Singles***](./women_singles_2139.md) &#124; [Doubles](./women_doubles_2139.md)
 
 **Tournamets with Matches**  
+- 9/26/2021 - [Crimson Clash Invitational](#21-92387) ([Results](#21-92387) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/752CCDFE-B4CA-43BC-B2A3-ECA8A986B374" target="_blank">Draws</a>)  
 - 9/23/2021 - [ITA Division I Women's Midwest Regional Championship](#21-30664) ([Results](#21-30664) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division II Men’s & Women's South ITA Regional Championships](#21-22872) ([Results](#21-22872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaSouthernCollegeW/Tournaments/Overview/48AA87FD-E19B-4B61-B166-06F04513467E" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division II Men’s & Women's Southeast ITA Regional Championships](#21-93790) ([Results](#21-93790) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/7F9E2B03-2CE5-4C01-B4E1-3DEFB16C1CCA" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division II Women's Atlantic ITA Regional Championships](#21-02393) ([Results](#21-02393) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillersvilleUniversityW/Tournaments/Overview/AC190190-736B-4838-AE7A-A4CD92F079D3" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division III Women's Southeast ITA Regional Championships](#21-12873) ([Results](#21-12873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Draws</a>)  
 - 10/1/2021 - [Barb Chandler Classic](#21-63890) ([Results](#21-63890) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityW/Tournaments/Overview/88302122-9593-4E3B-B392-8D6982533991" target="_blank">Draws</a>)  
 - 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
+- 9/27/2021 - [BU Invitational](#21-87840) ([Results](#21-87840) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">Draws</a>)  
 - 10/2/2021 - [Butler Tournament](#21-66816) ([Results](#21-66816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Eagles Invitational](#21-42606) ([Results](#21-42606) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternMichiganUnivW/Tournaments/Overview/47B6E347-F9DC-455F-9E51-1E407EB949E4" target="_blank">Draws</a>)  
 - 10/1/2021 - [Florida Division 1 Bedford Cup, Women](#21-60580) ([Results](#21-60580) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthFloridaW/Tournaments/Overview/C3845735-BCB5-44DE-9B50-9FA2F75B1EE9" target="_blank">Draws</a>)  
@@ -17,6 +21,7 @@
 - 10/1/2021 - [ITA Division I Women's Atlantic Regional Championship](#21-54831) ([Results](#21-54831) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/C52564C8-3C18-4053-9A72-29E45A0B7B93" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Northeast Regional Championship](#21-67415) ([Results](#21-67415) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaW/Tournaments/Overview/19C5EAFF-4E4C-4DBD-83F9-4FE76D915740" target="_blank">Draws</a>)  
 - 10/1/2021 - [ITA Division I Women's Northeasts Regional Championship](#21-17427) ([Results](#21-17427) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USMilitaryAcademyW/Tournaments/Overview/191E2014-085B-4A50-9C88-E77ADCAC62E1" target="_blank">Draws</a>)  
+- 9/29/2021 - [Kitty Harrison invitational](#21-98114) ([Results](#21-98114) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCChapelHillW/Tournaments/Overview/FA922A97-8535-4C60-B295-7DF121FA2FD5" target="_blank">Draws</a>)  
 - 10/1/2021 - [Mercer Gridiron Classic](#21-07548) ([Results](#21-07548) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MercerUniversityM/Tournaments/Overview/DA1EFD3A-A2A3-47C3-8E11-2A83F6F6F79E" target="_blank">Draws</a>)  
 - 10/1/2021 - [Ragin' Cajun Classic](#21-46636) ([Results](#21-46636) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446" target="_blank">Draws</a>)  
 - 10/1/2021 - [Rocket Invite](#21-47919) ([Results](#21-47919) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoW/Tournaments/Overview/1048F1D3-F372-4A0C-9A4A-3F0D57040FE9" target="_blank">Draws</a>)  
@@ -27,10 +32,13 @@
 - 10/2/2021 - [WCU Fall Invite](#21-43987) ([Results](#21-43987) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternCarolinaUniversityW/Tournaments/Overview/B2620864-02CA-45C5-97AD-B736DD738210" target="_blank">Draws</a>)  
 - 10/1/2021 - [Wolverine Invitational](#21-66025) ([Results](#21-66025) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/6AF18612-0DD9-474B-9A98-4C630E99D501" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division II Men’s & Women's Central ITA Regional Championships](#21-35169) ([Results](#21-35169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCentralOklahomaW/Tournaments/Overview/55DB2A57-28BD-4A0E-8718-D03067AF6672" target="_blank">Draws</a>)  
+- 9/29/2021 - [Division II Men’s & Women's West ITA Regional Championships](#21-74684) ([Results](#21-74684) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FresnoPacificUniversityM/Tournaments/Overview/0BAADC52-23C4-465C-8C3C-D0759CEDF247" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Men’s & Women's West ITA Regional Championships](#21-64584) ([Results](#21-64584) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PomonaPitzerCollegesM/Tournaments/Overview/931D4542-683A-4E1A-A71E-412599129E7A" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Women's New England ITA Regional Championships](#21-20521) ([Results](#21-20521) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Women's South ITA Regional Championships](#21-21997) ([Results](#21-21997) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SewaneeUOfTheSouthW/Tournaments/Overview/444BCEF3-8673-4922-AB1D-45C355E8DE28" target="_blank">Draws</a>)  
 - 9/30/2021 - [Division III Women's Southwest ITA Regional Championships](#21-36423) ([Results](#21-36423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonW/Tournaments/Overview/39873211-F8A9-40EA-B250-F23B1167F8F3" target="_blank">Draws</a>)  
+- 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
+- 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
 - 10/1/2021 - [NAIA Men's & Women’s Gulf ITA Regional Championships](#21-33851) ([Results](#21-33851) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's Midwest ITA Regional Championships](#21-24046) ([Results](#21-24046) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
@@ -39,6 +47,26 @@
 **Tournaments without Matches**  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
+
+<a name="21-92387"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Crimson Clash Invitational
+  Dates: Sep 26-27, 2021
+  Host: Harvard University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > HV vs BU
+  > Main
+     16  Maxi Duncan       def.  Victoria Carlsten   61 62
+     16  Rachel Arbitman   def.  Michelle Kleynerman 61 61
+     16  Kaitlin Tan       def.  Iveta Daujotaite    61 76(5)
+     16  Angel You         def.  Shelly Yaloz        64 64
+     16  Erica Di Battista def.  Holly Fischer       64 63
+     16  Rachel Lim        def.  Sofia Kostirko      64 36 [6]
+     16  Sany Gawande      def.  Stephanie Nguyen    62 67 [6]
+     16  Amy Huang         def.  Sydney Sharma       62 67(4) [9]
+~~~
 
 <a name="21-30664"></a>
 ~~~
@@ -285,6 +313,162 @@
       32     Savannah Williams    def.     Alexis Kwasnik       62 60
       32     Julia Mautner        def.     Raissa Wagner        62 21 Ret.
       32     Verena Weindl        def.     Sofia Pepe           Walkover
+~~~
+
+<a name="21-93790"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════════
+  Division II Men’s & Women's Southeast ITA Regional Championships
+  Dates: Sep 24-27, 2021
+  Host: ITA
+════════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Woman's Open Draw
+  > Main
+       F  (1) Luisa Hrda           def.  (3) Ana Carla Resende    63 76(3)
+      SF  (1) Luisa Hrda           def.  (4) Elena Gunfaus        63 64
+      SF  (3) Ana Carla Resende    def.  (9) Mariana Ramirez      63 60
+      QF  (1) Luisa Hrda           def. (16) Sofia Shing          60 63
+      QF  (4) Elena Gunfaus        def. (16) Anna Greer           64 61
+      QF  (3) Ana Carla Resende    def.  (8) Vaishali Jorge       60 76(3)
+      QF  (9) Mariana Ramirez      def.      Inma Ramon           64 67(9) 62
+      16  (1) Luisa Hrda           def.  (9) Camilla Ciaccia      64 63
+      16 (16) Sofia Shing          def. (16) Anika Nissen         76(4) 75
+      16  (4) Elena Gunfaus        def.  (9) Valentina Abrile     36 61 64
+      16 (16) Anna Greer           def.  (5) Alessandra Traub     62 26 62
+      16  (8) Vaishali Jorge       def.  (9) Emma Bentz           63 62
+      16  (3) Ana Carla Resende    def.  (9) Ebba Rosberg         64 61
+      16      Inma Ramon           def.      Elisa Aguirre        64 75
+      16  (9) Mariana Ramirez      def.  (2) Eden Schlagenhauf    64 36 64
+      32  (1) Luisa Hrda           def. (16) Ingrid Montserrat    60 61
+      32  (9) Camilla Ciaccia      def. (16) Zulay Castaneda      75 62
+      32 (16) Anika Nissen         def.  (6) Viktorija Veselinova 64 61
+      32 (16) Sofia Shing          def.  (9) Anna Markvartova     61 62
+      32  (4) Elena Gunfaus        def.      Emilia Richter       62 36 63
+      32  (9) Valentina Abrile     def.      Ishita Singh         63 62
+      32  (5) Alessandra Traub     def. (16) Rafaella Villanueva  60 61
+      32 (16) Anna Greer           def.  (9) Nastassia Chamoun    63 36 61
+      32  (9) Emma Bentz           def.      Violetta Khisamova   61 64
+      32  (8) Vaishali Jorge       def. (16) Ameek Batth          62 64
+      32  (9) Ebba Rosberg         def. (16) Alex Lopez           62 62
+      32  (3) Ana Carla Resende    def.      Hanna Axelsson       63 62
+      32      Inma Ramon           def.      Zoe Heed             62 61
+      32      Elisa Aguirre        def.      Paige Wise           75 36 64
+      32  (9) Mariana Ramirez      def. (16) Johanna Lippert      26 64 62
+      32  (2) Eden Schlagenhauf    def. (16) Flaminia Guidantoni  67(8) 62 63
+      64  (1) Luisa Hrda           def.      Julia Valls Lopes    60 61
+      64 (16) Ingrid Montserrat    def.      Luciana Galves       06 64 63
+      64  (9) Camilla Ciaccia      def.      Elodie Baechler      61 62
+      64 (16) Zulay Castaneda      def.      Alejandra Guerrero   64 46 60
+      64  (6) Viktorija Veselinova def.      Amy Griffiths        67(3) 63 76(3)
+      64 (16) Anika Nissen         def.      Jessica Binzari      61 61
+      64  (9) Anna Markvartova     def.      Summer Reeves        61 46 61
+      64 (16) Sofia Shing          def.      Angelina Linnikova   75 62
+      64  (4) Elena Gunfaus        def.      Val Bodra            61 36 60
+      64      Emilia Richter       def. (16) Cibeles Zuddy        16 62 76(4)
+      64  (9) Valentina Abrile     def.      Laura Jipescu        62 61
+      64      Ishita Singh         def. (16) Hannah Price         62 16 62
+      64  (5) Alessandra Traub     def.      Deike Schipper       61 61
+      64 (16) Rafaella Villanueva  def.      Katie Robeson        62 62
+      64  (9) Nastassia Chamoun    def.      Lucy Spice           62 63
+      64 (16) Anna Greer           def.      Kyriaki Sandy Mitso  46 61 60
+      64      Violetta Khisamova   def. (16) Florencia Massardo   75 64
+      64  (9) Emma Bentz           def.      Amanda Dahlstrom     64 63
+      64 (16) Ameek Batth          def.      Lauri Alvarez Tello  36 61 64
+      64  (8) Vaishali Jorge       def.      Emma Fleming         16 62 61
+      64 (16) Alex Lopez           def.      Maria Kotsiou        62 62
+      64  (9) Ebba Rosberg         def.      Lucy Whelan          64 60
+      64      Hanna Axelsson       def. (16) Catherine Blouin     75 64
+      64  (3) Ana Carla Resende    def.      Frankee Hendricks    60 61
+      64      Inma Ramon           def. (16) Judit Gonzalez       61 46 76(6)
+      64      Zoe Heed             def.  (9) Gemma Southwick      61 62
+      64      Elisa Aguirre        def. (16) Valentina Ascarrunz  16 62 62
+      64      Paige Wise           def.  (7) Chole Kosmrlj        64 63
+      64 (16) Johanna Lippert      def.      Natasha Forrest      63 62
+      64  (9) Mariana Ramirez      def.      Svetlana Teterina    64 64
+      64 (16) Flaminia Guidantoni  def.      Nele Weber           57 61 62
+      64  (2) Eden Schlagenhauf    def.      Emilie Hansen        64 64
+     128      Julia Valls Lopes    def.      Kayla Vaughan        64 57 63
+     128      Luciana Galves       def.      Julia Speiser        60 61
+     128      Elodie Baechler      def.      Czarina Aguirre      61 75
+     128      Alejandra Guerrero   def.      Bailee Wilson        62 64
+     128      Amy Griffiths        def.      Darja Chistov        61 64
+     128      Jessica Binzari      def.      Yelena Labat         61 46 62
+     128      Summer Reeves        def.      Julie Martincova     63 62
+     128      Angelina Linnikova   def.      Alicia Wahlberg      64 60
+     128      Val Bodra            def.      Leonie Floeth        36 62 63
+     128      Emilia Richter       def.      Leticia Luiz         61 62
+     128      Laura Jipescu        def.      Sara Ramirez         61 67(8) 63
+     128      Ishita Singh         def.      Gabriel Karatantche… 62 67(3) 61
+     128      Deike Schipper       def.      Luize Valtere        64 75
+     128      Katie Robeson        def.      Agostina Bigotti     61 61
+     128      Lucy Spice           def.      Silvia Fernandez     63 63
+     128      Kyriaki Sandy Mitso  def.      Louise Ratiu         76(3) 64
+     128      Violetta Khisamova   def.      Marta Rozados        62 64
+     128      Amanda Dahlstrom     def.      Diana Babinets       64 63
+     128      Lauri Alvarez Tello  def.      Lily Aranyos         64 60
+     128      Emma Fleming         def.      Liza Voloshyna       62 62
+     128      Maria Kotsiou        def.      Lauren Castillon     63 63
+     128      Lucy Whelan          def.      Szilvia Ferenczy     62 63
+     128      Hanna Axelsson       def.      Claudelle Labonte-F… 61 61
+     128      Frankee Hendricks    def.      Hermon Mikael        63 64
+     128      Inma Ramon           def.      Jing Dong            75 61
+     128      Zoe Heed             def.      Paulina Loretz       64 62
+     128      Elisa Aguirre        def.      Jordan Bowie         60 61
+     128      Paige Wise           def.      Eimear Maher         62 64
+     128      Natasha Forrest      def.      Rupal Kharb          64 62
+     128      Svetlana Teterina    def.      Elliott Peterson     75 64
+     128      Nele Weber           def.      Evelin Menyhart      63 62
+     128      Emilie Hansen        def.      Maren Kronsbein      61 62
+  > Consolation
+      32      Emilie Hansen        def.      Julia Speiser        62 63
+      32      Natasha Forrest      def.      Czarina Aguirre      61 63
+      32  (7) Chole Kosmrlj        def. (16) Valentina Ascarrunz  Walkover
+      32      Alicia Wahlberg      def.      Julie Martincova     Walkover
+      32 (16) Catherine Blouin     def.      Leonie Floeth        46 75 [2]
+      32      Maria Kotsiou        def.      Sara Ramirez         76(5) 16 [8]
+      32      Luize Valtere        def.      Lauri Alvarez Tello  46 64 [7]
+      32 (16) Florencia Massardo   def.      Silvia Fernandez     62 64
+      32      Marta Rozados        def.      Diana Babinets       Walkover
+      32      Deike Schipper       def.      Katie Robeson        Walkover
+      32 (16) Hannah Price         def.      Laura Jipescu        Walkover
+      32      Claudelle Labonte-F… def.      Val Bodra            Walkover
+      32      Angelina Linnikova   def.      Paulina Loretz       60 62
+      32      Eimear Maher         def.      Jessica Binzari      75 62
+      32      Elliott Peterson     def.      Rupal Kharb          60 75
+      32      Luciana Galves       def.      Maren Kronsbein      62 62
+      64      Emilie Hansen        def.      Kayla Vaughan        62 64
+      64      Julia Speiser        def.      Nele Weber           64 57 [2]
+      64      Czarina Aguirre      def.      Svetlana Teterina    64 63
+      64      Natasha Forrest      def.      Bailee Wilson        63 61
+      64  (7) Chole Kosmrlj        def.      Darja Chistov        62 75
+      64 (16) Valentina Ascarrunz  def.      Yelena Labat         64 63
+      64      Julie Martincova     def.  (9) Gemma Southwick      Walkover
+      64      Alicia Wahlberg      def. (16) Judit Gonzalez       Walkover
+      64      Leonie Floeth        def.      Frankee Hendricks    46 64 [9]
+      64 (16) Catherine Blouin     def.      Leticia Luiz         61 75
+      64      Sara Ramirez         def.      Lucy Whelan          64 75
+      64      Maria Kotsiou        def.      Gabriel Karatantche… 75 63
+      64      Luize Valtere        def.      Emma Fleming         Walkover
+      64      Lauri Alvarez Tello  def.      Agostina Bigotti     75 64
+      64      Silvia Fernandez     def.      Amanda Dahlstrom     64 64
+      64 (16) Florencia Massardo   def.      Louise Ratiu         62 62
+      64      Marta Rozados        def.      Kyriaki Sandy Mitso  76(5) 64
+      64      Diana Babinets       def.      Lucy Spice           Walkover
+      64      Katie Robeson        def.      Lily Aranyos         63 64
+      64      Deike Schipper       def.      Liza Voloshyna       Walkover
+      64 (16) Hannah Price         def.      Lauren Castillon     60 61
+      64      Laura Jipescu        def.      Szilvia Ferenczy     16 63 [8]
+      64      Claudelle Labonte-F… def. (16) Cibeles Zuddy        26 63 [7]
+      64      Val Bodra            def.      Hermon Mikael        Walkover
+      64      Angelina Linnikova   def.      Jing Dong            57 63 [7]
+      64      Paulina Loretz       def.      Summer Reeves        36 64 [6]
+      64      Jessica Binzari      def.      Jordan Bowie         Walkover
+      64      Eimear Maher         def.      Amy Griffiths        26 64 Ret.
+      64      Rupal Kharb          def.      Alejandra Guerrero   64 75
+      64      Elliott Peterson     def.      Elodie Baechler      63 62
+      64      Luciana Galves       def.      Evelin Menyhart      75 64
+      64      Maren Kronsbein      def.      Julia Valls Lopes    06 64 [6]
 ~~~
 
 <a name="21-02393"></a>
@@ -540,6 +724,281 @@
      32Q     Maddie Hurley       def.     Jadyn Davis         61 63
      32Q     Ellie Himebauch     def.     Charitha Patlolla   Walkover
      32Q     Mia Zivkovic        def.     Caitlyn Hanulikova  60 61
+~~~
+
+<a name="21-82716"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Division III Women's Midwest ITA Regional Championships
+  Dates: Sep 24-27, 2021
+  Host: Univ. Of Wisconsin, Whitewater (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > ITA Regional Championship
+  > Main
+       F  Sabrina Tang         def.  Mary Hose            Default
+      SF  Sabrina Tang         def.  Autum Bruno          61 61
+      SF  Mary Hose            def.  Irene Agusti         62 57 63
+      QF  Autum Bruno          def.  Grace Riermann       64 63
+      QF  Sabrina Tang         def.  Kelsey Dorr          61 61
+      QF  Irene Agusti         def.  Kimmy Steinert       64 46 62
+      QF  Mary Hose            def.  Simona Potockova     60 63
+      16  Grace Riermann       def.  Ioanna Giannakou     61 63
+      16  Autum Bruno          def.  Tasha Bailey         62 61
+      16  Kelsey Dorr          def.  Anna Stutz           61 60
+      16  Sabrina Tang         def.  Cassandra Lee        64 16 [8]
+      16  Irene Agusti         def.  Giana Apostoli       64 61
+      16  Kimmy Steinert       def.  Ashley Tarrolly      60 62
+      16  Simona Potockova     def.  Gianna Nikoleit      64 16 [6]
+      16  Mary Hose            def.  Natalia Smith        61 62
+      32  Grace Riermann       def.  Cecile Fuchs         62 61
+      32  Ioanna Giannakou     def.  Raquel Egge          61 64
+      32  Autum Bruno          def.  Sofia Sackett        63 61
+      32  Tasha Bailey         def.  Anna Wanek           75 63
+      32  Kelsey Dorr          def.  Shelby Cook          61 63
+      32  Anna Stutz           def.  Erin Jarvis          64 62
+      32  Sabrina Tang         def.  Madison Schultz      62 60
+      32  Cassandra Lee        def.  Yuki Oda             62 63
+      32  Irene Agusti         def.  Halle Rosentreter    60 62
+      32  Giana Apostoli       def.  Madalyn Bigelow      62 64
+      32  Ashley Tarrolly      def.  Natalie Peterson     63 63
+      32  Kimmy Steinert       def.  Utsah Kalra          36 63 [0]
+      32  Gianna Nikoleit      def.  Mira Manchanda       76(7) 61
+      32  Simona Potockova     def.  Ashley Samuta        61 60
+      32  Natalia Smith        def.  Sydney Ellison       61 63
+      32  Mary Hose            def.  Clare Palen          63 60
+      64  Grace Riermann       def.  Lily Perrin          64 60
+      64  Cecile Fuchs         def.  Sydney Douglas       61 61
+      64  Ioanna Giannakou     def.  Emily Norman         76(3) 36 [9]
+      64  Raquel Egge          def.  Amalin Sorajja       57 63 [7]
+      64  Autum Bruno          def.  Rachel Lindrud       60 62
+      64  Sofia Sackett        def.  Lily Fredericks      62 62
+      64  Tasha Bailey         def.  Maya Callaway        60 60
+      64  Anna Wanek           def.  Julia Maier          62 60
+      64  Kelsey Dorr          def.  Sydney Rott          63 62
+      64  Shelby Cook          def.  Renata Hernandez     61 63
+      64  Anna Stutz           def.  Meadow LaDuke        61 61
+      64  Erin Jarvis          def.  Sam Ramsey           60 75
+      64  Sabrina Tang         def.  Ashley LaBelle       60 60
+      64  Madison Schultz      def.  Cheyanne Phillips    64 60
+      64  Cassandra Lee        def.  Samantha Fuchs       75 63
+      64  Yuki Oda             def.  Kaitlyn Kalinka      61 60
+      64  Halle Rosentreter    def.  Olivia Kraft         64 16 [9]
+      64  Irene Agusti         def.  Morgan Nelson        60 62
+      64  Madalyn Bigelow      def.  Alisa Makatsaria     64 16 [8]
+      64  Giana Apostoli       def.  Alli Laux            64 57 [9]
+      64  Natalie Peterson     def.  Jenna Forknell       64 57 [2]
+      64  Ashley Tarrolly      def.  Elaine Franta        60 62
+      64  Utsah Kalra          def.  Reilee Schepper      60 60
+      64  Kimmy Steinert       def.  Hayley Trebil        62 61
+      64  Mira Manchanda       def.  Sydney Presler       60 60
+      64  Gianna Nikoleit      def.  Megan Karrow         64 75
+      64  Ashley Samuta        def.  Sasha Manojlovic     60 61
+      64  Simona Potockova     def.  Sophia De Los Reyes  61 76(1)
+      64  Natalia Smith        def.  Maya Gaedtke         63 64
+      64  Sydney Ellison       def.  Sofia Walker         62 62
+      64  Clare Palen          def.  Emily King           62 60
+      64  Mary Hose            def.  Maggie Frye          60 60
+     128  Lily Perrin          def.  Luana da Silva       60 60
+     128  Cecile Fuchs         def.  Mallory Moen         60 62
+     128  Emily Norman         def.  Morgan Graf          62 46 [10]
+     128  Raquel Egge          def.  Sarah Schirm         62 60
+     128  Rachel Lindrud       def.  Sydney Bell          76(3) 62
+     128  Sofia Sackett        def.  Lindsey Henderson    64 63
+     128  Maya Callaway        def.  Elena Bourget        63 60
+     128  Julia Maier          def.  Courtney Day         62 64
+     128  Sydney Rott          def.  Zoie Becker          62 60
+     128  Renata Hernandez     def.  Katie Larson         62 61
+     128  Meadow LaDuke        def.  Elsa Joly            67(4) 63 [3]
+     128  Sam Ramsey           def.  Kennedy Morgan       62 62
+     128  Ashley LaBelle       def.  Alexa Brooks         75 62
+     128  Cheyanne Phillips    def.  Molly Rueth          62 76(2)
+     128  Samantha Fuchs       def.  Elise Bierbaum       63 62
+     128  Kaitlyn Kalinka      def.  Meg Ulrich           63 75
+     128  Halle Rosentreter    def.  Amanye Reynolds      62 36 [5]
+     128  Madalyn Bigelow      def.  Ally Verbauwhede     64 64
+     128  Alli Laux            def.  Ricki Budewitz       75 75
+     128  Jenna Forknell       def.  Zenia Barretto       57 63 [8]
+     128  Elaine Franta        def.  Barbara Covek        62 62
+     128  Utsah Kalra          def.  Ana Olimpio          76(6) 62
+     128  Hayley Trebil        def.  Emma Thole           67(5) 64 [8]
+     128  Sydney Presler       def.  Hannah Riegle        63 46 [7]
+     128  Megan Karrow         def.  Bronwyn Metcalf      46 61 [6]
+     128  Ashley Samuta        def.  Kellie Ha            64 57 [5]
+     128  Sophia De Los Reyes  def.  Susanna Hu           62 60
+     128  Natalia Smith        def.  Maddi Jankila        61 62
+     128  Sofia Walker         def.  Rylee Schurmann      62 63
+     128  Emily King           def.  Kaytlyn Syverson     62 60
+     128  Maggie Frye          def.  Alyssa Carew         63 76(4)
+ > Midwest Singles A
+  > Main
+       F  Emily Carlson        def.  Bryce Bigelow        26 63 [8]
+      SF  Bryce Bigelow        def.  Emily Henderson      63 62
+      SF  Emily Carlson        def.  Mia Andrae           76(1) 61
+      QF  Bryce Bigelow        def.  Taylor Hopkins       64 62
+      QF  Emily Henderson      def.  Belinda Weddle       76 64
+      QF  Mia Andrae           def.  Luna van Tol         63 75
+      QF  Emily Carlson        def.  Rayna Baumgarn       61 61
+      16  Taylor Hopkins       def.  Kallie Olson         60 63
+      16  Belinda Weddle       def.  Abby Westrum         62 63
+      16  Emily Henderson      def.  Chihiro Ono          36 61 [9]
+      16  Mia Andrae           def.  Sophie Geske         60 36 [7]
+      16  Luna van Tol         def.  Ashley Barker        60 61
+      16  Rayna Baumgarn       def.  Alina Tweet          64 46 [10]
+ > Midwest Singles B
+  > Main
+       F  Renata Martinez      def.  Lilian Elofson       75 61
+      SF  Renata Martinez      def.  Natalie Kaiser       62 60
+      SF  Lilian Elofson       def.  Emily Savageau       62 60
+      QF  Renata Martinez      def.  Jersi Mcalpine       75 61
+      QF  Natalie Kaiser       def.  Peyton Buerman       61 63
+      QF  Emily Savageau       def.  Emma Lassen          46 64 [9]
+      QF  Lilian Elofson       def.  Avery Munster        61 61
+      16  Jersi Mcalpine       def.  Jordana Burkeland    63 61
+      16  Natalie Kaiser       def.  Julia Ellefsen       60 60
+      16  Peyton Buerman       def.  Taylar Smith         76(4) 16 [6]
+      16  Emma Lassen          def.  Mak Robinson         36 75 [5]
+      16  Emily Savageau       def.  Maggie Burgmeier     46 62 [2]
+      16  Avery Munster        def.  Madeline Kleinke     36 63 [6]
+ > Midwest Singles C
+  > Main
+       F  Katie Kearney        def.  Kalea Martin         61 61
+      SF  Kalea Martin         def.  Kiley Nolan          62 64
+      SF  Katie Kearney        def.  Josephine Carlson    76(2) 61
+      QF  Kalea Martin         def.  Maddie Dosser        62 60
+      QF  Kiley Nolan          def.  Annie Orvis          63 46 [5]
+      QF  Katie Kearney        def.  Jania Carter-Johnson 63 60
+      QF  Josephine Carlson    def.  Mary Skorich         76(5) 61
+      16  Kalea Martin         def.  Jena Smith           60 62
+      16  Maddie Dosser        def.  Karina Manders       63 75
+      16  Annie Orvis          def.  Cady Peterson        64 64
+      16  Kiley Nolan          def.  Peyton Morgan        62 63
+      16  Katie Kearney        def.  Alexandria Sturm     60 60
+      16  Jania Carter-Johnson def.  Ava Helmer           61 60
+      16  Mary Skorich         def.  Taylor Wentland      61 64
+      16  Josephine Carlson    def.  Shelby Hanson        61 60
+ > Midwest Singles D
+  > Main
+       F  Riley O Donnell      def.  Sydney Marin         36 63 [9]
+      SF  Sydney Marin         def.  Maria Valentini      61 61
+      SF  Riley O Donnell      def.  Mary Enright         63 60
+      QF  Sydney Marin         def.  Claudia Bilkey       62 61
+      QF  Maria Valentini      def.  Elli Dodge           63 64
+      QF  Riley O Donnell      def.  Macy Voss            62 64
+      QF  Mary Enright         def.  Ashley Renwick       62 62
+      16  Sydney Marin         def.  Talia Chait          60 61
+      16  Claudia Bilkey       def.  Karen Frerking       62 60
+      16  Elli Dodge           def.  Mary Shogren         62 60
+      16  Maria Valentini      def.  Callie Belschner     62 61
+      16  Riley O Donnell      def.  Erin Borchard        61 63
+      16  Macy Voss            def.  Lainey Zurn          62 61
+      16  Ashley Renwick       def.  Caroline Hutchison   60 36 [4]
+      16  Mary Enright         def.  Alethia Schmidt      61 60
+ > Midwest Singles F
+  > Main
+       F  Ellie Murphy         def.  Tea Armstrong        46 62 [3]
+      SF  Tea Armstrong        def.  Emily Rubbelke       62 36 [9]
+      SF  Ellie Murphy         def.  Kylie Dunning        63 62
+      QF  Tea Armstrong        def.  Madison Magnani      60 60
+      QF  Emily Rubbelke       def.  Michaela Pinto       62 62
+      QF  Ellie Murphy         def.  Rachel Papp          57 62 [12]
+      QF  Kylie Dunning        def.  Georgia Nissen       61 60
+      16  Tea Armstrong        def.  Sara Borchard        62 60
+      16  Michaela Pinto       def.  Mya Werning          62 67(4) [3]
+      16  Emily Rubbelke       def.  Grace Buswell        61 61
+      16  Ellie Murphy         def.  Chloe Leithold       46 75 [8]
+      16  Rachel Papp          def.  Kennedi Wright       62 63
+      16  Georgia Nissen       def.  Taylor Vyskocil      60 62
+ > Midwest Singles G
+  > Main
+       F  Lexi Hastings        def.  Sarah Ferguson       76(2) 60
+      SF  Sarah Ferguson       def.  Jessica Dahl         63 63
+      SF  Lexi Hastings        def.  Morgan Dekan         64 63
+      QF  Sarah Ferguson       def.  Makaylah Legel       61 62
+      QF  Jessica Dahl         def.  Maddy Coopmans       75 64
+      QF  Lexi Hastings        def.  Lily Vang            63 64
+      QF  Morgan Dekan         def.  Bella Tranquilino    61 60
+      16  Sarah Ferguson       def.  Bailey Sinnwell      61 60
+      16  Makaylah Legel       def.  Analise Marquardt    64 76
+      16  Jessica Dahl         def.  Avery Nicholson      62 62
+      16  Maddy Coopmans       def.  Elizabeth Johnson    67(4) 62 [3]
+      16  Lexi Hastings        def.  Francesca Grimes     76(6) 16 [7]
+      16  Lily Vang            def.  Rose Han             61 64
+      16  Bella Tranquilino    def.  Chiyono Owa          61 63
+      16  Morgan Dekan         def.  Angelina Guevara     64 63
+ > Midwest Singles H
+  > Main
+       F  Faith Leithold       def.  Brooke Haddorff      64 63
+      SF  Faith Leithold       def.  Montserrat Ramirez … 62 61
+      SF  Brooke Haddorff      def.  Madison Ostrander    63 63
+      QF  Montserrat Ramirez … def.  Gabby Flynn          62 62
+      QF  Faith Leithold       def.  Jaden Fuqua          62 63
+      QF  Madison Ostrander    def.  Sophie Knigge        63 63
+      QF  Brooke Haddorff      def.  Elise Jarchow        61 63
+      16  Gabby Flynn          def.  Sydney Hubbard       60 76(2)
+      16  Jaden Fuqua          def.  Auden Pearson        61 61
+      16  Madison Ostrander    def.  Jalen DenHartog      76(2) 60
+      16  Sophie Knigge        def.  Maeryn Shepherd      60 60
+      16  Elise Jarchow        def.  Natalie Girard       64 64
+ > Midwest Singles E
+  > Main
+       F  Jenna Koepp          def.  Mackenzie Lindow     63 64
+      SF  Jenna Koepp          def.  Bruna Costa          61 62
+      SF  Mackenzie Lindow     def.  Eliza Sundermann     75 60
+      QF  Bruna Costa          def.  Anna Hacker          75 76(2)
+      QF  Jenna Koepp          def.  Ambriel Jacobs       63 61
+      QF  Mackenzie Lindow     def.  Katelynn Haskell     62 63
+      QF  Eliza Sundermann     def.  Rachael Fanciullo    76(3) 63
+      16  Anna Hacker          def.  Maya Kunze           63 46 [2]
+      16  Ambriel Jacobs       def.  Donni Kinghorn       60 64
+      16  Jenna Koepp          def.  Carolyn Merkatoris   61 61
+      16  Mackenzie Lindow     def.  Caitlyn Swigart      61 60
+      16  Katelynn Haskell     def.  Megan Grimm          61 64
+      16  Rachael Fanciullo    def.  Gigi Kuecker         60 61
+      16  Eliza Sundermann     def.  Leah Miller          64 76(4)
+ > Consolation A
+  > Main
+       F  Cheyanne Phillips    def.  Rylee Schurmann      85
+      SF  Rylee Schurmann      def.  Sydney Douglas       86
+      SF  Cheyanne Phillips    def.  Sydney Presler       86
+      QF  Sydney Douglas       def.  Susanna Hu           82
+      QF  Rylee Schurmann      def.  Maya Kunze           87(6)
+      QF  Sydney Presler       def.  Katie Larson         86
+      QF  Cheyanne Phillips    def.  Rachel Papp          80
+      16  Sydney Douglas       def.  Peyton Buerman       80
+      16  Susanna Hu           def.  Grace Buswell        80
+      16  Maya Kunze           def.  Sydney Hubbard       83
+      16  Rylee Schurmann      def.  Leah Miller          86
+      16  Sydney Presler       def.  Taylor Hopkins       80
+      16  Katie Larson         def.  Rachael Fanciullo    85
+      16  Rachel Papp          def.  Sofia Holmes         83
+      16  Cheyanne Phillips    def.  Emma Thole           81
+      32  Peyton Buerman       def.  Jennifer Larson      85
+      32  Rylee Schurmann      def.  Rose Han             80
+      32  Sydney Presler       def.  Ava Helmer           80
+ > Consolation B
+  > Main
+       F  Samantha Fuchs       def.  Bronwyn Metcalf      83
+      SF  Samantha Fuchs       def.  Elise Bierbaum       82
+      SF  Bronwyn Metcalf      def.  Ally Verbauwhede     82
+      QF  Samantha Fuchs       def.  Sarah Schirm         80
+      QF  Elise Bierbaum       def.  Sara Borchard        83
+      QF  Ally Verbauwhede     def.  Ashley Renwick       85
+      QF  Bronwyn Metcalf      def.  Michaela Pinto       82
+      16  Samantha Fuchs       def.  Jersi Mcalpine       81
+      16  Sarah Schirm         def.  Karina Manders       81
+      16  Sara Borchard        def.  Rayna Baumgarn       80
+      16  Elise Bierbaum       def.  Ella Boomgaarden     80
+      16  Ally Verbauwhede     def.  Elise Jarchow        85
+      16  Ashley Renwick       def.  Karen Frerking       87(3)
+      16  Michaela Pinto       def.  Luna van Tol         86
+      16  Bronwyn Metcalf      def.  Emily Norman         87(2)
+      32  Jersi Mcalpine       def.  Kara Hand            80
+      32  Karina Manders       def.  Ashley Barker        81
+      32  Bronwyn Metcalf      def.  Cady Peterson        82
+ > Consolation Final
+  > Main
+       F  Samantha Fuchs       def.  Cheyanne Phillips    82
 ~~~
 
 <a name="21-04287"></a>
@@ -925,6 +1384,26 @@
      16  Gabrielle Geolier    def.  Taylor Trondson      63 62
      16  Paola Silva Campigo… def.  Alyssa Getty         75 64
      16  Abigail Solomon      def.  Annika Pschorr       46 63 76(3)
+~~~
+
+<a name="21-87840"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  BU Invitational
+  Dates: Sep 27-27, 2021
+  Host: Boston University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw
+  > East
+     32  Chidimma Okpara     def.  Kaitlin Tan          60 61
+     32  Victoria Carlsten   def.  Ashley Hess          63 61
+     32  Michelle Kleynerman def.  Katie Weber          64 62
+     32  Elizabeth Fahrmeier def.  Shelly Yaloz         26 64 [12]
+     32  Lexi Dewire         def.  Erica Di Battista    64 67(4) [9]
+     32  Sofia Kostirko      def.  Chloe Yoo            64 64
+     32  Stephanie Nguyen    def.  Ujvala Jupalli       63 63
+     32  Sydney Sharma       def.  Ameliija Swaffer-Se… 60 64
 ~~~
 
 <a name="21-66816"></a>
@@ -1779,6 +2258,175 @@
      128      Emily Kim            def.      Loretto Del Carmen … 64 57 [5]
      128      Hailey Wilcox        def.      Jane Bockman         64 64
      128      Yesica de Lucas      def.      Eleni Fasoula        63 60
+~~~
+
+<a name="21-98114"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  Kitty Harrison invitational
+  Dates: Sep 29-30, 2021
+  Host: UNC Chapel Hill (W)
+═════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Carolina Singles
+  > East
+      F  Fiona Crawley        def.  Marina Alcaide       63 64
+     SF  Fiona Crawley        def.  Sofia Smagina        61 62
+     SF  Marina Alcaide       def.  Lindsay Zink         61 63
+     QF  Fiona Crawley        def.  Briana Crowley       64 63
+     QF  Sofia Smagina        def.  Ruxi Schech          62 76(5)
+     QF  Marina Alcaide       def.  Eliza Omirou         57 60 76(4)
+     QF  Lindsay Zink         def.  Taylor Bridges       64 36 76(3)
+     16  Fiona Crawley        def.  Michelle Sorokko     61 60
+     16  Briana Crowley       def.  Alexandra Viktorovi… 63 61
+     16  Sofia Smagina        def.  Mila Saric           26 75 76(7)
+     16  Ruxi Schech          def.  Christin Hsieh       61 64
+     16  Marina Alcaide       def.  Bente Spee           64 63
+     16  Eliza Omirou         def.  Sara Ziodato         64 67(1) 76(6)
+     16  Lindsay Zink         def.  Ariana Arseneault    26 75 76(3)
+     16  Taylor Bridges       def.  Maryam Ahmad         61 61
+  > West
+      F  Mila Saric           def.  Ariana Arseneault    76(5) 75
+     SF  Mila Saric           def.  Michelle Sorokko     62 63
+     SF  Ariana Arseneault    def.  Sara Ziodato         67(5) 61 76(9)
+     QF  Michelle Sorokko     def.  Alexandra Viktorovi… 62 76(3)
+     QF  Mila Saric           def.  Christin Hsieh       63 57 76(10)
+     QF  Sara Ziodato         def.  Bente Spee           61 60
+     QF  Ariana Arseneault    def.  Maryam Ahmad         64 64
+  > North
+      F  Ruxi Schech          def.  Eliza Omirou         Default
+     SF  Ruxi Schech          def.  Briana Crowley       63 46 76(6)
+     SF  Eliza Omirou         def.  Taylor Bridges       Default
+  > 3-4 Playoff
+      F  Sofia Smagina        def.  Lindsay Zink         67(7) 62 76(5)
+  > South
+      F  Christin Hsieh       def.  Bente Spee           64 26 76(9)
+     SF  Christin Hsieh       def.  Alexandra Viktorovi… 64 64
+     SF  Bente Spee           def.  Maryam Ahmad         36 60 76(1)
+  > Southwest
+      F  Sara Ziodato         def.  Michelle Sorokko     26 75 76(4)
+  > Northwest
+      F  Taylor Bridges       def.  Briana Crowley       64 63
+  > Southeast
+      F  Alexandra Viktorovi… def.  Maryam Ahmad         61 62
+ > Blue Singles
+  > East
+      F  Reilly Tran          def.  Carolyn Ansari       62 60
+     SF  Reilly Tran          def.  Ena Babic            61 61
+     SF  Carolyn Ansari       def.  Malkia Ngounoue      64 36 76(10)
+     QF  Ena Babic            def.  Yuliia Starodubtseva 64 75
+     QF  Reilly Tran          def.  Samantha Martinelli  61 26 76(5)
+     QF  Malkia Ngounoue      def.  Alicia Dudeney       64 36 76(5)
+     QF  Carolyn Ansari       def.  Stephanie Schrage    64 36 76(10)
+     16  Yuliia Starodubtseva def.  Nicole Kiefer        61 61
+     16  Ena Babic            def.  Emily De Oliveira    60 64
+     16  Samantha Martinelli  def.  Maria Shusharina     75 26 76(8)
+     16  Reilly Tran          def.  Karolina Berankova   63 64
+     16  Malkia Ngounoue      def.  Alesya Yakubovich    62 62
+     16  Alicia Dudeney       def.  Sofia Cabezas        61 61
+     16  Stephanie Schrage    def.  Maggie Cubitt        63 64
+     16  Carolyn Ansari       def.  Peyton Pesavento     46 60 76(6)
+  > West
+      F  Maria Shusharina     def.  Alesya Yakubovich    64 26 76(8)
+     SF  Maria Shusharina     def.  Nicole Kiefer        60 62
+     SF  Alesya Yakubovich    def.  Peyton Pesavento     61 76(5)
+     QF  Nicole Kiefer        def.  Emily De Oliveira    06 63 76(6)
+     QF  Maria Shusharina     def.  Karolina Berankova   64 Ret.
+     QF  Alesya Yakubovich    def.  Sofia Cabezas        46 76(4) 76(6)
+     QF  Peyton Pesavento     def.  Maggie Cubitt        62 61
+  > North
+      F  Samantha Martinelli  def.  Alicia Dudeney       Default
+     SF  Samantha Martinelli  def.  Yuliia Starodubtseva Default
+     SF  Alicia Dudeney       def.  Stephanie Schrage    46 63 76(6)
+  > 3-4 Playoff
+      F  Ena Babic            def.  Malkia Ngounoue      63 46 76(4)
+  > South
+      F  Sofia Cabezas        def.  Emily De Oliveira    Default
+     SF  Emily De Oliveira    def.  Karolina Berankova   Default
+     SF  Sofia Cabezas        def.  Maggie Cubitt        75 61
+  > Southwest
+      F  Peyton Pesavento     def.  Nicole Kiefer        63 63
+  > Northwest
+      F  Stephanie Schrage    def.  Yuliia Starodubtseva Default
+ > Cone Singles
+  > East
+      F  Elizabeth Scotty     def.  Carly Briggs         61 61
+     SF  Elizabeth Scotty     def.  Kelly Chen           61 61
+     SF  Carly Briggs         def.  Tatsiana Sasnouskaya Walkover
+     QF  Elizabeth Scotty     def.  Lucia Quiterio       61 62
+     QF  Kelly Chen           def.  Sydney Berlin        62 64
+     QF  Tatsiana Sasnouskaya def.  Christina Hand       62 64
+     QF  Carly Briggs         def.  Mariana Manyoma Vel… 60 63
+     16  Lucia Quiterio       def.  Mia Rabinowitz       62 60
+     16  Sydney Berlin        def.  Miska Kadleckova     63 75
+     16  Kelly Chen           def.  Saby Nihalani        61 63
+     16  Tatsiana Sasnouskaya def.  Maia Sung            46 61 76(2)
+     16  Christina Hand       def.  Yu Chen              26 76(7) 76(9)
+     16  Mariana Manyoma Vel… def.  Sofia Munera         Default
+     16  Carly Briggs         def.  Kacie Harvey         60 63
+  > West
+      F  Miska Kadleckova     def.  Maia Sung            46 63 76(8)
+     SF  Miska Kadleckova     def.  Mia Rabinowitz       61 61
+     SF  Maia Sung            def.  Kacie Harvey         Default
+     QF  Miska Kadleckova     def.  Saby Nihalani        57 64 76(4)
+     QF  Maia Sung            def.  Yu Chen              76(9) 26 76(8)
+  > North
+      F  Lucia Quiterio       def.  Christina Hand       64 63
+     SF  Lucia Quiterio       def.  Sydney Berlin        64 76(2)
+     SF  Christina Hand       def.  Mariana Manyoma Vel… 76(7) 63
+  > 3-4 Playoff
+      F  Kelly Chen           def.  Tatsiana Sasnouskaya Default
+  > South
+      F  Yu Chen              def.  Saby Nihalani        63 16 76(4)
+  > Southwest
+      F  Kacie Harvey         def.  Mia Rabinowitz       62 62
+  > Northwest
+      F  Sydney Berlin        def.  Mariana Manyoma Vel… 63 63
+ > Kenfield Singles
+  > East
+      F  Thasaporn Naklo      def.  Anika Yarlagadda     64 64
+     SF  Thasaporn Naklo      def.  Clarissa Hand        63 62
+     SF  Anika Yarlagadda     def.  Safiya Carrington    75 76(4)
+     QF  Thasaporn Naklo      def.  Amber ODell          64 62
+     QF  Clarissa Hand        def.  Casie Wooten         64 36 75
+     QF  Anika Yarlagadda     def.  Elizabeth Coleman    75 36 76(5)
+     QF  Safiya Carrington    def.  Marlee Zein          64 16 76(6)
+     16  Thasaporn Naklo      def.  Shahar Biran         62 60
+     16  Amber ODell          def.  Nina Geissler        46 75 76(10)
+     16  Casie Wooten         def.  Zoe Howard           63 Ret.
+     16  Clarissa Hand        def.  Alle Sanford         76(5) 75
+     16  Anika Yarlagadda     def.  Tiffany Lagarde      62 Ret.
+     16  Elizabeth Coleman    def.  Adeline Flach        62 62
+     16  Safiya Carrington    def.  Sofia Johnson        61 46 76(10)
+     16  Marlee Zein          def.  Raffaela Alhach      63 76(4)
+  > West
+      F  Alle Sanford         def.  Sofia Johnson        61 63
+     SF  Alle Sanford         def.  Shahar Biran         61 63
+     SF  Sofia Johnson        def.  Adeline Flach        16 63 76(5)
+     QF  Shahar Biran         def.  Nina Geissler        76(2) 62
+     QF  Alle Sanford         def.  Zoe Howard           Default
+     QF  Adeline Flach        def.  Tiffany Lagarde      Default
+     QF  Sofia Johnson        def.  Raffaela Alhach      64 62
+  > North
+      F  Casie Wooten         def.  Elizabeth Coleman    46 64 76(3)
+     SF  Casie Wooten         def.  Amber ODell          64 62
+     SF  Elizabeth Coleman    def.  Marlee Zein          63 64
+  > 3-4 Playoff
+      F  Safiya Carrington    def.  Clarissa Hand        Default
+  > South
+      F  Nina Geissler        def.  Tiffany Lagarde      Default
+     SF  Nina Geissler        def.  Zoe Howard           Default
+     SF  Tiffany Lagarde      def.  Raffaela Alhach      64 76(2)
+  > Southwest
+      F  Adeline Flach        def.  Shahar Biran         75 76(4)
+  > Northwest
+      F  Amber ODell          def.  Marlee Zein          Default
+ > Extra Matches
+  > Main
+     QF  Stephanie Schrage    def.  Nina Geissler        16 64 76(7)
+     QF  Sofia Cabezas        def.  Saby Nihalani        63 63
+     QF  Ruxi Schech          def.  Amber ODell          64 64
+     QF  Raffaela Alhach      def.  Sara McClure         61 62
 ~~~
 
 <a name="21-07548"></a>
@@ -2704,6 +3352,106 @@
      32Q      Lexi Penn            def.      Keelan Williams      60 64
 ~~~
 
+<a name="21-74684"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════════
+  Division II Men’s & Women's West ITA Regional Championships
+  Dates: Sep 29 - Oct 3
+  Host: Fresno Pacific University (M)
+══════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Women's Open Singles
+  > Main
+       F  (6) Eleonora Liga        def.  (1) Colbeyshae Emery     63 06 [1]
+      SF  (1) Colbeyshae Emery     def.  (7) Arianna Audelo       63 76(9)
+      SF  (6) Eleonora Liga        def.  (2) Sofia Ragona         64 61
+      QF  (1) Colbeyshae Emery     def. (15) Viktoria Leth        61 63
+      QF  (7) Arianna Audelo       def. (16) Faith Pearson        61 62
+      QF  (6) Eleonora Liga        def.  (9) Heather Richards     62 61
+      QF  (2) Sofia Ragona         def.  (8) Mary Brascia         61 61
+      16  (1) Colbeyshae Emery     def.      Sarah Olmos          62 63
+      16 (15) Viktoria Leth        def.  (5) Thelma Sepulveda     61 63
+      16 (16) Faith Pearson        def.      Amanda Letzring      64 61
+      16  (7) Arianna Audelo       def.      Makenna Livingston   61 62
+      16  (6) Eleonora Liga        def. (10) Yun Nicole Shiau     60 63
+      16  (9) Heather Richards     def.  (3) Madison Kane         63 46 [8]
+      16  (8) Mary Brascia         def. (14) Maria Borodi         64 63
+      16  (2) Sofia Ragona         def. (11) Audrey Rafols        46 61 [4]
+      32  (1) Colbeyshae Emery     def.      Lilly Stienemeier    63 64
+      32      Sarah Olmos          def. (13) Samantha Neilson     64 76(4)
+      32  (5) Thelma Sepulveda     def.      Elise Leik           61 76(5)
+      32 (15) Viktoria Leth        def.      Alyssa Zayat         61 62
+      32      Amanda Letzring      def.  (4) Carolyn Brooner      63 16 [9]
+      32 (16) Faith Pearson        def.      Sanne Brull          75 63
+      32  (7) Arianna Audelo       def.      April Wong           36 61 [6]
+      32      Makenna Livingston   def.      Erica Hellbe         75 76(5)
+      32 (10) Yun Nicole Shiau     def.      Deimante Bulatovaite 60 62
+      32  (6) Eleonora Liga        def.      Alice Di Matteo      60 60
+      32  (9) Heather Richards     def.      Sakura Kurokawa      62 61
+      32  (3) Madison Kane         def.      Tiffany Carrillo     36 63 [8]
+      32 (14) Maria Borodi         def.      Marie Cool           62 60
+      32  (8) Mary Brascia         def.      Amber Huk            64 62
+      32 (11) Audrey Rafols        def.      Alicia Da Re         62 62
+      32  (2) Sofia Ragona         def.      Alice Marques        60 63
+      64      Lilly Stienemeier    def.      Julianna Campos      61 64
+      64 (13) Samantha Neilson     def.      Maike Waldburger     76(4) 62
+      64      Sarah Olmos          def.      Brooke Fager         64 46 [4]
+      64  (5) Thelma Sepulveda     def.      Ava Neuburger-Higby  60 64
+      64      Elise Leik           def.      Julia Rydel          61 57 [5]
+      64 (15) Viktoria Leth        def.      Gaby Carvajal        62 75
+      64      Alyssa Zayat         def.      Ghada Alajeely       61 61
+      64      Amanda Letzring      def.      Savaughna Mayo       46 62 [7]
+      64 (16) Faith Pearson        def.      Alex Mann            62 76(6)
+      64      Sanne Brull          def.      Kate Bolton          60 62
+      64  (7) Arianna Audelo       def.      Isabelle Coman       61 61
+      64      April Wong           def.      Sylvana Talamantes   61 61
+      64      Makenna Livingston   def. (12) Maria Vittoria Casu… 75 62
+      64      Erica Hellbe         def.      Maya Young           26 75 [6]
+      64      Deimante Bulatovaite def.      Zoe Coggins          62 26 [9]
+      64 (10) Yun Nicole Shiau     def.      Courtlyn Lam         61 60
+      64      Alice Di Matteo      def.      Aitana Comas Adam    46 61 [3]
+      64  (6) Eleonora Liga        def.      Maya Arksey          60 61
+      64      Sakura Kurokawa      def.      Isabel Heras         64 46 [7]
+      64  (9) Heather Richards     def.      Lilly Mcneill        75 62
+      64      Tiffany Carrillo     def.      Anna Hoerter         61 60
+      64      Marie Cool           def.      Halle Romero         64 36 [6]
+      64 (14) Maria Borodi         def.      Haley Garcia         63 61
+      64      Amber Huk            def.      Gionna Parsa         60 60
+      64  (8) Mary Brascia         def.      Ella Lavender        60 61
+      64      Alicia Da Re         def.      Macy Richards        62 64
+      64 (11) Audrey Rafols        def.      Angelique Friedrich  63 76(5)
+      64      Alice Marques        def.      Alyssa Tay           63 61
+  > Consolation
+       F      Ava Neuburger-Higby  def.      Maya Arksey          62 64
+      SF      Ava Neuburger-Higby  def.      Isabelle Coman       Walkover
+      SF      Maya Arksey          def.      Alyssa Tay           61 61
+      QF      Ava Neuburger-Higby  def.      Maike Waldburger     60 62
+      QF      Isabelle Coman       def.      Alex Mann            Walkover
+      QF      Maya Arksey          def.      Lilly Mcneill        Walkover
+      QF      Alyssa Tay           def.      Haley Garcia         21 Ret.
+      16      Maike Waldburger     def.      Julianna Campos      60 76(5)
+      16      Ava Neuburger-Higby  def.      Gaby Carvajal        Walkover
+      16      Alex Mann            def.      Savaughna Mayo       61 64
+      16      Isabelle Coman       def. (12) Maria Vittoria Casu… 62 62
+      16      Maya Arksey          def.      Zoe Coggins          46 62 [2]
+      16      Lilly Mcneill        def.      Anna Hoerter         60 61
+      16      Haley Garcia         def.      Ella Lavender        42 Ret.
+      16      Alyssa Tay           def.      Angelique Friedrich  Walkover
+      32      Savaughna Mayo       def.  (4) Carolyn Brooner      Walkover
+     32Q      Maike Waldburger     def.      Brooke Fager         64 62
+     32Q      Ava Neuburger-Higby  def.      Julia Rydel          62 60
+     32Q      Gaby Carvajal        def.      Ghada Alajeely       60 62
+     32Q      Alex Mann            def.      Kate Bolton          63 63
+     32Q      Isabelle Coman       def.      Sylvana Talamantes   60 60
+     32Q (12) Maria Vittoria Casu… def.      Maya Young           63 62
+     32Q      Zoe Coggins          def.      Courtlyn Lam         62 64
+     32Q      Maya Arksey          def.      Aitana Comas Adam    30 Ret.
+     32Q      Lilly Mcneill        def.      Isabel Heras         61 67(3) [9]
+     32Q      Haley Garcia         def.      Halle Romero         75 57 [6]
+     32Q      Ella Lavender        def.      Gionna Parsa         62 76(3)
+     32Q      Angelique Friedrich  def.      Macy Richards        62 62
+~~~
+
 <a name="21-64584"></a>
 ~~~
 ═════════════════════════════════════════════════════════════════════════════
@@ -3250,6 +3998,194 @@
       QF      Emma Boulanger       def.  (2) Hannah Keltner       36 64 [7]
       16      Daniella Rodriquez   def.      Elena Aventa         62 63
       16      McKenzie Carroll     def.      Clara Brisman        62 63
+~~~
+
+<a name="21-76964"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  Junior College Men's and Women's Northern California ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: American River College (M)
+═════════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw
+  > Main
+      F (4) Carla Montaruli   def. (2) Bailey Greenwell  63 64
+     SF (4) Carla Montaruli   def. (1) Seraphine Vossen  62 62
+     SF (2) Bailey Greenwell  def. (3) Abigail Proktor   63 61
+     QF (1) Seraphine Vossen  def. (6) Sonya Hu          62 60
+     QF (4) Carla Montaruli   def. (5) Brunia Boliscar   63 62
+     QF (3) Abigail Proktor   def.     Sarah White       60 63
+     QF (2) Bailey Greenwell  def.     Katelyn Crismon   60 63
+     16 (1) Seraphine Vossen  def.     Halie Gregory     62 60
+     16 (6) Sonya Hu          def.     Sarah Crismon     61 60
+     16 (5) Brunia Boliscar   def. (8) Sofia Mazzola     60 75
+     16 (4) Carla Montaruli   def.     Michaela Llewelyn 62 60
+     16 (3) Abigail Proktor   def.     Gisseli Aguilar   60 60
+     16     Sarah White       def.     Anahi Soto        61 60
+     16     Katelyn Crismon   def. (7) Haley VanOrman    75 60
+     16 (2) Bailey Greenwell  def.     Tayla Barry       60 60
+     32 (1) Seraphine Vossen  def.     Jasmine Pearson   60 60
+     32     Halie Gregory     def.     Sarah Reade       61 62
+     32     Sarah Crismon     def.     Calista McShane   36 64 [4]
+     32 (6) Sonya Hu          def.     Melanie Mestre    60 60
+     32 (5) Brunia Boliscar   def.     Nea Kk            60 60
+     32 (8) Sofia Mazzola     def.     Natasha Sackx     60 61
+     32     Michaela Llewelyn def.     Kendra Branch     46 62 [5]
+     32 (4) Carla Montaruli   def.     Saige Fleming     61 61
+     32 (3) Abigail Proktor   def.     McKenna Rennoult  60 61
+     32     Gisseli Aguilar   def.     Emily Cowan       61 63
+     32     Sarah White       def.     Jori Jacobs       63 64
+     32 (7) Haley VanOrman    def.     Emily Laursen     61 61
+     32     Katelyn Crismon   def.     Mira Espino       62 62
+     32     Tayla Barry       def.     Emilia White      60 62
+     32 (2) Bailey Greenwell  def.     Brianna Nguyen    61 60
+~~~
+
+<a name="21-84365"></a>
+~~~
+════════════════════════════════════════════════════════════════════════════════════
+  Junior College Men's and Women's Southern ITA Regional Small College Championships
+  Dates: Sep 29 - Oct 3
+  Host: Jones College (M)
+════════════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Flight A
+  > Main
+       F (1) Ana Julissa De Mata def. (2) Tanyaradzwa Kaome   62 76(5)
+      SF (1) Ana Julissa De Mata def.     Valeria Rodriguez   62 60
+      SF (2) Tanyaradzwa Kaome   def. (3) Juliana Madrid      64 62
+      QF (1) Ana Julissa De Mata def.     Itzel Lara Gonzalez 63 62
+      QF     Valeria Rodriguez   def.     Camila Vanegas      62 63
+      QF (3) Juliana Madrid      def.     Addy Seward         63 62
+      QF (2) Tanyaradzwa Kaome   def.     Mia Hoddinghaus     62 61
+      16     Itzel Lara Gonzalez def.     Joanna Atchley      62 67(6) [6]
+      16     Valeria Rodriguez   def.     Kasey Kent          62 62
+      16     Addy Seward         def.     Isabella Warham     63 36 [5]
+      16 (3) Juliana Madrid      def.     Gaia del Sordo      62 61
+      16     Mia Hoddinghaus     def.     Carlee Teague       60 62
+      16 (2) Tanyaradzwa Kaome   def.     Maud Tsaura         63 63
+  > Consolation
+      SF     Camila Vanegas      def.     Joanna Atchley      81
+      SF     Maud Tsaura         def.     Gaia del Sordo      85
+      QF     Camila Vanegas      def.     Kasey Kent          81
+      QQ     Gaia del Sordo      def.     Isabella Warham     84
+      QQ     Maud Tsaura         def.     Carlee Teague       82
+ > Flight B
+  > Main
+       F     Sarah Powell        def.     Sarah Cline         61 62
+      SF     Sarah Powell        def.     Michaela Anderson   64 75
+      SF     Sarah Cline         def.     Emi Smith           64 61
+      QF     Sarah Powell        def.     Alyssa Steed        61 61
+      QF     Michaela Anderson   def.     Kamryn Rodriguez    75 64
+      QF     Emi Smith           def.     Hayden Hensarling   64 61
+      QF     Sarah Cline         def.     Myesha Nealon       62 61
+      16     Sarah Powell        def.     Harper Bryan        61 63
+      16     Alyssa Steed        def.     Brianna Ball        62 62
+      16     Michaela Anderson   def.     Nyesha Nealon       62 62
+      16     Kamryn Rodriguez    def.     Morgan Ross         63 63
+      16     Emi Smith           def.     Emma Pager          62 64
+      16     Hayden Hensarling   def.     Sydney Ostrander    62 63
+      16     Myesha Nealon       def.     Imani Ivory         61 63
+      16     Sarah Cline         def.     Allie Johnson       64 64
+      32     Sarah Powell        def.     Anesha Smith        61 62
+      32     Alyssa Steed        def.     Ashleigh Chelette   61 76(4)
+      32     Michaela Anderson   def.     Kolbi Holifield     61 62
+      32     Morgan Ross         def.     Taji Williams       61 61
+      32     Kamryn Rodriguez    def.     Ashlegh Wine        63 62
+      32     Emi Smith           def.     Reagan Salter       63 60
+      32     Hayden Hensarling   def.     Ralie Boles         63 64
+      32     Myesha Nealon       def.     Madelyn Angle       62 63
+      32     Allie Johnson       def.     Bayley Askin        46 75 [7]
+  > Consolation
+       F     Taji Williams       def.     Sydney Ostrander    26 75 [7]
+      SF     Taji Williams       def.     Harper Bryan        84
+      SF     Sydney Ostrander    def.     Bayley Askin        Walkover
+      QF     Harper Bryan        def.     Ashleigh Chelette   71 Ret.
+      QF     Taji Williams       def.     Kolbi Holifield     86
+      QF     Sydney Ostrander    def.     Reagan Salter       82
+      QF     Bayley Askin        def.     Imani Ivory         83
+      16     Harper Bryan        def.     Anesha Smith        81
+      16     Ashleigh Chelette   def.     Brianna Ball        82
+      16     Kolbi Holifield     def.     Nyesha Nealon       86
+      16     Reagan Salter       def.     Emma Pager          86
+      16     Sydney Ostrander    def.     Ralie Boles         84
+      16     Imani Ivory         def.     Madelyn Angle       81
+     16Q     Taji Williams       def.     Ashlegh Wine        80
+ > Flight C
+  > Main
+       F     Sophie Endt         def.     Isabella Sanders    61 60
+      SF     Sophie Endt         def.     Madison Gregg       62 61
+      SF     Isabella Sanders    def.     Shelby Nipp         76(6) 63
+      QF     Madison Gregg       def.     Tyler Athas         62 61
+      QF     Sophie Endt         def.     Madison Embry       61 62
+      QF     Isabella Sanders    def.     Madelyn James       62 60
+      QF     Shelby Nipp         def.     Kendall Simmons     36 62 [5]
+      16     Madison Gregg       def.     Maggie Franks       63 61
+      16     Madison Embry       def.     Caroline Powell     Walkover
+      16     Madelyn James       def.     Ivey Bruntlett      63 46 [1]
+      16     Shelby Nipp         def.     Josie Vuyovich      62 16 [8]
+  > Consolation
+       F     Ivey Bruntlett      def.     Tyler Athas         62 60
+      SF     Tyler Athas         def.     Madison Embry       84
+      SF     Ivey Bruntlett      def.     Josie Vuyovich      80
+      QF     Tyler Athas         def.     Maggie Franks       82
+      QF     Madison Embry       def.     Caroline Powell     Walkover
+      QF     Josie Vuyovich      def.     Kendall Simmons     50 Ret.
+~~~
+
+<a name="21-33851"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════════
+  NAIA Men's & Women’s Gulf ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: Xavier University/LA (M)
+═══════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Women's Singles Draw
+  > East
+      F (1) Kyra Akinnibi       def. (2) Aisha Niyonkuru      60 61
+     SF (1) Kyra Akinnibi       def. (4) Kareemah Muhammad    62 63
+     SF (2) Aisha Niyonkuru     def. (3) Tsvetanka Trifonova  46 61 [13]
+     QF (1) Kyra Akinnibi       def.     Kristina Kozakova    61 61
+     QF (4) Kareemah Muhammad   def. (5) Lucy Carpenter       63 26 [1]
+     QF (3) Tsvetanka Trifonova def.     Maria Alvarez        61 64
+     QF (2) Aisha Niyonkuru     def.     Juliette Finch       61 61
+     16 (1) Kyra Akinnibi       def.     Annemart Kleijn      61 62
+     16     Kristina Kozakova   def. (8) Lydia Oviedo         60 61
+     16 (5) Lucy Carpenter      def.     Lindsey Dixon        61 60
+     16 (4) Kareemah Muhammad   def.     Valentina Largacha   62 26 [7]
+     16 (3) Tsvetanka Trifonova def.     Fatima Vasquez       62 61
+     16     Maria Alvarez       def.     Tianna Dixon         61 64
+     16     Juliette Finch      def. (7) Olivia Scattinni     63 62
+     16 (2) Aisha Niyonkuru     def.     Candela Bonivardi    64 76(10)
+     32 (1) Kyra Akinnibi       def.     Kheidyvel Ibarra     61 60
+     32     Annemart Kleijn     def.     Sabrina Goetzen      64 75
+     32     Kristina Kozakova   def.     Valaine Clarke       76(4) 16 [8]
+     32 (8) Lydia Oviedo        def.     Xiana Garcia         36 61 [5]
+     32 (5) Lucy Carpenter      def.     Marina Prieto        63 62
+     32     Lindsey Dixon       def.     Kassie Newton        62 60
+     32 (4) Kareemah Muhammad   def.     Belen Blasco         61 61
+     32 (3) Tsvetanka Trifonova def.     Lisa Germain         61 57 [5]
+     32     Fatima Vasquez      def.     Marie Peters         64 60
+     32     Tianna Dixon        def.     Lisa-Marie Roussign… 63 61
+     32     Maria Alvarez       def. (6) Valeriya Shurbina    64 16 [5]
+     32 (7) Olivia Scattinni    def.     Natalie Scott        60 61
+     32     Juliette Finch      def.     Chloe Webster        62 62
+     32     Candela Bonivardi   def.     Madelynn Chavez      60 62
+     32 (2) Aisha Niyonkuru     def.     Kiara MacKay         60 62
+     64     Kheidyvel Ibarra    def.     Mathilde Camus       06 61 [5]
+     64     Valaine Clarke      def.     Elly Carpenter       57 64 [10]
+     64     Xiana Garcia        def.     Nele Haas            62 61
+     64     Marina Prieto       def.     Annabella Natalini   60 61
+     64     Valentina Largacha  def.     Sara Engel           64 61
+     64     Belen Blasco        def.     Selma Fereres        60 61
+     64     Lisa Germain        def.     Manuela Alban        64 63
+     64     Maria Alvarez       def.     Ana Cecilia Castillo 62 62
+     64     Natalie Scott       def.     Ariana Stephens      26 62 [8]
+     64     Juliette Finch      def.     Isabella Leano       76(5) 67(11) [5]
+     64     Candela Bonivardi   def.     Wijitbanjong Pakkaro 60 62
+     64     Kiara MacKay        def.     Abigale Lucht        63 60
 ~~~
 
 <a name="21-24046"></a>

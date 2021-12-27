@@ -19,14 +19,16 @@
 - 10/15/2021 - [UTC-Steve Baras Invitational](#21-41868) ([Results](#21-41868) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 - 10/16/2021 - [Purdue University Northwest Fall Invitational](#21-60014) ([Results](#21-60014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityNorthwestM/Tournaments/Overview/A63832A0-768B-401A-B044-F7960762A033" target="_blank">Draws</a>)  
+- 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
+- 10/16/2021 - [Wesleyan Invitational](#21-80073) ([Results](#21-80073) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Draws</a>)  
 
 <a name="21-27941"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   C.L Varner Invitational
   Dates: Oct 8-12, 2021
   Host: Rollins College (M)
-══════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Hidden Dual
   > Main
@@ -83,11 +85,11 @@
 
 <a name="21-42792"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
   Ball State Fall Invite
   Dates: Oct 15-17, 2021
   Host: Ball State University (M)
-════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > Main
@@ -145,11 +147,11 @@
 
 <a name="21-28974"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Belmont Fall Invite
   Dates: Oct 11-12, 2021
   Host: Belmont University (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Belmont vs. Lipscomb
   > Main
@@ -202,11 +204,11 @@
 
 <a name="21-69055"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Bulldog Cup
   Dates: Oct 15-17, 2021
   Host: Drake University (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Singles Round 1 (Friday)
   > Main
@@ -254,11 +256,11 @@
 
 <a name="21-21760"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
   Commodore Classic
   Dates: Oct 15-17, 2021
   Host: Vanderbilt University (M)
-═══════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Matches Day 1
   > Main
@@ -381,11 +383,11 @@
 
 <a name="21-23395"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Regional Championship
   Dates: Oct 14-17, 2021
   Host: U.S. Naval Academy (M)
-══════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main
   > Main
@@ -556,11 +558,11 @@
 
 <a name="21-08423"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Atlantic Regional Championship
   Dates: Oct 14-17, 2021
   Host: Liberty University (M)
-═══════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
@@ -789,11 +791,11 @@
 
 <a name="21-05800"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: Saint Mary's College/CA (M)
-══════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
@@ -883,11 +885,11 @@
 
 <a name="21-10002"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Northwest Regional Championship
   Dates: Oct 13-17, 2021
   Host: University Of Oregon (M)
-═════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw
   > Main
@@ -948,11 +950,11 @@
 
 <a name="21-67380"></a>
 ~~~
-════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Division I Men's Southern Regional Championship
   Dates: Oct 14-19, 2021
   Host: Auburn University (M)
-════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main Draw
   > Main
@@ -1295,11 +1297,11 @@
 
 <a name="21-27355"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Louisville Invitational
   Dates: Oct 15-17, 2021
   Host: University Of Louisville (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Draw A
   > East
@@ -1406,11 +1408,11 @@
 
 <a name="21-62211"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   San Diego State Fall Invite
   Dates: Oct 15-17, 2021
   Host: San Diego State University (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Day One Singles
   > Main
@@ -1446,11 +1448,11 @@
 
 <a name="21-41868"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   UTC-Steve Baras Invitational
   Dates: Oct 15-17, 2021
   Host: Univ. Of Tennessee, Chattanooga (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Utc/ttu
   > Main
@@ -1529,11 +1531,11 @@
 
 <a name="21-00186"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
   ITA Cup
   Dates: Oct 14-17, 2021
   Host: ITA
-═════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Division II
   > East
@@ -1649,11 +1651,11 @@
 
 <a name="21-60014"></a>
 ~~~
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
   Purdue University Northwest Fall Invitational
   Dates: Oct 16-17, 2021
   Host: Purdue University Northwest (M)
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Flight A
   > Main
@@ -1700,6 +1702,151 @@
      QF  David Pluszczyk      def.  Andrew Swirczek      57 64 [5]
   > Consolation
      SQ  Andrew Swirczek      def.  Thomas Schultz       62 61
+~~~
+
+<a name="21-98443"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  Saint Leo Lion Fall Invitational - Men
+  Dates: Oct 15-17, 2021
+  Host: Saint Leo University (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight A
+  > East
+      F  Bruno Faletto        def.  Vincent Thiel        64 63
+     SF  Bruno Faletto        def.  Ramiro Rincon        63 62
+     SF  Vincent Thiel        def.  Santino Morel        62 62
+     QF  Bruno Faletto        def.  Bernardo Tajada      60 64
+     QF  Ramiro Rincon        def.  Victor De Oliveira   75 06 [6]
+     QF  Santino Morel        def.  Raul Safont Martinez 64 75
+     QF  Vincent Thiel        def.  Enrique Martinez     62 61
+  > West
+      F  Raul Safont Martinez def.  Victor De Oliveira   76(5) Ret.
+     SF  Victor De Oliveira   def.  Bernardo Tajada      64 63
+     SF  Raul Safont Martinez def.  Enrique Martinez     46 75 [5]
+  > 3-4 Playoff
+      F  Santino Morel        def.  Ramiro Rincon        64 46 [7]
+  > South
+      F  Bernardo Tajada      def.  Enrique Martinez     64 63
+ > Flight B
+  > East
+      F  Nicolas Bacella      def.  Lluc Camps           62 60
+     SF  Nicolas Bacella      def.  Christian Della Cio… 60 61
+     SF  Lluc Camps           def.  Ghali Mensour        63 63
+     QF  Nicolas Bacella      def.  Filipe Gil           61 61
+     QF  Christian Della Cio… def.  Jacob Turley         75 75
+     QF  Lluc Camps           def.  Thomas Andrews       62 64
+     QF  Ghali Mensour        def.  Diego Menendez Vina  61 57 [9]
+  > West
+      F  Jacob Turley         def.  Diego Menendez Vina  Walkover
+     SF  Jacob Turley         def.  Filipe Gil           06 63 [8]
+     SF  Diego Menendez Vina  def.  Thomas Andrews       46 63 [7]
+  > 3-4 Playoff
+      F  Ghali Mensour        def.  Christian Della Cio… 62 62
+  > South
+      F  Thomas Andrews       def.  Filipe Gil           63 61
+ > Flight C
+  > East
+      F  Luis Iriarte         def.  Lucas Ribas          61 62
+     SF  Lucas Ribas          def.  Willem van den Akker 75 63
+     SF  Luis Iriarte         def.  Jaewoo Choi          62 60
+     QF  Willem van den Akker def.  Tyler Glowaki        61 61
+     QF  Lucas Ribas          def.  Richard Freemann     60 63
+     QF  Jaewoo Choi          def.  Theodore Preiswerk   61 63
+     QF  Luis Iriarte         def.  Juan Patino Pabon    61 60
+  > West
+     SF  Richard Freemann     def.  Tyler Glowaki        76(1) 64
+     SF  Juan Patino Pabon    def.  Theodore Preiswerk   62 64
+  > 3-4 Playoff
+      F  Willem van den Akker def.  Jaewoo Choi          46 60 [7]
+ > Flight D
+  > East
+      F  Corentin Venot       def.  Kayne Trustfull      46 63 [7]
+     SF  Kayne Trustfull      def.  Bernardo Gandara     61 61
+     SF  Corentin Venot       def.  Miguel Torrenegra    61 61
+     QF  Bernardo Gandara     def.  Miguel Ferreira      60 62
+     QF  Corentin Venot       def.  William Priddy       62 63
+  > West
+      F  William Priddy       def.  Miguel Ferreira      61 61
+ > Flight E
+  > Main
+     R3  Yosue Noa            def.  Miguel Binnios       61 63
+     R3  Jose Moreno          def.  Jake Edwards         62 62
+     R2  Jose Moreno          def.  Miguel Binnios       60 63
+     R2  Yosue Noa            def.  Jake Edwards         61 63
+     R1  Yosue Noa            def.  Jose Moreno          36 63 [9]
+     R1  Miguel Binnios       def.  Jake Edwards         64 76(5)
+ > Extra Matches - Sunday
+  > Main
+     QF  Tyler Glowaki        def.  Juan Patino Pabon    62 36 [8]
+     QF  William Priddy       def.  Bernardo Gandara     63 75
+     QF  Miguel Torrenegra    def.  Miguel Ferreira      75 63
+ > Extra Matches
+  > Main
+      F  Jacob Turley         def.  Richard Freemann     76(4) 62
+~~~
+
+<a name="21-80073"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Wesleyan Invitational
+  Dates: Oct 16-17, 2021
+  Host: Wesleyan University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > A Main
+  > Main
+      F (1) Tristan Bradley  def.     Andrew Finkelman  63 76(4)
+     SF (1) Tristan Bradley  def.     Reid Staples      67(1) 76(3) [8]
+     SF     Andrew Finkelman def.     Ethan Bradley     75 62
+     QF (1) Tristan Bradley  def.     Peter Anker       76(2) 63
+     QF     Reid Staples     def. (3) Noah Lilienthal   63 67(4) [8]
+     QF     Andrew Finkelman def. (4) Kian Yazdi        60 61
+     QF     Ethan Bradley    def.     Oscar Yang        76(5) 75
+     16 (1) Tristan Bradley  def.     Ole Lepsoe        76(6) 61
+     16     Peter Anker      def.     Beekman Schaeffer 62 61
+     16     Reid Staples     def.     Zihao Yuan        62 62
+     16 (3) Noah Lilienthal  def.     Zach Hilty        64 62
+     16 (4) Kian Yazdi       def.     Neel Epstein      61 64
+     16     Andrew Finkelman def.     Wesley Zhang      60 64
+     16     Oscar Yang       def.     Ben Mitchell      61 61
+     16     Ethan Bradley    def. (2) Robby Ward        26 76(5) [12]
+ > B Main
+  > Main
+      F (4) Harry Portnoy    def. (1) Jack Flores       75 26 [7]
+     SF (1) Jack Flores      def. (3) Joe Mairs         46 64 [4]
+     SF (4) Harry Portnoy    def.     Nicholas Garcia   63 00 Ret.
+     QF (1) Jack Flores      def.     Jose Gonzalez     61 63
+     QF (3) Joe Mairs        def.     Geoff Golan       63 61
+     QF (4) Harry Portnoy    def.     Brady Anderson    61 63
+     QF     Nicholas Garcia  def.     David Vilys       36 62 [5]
+     16 (1) Jack Flores      def.     Clark Davis       60 60
+     16     Jose Gonzalez    def.     Max Kim           76(9) 75
+     16     Geoff Golan      def.     Yasha Laskin      63 63
+     16 (3) Joe Mairs        def.     Max Lee           64 75
+     16 (4) Harry Portnoy    def.     Bryan Schick      62 60
+     16     Brady Anderson   def.     Sujan Garapati    63 62
+     16     Nicholas Garcia  def.     Ryan Hyun         61 64
+     16     David Vilys      def. (2) Pieter Breuker    76(4) 76(6)
+ > B Backdraw
+  > Main
+      F     Pieter Breuker   def.     Sujan Garapati    62 60
+     SF     Pieter Breuker   def.     Max Kim           64 62
+     SF     Sujan Garapati   def.     Max Lee           76(4) 63
+     QF     Max Kim          def.     Clark Davis       60 62
+     QF     Pieter Breuker   def.     Ryan Hyun         64 60
+     QF     Sujan Garapati   def.     Bryan Schick      63 62
+     QF     Max Lee          def.     Yasha Laskin      76(6) 64
+ > A Backdraw
+  > Main
+      F     Ole Lepsoe       def.     Ben Mitchell      61 57 [9]
+     SF     Ole Lepsoe       def.     Zihao Yuan        Walkover
+     SF     Ben Mitchell     def.     Neel Epstein      67(2) 64 [6]
+     QF     Ole Lepsoe       def.     Zach Hilty        60 64
+     QF     Zihao Yuan       def.     Clay Gaieski      62 62
+     QF     Neel Epstein     def.     Wesley Zhang      67(6) 64 [7]
+     QF     Ben Mitchell     def.     Robby Ward        67(7) 61 [8]
 ~~~
 
 Return to the [Top](./men_singles_2141.md) &#124; [Home Page](../../index.md)

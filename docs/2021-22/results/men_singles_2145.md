@@ -3,14 +3,16 @@
 **Tournamets with Matches**  
 - 11/5/2021 - [Big 12 Individuals](#21-20291) ([Results](#21-20291) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BaylorUniversityM/Tournaments/Overview/E0ED1E84-1CD4-4CE2-BFCD-F695030458D5" target="_blank">Draws</a>)  
 - 11/12/2021 - [Duck Invite](#21-42872) ([Results](#21-42872) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/530778D7-293A-4C49-A1E2-1FF11D725D81" target="_blank">Draws</a>)  
+- 11/12/2021 - [LMU Invite](#21-95529) ([Results](#21-95529) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaMarymountUniversityM/Tournaments/Overview/5B7216DB-15C4-4F1D-8629-8EAF987FE5AE" target="_blank">Draws</a>)  
+- 11/12/2021 - [Navy Invitational](#21-77642) ([Results](#21-77642) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/398E1516-D93D-455D-B5B2-0D3057E5FCF8" target="_blank">Draws</a>)  
 
 <a name="21-20291"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
   Big 12 Individuals
   Dates: Nov 5-8, 2021
   Host: Baylor University (M)
-═════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Main Draw 32-16
   > Main
@@ -61,11 +63,11 @@
 
 <a name="21-42872"></a>
 ~~~
-═════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
   Duck Invite
   Dates: Nov 12-14, 2021
   Host: University Of Oregon (M)
-═════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════════
  Men's Open Singles
  > Yellow
   > Main
@@ -130,6 +132,150 @@
      16  Nicolas Prieto      def.  Ambroise Marchand   62 64
      16  Oscar Brown         def.  Ryoma Matsushita    64 62
      16  Loris Zisswiller    def.  Eleftherios Neos    57 63 [8]
+~~~
+
+<a name="21-95529"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  LMU Invite
+  Dates: Nov 12-14, 2021
+  Host: Loyola Marymount University (M)
+═════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Singles Day 1
+  > Main
+     32  Francisco Bastias    def.  Rana-Roop Bhullar    62 76(4)
+     32  Bruno Caula          def.  Manoel De Alencar    63 60
+     32  Geronimo Busleiman   def.  Emin Torlic          63 62
+     32  Jose Dominguez Alon… def.  Bruno Krenn          64 46 52 Ret.
+     32  Jayson Blando        def.  Austin Di Giulio     62 63
+     32  Rian Ta              def.  Lincoln Bellamy      64 61
+     32  Riccardo Roberto     def.  David Cierny         75 62
+     32  Mike Mkrtchian       def.  Bodin Zarkovic       76(4) 63
+     32  Felipe Acosta        def.  Rithvik Krishna      62 61
+     32  Ali Amiri            def.  Roko Savin           76(3) 63
+     32  Sergi Mico Fenollar  def.  Noah Zamora          63 75
+     32  Matthew Sah          def.  Javier Ruiz Medina   64 64
+ > Singles Day 2
+  > Main
+     32  Rana-Roop Bhullar    def.  David Cierny         62 62
+     32  Manoel De Alencar    def.  Bodin Zarkovic       63 63
+     32  Felipe Acosta        def.  Jose Dominguez Alon… 63 63
+     32  Emin Torlic          def.  Roko Savin           64 76(4)
+     32  Austin Di Giulio     def.  Sergi Mico Fenollar  26 76(7) 64
+     32  Lincoln Bellamy      def.  Javier Ruiz Medina   26 75 76(2)
+     32  Francisco Bastias    def.  Emmanuel Coste       61 61
+     32  Bruno Caula          def.  Mike Mkrtchian       61 61
+     32  Geronimo Busleiman   def.  Ali Amiri            63 64
+     32  Jayson Blando        def.  Rithvik Krishna      64 64
+     32  Matthew Sah          def.  Rian Ta              06 75 61
+     32  Thomas Smart         def.  Charlie Spina        62 46 62
+ > Singles Day 3
+  > Main
+     32  Rana-Roop Bhullar    def.  Riccardo Roberto     76(4) 61
+     32  Manoel De Alencar    def.  Mike Mkrtchian       62 62
+     32  Jose Dominguez Alon… def.  Ali Amiri            16 64 61
+     32  Emin Torlic          def.  Rithvik Krishna      63 36 63
+     32  Matthew Sah          def.  Austin Di Giulio     63 62
+     32  Noah Zamora          def.  Lincoln Bellamy      62 36 61
+     32  Francisco Bastias    def.  David Cierny         62 75
+     32  Bruno Caula          def.  Bodin Zarkovic       62 63
+     32  Geronimo Busleiman   def.  Felipe Acosta        64 61
+     32  Roko Savin           def.  Jayson Blando        63 67(4) 62
+     32  Sergi Mico Fenollar  def.  Rian Ta              61 63
+     32  Jack Ninteman        def.  Charlie Spina        57 63 63
+~~~
+
+<a name="21-77642"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  Navy Invitational
+  Dates: Nov 12-14, 2021
+  Host: U.S. Naval Academy (M)
+═════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Flight G
+  > Main
+     R5  Guillerme De Medeir… def.  Eric Liu             62 62
+     R5  Nicholas Nguyen      def.  Nicholas Gore        60 62
+     R4  Guillerme De Medeir… def.  Nicholas Gore        Walkover
+     R4  Charlie Penman       def.  Nicholas Nguyen      63 62
+     R3  Charlie Penman       def.  Eric Liu             60 61
+     R3  Guillerme De Medeir… def.  Nicholas Nguyen      64 75
+     R2  Charlie Penman       def.  Nicholas Gore        Walkover
+     R1  Charlie Penman       def.  Guillerme De Medeir… 63 75
+     R1  Eric Liu             def.  Nicholas Gore        64 12 Ret.
+ > Flight F
+  > Main
+     R5  Emiliano Gonzalez    def.  Jan Kjellberg        62 61
+     R5  Akhilendran Indraba… def.  Will Pak             61 46 64
+     R4  Emiliano Gonzalez    def.  Will Pak             61 75
+     R4  Akhilendran Indraba… def.  Diego Laporta        63 06 64
+     R3  Diego Laporta        def.  Jan Kjellberg        63 76(4)
+     R3  Akhilendran Indraba… def.  Emiliano Gonzalez    62 46 63
+     R2  Diego Laporta        def.  Will Pak             63 63
+     R2  Jan Kjellberg        def.  Akhilendran Indraba… 62 63
+     R1  Emiliano Gonzalez    def.  Diego Laporta        64 76(4)
+ > Flight E
+  > Main
+     R5  Conners OBrien       def.  Trent Massam         62 63
+     R5  Alessandro DAnna     def.  Aidan Mahoney        62 61
+     R4  Conners OBrien       def.  Alessandro DAnna     60 62
+     R4  Aidan Mahoney        def.  Cy McLeod            61 62
+     R3  Trent Massam         def.  Cy McLeod            26 64 63
+     R3  Conners OBrien       def.  Aidan Mahoney        63 63
+     R2  Alessandro DAnna     def.  Cy McLeod            46 62 64
+     R2  Trent Massam         def.  Aidan Mahoney        64 62
+     R1  Trent Massam         def.  Alessandro DAnna     62 62
+ > Flight D
+  > Main
+     R5  Roy Tabet            def.  Victor Castro        62 61
+     R4  Roy Tabet            def.  Jack Dabek           64 46 76(3)
+     R4  Victor Castro        def.  Ben Brandherm        61 64
+     R3  Alexandre Gluck      def.  Ben Brandherm        63 67(3) 64
+     R3  Jack Dabek           def.  Victor Castro        76(6) 57 63
+     R2  Roy Tabet            def.  Ben Brandherm        63 57 75
+     R2  Victor Castro        def.  Alexandre Gluck      62 64
+     R1  Jack Dabek           def.  Ben Brandherm        62 64
+     R1  Alexandre Gluck      def.  Roy Tabet            75 16 64
+ > Flight C
+  > Main
+     R5  Theo Winegar         def.  Pascal Wagemaker     75 64
+     R4  Pascal Wagemaker     def.  Lucca Silva          64 63
+     R4  Theo Winegar         def.  Sasha Panyan         76(4) 26 61
+     R3  Sasha Panyan         def.  Gabriel Busato       62 61
+     R3  Lucca Silva          def.  Theo Winegar         76(4) 67(3) 63
+     R2  Pascal Wagemaker     def.  Sasha Panyan         36 63 76(9)
+     R2  Theo Winegar         def.  Gabriel Busato       60 46 76(4)
+     R1  Sasha Panyan         def.  Lucca Silva          63 36 75
+     R1  Gabriel Busato       def.  Pascal Wagemaker     64 75
+ > Flight B
+  > Main
+     R5  Dmitry Bezborodov    def.  Filippos Astreinidis 64 76(3)
+     R4  Jake Fishkin         def.  Dmitry Bezborodov    64 46 [4]
+     R4  Finn Garner          def.  Henry Ruger          Walkover
+     R3  Filippos Astreinidis def.  Henry Ruger          Walkover
+     R3  Finn Garner          def.  Dmitry Bezborodov    63 16 [5]
+     R2  Henry Ruger          def.  Jake Fishkin         62 76(1)
+     R2  Filippos Astreinidis def.  Finn Garner          63 57 63
+     R1  Henry Ruger          def.  Dmitry Bezborodov    64 64
+     R1  Jake Fishkin         def.  Filippos Astreinidis 63 75
+ > Flight A
+  > Main
+     R5  Bill Duo             def.  Pierce Gilheany      57 75 62
+     R5  Derrick Thompson     def.  Niels Van Noord      64 63
+     R4  Niels Van Noord      def.  Pierce Gilheany      64 63
+     R4  Roko Horvat          def.  Derrick Thompson     76(2) 63
+     R3  Roko Horvat          def.  Bill Duo             64 64
+     R2  Roko Horvat          def.  Niels Van Noord      60 62
+     R2  Derrick Thompson     def.  Bill Duo             62 75
+     R1  Roko Horvat          def.  Pierce Gilheany      64 62
+     R1  Bill Duo             def.  Niels Van Noord      62 63
+ > Extra Matches
+  > Main
+     QF  Alexandre Gluck      def.  Guillerme De Medeir… 64 76(3)
+     QF  Aidan Mahoney        def.  Eric Liu             62 62
+     QF  Filippos Astreinidis def.  Pierce Gilheany      21 Ret.
 ~~~
 
 Return to the [Top](./men_singles_2145.md) &#124; [Home Page](../../index.md)

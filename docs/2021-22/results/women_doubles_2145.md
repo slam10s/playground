@@ -4,6 +4,8 @@
 - 11/4/2021 - [Harvard Fall Invitational](#21-06527) ([Results](#21-06527) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/BA786C50-A446-4E92-9092-433D2C4A4F77" target="_blank">Draws</a>)  
 - 11/12/2021 - [Csun Invitational 2021](#21-21713) ([Results](#21-21713) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CaliforniaStateUniversityNorthridgeW/Tournaments/Overview/170B0D52-C31D-4AA5-A14A-C44E18B58FF4" target="_blank">Draws</a>)  
 - 11/12/2021 - [SDSU Fall Tennis Classic # 2](#21-24494) ([Results](#21-24494) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1A40265D-8EC6-44FD-9EB9-1733C02C74CC" target="_blank">Draws</a>)  
+- 11/12/2021 - [Texas A&M Invitational](#21-89648) ([Results](#21-89648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/BF7768E0-4750-49B0-9B29-7EB1AC4016D9" target="_blank">Draws</a>)  
+- 11/12/2021 - [UNF Fall Invite](#21-72331) ([Results](#21-72331) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNorthFloridaW/Tournaments/Overview/0890226F-0B4C-40E3-888D-5CE5DA25876A" target="_blank">Draws</a>)  
 - 11/12/2021 - [Watanabe Classic](#21-21145) ([Results](#21-21145) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/185CF1AE-D437-4098-91A9-6F597D244978" target="_blank">Draws</a>)  
 - 11/12/2021 - [Western Michigan - Betsy Kuhle Invitational](#21-67913) ([Results](#21-67913) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityW/Tournaments/Overview/5D6A7D6E-4DFF-41D5-BA55-AEBEDA326663" target="_blank">Draws</a>)  
 
@@ -155,6 +157,106 @@
      16  Bhadada/Kumar def.  Pham/Tran            62
      16  Chao/Flodin   def.  Von Tersch Pohrer/R… 76(3)
      16  Huang/Tattini def.  Kuo/Stelse           64
+~~~
+
+<a name="21-89648"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Texas A&M Invitational
+  Dates: Nov 12-14, 2021
+  Host: Texas A&M University (M)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Friday Doubles Competition
+  > Main
+     16  Joyce/Sung           def.  Mireles/Stoiana      64
+     16  McBryde/Pielet       def.  Shvets/Sorokko       62
+     16  Rodilosso/Grishuk    def.  Di Laura/Pittman     64
+     16  Baranano/Krywoj      def.  Rijkers/Stara        64
+     16  Sahdiieva/Shcherbin… def.  Babic/Cubitt         63
+     16  Rice/ODonnell        def.  Bridges/Rabinowitz   64
+     16  Malm/Zamburek        def.  Keller/Southerland   62
+     16  Pinto/Thompson       def.  Gownder/Robbins      63
+ > Saturday Doubles Competition
+  > Main
+     16  Stoiana/McBryde      def.  Rice/ODonnell        75
+     16  Bridges/Rabinowitz   def.  Pielet/Mireles       64
+     16  Pittman/Robbins      def.  Keller/Southerland   64
+     16  Shvets/Rodilosso     def.  Herrero Linana/Bara… 62
+     16  Joyce/Sorokko        def.  Sahdiieva/Shcherbin… 64
+     16  Grishuk/Sung         def.  Malm/Zamburek        62
+     16  Babic/Cubitt         def.  Rijkers/Stara        62
+     16  Geissler/Di Laura    def.  Pinto/Thompson       61
+ > Sunday Doubles Competition
+  > Main
+     16  Stoiana/Pielet       def.  Krywoj/Malm          64
+     16  Shvets/Rodilosso     def.  Rijkers/Stara        64
+     16  Babic/Geissler       def.  Joyce/Sorokko        60
+     16  Sahdiieva/Shcherbin… def.  Bridges/Rabinowitz   62
+     16  Herrero Linana/Bara… def.  Rice/ODonnell        63
+     16  McBryde/Mireles      def.  Keller/Southerland   60
+     16  Di Laura/Pittman     def.  Grishuk/Sung         63
+~~~
+
+<a name="21-72331"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  UNF Fall Invite
+  Dates: Nov 12-14, 2021
+  Host: Univ. Of North Florida (W)
+════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight 1
+  > East
+      F  Ansari/Meredith      def.  Gulihur/Oliveira     75
+     SF  Gulihur/Oliveira     def.  Sharma/Mattel        76(5)
+     SF  Ansari/Meredith      def.  Dudeney/Shelton      63
+     QF  Sharma/Mattel        def.  Thompson/Louka       62
+     QF  Gulihur/Oliveira     def.  Jacobs/Allen         62
+     QF  Ansari/Meredith      def.  Berry/Shumacher      62
+     QF  Dudeney/Shelton      def.  Sawhney/Schech       75
+  > West
+     SF  Jacobs/Allen         def.  Thompson/Louka       62
+     SF  Sawhney/Schech       def.  Berry/Shumacher      64
+  > 3-4 Playoff
+      F  Dudeney/Shelton      def.  Sharma/Mattel        76(3)
+ > Flight 2
+  > East
+      F  Petruzelova/Safont   def.  Buyckx/Mayorova      62
+     SF  Buyckx/Mayorova      def.  Dahlstrom/Spee       64
+     SF  Petruzelova/Safont   def.  Nash/Yardley         64
+     QF  Dahlstrom/Spee       def.  Borland/Clark        63
+     QF  Buyckx/Mayorova      def.  Eland/Mjos           63
+     QF  Petruzelova/Safont   def.  Pellicer Perello/Ti… 62
+     QF  Nash/Yardley         def.  Russell/Yelamanchili 64
+  > West
+     SF  Borland/Clark        def.  Eland/Mjos           64
+     SF  Russell/Yelamanchili def.  Pellicer Perello/Ti… 63
+  > 3-4 Playoff
+      F  Dahlstrom/Spee       def.  Nash/Yardley         62
+ > Flight 3
+  > Main
+     R4  Long/Lodzki          def.  Lavery/Theis         63
+     R3  Davis/Chen           def.  Lavery/Theis         63
+     R2  Davis/Chen           def.  Mullen/Zhu           64
+     R1  Lavery/Theis         def.  Amendola/Arkadianou  75
+     R1  Long/Lodzki          def.  Mullen/Zhu           64
+ > Flight 1 Cons Final
+  > Main
+      F  Allen/Arkadianou     def.  Sawhney/Schech       64
+ > Flight 1 South
+  > Main
+      F  Thompson/Louka       def.  Borland/Clark        64
+ > Flight 2 Cons Final
+  > Main
+      F  Russell/Yelamanchili def.  Shumacher/Timmermans 62
+ > Flight 2 South
+  > Main
+      F  Davis/Long           def.  Eland/Mjos           76(3)
+ > Flight 3 Switched Pairs
+  > Main
+     SF  Walther/Zhu          def.  Berry/Mokhtari       63
+     SF  Jacobs/Amendola      def.  Long/Lodzki          60
 ~~~
 
 <a name="21-21145"></a>
