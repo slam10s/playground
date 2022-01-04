@@ -10,7 +10,6 @@
 - 9/17/2021 - [Harvard Fall Classic Invite](#21-11230) ([Results](#21-11230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/8403F31B-4EDA-4CF5-980B-3AFA6395FF9F" target="_blank">Draws</a>)  
 - 9/17/2021 - [Hokie Fall Invite](#21-91737) ([Results](#21-91737) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechW/Tournaments/Overview/ACE61305-F599-467B-BCC6-93D21D1C354A" target="_blank">Draws</a>)  
 - 9/17/2021 - [Idaho State Invite](#21-60419) ([Results](#21-60419) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityW/Tournaments/Overview/A09A4AF9-B31A-4CDC-A222-437B2830D744" target="_blank">Draws</a>)  
-- 9/17/2021 - [Lynn Stevens Invite](#21-42923) ([Results](#21-42923) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CoastalCarolinaUniversityW/Tournaments/Overview/74919BE2-BE17-4E9F-8752-0E9BA855D125" target="_blank">Draws</a>)  
 - 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
 - 9/17/2021 - [NMSU Women's Aggie Invite](#21-47655) ([Results](#21-47655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityW/Tournaments/Overview/AF0C9E05-93DF-4088-A5CF-0B35FDCDBA9C" target="_blank">Draws</a>)  
 - 9/17/2021 - [QU Hidden Duals At Uconn](#21-14835) ([Results](#21-14835) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityW/Tournaments/Overview/F352A24E-56EB-425C-87BE-6168A5386737" target="_blank">Draws</a>)  
@@ -534,31 +533,6 @@
  > Draw C Finals
   > Main
       F  Urso/O Lideadha      def.  Straehle/Lombardi    85
-~~~
-
-<a name="21-42923"></a>
-~~~
-════════════════════════════════════════════════════════════════
-  Lynn Stevens Invite
-  Dates: Sep 17-18, 2021
-  Host: Coastal Carolina University (W)
-════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Coastal vs. Appalachian State
-  > Main
-     R1  Hollins/Hopton       def.  Aleshina/Murphy     63
-     R1  Dodridge/Ryan-Bovey  def.  Urelli/Babayan      64
- > Coastal vs. Wofford
-  > Main
-     R1  Steryous/Wilbur      def.  Hollins/Hopton      76(4)
-     R1  de Samucewicz/Landin def.  Brennan/Fischer     64
-     R1  Hardeman/Woods       def.  Urelli/Babayan      64
-     R1  Tranberg/Massie      def.  Kahrs/Sorensen      64
- > Coastal vs. Char. Southern
-  > Main
-     R1  Hollins/Hopton       def.  Fullana/Marti       63
-     R1  de Samucewicz/Landin def.  Singh/Man           62
-     R1  Urelli/Babayan       def.  Pyritz/Jusufbegovic 62
 ~~~
 
 <a name="21-02376"></a>
@@ -1365,6 +1339,24 @@
            QF     Swartz/Kuhn          def.     Stewart/Yutzy        81
            QF     Elliot/Sherman       def.     Alterman/Keimig      82
            QF     Maxey/Maples         def.     Noel/Gunn            86
+ > KCAC Women's #2 Doubles
+  > Main
+            F     Addey/Chakraborty    def.     Mundo/Paradise       98(5)
+        SemiF     Mundo/Paradise       def.     Wait/Blair           82
+        SemiF     Addey/Chakraborty    def.     Holland/Sharma       83
+     QuarterF     Mundo/Paradise       def.     Trombley/Neel        80
+     QuarterF     Wait/Blair           def.     Carlson/Comley       86
+     QuarterF     Holland/Sharma       def.     Selwesiuk/Archer     83
+     QuarterF     Addey/Chakraborty    def.     Mahoney/Payton       86
+           16     Trombley/Neel        def.     Osterhout/Wood       84
+  > Consolation
+            F     Selwesiuk/Archer     def.     Carlson/Comley       84
+           SF     Carlson/Comley       def.     Osterhout/Wood       80
+           SF     Selwesiuk/Archer     def.     Mahoney/Payton       97
+  > Playoff 5-8
+            F     Mahoney/Payton       def.     Trombley/Neel        84
+  > Playoff 3-4
+            F     Wait/Blair           def.     Holland/Sharma       81
 ~~~
 
 <a name="21-80794"></a>

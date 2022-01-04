@@ -11,7 +11,6 @@
 - 9/17/2021 - [Easley Memorial](#21-68006) ([Results](#21-68006) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Draws</a>)  
 - 9/17/2021 - [Jersey Mike's Seahawk Fall Invitational](#21-41355) ([Results](#21-41355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/B5F60616-E79D-49E3-B226-EA1A8F6D19C9" target="_blank">Draws</a>)  
 - 9/17/2021 - [Lakes Tennis Club Invite](#21-22672) ([Results](#21-22672) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOklahomaM/Tournaments/Overview/C4392CA9-3D72-477E-9550-4FE92C5723E8" target="_blank">Draws</a>)  
-- 9/18/2021 - [Lehigh Men's Tennis Invite](#21-40280) ([Results](#21-40280) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityM/Tournaments/Overview/DC12F12F-6866-4F1B-A1DE-CB27F27A4E6F" target="_blank">Draws</a>)  
 - 9/17/2021 - [Men's Drake Invite](#21-75794) ([Results](#21-75794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/85AE0B8E-86E0-4EAE-A572-CE5DC0BA3FB7" target="_blank">Draws</a>)  
 - 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
 - 9/17/2021 - [OSU Invitational](#21-91661) ([Results](#21-91661) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityM/Tournaments/Overview/D4F405A0-9744-41D5-B40A-884B0F1AADEF" target="_blank">Draws</a>)  
@@ -24,6 +23,7 @@
 - 9/17/2021 - [Division III Men's Northwest ITA Regional Championships](#21-72414) ([Results](#21-72414) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/293CC684-E897-42E1-A5D8-010605E71990" target="_blank">Draws</a>)  
 - 9/19/2021 - [Firebird Challenge](#21-51274) ([Results](#21-51274) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CarthageCollegeM/Tournaments/Overview/0360BE02-00EA-4704-B66F-2ED3ACEF18A1" target="_blank">Draws</a>)  
 - 9/17/2021 - [GPAC Individual](#21-76336) ([Results](#21-76336) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CollegeOfSaintMaryW/Tournaments/Overview/ED2D6427-4EEF-4B11-B240-D89A941AB892" target="_blank">Draws</a>)  
+- 9/18/2021 - [KCAC Individual Tournament](#21-28798) ([Results](#21-28798) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">Draws</a>)  
 - 9/18/2021 - [Limestone Men's Challenger](#21-84230) ([Results](#21-84230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LimestoneUniversityM/Tournaments/Overview/BD22EB5E-C006-486B-9907-D53E0DC6FA01" target="_blank">Draws</a>)  
 - 9/18/2021 - [Middlebury Invitational 2021](#21-64248) ([Results](#21-64248) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeM/Tournaments/Overview/97C4AA58-56BC-46A0-8287-9B7C41BD76A7" target="_blank">Draws</a>)  
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
@@ -35,7 +35,6 @@
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B42D73CC-D8D1-44BE-9EC5-36F6F09D2A2D" target="_blank">2021 MAC Men's Tennis Individual Championship</a>  
 - 9/17/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/QueensCollegeNYM/Tournaments/Overview/B67A83DC-6851-4AC2-B7A6-28ED5F92F065" target="_blank">Division II Men’s East ITA Regional Championships</a>  
 - 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UnionCollegeNYM/Tournaments/Overview/8309738E-9EAA-4A18-8DD4-E29ECE3CA14A" target="_blank">Dutchmen Invitational</a>  
-- 9/18/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SouthwesternCollegeM/Tournaments/Overview/E9E535A4-BE6C-4B3E-903B-6952FEF4F48D" target="_blank">KCAC Individual Tournament</a>  
 - 9/14/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/SwarthmoreCollegeM/Tournaments/Overview/EBF37285-C88B-4F3E-B6EA-6C0DE013DBB8" target="_blank">Swat Men's Tennis Invite</a>  
 
 <a name="21-01301"></a>
@@ -414,44 +413,6 @@
      R3  Krall/Chakravarthi def.  Barnett/Grear     86
      R2  Schlageter/Han     def.  Ribero/Arevalo    86
      R2  Hotard/Muza        def.  Vittar/Sekiguchi  86
-~~~
-
-<a name="21-40280"></a>
-~~~
-═══════════════════════════════════════════════════════════════════
-  Lehigh Men's Tennis Invite
-  Dates: Sep 18-19, 2021
-  Host: Lehigh University (M)
-═══════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Doubles Round 1
-  > Main
-     R4  Elliott/Blekhman     def.  Cadeau/Mayers      85
-     R4  Learner/Kleiman      def.  Dawson/Dunac       82
-     R4  Paul/Bukhalo         def.  Knowles/Martin     83
-     R4  Fishkin/Nakhjavan    def.  Williams/Westbrook 86
-     R4  Morkel/Gore          def.  Silva/Massam       83
-     R4  Olive-Blanco/Hodges  def.  Busato/Zeiler      87(3)
-     R4  OBrien/Mitrovic      def.  Laporta/Dussaubat  87(6)
-     R4  Immink/Schlesinger   def.  Klapman/Pachnev    86
- > Doubles Round 2
-  > Main
-     R4  Cadeau/Mayers        def.  Busato/Zeiler      87(2)
-     R4  Dawson/Dunac         def.  Silva/Massam       85
-     R4  Klapman/Pachnev      def.  Knowles/Martin     86
-     R4  Laporta/Dussaubat    def.  Williams/Westbrook 81
-     R4  Morkel/Hodges        def.  Elliott/Blekhman   86
-     R4  Gore/OBrien          def.  Learner/Kleiman    83
-     R4  Olive-Blanco/Shah    def.  Paul/Bukhalo       85
-     R4  Mitrovic/Schlesinger def.  Nazaroff/Fishkin   86
- > Doubles Round 3
-  > Main
-     R7  Learner/Kleiman      def.  Laporta/Dussaubat  83
-     R7  Klapman/Pachnev      def.  Paul/Bukhalo       83
-     R7  Olive-Blanco/OBrien  def.  Knowles/Martin     86
-     R7  Schlesinger/Shah     def.  Williams/Westbrook 82
-     R3  Elliott/Blekhman     def.  Massam/Busato      87(4)
-     R3  Morkel/Hodges        def.  Dawson/Dunac       84
 ~~~
 
 <a name="21-75794"></a>
@@ -1067,6 +1028,65 @@
      QQ     Ayala/Thompson       def.     Nyugen/Tennant       75
      QQ     Bornemeier/Martin    def.     Mulder/Schorg        63
      QQ     Pacheco/Rodriguez B… def.     DeLeo/Swaney         64
+~~~
+
+<a name="21-28798"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  KCAC Individual Tournament
+  Dates: Sep 18-19, 2021
+  Host: Southwestern College (M)
+═════════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Men's Doubles 1
+  > Main
+            F  Bucek/Cech           def.  Millos/Zych          98(4)
+           SF  Millos/Zych          def.  Martin/Catala        98(3)
+           SF  Bucek/Cech           def.  Kitchin/Moral Tebar  97
+           QF  Millos/Zych          def.  Ware/Sherer          81
+           QF  Martin/Catala        def.  Gudins/Puric         Walkover
+           QF  Bucek/Cech           def.  Prats Nicolas/Reich… 84
+           QF  Kitchin/Moral Tebar  def.  Alexander/Hauschildt 82
+           16  Ware/Sherer          def.  Hernandez Colman/Ri… 83
+           16  Alexander/Hauschildt def.  Alonzo/Isaac         85
+ > Men's Doubles #2
+  > Main
+            F  Erdmann/Mann         def.  Beltran/Komel        86
+        SemiF  Beltran/Komel        def.  Schrader/Singh       84
+        SemiF  Erdmann/Mann         def.  Graham/Hjelm         85
+     QuarterF  Beltran/Komel        def.  Spencer/Reece        81
+     QuarterF  Schrader/Singh       def.  Kutz/Fort            82
+     QuarterF  Graham/Hjelm         def.  Vera/Harkin          85
+     QuarterF  Erdmann/Mann         def.  Dunn/Iozzo           84
+           16  Spencer/Reece        def.  Hash/Comley          86
+           16  Dunn/Iozzo           def.  Eckert/Pastine       81
+  > Consolation
+            F  Kutz/Fort            def.  Vera/Harkin          85
+           SF  Kutz/Fort            def.  Spencer/Reece        82
+           SF  Vera/Harkin          def.  Dunn/Iozzo           82
+           QF  Kutz/Fort            def.  Hash/Comley          84
+           QF  Vera/Harkin          def.  Eckert/Pastine       81
+  > Playoff 5-8
+            F  Dunn/Iozzo           def.  Spencer/Reece        82
+  > Playoff 3-4
+            F  Graham/Hjelm         def.  Schrader/Singh       82
+ > Men's Doubles #3
+  > Main
+            F  Marcano/Murphy       def.  De La O/Tricio       83
+        SemiF  Marcano/Murphy       def.  Aguilera/Quinonez    85
+        SemiF  De La O/Tricio       def.  Quercia/Pluis        84
+     QuarterF  Marcano/Murphy       def.  Martin/Watson        82
+     QuarterF  Aguilera/Quinonez    def.  Robertson/Lewis      82
+     QuarterF  De La O/Tricio       def.  Torres/Velasco       81
+     QuarterF  Quercia/Pluis        def.  McDougal/Perkins     83
+           16  Martin/Watson        def.  Lee/Redmon           81
+  > Consolation
+            F  Robertson/Lewis      def.  Torres/Velasco       81
+           SF  Robertson/Lewis      def.  Martin/Watson        Walkover
+           SF  Torres/Velasco       def.  McDougal/Perkins     Walkover
+           QQ  Robertson/Lewis      def.  Lee/Redmon           83
+  > Playoff 3-4
+            F  Aguilera/Quinonez    def.  Quercia/Pluis        86
 ~~~
 
 <a name="21-84230"></a>

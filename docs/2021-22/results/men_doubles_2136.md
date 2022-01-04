@@ -6,7 +6,6 @@
 - 9/10/2021 - [2021 Dar Walters Classic](#21-19264) ([Results](#21-19264) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">Draws</a>)  
 - 9/10/2021 - [Battle of the Beach](#21-65691) ([Results](#21-65691) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Draws</a>)  
 - 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
-- 9/10/2021 - [Knoxville Showdown](#21-83681) ([Results](#21-83681) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/85DF336A-C5C2-4C22-AC59-717D6414EA8A" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
 - 9/10/2021 - [Orange Lawn Fall Invitational](#21-93144) ([Results](#21-93144) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Draws</a>)  
 - 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
@@ -357,37 +356,6 @@
      32  Catry/Salvestre    def.  Pavel/Roddick     83
      32  Rocens/Shick       def.  Yamada/Triana     86
      32  Van Sambeek/Shick  def.  Synder/White      82
-~~~
-
-<a name="21-83681"></a>
-~~~
-═══════════════════════════════════════════════════════════════════
-  Knoxville Showdown
-  Dates: Sep 10-12, 2021
-  Host: Univ. Of Tennessee, Knoxville (M)
-═══════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > UK vs CU, UT vs PU
-  > Main
-     16  Kotzen/Hashimoto     def.  Diallo/Musitelli     75
-     16  Lapadat/Mercer       def.  Finkelstein/Horvat   61
-     16  Ruger/Winegar        def.  LeBlanc/Chen         62
-     16  Templeman/Ravichand… def.  Zemel/Sorbo          62
-     16  Hudd/Mitsui          def.  Rogers/Zeitvogel     62
-     16  Diaz/Wallner         def.  De Jonge/Hadigian    76(3)
-     16  Carlsson Halldin/Fe… def.  Monday/Gannon        75
- > UT vs CU, PU vs UK
-  > Main
-     16  Hudd/Mitsui          def.  Kotzen/Hashimoto     62
-     16  Diaz/Wallner         def.  Templeman/Winegar    64
-     16  Monday/Gannon        def.  Finkelstein/Horvat   60
-     16  Rogers/Zeitvogel     def.  Musitelli/LeBlanc    64
-     16  Lapadat/Mercer       def.  De Jonge/Hadigian    64
-     16  Zemel/Chen           def.  Carlsson Halldin/Fe… 75
- > PU vs CU, UT vs. PU, UT vs. CU
-  > Main
-     QF  Rogers/Zeitvogel     def.  Kotzen/Hashimoto     60
-     QF  Templeman/Winegar    def.  De Jonge/Hadigian    61
 ~~~
 
 <a name="21-94373"></a>

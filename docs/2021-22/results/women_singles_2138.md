@@ -34,7 +34,6 @@
 - 9/23/2021 - [Division II Women's South Central ITA Regional Championships](#21-38109) ([Results](#21-38109) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AngeloStateUniversityW/Tournaments/Overview/3ED81CC9-A8E1-4259-B508-B4D6EEF90A89" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
-- 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division III Women's Southeast ITA Regional Championships](#21-12873) ([Results](#21-12873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Central ITA Regional Championships](#21-33883) ([Results](#21-33883) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CowleyCountyCCM/Tournaments/Overview/BC95B2DD-9F42-4CC1-B3FD-B28A7F6354E1" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Southeast ITA Regional Championships](#21-59818) ([Results](#21-59818) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AbrahamBaldwinCollegeM/Tournaments/Overview/0C49FE79-13DE-4D89-BE12-0363D7D96FAE" target="_blank">Draws</a>)  
@@ -1811,7 +1810,7 @@
      32  Kelsey Mize          def.  Manami Ukita         62 60
      32  Anna Turco           def.  Sydney Oerfice       61 61
      32  Dinara Alloyarova    def.  Eesha Gudiseva       61 63
-     32  Anaelle Leclerq-Fic… def.  Alee Clayton         64 26 61
+     32  Anaelle Leclercq-Fi… def.  Alee Clayton         64 26 61
      32  Mell Reasco          def.  Rachel Krzyzak       46 61 62
      32  Loudmilla Bencheikh  def.  Karine-Marion Job    61 63
      32  Tiphanie Fiquet      def.  Lea Ma               63 61
@@ -1829,7 +1828,7 @@
      32  Elysia Pool          def.  Ioana Gheorghita     67(2) 63 76(4)
      32  Ludmila Kareisova    def.  Florentine Dekkers   46 64 63
      32  Rachel Krzyzak       def.  Maria Linares        36 41 Ret.
-     32  Dinara Alloyarova    def.  Anaelle Leclerq-Fic… 64 63
+     32  Dinara Alloyarova    def.  Anaelle Leclercq-Fi… 64 63
      32  Karine-Marion Job    def.  Kelsey Mize          64 76(2)
      32  Reka Zadori          def.  Manami Ukita         62 60
      32  Lea Ma               def.  Loudmilla Bencheikh  75 62
@@ -1851,7 +1850,7 @@
      32  Rosanna Maffei       def.  Mai Nirundorn        63 36 64
      32  Loudmilla Bencheikh  def.  Sabina Machalova     64 63
      32  Petra Sedlackova     def.  Rachel Krzyzak       76(5) 57 63
-     32  Anaelle Leclerq-Fic… def.  Ansley Cheshire      62 62
+     32  Anaelle Leclercq-Fi… def.  Ansley Cheshire      62 62
 ~~~
 
 <a name="21-45740"></a>
@@ -3444,112 +3443,6 @@
  > Consolation Final
   > Main
        F  Samantha Fuchs       def.  Cheyanne Phillips    82
-~~~
-
-<a name="21-04287"></a>
-~~~
-═════════════════════════════════════════════════════════════════════
-  Division III Women's Northwest ITA Regional Championships
-  Dates: Sep 24-27, 2021
-  Host: George Fox University (W)
-═════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > Draw
-  > Main
-       F  Angel Le             def.  Cassidy Binder       75 61
-      SF  Angel Le             def.  Sydnie Binder        60 64
-      SF  Cassidy Binder       def.  Tessa Kern           63 61
-      QF  Angel Le             def.  Taryn Fujimori       75 60
-      QF  Sydnie Binder        def.  Andie Machida        76(4) 63
-      QF  Tessa Kern           def.  Ilina Jha            36 62 [1]
-      QF  Cassidy Binder       def.  Arianna Castellanos… 63 46 63
-      16  Angel Le             def.  Allena Wong          60 60
-      16  Taryn Fujimori       def.  Danielle Brown       63 60
-      16  Andie Machida        def.  Erica Mock           26 64 63
-      16  Sydnie Binder        def.  Camilla Tarpey-Schw… 60 61
-      16  Tessa Kern           def.  Rachael Rice         63 64
-      16  Ilina Jha            def.  Aleah Kert           75 75
-      16  Arianna Castellanos… def.  Alexis Matsunaga     60 57 63
-      16  Cassidy Binder       def.  Maggie Fiocchi       60 61
-      32  Angel Le             def.  Gracie Smyley        61 62
-      32  Allena Wong          def.  Emily McDonald       62 61
-      32  Danielle Brown       def.  Rachel Heinke        61 61
-      32  Taryn Fujimori       def.  Caren Uribe          61 62
-      32  Andie Machida        def.  Alexis Gardner       62 60
-      32  Erica Mock           def.  Kalli Wiker          64 63
-      32  Camilla Tarpey-Schw… def.  Cassey Hitch         61 61
-      32  Sydnie Binder        def.  Sarah Forester       61 62
-      32  Tessa Kern           def.  Laura Schneidman     60 60
-      32  Rachael Rice         def.  Brenna Vanderyacht   63 60
-      32  Ilina Jha            def.  Macarena Vives       62 61
-      32  Aleah Kert           def.  Grace Truong         61 64
-      32  Arianna Castellanos… def.  Soraya Young-Pen     60 60
-      32  Alexis Matsunaga     def.  Richelle Suzuki      61 62
-      32  Maggie Fiocchi       def.  Ellie Mangan         60 60
-      32  Cassidy Binder       def.  Meggie Burnett       60 60
-      64  Angel Le             def.  Libertad Sarmiento   60 60
-      64  Gracie Smyley        def.  Anika Groener        63 63
-      64  Emily McDonald       def.  Arielle Bloom        62 76(4)
-      64  Allena Wong          def.  Hyla Chatham         60 60
-      64  Danielle Brown       def.  Allison Gabelman     60 60
-      64  Rachel Heinke        def.  Taylor Stokes        62 60
-      64  Caren Uribe          def.  Hannah Plank         61 60
-      64  Taryn Fujimori       def.  Elisabeth Carter     61 61
-      64  Andie Machida        def.  Kaylah Tan           62 60
-      64  Alexis Gardner       def.  Jessica Eligio       61 60
-      64  Kalli Wiker          def.  Kara Nelson          63 60
-      64  Erica Mock           def.  Lauren Smith-Euben   60 60
-      64  Camilla Tarpey-Schw… def.  Mckenna Turner       60 60
-      64  Cassey Hitch         def.  Kyndal Loacti        36 62 [7]
-      64  Sarah Forester       def.  Kate Stratton        61 60
-      64  Sydnie Binder        def.  Neku Onoja           60 61
-      64  Tessa Kern           def.  Paige Shinall        61 60
-      64  Laura Schneidman     def.  Valentina Caseb-Kle… 63 46 [7]
-      64  Brenna Vanderyacht   def.  Jillian Chong        63 63
-      64  Rachael Rice         def.  Meredith Bedford     60 60
-      64  Ilina Jha            def.  Tianna Jeffries      60 60
-      64  Macarena Vives       def.  Olivia Morris        75 63
-      64  Grace Truong         def.  Piper Rylander       63 60
-      64  Aleah Kert           def.  Emma Tuttle          60 60
-      64  Arianna Castellanos… def.  Abigail Bond         60 60
-      64  Soraya Young-Pen     def.  Lilian Nguyen        62 62
-      64  Richelle Suzuki      def.  Froukje Lakerveld    06 60 [4]
-      64  Alexis Matsunaga     def.  Gillian Mead         60 61
-      64  Maggie Fiocchi       def.  Mae Thorp            62 61
-      64  Ellie Mangan         def.  Avery Honaker        61 63
-      64  Meggie Burnett       def.  Ruby Thompson        60 60
-      64  Cassidy Binder       def.  Grace Bethards       60 60
-  > Consolation
-      SF  Hannah Plank          vs   Kyndal Loacti        
-      SF  Emma Tuttle          def.  Mae Thorp            63 62
-      QF  Hannah Plank         def.  Arielle Bloom        82
-      QF  Kyndal Loacti        def.  Jessica Eligio       85
-      QF  Emma Tuttle          def.  Paige Shinall        84
-      QF  Mae Thorp            def.  Abigail Bond         87(5)
-      16  Arielle Bloom        def.  Anika Groener        84
-      16  Hannah Plank         def.  Taylor Stokes        81
-      16  Jessica Eligio       def.  Lauren Smith-Euben   83
-      16  Kyndal Loacti        def.  Kate Stratton        87(4)
-      16  Paige Shinall        def.  Jillian Chong        83
-      16  Emma Tuttle          def.  Olivia Morris        83
-      16  Abigail Bond         def.  Froukje Lakerveld    85
-      16  Mae Thorp            def.  Grace Bethards       81
-     32Q  Anika Groener        def.  Libertad Sarmiento   81
-     32Q  Arielle Bloom        def.  Hyla Chatham         81
-     32Q  Taylor Stokes        def.  Allison Gabelman     83
-     32Q  Hannah Plank         def.  Elisabeth Carter     87(4)
-     32Q  Jessica Eligio       def.  Kaylah Tan           85
-     32Q  Lauren Smith-Euben   def.  Kara Nelson          83
-     32Q  Kyndal Loacti        def.  Mckenna Turner       80
-     32Q  Kate Stratton        def.  Neku Onoja           85
-     32Q  Paige Shinall        def.  Valentina Caseb-Kle… 84
-     32Q  Jillian Chong        def.  Meredith Bedford     83
-     32Q  Olivia Morris        def.  Tianna Jeffries      83
-     32Q  Emma Tuttle          def.  Piper Rylander       82
-     32Q  Abigail Bond         def.  Lilian Nguyen        82
-     32Q  Froukje Lakerveld    def.  Gillian Mead         86
-     32Q  Mae Thorp            def.  Avery Honaker        83
-     32Q  Grace Bethards       def.  Ruby Thompson        80
 ~~~
 
 <a name="21-12873"></a>

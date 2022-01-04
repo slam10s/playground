@@ -13,10 +13,8 @@
 - 9/24/2021 - [Loyola Invitational](#21-56169) ([Results](#21-56169) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/72CD9175-7FAD-47BC-B686-CD1AF1858ECC" target="_blank">Draws</a>)  
 - 9/24/2021 - [Quinnipiac Invitational at Fairfield University](#21-24236) ([Results](#21-24236) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QuinnipiacUniversityM/Tournaments/Overview/4CA1F754-31D9-4DCF-8BB3-0098D93E8693" target="_blank">Draws</a>)  
 - 9/24/2021 - [Rancher Collegiate Invitational](#21-29345) ([Results](#21-29345) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/8D7F2E07-AC4A-4E21-9AD6-185AA3004B4C" target="_blank">Draws</a>)  
-- 9/24/2021 - [Roadrunner Invitational](#21-84395) ([Results](#21-84395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTexasSanAntonioM/Tournaments/Overview/E7F7F76A-E6C1-4F1D-AFAC-36B9F1DB36FF" target="_blank">Draws</a>)  
 - 9/24/2021 - [Saint Joseph's Invitational - Men](#21-61930) ([Results](#21-61930) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintJosephsUniversityM/Tournaments/Overview/3E3CE083-33CF-44BE-90F9-2D8212C38067" target="_blank">Draws</a>)  
 - 9/24/2021 - [Southern Intercollegiates](#21-18330) ([Results](#21-18330) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/B89A76E9-2709-4BFC-AAB2-ED109F32123C" target="_blank">Draws</a>)  
-- 9/25/2021 - [Southern Miss Men's Tennis Invitational](#21-39341) ([Results](#21-39341) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSouthernMississippiM/Tournaments/Overview/6381F499-3F70-463D-B86B-F6D5B23A4ADB" target="_blank">Draws</a>)  
 - 9/24/2021 - [Toledo Rocket Invitational](#21-42936) ([Results](#21-42936) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfToledoM/Tournaments/Overview/82163CFE-9C1D-409A-B99B-CD82AF62340D" target="_blank">Draws</a>)  
 - 9/24/2021 - [UVA Orange & Blue Classic](#21-08100) ([Results](#21-08100) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaM/Tournaments/Overview/CF3502B7-78F4-4CCB-AB88-CC54F61E06F0" target="_blank">Draws</a>)  
 - 9/25/2021 - [Wabash Hidden Duals](#21-62669) ([Results](#21-62669) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WabashCollegeM/Tournaments/Overview/F852092B-DFCA-4C1A-8C98-83E3D2CDF000" target="_blank">Draws</a>)  
@@ -697,72 +695,6 @@
      16  Brodney/Dabic        def.  Summaria/Rico        86
 ~~~
 
-<a name="21-84395"></a>
-~~~
-════════════════════════════════════════════════════════════════
-  Roadrunner Invitational
-  Dates: Sep 24-26, 2021
-  Host: Univ. Of Texas, San Antonio (M)
-════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > A Draw
-  > East
-      F  Sweeney/Zavala       def.  Ata/Yamanaka         86
-     SF  Sweeney/Zavala       def.  Ceolin/Rodriguez     86
-     SF  Ata/Yamanaka         def.  Linkuns-Morozov/Kmet 85
-     QF  Ceolin/Rodriguez     def.  Fulgenzi/DeLuna      83
-     QF  Sweeney/Zavala       def.  Cloud/Redelijk       84
-     QF  Ata/Yamanaka         def.  Dworak/Dimitrov      87(7)
-     QF  Linkuns-Morozov/Kmet def.  Sau/Caffarena        87(4)
-  > West
-      F  Dworak/Dimitrov      def.  Fulgenzi/DeLuna      85
-     SF  Fulgenzi/DeLuna      def.  Cloud/Redelijk       84
-     SF  Dworak/Dimitrov      def.  Sau/Caffarena        87(4)
-  > 3-4 Playoff
-      F  Linkuns-Morozov/Kmet def.  Ceolin/Rodriguez     82
-  > South
-      F  Sau/Caffarena        def.  Cloud/Redelijk       82
- > B Draw
-  > East
-      F  Smith/Reche          def.  Skelly/Gonzalez      86
-     SF  Smith/Reche          def.  Trione/Rogers        87(5)
-     SF  Skelly/Gonzalez      def.  Schwartz/Lorieul     87(5)
-     QF  Trione/Rogers        def.  Akiyoshi/Cabrera     86
-     QF  Smith/Reche          def.  Stewart/Chhabra      85
-     QF  Schwartz/Lorieul     def.  Sillman/Allen        86
-     QF  Skelly/Gonzalez      def.  Postea/Sanchez Gonz… 82
-  > West
-      F  Sillman/Allen        def.  Stewart/Chhabra      86
-     SF  Stewart/Chhabra      def.  Akiyoshi/Cabrera     84
-     SF  Sillman/Allen        def.  Postea/Sanchez Gonz… 84
-  > 3-4 Playoff
-      F  Schwartz/Lorieul     def.  Trione/Rogers        84
-  > South
-      F  Akiyoshi/Cabrera     def.  Postea/Sanchez Gonz… 87(6)
- > C Draw
-  > East
-      F  Rastrojo/McDonald    def.  Fillat Gimenez/Kajin 83
-     SF  Rastrojo/McDonald    def.  Kvantaliani/Mello    87(5)
-     SF  Fillat Gimenez/Kajin def.  Sendogan/Groysman    87(6)
-     QF  Rastrojo/McDonald    def.  Gulin/Alonso         82
-     QF  Kvantaliani/Mello    def.  Beamish/Shepp        86
-     QF  Sendogan/Groysman    def.  Tran-Vilkman/Barran… 85
-     QF  Fillat Gimenez/Kajin def.  Kralemann/Kermet     87(5)
-  > West
-      F  Tran-Vilkman/Barran… def.  Gulin/Alonso         87(3)
-     SF  Gulin/Alonso         def.  Beamish/Shepp        87(7)
-     SF  Tran-Vilkman/Barran… def.  Kralemann/Kermet     86
-  > 3-4 Playoff
-      F  Sendogan/Groysman    def.  Kvantaliani/Mello    87(5)
-  > South
-      F  Kralemann/Kermet     def.  Beamish/Shepp        82
- > D Draw
-  > Main
-     R3  Bertrand/Castaneda   def.  Lawrance/Alban       86
-     R2  Izurieta/Whitehead   def.  Lawrance/Alban       87(4)
-     R1  Izurieta/Whitehead   def.  Bertrand/Castaneda   86
-~~~
-
 <a name="21-61930"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -859,46 +791,6 @@
      16  Jackson/Barretto    def.  Grevelius/Croyder   86
      16  Johnston/Paulsell   def.  Flynn/Macleod       84
      16  Wayenburg/Georgadze def.  Debru/Perez Pena    86
-~~~
-
-<a name="21-39341"></a>
-~~~
-════════════════════════════════════════════════════════════════
-  Southern Miss Men's Tennis Invitational
-  Dates: Sep 25-26, 2021
-  Host: Univ. Of Southern Mississippi (M)
-════════════════════════════════════════════════════════════════
- Men's Open Doubles
- > Saturday 1
-  > Main
-     QF  Spyropoulos/Lusovsky def.  Audrain/Sunish       63
-     QF  Vasquez/Podzemny     def.  Gima/Sanson          76
-     QF  Bradbary/Puric       def.  Cahour/Reansuwong    64
- > Saturday 2
-  > Main
-     QF  Audrain/Sunish       def.  Collard/Clements     76
-     QF  Bosman/St-Hilaire    def.  Gima/Sanson          76
-     QF  Montoya/Delcour      def.  Cahour/Reansuwong    76
- > Sunday 1
-  > Main
-     QF  Lusovsky/Podzemny    def.  Sanson/Sunish        63
-     QF  Audrain/Cahour       def.  Spyropoulos/Bradbary 62
-     QF  Jirapoomdaje/Gima    def.  Puric/Vasquez        63
- > Sunday 2
-  > Main
-     QF  Collard/St-Hilaire   def.  Sanson/Sunish        64
-     QF  Delcour/Clements     def.  Audrain/Cahour       75
-     QF  Gima/Reansuwong      def.  Montoya/Bosman       64
- > Saturday 3
-  > Main
-     QF  Spyropoulos/Lusovsky def.  Collard/Clements     62
-     QF  Bosman/St-Hilaire    def.  Vasquez/Podzemny     64
-     QF  Bradbary/Puric       def.  Montoya/Delcour      75
- > Sunday 3
-  > Main
-     QF  Collard/St-Hilaire   def.  Lusovsky/Podzemny    64
-     QF  Delcour/Clements     def.  Spyropoulos/Bradbary 62
-     QF  Montoya/Bosman       def.  Puric/Vasquez        63
 ~~~
 
 <a name="21-42936"></a>

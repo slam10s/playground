@@ -429,7 +429,7 @@
      32  Bilchev/Hrastar      def.  Graham/Roggenburk    61
      32  Lee/Sharabura        def.  Sawyer/Verma         62
      32  Melville/Nelson      def.  Jones/Woog           75
-     32  Gabrielsen/Leclerq-… def.  Meyer/Teixido-Garcia 61
+     32  Gabrielsen/Leclercq… def.  Meyer/Teixido-Garcia 61
      32  Adaloglou/Mikhailuk  def.  Gorchanyuk/Simova    63
      32  Dedaj/Jain           def.  Beltran/Burger       60
      32  Pool/Zadori          def.  Grosmann/Tumthong    62
@@ -442,7 +442,7 @@
      32  Lee/Sharabura        def.  Graham/Roggenburk    62
      32  Bilchev/Hrastar      def.  Sawyer/Verma         62
      32  Meyer/Teixido-Garcia def.  Melville/Nelson      75
-     32  Jones/Woog           def.  Gabrielsen/Leclerq-… 64
+     32  Jones/Woog           def.  Gabrielsen/Leclercq… 64
      32  Adaloglou/Mikhailuk  def.  Beltran/Burger       63
      32  Dedaj/Jain           def.  Gorchanyuk/Simova    60
      32  Cirotte/Falceto      def.  Chaika/Richardson    64
@@ -454,7 +454,7 @@
      32  Adaloglou/Cirotte    def.  Dedaj/Jain           62
      32  Mikhailuk/Racine     def.  Grosmann/Tumthong    60
      32  Pursell/Verden-Ande… def.  Chaika/Richardson    62
-     32  Gabrielsen/Leclerq-… def.  Burger/Nelson        75
+     32  Gabrielsen/Leclercq… def.  Burger/Nelson        75
      32  Jones/Romero         def.  Nwaozuzu/Smith       61
      32  Bilchev/Hrastar      def.  Meyer/Reayer         63
      32  Teixido-Garcia/Woog  def.  Gorchanyuk/Simova    61

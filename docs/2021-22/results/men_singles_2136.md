@@ -6,7 +6,6 @@
 - 9/10/2021 - [2021 Dar Walters Classic](#21-19264) ([Results](#21-19264) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityM/Tournaments/Overview/0A6447AB-0F0F-4FEA-A5A2-B24BE34130E9" target="_blank">Draws</a>)  
 - 9/10/2021 - [Battle of the Beach](#21-65691) ([Results](#21-65691) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/33BF7687-224B-4449-8542-98C2F04F4C3D" target="_blank">Draws</a>)  
 - 9/10/2021 - [Gator Fall Invite](#21-36446) ([Results](#21-36446) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/E57687E5-3269-4CFE-8455-1FE6AD846938" target="_blank">Draws</a>)  
-- 9/10/2021 - [Knoxville Showdown](#21-83681) ([Results](#21-83681) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/85DF336A-C5C2-4C22-AC59-717D6414EA8A" target="_blank">Draws</a>)  
 - 9/10/2021 - [NMSU Fall invitational](#21-94373) ([Results](#21-94373) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NewMexicoStateUniversityM/Tournaments/Overview/B63F9A82-1B7B-4CAE-9A82-665CD2835174" target="_blank">Draws</a>)  
 - 9/10/2021 - [Orange Lawn Fall Invitational](#21-93144) ([Results](#21-93144) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityM/Tournaments/Overview/78C4DCF2-0C15-4064-8EAC-A0B9DD042B5C" target="_blank">Draws</a>)  
 - 9/10/2021 - [River Forrest Collegiate Invitational](#21-88961) ([Results](#21-88961) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivM/Tournaments/Overview/6537264A-9F90-4773-A706-54894C3A5432" target="_blank">Draws</a>)  
@@ -615,66 +614,6 @@
      32  Fons Van Sambeek   def.  Bryan Triana       76(1) 64
      32  Quinn Synder       def.  Joseph Schrader    61 64
      32  Cooper White       def.  Collin Shick       62 62
-~~~
-
-<a name="21-83681"></a>
-~~~
-═══════════════════════════════════════════════════════════════════════
-  Knoxville Showdown
-  Dates: Sep 10-12, 2021
-  Host: Univ. Of Tennessee, Knoxville (M)
-═══════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > UK vs CU, UT vs PU
-  > Main
-     64  Alex Kotzen          def.  Gabriel Diallo       62 63
-     64  Francois Musitelli   def.  Alex Finkelstein     63 Ret.
-     64  Joshua Lapadat       def.  Hugo Hashimoto       76(1) 57 63
-     64  JJ Mercer            def.  Ishaan Ravichander   61 63
-     64  Yasha Zemel          def.  Austen Huang         76(3) 61
-     64  Roko Horvat          def.  Alexandre LeBlanc    62 63
-     64  Jonathan Sorbo       def.  Theo Winegar         76(3) 36 63
-     64  Ying-Ze Chen         def.  Jayden Templeman     26 75 62
-     64  Corrado Summaria     def.  Ben Gollin           62 76(3)
-     64  Robert Shelton       def.  Henry Ruger          62 46 63
-     64  Daniel De Jonge      def.  Johannus Monday      57 63 60
-     64  Andrew Rogers        def.  Shunsuke Mitsui      61 64
-     64  Emile Hudd           def.  Tim Zeitvogel        61 64
-     64  Mark Wallner         def.  Pietro Fellin        26 63 75
-     64  Eric Hadigian        def.  Conor Gannon         75 64
-     64  Linus Carlsson Hall… def.  Angel Diaz           76(4) 61
- > UT vs CU, PU vs UK
-  > Main
-     64  Johannus Monday      def.  Alex Kotzen          57 76(4) 75
-     64  Shunsuke Mitsui      def.  Roko Horvat          76(5) 61
-     64  Emile Hudd           def.  Hugo Hashimoto       64 62
-     64  Mark Wallner         def.  Theo Winegar         63 63
-     64  Austen Huang         def.  Conor Gannon         62 26 64
-     64  Angel Diaz           def.  Henry Ruger          63 36 64
-     64  Daniel De Jonge      def.  Francois Musitelli   76(2) 64
-     64  Andrew Rogers        def.  Joshua Lapadat       46 76(4) 64
-     64  JJ Mercer            def.  Tim Zeitvogel        76(10) 61
-     64  Alexandre LeBlanc    def.  Linus Carlsson Hall… 63 62
-     64  Yasha Zemel          def.  Eric Hadigian        64 75
-     64  Corrado Summaria     def.  Jonathan Sorbo       75 64
-     64  Pietro Fellin        def.  Ying-Ze Chen         61 64
-     64  Enrique Luque Rico   def.  Ishaan Ravichander   61 62
- > PU vs CU, UT vs CU, PU vs UT
-  > Main
-     64  Daniel De Jonge      def.  Alex Kotzen          57 61 63
-     64  Hugo Hashimoto       def.  Andrew Rogers        63 75
-     64  Tim Zeitvogel        def.  Henry Ruger          67(4) 62 63
-     64  Pietro Fellin        def.  Austen Huang         60 75
-     64  Eric Hadigian        def.  Theo Winegar         64 61
-     64  Linus Carlsson Hall… def.  Jayden Templeman     63 62
-     64  Enrique Luque Rico   def.  Shunsuke Mitsui      63 16 64
-     64  Mark Wallner         def.  Ben Gollin           62 63
-     64  Angel Diaz           def.  Corrado Summaria     61 63
-     64  Roko Horvat          def.  Conor Gannon         76(2) 16 64
- > UT vs CU
-  > Main
-     SF  Jayden Templeman     def.  Angel Diaz           64 46 [8]
-     SF  Conor Gannon         def.  Ben Gollin           67(5) 64 [9]
 ~~~
 
 <a name="21-94373"></a>

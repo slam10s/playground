@@ -5,7 +5,6 @@
 - 10/16/2021 - [Brown Classic](#21-58015) ([Results](#21-58015) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Mountain Regional Championship](#21-74915) ([Results](#21-74915) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Northeast Regional Championship](#21-91243) ([Results](#21-91243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">Draws</a>)  
-- 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
 - 10/15/2021 - [Martha Thorn Invitational](#21-82907) ([Results](#21-82907) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Draws</a>)  
@@ -403,130 +402,6 @@
      32  Daria Frayman        def.  Jennifer Kerr        62 60
 ~~~
 
-<a name="21-46458"></a>
-~~~
-═══════════════════════════════════════════════════════════════════════════════
-  ITA Division I Women's Southeast Regional Championship
-  Dates: Oct 14-27, 2021
-  Host: University Of Central Florida (W)
-═══════════════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > Main Draw
-  > Main
-      F (16) Mell Reasco         def. (12) Petra Hule          61 75
-     SF (12) Petra Hule          def.  (9) Evgeniya Levashova  46 64 60
-     SF (16) Mell Reasco         def. (15) Ania Hertel         62 62
-     QF  (9) Evgeniya Levashova  def.  (1) Meg Kowalski        64 57 61
-     QF (12) Petra Hule          def.      Marie Mattel        64 67(3) 75
-     QF (16) Mell Reasco         def.      Catherine Gulihur   Walkover
-     QF (15) Ania Hertel         def. (10) Emma Shelton        61 16 61
-     16  (1) Meg Kowalski        def. (13) Kylie Bilchev       26 64 61
-     16  (9) Evgeniya Levashova  def.  (5) Carly Briggs        62 61
-     16 (12) Petra Hule          def.  (8) Morgan Coppoc       62 64
-     16      Marie Mattel        def. (14) Alicia Dudeney      76(5) 61
-     16 (16) Mell Reasco         def.      Andreeea Velcea     63 75
-     16      Catherine Gulihur   def.      Daevenia Achong     64 63
-     16 (10) Emma Shelton        def.  (7) Ava Hrastar         63 63
-     16 (15) Ania Hertel         def.  (2) Isabella Pfennig    46 61 62
-     32  (1) Meg Kowalski        def.      Grace Shumacher     62 60
-     32 (13) Kylie Bilchev       def.      Eden Richardson     62 67(4) 76(6)
-     32  (5) Carly Briggs        def.      Vic Allen           61 67(1) 60
-     32  (9) Evgeniya Levashova  def.      Kamila Umarova      57 64 62
-     32  (8) Morgan Coppoc       def.      Sydney Berlin       63 63
-     32 (12) Petra Hule          def.      Mahak Jain          26 63 75
-     32      Marie Mattel        def.  (3) Lea Ma              64 16 63
-     32 (14) Alicia Dudeney      def.      Gia Cohen           62 60
-     32      Andreeea Velcea     def.      Aylen Hubeaut       63 64
-     32 (16) Mell Reasco         def.      Bente Spee          75 63
-     32      Catherine Gulihur   def.  (6) Marlee Zein         63 64
-     32      Daevenia Achong     def. (11) Carol Lee           63 63
-     32  (7) Ava Hrastar         def.      Diana Khodan        63 61
-     32 (10) Emma Shelton        def.      Isabel Oliveira     75 62
-     32 (15) Ania Hertel         def.      Nandini Sharma      62 63
-     32  (2) Isabella Pfennig    def.      Yasmine Kabbaj      63 75
-     64  (1) Meg Kowalski        def.      Angel Carney        64 62
-     64      Grace Shumacher     def.      Ji Youn Lee         63 61
-     64      Eden Richardson     def.      Jaleesa Leslie      61 57 41 Ret.
-     64 (13) Kylie Bilchev       def.      Millie-Mae Matthews 20 Ret.
-     64  (5) Carly Briggs        def.      Monika Dedaj        63 63
-     64      Vic Allen           def.      Dana Heimen         75 67(5) 61
-     64      Kamila Umarova      def.      Guillermina Grant   76(4) 67(5) 62
-     64  (9) Evgeniya Levashova  def.      Afrika Smith        60 60
-     64  (8) Morgan Coppoc       def.      Alanna Di Francesco 63 63
-     64      Sydney Berlin       def.      Audrey Boch-Collins 76(4) 64
-     64      Mahak Jain          def.      Summer Yardley      76(3) 62
-     64 (12) Petra Hule          def.      Mary Courville      61 61
-     64  (3) Lea Ma              def.      Amelie Boy          62 62
-     64      Marie Mattel        def.      Katherine Muzik     62 64
-     64      Gia Cohen           def.      Sierra Sandy        60 62
-     64 (14) Alicia Dudeney      def.      Selene Kentish      60 61
-     64      Aylen Hubeaut       def.  (4) Valeriya Zeleva     62 Ret.
-     64      Andreeea Velcea     def.      Alice Amendola      64 64
-     64      Bente Spee          def.      Amber MGinnis       61 62
-     64 (16) Mell Reasco         def.      Kate Sharabura      64 46 63
-     64  (6) Marlee Zein         def.      Fanny Norin         61 64
-     64      Catherine Gulihur   def.      Taylor Dean         61 62
-     64      Daevenia Achong     def.      Anais Gabriel       63 61
-     64 (11) Carol Lee           def.      Sierra Berry        63 62
-     64  (7) Ava Hrastar         def.      Alexia Alvarez      62 62
-     64      Diana Khodan        def.      Naya Tillitt        62 63
-     64      Isabel Oliveira     def.      Alee Clayton        57 62 76(3)
-     64 (10) Emma Shelton        def.      Noa Cohen           61 63
-     64 (15) Ania Hertel         def.      Martina Kudelova    75 61
-     64      Nandini Sharma      def.      Ida Ferding         62 26 62
-     64      Yasmine Kabbaj      def.      Anna Arkadianou     62 63
-     64  (2) Isabella Pfennig    def.      Rosie Garcia Gross  61 60
- > Consolation
-  > Main
-      F      Guillermina Grant   def.      Mai Nirundorn       60 63
-     SF      Guillermina Grant   def.      Audrey Boch-Collins 76(5) 61
-     SF      Mai Nirundorn       def.      Noa Cohen           63 62
-     QF      Guillermina Grant   def.      Katerina Filip      Walkover
-     QF      Audrey Boch-Collins def.      Amelie Boy          60 61
-     QF      Mai Nirundorn       def.      Fanny Norin         75 61
-     QF      Noa Cohen           def.      Rosie Garcia Gross  Walkover
-     16      Katerina Filip      def.      Angel Carney        64 64
-     16      Guillermina Grant   def.      Monika Dedaj        61 63
-     16      Audrey Boch-Collins def.      Mary Courville      30 Ret.
-     16      Amelie Boy          def.      Sierra Sandy        Walkover
-     16      Mai Nirundorn       def.      Kate Sharabura      63 61
-     16      Fanny Norin         def.      Anais Gabriel       63 36 [6]
-     16      Noa Cohen           def.      Alexia Alvarez      62 60
-     16      Rosie Garcia Gross  def.      Martina Kudelova    60 Ret.
-     32      Angel Carney        def.      Ji Youn Lee         62 62
-     32      Katerina Filip      def.      Maya Tahan          62 46 [7]
-     32      Monika Dedaj        def.      Dana Heimen         26 76(4) [6]
-     32      Guillermina Grant   def.      Afrika Smith        61 60
-     32      Audrey Boch-Collins def.      Alanna Di Francesco 62 62
-     32      Mary Courville      def.      Alee Clayton        63 75
-     32      Amelie Boy          def.      Katherine Muzik     75 76(6)
-     32      Sierra Sandy        def.      Selene Kentish      64 63
-     32      Mai Nirundorn       def.      Alice Amendola      60 76(5)
-     32      Kate Sharabura      def.      Amber MGinnis       62 63
-     32      Fanny Norin         def.      Taylor Dean         61 46 [3]
-     32      Anais Gabriel       def.      Sierra Berry        64 57 [6]
-     32      Alexia Alvarez      def.      Naya Tillitt        76(2) 63
-     32      Noa Cohen           def.      Summer Yardley      63 62
-     32      Martina Kudelova    def.      Ida Ferding         61 61
-     32      Rosie Garcia Gross  def.      Anna Arkadianou     75 64
- > Qualifying Draw
-  > Main
-     16  (8) Alee Clayton        def.      Francesca Franci    76(4) 64
-     16  (5) Kate Sharabura      def.      Nada Dimovska       63 61
-     16      Ji Youn Lee         def.  (4) Greta Schieroni     53 Ret.
-     16  (3) Gia Cohen           def.      Mai Nirundorn       62 46 [7]
-     16      Noa Cohen           def.  (6) Katerina Filip      62 26 [10]
-     16  (7) Rosie Garcia Gross  def.      Anique Kattenberg   62 61
-     16      Sierra Berry        def.  (2) Maya Tahan          63 62
-     32      Millie-Mae Matthews def.      Susan Salinas       60 61
-     32      Francesca Franci    def.      Haleigh Porter      61 64
-     32      Nada Dimovska       def.      Cheri Darley        46 62 [4]
-     32      Ji Youn Lee         def.      Luise Reisel        64 62
-     32      Mai Nirundorn       def.      Carina Sommer       61 63
-     32      Noa Cohen           def.      Paula Hijos         61 60
-     32      Anique Kattenberg   def.      Valentina Taddia    62 16 [10]
-~~~
-
 <a name="21-32447"></a>
 ~~~
 ══════════════════════════════════════════════════════════════════════════════
@@ -572,7 +447,7 @@
      64      Nina Geissler        def.      Otoha Aoki           64 62
      64 (14) Ludmila Kareisova    def.      Tjasa Klevisar       63 76(5)
      64      Adeline Flach        def.      Vanessa Mellynchuk   36 60 62
-     64  (7) Georgie Axon         def.      Anaelle Leclerq-Fic… 64 63
+     64  (7) Georgie Axon         def.      Anaelle Leclercq-Fi… 64 63
      64      Chloe Cirotte        def.      Aina Domingo Bernab… 61 64
      64 (10) Ena Babic            def.      Lily Walther         46 64 60
      64      Ola Pitak            def.      Delien Klienhans     61 61
@@ -646,7 +521,7 @@
      64      Charlotte Russell    def.      Romane Mosse         75 26 [2]
      64      Ella Tuomela         def.      Enya Ratkic          63 76(6)
      64      Leonie Schuknecht    def.      Viktorie Wojcikova   67(6) 61 [6]
-     64      Anaelle Leclerq-Fic… def.      Yu Chen              76(4) 76(5)
+     64      Anaelle Leclercq-Fi… def.      Yu Chen              76(4) 76(5)
      64      Jiayun Zhu           def.      Daniela Hernandez    46 75 [11]
      64      Thitirat Kanaphuet   def.      Shaye Longwell       63 61
      64      Kelsey Mize          def.      Anastasia Astakhova  36 63 [3]
@@ -661,7 +536,7 @@
      64      Rachel Krzyzak       def.      Mackenzie Clark      63 64
      64      Alexandra Mikhailuk  def.      Lillian Gabrielsen   62 64
      64      Charlotte Russell    def.      Anastasiia Khokhlova 06 64 61
-     64      Anaelle Leclerq-Fic… def.      Kasia Pitak          76(4) 60
+     64      Anaelle Leclercq-Fi… def.      Kasia Pitak          76(4) 60
      64      Alexandra Ferreira … def.      Olivia Elliott       63 62
      64      Elysia Pool          def.      Anastasia Astakhova  63 64
      64      Lily Walther         def.      Enya Ratkic          57 64 [2]

@@ -682,10 +682,10 @@
  > White
   > East
       F     Magda Adaloglou      def. (1) Kylie Bilchev        75 62
-     SF (1) Kylie Bilchev        def.     Anaelle Leclerq-Fic… 63 76(2)
+     SF (1) Kylie Bilchev        def.     Anaelle Leclercq-Fi… 63 76(2)
      SF     Magda Adaloglou      def. (2) Sabina Machalova     62 62
      QF (1) Kylie Bilchev        def.     Taylor Melville      63 62
-     QF     Anaelle Leclerq-Fic… def.     Aran Teixido-Garcia  60 67(7) 75
+     QF     Anaelle Leclercq-Fi… def.     Aran Teixido-Garcia  60 67(7) 75
      QF     Magda Adaloglou      def.     Ahmeir Kyle          67(7) 62 62
      QF (2) Sabina Machalova     def.     Chelsea Sawyer       63 63
   > West
@@ -758,7 +758,7 @@
       F (1) Kate Sharabura       def.     Anna Smith           60 46 63
  > Bully
   > Main
-     QF     Ava Hrastar          def.     Anaelle Leclerq-Fic… 76(8) 75
+     QF     Ava Hrastar          def.     Anaelle Leclercq-Fi… 76(8) 75
      QF     Sabina Machalova     def.     Carol Lee            26 62 63
      QF     Gia Cohen            def.     Dolavee Tumthong     60 62
      QF     Toni Nelson          def.     Monique Woog         75 75

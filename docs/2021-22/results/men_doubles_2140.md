@@ -16,11 +16,9 @@
 - 10/8/2021 - [Youngstown State Hidden Duals](#21-93245) ([Results](#21-93245) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/8/2021 - [Crusader Shootout](#21-83735) ([Results](#21-83735) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9" target="_blank">Draws</a>)  
+- 10/9/2021 - [Enchanted Valley Showdown](#21-89530) ([Results](#21-89530) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Invitational](#21-99765) ([Results](#21-99765) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401" target="_blank">Draws</a>)  
 - 10/9/2021 - [Wallach Invitational 2021](#21-27918) ([Results](#21-27918) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F" target="_blank">Draws</a>)  
-
-**Tournaments without Matches**  
-- 10/9/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Enchanted Valley Showdown</a>  
 
 <a name="21-73796"></a>
 ~~~
@@ -861,6 +859,48 @@
      R1  Amitay/Morelli     def.  Borden/Singleton   64
      R1  Simonini/Iriu      def.  Kendrick/Gembroys  61
      R1  Kendrick/Fox       def.  Hess/Morant        61
+~~~
+
+<a name="21-89530"></a>
+~~~
+════════════════════════════════════════════════════════════════
+  Enchanted Valley Showdown
+  Dates: Oct 9-10, 2021
+  Host: Young Harris College (W)
+════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles, SAT, R1
+  > Main
+     16  Salton/Martinez      def.  Ronnberg/Schiltz     64
+     16  Valentine/Zehender   def.  Gonzalez/McCurry     60
+     16  Alderliesten/Sincla… def.  Carter/Sosebee       62
+     16  Jankulovski/Waterbo… def.  Shiell/Cary          64
+     16  Janse/Hordijk        def.  Lloveras/Can Wijk    62
+     16  Dulganov/Van Dalen   def.  Rowe/Aron Martin     61
+     16  Kamel/Laplante       def.  Medeiros/Ramirez Ri… 64
+     16  Garcia Gil/Garcia G… def.  Dugue/Ganguly        62
+ > Doubles, SAT, R2
+  > Main
+     16  Zehender/Sinclair    def.  Garcia Gil/Garcia G… 62
+     16  Medeiros/Ramirez Ri… def.  Salton/Martinez      63
+     16  Marchetti/Dasi       def.  Valentine/Alderlies… 75
+     16  Mendoza/Minguez Rib… def.  Can Wijk/Cary        63
+     16  Bouman/Auslands      def.  Shiell/Rowe          63
+     16  DelValle/Luque       def.  Lloveras/Buerkle     62
+     16  Janse/Hordijk        def.  Kamel/Laplante       61
+     16  Jankulovski/Waterbo… def.  Dugue/De Jesus       75
+ > Doubles, SUN, R3
+  > Main
+     16  Medeiros/Ramirez Ri… def.  Mendoza/Minguez Rib… 63
+     16  Garcia Gil/Garcia G… def.  Bouman/Auslands      64
+     16  DelValle/Luque       def.  Muratovic/Johnston   62
+     16  Janse/Hordijk        def.  Zehender/Sinclair    63
+     16  Jankulovski/Waterbo… def.  Kamel/Laplante       63
+     16  Dulganov/Oka         def.  Salton/Martinez      61
+     16  Dulganov/Van Dalen   def.  Ganguly/Ziebart      64
+ > Doubles, SUN, R3 II
+  > Main
+     16  Muratovic/Johnston   def.  Ziebart/De Jesus     64
 ~~~
 
 <a name="21-99765"></a>
