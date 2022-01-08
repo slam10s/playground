@@ -5,6 +5,7 @@
 - 10/16/2021 - [Brown Classic](#21-58015) ([Results](#21-58015) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Mountain Regional Championship](#21-74915) ([Results](#21-74915) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Northeast Regional Championship](#21-91243) ([Results](#21-91243) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PrincetonUniversityW/Tournaments/Overview/0C7B6C0C-55A8-40D4-99E2-74A41DAE65B6" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Women's Southeast Regional Championship](#21-46458) ([Results](#21-46458) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaW/Tournaments/Overview/477EFA21-99A1-4948-BCBA-3E47323DA44C" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Southern Regional Championship](#21-32447) ([Results](#21-32447) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaW/Tournaments/Overview/3664EBFB-3074-4E63-93F8-6E120D21EEF6" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Women's Texas Regional Championship](#21-76092) ([Results](#21-76092) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F" target="_blank">Draws</a>)  
 - 10/15/2021 - [Martha Thorn Invitational](#21-82907) ([Results](#21-82907) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A" target="_blank">Draws</a>)  
@@ -225,6 +226,65 @@
      16  Jackson/Herremans def.  Shvets/Rodilosso     16 76(5) [3]
      16  Wei/Kulhava       def.  Ito/Kimoto           62 64
      16  Rutlauka/Chan     def.  Aguiar/Lopez         36 75 [9]
+~~~
+
+<a name="21-46458"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════
+  ITA Division I Women's Southeast Regional Championship
+  Dates: Oct 14-27, 2021
+  Host: University Of Central Florida (W)
+═════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Main Draw 1
+  > Main
+       F (2) Gulihur/Melilo       def. (7) Briggs/Zein          57 62 [5]
+      SF (7) Briggs/Zein          def.     Dudeney/Berlin       62 63
+      SF (2) Gulihur/Melilo       def. (3) Coppoc/Reasco        62 64
+      QF (7) Briggs/Zein          def.     Khodan/Tahan         84
+      QF     Dudeney/Berlin       def.     Mattel/Sharma        85
+      QF (3) Coppoc/Reasco        def.     Umarova/Kabbaj       86
+      QF (2) Gulihur/Melilo       def.     Achong/Richardson    86
+      16     Khodan/Tahan         def. (1) Hule/Allen           85
+      16 (7) Briggs/Zein          def.     Kowalski/Nirundorn   82
+      16     Dudeney/Berlin       def. (5) Pfennig/Boch-Collins 85
+      16     Mattel/Sharma        def. (4) Hertel/Grant         87(5)
+      16 (3) Coppoc/Reasco        def.     Arkadianou/Jacobs    84
+      16     Umarova/Kabbaj       def.     Kattenberg/Leslie    83
+      16     Achong/Richardson    def. (8) Bilchev/Hrastar      86
+      16 (2) Gulihur/Melilo       def.     Zeleva/Levashova     Default
+      32 (1) Hule/Allen           def.     Kudelova/MGinnis     87(2)
+      32     Khodan/Tahan         def.     Oliveira/Yardley     84
+      32     Kowalski/Nirundorn   def.     Dean/Muzik           87(3)
+      32 (7) Briggs/Zein          def.     Tillitt/Courville    82
+      32 (5) Pfennig/Boch-Collins def.     Kentish/Smith        82
+      32     Dudeney/Berlin       def.     Cohen/Garcia Gross   84
+      32     Mattel/Sharma        def.     Ferding/Norin        82
+      32 (4) Hertel/Grant         def.     Boy/Berry            83
+      32 (3) Coppoc/Reasco        def.     Lee/Taddia           83
+      32     Arkadianou/Jacobs    def.     Gabriel/Darley       84
+      32     Kattenberg/Leslie    def.     Sharabura/Lee        84
+      32     Umarova/Kabbaj       def. (6) Shelton/Spee         82
+      32 (8) Bilchev/Hrastar      def.     Hubeaut/Sandy        83
+      32     Achong/Richardson    def.     Carney/Alvarez       84
+      32     Zeleva/Levashova     def.     Heimen/Hijos         84
+      32 (2) Gulihur/Melilo       def.     Clayton/Ma           86
+  > Consolation
+     16Q     Oliveira/Yardley     def.     Kudelova/MGinnis     87(3)
+     16Q     Dean/Muzik           def.     Tillitt/Courville    82
+     16Q     Cohen/Garcia Gross   def.     Kentish/Smith        81
+     16Q     Ferding/Norin        def.     Boy/Berry            85
+     16Q     Gabriel/Darley       def.     Lee/Taddia           84
+     16Q     Sharabura/Lee        def. (6) Shelton/Spee         82
+     16Q     Carney/Alvarez       def.     Hubeaut/Sandy        86
+     16Q     Clayton/Ma           def.     Heimen/Hijos         81
+ > Qualifying Draw
+  > Main
+      QF (1) Dudeney/Berlin       def.     Aldrich/Frediani     80
+      QF     Lee/Taddia           def. (4) Schieroni/Filip      84
+      QF (3) Khodan/Tahan         def.     Matthews/Sommer      87(4)
+      QF (2) Clayton/Ma           def.     Di Francesco/Cohen   87(4)
+      16     Aldrich/Frediani     def.     Porter/Salinas       86
 ~~~
 
 <a name="21-32447"></a>

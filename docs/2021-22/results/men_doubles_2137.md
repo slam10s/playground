@@ -11,6 +11,7 @@
 - 9/17/2021 - [Easley Memorial](#21-68006) ([Results](#21-68006) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Draws</a>)  
 - 9/17/2021 - [Jersey Mike's Seahawk Fall Invitational](#21-41355) ([Results](#21-41355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/B5F60616-E79D-49E3-B226-EA1A8F6D19C9" target="_blank">Draws</a>)  
 - 9/17/2021 - [Lakes Tennis Club Invite](#21-22672) ([Results](#21-22672) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOklahomaM/Tournaments/Overview/C4392CA9-3D72-477E-9550-4FE92C5723E8" target="_blank">Draws</a>)  
+- 9/18/2021 - [Lehigh Men's Tennis Invite](#21-40280) ([Results](#21-40280) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityM/Tournaments/Overview/DC12F12F-6866-4F1B-A1DE-CB27F27A4E6F" target="_blank">Draws</a>)  
 - 9/17/2021 - [Men's Drake Invite](#21-75794) ([Results](#21-75794) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DrakeUniversityM/Tournaments/Overview/85AE0B8E-86E0-4EAE-A572-CE5DC0BA3FB7" target="_blank">Draws</a>)  
 - 9/18/2021 - [Milwaukee Tennis Classic](#21-02376) ([Results](#21-02376) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/4310416C-7EB8-49BC-9A59-895CD6BEE8F8" target="_blank">Draws</a>)  
 - 9/17/2021 - [OSU Invitational](#21-91661) ([Results](#21-91661) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OklahomaStateUniversityM/Tournaments/Overview/D4F405A0-9744-41D5-B40A-884B0F1AADEF" target="_blank">Draws</a>)  
@@ -413,6 +414,44 @@
      R3  Krall/Chakravarthi def.  Barnett/Grear     86
      R2  Schlageter/Han     def.  Ribero/Arevalo    86
      R2  Hotard/Muza        def.  Vittar/Sekiguchi  86
+~~~
+
+<a name="21-40280"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Lehigh Men's Tennis Invite
+  Dates: Sep 18-19, 2021
+  Host: Lehigh University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Doubles Round 1
+  > Main
+     R4  Elliott/Blekhman     def.  Cadeau/Mayers      85
+     R4  Learner/Kleiman      def.  Dawson/Dunac       82
+     R4  Paul/Bukhalo         def.  Knowles/Martin     83
+     R4  Fishkin/Nakhjavan    def.  Williams/Westbrook 86
+     R4  Morkel/Gore          def.  Silva/Massam       83
+     R4  Olive-Blanco/Hodges  def.  Busato/Zeiler      87(3)
+     R4  OBrien/Mitrovic      def.  Laporta/Dussaubat  87(6)
+     R4  Immink/Schlesinger   def.  Klapman/Pachnev    86
+ > Doubles Round 2
+  > Main
+     R4  Cadeau/Mayers        def.  Busato/Zeiler      87(2)
+     R4  Dawson/Dunac         def.  Silva/Massam       85
+     R4  Klapman/Pachnev      def.  Knowles/Martin     86
+     R4  Laporta/Dussaubat    def.  Williams/Westbrook 81
+     R4  Morkel/Hodges        def.  Elliott/Blekhman   86
+     R4  Gore/OBrien          def.  Learner/Kleiman    83
+     R4  Olive-Blanco/Shah    def.  Paul/Bukhalo       85
+     R4  Mitrovic/Schlesinger def.  Nazaroff/Fishkin   86
+ > Doubles Round 3
+  > Main
+     R7  Learner/Kleiman      def.  Laporta/Dussaubat  83
+     R7  Klapman/Pachnev      def.  Paul/Bukhalo       83
+     R7  Olive-Blanco/OBrien  def.  Knowles/Martin     86
+     R7  Schlesinger/Shah     def.  Williams/Westbrook 82
+     R3  Elliott/Blekhman     def.  Massam/Busato      87(4)
+     R3  Morkel/Hodges        def.  Dawson/Dunac       84
 ~~~
 
 <a name="21-75794"></a>

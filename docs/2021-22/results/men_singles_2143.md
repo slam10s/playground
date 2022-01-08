@@ -4,10 +4,12 @@
 - 10/22/2021 - [ITA Division I Men's Atlantic Super Regional Championship](#21-69139) ([Results](#21-69139) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OldDominionUniversityM/Tournaments/Overview/E9C8EB3D-E4DF-474A-A6B4-6B1FEA7BE33A" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Men's Carolina Regional Championship](#21-42333) ([Results](#21-42333) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/3619E668-F531-4330-85DA-E1542DDFC2FD" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Central Regional Championship](#21-50726) ([Results](#21-50726) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNebraskaM/Tournaments/Overview/5C06D6C9-B27E-4C47-A3E5-6CFEE67B302C" target="_blank">Draws</a>)  
+- 10/21/2021 - [ITA Division I Men's Midwest Regional Championship](#21-68953) ([Results](#21-68953) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/EDF51444-0D05-4314-9A0B-AA5FCCB123E8" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Men's Northwest Super Regional Championship](#21-64957) ([Results](#21-64957) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonM/Tournaments/Overview/FCD50A53-E765-4641-A4EF-4F8678B573CA" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
 - 10/28/2021 - [64th Annual Southern California Intercollegiate Championships](#21-75985) ([Results](#21-75985) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C4E32C26-7D14-4AC0-A541-D88C4915F072" target="_blank">Draws</a>)  
+- 10/29/2021 - [Crimson Halloween Invite](#21-48385) ([Results](#21-48385) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityM/Tournaments/Overview/5736DC43-EAD2-4C0F-B6BA-B3116A8B88DF" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gamecock Scramble](#21-06171) ([Results](#21-06171) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaM/Tournaments/Overview/7B5697CF-A931-42EA-97E2-9844456E7ACA" target="_blank">Draws</a>)  
 - 10/29/2021 - [Gonzaga Invitational](#21-84042) ([Results](#21-84042) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B" target="_blank">Draws</a>)  
 - 10/29/2021 - [Rice Fall Challenge](#21-45244) ([Results](#21-45244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RiceUniversityM/Tournaments/Overview/014D4049-2DA7-4F05-A176-8C88B48C0A0E" target="_blank">Draws</a>)  
@@ -477,6 +479,156 @@
       32      Nikita Snezhko       def.      Pavel Badaiants      46 63 [9]
       32      Petro Alex           def.      Meg Siritaworachan   76(3) 64
       32      Dario Huber          def.      Edmond Aynedjian     63 75
+~~~
+
+<a name="21-68953"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  ITA Division I Men's Midwest Regional Championship
+  Dates: Oct 21-25, 2021
+  Host: Michigan State University (M)
+═════════════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Main Draw
+  > Main
+        F  (3) James Trotter        def.  (7) JJ Tracy             63 64
+       SF  (7) JJ Tracy             def.      Trice Pickens        61 62
+       SF  (3) James Trotter        def.  (2) Ondrej Styler        62 10 Ret.
+       QF      Trice Pickens        def. (11) Robert Cash          63 64
+       QF  (7) JJ Tracy             def. (12) Olivier Stuart       62 62
+       QF  (3) James Trotter        def.  (8) Patrick Maloney      62 67(5) 63
+       QF  (2) Ondrej Styler        def. (13) Justin Boulais       76(8) 36 76(5)
+       16 (11) Robert Cash          def.  (1) Axel Nefve           63 64
+       16      Trice Pickens        def.  (6) Vito Tonejc          61 61
+       16 (12) Olivier Stuart       def.  (4) Andrew Fenty         64 75
+       16  (7) JJ Tracy             def. (10) Gavin Young          16 61 76(4)
+       16  (8) Patrick Maloney      def. (16) Kweisi Kenyatte      64 76(3)
+       16  (3) James Trotter        def.      Max Sheldon          62 63
+       16 (13) Justin Boulais       def.      Nino Ehrenschneider  64 46 76(3)
+       16  (2) Ondrej Styler        def. (15) Hunter Heck          62 63
+       32  (1) Axel Nefve           def.      Maxime Mareschal-Hay 63 64
+       32 (11) Robert Cash          def.      Alex Brown           62 75
+       32  (6) Vito Tonejc          def.      Peter Kuszynski      64 63
+       32      Trice Pickens        def.      Brian Bilsey         61 61
+       32  (4) Andrew Fenty         def.      Brian Berdusco       61 61
+       32 (12) Olivier Stuart       def.      Anton Arzhankin      46 61 64
+       32  (7) JJ Tracy             def.      Sebastian Vile       61 63
+       32 (10) Gavin Young          def.      Benjamin George      63 64
+       32 (16) Kweisi Kenyatte      def.      Jack Winkler         64 40 Ret.
+       32  (8) Patrick Maloney      def.      Connor Fu            75 60
+       32      Max Sheldon          def.      Jackson Boone        60 62
+       32  (3) James Trotter        def.      Yu Zhang             62 76(2)
+       32 (13) Justin Boulais       def.      Jared Pratt          16 62 63
+       32      Nino Ehrenschneider  def.      Matthew Che          64 36 63
+       32 (15) Hunter Heck          def.      Arjun Honnappa       63 61
+       32  (2) Ondrej Styler        def.      Daniel Nuzhny        63 64
+       64  (1) Axel Nefve           def.      Alex Zederbauer      61 62
+       64      Maxime Mareschal-Hay def.      Graydon Lair         63 60
+       64 (11) Robert Cash          def.      Patorn Hanchaikul    64 62
+       64      Alex Brown           def.      Fynn Lohse           62 64
+       64  (6) Vito Tonejc          def.      Anthony Pero         63 61
+       64      Peter Kuszynski      def.      Tim Dzhurinskiy      61 62
+       64      Trice Pickens        def.  (9) Jacob Bickersteth    76(5) 62
+       64      Brian Bilsey         def.      Alex Petrov          16 64 64
+       64  (4) Andrew Fenty         def.      Luke Baylis          61 64
+       64      Brian Berdusco       def.      Pedro Alvarez        57 63 76(3)
+       64 (12) Olivier Stuart       def.      Laurentiu Mandocescu 64 60
+       64      Anton Arzhankin      def.      Robin Parts          76(5) 64
+       64  (7) JJ Tracy             def.      Nick Williams        61 61
+       64      Sebastian Vile       def.      Clark Bilinovich     60 60
+       64 (10) Gavin Young          def.      Nic Meister          61 57 63
+       64      Benjamin George      def.      Braeden Ho           67(2) 60 76(4)
+       64      Jack Winkler         def.      Lenard Soha          46 61 62
+       64 (16) Kweisi Kenyatte      def.      Simen Bratholm       63 64
+       64      Connor Fu            def.      Fran San Andres      64 62
+       64  (8) Patrick Maloney      def.      Pawit Sornlaksup     67(3) 63 60
+       64      Jackson Boone        def.      Tripp Tuff           67(4) 61 62
+       64      Max Sheldon          def. (14) Nick Beaty           62 67(4) 64
+       64      Yu Zhang             def.      Kade Mindry          64 62
+       64  (3) James Trotter        def.      Lucas Horve          75 62
+       64      Jared Pratt          def.      Carson Gates         76(4) 62
+       64 (13) Justin Boulais       def.      Gabrielius Guzauskas 64 61
+       64      Matthew Che          def.      Joaquin Caballer     76(5) 63
+       64      Nino Ehrenschneider  def.  (5) Steven Forman        75 46 63
+       64      Arjun Honnappa       def.      Jakov Suler          64 63
+       64 (15) Hunter Heck          def.      Peter Conklin        76(5) 46 63
+       64      Daniel Nuzhny        def.      Charalampos Fouzas   36 64 64
+       64  (2) Ondrej Styler        def.      Mikael Erler         61 64
+ > Main Draw Consolation Matches
+  > Main
+       32      Peter Conklin        def.      Tripp Tuff           61 60
+       32      Simen Bratholm       def.      Braeden Ho           64 64
+       32      Nick Beaty           def.      Mikael Erler         63 76(5)
+       32      Carson Gates         def.      Fynn Lohse           61 61
+       32      Robin Parts          def.      Anthony Pero         76(4) 64
+       32      Gabrielius Guzauskas def.      Nick Williams        46 61 [6]
+       32      Graydon Lair         def.      Alex Zederbauer      46 64 [5]
+       32      Jacob Bickersteth    def.      Lucas Horve          62 64
+       32      Alex Petrov          def.      Patorn Hanchaikul    61 62
+ > MSU Men's FMC
+  > Main
+       32      Marino Jakic         def.      Jonny Yaffe          64 76(4)
+       32      Nathan Favier        def.      Javier Sanchez Prad… 61 64
+       32      Brogan Pierce        def.      Erik Gran            61 75
+       32      JuandeDios Abboud    def.      Zane Kohrs           76 64
+       32      Kazuki Matsuno       def.      Maximiliano Sandova… 62 63
+       32      Marko Galic          def.      Jakub Zamorski       63 64
+       32      Vlad Meluta          def.      Austin Staiger       61 63
+       32      Adam Kovac           def.      Ferdinand Schlueter  46 63 [6]
+       32      Hugo Chatras         def.      Diego Herrera        64 62
+ > Arranged Matches
+  > Main
+        F      Nick Beaty           def.      Lenard Soha          76(4) 64
+ > Qualifying Draw
+  > Main
+       64  (1) Anton Arzhankin      def.      Stefan Drogovic      36 60 63
+       64      Clark Bilinovich     def.      Jarreau Campbell     62 75
+       64      Joaquin Caballer     def.      Melker Isaksson      46 75 63
+       64      Daniel Nuzhny        def.      Tin Krstulovic       63 36 62
+       64      Jakov Suler          def.  (8) Nam Pham             64 46 63
+       64      Kade Mindry          def.  (5) Krzystof Wetoszka    76(4) 63
+       64      Pedro Alvarez        def.      David Alvarez Moreno 60 60
+       64      Luke Baylis          def.      Leon Huck            76(3) 46 61
+      128  (1) Anton Arzhankin      def.      Clement Mainguy      64 61
+      128      Stefan Drogovic      def.      Ryan Fu              26 14 Ret.
+      128      Clark Bilinovich     def.  (2) Marino Jakic         62 75
+      128      Jarreau Campbell     def.      Jan Jauch            61 36 64
+      128      Joaquin Caballer     def.  (3) Josh Mukherjee       60 61
+      128      Melker Isaksson      def.      Hugo Chatras         76(3) 75
+      128      Tin Krstulovic       def.  (4) Matthew Halpin       62 61
+      128      Daniel Nuzhny        def.      Reed Crocker         63 64
+      128  (8) Nam Pham             def.      Luuk Wassenaar       61 60
+      128  (5) Krzystof Wetoszka    def.      Antonio Matteo Iaqu… 75 63
+      128      Kade Mindry          def.      Pol Botifoll Rius    57 62 63
+      128      Pedro Alvarez        def.  (7) Jonny Yaffe          61 62
+      128      David Alvarez Moreno def.      Arvid Hjalte         62 46 64
+      128      Luke Baylis          def.  (6) Jameson Corsillo     62 57 62
+      128      Leon Huck            def.      Wojciech Szczesny    76(5) 76(9)
+      256      Clement Mainguy      def.      Austin Staiger       63 61
+      256      Ryan Fu              def.      Diego Le Gal Perez   61 61
+      256      Stefan Drogovic      def.      Cole Shoults         64 63
+      256      Clark Bilinovich     def.      Dominick Cuchran     63 64
+      256      Jarreau Campbell     def.      Adam Kovac           64 62
+      256      Jan Jauch            def.      Jesus Perez Plaza    75 36 75
+      256      Joaquin Caballer     def.      Sven Moser           63 62
+      256      Melker Isaksson      def.      Jakub Zamorski       67(6) 61 61
+      256      Tin Krstulovic       def.      Maximiliano Sandova… 62 63
+      256      Reed Crocker         def.      Zane Kohrs           63 76(7)
+      256      Daniel Nuzhny        def.      Marko Galic          36 63 63
+      256      Luuk Wassenaar       def.      Josh Portnoy         60 61
+      256      Jakov Suler          def.      Erik Gran            76(5) 46 60
+      256      Antonio Matteo Iaqu… def.      Kazuki Matsuno       61 62
+      256      Pol Botifoll Rius    def.      Nathan Favier        16 63 62
+      256      Kade Mindry          def.      Brogan Pierce        36 63 75
+      256      Pedro Alvarez        def.      Ferdinand Schlueter  46 63 61
+      256      David Alvarez Moreno def.      Vlad Meluta          61 63
+      256      Arvid Hjalte         def.      Lars Minsaas         63 62
+      256      Luke Baylis          def.      JuandeDios Abboud    63 60
+      256      Leon Huck            def.      Javier Sanchez Prad… 46 63 63
+      256      Wojciech Szczesny    def.      Diego Herrera        61 63
+  > Consolation
+      128      Sven Moser           def.      Dominick Cuchran     75 63
+     128Q      Lars Minsaas         def.      Cole Shoults         62 63
 ~~~
 
 <a name="21-64957"></a>
@@ -971,6 +1123,55 @@
      64     Adrian Daoust        def.     Henry Habib          61 61
      64     Jan Simon            def.     Danny Marsh          60 75
      64     Ryan Nuno            def.     Josh Blinder         60 61
+~~~
+
+<a name="21-48385"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  Crimson Halloween Invite
+  Dates: Oct 29-31, 2021
+  Host: Harvard University (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Friday 10/29
+  > Main
+     32  Ching Lam        def.  Dominik Pauli        64 75
+     32  Alex Knox-Jones  def.  Chun Lam             64 63
+     32  Niraj Komatineni def.  Pierce Widdecombe    46 75 75
+     32  Sam Feldman      def.  Logan Chang          67(5) 76(5) 62
+     32  Sid Chari        def.  Matthew Mu           62 36 63
+     32  Brian Chong      def.  Alexander Pritzker   61 61
+     32  David Lins       def.  Michael Sun          62 76(4)
+     32  Theo Dean        def.  Dion Loutas          63 61
+     32  Renaud Lefevre   def.  Johann Sajonz        60 63
+     32  Aidan Reilly     def.  Adrian Pawlowski     61 63
+     32  Luke Neal        def.  David Arkow          61 62
+     32  Walker Oberg     def.  Ben Letzer           63 36 62
+ > Saturday 10/30
+  > Main
+     32  Michael Sun      def.  Ching Lam            63 60
+     32  Theo Dean        def.  Chun Lam             60 61
+     32  Renaud Lefevre   def.  Niraj Komatineni     76(5) 16 61
+     32  Luke Neal        def.  Sam Feldman          62 62
+     32  Aidan Reilly     def.  Matthew Mu           62 60
+     32  Walker Oberg     def.  Brian Chong          62 62
+     32  David Lins       def.  Pierce Widdecombe    62 75
+     32  Niels Korsgaard  def.  Dion Loutas          61 63
+     32  David Arkow      def.  Johann Sajonz        36 62 [7]
+ > Sunday 10/31
+  > Main
+     32  Michael Sun      def.  Carlos Guerrero Alv… 62 57 62
+     32  Theo Dean        def.  Dominik Pauli        75 61
+     32  Renaud Lefevre   def.  Alex Knox-Jones      62 64
+     32  Aidan Reilly     def.  Pierce Widdecombe    61 75
+     32  Luke Neal        def.  Daniel Webb          76(5) 63
+     32  Walker Oberg     def.  Logan Chang          76(5) 67(5) [6]
+     32  David Lins       def.  Ching Lam            62 16 63
+     32  Niraj Komatineni def.  Niels Korsgaard      62 64
+     32  Dion Loutas      def.  Chun Lam             67(5) 64 76(5)
+     32  David Arkow      def.  Sam Feldman          76(6) 76(4)
+     32  Brian Chong      def.  Johann Sajonz        26 64 63
+     32  Matthew Mu       def.  Elisha Thornton      76(5) 67(1) [7]
 ~~~
 
 <a name="21-06171"></a>

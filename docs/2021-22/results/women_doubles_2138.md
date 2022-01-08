@@ -33,6 +33,7 @@
 - 9/23/2021 - [Division II Women's South Central ITA Regional Championships](#21-38109) ([Results](#21-38109) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AngeloStateUniversityW/Tournaments/Overview/3ED81CC9-A8E1-4259-B508-B4D6EEF90A89" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division III Women's Southeast ITA Regional Championships](#21-12873) ([Results](#21-12873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Central ITA Regional Championships](#21-33883) ([Results](#21-33883) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CowleyCountyCCM/Tournaments/Overview/BC95B2DD-9F42-4CC1-B3FD-B28A7F6354E1" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Southeast ITA Regional Championships](#21-59818) ([Results](#21-59818) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AbrahamBaldwinCollegeM/Tournaments/Overview/0C49FE79-13DE-4D89-BE12-0363D7D96FAE" target="_blank">Draws</a>)  
@@ -1845,6 +1846,65 @@
      32  Robinson/Shogren     def.  Hoffer/Becker        84
      32  Jacobs/Nissen        def.  Weddle/Orvis         84
      32  Hierl/Kalinka        def.  Grimm/DenHartog      82
+~~~
+
+<a name="21-04287"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Division III Women's Northwest ITA Regional Championships
+  Dates: Sep 24-27, 2021
+  Host: George Fox University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+       F  Castellanos Caldero… def.  Binder/Binder        63 36 76(2)
+      SF  Castellanos Caldero… def.  Kern/Matsunaga       84
+      SF  Binder/Binder        def.  Fiocchi/Fujimori     81
+      QF  Kern/Matsunaga       def.  Rice/Uribe           82
+      QF  Castellanos Caldero… def.  Forester/Wong        82
+      QF  Fiocchi/Fujimori     def.  Jha/Tarpey-Schwed    83
+      QF  Binder/Binder        def.  Kert/Plank           83
+      16  Kern/Matsunaga       def.  Nguyen/Stokes        82
+      16  Rice/Uribe           def.  Loacti/Smyley        81
+      16  Forester/Wong        def.  Brown/Wiker          87(4)
+      16  Castellanos Caldero… def.  Burriss/Sarmiento    81
+      16  Fiocchi/Fujimori     def.  Mangan/Morris        82
+      16  Jha/Tarpey-Schwed    def.  Groener/Suzuki       80
+      16  Kert/Plank           def.  Machida/Honaker      84
+      16  Binder/Binder        def.  Mock/Thorp           80
+      32  Kern/Matsunaga       def.  Bond/Onoja           81
+      32  Nguyen/Stokes        def.  Eligio/Rufo          87(3)
+      32  Loacti/Smyley        def.  Hitch/Vanderyacht    84
+      32  Rice/Uribe           def.  Heinke/Chatham       81
+      32  Forester/Wong        def.  Thompson/Turner      80
+      32  Brown/Wiker          def.  Bethards/Lakerveld   83
+      32  Burriss/Sarmiento    def.  Harper/Kreps         87(7)
+      32  Castellanos Caldero… def.  Caseb-Klescova/Truo… 81
+      32  Fiocchi/Fujimori     def.  Stratton/Vives       81
+      32  Mangan/Morris        def.  Burnett/Chong        83
+      32  Groener/Suzuki       def.  Shinall/Perez        86
+      32  Jha/Tarpey-Schwed    def.  Bedford/Nelson       80
+      32  Machida/Honaker      def.  McDonald/Rader       82
+      32  Kert/Plank           def.  Carter/Rylander      81
+      32  Mock/Thorp           def.  Bloom/Lau            80
+      32  Binder/Binder        def.  Gardner/Tuttle       81
+  > Consolation
+       F  Caseb-Klescova/Truo… def.  Stratton/Vives       83
+      SF  Caseb-Klescova/Truo… def.  Heinke/Chatham       81
+      SF  Stratton/Vives       def.  Gardner/Tuttle       82
+      QF  Heinke/Chatham       def.  Eligio/Rufo          81
+      QF  Caseb-Klescova/Truo… def.  Hitch/Vanderyacht    82
+      QF  Stratton/Vives       def.  Shinall/Perez        87(6)
+      QF  Gardner/Tuttle       def.  Carter/Rylander      84
+     16Q  Eligio/Rufo          def.  Bond/Onoja           85
+     16Q  Heinke/Chatham       def.  Thompson/Turner      80
+     16Q  Hitch/Vanderyacht    def.  Bethards/Lakerveld   85
+     16Q  Caseb-Klescova/Truo… def.  Harper/Kreps         84
+     16Q  Stratton/Vives       def.  Burnett/Chong        83
+     16Q  Shinall/Perez        def.  Bedford/Nelson       83
+     16Q  Carter/Rylander      def.  McDonald/Rader       82
+     16Q  Gardner/Tuttle       def.  Bloom/Lau            84
 ~~~
 
 <a name="21-12873"></a>

@@ -12,6 +12,7 @@
 - 11/5/2021 - [Liberty Dual](#21-62931) ([Results](#21-62931) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/A51E4801-DD54-4C66-A187-7820D7D7ACAF" target="_blank">Draws</a>)  
 - 11/5/2021 - [MAC Invite](#21-92934) ([Results](#21-92934) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/904B03DF-C1F9-40F4-BE7B-ACF330F850AB" target="_blank">Draws</a>)  
 - 11/5/2021 - [Pacific Invitational](#21-54445) ([Results](#21-54445) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfThePacificM/Tournaments/Overview/32DAC0A6-A705-4382-880F-230A39E21F42" target="_blank">Draws</a>)  
+- 11/5/2021 - [Ralston/Neufeld Coaches Challenge](#21-70244) ([Results](#21-70244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivM/Tournaments/Overview/4DFFAD56-EAA9-4394-8451-1B5126D73B7A" target="_blank">Draws</a>)  
 - 11/5/2021 - [San Diego Veterans Tennis Classic](#21-91602) ([Results](#21-91602) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">Draws</a>)  
 - 11/5/2021 - [Southern Conference Men's & Women's Fall Tennis Championships](#21-32980) ([Results](#21-32980) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3BD3D9A3-1CE7-4BB9-93E6-7D1ECED07DFE" target="_blank">Draws</a>)  
 - 11/5/2021 - [UCF Invite Hidden Dual](#21-27721) ([Results](#21-27721) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaM/Tournaments/Overview/312E7653-F666-486E-8B90-123F7F8F8F9D" target="_blank">Draws</a>)  
@@ -508,6 +509,28 @@
      R1  Watt/Potts         def.  Davis/Volgin       63
      R1  Davis/Wong         def.  Saini/Alam         64
      R1  Inno/Keyser        def.  Dalmasso/Neuhaus   63
+~~~
+
+<a name="21-70244"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Ralston/Neufeld Coaches Challenge
+  Dates: Nov 5-7, 2021
+  Host: Southern Methodist Univ. (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+      F  Sillman/Zisette      def.  Redelijk/Stafford    76(5)
+     SF  Sillman/Zisette      def.  Andrei/Scharfenberg  76(5)
+     SF  Redelijk/Stafford    def.  Bradshaw/Ford        76(4)
+     QF  Sillman/Zisette      def.  Abbey/Muniz          63
+     QF  Andrei/Scharfenberg  def.  Neumaier/Schwieger   64
+     QF  Bradshaw/Ford        def.  Siqueira-Girondi/Fl… 62
+     QF  Redelijk/Stafford    def.  Garcia-Arrabal/Simo… 63
+  > Consolation
+     SQ  Neumaier/Schwieger   def.  Abbey/Muniz          64
+     SQ  Garcia-Arrabal/Simo… def.  Siqueira-Girondi/Fl… 62
 ~~~
 
 <a name="21-91602"></a>

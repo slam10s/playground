@@ -7,6 +7,7 @@
 - 10/22/2021 - [ITA Division I Men's Atlantic Super Regional Championship](#21-69139) ([Results](#21-69139) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/OldDominionUniversityM/Tournaments/Overview/E9C8EB3D-E4DF-474A-A6B4-6B1FEA7BE33A" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Men's Carolina Regional Championship](#21-42333) ([Results](#21-42333) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/3619E668-F531-4330-85DA-E1542DDFC2FD" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Central Regional Championship](#21-50726) ([Results](#21-50726) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfNebraskaM/Tournaments/Overview/5C06D6C9-B27E-4C47-A3E5-6CFEE67B302C" target="_blank">Draws</a>)  
+- 10/21/2021 - [ITA Division I Men's Midwest Regional Championship](#21-68953) ([Results](#21-68953) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/EDF51444-0D05-4314-9A0B-AA5FCCB123E8" target="_blank">Draws</a>)  
 - 10/22/2021 - [ITA Division I Men's Northwest Super Regional Championship](#21-64957) ([Results](#21-64957) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonM/Tournaments/Overview/FCD50A53-E765-4641-A4EF-4F8678B573CA" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southeast Regional Championship](#21-64282) ([Results](#21-64282) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231" target="_blank">Draws</a>)  
 - 10/21/2021 - [ITA Division I Men's Southwest Regional Championship](#21-55204) ([Results](#21-55204) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0" target="_blank">Draws</a>)  
@@ -17,6 +18,7 @@
 - 10/23/2021 - [MIT Classic](#21-15791) ([Results](#21-15791) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/7E100217-7269-401A-99AA-F3C782FC0593" target="_blank">Draws</a>)  
 - 10/22/2021 - [MIT Invite](#21-83746) ([Results](#21-83746) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MassachusettsInstOfTechM/Tournaments/Overview/085F7190-F411-4419-8C0B-7C7CD7540AD4" target="_blank">Draws</a>)  
 - 10/22/2021 - [MSU Invitational](#21-16812) ([Results](#21-16812) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MidwesternStateUnivM/Tournaments/Overview/2F1E871E-51F3-4B1A-A596-0CF211A9C49D" target="_blank">Draws</a>)  
+- 10/22/2021 - [YTF Southeastern Invitational](#21-42214) ([Results](#21-42214) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheasternUniversityM/Tournaments/Overview/EE50E3A9-0A2D-49F7-9079-E26E7D714BFF" target="_blank">Draws</a>)  
 
 <a name="21-34853"></a>
 ~~~
@@ -161,11 +163,11 @@
 
 <a name="21-65872"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   Islander Open
   Dates: Oct 22-24, 2021
   Host: Texas A&M University, Corpus Christi (M)
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Flight A
   > East
@@ -355,6 +357,69 @@
      64     Sullwald/Snezhko     def.     Ross/Lanahan         85
 ~~~
 
+<a name="21-68953"></a>
+~~~
+══════════════════════════════════════════════════════════════════════════
+  ITA Division I Men's Midwest Regional Championship
+  Dates: Oct 21-25, 2021
+  Host: Michigan State University (M)
+══════════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+      F  (3) Fenty/Ehrenschneider def.  (1) Boulais/Cash         75 62
+     SF  (1) Boulais/Cash         def. (11) Vile/Parts           64 62
+     SF  (3) Fenty/Ehrenschneider def.  (9) Meister/Stuart       63 36 [4]
+     QF  (1) Boulais/Cash         def.      Tonejc/Jakic         84
+     QF (11) Vile/Parts           def.      Che/Zhang            85
+     QF  (3) Fenty/Ehrenschneider def.  (6) Heck/Horve           85
+     QF  (9) Meister/Stuart       def. (10) Young/Bickersteth    85
+     16  (1) Boulais/Cash         def.      Mareschal-Hay/Abboud 81
+     16      Tonejc/Jakic         def.  (8) Bratholm/Berdusco    86
+     16      Che/Zhang            def.  (4) Brown/Kenyatte       85
+     16 (11) Vile/Parts           def.  (7) Maloney/Beaty        87(4)
+     16  (6) Heck/Horve           def. (13) Pickens/Forman       87(4)
+     16  (3) Fenty/Ehrenschneider def.      Gran/Fouzas          85
+     16 (10) Young/Bickersteth    def.      Wassenaar/Minsaas    84
+     16  (9) Meister/Stuart       def.  (2) Tracy/Trotter        86
+     32  (1) Boulais/Cash         def.      Sanchez Pradillo/Al… 82
+     32      Mareschal-Hay/Abboud def.      Ho/Fu                87(4)
+     32  (8) Bratholm/Berdusco    def.      Nuzhny/Dzhurinskiy   82
+     32      Tonejc/Jakic         def. (15) Petrov/Guzauskas     86
+     32  (4) Brown/Kenyatte       def.      San Andres/Krstulov… 86
+     32      Che/Zhang            def.      Sornlaksup/Shoults   86
+     32  (7) Maloney/Beaty        def.      Pena Ibanez/Alvarez… 83
+     32 (11) Vile/Parts           def.      Crocker/Winkler      83
+     32 (13) Pickens/Forman       def.      Lohse/Schlueter      83
+     32  (6) Heck/Horve           def.      Mukherjee/Gates      81
+     32      Gran/Fouzas          def. (12) Pratt/Soha           86
+     32  (3) Fenty/Ehrenschneider def.      Matsuno/Williams     85
+     32 (10) Young/Bickersteth    def.      Drogovic/Jauch       84
+     32      Wassenaar/Minsaas    def.  (5) Conklin/Nefve        85
+     32  (9) Meister/Stuart       def.      Lair/Campbell        87(2)
+     32  (2) Tracy/Trotter        def.      Mandocescu/Everett   81
+     64      Sanchez Pradillo/Al… def.      Pham/Kohrs           85
+     64      Ho/Fu                def. (14) Kuszynski/Honnappa   87(5)
+     64      Mareschal-Hay/Abboud def.      Fu/Hanchaikul        Walkover
+     64      Nuzhny/Dzhurinskiy   def.      Baylis/Pero          84
+     64 (15) Petrov/Guzauskas     def.      Kovac/Szczesny       87(3)
+     64      Tonejc/Jakic         def.      Mainguy/Favier       86
+     64      San Andres/Krstulov… def.      Hjalte/Botifoll Rius 81
+     64      Che/Zhang            def. (16) Mindry/Bilinovich    82
+     64      Sornlaksup/Shoults   def.      Portnoy/Sheldon      82
+     64      Pena Ibanez/Alvarez… def.      Suler/Perez Plaza    85
+     64      Crocker/Winkler      def.      Tuff/Huck            86
+     64      Lohse/Schlueter      def.      Yaffe/Zederbauer     86
+     64 (13) Pickens/Forman       def.      Le Gal Perez/Isakss… 82
+     64      Mukherjee/Gates      def.      Iaquinto/Moser       85
+     64      Gran/Fouzas          def.      Bilsey/Halpin        83
+     64      Matsuno/Williams     def.      Meluta/Skaer         87(2)
+     64      Drogovic/Jauch       def.      Erler/Chatras        87(5)
+     64      Wassenaar/Minsaas    def.      Sandoval Dominguez/… 83
+     64      Lair/Campbell        def.      Herrera/Cuchran      87(3)
+     64      Mandocescu/Everett   def.      Galic/Wetoszka       85
+~~~
+
 <a name="21-64957"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════════
@@ -504,11 +569,11 @@
 
 <a name="21-19659"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   UNA Men's Classic
   Dates: Oct 23-23, 2021
   Host: University Of North Alabama (M)
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Purple
   > Main
@@ -524,11 +589,11 @@
 
 <a name="21-41693"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   Crusader Invitational
   Dates: Oct 21-22, 2021
   Host: Belmont Abbey College (M)
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > BAC 1 vs QU 1
   > Main
@@ -697,11 +762,11 @@
 
 <a name="21-15791"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   MIT Classic
   Dates: Oct 23-24, 2021
   Host: Massachusetts Inst. Of Tech. (M)
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Round 1
   > Main
@@ -734,11 +799,11 @@
 
 <a name="21-83746"></a>
 ~~~
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
   MIT Invite
   Dates: Oct 22-22, 2021
   Host: Massachusetts Inst. Of Tech. (M)
-══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Draw
   > Main
@@ -760,11 +825,11 @@
 
 <a name="21-16812"></a>
 ~~~
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
   MSU Invitational
   Dates: Oct 22-23, 2021
   Host: Midwestern State Univ. (M)
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
  Men's Open Doubles
  > Men's Doubles Flight 1
   > Main
@@ -810,6 +875,47 @@
  > Doubles Extra 4
   > Main
       F  Almeida/Mercier      def.  Orduz/Del Rosario    63
+~~~
+
+<a name="21-42214"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  YTF Southeastern Invitational
+  Dates: Oct 22-24, 2021
+  Host: Southeastern University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+      F (1) Barbon/Stepanov      def.     Hofmeister/Amorim    81
+     SF (1) Barbon/Stepanov      def.     Ribas/Andrews        83
+     SF     Hofmeister/Amorim    def.     Orihuela/Grijalva    85
+     QF (1) Barbon/Stepanov      def.     Huynh/Ramos          84
+     QF     Ribas/Andrews        def. (3) Pessoa/Pelletti      98(2)
+     QF     Hofmeister/Amorim    def.     Garcia/Alias         81
+     QF     Orihuela/Grijalva    def. (2) De Oliveira/Menende… 84
+     16 (1) Barbon/Stepanov      def.     Noa/Patino Pabon     82
+     16     Huynh/Ramos          def.     Nunez/Mariot         81
+     16 (3) Pessoa/Pelletti      def.     Safont Martinez/Mezo 82
+     16     Ribas/Andrews        def.     Martinez/Preiswerk   83
+     16     Garcia/Alias         def.     Bueno/Tauber         82
+     16     Hofmeister/Amorim    def. (4) Turley/Tajada        84
+     16     Orihuela/Grijalva    def.     Fujita/Saucedo       98(2)
+     16 (2) De Oliveira/Menende… def.     Aguilar Guerrero/Le… 84
+     32     Noa/Patino Pabon     def.     Binnios/Glowaki      83
+     32     Huynh/Ramos          def.     Herrera/Risanek      84
+     32     Nunez/Mariot         def.     Kupersmit/Gonzalez   97
+     32 (3) Pessoa/Pelletti      def.     Della Cioppa/Nicola… 86
+     32     Safont Martinez/Mezo def.     Thireau/Bento        85
+     32     Martinez/Preiswerk   def.     Cajamarca/Bustruc    83
+     32     Ribas/Andrews        def.     Gil/Freemann         85
+     32     Garcia/Alias         def.     Prado/Figueroa       80
+     32     Bueno/Tauber         def.     Edwards/Ferreira     Walkover
+     32     Hofmeister/Amorim    def.     Schmidt/Ramirez      82
+     32 (4) Turley/Tajada        def.     Makela/Lee           81
+     32     Orihuela/Grijalva    def.     Cromwell/Shaoul      82
+     32     Fujita/Saucedo       def.     Bousquet/Gibbs       86
+     32     Aguilar Guerrero/Le… def.     Munoz/Denaro         82
 ~~~
 
 Return to the [Top](./men_doubles_2142.md) &#124; [Home Page](../../index.md)

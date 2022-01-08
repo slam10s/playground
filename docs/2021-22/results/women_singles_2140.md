@@ -20,6 +20,7 @@
 - 10/10/2021 - [SEMO Invitational](#21-50227) ([Results](#21-50227) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheastMissouriStateUnivW/Tournaments/Overview/E0892C7B-1714-4B99-A547-2386D7847CF2" target="_blank">Draws</a>)  
 - 10/8/2021 - [SMU Red and Blue Invite](#21-78857) ([Results](#21-78857) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/4628479A-19D9-4AD2-91AA-D180971411D5" target="_blank">Draws</a>)  
 - 10/8/2021 - [USC Women of Troy Invitational](#21-75174) ([Results](#21-75174) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F" target="_blank">Draws</a>)  
+- 10/8/2021 - [Wildcat Invite](#21-77667) ([Results](#21-77667) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/9/2021 - [Enchanted Valley Showdown](#21-89530) ([Results](#21-89530) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Women's Invitational](#21-77230) ([Results](#21-77230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE" target="_blank">Draws</a>)  
@@ -786,7 +787,7 @@
      R1  Uxia Martinez Moral def.  Ashley Chang        61 63
  > UW vs WSU
   > Main
-     R1  Nika Zupancic       def.  MAxine Murphy       61 63
+     R1  Nika Zupancic       def.  Maxine Murphy       61 63
      R1  Zoey Weil           def.  Savanna Ly-Nguyen   63 76(8)
      R1  Tara Chilton        def.  Hania Abouelsaad    64 75
      R1  Sarah-Maude Fortin  def.  Fifa Kumhom         61 61
@@ -796,7 +797,7 @@
      R1  Myah Petchey        def.  Fifa Kumhom         62 62
      R1  Ares Teixido Garcia def.  Hania Abouelsaad    57 63 61
      R1  Michaela Bayerlova  def.  Misaki Kobayashi    60 61
-     R1  Lillian Mould       def.  MAxine Murphy       67(3) 64 76(3)
+     R1  Lillian Mould       def.  Maxine Murphy       67(3) 64 76(3)
      R1  Sophie Luescher     def.  Savanna Ly-Nguyen   64 60
  > UO vs DePaul
   > Main
@@ -818,7 +819,7 @@
      R1  Michaela Bayerlova  def.  Lenka Antonijevic   61 60
      R1  Savanna Ly-Nguyen   def.  Yuliya Kizelbasheva 63 63
      R1  Eleanor Nobbs       def.  Fifa Kumhom         75 61
-     R1  MAxine Murphy       def.  Madelyn Yergler     63 46 64
+     R1  Maxine Murphy       def.  Madelyn Yergler     63 46 64
      R1  Hania Abouelsaad    def.  Marija Jovicic      63 64
  > DePaul vs PSU
   > Main
@@ -1621,6 +1622,83 @@
  > Extra Matches
   > Main
       F  Priscila Janikian    def.  Skia Kung            61 61
+~~~
+
+<a name="21-77667"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  Wildcat Invite
+  Dates: Oct 8-10, 2021
+  Host: Northwestern University (W)
+═════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Day One Matches
+  > Main
+     64  Emma Jackson       def.  Nicole Stephens     64 62
+     64  Elizabeth Coleman  def.  Ayshe Can           63 63
+     64  Eliza Omirou       def.  Carrie Beckman      64 60
+     64  Yashna Yellayi     def.  Margaryta Bilokin   46 64 62
+     64  Samantha Gillas    def.  Elisabeth Desmarais 62 63
+     64  Michelle Bacalla   def.  Elizabeth Ferdman   64 62
+     64  Lauren Lemonds     def.  Cali Fuller         63 62
+     64  Charlotte Gisclon  def.  Katarina Dukic      64 64
+     64  Tia Mukherjee      def.  Lea Forste-Dinell   62 62
+     64  Tamara Malazonia   def.  Monique Karoub      62 26 64
+     64  Andie Weise        def.  Sofiya Sedovich     63 62
+     64  Lizi Morgoshia     def.  Sarah Badawi        63 62
+     64  Nell Arendt        def.  Susana Andres       64 64
+     64  Meghan Coleman     def.  Danina Hughes       62 61
+     64  Hannah McColgan    def.  Dominika Hrabalova  64 62
+     64  Kiley Rabjohns     def.  Marina Hermanny     63 60
+     64  Samantha Mannix    def.  Agnes Gustafsson    63 64
+     64  Ana Jover          def.  Vipasha Mehra       63 64
+     64  Maria Shusharina   def.  Emilija Kojcic      61 63
+     64  Sydney Pratt       def.  Nicole Hopman       62 60
+     64  Nibedita Ghosh     def.  Justine Leong       62 36 75
+     64  Ema Lazic          def.  Maeve Koscielski    64 62
+ > Day Two Matches
+  > Main
+     64  Dominika Hrabalova def.  Elisabeth Desmarais 60 63
+     64  Elizabeth Ferdman  def.  Marina Hermanny     36 62 63
+     64  Nicole Stephens    def.  Nibedita Ghosh      46 75 63
+     64  Ayshe Can          def.  Maeve Koscielski    64 64
+     64  Agnes Gustafsson   def.  Lauren Lemonds      63 62
+     64  Charlotte Gisclon  def.  Ana Jover           46 64 62
+     64  Samantha Mannix    def.  Katarina Dukic      63 63
+     64  Nell Arendt        def.  Vipasha Mehra       75 16 64
+     64  Meghan Coleman     def.  Lea Forste-Dinell   76(3) 61
+     64  Sarah Badawi       def.  Danina Hughes       63 60
+     64  Andie Weise        def.  Susana Andres       64 06 62
+     64  Emilija Kojcic     def.  Carrie Beckman      36 61 76(4)
+     64  Yashna Yellayi     def.  Nicole Hopman       64 63
+     64  Elizabeth Coleman  def.  Justine Leong       26 75 61
+     64  Emma Jackson       def.  Ema Lazic           64 63
+     64  Hannah McColgan    def.  Samantha Gillas     60 64
+     64  Michelle Bacalla   def.  Kiley Rabjohns      76(4) 46 75
+     64  Maria Shusharina   def.  Margaryta Bilokin   61 57 63
+     64  Sydney Pratt       def.  Eliza Omirou        61 46 64
+     64  Tia Mukherjee      def.  Sofiya Sedovich     64 62
+     64  Monique Karoub     def.  Lizi Morgoshia      75 60
+ > Day Three Matches
+  > Main
+     64  Emma Jackson       def.  Maria Shusharina    76(5) 26 62
+     64  Yashna Yellayi     def.  Nicole Stephens     75 62
+     64  Ayshe Can          def.  Carrie Beckman      63 64
+     64  Nibedita Ghosh     def.  Emilija Kojcic      61 62
+     64  Maeve Koscielski   def.  Nicole Hopman       63 62
+     64  Margaryta Bilokin  def.  Justine Leong       46 75 63
+     64  Ema Lazic          def.  Eliza Omirou        75 64
+     64  Hannah McColgan    def.  Lauren Lemonds      63 62
+     64  Kiley Rabjohns     def.  Charlotte Gisclon   61 Ret.
+     64  Meghan Coleman     def.  Lea Forste-Dinell   61 63
+     64  Samantha Mannix    def.  Elisabeth Desmarais 63 64
+     64  Vipasha Mehra      def.  Elizabeth Ferdman   63 26 [6]
+     64  Samantha Gillas    def.  Agnes Gustafsson    06 64 63
+     64  Michelle Bacalla   def.  Ana Jover           63 76(1)
+     64  Tia Mukherjee      def.  Andie Weise         61 63
+     64  Monique Karoub     def.  Sarah Badawi        62 61
+     64  Dominika Hrabalova def.  Katarina Dukic      61 63
+     64  Elizabeth Coleman  def.  Sydney Pratt        75 64
 ~~~
 
 <a name="21-27941"></a>

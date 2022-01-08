@@ -19,6 +19,7 @@
 - 10/10/2021 - [SEMO Invitational](#21-50227) ([Results](#21-50227) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheastMissouriStateUnivW/Tournaments/Overview/E0892C7B-1714-4B99-A547-2386D7847CF2" target="_blank">Draws</a>)  
 - 10/8/2021 - [SMU Red and Blue Invite](#21-78857) ([Results](#21-78857) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/4628479A-19D9-4AD2-91AA-D180971411D5" target="_blank">Draws</a>)  
 - 10/8/2021 - [USC Women of Troy Invitational](#21-75174) ([Results](#21-75174) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F" target="_blank">Draws</a>)  
+- 10/8/2021 - [Wildcat Invite](#21-77667) ([Results](#21-77667) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847" target="_blank">Draws</a>)  
 - 10/8/2021 - [C.L Varner Invitational](#21-27941) ([Results](#21-27941) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24" target="_blank">Draws</a>)  
 - 10/9/2021 - [Enchanted Valley Showdown](#21-89530) ([Results](#21-89530) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0" target="_blank">Draws</a>)  
 - 10/8/2021 - [Lander Women's Invitational](#21-77230) ([Results](#21-77230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE" target="_blank">Draws</a>)  
@@ -843,6 +844,53 @@
  > Extra Matches
   > Main
       F  Rutowska/Tcherkes-Z… def.  Nevenhoven/Ryngler   75
+~~~
+
+<a name="21-77667"></a>
+~~~
+══════════════════════════════════════════════════════════════
+  Wildcat Invite
+  Dates: Oct 8-10, 2021
+  Host: Northwestern University (W)
+══════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Day One Matches
+  > Main
+     32  Coleman/Jackson    def.  Stephens/Can         64
+     32  Bilokin/Omirou     def.  Beckman/Yellayi      62
+     32  Gillas/Bacalla     def.  Desmarais/Ferdman    62
+     32  Lemonds/Gisclon    def.  Fuller/Dukic         64
+     32  Badawi/Weise       def.  Sedovich/Morgoshia   63
+     32  Koscielski/Arendt  def.  Hughes/Andres        60
+     32  Hermanny/Hrabalova def.  Rabjohns/McColgan    76(3)
+     32  Gustafsson/Jover   def.  Mannix/Mehra         64
+     32  Pratt/Shusharina   def.  Kojcic/Hopman        61
+     32  Lazic/Leong        def.  Ghosh/Coleman        62
+     32  Karoub/Mukherjee   def.  Forste-Dinell/Malaz… 63
+ > Day Two Matches
+  > Main
+     32  Desmarais/Ferdman  def.  Hermanny/Hrabalova   64
+     32  Ghosh/Coleman      def.  Stephens/Can         63
+     32  Gustafsson/Jover   def.  Lemonds/Gisclon      61
+     32  Mannix/Mehra       def.  Arendt/Dukic         63
+     32  Streng/Koscielski  def.  Forste-Dinell/Malaz… 64
+     32  Badawi/Weise       def.  Hughes/Andres        64
+     32  Kojcic/Hopman      def.  Beckman/Yellayi      75
+     32  Coleman/Jackson    def.  Lazic/Leong          62
+     32  Gillas/Bacalla     def.  Rabjohns/McColgan    64
+     32  Bilokin/Omirou     def.  Pratt/Shusharina     63
+     32  Karoub/Mukherjee   def.  Sedovich/Morgoshia   61
+ > Day Three Matches
+  > Main
+     32  Coleman/Jackson    def.  Pratt/Shusharina     63
+     32  Stephens/Can       def.  Beckman/Yellayi      76(4)
+     32  Ghosh/Coleman      def.  Kojcic/Hopman        76(4)
+     32  Bilokin/Omirou     def.  Lazic/Leong          62
+     32  Rabjohns/McColgan  def.  Lemonds/Gisclon      64
+     32  Streng/Koscielski  def.  Forste-Dinell/Malaz… 75
+     32  Mannix/Mehra       def.  Desmarais/Ferdman    62
+     32  Gustafsson/Jover   def.  Gillas/Bacalla       62
+     32  Karoub/Mukherjee   def.  Badawi/Weise         64
 ~~~
 
 <a name="21-27941"></a>

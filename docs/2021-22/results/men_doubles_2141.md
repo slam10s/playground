@@ -8,6 +8,7 @@
 - 10/15/2021 - [Commodore Classic](#21-21760) ([Results](#21-21760) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0" target="_blank">Draws</a>)  
 - 10/15/2021 - [Fighting Illini Invite](#21-10431) ([Results](#21-10431) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisM/Tournaments/Overview/4DAD8F21-9326-420E-B8FB-259D52500DC0" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-23395) ([Results](#21-23395) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Division I Men's Atlantic Regional Championship](#21-08423) ([Results](#21-08423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580" target="_blank">Draws</a>)  
 - 10/14/2021 - [ITA Division I Men's Northeast Regional Championship](#21-34853) ([Results](#21-34853) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-05800) ([Results](#21-05800) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E" target="_blank">Draws</a>)  
 - 10/13/2021 - [ITA Division I Men's Northwest Regional Championship](#21-10002) ([Results](#21-10002) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A" target="_blank">Draws</a>)  
@@ -303,6 +304,38 @@
      32  Kim/Nguyen           def.  Kapoor/Haddou        75
      32  Prokurat/Suarez      def.  Alkhafaji/Pollatos   64
      32  Kjellberg/Garner     def.  Ha/Postin            75
+~~~
+
+<a name="21-08423"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  ITA Division I Men's Atlantic Regional Championship
+  Dates: Oct 14-17, 2021
+  Host: Liberty University (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Main Draw Doubles
+  > Main
+     QF     Karpinski/Koons      def. (1) Donato/Ix            84
+     QF (3) Davis/Brown          def.     Shepheard/Thompson   85
+     QF (4) Ariza/Maia           def.     El Kadi/Longwe-Smit  81
+     QF     Brailovsky/Ruo       def. (2) Marques Da Silva/Wi… 84
+     16 (1) Donato/Ix            def.     Reis/Nayadenov       86
+     16     Karpinski/Koons      def.     Raptis/Severin       86
+     16 (3) Davis/Brown          def.     Van Schalkwyk/Walser 84
+     16     Shepheard/Thompson   def.     Hernandez/Sadek      84
+     16     El Kadi/Longwe-Smit  def.     Sirous/Tobisch       84
+     16 (4) Ariza/Maia           def.     Pellerito/Talcott    86
+     16     Brailovsky/Ruo       def.     Silva/Taramonlis     85
+     16 (2) Marques Da Silva/Wi… def.     Bernstine/Harper     82
+     32     Reis/Nayadenov       def.     Quiros/Joseph        86
+     32     Van Schalkwyk/Walser def.     Balsekar/Hagen       84
+     32     Hernandez/Sadek      def.     Heaven/Ferreira      Walkover
+     32     Pellerito/Talcott    def.     Josserand/Petrovic   83
+     32     Bernstine/Harper     def.     Rocabert/Cagigas     84
+ > Backdraw Doubles
+  > Main
+     32     Quiros/Joseph        def.     Balsekar/Hagen       82
 ~~~
 
 <a name="21-34853"></a>

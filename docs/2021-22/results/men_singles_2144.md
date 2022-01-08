@@ -12,6 +12,7 @@
 - 11/5/2021 - [Liberty Dual](#21-62931) ([Results](#21-62931) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/A51E4801-DD54-4C66-A187-7820D7D7ACAF" target="_blank">Draws</a>)  
 - 11/5/2021 - [MAC Invite](#21-92934) ([Results](#21-92934) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/904B03DF-C1F9-40F4-BE7B-ACF330F850AB" target="_blank">Draws</a>)  
 - 11/5/2021 - [Pacific Invitational](#21-54445) ([Results](#21-54445) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfThePacificM/Tournaments/Overview/32DAC0A6-A705-4382-880F-230A39E21F42" target="_blank">Draws</a>)  
+- 11/5/2021 - [Ralston/Neufeld Coaches Challenge](#21-70244) ([Results](#21-70244) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivM/Tournaments/Overview/4DFFAD56-EAA9-4394-8451-1B5126D73B7A" target="_blank">Draws</a>)  
 - 11/5/2021 - [San Diego Veterans Tennis Classic](#21-91602) ([Results](#21-91602) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoM/Tournaments/Overview/4D53E6EC-7E78-4198-A22F-7A41C534BC2A" target="_blank">Draws</a>)  
 - 11/5/2021 - [Southern Conference Men's & Women's Fall Tennis Championships](#21-32980) ([Results](#21-32980) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/3BD3D9A3-1CE7-4BB9-93E6-7D1ECED07DFE" target="_blank">Draws</a>)  
 - 11/5/2021 - [UCF Invite Hidden Dual](#21-27721) ([Results](#21-27721) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaM/Tournaments/Overview/312E7653-F666-486E-8B90-123F7F8F8F9D" target="_blank">Draws</a>)  
@@ -865,6 +866,40 @@
      R2  Caelan Potts       def.  Ryan Ali            76(4) 64
      R1  Nick Cmager        def.  Coleton Hootman     63 64
      R1  Mitchell Davis     def.  Caelan Potts        61 62
+~~~
+
+<a name="21-70244"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Ralston/Neufeld Coaches Challenge
+  Dates: Nov 5-7, 2021
+  Host: Southern Methodist Univ. (M)
+═══════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Draw
+  > Main
+      F  Jordi Redelijk       def.  Stefan Andrei        63 60
+     SF  Jordi Redelijk       def.  Kyle Sillman         63 61
+     SF  Stefan Andrei        def.  Alex Stafford        64 36 62
+     QF  Jordi Redelijk       def.  Matthew Abbey        61 60
+     QF  Kyle Sillman         def.  Brice Bradshaw       36 63 76(2)
+     QF  Stefan Andrei        def.  John Zisette         76(4) 64
+     QF  Alex Stafford        def.  Jean Muniz           64 60
+     16  Jordi Redelijk       def.  Jonah Neumaier       61 61
+     16  Matthew Abbey        def.  Fernando Siqueira-G… 62 63
+     16  Kyle Sillman         def.  Quentin Scharfenberg 64 46 64
+     16  Brice Bradshaw       def.  Hector Flores        62 76(4)
+     16  Stefan Andrei        def.  Antonio Simo-Durall  63 63
+     16  John Zisette         def.  Paul Schwieger       61 64
+     16  Jean Muniz           def.  Roberto Garcia-Arra… 26 64 62
+     16  Alex Stafford        def.  Corbin Ford          63 75
+  > Consolation
+     SF  Quentin Scharfenberg def.  Jonah Neumaier       60 67(4) [8]
+     SF  Corbin Ford          def.  Paul Schwieger       57 63 [7]
+     QQ  Jonah Neumaier       def.  Fernando Siqueira-G… 63 60
+     QQ  Quentin Scharfenberg def.  Hector Flores        62 61
+     QQ  Paul Schwieger       def.  Antonio Simo-Durall  64 61
+     QQ  Corbin Ford          def.  Roberto Garcia-Arra… 16 62 [6]
 ~~~
 
 <a name="21-91602"></a>

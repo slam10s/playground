@@ -8,6 +8,7 @@
 - 9/25/2021 - [Division II Women's Atlantic ITA Regional Championships](#21-02393) ([Results](#21-02393) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MillersvilleUniversityW/Tournaments/Overview/AC190190-736B-4838-AE7A-A4CD92F079D3" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Central ITA Regional Championships](#21-51444) ([Results](#21-51444) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KalamazooCollegeW/Tournaments/Overview/6628EB19-1510-441E-BF90-1BDD023DDC58" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
+- 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division III Women's Southeast ITA Regional Championships](#21-12873) ([Results](#21-12873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Draws</a>)  
 - 10/1/2021 - [Barb Chandler Classic](#21-63890) ([Results](#21-63890) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityW/Tournaments/Overview/88302122-9593-4E3B-B392-8D6982533991" target="_blank">Draws</a>)  
 - 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
@@ -38,6 +39,7 @@
 - 9/30/2021 - [Division III Women's Southwest ITA Regional Championships](#21-36423) ([Results](#21-36423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonW/Tournaments/Overview/39873211-F8A9-40EA-B250-F23B1167F8F3" target="_blank">Draws</a>)  
 - 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
+- 9/29/2021 - [NAIA Men’s & Women's Midwest ITA Regional Championships](#21-24046) ([Results](#21-24046) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
 
@@ -532,6 +534,65 @@
      32  Robinson/Shogren     def.  Hoffer/Becker        84
      32  Jacobs/Nissen        def.  Weddle/Orvis         84
      32  Hierl/Kalinka        def.  Grimm/DenHartog      82
+~~~
+
+<a name="21-04287"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Division III Women's Northwest ITA Regional Championships
+  Dates: Sep 24-27, 2021
+  Host: George Fox University (W)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+       F  Castellanos Caldero… def.  Binder/Binder        63 36 76(2)
+      SF  Castellanos Caldero… def.  Kern/Matsunaga       84
+      SF  Binder/Binder        def.  Fiocchi/Fujimori     81
+      QF  Kern/Matsunaga       def.  Rice/Uribe           82
+      QF  Castellanos Caldero… def.  Forester/Wong        82
+      QF  Fiocchi/Fujimori     def.  Jha/Tarpey-Schwed    83
+      QF  Binder/Binder        def.  Kert/Plank           83
+      16  Kern/Matsunaga       def.  Nguyen/Stokes        82
+      16  Rice/Uribe           def.  Loacti/Smyley        81
+      16  Forester/Wong        def.  Brown/Wiker          87(4)
+      16  Castellanos Caldero… def.  Burriss/Sarmiento    81
+      16  Fiocchi/Fujimori     def.  Mangan/Morris        82
+      16  Jha/Tarpey-Schwed    def.  Groener/Suzuki       80
+      16  Kert/Plank           def.  Machida/Honaker      84
+      16  Binder/Binder        def.  Mock/Thorp           80
+      32  Kern/Matsunaga       def.  Bond/Onoja           81
+      32  Nguyen/Stokes        def.  Eligio/Rufo          87(3)
+      32  Loacti/Smyley        def.  Hitch/Vanderyacht    84
+      32  Rice/Uribe           def.  Heinke/Chatham       81
+      32  Forester/Wong        def.  Thompson/Turner      80
+      32  Brown/Wiker          def.  Bethards/Lakerveld   83
+      32  Burriss/Sarmiento    def.  Harper/Kreps         87(7)
+      32  Castellanos Caldero… def.  Caseb-Klescova/Truo… 81
+      32  Fiocchi/Fujimori     def.  Stratton/Vives       81
+      32  Mangan/Morris        def.  Burnett/Chong        83
+      32  Groener/Suzuki       def.  Shinall/Perez        86
+      32  Jha/Tarpey-Schwed    def.  Bedford/Nelson       80
+      32  Machida/Honaker      def.  McDonald/Rader       82
+      32  Kert/Plank           def.  Carter/Rylander      81
+      32  Mock/Thorp           def.  Bloom/Lau            80
+      32  Binder/Binder        def.  Gardner/Tuttle       81
+  > Consolation
+       F  Caseb-Klescova/Truo… def.  Stratton/Vives       83
+      SF  Caseb-Klescova/Truo… def.  Heinke/Chatham       81
+      SF  Stratton/Vives       def.  Gardner/Tuttle       82
+      QF  Heinke/Chatham       def.  Eligio/Rufo          81
+      QF  Caseb-Klescova/Truo… def.  Hitch/Vanderyacht    82
+      QF  Stratton/Vives       def.  Shinall/Perez        87(6)
+      QF  Gardner/Tuttle       def.  Carter/Rylander      84
+     16Q  Eligio/Rufo          def.  Bond/Onoja           85
+     16Q  Heinke/Chatham       def.  Thompson/Turner      80
+     16Q  Hitch/Vanderyacht    def.  Bethards/Lakerveld   85
+     16Q  Caseb-Klescova/Truo… def.  Harper/Kreps         84
+     16Q  Stratton/Vives       def.  Burnett/Chong        83
+     16Q  Shinall/Perez        def.  Bedford/Nelson       83
+     16Q  Carter/Rylander      def.  McDonald/Rader       82
+     16Q  Gardner/Tuttle       def.  Bloom/Lau            84
 ~~~
 
 <a name="21-12873"></a>
@@ -2054,6 +2115,87 @@
      QF     Turner/Spears       def.     Franks/Nipp         82
      QQ     Angle/Ball          def.     Simmons/Vuyovich    Walkover
      QQ     Askin/Wine          def.     Athas/Sanders       86
+~~~
+
+<a name="21-24046"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  NAIA Men’s & Women's Midwest ITA Regional Championships
+  Dates: Sep 29 - Oct 3
+  Host: Indiana Wesleyan University (M)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > Main
+       F (1) Bemisderfer/Golz     def. (2) Mendez/Dveksler      76(5) 61
+      SF (1) Bemisderfer/Golz     def. (5) Jimenez/Moore        83
+      SF (2) Mendez/Dveksler      def.     Fisk/Snider          82
+      QF (1) Bemisderfer/Golz     def.     Theron/Caballero     83
+      QF (5) Jimenez/Moore        def.     Murcia/Puryear       83
+      QF     Fisk/Snider          def.     Lewis/Bopst          83
+      QF (2) Mendez/Dveksler      def. (6) Simms/Gomez          85
+      16 (1) Bemisderfer/Golz     def.     Radde/Aliagas Mejina 81
+      16     Theron/Caballero     def. (8) Kuebler/Simion       98(6)
+      16 (5) Jimenez/Moore        def.     Ruegsegger/Martin    82
+      16     Murcia/Puryear       def. (4) De Witt/De Witt      84
+      16     Lewis/Bopst          def. (3) Connolly/Barger      84
+      16     Fisk/Snider          def.     Fitzpatrick/Schlatt… 82
+      16 (6) Simms/Gomez          def.     Way/Dubuque          86
+      16 (2) Mendez/Dveksler      def.     Carvalho/Calcatelli  86
+      32 (1) Bemisderfer/Golz     def.     Padilla Paola/Arist… 81
+      32     Radde/Aliagas Mejina def.     Yarbrough/Conley     86
+      32     Theron/Caballero     def.     Anderanin/Weber      83
+      32 (8) Kuebler/Simion       def.     Cetina/Lopicic       86
+      32 (5) Jimenez/Moore        def.     Kohn/Fontaine        84
+      32     Ruegsegger/Martin    def.     Kallai/Godzisz       83
+      32     Murcia/Puryear       def.     Savarino/Dusele      84
+      32 (4) De Witt/De Witt      def.     Clayborn/Fugate      82
+      32 (3) Connolly/Barger      def.     Hinshaw/McCoy        84
+      32     Lewis/Bopst          def.     Liter/Faber          82
+      32     Fitzpatrick/Schlatt… def.     Graves/Riegsecker    97
+      32     Fisk/Snider          def. (7) Caballero/Marino     86
+      32 (6) Simms/Gomez          def.     Heckaman/Rinkenberg… 82
+      32     Way/Dubuque          def.     Bolon/Rich           86
+      32     Carvalho/Calcatelli  def.     Mann/Polce           80
+      32 (2) Mendez/Dveksler      def.     Kovalchuk/Mafuyeka   83
+  > Consolation
+       F     Savarino/Dusele      def. (7) Caballero/Marino     86
+      SF     Savarino/Dusele      def.     Yarbrough/Conley     84
+      SF (7) Caballero/Marino     def.     Heckaman/Rinkenberg… 85
+      QF     Yarbrough/Conley     def.     Anderanin/Weber      86
+      QF     Savarino/Dusele      def.     Kallai/Godzisz       85
+      QF (7) Caballero/Marino     def.     Hinshaw/McCoy        83
+      QF     Heckaman/Rinkenberg… def.     Mann/Polce           80
+     16Q     Yarbrough/Conley     def.     Padilla Paola/Arist… 86
+     16Q     Anderanin/Weber      def.     Cetina/Lopicic       86
+     16Q     Kallai/Godzisz       def.     Kohn/Fontaine        84
+     16Q     Savarino/Dusele      def.     Clayborn/Fugate      81
+     16Q     Hinshaw/McCoy        def.     Liter/Faber          86
+     16Q (7) Caballero/Marino     def.     Graves/Riegsecker    84
+     16Q     Heckaman/Rinkenberg… def.     Bolon/Rich           82
+     16Q     Mann/Polce           def.     Kovalchuk/Mafuyeka   Walkover
+ > Flight B
+  > Main
+       F     Elpers/Leihbacher    def.     Kulynych/Todorovic   98(5)
+      SF     Kulynych/Todorovic   def.     Vrkic/Ahlberg        85
+      SF     Elpers/Leihbacher    def.     Provine/Oconitrillo  84
+      QF     Vrkic/Ahlberg        def.     Moreno/Christner     83
+      QF     Kulynych/Todorovic   def.     Jojo/Martins         85
+      QF     Elpers/Leihbacher    def.     Littlefield/Weimer   Walkover
+      QF     Provine/Oconitrillo  def.     Allison/Sidle        86
+      16     Moreno/Christner     def.     Bucher/Skouroukos    83
+      16     Jojo/Martins         def.     Clark/Cochran        81
+      16     Kulynych/Todorovic   def.     Henline/Ciocca       80
+      16     Elpers/Leihbacher    def.     Jesse/Withers        81
+      16     Littlefield/Weimer   def.     Ribeiro/Mellinger    85
+      16     Provine/Oconitrillo  def.     Schellenberg/Tubber… 82
+  > Consolation
+       F     Ribeiro/Mellinger    def.     Clark/Cochran        85
+      SF     Clark/Cochran        def.     Bucher/Skouroukos    80
+      SF     Ribeiro/Mellinger    def.     Schellenberg/Tubber… 82
+      QF     Schellenberg/Tubber… def.     Allison/Sidle        85
+      QQ     Clark/Cochran        def.     Henline/Ciocca       85
+      QQ     Ribeiro/Mellinger    def.     Jesse/Withers        81
 ~~~
 
 <a name="21-30655"></a>
