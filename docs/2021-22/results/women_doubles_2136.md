@@ -4,7 +4,6 @@
 - 9/5/2021 - [Mary Hosking Invitational Tournament](#21-02759) ([Results](#21-02759) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7" target="_blank">Draws</a>)  
 - 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-25876) ([Results](#21-25876) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiW/Tournaments/Overview/88D2417A-460B-408A-9E50-7C7E5EE7478F" target="_blank">Draws</a>)  
 - 9/10/2021 - [Bill and Sandra Moore Invitational](#21-34233) ([Results](#21-34233) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/91B59866-0B48-4129-8FAE-B1A88BCD7896" target="_blank">Draws</a>)  
-- 9/11/2021 - [Liberty Invite](#21-48654) ([Results](#21-48654) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/D66E087D-3234-4CE1-8D12-9CFE3EF5F621" target="_blank">Draws</a>)  
 - 9/10/2021 - [Siena Invitational](#21-93292) ([Results](#21-93292) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Draws</a>)  
 - 9/10/2021 - [SIUE Cougar Invite](#21-66962) ([Results](#21-66962) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernIllinoisUniversityEdwardsvilleW/Tournaments/Overview/49CD19F7-C361-46C8-9A0D-85DA79B24973" target="_blank">Draws</a>)  
 - 9/10/2021 - [Warhawk Invite](#21-43648) ([Results](#21-43648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfLouisianaMonroeW/Tournaments/Overview/54708D1F-C66A-43B0-AD2A-D851EE9A1A35" target="_blank">Draws</a>)  
@@ -216,42 +215,6 @@
       F  Kimmey/Smith         def.  Chen/Ackroyd         Walkover
      SF  Chen/Ackroyd         def.  Gumieniak/Beckner    84
      SF  Kimmey/Smith         def.  Pax/Klapman          81
-~~~
-
-<a name="21-48654"></a>
-~~~
-═══════════════════════════════════════════════════════════════════
-  Liberty Invite
-  Dates: Sep 11-12, 2021
-  Host: Liberty University (W)
-═══════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Doubles Rd. 1
-  > Main
-     16  Nguyen/Parra Romero  def.  Bachir el Bouhali/C… 63
-     16  Burger/Almborg       def.  Diercksen/Muzzolon   63
-     16  Saraty/Lovato        def.  Hussain/Joseph       64
-     16  Saric/Alhach         def.  Stefancic/Van Hanse… 62
-     16  Clairotte/Vanderhey… def.  Gurholt/Fernald      64
-     16  Ballow/Gillar        def.  van Meeteren/Cricch… 63
-     16  Hurrion/McGrane      def.  Fukutoku/Manolescu   63
- > Doubles Rd. 2
-  > Main
-     16  Nguyen/Burger        def.  Clairotte/Vanderhey… 63
-     16  Ode Mitre/Parra Rom… def.  Ballow/Gillar        64
-     16  Almborg/Saraty       def.  Hurrion/McGrane      63
-     16  Stefancic/Van Hanse… def.  Lovato/Sampaio       76(5)
-     16  Saric/Alhach         def.  Bachir el Bouhali/C… 63
-     16  Gurholt/Fernald      def.  Diercksen/Muzzolon   64
-     16  van Meeteren/Cricch… def.  Hussain/Joseph       61
- > Doubles Rd. 3
-  > Main
-     16  Nguyen/Almborg       def.  Saric/Alhach         62
-     16  Lovato/Burger        def.  Gurholt/Fernald      62
-     16  Parra Romero/Sampaio def.  van Meeteren/Cricch… 63
-     16  Ode Mitre/Kirch      def.  Fukutoku/Manolescu   64
-     16  Hussain/Muzzolon     def.  Van Hansewyck/McGra… 62
-     16  Gillar/Joseph        def.  Bachir el Bouhali/C… 64
 ~~~
 
 <a name="21-93292"></a>

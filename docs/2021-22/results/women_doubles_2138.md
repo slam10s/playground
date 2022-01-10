@@ -8,7 +8,6 @@
 - 9/16/2021 - [NAIA Men's & Women’s Florida ITA Regional Championships](#21-21828) ([Results](#21-21828) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KeiserUniversityM/Tournaments/Overview/4B516E18-53A8-4B82-AE62-AAC7E7DB66DF" target="_blank">Draws</a>)  
 - 9/24/2021 - [2021 Cal Fall Invitational](#21-72007) ([Results](#21-72007) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D" target="_blank">Draws</a>)  
 - 9/24/2021 - [2021 Cougar Classic](#21-92191) ([Results](#21-92191) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WashingtonStateUnivW/Tournaments/Overview/9A9D66AE-29DF-4655-8EE8-5EF2ECFA897B" target="_blank">Draws</a>)  
-- 9/24/2021 - [Bedford Cup](#21-07919) ([Results](#21-07919) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfMarylandCollegeParkW/Tournaments/Overview/8A78BA09-B02F-4068-AC07-16F05B3F86EB" target="_blank">Draws</a>)  
 - 9/23/2021 - [Bedford Cup in the Mountains](#21-10883) ([Results](#21-10883) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyW/Tournaments/Overview/44119D33-0728-4FB2-8652-70606D860005" target="_blank">Draws</a>)  
 - 9/24/2021 - [Bethany Moore Invitational](#21-68010) ([Results](#21-68010) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BallStateUniversityW/Tournaments/Overview/9CD0F50F-A060-4554-94BC-D6D303944F81" target="_blank">Draws</a>)  
 - 9/24/2021 - [Bluejay Invite](#21-97501) ([Results](#21-97501) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CreightonUniversityW/Tournaments/Overview/9CFAB6A8-8E2B-42E6-9D2D-9A4EECB3CAEB" target="_blank">Draws</a>)  
@@ -35,7 +34,6 @@
 - 9/24/2021 - [Division III Women's Midwest ITA Regional Championships](#21-82716) ([Results](#21-82716) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/FE39C064-1ABC-4E1B-B257-50C254262CB8" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division III Women's Southeast ITA Regional Championships](#21-12873) ([Results](#21-12873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Draws</a>)  
-- 9/24/2021 - [Junior College Men's and Women's Central ITA Regional Championships](#21-33883) ([Results](#21-33883) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CowleyCountyCCM/Tournaments/Overview/BC95B2DD-9F42-4CC1-B3FD-B28A7F6354E1" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Southeast ITA Regional Championships](#21-59818) ([Results](#21-59818) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AbrahamBaldwinCollegeM/Tournaments/Overview/0C49FE79-13DE-4D89-BE12-0363D7D96FAE" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Southwest ITA Regional Small College Championships](#21-74781) ([Results](#21-74781) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TylerJrCollegeM/Tournaments/Overview/AFDCB501-9485-41C1-8697-2065AFF6AC47" target="_blank">Draws</a>)  
 - 9/23/2021 - [Junior College Women's Florida ITA Regional Championships](#21-32805) ([Results](#21-32805) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HillsboroughCommCollW/Tournaments/Overview/7F0E69DB-E74C-484A-8008-85667F524119" target="_blank">Draws</a>)  
@@ -429,94 +427,6 @@
      SF  Milenkoski/Hernandez def.  Mann/Mansouri        84
   > 3-4 Playoff
       F  County/Demerath      def.  Mann/Mansouri        83
-~~~
-
-<a name="21-07919"></a>
-~~~
-═══════════════════════════════════════════════════════════════════
-  Bedford Cup
-  Dates: Sep 24-26, 2021
-  Host: University Of Maryland/College Park (W)
-═══════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Flight A
-  > East
-      F  Davidescu/Sorkin     def.  Marinkovikj/Wiesmann 64
-     SF  Davidescu/Sorkin     def.  Svendsen/Honrubia    62
-     SF  Marinkovikj/Wiesmann def.  Badawi/Laas          61
-     QF  Svendsen/Honrubia    def.  Ashton/Willy         62
-     QF  Davidescu/Sorkin     def.  La/Yang              61
-     QF  Badawi/Laas          def.  Feodorov/Markovic    76(4)
-     QF  Marinkovikj/Wiesmann def.  Askarova/Montana     61
-     16  Ashton/Willy         def.  Saleh/Salvi          75
-     16  Svendsen/Honrubia    def.  Nannery/Trella       60
-     16  La/Yang              def.  Miranda/Bach         61
-     16  Davidescu/Sorkin     def.  Rothfeld/Lawson      61
-     16  Badawi/Laas          def.  Bendetti/Coburn      62
-     16  Marinkovikj/Wiesmann def.  Haliou/Assenmacher   62
-     16  Askarova/Montana     def.  Bodewes/Ramirez      76(4)
-     32  Ashton/Willy         def.  Jacobs/Pospischill   60
-     32  La/Yang              def.  Bell/Vesikallio      62
-     32  Haliou/Assenmacher   def.  Decker/Aguirre       62
-     32  Bodewes/Ramirez      def.  Wirt/Hashiguchi      76(5)
-  > West
-      F  Wirt/Hashiguchi      def.  Bell/Vesikallio      62
-     SF  Bell/Vesikallio      def.  Jacobs/Pospischill   63
-     QF  Wirt/Hashiguchi      def.  Decker/Aguirre       60
-  > North
-      F  Bendetti/Coburn      def.  Saleh/Salvi          63
-     SF  Saleh/Salvi          def.  Rothfeld/Lawson      62
-     SF  Bendetti/Coburn      def.  Bodewes/Ramirez      60
-     QF  Saleh/Salvi          def.  Nannery/Trella       Walkover
-     QF  Rothfeld/Lawson      def.  Miranda/Bach         Walkover
-     QF  Bodewes/Ramirez      def.  Haliou/Assenmacher   64
-  > Northeast
-      F  Askarova/Montana     def.  Ashton/Willy         61
-     SF  Ashton/Willy         def.  La/Yang              76(2)
-     SF  Askarova/Montana     def.  Feodorov/Markovic    62
-  > Northwest
-     SF  Nannery/Trella        vs   Miranda/Bach         
- > Flight B
-  > East
-      F  Grayson/Butcher      def.  Crowell/Splett       60
-     SF  Crowell/Splett       def.  McCarthy/Prudente    63
-     SF  Grayson/Butcher      def.  Ifederu/Addison      76(3)
-     QF  Crowell/Splett       def.  Aizpurua/Murphy      76(3)
-     QF  McCarthy/Prudente    def.  Williams/Pegram      Walkover
-     QF  Ifederu/Addison      def.  Thompson/McNaughten  63
-     QF  Grayson/Butcher      def.  Del Carmen/Mikos     75
-     16  Aizpurua/Murphy      def.  El Sherif/Simunyola  62
-     16  Crowell/Splett       def.  Kuncl/Williamson     62
-     16  McCarthy/Prudente    def.  Georgieva/Turner     63
-     16  Williams/Pegram      def.  Santoriello/Wurtz    64
-     16  Thompson/McNaughten  def.  Shrebati/Tose        63
-     16  Ifederu/Addison      def.  Manwiller/Bodewes    64
-     16  Grayson/Butcher      def.  Fitz-Patrick/Al-Asa… 62
-     32  Aizpurua/Murphy      def.  Kemerer/Thompson     62
-     32  McCarthy/Prudente    def.  Jankovic/Etienne     62
-     32  Del Carmen/Mikos     def.  Sandra/Saravanan     62
-  > West
-      F  Jankovic/Etienne     def.  Sandra/Saravanan     63
-     SF  Jankovic/Etienne     def.  Kemerer/Thompson     62
-  > North
-      F  Manwiller/Bodewes    def.  Santoriello/Wurtz    62
-     SF  Santoriello/Wurtz    def.  Kuncl/Williamson     64
-     SF  Manwiller/Bodewes    def.  Fitz-Patrick/Al-Asa… 63
-     QF  Kuncl/Williamson     def.  El Sherif/Simunyola  Walkover
-     QF  Santoriello/Wurtz    def.  Georgieva/Turner     61
-     QF  Manwiller/Bodewes    def.  Shrebati/Tose        61
-  > Northeast
-      F  Thompson/McNaughten  def.  Aizpurua/Murphy      75
-     SF  Aizpurua/Murphy      def.  Williams/Pegram      Walkover
-     SF  Thompson/McNaughten  def.  Del Carmen/Mikos     63
-  > Northwest
-      F  El Sherif/Simunyola  def.  Shrebati/Tose        75
-     SF  El Sherif/Simunyola  def.  Georgieva/Turner     63
- > Extra Matches
-  > Main
-      F  Rothfeld/Lawson       vs   Jacobs/Pospischill   
-     SF  Rothfeld/Lawson      def.  Haliou/Assenmacher   63
-     SF  Jacobs/Pospischill   def.  Decker/Aguirre       62
 ~~~
 
 <a name="21-10883"></a>
@@ -1981,26 +1891,6 @@
      16     Diaz-Nazario/Nguyen  def.     Guilarte/Caro        87(5)
      16     Russano/Williams     def.     Keister/Nesselrodt   83
      16     Brown/Lewis          def.     Santos/Elkhansa      81
-~~~
-
-<a name="21-33883"></a>
-~~~
-═════════════════════════════════════════════════════════════════════
-  Junior College Men's and Women's Central ITA Regional Championships
-  Dates: Sep 24-26, 2021
-  Host: Cowley County CC (M)
-═════════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Draw
-  > Main
-      F (2) Hernandez/Zungu      def.     Koroleva/Neyra       64 64
-     SF     Koroleva/Neyra       def. (1) Mora Camacho/Lespes  84
-     SF (2) Hernandez/Zungu      def.     Popluharova/Matteodo 81
-     QF     Koroleva/Neyra       def.     Sandoval/Vogelzang   84
-     QF     Popluharova/Matteodo def.     Beladova/Semery      81
-     QF (2) Hernandez/Zungu      def.     Ramirez Llorens/Bel… 84
-  > Consolation
-     SQ     Ramirez Llorens/Bel… def.     Beladova/Semery      82
 ~~~
 
 <a name="21-59818"></a>

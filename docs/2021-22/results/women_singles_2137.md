@@ -2,7 +2,6 @@
 
 **Tournamets with Matches**  
 - 9/17/2021 - [2021 Columbia University Invitational](#21-78345) ([Results](#21-78345) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D" target="_blank">Draws</a>)  
-- 9/16/2021 - [Battle in the Bay Classic](#21-04289) ([Results](#21-04289) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSanFranciscoW/Tournaments/Overview/1A506BE3-9443-469C-B392-592E0684A825" target="_blank">Draws</a>)  
 - 9/17/2021 - [Brown Invitational](#21-14330) ([Results](#21-14330) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/8EA19D28-8C5F-436E-80F9-E515FC4507EA" target="_blank">Draws</a>)  
 - 9/17/2021 - [Debbie Southern Furman Fall Classic](#21-22147) ([Results](#21-22147) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/FurmanUniversityW/Tournaments/Overview/3803B600-6726-48B5-820F-B45C3CF8E5DF" target="_blank">Draws</a>)  
 - 9/17/2021 - [Elon Invitational](#21-46904) ([Results](#21-46904) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A" target="_blank">Draws</a>)  
@@ -178,71 +177,6 @@
      QF     Shiori Ito           def.     Akanksha Bhan        61 46 [2]
      QF     Amira Badawi         def.     Jayden Nielsen       36 63 [7]
      QF     Miyuka Kimoto        def.     Lalita Devarakonda   76(2) 76(4)
-~~~
-
-<a name="21-04289"></a>
-~~~
-══════════════════════════════════════════════════════════════════════════
-  Battle in the Bay Classic
-  Dates: Sep 16-19, 2021
-  Host: Univ. Of San Francisco (W)
-══════════════════════════════════════════════════════════════════════════
- Women's Open Singles
- > Main Draw
-  > Main
-      F  Savannah Broadus     def.  Paola Exposito Diaz… 61 62
-     SF  Savannah Broadus     def.  Victoria Kalaitzis   60 62
-     SF  Paola Exposito Diaz… def.  Morgan Coppoc        75 75
-     QF  Victoria Kalaitzis   def.  Klara Kosan          64 36 76(5)
-     QF  Savannah Broadus     def.  Abigail Desiatnikov  63 60
-     QF  Morgan Coppoc        def.  Anastasia Iamachkine 62 63
-     QF  Paola Exposito Diaz… def.  Lisa Zaar            06 64 61
-     16  Klara Kosan          def.  Meg Kowalski         63 46 [7]
-     16  Victoria Kalaitzis   def.  Rita Colyer          62 60
-     16  Savannah Broadus     def.  Jordyn McBride       61 62
-     16  Abigail Desiatnikov  def.  Maria Martinez Vaqu… 62 63
-     16  Anastasia Iamachkine def.  Malkia Ngounoue      62 64
-     16  Morgan Coppoc        def.  Caroline Pozo        46 75 [9]
-     16  Paola Exposito Diaz… def.  Maria Campos         64 63
-     16  Lisa Zaar            def.  Snow Han             61 61
-     32  Meg Kowalski         def.  Megan Forster        61 62
-     32  Klara Kosan          def.  Nina Sorkin          26 64 [4]
-     32  Rita Colyer          def.  Isabelle Lee         63 46 [5]
-     32  Victoria Kalaitzis   def.  Nikki Redelijk       64 63
-     32  Savannah Broadus     def.  MiaAngelina Ruja     63 60
-     32  Jordyn McBride       def.  Danielle Zamora      60 60
-     32  Maria Martinez Vaqu… def.  Roxana Manu          61 75
-     32  Abigail Desiatnikov  def.  Mai Nirundorn        62 62
-     32  Malkia Ngounoue      def.  Simran Chhabra       63 64
-     32  Anastasia Iamachkine def.  Mia Larrain          62 62
-     32  Caroline Pozo        def.  Caragh Courtney      63 75
-     32  Morgan Coppoc        def.  Leyden Games         26 75 [5]
-     32  Paola Exposito Diaz… def.  Guillermina Grant    46 75 [6]
-     32  Maria Campos         def.  Chiho Mushika        63 61
-     32  Snow Han             def.  Denise Stoica        61 61
-     32  Lisa Zaar            def.  Elisabeth Andryukho… 61 60
- > Main Draw Consolation
-  > Main
-      F  Leyden Games         def.  Nikki Redelijk       76(2) 57 [9]
-     SF  Nikki Redelijk       def.  Roxana Manu          76(3) 60
-     SF  Leyden Games         def.  Guillermina Grant    57 61 [2]
-     QF  Nikki Redelijk       def.  Nina Sorkin          63 63
-     QF  Roxana Manu          def.  Mai Nirundorn        61 76(6)
-     QF  Leyden Games         def.  Simran Chhabra       62 62
-     QF  Guillermina Grant    def.  Denise Stoica        46 75 [3]
-     16  Nina Sorkin          def.  Megan Forster        62 36 [5]
-     16  Nikki Redelijk       def.  Isabelle Lee         60 63
-     16  Roxana Manu          def.  MiaAngelina Ruja     61 67(3) [6]
-     16  Mai Nirundorn        def.  Danielle Zamora      61 60
-     16  Simran Chhabra       def.  Mia Larrain          76(7) 63
-     16  Leyden Games         def.  Caragh Courtney      61 63
-     16  Guillermina Grant    def.  Chiho Mushika        60 63
-     16  Denise Stoica        def.  Elisabeth Andryukho… 61 76(4)
- > Extra Singles
-  > Main
-     QF  Malkia Ngounoue      def.  Arianna Capogrosso   64 63
-     QF  Snow Han             def.  Caroline Pozo        30 Ret.
-     QF  Isabelle Lee         def.  Megan Forster        76(3) 62
 ~~~
 
 <a name="21-14330"></a>

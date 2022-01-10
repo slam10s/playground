@@ -29,7 +29,6 @@
 - 9/24/2021 - [Division III Men's South ITA Regional Championships](#21-74251) ([Results](#21-74251) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BerryCollegeM/Tournaments/Overview/CC92D4A0-BB0F-49D9-B0D3-36812E68174B" target="_blank">Draws</a>)  
 - 9/23/2021 - [Division III Men's Southwest ITA Regional Championships](#21-59346) ([Results](#21-59346) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TrinityUniversityM/Tournaments/Overview/7E4A065E-3568-4C36-BAA5-012DA232FED0" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Men’s New England ITA Regional Championships](#21-19898) ([Results](#21-19898) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeM/Tournaments/Overview/32495C08-214F-4BEB-9F2E-E234A71A4941" target="_blank">Draws</a>)  
-- 9/24/2021 - [Junior College Men's and Women's Central ITA Regional Championships](#21-33883) ([Results](#21-33883) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CowleyCountyCCM/Tournaments/Overview/BC95B2DD-9F42-4CC1-B3FD-B28A7F6354E1" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Southeast ITA Regional Championships](#21-59818) ([Results](#21-59818) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AbrahamBaldwinCollegeM/Tournaments/Overview/0C49FE79-13DE-4D89-BE12-0363D7D96FAE" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Southwest ITA Regional Small College Championships](#21-74781) ([Results](#21-74781) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TylerJrCollegeM/Tournaments/Overview/AFDCB501-9485-41C1-8697-2065AFF6AC47" target="_blank">Draws</a>)  
 - 9/20/2021 - [Kenyon Invitation](#21-97262) ([Results](#21-97262) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KenyonCollegeM/Tournaments/Overview/225A96CA-C1D5-49B4-A355-4BE8F3451F69" target="_blank">Draws</a>)  
@@ -3165,51 +3164,6 @@
      64      Sam Henry           def.      Alexander Gujarathi 61 63
      64      Harris Foulkes      def.      Derek Shen          64 62
      64  (2) Isaac Gorelik       def.      Jon Trevethan       60 60
-~~~
-
-<a name="21-33883"></a>
-~~~
-═══════════════════════════════════════════════════════════════════════════════
-  Junior College Men's and Women's Central ITA Regional Championships
-  Dates: Sep 24-26, 2021
-  Host: Cowley County CC (M)
-═══════════════════════════════════════════════════════════════════════════════
- Men's Open Singles
- > Draw
-  > Main
-      F (1) Takeshi Taco         def. (3) Boruch Skierkier     26 75 62
-     SF (1) Takeshi Taco         def.     Luke Quaynor         63 30 Ret.
-     SF (3) Boruch Skierkier     def. (2) Luciano Fisicaro     63 62
-     QF (1) Takeshi Taco         def. (8) Juan Gonzalez        63 64
-     QF     Luke Quaynor         def. (4) Kyllian Savary       63 64
-     QF (3) Boruch Skierkier     def. (6) Karlo Krolo          64 64
-     QF (2) Luciano Fisicaro     def.     Gaston Erhardt       62 64
-     16 (1) Takeshi Taco         def.     Enzo Frequelin       62 63
-     16 (8) Juan Gonzalez        def.     Carlos Castillo      61 76(7)
-     16 (4) Kyllian Savary       def.     Taiyo Hirano         61 26 62
-     16     Luke Quaynor         def. (5) Harry Collins        64 60
-     16 (6) Karlo Krolo          def.     David Arrieta        64 62
-     16 (3) Boruch Skierkier     def.     Arthur Praud         60 60
-     16     Gaston Erhardt       def. (7) Aymeric Bruno        67(5) 62 42 Ret.
-     16 (2) Luciano Fisicaro     def.     Leandro Zgraggen     61 61
-     32     Enzo Frequelin       def.     Zamani Moyo          61 75
-     32     Carlos Castillo      def.     Nolan Laduree        60 61
-     32     Taiyo Hirano         def.     Dante Despontin      64 60
-     32     Luke Quaynor         def.     Theo Devals          62 61
-     32     David Arrieta        def.     Eduardo Pires Do Pr… 62 57 63
-     32     Arthur Praud         def.     Jonas Mathiason      63 62
-     32     Gaston Erhardt       def.     Martins Abamu        64 57 60
-     32     Leandro Zgraggen     def.     Nicholas Espinoza    62 62
-  > Consolation
-      F     Martins Abamu        def.     Nolan Laduree        63 62
-     SF     Nolan Laduree        def.     Dante Despontin      63 62
-     SF     Martins Abamu        def.     Eduardo Pires Do Pr… 36 64 [2]
-     QF     Nolan Laduree        def.     Zamani Moyo          76(3) 61
-     QF     Dante Despontin      def.     Theo Devals          64 76(4)
-     QF     Eduardo Pires Do Pr… def.     Jonas Mathiason      Walkover
-     QF     Martins Abamu        def.     Nicholas Espinoza    64 62
-     16     Theo Devals          def. (5) Harry Collins        Walkover
-     16     Martins Abamu        def. (7) Aymeric Bruno        Walkover
 ~~~
 
 <a name="21-59818"></a>

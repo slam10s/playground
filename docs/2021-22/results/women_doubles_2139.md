@@ -11,7 +11,6 @@
 - 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division III Women's Southeast ITA Regional Championships](#21-12873) ([Results](#21-12873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Draws</a>)  
 - 10/1/2021 - [Barb Chandler Classic](#21-63890) ([Results](#21-63890) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityW/Tournaments/Overview/88302122-9593-4E3B-B392-8D6982533991" target="_blank">Draws</a>)  
-- 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
 - 9/27/2021 - [BU Invitational](#21-87840) ([Results](#21-87840) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">Draws</a>)  
 - 10/2/2021 - [Butler Tournament](#21-66816) ([Results](#21-66816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Eagles Invitational](#21-42606) ([Results](#21-42606) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternMichiganUnivW/Tournaments/Overview/47B6E347-F9DC-455F-9E51-1E407EB949E4" target="_blank">Draws</a>)  
@@ -37,8 +36,8 @@
 - 10/1/2021 - [Division III Women's New England ITA Regional Championships](#21-20521) ([Results](#21-20521) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Women's South ITA Regional Championships](#21-21997) ([Results](#21-21997) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SewaneeUOfTheSouthW/Tournaments/Overview/444BCEF3-8673-4922-AB1D-45C355E8DE28" target="_blank">Draws</a>)  
 - 9/30/2021 - [Division III Women's Southwest ITA Regional Championships](#21-36423) ([Results](#21-36423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonW/Tournaments/Overview/39873211-F8A9-40EA-B250-F23B1167F8F3" target="_blank">Draws</a>)  
-- 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
+- 10/1/2021 - [NAIA Men's & Women’s Gulf ITA Regional Championships](#21-33851) ([Results](#21-33851) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's Midwest ITA Regional Championships](#21-24046) ([Results](#21-24046) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's West ITA Regional Championships](#21-30655) ([Results](#21-30655) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoChristianCollegeM/Tournaments/Overview/69F8695F-2504-428C-A795-59FCBAC34422" target="_blank">Draws</a>)  
 - 10/2/2021 - [PSAC Individual Tennis Championship](#21-08096) ([Results](#21-08096) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BloomsburgUniversityM/Tournaments/Overview/9C9FD25D-5DFE-447C-B77B-66779A3043D4" target="_blank">Draws</a>)  
@@ -46,7 +45,6 @@
 **Tournaments without Matches**  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/AF939B4B-9F2C-4175-9E87-CB1DAD6FB575" target="_blank">Bearcat Invitational</a>  
 - 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonM/Tournaments/Overview/310F46BB-4C75-4457-A20F-A5B8D57D9D12" target="_blank">ITA Women's Regional Championship DIII</a>  
-- 10/1/2021 - <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">NAIA Men's & Women’s Gulf ITA Regional Championships</a>  
 
 <a name="21-92387"></a>
 ~~~
@@ -699,27 +697,6 @@
      R3  Chen/Lerman          def.  Heffernan/Patton Lo… 63
      R3  Astle/Lin            def.  Milenkoski/Egan      61
      R1  Heffernan/Patton Lo… def.  Milenkoski/Egan      64
-~~~
-
-<a name="21-67194"></a>
-~~~
-════════════════════════════════════════════════════════════════
-  Belmont Fall Invitational
-  Dates: Oct 1-3, 2021
-  Host: Belmont University (M)
-════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Belmont vs. Lipscomb
-  > Main
-     QF  Chapman/Richter      def.  Getty/Trondson     64
-     QF  Zholdakova/Solomon   def.  Diachenko/Dobranos 63
-     QF  Lee/Carelli          def.  Bandy/Howard       64
-     QF  Roberts/Henry        def.  Popova/Trbeznik    64
- > Murray State vs. North Alabama
-  > Main
-     QF  Slezakova/Sharapova  def.  Andrews/Talieu     60
-     QF  Kreugel/Silva Campi… def.  Bishop/Flesch      76(3)
-     QF  Pschorr/Bureau       def.  Going/Loubser      60
 ~~~
 
 <a name="21-87840"></a>
@@ -2040,31 +2017,6 @@
      32 (2) Wong/Ducret       def.     Smith/Turner         81
 ~~~
 
-<a name="21-76964"></a>
-~~~
-═════════════════════════════════════════════════════════════════════════════════
-  Junior College Men's and Women's Northern California ITA Regional Championships
-  Dates: Oct 1-3, 2021
-  Host: American River College (M)
-═════════════════════════════════════════════════════════════════════════════════
- Women's Open Doubles
- > Draw
-  > Main
-      F (1) Vossen/Proktor     def. (3) VanOrman/Montaruli 50 Ret.
-     SF (1) Vossen/Proktor     def. (4) Boliscar/Branch    86
-     SF (3) VanOrman/Montaruli def. (2) Greenwell/Mazzola  83
-     QF (1) Vossen/Proktor     def.     Aguilar/McShane    81
-     QF (4) Boliscar/Branch    def.     Crismon/Crismon    81
-     QF (3) VanOrman/Montaruli def.     Espino/Gregory     82
-     QF (2) Greenwell/Mazzola  def.     White/Rennoult     82
-     16     Aguilar/McShane    def.     Fleming/Mestre     81
-     16     Crismon/Crismon    def.     Pearson/Laursen    82
-     16 (4) Boliscar/Branch    def.     Cowan/Jacobs       82
-     16 (3) VanOrman/Montaruli def.     White/Barry        81
-     16     Espino/Gregory     def.     Sackx/Hu           85
-     16     White/Rennoult     def.     Reade/Lee          83
-~~~
-
 <a name="21-84365"></a>
 ~~~
 ════════════════════════════════════════════════════════════════════════════════════
@@ -2115,6 +2067,38 @@
      QF     Turner/Spears       def.     Franks/Nipp         82
      QQ     Angle/Ball          def.     Simmons/Vuyovich    Walkover
      QQ     Askin/Wine          def.     Athas/Sanders       86
+~~~
+
+<a name="21-33851"></a>
+~~~
+════════════════════════════════════════════════════════════════════
+  NAIA Men's & Women’s Gulf ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: Xavier University/LA (M)
+════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Draw
+  > Main
+      F     Clarke/Muhammad      def. (4) Carpenter/Vasquez    75 75
+     SF (4) Carpenter/Vasquez    def.     Bonivardi/Romero Go… 83
+     SF     Clarke/Muhammad      def.     Largacha/Stephens    85
+     QF     Bonivardi/Romero Go… def. (1) Akinnibi/Niyonkuru   86
+     QF (4) Carpenter/Vasquez    def.     Finch/Dixon          98(5)
+     QF     Largacha/Stephens    def. (3) Natalini/Trifonova   97
+     QF     Clarke/Muhammad      def. (2) Goetzen/Shurbina     97
+     16 (1) Akinnibi/Niyonkuru   def.     Briggs/Carpenter     84
+     16     Bonivardi/Romero Go… def.     Kozakova/MacKay      83
+     16     Finch/Dixon          def.     Roussignol/Webster   86
+     16 (4) Carpenter/Vasquez    def.     Germain/Prieto       81
+     16 (3) Natalini/Trifonova   def.     Kleijn/Scattinni     82
+     16     Largacha/Stephens    def.     Engel/Pakkaro        86
+     16     Clarke/Muhammad      def.     Oviedo/Peters        83
+     16 (2) Goetzen/Shurbina     def.     Ibarra/Scott         81
+     32     Briggs/Carpenter     def.     Newton/Lucht         84
+     32     Roussignol/Webster   def.     Fereres/Salqueiro-E… 85
+     32     Kleijn/Scattinni     def.     Alban/Leano          82
+     32     Largacha/Stephens    def.     Alexander/Cecilia C… 83
+     32     Oviedo/Peters        def.     Alvarez/Blasco       83
 ~~~
 
 <a name="21-24046"></a>
