@@ -13,6 +13,7 @@
 - 10/8/2021 - [Jimmy Powell Invitational](#21-66349) ([Results](#21-66349) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B" target="_blank">Draws</a>)  
 - 10/8/2021 - [June Stewart](#21-72773) ([Results](#21-72773) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432" target="_blank">Draws</a>)  
 - 10/8/2021 - [Long Beach State Fall Tournament](#21-66132) ([Results](#21-66132) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488" target="_blank">Draws</a>)  
+- 10/8/2021 - [MVC Individual Championships](#21-95059) ([Results](#21-95059) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ValparaisoUniversityW/Tournaments/Overview/B904C732-831F-4CCF-A9CB-89AC1D5C58BB" target="_blank">Draws</a>)  
 - 10/8/2021 - [Navy Blue and Gold Invitational](#21-53408) ([Results](#21-53408) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C" target="_blank">Draws</a>)  
 - 10/8/2021 - [Samford Round Robin #2](#21-46673) ([Results](#21-46673) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SamfordUniversityW/Tournaments/Overview/866AEBC3-0F9A-4F7D-BD2A-0388738EE871" target="_blank">Draws</a>)  
 - 10/10/2021 - [SEMO Invitational](#21-50227) ([Results](#21-50227) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SoutheastMissouriStateUnivW/Tournaments/Overview/E0892C7B-1714-4B99-A547-2386D7847CF2" target="_blank">Draws</a>)  
@@ -580,6 +581,55 @@
  > Flight D
   > Main
       F  Richterova/Kotsyuba  def.  Buhr/Del Marco       61
+~~~
+
+<a name="21-95059"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  MVC Individual Championships
+  Dates: Oct 8-10, 2021
+  Host: Valparaiso University (W)
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight 2
+  > Main
+      F  Haagensen/Stepan     def.  Damnjanovic/Abreu    85
+     SF  Damnjanovic/Abreu    def.  Villalba Rubio/Sou   83
+     SF  Haagensen/Stepan     def.  Bezmenova/Andrade    84
+     QF  Villalba Rubio/Sou   def.  Carr/Brkic           87(5)
+     QF  Bezmenova/Andrade    def.  Tabanera/Schoolcraft 85
+     QF  Haagensen/Stepan     def.  Lukacova/Houston     82
+  > Consolation
+      F  Tabanera/Schoolcraft def.  Lukacova/Houston     86
+     SQ  Tabanera/Schoolcraft def.  Carr/Brkic           84
+  > Playoff 3-4
+      F  Bezmenova/Andrade    def.  Villalba Rubio/Sou   86
+ > Flight 3
+  > Main
+      F  Abyasova/Fitzgerald  def.  Miley/Presot         83
+     SF  Abyasova/Fitzgerald  def.  Lojpur/Perlwitz      87(7)
+     SF  Miley/Presot         def.  Neville/Ehn          83
+     QF  Abyasova/Fitzgerald  def.  Jhaveri/McConnell    86
+     QF  Miley/Presot         def.  Moreira/Fain         86
+     QF  Neville/Ehn          def.  Joshi/Jayakrishna    80
+  > Consolation
+      F  Moreira/Fain         def.  Joshi/Jayakrishna    86
+     SQ  Moreira/Fain         def.  Jhaveri/McConnell    84
+  > Playoff 3-4
+      F  Neville/Ehn          def.  Lojpur/Perlwitz      86
+ > Flight 1
+  > Main
+      F  Czerwonka/Czerwonka  def.  Zlatanovic/Potsi     84
+     SF  Zlatanovic/Potsi     def.  Petushkova/Stephani  81
+     SF  Czerwonka/Czerwonka  def.  Maletin/Hailey       84
+     QF  Petushkova/Stephani  def.  Dalecka/Cardoso      83
+     QF  Maletin/Hailey       def.  Piskulic/Jarmond     86
+     QF  Czerwonka/Czerwonka  def.  Sreeves/Medved       84
+  > Consolation
+      F  Sreeves/Medved       def.  Piskulic/Jarmond     86
+     SQ  Piskulic/Jarmond     def.  Dalecka/Cardoso      84
+  > Playoff 3-4
+      F  Maletin/Hailey       def.  Petushkova/Stephani  Walkover
 ~~~
 
 <a name="21-53408"></a>

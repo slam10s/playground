@@ -2,6 +2,8 @@
 
 **Tournamets with Matches**  
 - 9/17/2021 - [Alabama Four-In-The-Fall](#21-01301) ([Results](#21-01301) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4" target="_blank">Draws</a>)  
+- 9/17/2021 - [Auburn Fall Invite](#21-72298) ([Results](#21-72298) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/5CE93068-0A51-4941-853B-FC0571C04451" target="_blank">Draws</a>)  
+- 9/16/2021 - [Battle in the Bay Classic](#21-04289) ([Results](#21-04289) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSanFranciscoW/Tournaments/Overview/1A506BE3-9443-469C-B392-592E0684A825" target="_blank">Draws</a>)  
 - 9/16/2021 - [Bedford Cup in the Mountains](#21-69307) ([Results](#21-69307) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dale Short Shootout](#21-04953) ([Results](#21-04953) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityM/Tournaments/Overview/8D17D1A4-3D6A-4D99-9858-4808AD3D6EAE" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dartmouth Invitational](#21-10750) ([Results](#21-10750) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeM/Tournaments/Overview/FB53D115-F7C3-43C7-9CAF-0B60D9E55E67" target="_blank">Draws</a>)  
@@ -95,6 +97,155 @@
      64  Harry Rock           def.  Dakotah Bobo         63 61
      64  Sam Edgar            def.  Nick Watson          61 62
      64  Pablo Alemany        def.  Will Cubitt          61 62
+~~~
+
+<a name="21-72298"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  Auburn Fall Invite
+  Dates: Sep 17-19, 2021
+  Host: Auburn University (M)
+═══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Blue
+  > Main
+     32  Teodor Giusca        def.  Bojan Jankulovski   36 61 61
+     32  Ryuhei Azuma         def.  Dan Martin          46 76(4) 64
+     32  Jorge Plans Gonzalez def.  Juan Martin Jalif   46 76(4) 76(5)
+     32  Casper Christensen   def.  Matt Pitts          76(9) 06 40 Ret.
+     32  Yizhou Liu           def.  Ilarion Danilchenko 64 60
+     32  Spencer Whitaker     def.  Franco Aubone       61 61
+     32  Oren Vasser          def.  Maxwell Smith       61 61
+     32  Jackson Ross         def.  Andrew Puscas       76(6) 61
+     32  Trey Stinchcomb      def.  Josh Raab           67(4) 62 75
+     32  Spencer Gray         def.  Daniel Labrador     64 76(4)
+ > Red
+  > Main
+     16  Tyler Stice          def.  George Harwell      61 62
+     16  Joubert Klopper      def.  Jan Galka           76(2) 61
+     16  Raul Dobai           def.  Marcus Ferreira     36 60 62
+     16  Tad McClean          def.  Michael Ross        63 57 62
+     16  Will Nolan           def.  Maxwell Freeman     61 62
+     16  Jackson Ross         def.  Connor Robb-Wilcox  62 61
+     16  Macsen Sisam         def.  Spencer Gray        26 75 75
+ > Green
+  > Main
+     16  Teodor Giusca        def.  Joubert Klopper     63 76(1)
+     16  George Harwell       def.  Ryuhei Azuma        64 36 64
+     16  Jorge Plans Gonzalez def.  Marcus Ferreira     64 46 76(1)
+     16  Yizhou Liu           def.  Michael Ross        63 36 64
+     16  Spencer Whitaker     def.  Macsen Sisam        63 75
+     16  Matt Pitts           def.  Maxwell Freeman     61 62
+     16  Connor Robb-Wilcox   def.  Trey Stinchcomb     75 75
+ > Purple
+  > Main
+     16  Tyler Stice          def.  Juan Martin Jalif   64 63
+     16  Finn Murgett         def.  Bojan Jankulovski   64 46 63
+     16  Jan Galka            def.  Dan Martin          64 26 63
+     16  Oren Vasser          def.  Raul Dobai          67(5) 64 63
+     16  Will Nolan           def.  Casper Christensen  60 62
+     16  Tad McClean          def.  Franco Aubone       36 76(3) 61
+     16  Jackson Ross         def.  Daniel Labrador     64 63
+     16  Spencer Gray         def.  Maxwell Smith       46 64 63
+ > Orange
+  > Main
+     16  George Harwell       def.  Bojan Jankulovski   62 62
+     16  Marcus Ferreira      def.  Juan Martin Jalif   75 75
+     16  Joubert Klopper      def.  Oren Vasser         62 64
+     16  Dan Martin           def.  Michael Ross        76(6) 75
+     16  Franco Aubone        def.  Connor Robb-Wilcox  62 57 64
+     16  Casper Christensen   def.  Maxwell Freeman     16 64 63
+     16  Macsen Sisam         def.  Ilarion Danilchenko 61 63
+ > Yellow
+  > Main
+     16  Tyler Stice          def.  Teodor Giusca       26 62 75
+     16  Tad McClean          def.  Maxwell Smith       57 64 64
+     16  Jorge Plans Gonzalez def.  Finn Murgett        64 67(1) 61
+     16  Jan Galka            def.  Yizhou Liu          60 63
+     16  Raul Dobai           def.  Matt Pitts          75 63
+     16  Will Nolan           def.  Andrew Puscas       67(6) 63 61
+     16  Jackson Ross         def.  Trey Stinchcomb     63 76(5)
+     16  Spencer Gray         def.  Daniel Labrador     60 60
+~~~
+
+<a name="21-04289"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Battle in the Bay Classic
+  Dates: Sep 16-19, 2021
+  Host: Univ. Of San Francisco (W)
+════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Main Draw
+  > Main
+       F  Stefan Dostanic     def.  Bradley Frye         64 76(2)
+      SF  Bradley Frye        def.  Philip Hjorth        46 75 76(7)
+      SF  Stefan Dostanic     def.  Lui Maxted           63 62
+      QF  Philip Hjorth       def.  Richard Ciamarra     Walkover
+      QF  Bradley Frye        def.  Luc Fomba            63 36 63
+      QF  Lui Maxted          def.  Jacob Fearnley       23 Ret.
+      QF  Stefan Dostanic     def.  Tim Zeitvogel        64 64
+      16  Philip Hjorth       def.  Baptiste Anselmo     76(3) 46 [9]
+      16  Luc Fomba           def.  Andrew Rogers        63 76(2)
+      16  Bradley Frye        def.  Gavin Young          64 62
+      16  Jacob Fearnley      def.  Mason Beiler         26 60 [7]
+      16  Lui Maxted          def.  Micah Braswell       62 64
+      16  Tim Zeitvogel       def.  Yuta Kikuchi         64 76(4)
+      16  Stefan Dostanic     def.  Andre Ilagan         64 76(3)
+      32  Philip Hjorth       def.  Jonas Eriksson Zive… 76(6) 26 [6]
+      32  Baptiste Anselmo    def.  Phillip Jordan       76(2) 61
+      32  Richard Ciamarra    def.  Sam Rubell           63 61
+      32  Luc Fomba           def.  Noah Berry           62 64
+      32  Andrew Rogers       def.  Phuc Huynh           75 62
+      32  Bradley Frye        def.  Tim Ruehl            36 61 [5]
+      32  Gavin Young         def.  Nil Giraldez         62 75
+      32  Jacob Fearnley      def.  Nevin Arimilli       62 63
+      32  Mason Beiler        def.  Carl Emil Overbeck   63 57 [5]
+      32  Lui Maxted          def.  Colton Smith         64 64
+      32  Micah Braswell      def.  Stefano Tsorotiotis  61 63
+      32  Yuta Kikuchi        def.  Evin McDonald        63 63
+      32  Tim Zeitvogel       def.  Fabien Salle         62 46 [8]
+      32  Andre Ilagan        def.  Nick Beaty           36 62 [3]
+      32  Stefan Dostanic     def.  Marvin Schaber       63 63
+  > Consolation
+       F  Colton Smith        def.  Phillip Jordan       63 26 [10]
+      SF  Phillip Jordan      def.  Phuc Huynh           76(5) 62
+      SF  Colton Smith        def.  Fabien Salle         63 76(5)
+      QF  Phillip Jordan      def.  Sam Rubell           26 76(2) [2]
+      QF  Phuc Huynh          def.  Nil Giraldez         Walkover
+      QF  Colton Smith        def.  Nevin Arimilli       62 62
+      QF  Fabien Salle        def.  Nick Beaty           75 57 [4]
+     16Q  Phillip Jordan      def.  Jonas Eriksson Zive… 62 64
+     16Q  Phuc Huynh          def.  Noah Berry           64 75
+     16Q  Nil Giraldez        def.  Tim Ruehl            Walkover
+     16Q  Nevin Arimilli      def.  Carl Emil Overbeck   62 75
+     16Q  Colton Smith        def.  Stefano Tsorotiotis  63 64
+     16Q  Fabien Salle        def.  Evin McDonald        64 63
+     16Q  Nick Beaty          def.  Marvin Schaber       63 46 [5]
+ > Extra Matches
+  > Main
+      16  Stevie Gould        def.  Jonas Eriksson Zive… Walkover
+      16  Marvin Schaber      def.  Paul Barretto        64 63
+      16  Axel Labrunie       def.  Johan Garpered       61 10 Ret.
+      16  Mitchell Johnson    def.  Lucas Magnaudet      64 62
+      16  Andre Ilagan        def.  Baptiste Anselmo     62 63
+      16  Mason Beiler        def.  Yuta Kikuchi         64 62
+ > Extra Matches 2
+  > Main
+      R3  Axel Labrunie       def.  David Woodland       61 63
+      R2  Paul Barretto       def.  David Woodland       61 62
+ > Extra Matches 3
+  > Main
+       F  Sam Rubell          def.  Mitchell Johnson     63 62
+ > Qualifying
+  > Main
+      16  Philip Hjorth       def.  Will Davies          63 63
+      16  Noah Berry          def.  Lucas Magnaudet      60 62
+      16  Sam Rubell          def.  Stevie Gould         61 26 [3]
+      16  Stefano Tsorotiotis def.  Axel Labrunie        75 64
+      16  Evin McDonald       def.  Fernando Fonseca     57 34 Ret.
+      16  Nevin Arimilli      def.  Nicola Cigna         75 61
+      16  Nil Giraldez        def.  Paul Barretto        16 64 [9]
 ~~~
 
 <a name="21-69307"></a>

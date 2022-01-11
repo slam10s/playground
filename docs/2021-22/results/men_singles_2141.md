@@ -17,6 +17,7 @@
 - 10/15/2021 - [Louisville Invitational](#21-27355) ([Results](#21-27355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA" target="_blank">Draws</a>)  
 - 10/15/2021 - [San Diego State Fall Invite](#21-62211) ([Results](#21-62211) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666" target="_blank">Draws</a>)  
 - 10/15/2021 - [UTC-Steve Baras Invitational](#21-41868) ([Results](#21-41868) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 - 10/16/2021 - [Purdue University Northwest Fall Invitational](#21-60014) ([Results](#21-60014) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/PurdueUniversityNorthwestM/Tournaments/Overview/A63832A0-768B-401A-B044-F7960762A033" target="_blank">Draws</a>)  
 - 10/15/2021 - [Saint Leo Lion Fall Invitational - Men](#21-98443) ([Results](#21-98443) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityM/Tournaments/Overview/5288C110-F2C6-4021-B55E-C23A5BE7B033" target="_blank">Draws</a>)  
 - 10/16/2021 - [Wesleyan Invitational](#21-80073) ([Results](#21-80073) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WesleyanUniversityM/Tournaments/Overview/97551E13-3CF5-4AD8-BE52-A4FFC8E694D9" target="_blank">Draws</a>)  
@@ -1526,6 +1527,126 @@
      16  Mika Berghaus        def.  Tao Castillo         75 61
      16  Pol Del Castillo     def.  Evzen Holis          46 64 [5]
      16  Elias Grubert        def.  Alex Suk             62 61
+~~~
+
+<a name="21-00186"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  ITA Cup
+  Dates: Oct 14-17, 2021
+  Host: ITA
+═══════════════════════════════════════════════════════════════════════════
+ Men's Open Singles
+ > Division II
+  > East
+      F (1) Alvaro Regalado    def.     Joaquin Benoit      62 62
+     SF (1) Alvaro Regalado    def. (4) Andrea Zamurri      63 64
+     SF     Joaquin Benoit     def.     Alex Martinez Roca  63 46 62
+     QF (1) Alvaro Regalado    def.     Ryan Nuno           57 61 61
+     QF (4) Andrea Zamurri     def.     Sander Jans         36 62 62
+     QF     Alex Martinez Roca def.     Brennan Cimpeanu    61 63
+     QF     Joaquin Benoit     def.     Francisco Oliveira  75 64
+     16 (1) Alvaro Regalado    def.     Sebastian Herrera   61 62
+     16     Ryan Nuno          def.     Tom Jarry           64 62
+     16 (4) Andrea Zamurri     def.     Gonzalo Fernandez   76(5) 64
+     16     Sander Jans        def.     Daniel Llorente     64 75
+     16     Alex Martinez Roca def.     Franco Oliva        76(5) 62
+     16     Brennan Cimpeanu   def. (3) Marko Nikoliuk      76(6) 63
+     16     Joaquin Benoit     def.     Joaquin Bianchi     62 63
+     16     Francisco Oliveira def. (2) Alejandro Ibanez    63 63
+  > West
+     SF     Gonzalo Fernandez  def.     Sebastian Herrera   64 63
+     SF     Joaquin Bianchi    def.     Franco Oliva        76(2) 62
+     QF     Sebastian Herrera  def.     Tom Jarry           63 64
+     QF     Gonzalo Fernandez  def.     Daniel Llorente     36 63 62
+     QF     Franco Oliva       def. (3) Marko Nikoliuk      57 64 62
+     QF     Joaquin Bianchi    def.     Jonathan Berling    63 61
+  > North
+     SF     Ryan Nuno          def.     Sander Jans         62 64
+     SF     Francisco Oliveira def.     Brennan Cimpeanu    76(8) 63
+  > South
+     SF     Daniel Llorente    def.     Tom Jarry           61 76(6)
+     SF (3) Marko Nikoliuk      vs      Jonathan Berling    
+ > Division III
+  > East
+      F     Stan Morris        def. (3) Chase Cohen         26 63 61
+     SF     Stan Morris        def.     Jhonny Acosta       64 64
+     SF (3) Chase Cohen        def.     Jordan Theron       16 75 62
+     QF     Jhonny Acosta      def. (1) James Hopper        57 64 00 Ret.
+     QF     Stan Morris        def. (4) Robert Liu          26 75 75
+     QF (3) Chase Cohen        def.     Ansh Shah           46 60 60
+     QF     Jordan Theron      def.     Moses Hutchison     76(3) 76(2)
+     16 (1) James Hopper       def.     Yudai Teruyama      63 62
+     16     Jhonny Acosta      def.     Thomas Yu           62 62
+     16 (4) Robert Liu         def.     Luke Lemaitre       62 63
+     16     Stan Morris        def.     John Zakowski       62 62
+     16     Ansh Shah          def.     John Rado           26 62 63
+     16 (3) Chase Cohen        def.     Ethan Carroll       62 62
+     16     Moses Hutchison    def.     Cole Lindwall       63 62
+     16     Jordan Theron      def. (2) Cameron Krimbill    62 26 60
+  > West
+     SF     Thomas Yu          def.     John Zakowski       62 60
+     SF (2) Cameron Krimbill   def.     John Rado           64 63
+     QF     Thomas Yu          def.     Yudai Teruyama      63 60
+     QF     John Zakowski      def.     Luke Lemaitre       64 63
+     QF     John Rado          def.     Ethan Carroll       64 76(3)
+     QF (2) Cameron Krimbill   def.     Cole Lindwall       61 64
+  > North
+      F (4) Robert Liu          vs      Moses Hutchison     
+     SF (4) Robert Liu         def. (1) James Hopper        Walkover
+     SF     Moses Hutchison    def.     Ansh Shah           64 61
+  > South
+      F     Luke Lemaitre       vs      Ethan Carroll       
+     SF     Luke Lemaitre      def.     Yudai Teruyama      61 60
+     SF     Ethan Carroll      def.     Cole Lindwall       64 61
+ > Naia
+  > East
+      F     Agustin Tamagnone  def.     Francisco Faria     64 46 75
+     SF     Agustin Tamagnone  def. (4) Daniil Klimov       67(4) 64 76(5)
+     SF     Francisco Faria    def.     Jeremias Rocco      64 Ret.
+     QF     Agustin Tamagnone  def. (1) Luke Simkiss        61 64
+     QF (4) Daniil Klimov      def.     Chris Papa          57 64 75
+     QF     Francisco Faria    def.     Yassir Kilani       64 63
+     QF     Jeremias Rocco     def. (2) Alex Gurmendi       64 64
+     16 (1) Luke Simkiss       def.     Leo Sprovieri       61 16 76(6)
+     16     Agustin Tamagnone  def.     Jan Silhavy         62 62
+     16 (4) Daniil Klimov      def.     Daniel Czepielewski 63 62
+     16     Chris Papa         def.     Martin Carrizo      60 61
+     16     Francisco Faria    def.     Thomas Zych         75 75
+     16     Yassir Kilani      def. (3) Leo Bresson         63 76(2)
+     16     Jeremias Rocco     def.     Nick Nienhaus       64 36 62
+     16 (2) Alex Gurmendi      def.     Gabriel Ortiz       64 57 64
+  > West
+      F     Leo Sprovieri      def.     Nick Nienhaus       64 64
+     SF     Leo Sprovieri      def.     Martin Carrizo      Walkover
+     SF     Nick Nienhaus      def. (3) Leo Bresson         Walkover
+     QF     Leo Sprovieri      def.     Jan Silhavy         62 61
+     QF     Martin Carrizo     def.     Daniel Czepielewski 62 63
+     QF (3) Leo Bresson        def.     Thomas Zych         Walkover
+     QF     Nick Nienhaus      def.     Gabriel Ortiz       Walkover
+  > North
+     SF (1) Luke Simkiss       def.     Chris Papa          62 64
+     SF     Yassir Kilani      def. (2) Alex Gurmendi       Walkover
+  > South
+     SF     Jan Silhavy        def.     Daniel Czepielewski Walkover
+     SF     Thomas Zych        def.     Bruno Pessoa        Walkover
+ > Junior College
+  > East
+      F (2) Takeshi Taco       def. (4) Boruch Skierkier    63 76(1)
+     SF (4) Boruch Skierkier   def. (1) Gaston Cantero      61 36 52 Ret.
+     SF (2) Takeshi Taco       def. (3) Diego Dalisay       63 63
+     QF (1) Gaston Cantero     def.     Ravi Nelson         64 62
+     QF (4) Boruch Skierkier   def.     Emilio Vila         61 60
+     QF (3) Diego Dalisay      def.     Tomas Nader         62 62
+     QF (2) Takeshi Taco       def.     Cheng En Tsai       62 61
+  > West
+      F     Cheng En Tsai      def.     Ravi Nelson         61 62
+     SF     Ravi Nelson        def.     Emilio Vila         64 75
+     SF     Cheng En Tsai      def.     Tomas Nader         63 63
+  > 3-4 Playoff
+      F (1) Gaston Cantero     def. (3) Diego Dalisay       50 Ret.
+  > South
+      F     Emilio Vila        def.     Tomas Nader         62 61
 ~~~
 
 <a name="21-60014"></a>

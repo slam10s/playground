@@ -2,6 +2,8 @@
 
 **Tournamets with Matches**  
 - 9/17/2021 - [Alabama Four-In-The-Fall](#21-01301) ([Results](#21-01301) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4" target="_blank">Draws</a>)  
+- 9/17/2021 - [Auburn Fall Invite](#21-72298) ([Results](#21-72298) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/5CE93068-0A51-4941-853B-FC0571C04451" target="_blank">Draws</a>)  
+- 9/16/2021 - [Battle in the Bay Classic](#21-04289) ([Results](#21-04289) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfSanFranciscoW/Tournaments/Overview/1A506BE3-9443-469C-B392-592E0684A825" target="_blank">Draws</a>)  
 - 9/16/2021 - [Bedford Cup in the Mountains](#21-69307) ([Results](#21-69307) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dale Short Shootout](#21-04953) ([Results](#21-04953) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityM/Tournaments/Overview/8D17D1A4-3D6A-4D99-9858-4808AD3D6EAE" target="_blank">Draws</a>)  
 - 9/17/2021 - [Dartmouth Invitational](#21-10750) ([Results](#21-10750) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeM/Tournaments/Overview/FB53D115-F7C3-43C7-9CAF-0B60D9E55E67" target="_blank">Draws</a>)  
@@ -71,6 +73,78 @@
      32  Stevenson/Cutting    def.  Lobak/Watson        75
      32  Koch/Bobo            def.  Taylor/Fanlo        64
      32  Ambrosio/Cubitt      def.  Edgar/Alemany       61
+~~~
+
+<a name="21-72298"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Auburn Fall Invite
+  Dates: Sep 17-19, 2021
+  Host: Auburn University (M)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Red
+  > Main
+     QF  McClean/Murgett     def.  Harwell/Freeman      98(4)
+     QF  Nolan/Dobai         def.  Sisam/Klopper        97
+     QF  Stice/Galka         def.  Ross/Robb-Wilcox     84
+ > Purple
+  > Main
+     QF  Stice/Galka         def.  Martin/Aubone        83
+     QF  Vasser/Jalif        def.  Dobai/Labrador       98(1)
+     QF  McClean/Nolan       def.  Christensen/Jankulo… 84
+ > Orange
+  > Main
+     QF  Martin/Aubone       def.  Harwell/Freeman      84
+     QF  Ferreira/Ross       def.  Vasser/Jalif         84
+     QF  Klopper/Robb-Wilcox def.  Christensen/Jankulo… 85
+ > Yellow
+  > Main
+     QF  Giusca/Liu          def.  Dobai/Murgett        86
+     QF  Stice/Galka         def.  Pitts/Whitaker       98(1)
+     QF  McClean/Nolan       def.  Smith/Puscas         85
+~~~
+
+<a name="21-04289"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  Battle in the Bay Classic
+  Dates: Sep 16-19, 2021
+  Host: Univ. Of San Francisco (W)
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Main Draw
+  > Main
+      F  Overbeck/Kikuchi     def.  Frye/Dostanic        83
+     SF  Frye/Dostanic        def.  Jordan/Tsorotiotis   81
+     SF  Overbeck/Kikuchi     def.  Smith/Eriksson Zive… 86
+     QF  Frye/Dostanic        def.  Maxted/Fearnley      81
+     QF  Jordan/Tsorotiotis   def.  Braswell/Ciamarra    86
+     QF  Overbeck/Kikuchi     def.  Arimilli/McDonald    87(3)
+     QF  Smith/Eriksson Zive… def.  Fomba/Ruehl          85
+     16  Frye/Dostanic        def.  Davies/Schaber       85
+     16  Maxted/Fearnley      def.  Huynh/Giraldez       82
+     16  Braswell/Ciamarra    def.  Rubell/Barretto      85
+     16  Jordan/Tsorotiotis   def.  Beiler/Anselmo       86
+     16  Arimilli/McDonald    def.  Rogers/Zeitvogel     84
+     16  Overbeck/Kikuchi     def.  Johnson/Gould        81
+     16  Fomba/Ruehl          def.  Hjorth/Magnaudet     85
+  > Consolation
+     SF  Davies/Schaber       def.  Beiler/Anselmo       87(6)
+     QQ  Davies/Schaber       def.  Huynh/Giraldez       84
+     QQ  Beiler/Anselmo       def.  Rubell/Barretto      86
+     QQ  Johnson/Gould        def.  Rogers/Zeitvogel     85
+ > Extra Matches
+  > Main
+     SF  Young/Beaty          def.  Rubell/Barretto      83
+     SF  Beiler/Anselmo       def.  Ilagan/Labrunie      87(7)
+ > Qualifying
+  > Main
+     QF  Hjorth/Magnaudet     def.  Cigna/Salle          86
+     QF  Rubell/Barretto      def.  Ilagan/Labrunie      86
+     QF  Johnson/Gould        def.  Young/Beaty          84
+  > Consolation
+     SQ  Young/Beaty          def.  Ilagan/Labrunie      83
 ~~~
 
 <a name="21-69307"></a>

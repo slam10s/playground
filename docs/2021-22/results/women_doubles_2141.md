@@ -12,6 +12,7 @@
 - 10/15/2021 - [Viking Invitational](#21-40542) ([Results](#21-40542) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0" target="_blank">Draws</a>)  
 - 10/16/2021 - [2021 Midwest Conference Women's Tennis Individual Tournament](#21-17879) ([Results](#21-17879) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CornellCollegeW/Tournaments/Overview/0CC07440-25FC-4F24-9F86-8DF228D746C7" target="_blank">Draws</a>)  
 - 10/15/2021 - [American Rivers Conference Women's Individual Tournament](#21-35590) ([Results](#21-35590) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C" target="_blank">Draws</a>)  
+- 10/14/2021 - [ITA Cup](#21-00186) ([Results](#21-00186) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/0290D146-CA89-4E5D-BBC2-83C8E09F3A13" target="_blank">Draws</a>)  
 - 10/16/2021 - [Royal Rumble 2](#21-20820) ([Results](#21-20820) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/QueensUnivOfCharlotteM/Tournaments/Overview/5B68DF76-F602-4006-AC13-CF5BD0659FF4" target="_blank">Draws</a>)  
 
 <a name="21-27941"></a>
@@ -610,6 +611,119 @@
  > Flight A-Third Place
   > Main
       F (2) Cook/Smith           def. (1) Wanek/King           86
+~~~
+
+<a name="21-00186"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════════
+  ITA Cup
+  Dates: Oct 14-17, 2021
+  Host: ITA
+═══════════════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Division II
+  > East
+      F     Canete/Canete        def.     Moosbacher/Farfan    61 63
+     SF     Moosbacher/Farfan    def.     Kozar/Dovnik         46 60 [10]
+     SF     Canete/Canete        def.     Franco/Garza         63 64
+     QF     Moosbacher/Farfan    def.     Jorge/Lippert        60 60
+     QF     Kozar/Dovnik         def. (4) Gonzalez Ramirez/Ov… 62 64
+     QF     Canete/Canete        def.     Ragona/Shiau         61 63
+     QF     Franco/Garza         def. (2) Espinal/Nosievici    61 Ret.
+     16     Moosbacher/Farfan    def. (1) Novikova/Dunlap      06 76(8) [5]
+     16     Jorge/Lippert        def.     Jancikova/Arce Viey… 61 61
+     16 (4) Gonzalez Ramirez/Ov… def.     Munday/Stralka       62 62
+     16     Kozar/Dovnik         def.     Stephenson/Waller    64 63
+     16     Canete/Canete        def.     Guler/Irrinki        60 61
+     16     Ragona/Shiau         def. (3) Borg/Groth           16 76(7) [8]
+     16     Franco/Garza         def.     Chamoun/Spice        63 46 [8]
+     16 (2) Espinal/Nosievici    def.     Graydon/Kirchtag     63 61
+  > West
+     SF (1) Novikova/Dunlap      def.     Stephenson/Waller    63 60
+     SF (3) Borg/Groth           def.     Chamoun/Spice        62 64
+     QF (1) Novikova/Dunlap      def.     Jancikova/Arce Viey… 63 62
+     QF     Stephenson/Waller    def.     Munday/Stralka       61 63
+     QF (3) Borg/Groth           def.     Guler/Irrinki        63 06 [6]
+     QF     Chamoun/Spice        def.     Graydon/Kirchtag     64 63
+  > North
+     SF     Jorge/Lippert        def. (4) Gonzalez Ramirez/Ov… 61 63
+  > South
+     SF     Munday/Stralka       def.     Jancikova/Arce Viey… 62 76(3)
+     SF     Guler/Irrinki         vs      Graydon/Kirchtag     
+ > Division III
+  > East
+      F     Fordham/Plakk        def. (4) Guo/Mikos            75 67(5) 63
+     SF (4) Guo/Mikos            def.     Gaeth/Yu             46 76(4) [7]
+     SF     Fordham/Plakk        def.     Givone/Zhou          63 64
+     QF     Gaeth/Yu             def. (1) Cornwall/Zheng       63 64
+     QF (4) Guo/Mikos            def.     Zhou/Markey          61 63
+     QF     Givone/Zhou          def. (3) Goetz/Li             64 62
+     QF     Fordham/Plakk        def. (2) Rigby/Christensen    26 75 [8]
+     16 (1) Cornwall/Zheng       def.     Fatemi/Cartledge     62 36 [9]
+     16     Gaeth/Yu             def.     Castellanos Caldero… 64 63
+     16 (4) Guo/Mikos            def.     Lee/Juan             64 61
+     16     Zhou/Markey          def.     Beshentseva/Vazquez  64 61
+     16     Givone/Zhou          def.     Landells/Roarty      36 62 [5]
+     16 (3) Goetz/Li             def.     Franta/Henderson     61 60
+     16     Fordham/Plakk        def.     Ziehm/Kesterson      61 63
+     16 (2) Rigby/Christensen    def.     Bruno/Lee            60 61
+  > West
+     SF     Lee/Juan             def.     Fatemi/Cartledge     63 64
+     SF     Ziehm/Kesterson      def.     Franta/Henderson     60 60
+     QF     Fatemi/Cartledge     def.     Castellanos Caldero… 63 62
+     QF     Lee/Juan             def.     Beshentseva/Vazquez  63 64
+     QF     Franta/Henderson     def.     Landells/Roarty      75 62
+     QF     Ziehm/Kesterson      def.     Bruno/Lee            62 60
+  > North
+     SF (2) Rigby/Christensen    def. (3) Goetz/Li             63 75
+  > South
+     SF     Castellanos Caldero… def.     Beshentseva/Vazquez  16 61 [9]
+     SF     Landells/Roarty      def.     Bruno/Lee            60 62
+ > Naia
+  > East
+      F (1) Genovese/Fernandez   def. (3) Vidanovic/Coopersmi… 63 16 64
+     SF (1) Genovese/Fernandez   def. (4) Pichler/Lysykh       75 63
+     SF (3) Vidanovic/Coopersmi… def. (2) Quiceno/Petit        75 64
+     QF (1) Genovese/Fernandez   def.     Piccoliori/Puig Llo… 62 63
+     QF (4) Pichler/Lysykh       def.     Golz/Bemisderfer     26 63 [4]
+     QF (3) Vidanovic/Coopersmi… def.     Mendez/Dveksler      75 61
+     QF (2) Quiceno/Petit        def.     Teodoro De Oliveira… 61 63
+     16 (1) Genovese/Fernandez   def.     Gilich/Fernandez     62 61
+     16     Piccoliori/Puig Llo… def.     Muhammad/Clarke      46 63 [6]
+     16 (4) Pichler/Lysykh       def.     Carpenter/Vasquez    63 61
+     16     Golz/Bemisderfer     def.     Rinaldi/Weiland      61 64
+     16     Mendez/Dveksler      def.     Novati/Pinto         76(4) 62
+     16 (3) Vidanovic/Coopersmi… def.     Guerrero/Isaac       61 62
+     16     Teodoro De Oliveira… def.     Zavala/Lindeboom     61 63
+     16 (2) Quiceno/Petit        def.     Siska/Koplova        62 75
+  > West
+     SF     Carpenter/Vasquez    def.     Muhammad/Clarke      Walkover
+     QF     Muhammad/Clarke      def.     Gilich/Fernandez     Walkover
+     QF     Carpenter/Vasquez    def.     Rinaldi/Weiland      67(3) 61 [6]
+     QF     Novati/Pinto         def.     Guerrero/Isaac       36 76(4) [1]
+     QF     Zavala/Lindeboom      vs      Siska/Koplova        
+  > North
+     SF     Piccoliori/Puig Llo… def.     Golz/Bemisderfer     46 76(9) [9]
+     SF     Teodoro De Oliveira… def.     Mendez/Dveksler      75 36 [10]
+  > South
+     SF     Rinaldi/Weiland      def.     Gilich/Fernandez     Walkover
+ > Junior College
+  > East
+      F (1) Martins/Anzalotta    def. (2) McKenzie/Cherfus     62 26 64
+     SF (1) Martins/Anzalotta    def.     Carvalho-Landell/Ga… 62 61
+     SF (2) McKenzie/Cherfus     def. (3) Wild/Apisah          63 76
+     QF (1) Martins/Anzalotta    def.     Vossen/Proktor       60 60
+     QF     Carvalho-Landell/Ga… def. (4) Hernandez/Zungu      26 64 [8]
+     QF (3) Wild/Apisah          def.     Beukes/Chen          62 63
+     QF (2) McKenzie/Cherfus     def.     Warham/De Mata       62 62
+  > West
+      F (4) Hernandez/Zungu      def.     Beukes/Chen          62 60
+     SF (4) Hernandez/Zungu      def.     Vossen/Proktor       61 60
+     SF     Beukes/Chen          def.     Warham/De Mata       76(5) 62
+  > 3-4 Playoff
+      F (3) Wild/Apisah          def.     Carvalho-Landell/Ga… 76(4) 63
+  > South
+      F     Warham/De Mata       def.     Vossen/Proktor       61 62
 ~~~
 
 <a name="21-20820"></a>

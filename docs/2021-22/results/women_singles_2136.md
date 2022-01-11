@@ -4,6 +4,7 @@
 - 9/5/2021 - [Mary Hosking Invitational Tournament](#21-02759) ([Results](#21-02759) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7" target="_blank">Draws</a>)  
 - 9/10/2021 - [2021 Contender Crossfit Islander Open](#21-25876) ([Results](#21-25876) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityCorpusChristiW/Tournaments/Overview/88D2417A-460B-408A-9E50-7C7E5EE7478F" target="_blank">Draws</a>)  
 - 9/10/2021 - [Bill and Sandra Moore Invitational](#21-34233) ([Results](#21-34233) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/91B59866-0B48-4129-8FAE-B1A88BCD7896" target="_blank">Draws</a>)  
+- 9/11/2021 - [Liberty Invite](#21-48654) ([Results](#21-48654) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LibertyUniversityW/Tournaments/Overview/D66E087D-3234-4CE1-8D12-9CFE3EF5F621" target="_blank">Draws</a>)  
 - 9/10/2021 - [Siena Invitational](#21-93292) ([Results](#21-93292) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SienaCollegeM/Tournaments/Overview/AEE4CB67-713C-49E9-8A5A-8E2CCFC74D8E" target="_blank">Draws</a>)  
 - 9/10/2021 - [SIUE Cougar Invite](#21-66962) ([Results](#21-66962) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SouthernIllinoisUniversityEdwardsvilleW/Tournaments/Overview/49CD19F7-C361-46C8-9A0D-85DA79B24973" target="_blank">Draws</a>)  
 - 9/10/2021 - [Warhawk Invite](#21-43648) ([Results](#21-43648) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfLouisianaMonroeW/Tournaments/Overview/54708D1F-C66A-43B0-AD2A-D851EE9A1A35" target="_blank">Draws</a>)  
@@ -382,6 +383,63 @@
      QF  Lara Kaplan          def.  Ann Spurka           64 62
      QF  Rachel Buchinsky     def.  Dax Seidlin          Walkover
      QF  Abigail Moghtader    def.  Kacey Moore          64 64
+~~~
+
+<a name="21-48654"></a>
+~~~
+════════════════════════════════════════════════════════════════════════
+  Liberty Invite
+  Dates: Sep 11-12, 2021
+  Host: Liberty University (W)
+════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > LU vs ECU, WM vs MU
+  > Main
+     64  Martina Muzzolon     def.  Micaela Ode Mitre    75 64
+     64  Maria Juliana Parra… def.  Ines Bachir el Bouh… 61 63
+     64  Eloise Saraty        def.  Anne Lou Champion    46 61 [6]
+     64  Maretha Burger       def.  Alisa Diercksen      76(6) 60
+     64  Tiffany Nguyen       def.  Alisha Hussain       62 26 [2]
+     64  Bruna Sampaio        def.  Kara Joseph          76(4) 64
+     64  Mila Saric           def.  Madi Ballow          75 63
+     64  Emma Vanderheyden    def.  Hedda Gurholt        67(8) 63 [11]
+     64  Raffaela Alhach      def.  Gabrielle Clairotte  63 62
+     64  Elisa van Meeteren   def.  Sophia Hurrion       62 26 [7]
+     64  Lisa Fukutoku        def.  Jutte Van Hansewyck  75 46 [8]
+     64  Emma Fernald         def.  Rieke Gillar         61 60
+     64  Alisia Manolescu     def.  Liz Stefancic        64 76(6)
+     64  Aisling McGrane      def.  Kensie Cricchio      64 64
+ > LU vs MU, WM vs ECU
+  > Main
+     64  Alexandra Almborg    def.  Emma Vanderheyden    64 63
+     64  Esther Lovato        def.  Madi Ballow          46 63 [6]
+     64  Maria Juliana Parra… def.  Jutte Van Hansewyck  61 62
+     64  Tiffany Nguyen       def.  Gabrielle Clairotte  61 62
+     64  Eloise Saraty        def.  Sophia Hurrion       57 64 [7]
+     64  Micaela Ode Mitre    def.  Aisling McGrane      63 62
+     64  Liz Stefancic        def.  Bruna Sampaio        62 62
+     64  Maretha Burger       def.  Kara Joseph          60 61
+     64  Hedda Gurholt        def.  Martina Muzzolon     63 64
+     64  Ines Bachir el Bouh… def.  Elisa van Meeteren   16 61 [3]
+     64  Lisa Fukutoku        def.  Anne Lou Champion    46 63 [6]
+     64  Emma Fernald         def.  Alisha Hussain       60 26 [6]
+     64  Alisia Manolescu     def.  Alisa Diercksen      60 61
+     64  Rieke Gillar         def.  Kensie Cricchio      75 62
+ > LU vs WM, MU vs ECU
+  > Main
+     64  Mila Saric           def.  Tiffany Nguyen       61 64
+     64  Hedda Gurholt        def.  Maretha Burger       61 63
+     64  Alexandra Almborg    def.  Raffaela Alhach      61 61
+     64  Elisa van Meeteren   def.  Micaela Ode Mitre    63 75
+     64  Esther Lovato        def.  Lisa Fukutoku        60 62
+     64  Maria Juliana Parra… def.  Emma Fernald         Walkover
+     64  Alisia Manolescu     def.  Bruna Sampaio        63 63
+     64  Kensie Cricchio      def.  Elsa Kirch           60 60
+     64  Eloise Saraty        def.  Jutte Van Hansewyck  62 36 [7]
+     64  Martina Muzzolon     def.  Madi Ballow          64 62
+     64  Emma Vanderheyden    def.  Ines Bachir el Bouh… 61 26 [5]
+     64  Liz Stefancic        def.  Anne Lou Champion    16 62 [2]
+     64  Alisha Hussain       def.  Gabrielle Clairotte  63 75
 ~~~
 
 <a name="21-93292"></a>

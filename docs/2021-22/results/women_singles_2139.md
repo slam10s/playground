@@ -11,6 +11,7 @@
 - 9/24/2021 - [Division III Women's Northwest ITA Regional Championships](#21-04287) ([Results](#21-04287) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityW/Tournaments/Overview/9C28E830-6094-4EEB-9DA2-EB83C149B4FF" target="_blank">Draws</a>)  
 - 9/25/2021 - [Division III Women's Southeast ITA Regional Championships](#21-12873) ([Results](#21-12873) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfMaryWashingtonW/Tournaments/Overview/CEC122F0-9AF9-4078-ADA9-EC78F5F83828" target="_blank">Draws</a>)  
 - 10/1/2021 - [Barb Chandler Classic](#21-63890) ([Results](#21-63890) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BoiseStateUniversityW/Tournaments/Overview/88302122-9593-4E3B-B392-8D6982533991" target="_blank">Draws</a>)  
+- 10/1/2021 - [Belmont Fall Invitational](#21-67194) ([Results](#21-67194) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/F64ABCC8-8641-4B61-B7D4-452175BF749F" target="_blank">Draws</a>)  
 - 9/27/2021 - [BU Invitational](#21-87840) ([Results](#21-87840) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BostonUniversityW/Tournaments/Overview/22EC5CF0-0A05-493E-B420-87938B3E4B6A" target="_blank">Draws</a>)  
 - 10/2/2021 - [Butler Tournament](#21-66816) ([Results](#21-66816) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ButlerUniversityW/Tournaments/Overview/45538F4F-967B-4406-89E5-E45D5C87331B" target="_blank">Draws</a>)  
 - 10/1/2021 - [Eagles Invitational](#21-42606) ([Results](#21-42606) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternMichiganUnivW/Tournaments/Overview/47B6E347-F9DC-455F-9E51-1E407EB949E4" target="_blank">Draws</a>)  
@@ -36,6 +37,7 @@
 - 10/1/2021 - [Division III Women's New England ITA Regional Championships](#21-20521) ([Results](#21-20521) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeW/Tournaments/Overview/3B5237BF-4437-4D8F-A92E-E64729597B7D" target="_blank">Draws</a>)  
 - 10/1/2021 - [Division III Women's South ITA Regional Championships](#21-21997) ([Results](#21-21997) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/SewaneeUOfTheSouthW/Tournaments/Overview/444BCEF3-8673-4922-AB1D-45C355E8DE28" target="_blank">Draws</a>)  
 - 9/30/2021 - [Division III Women's Southwest ITA Regional Championships](#21-36423) ([Results](#21-36423) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfStThomasHoustonW/Tournaments/Overview/39873211-F8A9-40EA-B250-F23B1167F8F3" target="_blank">Draws</a>)  
+- 10/1/2021 - [Junior College Men's and Women's Northern California ITA Regional Championships](#21-76964) ([Results](#21-76964) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AmericanRiverCollegeM/Tournaments/Overview/2B050623-25A8-4971-8174-FC551F6E2CA5" target="_blank">Draws</a>)  
 - 9/29/2021 - [Junior College Men's and Women's Southern ITA Regional Small College Championships](#21-84365) ([Results](#21-84365) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/JonesCollegeM/Tournaments/Overview/A4DBCAB5-789A-48A4-9899-225101F7D5FB" target="_blank">Draws</a>)  
 - 10/1/2021 - [NAIA Men's & Women’s Gulf ITA Regional Championships](#21-33851) ([Results](#21-33851) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/XavierUniversityLAM/Tournaments/Overview/18F4C7BC-E3AD-49F2-95DA-CEACA812C691" target="_blank">Draws</a>)  
 - 9/29/2021 - [NAIA Men’s & Women's Midwest ITA Regional Championships](#21-24046) ([Results](#21-24046) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IndianaWesleyanUniversityM/Tournaments/Overview/F55D5463-BF71-42B4-90FF-EF8B87371ED1" target="_blank">Draws</a>)  
@@ -1319,6 +1321,71 @@
      R1  Nicole Discenza      def.  Jayanne Palma        64 75
 ~~~
 
+<a name="21-67194"></a>
+~~~
+═══════════════════════════════════════════════════════════════════════
+  Belmont Fall Invitational
+  Dates: Oct 1-3, 2021
+  Host: Belmont University (M)
+═══════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Belmont vs. Lipscomb
+  > Main
+     16  Lauren Carelli       def.  Tully Richter        63 46 76(3)
+     16  Meredith Roberts     def.  Anja Trbeznik        62 64
+     16  Peyton Lee           def.  Maddox Bandy         75 63
+     16  Sasha Dobranos       def.  Somer Henry          64 64
+     16  Abigail Solomon      def.  Liza Diachenko       75 63
+     16  Eleanor Chapman      def.  Alyssa Getty         64 36 75
+     16  Perri Howard         def.  Taylor Trondson      57 62 76(3)
+     16  Anastasiya Zholdako… def.  Kate Popova          64 36 63
+ > Murray State vs. North Alabama
+  > Main
+     16  Natalie Slezakova    def.  Payton Andrews       64 62
+     16  Gabrielle Geolier    def.  Makayla Loubser      63 61
+     16  Paola Silva Campigo… def.  Nicole Reilly        64 61
+     16  Marit Kreugel        def.  Lee-Taylor Bishop    61 60
+     16  Kalais Going         def.  Jordina Font Montero 46 64 64
+     16  Annika Pschorr       def.  Sydney Flesch        36 75 64
+     16  Sarah Bureau         def.  Juliette Talieu      60 64
+ > Lipscomb vs. North Alabama
+  > Main
+     16  Payton Andrews       def.  Anja Trbeznik        62 75
+     16  Maddox Bandy         def.  Nicole Reilly        62 61
+     16  Kalais Going         def.  Liza Diachenko       60 62
+     16  Lee-Taylor Bishop    def.  Perri Howard         46 61 [2]
+     16  Eleanor Chapman      def.  Makayla Loubser      75 62
+     16  Sasha Dobranos       def.  Sydney Flesch        64 26 [4]
+     16  Juliette Talieu      def.  Kate Popova          63 36 [6]
+ > Belmont vs. North Alabama
+  > Main
+     16  Taylor Trondson      def.  Nicole Reilly        75 60
+     16  Peyton Lee           def.  Juliette Talieu      63 26 [6]
+     16  Abigail Solomon      def.  Kalais Going         75 62
+     16  Makayla Loubser      def.  Alyssa Getty         63 62
+     16  Somer Henry          def.  Sydney Flesch        76(4) 64
+     16  Payton Andrews       def.  Lauren Carelli       62 62
+ > Lipscomb vs. Murray State
+  > Main
+     16  Natalie Slezakova    def.  Liza Diachenko       63 60
+     16  Marit Kreugel        def.  Maddox Bandy         62 64
+     16  Annika Pschorr       def.  Anja Trbeznik        61 64
+     16  Tully Richter        def.  Paola Silva Campigo… 75 61
+     16  Sarah Bureau         def.  Kate Popova          60 63
+     16  Sasha Dobranos       def.  Anastassiya Sharapo… 63 67(4) [9]
+     16  Jordina Font Montero def.  Perri Howard         64 61
+     16  Gabrielle Geolier    def.  Eleanor Chapman      64 63
+ > Belmont vs. Murray State
+  > Main
+     16  Marit Kreugel        def.  Peyton Lee           61 46 63
+     16  Jordina Font Montero def.  Lauren Carelli       62 63
+     16  Anastassiya Sharapo… def.  Somer Henry          64 64
+     16  Sarah Bureau         def.  Anastasiya Zholdako… 61 60
+     16  Gabrielle Geolier    def.  Taylor Trondson      63 62
+     16  Paola Silva Campigo… def.  Alyssa Getty         75 64
+     16  Abigail Solomon      def.  Annika Pschorr       46 63 76(3)
+~~~
+
 <a name="21-87840"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════════
@@ -2292,7 +2359,7 @@
      QF  Carly Briggs         def.  Mariana Manyoma Vel… 60 63
      16  Lucia Quiterio       def.  Mia Rabinowitz       62 60
      16  Sydney Berlin        def.  Miska Kadleckova     63 75
-     16  Kelly Chen           def.  Saby Nihalani        61 63
+     16  Kelly Chen           def.  Sabhyata Nihalani    61 63
      16  Tatsiana Sasnouskaya def.  Maia Sung            46 61 76(2)
      16  Christina Hand       def.  Yu Chen              26 76(7) 76(9)
      16  Mariana Manyoma Vel… def.  Sofia Munera         Default
@@ -2301,7 +2368,7 @@
       F  Miska Kadleckova     def.  Maia Sung            46 63 76(8)
      SF  Miska Kadleckova     def.  Mia Rabinowitz       61 61
      SF  Maia Sung            def.  Kacie Harvey         Default
-     QF  Miska Kadleckova     def.  Saby Nihalani        57 64 76(4)
+     QF  Miska Kadleckova     def.  Sabhyata Nihalani    57 64 76(4)
      QF  Maia Sung            def.  Yu Chen              76(9) 26 76(8)
   > North
       F  Lucia Quiterio       def.  Christina Hand       64 63
@@ -2310,7 +2377,7 @@
   > 3-4 Playoff
       F  Kelly Chen           def.  Tatsiana Sasnouskaya Default
   > South
-      F  Yu Chen              def.  Saby Nihalani        63 16 76(4)
+      F  Yu Chen              def.  Sabhyata Nihalani    63 16 76(4)
   > Southwest
       F  Kacie Harvey         def.  Mia Rabinowitz       62 62
   > Northwest
@@ -2357,7 +2424,7 @@
  > Extra Matches
   > Main
      QF  Stephanie Schrage    def.  Nina Geissler        16 64 76(7)
-     QF  Sofia Cabezas        def.  Saby Nihalani        63 63
+     QF  Sofia Cabezas        def.  Sabhyata Nihalani    63 63
      QF  Ruxi Schech          def.  Amber ODell          64 64
      QF  Raffaela Alhach      def.  Sara McClure         61 62
 ~~~
@@ -3931,6 +3998,48 @@
       QF      Emma Boulanger       def.  (2) Hannah Keltner       36 64 [7]
       16      Daniella Rodriquez   def.      Elena Aventa         62 63
       16      McKenzie Carroll     def.      Clara Brisman        62 63
+~~~
+
+<a name="21-76964"></a>
+~~~
+═════════════════════════════════════════════════════════════════════════════════
+  Junior College Men's and Women's Northern California ITA Regional Championships
+  Dates: Oct 1-3, 2021
+  Host: American River College (M)
+═════════════════════════════════════════════════════════════════════════════════
+ Women's Open Singles
+ > Draw
+  > Main
+      F (4) Carla Montaruli   def. (2) Bailey Greenwell  63 64
+     SF (4) Carla Montaruli   def. (1) Seraphine Vossen  62 62
+     SF (2) Bailey Greenwell  def. (3) Abigail Proktor   63 61
+     QF (1) Seraphine Vossen  def. (6) Sonya Hu          62 60
+     QF (4) Carla Montaruli   def. (5) Brunia Boliscar   63 62
+     QF (3) Abigail Proktor   def.     Sarah White       60 63
+     QF (2) Bailey Greenwell  def.     Katelyn Crismon   60 63
+     16 (1) Seraphine Vossen  def.     Halie Gregory     62 60
+     16 (6) Sonya Hu          def.     Sarah Crismon     61 60
+     16 (5) Brunia Boliscar   def. (8) Sofia Mazzola     60 75
+     16 (4) Carla Montaruli   def.     Michaela Llewelyn 62 60
+     16 (3) Abigail Proktor   def.     Gisseli Aguilar   60 60
+     16     Sarah White       def.     Anahi Soto        61 60
+     16     Katelyn Crismon   def. (7) Haley VanOrman    75 60
+     16 (2) Bailey Greenwell  def.     Tayla Barry       60 60
+     32 (1) Seraphine Vossen  def.     Jasmine Pearson   60 60
+     32     Halie Gregory     def.     Sarah Reade       61 62
+     32     Sarah Crismon     def.     Calista McShane   36 64 [4]
+     32 (6) Sonya Hu          def.     Melanie Mestre    60 60
+     32 (5) Brunia Boliscar   def.     Nea Kk            60 60
+     32 (8) Sofia Mazzola     def.     Natasha Sackx     60 61
+     32     Michaela Llewelyn def.     Kendra Branch     46 62 [5]
+     32 (4) Carla Montaruli   def.     Saige Fleming     61 61
+     32 (3) Abigail Proktor   def.     McKenna Rennoult  60 61
+     32     Gisseli Aguilar   def.     Emily Cowan       61 63
+     32     Sarah White       def.     Jori Jacobs       63 64
+     32 (7) Haley VanOrman    def.     Emily Laursen     61 61
+     32     Katelyn Crismon   def.     Mira Espino       62 62
+     32     Tayla Barry       def.     Emilia White      60 62
+     32 (2) Bailey Greenwell  def.     Brianna Nguyen    61 60
 ~~~
 
 <a name="21-84365"></a>

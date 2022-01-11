@@ -3,9 +3,6 @@
 **Tournamets with Matches**  
 - 1/8/2022 - [HBCU National Tennis Championships](#22-19950) ([Results](#22-19950) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/59950F75-0B30-471A-A377-40A46ACEE186" target="_blank">Draws</a>)  
 
-**Tournaments without Matches**  
-- 1/6/2022 - <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfHawaiiW/Tournaments/Overview/6E37FBB1-7217-4C86-803F-7B9EB940030E" target="_blank">Weinman Foundation Tournament</a>  
-
 <a name="22-19950"></a>
 ~~~
 ═══════════════════════════════════════════════════════════════════

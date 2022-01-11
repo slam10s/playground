@@ -28,6 +28,7 @@
 - 9/24/2021 - [Division III Men's South ITA Regional Championships](#21-74251) ([Results](#21-74251) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BerryCollegeM/Tournaments/Overview/CC92D4A0-BB0F-49D9-B0D3-36812E68174B" target="_blank">Draws</a>)  
 - 9/23/2021 - [Division III Men's Southwest ITA Regional Championships](#21-59346) ([Results](#21-59346) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TrinityUniversityM/Tournaments/Overview/7E4A065E-3568-4C36-BAA5-012DA232FED0" target="_blank">Draws</a>)  
 - 9/24/2021 - [Division III Men’s New England ITA Regional Championships](#21-19898) ([Results](#21-19898) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/BowdoinCollegeM/Tournaments/Overview/32495C08-214F-4BEB-9F2E-E234A71A4941" target="_blank">Draws</a>)  
+- 9/24/2021 - [Junior College Men's and Women's Central ITA Regional Championships](#21-33883) ([Results](#21-33883) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CowleyCountyCCM/Tournaments/Overview/BC95B2DD-9F42-4CC1-B3FD-B28A7F6354E1" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Southeast ITA Regional Championships](#21-59818) ([Results](#21-59818) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/AbrahamBaldwinCollegeM/Tournaments/Overview/0C49FE79-13DE-4D89-BE12-0363D7D96FAE" target="_blank">Draws</a>)  
 - 9/24/2021 - [Junior College Men's and Women's Southwest ITA Regional Small College Championships](#21-74781) ([Results](#21-74781) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/TylerJrCollegeM/Tournaments/Overview/AFDCB501-9485-41C1-8697-2065AFF6AC47" target="_blank">Draws</a>)  
 - 9/20/2021 - [Kenyon Invitation](#21-97262) ([Results](#21-97262) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/KenyonCollegeM/Tournaments/Overview/225A96CA-C1D5-49B4-A355-4BE8F3451F69" target="_blank">Draws</a>)  
@@ -1617,6 +1618,36 @@
      64     Portnoy/Anker        def.     Danielson/Zhou       80
      64     Schuermann/Henry     def.     Medvedev/Chong       87(11)
      64     Breuker/Golan        def.     Nelms/Xiao           82
+~~~
+
+<a name="21-33883"></a>
+~~~
+═════════════════════════════════════════════════════════════════════
+  Junior College Men's and Women's Central ITA Regional Championships
+  Dates: Sep 24-26, 2021
+  Host: Cowley County CC (M)
+═════════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Draw
+  > Main
+      F  Fisicaro/Krolo    def.  Bruno/Hirano         76(6) 62
+     SF  Bruno/Hirano      def.  Frequelin/Quaynor    83
+     SF  Fisicaro/Krolo    def.  Castillo/Erhardt     86
+     QF  Frequelin/Quaynor def.  Skierkier/Taco       98(3)
+     QF  Bruno/Hirano      def.  Vecchia/Gonzalez     84
+     QF  Fisicaro/Krolo    def.  Savary/Abamu         83
+     QF  Castillo/Erhardt  def.  Goncalves/Guyon      83
+     16  Frequelin/Quaynor def.  Devals/Mathis        83
+     16  Vecchia/Gonzalez  def.  Arrieta/Despontin    83
+     16  Bruno/Hirano      def.  Pires Do Prado Vale… 84
+     16  Savary/Abamu      def.  Praud/Laduree        84
+     16  Goncalves/Guyon   def.  Moyo/Sugiyama        98(6)
+  > Consolation
+      F  Arrieta/Despontin def.  Moyo/Sugiyama        83
+     SF  Arrieta/Despontin def.  Devals/Mathis        83
+     SF  Moyo/Sugiyama     def.  Praud/Laduree        82
+     QF  Devals/Mathis     def.  Skierkier/Taco       Walkover
+     QQ  Arrieta/Despontin def.  Pires Do Prado Vale… 82
 ~~~
 
 <a name="21-59818"></a>

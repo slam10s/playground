@@ -717,7 +717,7 @@
       32      Casie Wooten         def.      Hind Semlali         62 75
       32  (4) Abigail Rencheli     def.      Maggie Pate          62 63
       32      Eliza Omirou         def.      Ellie Schulson       64 62
-      32  (6) Anika Yarlagadda     def.      Saby Nihalani        62 62
+      32  (6) Anika Yarlagadda     def.      Sabhyata Nihalani    62 62
       32      Sibel Tanik          def.      Megan Hopton         61 61
       32  (2) Ayana Akli           def.      Anna Daniels         61 60
   > Consolation
@@ -734,7 +734,7 @@
      16Q      Lindsay Zink         def.      Kata Foldeak         61 62
      16Q      Ruxi Schech          def.      Cristina Mayorova    Walkover
      16Q      Hind Semlali         def.      Maggie Pate          63 63
-     16Q      Ellie Schulson       def.      Saby Nihalani        62 62
+     16Q      Ellie Schulson       def.      Sabhyata Nihalani    62 62
      16Q      Anna Daniels         def.      Megan Hopton         62 16 76(5)
  > B1
   > Main
@@ -804,10 +804,10 @@
       32 (12) Samantha Buyckx      def.      Mathilde Tranberg    62 63
       32  (5) Madison Dillon       def.      Maja Jekauc          67(4) 62 62
       32 (15) Megan Hopton         def.      Rachel Marthinsen    46 64 62
-      32  (2) Saby Nihalani        def.      Manon Delsol         61 60
+      32  (2) Sabhyata Nihalani    def.      Manon Delsol         61 60
       64  (1) Samantha Martinelli  def.      Brianna Wilbur       61 62
       64      Khyanna Singh        def.      Emma Heiderscheit    62 63
-      64      Miray Konar          def. (14) Maddie Lynch         63 16 64
+      64      Miray Konar          def. (14) Madeleine Lynch      63 16 64
       64      Kavya Patel          def.      Jade Houston         64 46 76(3)
       64  (8) Elise Mills          def.      Erika Dodridge       64 64
       64      Halli Trinkle        def.      Juliana Craft        63 63
@@ -836,16 +836,16 @@
       64      Rachel Marthinsen    def.      Hannah Gaines        60 60
       64 (15) Megan Hopton         def.      Jacy Smith           36 64 63
       64      Manon Delsol         def.      Lilie Steryous       46 64 62
-      64  (2) Saby Nihalani        def.      Lasya Patnaik        63 64
+      64  (2) Sabhyata Nihalani    def.      Lasya Patnaik        63 64
   > Consolation
        F      Lana Sipek           def.      Julie Ball           63 62
-      SF      Lana Sipek           def. (14) Maddie Lynch         64 61
+      SF      Lana Sipek           def. (14) Madeleine Lynch      64 61
       SF      Julie Ball           def.      Laura Marti          26 64 63
-      QF (14) Maddie Lynch         def.      Erika Dodridge       63 75
+      QF (14) Madeleine Lynch      def.      Erika Dodridge       63 75
       QF      Lana Sipek           def.      Raegan Mitchell      62 64
       QF      Laura Marti          def.      Karolina Berankova   64 22 Ret.
       QF      Julie Ball           def.      Lasya Patnaik        64 62
-      16 (14) Maddie Lynch         def.      Brianna Wilbur       61 36 61
+      16 (14) Madeleine Lynch      def.      Brianna Wilbur       61 36 61
       16      Erika Dodridge       def.      Liz Truluck          62 75
       16      Raegan Mitchell      def.      Anne Lou Champion    63 67(5) 64
       16      Lana Sipek           def.      Madalina Man         62 64
@@ -854,7 +854,7 @@
       16      Julie Ball           def.      Anna Uljanov         64 61
       16      Lasya Patnaik        def.      Jacy Smith           63 62
      32Q      Brianna Wilbur       def.      Emma Heiderscheit    16 63 64
-     32Q (14) Maddie Lynch         def.      Jade Houston         75 63
+     32Q (14) Madeleine Lynch      def.      Jade Houston         75 63
      32Q      Erika Dodridge       def.      Juliana Craft        63 75
      32Q      Liz Truluck          def.      Maria Jardim         63 61
      32Q      Raegan Mitchell      def.      Elin Hellberg        61 62
@@ -1414,7 +1414,7 @@
      128      Kenzington Mann      def.      Grace McSkimming     62 61
      128 (12) Hannah Viller Moell… def.      Marija Elenova       64 61
      128      Alba Pedrero Galindo def.      Olive Maunupau       60 62
-     128      Lene Hovda           def.      Maxine Murphy        61 61
+     128      Lene Hovda           def.      MAxine Murphy        61 61
      128      Yinglak Jittakoat    def.      Velizara Fileva      76(3) 64
      128  (8) Catherine Broerman   def.      Hikaru Sato          60 61
      128      Jennifer Kida        def.      Cami Brown           62 63
