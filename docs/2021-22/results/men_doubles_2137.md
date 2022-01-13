@@ -9,6 +9,7 @@
 - 9/17/2021 - [Dartmouth Invitational](#21-10750) ([Results](#21-10750) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DartmouthCollegeM/Tournaments/Overview/FB53D115-F7C3-43C7-9CAF-0B60D9E55E67" target="_blank">Draws</a>)  
 - 9/17/2021 - [Duke Bonk Invitational](#21-67582) ([Results](#21-67582) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/FFC0211B-E579-4EA7-9FE6-D4E9522C2014" target="_blank">Draws</a>)  
 - 9/17/2021 - [Easley Memorial](#21-68006) ([Results](#21-68006) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasM/Tournaments/Overview/B68941DD-7729-47AF-B246-A2BF80126384" target="_blank">Draws</a>)  
+- 9/16/2021 - [HBCU National Tennis Championships](#22-19950) ([Results](#22-19950) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/59950F75-0B30-471A-A377-40A46ACEE186" target="_blank">Draws</a>)  
 - 9/17/2021 - [Jersey Mike's Seahawk Fall Invitational](#21-41355) ([Results](#21-41355) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UNCWilmingtonM/Tournaments/Overview/B5F60616-E79D-49E3-B226-EA1A8F6D19C9" target="_blank">Draws</a>)  
 - 9/17/2021 - [Lakes Tennis Club Invite](#21-22672) ([Results](#21-22672) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/UniversityOfOklahomaM/Tournaments/Overview/C4392CA9-3D72-477E-9550-4FE92C5723E8" target="_blank">Draws</a>)  
 - 9/18/2021 - [Lehigh Men's Tennis Invite](#21-40280) ([Results](#21-40280) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/LehighUniversityM/Tournaments/Overview/DC12F12F-6866-4F1B-A1DE-CB27F27A4E6F" target="_blank">Draws</a>)  
@@ -359,6 +360,45 @@
      16 (3) Hollingworth/Trkulja def.     Blair/Scemanenco    84
      16     Grant/Van Zeggelaar  def.     Navarro/Hambrook    82
      16     Mariano/Novak        def.     Leather/Crookston   97
+~~~
+
+<a name="22-19950"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  HBCU National Tennis Championships
+  Dates: Sep 16-19, 2021
+  Host: ITA
+═══════════════════════════════════════════════════════════════════
+ Men's Open Doubles
+ > Flight A
+  > Main
+      F  Perez/Abdullah      def.  Pata/Andonov         63
+     SF  Pata/Andonov        def.  Arana Rios/Ntcha     62
+     SF  Perez/Abdullah      def.  Rodic/Dini           76(7)
+     QF  Arana Rios/Ntcha    def.  Rawal/Rachal         63
+     QF  Pata/Andonov        def.  Soria/Gamo           64
+     QF  Perez/Abdullah      def.  Carpenter/Rankins    64
+     16  Arana Rios/Ntcha    def.  Baran/Clarka         Walkover
+     16  Pata/Andonov        def.  Blocus/Brown         61
+     16  Carpenter/Rankins   def.  Newbold-Hudson/John… 60
+ > Flight B
+  > Main
+     SF  Bain/Ramirez        def.  Vargas/Agosto        76(3)
+     SF  Ray/Coiras          def.  Ruiz Crespo/Ikeda    75
+     QF  Vargas/Agosto       def.  Munoz/Mahajan        62
+     QF  Bain/Ramirez        def.  Saurombe/Chigaazira  62
+     QF  Ray/Coiras          def.  Hennebelle/Garah     62
+     QF  Ruiz Crespo/Ikeda   def.  Mulada/Lawrence      64
+     16  Vargas/Agosto       def.  Stojanovski/Bowe     63
+     16  Munoz/Mahajan       def.  Singh/Bokknight      62
+     16  Bain/Ramirez        def.  Gahlot/Chang         63
+     16  Saurombe/Chigaazira def.  Franco/Godoy         62
+     16  Ray/Coiras          def.  Madzar/Pino          Walkover
+     16  Hennebelle/Garah    def.  Lopez/Kawunde        62
+     16  Ruiz Crespo/Ikeda   def.  Larkin/Guinoo        60
+     16  Mulada/Lawrence     def.  Fernandez/Rocca      60
+     32  Singh/Bokknight     def.  Mitchell/Allen II    63
+     32  Ruiz Crespo/Ikeda   def.  Ngwarwi/Aleksic      61
 ~~~
 
 <a name="21-41355"></a>

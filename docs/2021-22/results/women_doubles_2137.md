@@ -8,6 +8,7 @@
 - 9/17/2021 - [Elon Invitational](#21-46904) ([Results](#21-46904) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/D341E105-6419-48B8-81B3-12C351B4C40A" target="_blank">Draws</a>)  
 - 9/17/2021 - [EMU Hidden Duals](#21-62496) ([Results](#21-62496) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/EasternMichiganUnivW/Tournaments/Overview/99EF6D1C-7CE5-429F-AB7E-DD49D74589AD" target="_blank">Draws</a>)  
 - 9/17/2021 - [Harvard Fall Classic Invite](#21-11230) ([Results](#21-11230) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/HarvardUniversityW/Tournaments/Overview/8403F31B-4EDA-4CF5-980B-3AFA6395FF9F" target="_blank">Draws</a>)  
+- 9/16/2021 - [HBCU National Tennis Championships](#22-19950) ([Results](#22-19950) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/59950F75-0B30-471A-A377-40A46ACEE186" target="_blank">Draws</a>)  
 - 9/17/2021 - [Hokie Fall Invite](#21-91737) ([Results](#21-91737) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/VirginiaTechW/Tournaments/Overview/ACE61305-F599-467B-BCC6-93D21D1C354A" target="_blank">Draws</a>)  
 - 9/17/2021 - [Idaho State Invite](#21-60419) ([Results](#21-60419) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/IdahoStateUniversityW/Tournaments/Overview/A09A4AF9-B31A-4CDC-A222-437B2830D744" target="_blank">Draws</a>)  
 - 9/17/2021 - [Lynn Stevens Invite](#21-42923) ([Results](#21-42923) &#124; <a href="https://colleges.wearecollegetennis.com/competitions/CoastalCarolinaUniversityW/Tournaments/Overview/74919BE2-BE17-4E9F-8752-0E9BA855D125" target="_blank">Draws</a>)  
@@ -410,6 +411,53 @@
      QF  Mulvey/Melendez     def.  Leschly/Huang       85
      QF  Gawande/Snyder      def.  Lindholm/Wright     84
      QF  Williams/Wu         def.  Warner/Migliorini   83
+~~~
+
+<a name="22-19950"></a>
+~~~
+═══════════════════════════════════════════════════════════════════
+  HBCU National Tennis Championships
+  Dates: Sep 16-19, 2021
+  Host: ITA
+═══════════════════════════════════════════════════════════════════
+ Women's Open Doubles
+ > Flight A
+  > Main
+     SF  Akinnibi/Niyonkuru   def.  Rose/Mitchell        61
+     SF  Kalawe-Edwards/Smith def.  Muhammad/Clarke      61
+     QF  Rose/Mitchell        def.  Konstantinova/Zhold… 63
+     QF  Akinnibi/Niyonkuru   def.  Molaoa/Jenkins       64
+     QF  Kalawe-Edwards/Smith def.  Boyd/Brown           61
+     QF  Muhammad/Clarke      def.  Hubeaut/Sandy        76(4)
+     16  Konstantinova/Zhold… def.  Raulerson/Leao       60
+     16  Molaoa/Jenkins       def.  Nealy/Sumaia         Walkover
+     16  Akinnibi/Niyonkuru   def.  Whyte/Arcarons       63
+     16  Kalawe-Edwards/Smith def.  Combest/Coleman      63
+     16  Boyd/Brown           def.  Smith/Thomas         62
+     16  Muhammad/Clarke      def.  Washington/Stewart   64
+     16  Hubeaut/Sandy        def.  Johnson/Stephenson   60
+ > Flight B
+  > Main
+     SF  Woods/Ruiz Diaz      def.  Ramos/Salem          Walkover
+     QF  Woods/Ruiz Diaz      def.  Machisa/Stanford     63
+     QF  Ramos/Salem          def.  Gomez/Follykoue      61
+     QF  Ghare/Duarte Ramirez def.  Manyonga/Kumari      64
+     QF  Porter/Harden        def.  Cardoso/Torrente     63
+     16  Woods/Ruiz Diaz      def.  Zelaya/Simms         75
+     16  Machisa/Stanford     def.  Edwards/Rodriguez    63
+     16  Gomez/Follykoue      def.  Copeland/Williams    76(2)
+     16  Ramos/Salem          def.  Clayton/Salinas      62
+     16  Manyonga/Kumari      def.  Grlj/Kaome           76(7)
+     16  Ghare/Duarte Ramirez def.  Idlette/Moffatt      60
+     16  Cardoso/Torrente     def.  Sorroche/Panauganti  62
+     16  Porter/Harden        def.  Alston/Izakova       63
+     32  Edwards/Rodriguez    def.  Blaha/Moreno         64
+     32  Gomez/Follykoue      def.  Alston/Riley-Codrin… 62
+     32  Clayton/Salinas      def.  Vincent/Mawisire     61
+     32  Ramos/Salem          def.  Largacha/Dixon       60
+     32  Manyonga/Kumari      def.  Finch/Dixon          64
+     32  Cardoso/Torrente     def.  Stephens/Candal      Walkover
+     32  Alston/Izakova       def.  Delgado/Kololo       62
 ~~~
 
 <a name="21-91737"></a>

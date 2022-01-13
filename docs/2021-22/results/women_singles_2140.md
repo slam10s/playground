@@ -787,7 +787,7 @@
      R1  Uxia Martinez Moral def.  Ashley Chang        61 63
  > UW vs WSU
   > Main
-     R1  Nika Zupancic       def.  MAxine Murphy       61 63
+     R1  Nika Zupancic       def.  Maxine Murphy       61 63
      R1  Zoey Weil           def.  Savanna Ly-Nguyen   63 76(8)
      R1  Tara Chilton        def.  Hania Abouelsaad    64 75
      R1  Sarah-Maude Fortin  def.  Fifa Kumhom         61 61
@@ -797,7 +797,7 @@
      R1  Myah Petchey        def.  Fifa Kumhom         62 62
      R1  Ares Teixido Garcia def.  Hania Abouelsaad    57 63 61
      R1  Michaela Bayerlova  def.  Misaki Kobayashi    60 61
-     R1  Lillian Mould       def.  MAxine Murphy       67(3) 64 76(3)
+     R1  Lillian Mould       def.  Maxine Murphy       67(3) 64 76(3)
      R1  Sophie Luescher     def.  Savanna Ly-Nguyen   64 60
  > UO vs DePaul
   > Main
@@ -819,7 +819,7 @@
      R1  Michaela Bayerlova  def.  Lenka Antonijevic   61 60
      R1  Savanna Ly-Nguyen   def.  Yuliya Kizelbasheva 63 63
      R1  Eleanor Nobbs       def.  Fifa Kumhom         75 61
-     R1  MAxine Murphy       def.  Madelyn Yergler     63 46 64
+     R1  Maxine Murphy       def.  Madelyn Yergler     63 46 64
      R1  Hania Abouelsaad    def.  Marija Jovicic      63 64
  > DePaul vs PSU
   > Main

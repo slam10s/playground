@@ -1414,7 +1414,7 @@
      128      Kenzington Mann      def.      Grace McSkimming     62 61
      128 (12) Hannah Viller Moell… def.      Marija Elenova       64 61
      128      Alba Pedrero Galindo def.      Olive Maunupau       60 62
-     128      Lene Hovda           def.      MAxine Murphy        61 61
+     128      Lene Hovda           def.      Maxine Murphy        61 61
      128      Yinglak Jittakoat    def.      Velizara Fileva      76(3) 64
      128  (8) Catherine Broerman   def.      Hikaru Sato          60 61
      128      Jennifer Kida        def.      Cami Brown           62 63
